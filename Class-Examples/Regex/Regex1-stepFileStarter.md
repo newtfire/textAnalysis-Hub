@@ -20,14 +20,19 @@ I set this to replace, so I could keep the first tag, and then add a new pair of
 At the very end of class, I manually set a root element around the entire document 
 ```
 <xml>
-   .....
+   <movie>...</movie>
+   <movie>....</movie>
+    <!--yada yada yada more code -->   
 </xml>
+```
+
 And I saved the file as movieData.xml.
 And I closed it.
 And I opened my new movieData.xml
 And I saw that it was giving me an error, because I forgot a very important step!
 XML is not allowed to contain raw ampersand characters `&`. 
 So I needed to find:
+
 ```
 &
 ```
