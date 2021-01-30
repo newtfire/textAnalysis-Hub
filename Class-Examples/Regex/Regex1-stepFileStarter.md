@@ -1,4 +1,4 @@
-# Regex Steps for Converting Movie Data XML
+# Regex Steps for Converting Movie Data From a tab-separated text file to XML
 
 First step, I used the following expression to find:
 ```
