@@ -3,12 +3,12 @@
 *To download a file without cloning or pulling in changes locally, navigate to the file on GitHub and on the right side near the top of the file's content click the button that gives you the "Raw" view of the file. From there you can copy and paste or right click and save.*
   
 ## Quick reference
-* Open terminal / command line shell
+* Open Git Bash command line shell (if Windows) or Terminal (if Mac or Linux)
 * Navigate to repo.
 * `git pull`
 * Make changes.
 * `git status` -- list of changes should be red
-* `git add -A` OR `git add .`
+* `git add -A` 
 * `git status` -- list of changes should be green
 * `git commit -m "message here"`
 * `git push`
@@ -45,8 +45,9 @@ This moves down into a directory.
 ```
 eeb4@salamander textAnalysis-Hub %  
 ```
+(If you're on a Mac you'll see a '%' sign at the end. If you're on Windows, you'll see something different.)
 
-Then to pull in any changes from the remote "mothership" repo, type:
+To pull in any changes from the remote "mothership" repo, type:
 ````
 git pull
 ```` 
@@ -56,7 +57,7 @@ git pull
 * Make sure you're in the textAnalysis-Hub repo at the top level
 * Then type:
 ````
-git add .
+git add -A
 ````
 The period means *all* -- as in add *all* new files to be tracked by Git.
 
@@ -128,7 +129,7 @@ Your team members should now do a `git pull` and pull in your resolution of the 
 * `git pull upstream master` (This pulls any changes that were made to the original repository since you last synced into your forked repository.)
 * Save changes / move files into directory through File Explorer / Finder
 * `git status` (shows the differences/changes between the master and your fork/branch -- should be red)
-* `git add .` OR `git add -A` (You're adding your changes to your branch.)
+* `git add -A` (You're adding your changes to your branch.)
 * `git status` (To see that you added your changes to your branch -- should be green.)
 * `git commit -m "your commit message here"` (Commits your changes to your branch with a message describing changes.)
 * `git status` (To see that your commit was successful and your branch is ahead of your remote fork.)

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xml>
+    <cardInfo color="green/black">
+    <cardName flip="yes">Garruk Relentless</cardName>
+    <cardName flip="yes">Garruk, the Veil-Cursed</cardName>
+    <cardType CT="PW">Legendary <loyalty n="3">Planeswalker</loyalty> — Garruk</cardType>
+    <cardMC>1 Green, 3 Colorless</cardMC>
+    <cardCMC amount="4">4</cardCMC>
+    <cardRarity>Mythic</cardRarity>
+    <cardExpansion date="9/22/2011">Innistrad</cardExpansion>
+    <cardArtist>Eric Deschamps</cardArtist>
+    </cardInfo>
+    
+    <cardText side="1">
+    <p effect="transform">When Garruk Relentless has two or fewer loyalty counters on him, transform him.</p>
+    <p effect="damage">0: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him.</p>
+    <p effect="token">0: Create a 2/2 green Wolf creature token.</p>
+    </cardText>
+    
+    <cardText side="2">
+        <p effect="token">+1: Create a 1/1 black Wolf creature token with deathtouch.</p>
+        <p effect="libSearch">−1: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.</p>
+        <p effect="trample">−3: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.</p>
+    </cardText>
+    
+    
+</xml>
