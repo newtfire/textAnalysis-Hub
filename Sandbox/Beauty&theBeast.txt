@@ -1,0 +1,1741 @@
+Beauty and the Beast
+The Complete Script
+
+Compiled by Ben Scripps <34rqnpq@cmuvm.csv.cmich.edu>
+
+NARRATOR:     Once upon a time, in a faraway land, a young prince lived in a
+              shining castle.  Although he had everything his heart desired,
+              the prince was spoiled, selfish, and unkind.  But then, one
+              winter's night, an old beggar woman came to the castle and
+              offered him a single rose in return for shelter from the bitter
+              cold. Repulsed by her haggard appearance, the prince sneered at
+              the gift and turned the old woman away, but she warned him not
+              to be deceived by appearances, for beauty is found within.  
+              And when he dismissed her again, the old woman's ugliness
+              melted away to reveal a beautiful enchantress.  The prince
+              tried to apologize, but it was too late, for she had seen that
+              there was no love in his heart, and as punishment, she
+              transformed him into a hideous beast, and placed a
+              powerful spell on the castle, and all who lived there.
+              Ashamed of his monstrous form, the beast concealed himself
+              inside his castle, with a magic mirror as his only window to
+              the outside world.  The rose she had offered was truly an
+              enchanted rose, which would bloom until his twenty-first
+              year.  If he could learn to love another, and earn her love in
+              return by the time the last petal fell, then the spell would
+              be broken.  If not, he would be doomed to remain a beast for
+              all time.  As the years passed, he fell into despair, and lost
+              all hope, for who could ever learn to love a beast?
+
+(We have seen a progression of stained glass windows illustrating the narration,
+as well as BEAST shredding his portrait.  The camera slowly zooms out from the
+castle and we see the title.  Fade up on the home of BELLE.  She exits the front
+door and begins her walk into town.)
+
+BELLE:        Little town, it's a quiet village
+              Every day, like the one before
+              Little town, full of little people
+              Waking up to say...
+
+TOWNSFOLK 1:  Bonjour!
+TOWNSFOLK 2:  Bonjour!
+TOWNSFOLK 3:  Bonjour! 
+TOWNSFOLK 4:  Bonjour!
+TOWNSFOLK 5:  Bonjour!
+BELLE:        There goes the baker with his tray like always
+              The same old bread and rolls to sell
+              Every morning just the same
+              Since the morning that we came
+              To this poor provincial town...
+BAKER:        Good morning, Belle!
+(BELLE jumps over to the bakery)
+BELLE:        Morning monsieur!
+BAKER:        Where are you off to?
+BELLE:        The bookshop! I just finished the most wonderful story, about
+              a beanstalk and an ogre and...
+BAKER:        (Ignoring her) That's nice...Marie, the baguettes! Hurry up!!
+TOWNSFOLK:    Look there she goes, that girl is strange no question
+              Dazed and distracted, can't you tell?
+WOMAN 1:      Never part of any crowd
+BARBER:       Cause her head's up on some cloud
+TOWNSFOLK:    No denying she's a funny girl, that Belle!
+(BELLE jumps on the back of a wagon and rides through town)
+DRIVER:       Bonjour!
+WOMAN 2:      Good day!
+DRIVER:       How is your family?
+
+WOMAN 3:      Bonjour!
+MERCHANT:     Good day!
+WOMAN 3:      How is your wife?
+
+WOMAN 4:      I need six eggs!
+MAN 1:        That's too expensive!
+BELLE:        There must be more than this provincial life!
+(BELLE enters the bookshop)
+BOOKSELLER:   Ah, Belle!
+BELLE:        Good morning.  I've come to return the book I borrowed.
+BOOKSELLER:   (Putting the book back on the shelf) Finished already?
+BELLE:        Oh, I couldn't put it down!  Have you got anything new?
+BOOKSELLER:   (laughing) Not since yesterday.
+BELLE:        (on ladder of bookshelf) That's all right.  I'll borrow...
+              this one.
+BOOKSELLER:   That one?  But you've read it twice!
+BELLE:        Well it's my favorite!  (BELLE swings off side of ladder,
+              rolling down it's track) Far off places, daring
+              swordfights, magic spells,  a prince in disguise!
+BOOKSELLER:   (handing her the book)  Well, if you like it all that much,
+              it's yours!
+BELLE:        But sir!
+BOOKSELLER:   I insist!
+BELLE:        Well thank you.  Thank you very much! (leaves bookshop)
+MEN:          (looking in window, then turning to watch her)
+              Look there she goes
+              That girl is so peculiar!
+              I wonder if she's feeling well!
+WOMEN:        With a dreamy far-off look!
+MEN:          And her nose stuck in a book!
+ALL           What a puzzle to the rest of us is Belle!
+(BELLE sits on the edge of a fountain, singing to the sheep and the washing
+woman in the background, who leaves)
+BELLE:        Oh! Isn't this amazing!
+              It's my favorite part because, you'll see!
+              Here's where she meets Prince Charming
+              But she won't discover that it's him 'til chapter three!
+
+WOMAN 5:      Now it's no wonder that her name means 'beauty'
+              Her looks have got no parallel!
+MERCHANT:     But behind that fair facade
+              I'm afraid she's rather odd
+              Very different from the rest of us... 
+ALL:          She's nothing like the rest of us
+              Yes different from the rest of us is Belle
+(GEESE flying overhead, one is shot and plummets to the ground.  LEFOU runs
+over, holds out the bag, and misses catching the prize.  He returns to GASTON)
+LEFOU:        Wow! You didn't miss a shot, Gaston!  You're the
+              greatest hunter in the whole world!
+GASTON:       I know!
+LEFOU:        Huh.  No beast alive stands a chance against
+              you...and no girl for that matter!
+GASTON:       It's true, Lefou, and I've got my sights set on that
+              one! (pointing to BELLE)
+LEFOU:        The inventor's daughter?
+GASTON:       She's the one!  The lucky girl I'm going to marry.
+LEFOU:        But she's--
+GASTON:       The most beautiful girl in town.
+LEFOU:        I know--
+GASTON:       And that makes her the best.  And don't I deserve the best?
+LEFOU:        Well of course, I mean you do, but I mean...
+GASTON:       Right from the moment when I met her, saw her
+              I said she's gorgeous and I fell
+              Here in town there's only she (BELLE walks by and away)
+              Who is beautiful as me
+              So I'm making plans to woo and marry Belle
+BIMBETTES:    Look there he goes, isn't he dreamy
+              Monsieur Gaston, oh he's so cute
+              Be still my heart, I'm hardly breathing
+              He's such a tall, dark, strong and handsome brute
+(BELLE walks easily through the crowd of people in the town, GASTON struggles to
+catch up to her)
+MAN 1:        Bonjour!
+GASTON:       Pardon!
+MAN 2:        Good day!
+MAN 3:        Mais oui!
+WOMAN 1:      You call this bacon?
+WOMAN 2:      What lovely grapes!
+MAN 4:        Some cheese!
+WOMAN 3:      Ten yards!
+MAN 4:        One pound
+GASTON:       'xcuse me!
+MAN 4:        I'll get the knife!
+GASTON:       Please let me through!
+WOMAN 4:      This bread!
+MAN 5:        Those fish!
+WOMAN 4:      It's stale!
+MAN 5:        They smell!
+MAN 6:        Madame's mistaken!
+BELLE:        There must be more than this provincial life!
+GASTON:       Just watch I'm going to make Belle my wife! (TOWNSFOLK gather
+              around GASTON, and eventually surround him)
+ALL:          Look there she goes a girl who's strange but special
+              A most peculiar mademoiselle
+              It's a pity and a sin
+              She doesn't quite fit in!
+GROUP 1:      But she really is a funny girl
+GROUP 2:      A beauty but a funny girl
+ALL:          She really is a funny girl! That Belle!
+
+GASTON:       Hello, Belle.
+BELLE:        Bonjour Gaston.  (GASTON grabs the book from BELLE) Gaston,
+              may I have my book, please?
+GASTON:       How can you read this? There's no pictures!
+BELLE:        Well, some people use their imaginations.
+GASTON:       Belle, it's about time you got your head out of those books
+              (tossing book into the mud)  and paid attention to more
+              important things...like me! The whole town's talking about
+              it.  (The BIMBETTES, who are looking on, sigh.  BELLE has
+              picked up the book and is cleaning off the mud)   It's not
+              right for a woman to read--soon she starts getting ideas...
+              and thinking.
+BELLE:        Gaston, you are positively primeval.
+GASTON:       (Putting his hand around her shoulders) Why thank you,
+              Belle.  Hey, whaddya say you and me take a walk over to
+              the tavern and have a look at my hunting trophies.
+BELLE:        Maybe some other time.
+BIMBETTE 1:   What's wrong with her?
+BIMBETTE 2:   She's crazy!
+BIMBETTE 3:   He's gorgeous!
+BELLE:        Please, Gaston. I can't.  I have to get home and help my
+              father.
+LEFOU:        Ha ha ha, that crazy old loon, he need all the help he can get!
+(GASTON and LEFOU laugh heartily)
+BELLE:        Don't you talk about my father that way!
+GASTON:       Yeah, don't talk about her father that way! (He conks LEFOU on
+              the head.)
+BELLE:        My father's not crazy!  He's a genius!  (Explosion in background.
+              GASTON and LEFOU continue laughing.  BELLE rushes home and
+              descends into the basement.)
+BELLE:        Papa?
+MAURICE:      How on earth did that happen? Dog gonnit! (He pulls the barrel
+              off his waist, along with his pants.)
+BELLE:        Are you all right, Papa?
+MAURICE:      I'm about ready to give up on this hunk of junk! (kicking
+              machine)
+BELLE:        You always say that.
+MAURICE:      I mean it, this time.  I'll never get this boneheaded contraption
+              to work.
+BELLE:        Yes, you will.  And you'll win first prize at the fair tomorrow
+MAURICE:      Hmmmph!
+BELLE:        ...and become a world famous inventor!
+MAURICE:      You really believe that?
+BELLE:        I always have.
+MAURICE:      Well, what are we waiting for.  I'll have this thing fixed in no
+              time.  (sliding under machine) Hand me that dog-legged clencher
+              there...  So, did you have a good time in town today?
+BELLE:        I got a new book.  Papa, do you think I'm odd?
+MAURICE:      My daughter?  Odd?  (Appears from under machine with bizarre
+              goggle contraption on his head distorting his eyes) Where would
+              you get an idea like that?
+BELLE:        Oh, I don't know.  It's just I'm not sure I fit in here.
+              There's no one I can really talk to.
+MAURICE:      What about that Gaston?  He's a handsome fellow!
+BELLE:        He's handsome all right, and rude and conceited and...Oh Papa,
+              he's not for me!
+MAURICE:      Well, don't you worry, cause this invention's going to be the
+              start of a new life for us.  (Comes out from under machine) I
+              think that's done it.  Now, let's give it a try.  (MACHINE
+              whirs and chops wood, just as it should)
+BELLE:        It works!
+MAURICE:      It does? It does!
+BELLE:        You did it!  You really did it!
+MAURICE:      Hitch up Phillipe, girl.  I'm off to the fair! (Log strikes
+              him in the head, knocking him out.  Fade to later in the day)
+
+BELLE:        Good bye, Papa! Good luck!
+MAURICE:      Good bye, Belle, and take care while I'm gone!
+(MAURICE and PHILLIPE continue on their journey until they become lost)
+MAURICE:      We should be there by now.  Maybe we missed a turn. I guess I
+              should have taken a...wait a minute.  (Lifts lantern to
+              illuminate sign giving directions to Anaheim and Valencia)
+              Let's go this way!
+(PHILLIPE looks right, at a dark, overgrown path, then left towards a more
+inviting route, then begins to go left)
+MAURICE:      Come on, Phillipe!  It's a shortcut.  We'll be there in no time!
+(PHILLIPE and MAURICE continue through the dark.)
+MAURICE:      This can't be right.  Where have you taken us, Phillipe?  We'd
+              better turn around...and...whoa...whoa boy, whoa Phillipe. Oh,
+              oh! Look out!
+(A swarm of bats fly out of a tree.  PHILLIPE runs through the forest avoiding
+everything until he almost runs over the edge of a cliff)
+MAURICE:      Back up! Back up! Back up! Good boy, good boy. That's good,
+              that's--back up!  Steady. Steady!  Hey now. Steady. (PHILLIPE
+              finally bucks him off.) Phillipe!  (PHILLIPE runs away, leaving
+              MAURICE on the edge of the cliff.) Phillipe?  Oh no! (He looks
+              up and sees WOLVES growling at him.  MAURICE runs away, being
+              chased by the WOLVES.  He stumbles down a hill, and lands at the
+              gate of a castle. He grabs the locked gate and tries to shake it
+              open.)
+MAURICE:      Help!  Is someone there?
+(The gate opens, and MAURICE runs in. He slams the gate in the faces of the
+WOLVES.  Leaving his hat on the ground as the rain begins to fall, MAURICE runs
+to the castle and bangs on the door.  It creaks open and he enters, cautiously.)
+MAURICE:      Hello? Hello?
+(Watching from a table near the entrance are LUMIERE and COGSWORTH)
+LUMIERE:      (Barely whispering) Old fellow must have lost his way in the
+woods.
+COGSWORTH:    (Also whispering) Keep quiet!  Maybe he'll go away.
+MAURICE:      Is someone there?
+COGSWORTH:    Not a word, Lumiere. Not one word!
+MAURICE:      I don't mean to intrude, but I've lost my horse and I need a place
+              to stay for the night.
+LUMIERE:      (looking at COGSWORTH like a child having just found a lost puppy)
+              Oh Cogsworth, have a heart.
+COGSWORTH:    Shush shush shhhhh!  (COGSWORTH puts hand over LUMIERE'S mouth,
+              who promptly proceeds to touch his lit candle hand to COGSWORTH's
+              hand.)
+              Ow ow Ow OW OW OUCH!!!!!
+LUMIERE:      Of course, monsieur, you are welcome here.
+MAURICE:      (looking around in confusion)  Who said that?  (He picks up the
+              candlestick for light, not realizing that the speaker is in his
+              hand)
+LUMIERE:      (Tapping him on the shoulder)  Over here!
+MAURICE:      (Spins around, pulling LUMIERE to the other side) Where?
+LUMIERE:      (Taps MAURICE on the side of the head.  MAURICE looks at LUMIERE.)
+              Allo!
+MAURICE:      Oh!!!! (Startled, he drops LUMIERE onto the floor.)  Incredible!
+COGSWORTH:    (hopping over)  Well, now you've done it, Lumiere. Splendid,
+              just peachy--aaarrrgghh!  (MAURICE picks up COGSWORTH)
+MAURICE:      How is this accomplished? (He fiddles with COGSWORTH)
+COGSWORTH:    Put me down! At once!  (MAURICE tickles the bottoms of
+              COGSWORTH's feet. He laughs.  He begins to wind the spring on
+              the back of COGSWORTH's head, twisting his face around with the
+              clock hands. MAURICE opens the front of COGSWORTH and begins
+              to play with his pendulum. COGSWORTH slams the door shut on
+              his finger.) Sir, close that at once, do you mind!
+MAURICE:      I beg your pardon, it's just that I've never seen a clock
+              that...aah...i mean...aah aah aah-chooo!!!! (MAURICE sneezes in
+              the face of COGSWORTH, who proceeds to wipe his face off using
+              his clock hands in a very anachronistic windshield wiper manner.
+              MAURICE sniffles, indicating the cold he has caught from being
+              in the rain.)
+LUMIERE:      Oh, you are soaked to the bone, monsieur.  Come, warm yourself by
+              the fire.
+MAURICE:      Thank you.
+(LUMIERE and MAURICE head towards the den, with COGSWORTH running after them.)
+COGSWORTH:    No, no, no, do you know what the master would do if he finds you
+              here. (BEAST is watching the action from an overhead walkway,
+              and rushes off as the trio enters the den.)  I demand that you
+              stop...right...there! (COGSWORTH tumbles down the steps. MAURICE
+              takes a seat in a large chair in front of a roaring fire.)  Oh
+              no, not the master's chair! (FOOTSTOOL rushes past COGSWORTH,
+              barking up a storm.) I'm not seeing this, I'm not seeing this!
+MAURICE:      (As FOOTSTOOL rushes up to him) Well, hello there, boy. (FOOTSTOOL
+              props himself up under the feet of MAURICE.  COATRACK enters and
+              removes his cloak.) What service!
+COGSWORTH:    All right, this has gone far enough.  I'm in charge here, and
+              (COGSWORTH  is run over by the (once again) anachronistic
+              IndyCar sounding teacart of MRS. POTTS)
+MRS. POTTS:   (Arriving by the side of MAURICE) How would you like a nice
+              spot of tea, sir?  It'll warm you up in no time. (Pours tea into
+              cup (CHIP), which hops over into MAURICE's open hand)
+COGSWORTH:    (from face down position on carpet) No! No tea, no tea!!!
+CHIP:         (As MAURICE sips the tea)  Ha ha!  His moustache tickles, momma!
+MAURICE:      (Startled by the cup) Oh!  Hello!
+(The door to the den slams open and a strong gust of wind blows into the room,
+extinguishing LUMIERE's flames and the fire in the fireplace.  COGSWORTH dives
+for cover.  MRS. POTTS begins to shake.  CHIP jumps back onto the tea cart and
+takes refuge from behind his mother)
+CHIP:         Uh oh!
+(BEAST enters.  We see him in full for the first time.  He is on all fours.  He
+looks around in the darkness.)
+BEAST:        (Growling his words)  There's a stranger here.
+LUMIERE:      (who has relit his flames) Master, allow me to explain.  The
+              gentleman was lost in the woods and he was cold and wet...
+              (LUMIERE's last sentence is drowned out by the very loud growl
+              of BEAST, which puts out his flames once again.  LUMIERE looks
+              down, dejected.)
+COGSWORTH:    (Coming out from under a rug) Master, I'd like to take this
+              moment to say...I was against this from the start.  I tried to
+              stop them, but would they listen to me?  No, no, no! (Again,
+              BEAST's growl drowns out COGSWORTH.)
+(MAURICE looks to one side of the chair, then to the other and sees BEAST.)
+BEAST:        Who are you!  What are you doing here?
+MAURICE:      (Very scared and backing away from the advancing BEAST) I was lost
+              in the woods and...(stares at BEAST)
+BEAST:        (Advancing on him) You are not welcome here!
+MAURICE:      I'm sorry
+BEAST:        What are you staring at?
+MAURICE:      (Cowering under BEAST) Noth-noth-nothing! (Turns to leave)
+BEAST:        (Racing around and blocking the entrance with surprising speed)
+              So, you've come to stare at the beast, have you?
+MAURICE:      Please, I meant no harm! I just needed a place to stay .
+BEAST:        I'll give you a place to stay!  (BEAST picks up MAURICE, carries
+              him out of the room and slams the door, plunging the den, along
+              with COGSWORTH, LUMIERE,MRS. POTTS, and CHIP into  darkness.
+              Fade out.)
+
+(Fade in to BELLE's cottage, seen from POV of GASTON and LEFOU.)
+LEFOU:        Heh! Oh boy! Belle's gonna get the surprise of her life,  huh
+              Gaston.
+GASTON:       Yep.  This is her lucky day!
+(GASTON lets go of a branch, which swings back and hits LEFOU in the mouth.
+GASTON turns to the band, wedding guests and others, apparently just out of
+sight of BELLE's cottage.)
+GASTON:       I'd like to thank you all for coming to my wedding.  But first, I
+              better go in there and... propose to the girl!  (MINISTER, BAKER,
+              and OTHERS laugh heartily.  Camera pans quickly to show BIMBETTES
+              crying their eyes out.  To LEFOU) Now, you Lefou.  When Belle and
+              I come out that door--
+LEFOU:        Oh I know, I know! (He turns and begins directing the band in
+              "Here Comes the Bride." GASTON slams a baritone over his head.)
+GASTON:       Not yet!
+LEFOU:        (From inside the instrument, with his lips sticking out the
+              mouthpiece) Sorry!
+(Cut to interior of cottage.  BELLE is sitting in a chair reading her new book.
+There is a knock at the door.  She puts the book down and walks to the door.
+She reaches up and pulls down a viewing device.  She peeks through and sees an
+anachronistically accurate fish-eye view of GASTON.  She moans, and pushes the
+door open.)
+BELLE:        Gaston, what a pleasant...surprise.
+GASTON:       Isn't it though? I'm just full of surprises.  You know, Belle.
+              There's not a girl in town who wouldn't love to be in your shoes.
+              This is the day...(GASTON pauses by a mirror and licks his teeth
+              clean.) This is the day your dreams come true.
+BELLE:        What do you know about my dreams, Gaston?
+GASTON:       Plenty.  Here, picture this.  (GASTON plops down in the chair and
+              props his mud-covered feet up on BELLE's book. He begins to kick
+              off his boots and wiggle his toes through his hole-y socks.)  A
+              rustic hunting lodge, my latest kill roasting on the fire, and my
+              little wife, massaging my feet, while the little ones play with
+              the dogs.  (BELLE looks positively disgusted.  GASTON gets up
+              next to her face.)  We'll have six or seven.
+BELLE:        Dogs?
+GASTON:       No, Belle!  Strapping boys, like me!
+BELLE:        Imagine that. (She picks up her book, places a mark in it, and
+              puts it on the shelf.)
+GASTON:       And do you know who that wife will be?
+BELLE:        Let me think.
+GASTON:       (Corners BELLE ) You, Belle!
+BELLE:        (Ducking under GASTON'S arms) Gaston, I'm speechless.  I really
+              don't know what to say.
+GASTON:       (Pushing chairs and things out of the way until he reaches BELLE
+              and traps her against the door) Say you'll marry me.
+BELLE:        (Reaching for the doorknob) I'm very sorry, Gaston, but I just
+              don't deserve you. (She twists the knob and the door opens (this
+              time outward).  BELLE ducks under GASTON as he tumbles out the
+              door and into the mud.)
+(The wedding band begins to play "Here Comes the Bride."  GASTON's boots are
+thrown out of the door (now opened inward) and the door is slammed shut.  LEFOU,
+who is directing the band, looks down and sees GASTON's legs sticking out of the
+mud, and a PIERRE's head sticking up.  LEFOU cuts off the band, and GASTON's
+head pops up, with the pig on top of him.  He tilts his head, and the pig slides
+down his back.)
+LEFOU:        So, how'd it go?
+GASTON:       (Picks up LEFOU by the neck) I'll have Belle for my wife, make no
+              mistake about that! (GASTON drops LEFOU into the mud.)
+LEFOU:        (To PIERRE) Touchy!
+PIERRE:       Grunt Grunt.
+(GASTON walks off, dejected, and the focus returns to the cottage. BELLE pokes
+her head out the door.)
+BELLE:        (To the chickens) Is he gone? Can you imagine, he asked me to
+              marry him.  Me, the wife of that
+              boorish, brainless...
+              Madame Gaston, can't you just see it
+              Madame Gaston, his little wife
+              Not me, no sir, I guarantee it
+              I want much more than this provincial life...
+(BELLE walks into the pen and feeds the animals, then runs off singing into an
+open field overlooking a beautiful valley)
+              I want adventure in the great wide somewhere
+              I want it more than I can tell
+              And for once it might be grand
+              To have someone understand
+              I want so much more than they've got planned
+(PHILLIPE runs into the open field. BELLE looks at him, disturbed that MAURICE
+is not with him.)
+
+BELLE:        Phillipe!  What are you doing here?   Where's Papa? Where is he,
+              Phillipe?  What happened? Oh, we have to find him, you have to
+              take me to him!
+(BELLE unhitches the wagon from PHILLIPE.  Cut to exterior of the castle gate.
+(How PHILLIPE brought BELLE there is a mystery, seeing as PHILLIPE never made it
+to the castle with MAURICE.))
+BELLE:        What is this place?
+(PHILLIPE snorts, then begins to buck as if something is scaring him.  BELLE
+dismounts and comforts him.)
+BELLE:        Phillipe, please, steady.  (She enters the gate and sees MAURICE's
+              hat on the ground.) Papa.
+(Cut to interior of castle with COGSWORTH and LUMIERE discussing events.)
+COGSWORTH:    Couldn't keep quiet, could we.  Just had to invite him to stay,
+              didn't we?  Serve him tea, sit in the master's chair, pet the
+              pooch.
+LUMIERE:      I was trying to be hospitable.
+(Cut back to door opening and BELLE entering castle.)
+BELLE:        Hello?  Is anyone here?  Hello? Papa?  Papa, are you here?
+(We follow as BELLE ascends the grand staircase and searches for her father. Cut
+to kitchen where MRS. POTTS is standing next to a tub of hot water. CHIP hops
+in.)
+CHIP:         Momma.  There's a girl in the castle!
+MRS. POTTS:   Now, Chip, I won't have you making up such wild stories.
+CHIP:         But really, momma, I saw her.
+MRS. POTTS:   (Disgusted) Not another word.  Into the tub. (She lifts CHIP
+              into the tub.  FEATHERDUSTER  enters)
+FEATHERDUSTER:
+              A girl!  I saw a girl in the castle!
+CHIP:         (poking his head out from the water) See, I told ya!
+(Cut back to LUMIERE and COGSWORTH bickering)
+COGSWORTH:    Irresponsible, devil-may-care, waxy eared, slack-jawed--
+BELLE:        Papa?
+(COGSWORTH and LUMIERE turn to look at the new arrival)
+LUMIERE:      Did you see that? (Running to the door and poking his head around
+              the corner with COGSWORTH)  It's a girl!
+COGSWORTH:    I know it's a girl.
+LUMIERE:      Don't you see?  She's the one. The girl we have been waiting for.
+              She has come to break the spell! (He chases after her.)
+COGSWORTH:    Wait a minute, wait a minute!
+(BELLE advances down a narrow hallway.  COGSWORTH and LUMIERE sneak up behind
+her and open the door that leads to the tower where MAURICE is being kept. The
+door creaks open and BELLE hears the sound)
+BELLE:        Papa?  Papa? (COGSWORTH hides behind the door and LUMIERE rushes
+              off.) Hello? Is someone here?  Wait!  I'm looking for my father!
+              (She begins up the stairs, but doesn't realize that LUMIERE is
+              watching her.)  That's funny, I'm sure there was someone...
+              I-I-Is there anyone here?
+(MAURICE's voice echoes from his cell)
+MAURICE:      Belle?
+BELLE:        (Rushes up to the cell to find him) Oh, Papa!
+MAURICE:      How did you find me?
+BELLE:        Oh, your hands are like ice.  We have to get you out of here.
+MAURICE:      Belle, I want you to leave this place.
+BELLE:        Who's done this to you?
+MAURICE:      No time to explain. You must go...now!
+BELLE:        I won't leave you!
+(Suddenly, BEAST grabs BELLE's shoulder and whips her around.  She drops the
+torch she was carrying into a puddle and the room is dark except for one beam of
+light from a skylight.)
+BEAST:        What are you doing here?
+MAURICE:      Run, Belle!
+BELLE:        Who's there? Who are you?
+BEAST:        The master of this castle.
+BELLE:        I've come for my father.  Please let him out!  Can't you see he's
+              sick?
+BEAST:        Then he shouldn't have trespassed here.
+BELLE:        But he could die.  Please, I'll do anything!
+BEAST:        There's nothing you can do.  He's my prisoner.
+BELLE:        Oh, there must be some way I can...wait!  Take me, instead!
+BEAST:        You! You would take his place?
+MAURICE:      Belle!  No!  You don't know what you're doing!
+BELLE:        If I did, would you let him go?
+BEAST:        Yes, but you must promise to stay here forever.
+(BELLE ponders the situation and realizes she can't see the captor)
+BELLE:        Come  into the light.
+(BEAST drags his legs, then his whole body into the beam of light.  BELLE looks,
+her eyes growing wider until she can stand no more and falls back to MAURICE.)
+MAURICE:      No, Belle.  I won't let you do this!
+(BELLE regains her composure, then steps into the beam of light, giving her a
+very virgin-ish look)
+BELLE:        You have my word.
+BEAST:        (quickly) Done!
+(BEAST moves over to unlock the cell, and BELLE collapses to the floor with her
+head in her hands.  We hear the door being unlocked, then MAURICE rushing over
+to BELLE.)
+MAURICE:      No, Belle.  Listen to me.  I'm old, I've lived my life--
+              (BEAST grabs him and drags him downstairs)
+BELLE:        Wait!
+MAURICE:      Belle!
+BELLE:        Wait!
+(Cut to ext. of castle.  BEAST drags MAURICE towards PALLENQUIN)
+MAURICE:      No, please spare my daughter!
+BEAST:        She's no longer your concern.  (BEAST throws MAURICE into the
+              PALLENQUIN.) Take him to the village.
+(The PALLENQUIN breaks the ivy holding it to the ground, then slinks off like a
+spider with MAURICE inside)
+MAURICE:      Please, let me out, please!
+(Cut to BELLE looking out cell window at the PALLENQUIN crossing the bridge over
+the moat.  She begins to cry. Cut to BEAST walking up the stairs.  LUMIERE is
+still at his post.)
+LUMIERE:      Master?
+BEAST:        (angrily) What!
+LUMIERE:      Since the girl is going to be with us for quite some time, I was
+              thinking that you might want to offer her a more comfortable
+              room. (BEAST growls angrily at him.) Then again, maybe not.
+(BEAST enters the cell where BELLE is still crying.)
+BELLE:        You didn't even let me say good bye. I'll never see him again. I
+              didn't get to say good-bye.
+BEAST:        (feeling bad) I'll show you to your room.
+BELLE:        (surprised) My room? (Indicating the cell) But I thought--
+BEAST:        You wanna, you wanna stay in the tower?
+BELLE:        No.
+BEAST:        Then follow me.
+
+(BEAST leads BELLE to her room.  As they proceed, BELLE begins to lag behind.
+She looks at the hideous sculptures on the walls and the light casting shadows
+on them.  Frightened, she gasps and runs to catch up with BEAST, who is carrying
+LUMIERE as a light source. BEAST looks back at BELLE, and sees a tear form at
+the corner of her eye.)
+
+LUMIERE:      Say something to her.
+BEAST:        Hmm?  Oh.  (To BELLE)  I...um...hope you like it here.  (He looks
+              at LUMIERE for approval.  He motions BEAST to continue.)  The
+              castle is your home now, so you can go anywhere you wish, except
+              the West Wing.
+BELLE:        (looking intrigued) What's in the West Wing?
+BEAST:        (stopping angrily) It's forbidden!
+
+(BEAST continues, and BELLE reluctantly follows. Cut to int. of BELLE's room,
+dark.  The door opens and light spills in.)
+
+BEAST:        (Tenderly) Now, if there's anything you need, my servants will
+              attend you.
+LUMIERE:      (whispering in his ear) Dinner--invite her to dinner.
+BEAST:        (Growing angry) You...will join me for dinner.  That's not a
+              request!
+(BEAST leaves, slamming the door behind him.  BELLE, terrified, runs over to the
+bed and flings herself onto it, finally breaking down and crying.  Fade to
+tavern in the town.)
+
+GASTON:       Who does she think she is?  That girl has tangled with the wrong
+              man.  No one says 'no' to Gaston!
+LEFOU:        Darn right!
+GASTON:       Dismissed.  Rejected.  Publicly humiliated.  Why, it's more than I
+              can bear. (turns chair away)
+LEFOU:        (Runs in front of him) More beer?
+GASTON:       (Turns chair away again) What for?  Nothing helps.  I'm disgraced.
+LEFOU:        Who, you?  Never.  Gaston, you've got to pull yourself together.
+
+              Gosh it disturbs me to see you, Gaston
+              Looking so down in the dumps
+              Every guy here'd love to be you, Gaston (cheering from the 
+              gallery)
+              Even when taking your lumps
+ 
+              There's no man in town as admired as you
+              You're everyone's favorite guy
+              Everyone's awed and inspired by you (LEFOU turns chair back to
+              forward)
+              And it's not very hard to see why!
+
+              No one's slick as Gaston, no one's quick as Gaston
+              No one's next as incredibly thick as Gaston
+              For there's no man in town half as manly
+              Perfect, a pure paragon!
+              You can ask any Tom, Dick, or Stanley
+              And they'll tell you who's team they'd prefer to be on!
+(LEFOU has pulled a man's belt off, whose pants fall to the ground.  LEFOU jumps
+up and wraps the belt around GASTON's neck, who flexes and breaks it off. LEFOU
+continues to dance around. OLD CRONIES pick him up and swing him around.)
+
+OLD CRONIES:  No one's been like Gaston, a king-pin like Gaston
+LEFOU:        No one's got a swell cleft in his chin like Gaston
+GASTON:       As a specimen, yes, I'm intimidating!
+OLD CRONIES:  My, what a guy that Gaston!
+(OLD CRONIES swing LEFOU back and forth into the camera.  LEFOU tickles GASTON's
+chin, who stands with pride)
+
+OLD CRONIES:  Give five hurrahs, give twelve hip-hips
+LEFOU:        Gaston is the best and the rest is all drips!
+(LEFOU swings up his arm in dance and throws a mug of beer in GASTON's face, who
+socks LEFOU in the face)
+
+ALL:          No one fights like Gaston, no one bites like Gaston
+WRESTLER:     In a wrestling match, nobody bites like Gaston
+BIMBETTES:    For there's no one as burly and brawny
+GASTON:       As you see I've got biceps to spare
+LEFOU:        Not a bit of him scraggly or scrawny
+GASTON:       That's right! And every last bit of me's covered with hair!
+(GASTON fights with the men, then lifts a bench with the BIMBETTES on it.  He
+drops the bench on LEFOU, then turns to the camera and reveals his hairy chest.)
+
+OLD CRONIES:  No one hits like Gaston, matches wits like Gaston
+LEFOU:        In a spitting match, nobody spits like Gaston!
+GASTON:       I'm especially good at expectorating! Ptooey!
+ALL:          Ten points for Gaston!
+(GASTON plays a chess game with a man, then hits the board, sending it and
+pieces all over.  He takes a bite of leather from the belt once wrapped around
+his neck, chews it and spits it into a spittoon, which falls and gets stuck on
+the head of LEFOU.)
+GASTON:       When I was a lad I ate four dozen eggs
+              Every morning to help me get large!
+              And now that I'm grown, I eat five dozen eggs
+              So I'm roughly the size of a barge!
+(GASTON juggles a number of eggs, then swallows them whole.  LEFOU attempts the
+trick, and is hit in the face by three eggs.)
+ALL:          No one shoots like Gaston, makes those beauts like Gaston
+LEFOU:        Then goes tromping around wearing boots like Gaston
+GASTON:       I use antlers in all of my decorating!
+(GASTON takes three shots at a beer barrel, which begins leaking into the mugs
+of onlookers.  He returns stomping to his chair, where we see the fireplace
+surrounded by the heads of the animals he has killed. The mystery cut of music
+is here! Cut to ending of "Gaston Reprise")
+
+ALL:          My what a guy! Gaston!!!!!!!
+(The OLD CRONIES have picked up the chair and carry GASTON around in it.  LEFOU
+tries to flee, but they toss the chair into its normal place, and LEFOU is
+pinned underneath.  MAURICE bursts in frantically)
+
+MAURICE:      Help! Someone help me!
+OLD MAN:      Maurice?
+MAURICE:      Please!  Please, I need your help! He's got her.  He's got her
+              locked in the dungeon.
+LEFOU:        Who?
+MAURICE:      Belle. We must go.  Not a minute to lose!
+GASTON:       Whoa!  Slow down, Maurice.  Who's got Belle locked in a dungeon?
+MAURICE:      A beast! A horrible, monstrous beast!
+(MAURICE has gone from person to person, pleading his case, until he is thrown
+at the feet of GASTON. A moment of silence, then the OLD CRONIES begin to laugh
+and mock him.)
+CRONY 1:      Is it a big beast?
+MAURICE:      Huge!
+CRONY 2:      With a long, ugly snout?
+MAURICE:      Hideously ugly!
+CRONY 3:      And sharp, cruel fangs?
+MAURICE:      Yes, yes.  Will you help me?
+GASTON:       All right, old man.  We'll help you out.
+MAURICE:      You will? Oh thank you, thank you!
+
+(The OLD CRONIES pick up MAURICE and help him out by throwing him through the
+door.)
+
+CRONY 1:      Crazy old Maurice.  He's always good for a laugh!
+GASTON:       (Very pensive)  Crazy old Maurice, hmm?  Crazy old Maurice.  Hmmm?
+              Lefou, I'm afraid I've been thinking.
+(LEFOU is still under the chair.)
+LEFOU:        A dangerous pastime--
+GASTON:       (finishing line) I know,
+              But that wacky old coot is Belle's father
+              And his sanity's only so-so
+ 
+              Now the wheels in my head have been turning
+              Since I looked at that loony old man
+              See I promised myself I'd be married to Belle,
+              And right now I'm evolving a plan!
+(GASTON picks LEFOU out from under the chair and holds his head close, and
+whispers)
+GASTON:       If I...(whisper)
+LEFOU:        Yes?
+GASTON:       Then I...(whisper)
+LEFOU:        No, would she?
+GASTON:       (whispering)...GUESS!
+LEFOU:        Now I get it!
+BOTH:         Let's go!
+(They begin a waltz around the floor as they sing)
+BOTH:         No one plots like Gaston, takes cheap shots like Gaston
+LEFOU:        Plans to persecute harmless crackpots like Gaston
+ALL:          So his marriage we soon'll be celebrating!
+              My what a guy, Gaston!!!
+(Camera zooms out through window to snow covered square, empty except for
+MAURICE)
+MAURICE:      (to no one in particular)  Will no one help me?
+
+(Fade back to the bedroom of the castle where BELLE is still crying.  There is a
+'clink clink clink' at the door.  She gets up and walks over to open the door.
+MRS. POTTS enters with CHIP and their entourage.)
+
+BELLE:        Who is it?
+MRS. POTTS:   (from outside the door) Mrs. Potts, dear. (Door opens.)  I
+              thought you might like a spot of tea.
+BELLE:        (amazed at the fact that she is listening to a walking tea set)
+              But you...ah...but...I--
+(BELLE bumps  into the WARDROBE)
+WARDROBE:     Oof.  Careful!
+BELLE:        (sits on bed) This is impossible--
+WARDROBE:     (leans 'shoulder' on bed, popping other end and BELLE into the
+              air)  I know it is, but here we are!
+CHIP:         (as sugar and cream are being poured into him) Told ya she was
+              pretty, mama,  didn't I?
+MRS. POTTS:   All right, now, Chip.  That'll do. (CHIP hops over to
+              BELLE, who is sitting on the floor) Slowly, now.  Don't spill!
+BELLE:        Thank you.  (She picks up CHIP, and is about to take a sip of
+              tea.)
+CHIP:         (To BELLE) Wanna see me do a trick?  (CHIP takes a big breath,
+              then puffs out his cheeks and blows bubbles out the top of the
+              cup.)
+MRS. POTTS:   (admonishingly) Chip!
+CHIP:         (looking guilty) Oops.  Sorry.
+MRS. POTTS:   (To BELLE) That was a very brave thing you did, my dear.
+WARDROBE:     We all think so.
+BELLE:        But I've lost my father, my dreams, everything.
+MRS. POTTS:   Cheer up, child.  It'll turn out all right in the end.  You'll
+              see.  (She looks up, startled.)  Oops!  Look at me, jabbering on,
+              when there's a supper to get on the table.  Chip!
+CHIP:         (hopping away) Bye!
+(BELLE stands and the WARDROBE approaches her.)
+WARDROBE:     Well now, what shall we dress you in for dinner?  Let's see what
+              I've got in my drawers.  (The doors fly open and moths flutter
+              out.  She slams them shut.)  Oh!  How embarrassing. Here we are.
+              (One door opens, the other serves as an arm. It pulls out a pink
+              dress.) Ah! There, you'll look ravishing in this one! (Something
+              to think about: We never hear of a King or Queen or parents, so
+              what is a Prince living on his own doing with a wardrobe full of
+              women's clothing?  Maybe he wants to be a lumberjack!)
+BELLE:        That's very kind of you, but I'm not going to dinner.
+WARDROBE:     Oh, but you must!
+(COGSWORTH waddles in)
+COGSWORTH:    Ahem, ahem, ahem.  Dinner...is served.
+(Cut to BEAST pacing back and forth in front of fire, with MRS. POTTS and
+LUMIERE looking on.)
+BEAST:        What's taking so long? I told her to come down.  Why isn't she
+              here yet?!?
+MRS. POTTS:   Oh, try to be patient, sir.  The girl has lost her father and
+              her freedom all in one day.
+LUMIERE:      Uh, master.  Have you thought that, perhaps, this girl could be
+              the one to break the spell?
+BEAST:        (angrily) Of course I have.  I'm not a fool.
+LUMIERE:      Good.  You fall in love with her, she falls in love with you,
+              and--Poof!--the spell is broken! We'll be human again by
+              midnight! (That sounds like a good title for a song-- "Human
+              Again")
+MRS. POTTS:   Oh, it's not that easy, Lumiere.  These things take time.
+LUMIERE:      But the rose has already begun to wilt.
+BEAST:        It's no use.  She's so beautiful, and I'm so...well, look at me!
+(LUMIERE shrugs his shoulders and looks at MRS. POTTS.)
+MRS. POTTS:   Oh, you must help her to see past all that.
+BEAST:        I don't know how.
+MRS. POTTS:   Well, you can start by making yourself more presentable.
+              Straighten up, try to act like a gentleman.
+(BEAST sits up, then straightens his face very formally)
+LUMIERE:      (adding in) Ah yes, when she comes in, give her a dashing,
+              debonair smile.  Come, come.  Show me the smile. (BEAST bears his
+              ragged fangs in a scary, and yet funny grin.)
+MRS. POTTS:   But don't frighten the poor girl.
+LUMIERE:      Impress her with your rapier wit.
+MRS. POTTS:   But be gentle.
+LUMIERE:      Shower her with compliments.
+MRS. POTTS:   But be sincere
+LUMIERE:      And above all...
+BOTH:         You must control your temper!
+(The door creaks open. BEAST wipes the silly face off, and looks to the door
+expectantly.)
+LUMIERE:      Here she is!
+(COGSWORTH enters.)
+COGSWORTH:    Uh, good evening.
+(BEAST goes from expectant to mad.)
+BEAST:        (growling) Well, where is she?
+COGSWORTH:    (buying time) Who?  Oh!  The girl. Yes,  the, ah, girl.  Well,
+              actually, she's in the process of, ah, um, circumstances being
+              what they are, ah... she's not coming.
+(Cut to ext of den with door slightly ajar)
+BEAST:        WHAT!!!!!!!
+(Door bangs open and BEAST comes running out, with OBJECTS giving chase)
+COGSWORTH:    Your grace! Your eminence!  Let's not be hasty!
+(Cut to ext of BELLE's room. BEAST runs up to it and bangs on the door.)
+BEAST:        (Yelling) I thought I told you to come down to dinner!
+BELLE:        (From behind the door) I'm not hungry.
+BEAST:        You'll come out or I'll...I'll break down the door!
+LUMIERE:      (interrupting) Master, I could be wrong, but that may not be the
+              best way to win the girl's affections.
+COGSWORTH:    (pleading) Please! Attempt to be a gentleman.
+BEAST:        (growing angrier) But she is being so...difficult!
+MRS. POTTS:   Gently, gently.
+BEAST:        (very dejected) Will you come down to dinner?
+BELLE:        No!
+(BEAST looks at the OBJECTS, very frustrated.)
+COGSWORTH:    Suave.  Genteel.
+BEAST:        (Trying to act formal, bowing at the door) It would give me great
+              pleasure if you would join me for dinner.
+COGSWORTH:    Ahem, ahem, we say 'please.'
+BEAST:        (once again dejected) ...please.
+BELLE:        (Mad at BEAST) No, thank you.
+BEAST:        (furious) You can't stay in there forever!
+BELLE:        (provokingly) Yes I can!
+BEAST:        Fine!  Then go ahead and STARVE!!!! (To OBJECTS) If she doesn't
+              eat with me, then she doesn't eat at all!
+(BEAST runs back down the hall, slamming a door and causing a piece of the
+ceiling to fall on LUMIERE.)
+MRS. POTTS:   That didn't go very well at all, did it.
+COGSWORTH:    Lumiere, stand watch at the door and inform me at once if there
+              is the slightest change.
+LUMIERE:      (Taking guard position next to door)  You can count on me, mon
+              capitan.
+COGSWORTH:    Well, I guess we better go downstairs and start cleaning up.
+(Cut to int of BEAST's lair. BEAST enters, knocking over and destroying things
+in his path.)
+BEAST:        I ask nicely, but she refuses.  What a...what does she want me to
+              do--beg?  (Picking up the MAGIC MIRROR) Show me the girl.
+(The MAGIC MIRROR shines, then glows green and reveals BELLE in her bedroom,
+talking to the WARDROBE)
+WARDROBE:     (in mirror pleading) Why the master's not so bad once you get to
+              know him.  Why don't you give him a chance?
+BELLE:        (still disturbed by the attack) I don't want to get to know him. 
+              I don't want to have anything to do with him!
+BEAST:        (setting down MAGIC MIRROR, speaking tenderly) I'm just fooling
+              myself. She'll never see me as anything...but a monster. (Another
+              petal falls off the rose.)  It's hopeless.
+(BEAST puts his head in his hands as in a depressed state. Fade out/Fade in to
+ext of BELLE's room. Door creaks open.  BELLE silently emerges.  We see her feet
+go by as three bright spots shine through a curtain at floor level.  Behind it
+are LUMIERE and FEATHERDUSTER.)
+FEATHERDUSTER:
+              Oh, no!
+LUMIERE:      Oh, yes!
+FEATHERDUSTER:
+              Oh, no!
+LUMIERE:      Oh, yes, yes, yes!
+FEATHERDUSTER:
+              I've been burnt by you before!
+(LUMIERE and FEATHERDUSTER have emerged and LUMIERE takes her in his arms.
+Suddenly he looks up and sees BELLE walking down the hall.  He drops
+FEATHERDUSTER.)
+FEATHERDUSTER:
+              Oof!
+LUMIERE:      Zut alors! She has emerged!
+(Cut to kitchen, where we find COGSWORTH,MRS. POTTS,CHIP and the STOVE.)
+MRS. POTTS:   Come on, Chip.  Into the cupboard with your brothers and
+              sisters. (helping him in)
+CHIP:         But I'm not sleepy.
+MRS. POTTS:   Yes you are.
+CHIP:         No, I'm...not. (He falls asleep and MRS. POTTS shuts the cupboard
+              door.)
+(A banging of pots and pans comes from the STOVE.)
+STOVE:        I work and I slave all day, and for what?  A culinary masterpiece
+              gone to waste.
+MRS. POTTS:   Oh, stop your grousing.  It's been a long night for all of us.
+COGSWORTH:    Well, if you ask me, she was just being stubborn.  After all,
+              the master did say 'please.'
+MRS. POTTS:   But if the master doesn't learn to control that temper, he'll
+              never break the--
+(BELLE enters, and COGSWORTH cuts off MRS. POTTS before she can say 'spell.')
+COGSWORTH:    (interrupting) Splendid to see you out and about, mademoiselle.
+              (LUMIERE comes running in.) I am Cogsworth, head of the
+              household.  (He leans over to kiss her hand, but LUMIERE butts
+              in front of him.) This is Lumiere.
+LUMIERE:      En chante, cherie.
+COGSWORTH:    (trying to talk around LUMIERE who is still kissing BELLE's
+              hand) If there's anything...stop that...that we can...please
+              (finally shoving him out of the way)...to make your stay more
+              comfortable.  (LUMIERE burns the hand of COGSWORTH) Ow!!!!
+BELLE:        I am a little hungry.
+MRS. POTTS:   (excited, to the other tea pots) You are? Hear that? She's
+              hungry.  Stoke the fire, break out the silver, wake the china.
+(The fire on the STOVE roars to life, and drawers open to reveal silverware
+standing at attention.)
+COGSWORTH:    (secretively) Remember what the master said.
+MRS. POTTS:   Oh, pish tosh.  I'm not going to let the poor child go hungry.
+COGSWORTH:    (thinking he is giving in to the ultimate demand) Oh, all
+              right.  Glass of water, crust of bread, and then--
+LUMIERE:      Cogsworth, I am surprised at you.  She's not our prisoner.  She's
+              our guest.  We must make her feel welcome here.  (to BELLE)
+              Right this way, mademoiselle.
+COGSWORTH:    Well keep it down. If the master finds out about this, it will
+be our necks!
+LUMIERE:      Of course, of course.  But what is dinner without a little music?
+(LUMIERE has started out the swinging door.  He lets it close, and the door hits
+COGSWORTH and sends him across the room to land in a pan filled with (what looks
+like) pancake batter. He screams his line as he is in flight.)
+COGSWORTH:    MUSIC!?!
+(Cut to dining room, where BELLE is seated at the end of a long table.  LUMIERE
+is on the table and a spotlight shines on him.)
+
+LUMIERE:      Ma chere, mademoiselle.  It is with deepest pleasure and
+              greatest pride that I welcome you tonight.  And now, we invite
+              you to relax. Let us pull up a chair as the dining room proudly
+              presents...your dinner.
+
+              Be our guest, be our guest
+              Put our service to the test,
+              tie your napkin 'round your neck, cherie
+              and we provide the rest!
+(The CHAIR has wrapped a napkin around the neck of BELLE, who takes it off and
+places it on her lap.  The CHAIR's arms put it's hands on it's 'waist' as if it
+were mad.
+              Soup du jour, hot hors d'oeuvres
+              Why we only live to serve
+              Try the grey stuff, it's delicious
+              Don't believe me?  Ask the dishes!
+(LUMIERE offers BELLE a plate of hors d'oeuvres.  She dips her finger in one,
+and tastes it.)
+              They can sing, they can dance
+              After all, miss, this is France!
+              And a dinner here is never second best!
+              Go on unfold your menu, take a glance and then you'll
+              Be our guest, be our guest, be our guest!
+(A cabinet at the end of the table opens to reveal a large CHINA collection,
+which rolls out and begins to perform. LUMIERE hands BELLE a menu, which she
+begins to read.)
+              Beef ragout, cheese souffle,
+              Pie and pudding en flambe!
+              We'll prepare and serve with flair
+              A culinary cabaret!
+(Plates of food go dancing by, with COGSWORTH in the pudding.  LUMIERE sets his
+torch to it, and it explodes, turning COGSWORTH's face black with soot.)
+              You're alone and you're scared,
+              But the banquet's all prepared!
+              No one's gloomy or complaining,
+              While the flatware's entertaining!
+(The FLATWARE enters a 'Busby Berlkley-esque' swimming scene.) 
+              We tell jokes, I do tricks
+              With my fellow candlesticks
+(LUMIERE, standing on a plate, is elevated and begins to juggle his candles.
+MUGS enter the shot.)
+MUGS:         And it's all in perfect taste
+              That you can bet!!!
+(The MUGS begin a gymnastics routine, hopping over one another and passing a
+beverage from one to the next)
+ALL:          Come on and lift your glass,
+              You've won your own free pass
+              To be our guest, be our guest, be our guest!
+LUMIERE:      If you're stressed, it's fine dining we suggest!
+ALL:          Be our guest, be our guest, be our guest!
+(ALL leave except COGSWORTH, who looks scared, then begins to inch away. LUMIERE
+enters and holds him there.)
+LUMIERE:      Life is so unnerving,
+              For a servant who's not serving!
+              He's not whole without a soul to wait upon
+COGSWORTH:    Get off!
+LUMIERE:      Ah, those good old days when we were useful
+              Suddenly, those good old days are gone.
+(LUMIERE sings as if he were reminiscing.  Snow begins to fall.  COGSWORTH looks
+up and sees the salt and pepper shakers doing their thing.)
+LUMIERE:      Ten years we've been rusting
+              Needing so much more than dusting
+              Needing exercise, a chance to use our skills!
+(LUMIERE dusts the salt of the head of COGSWORTH, who tries to escape.  He trips
+and falls into the gelatin mold.) 
+              Most days just lay around the castle,
+              Flabby fat and lazy
+              You walked in, and oops-a-daisie!
+(LUMIERE jumps on a spoon in the gelatin, which catapults COGSWORTH out of the
+mold. Cut to kitchen, where MRS. POTTS is surrounded by soap bubbles.)
+MRS. POTTS:   It's a guest, it's a guest!
+              Sakes alive, well I'll be blessed!
+              Wine's been poured and thank the Lord
+              I've had the napkins freshly pressed!
+(MRS. POTTS continues to dance around the kitchen)
+              With dessert, she'll want tea,
+              And my dear, that's fine with me!
+              While the cups do their soft shoeing,
+              I'll be bubbling, I'll be brewing!
+
+              I'll get warm, piping hot
+              Heaven's sake, is that a spot?
+              Clean it up, we want the company impressed!
+              We've got a lot to do--
+              Is it one lump or two?
+              For you our guest!
+(MRS. POTTS is cleaned off by a napkin.  She hops onto the tea cart and rolls
+into the dining room, where she offers tea to BELLE.)
+ALL:          She's our guest!
+MRS. POTTS:   She's our guest!
+ALL:          She's our guest!
+              Be our guest! Be our guest!
+              Our command is your request!
+              It's ten years since we had anybody here
+              And we're obsessed!
+
+              With your meal, with your ease,
+              Yes indeed, we aim to please
+              While the candlelight's still glowing
+              Let us help you, we'll keep going--
+(The CHINA and CANDLESTICKS perform an elaborately choreographed dance sequence,
+ending in a c.u. of LUMIERE.)
+
+ALL (esp. LUMIERE):
+              Course, by course
+              One by one
+              'Til you shout "Enough, I'm done!"
+              Then we'll sing you off to sleep as you digest
+              Tonight you'll prop your feet up,
+              But for let's eat up
+              Be our guest!  Be our guest!  Be our guest! Please Be our guest!!
+(A fantastic ending comes of the song, with SILVERWARE flying through the air,
+PLATES and FEATHERDUSTERS dancing, and COGSWORTH the focus of attention, until
+LUMIERE comes sliding in and sends him flying out of camera range.)
+BELLE:        Bravo!  That was wonderful!
+COGSWORTH:    Thank you, thank you, mademoiselle. Yes, good show, wasn't it
+              everyone.  (Looking at his own face) Oh, my goodness, will you
+              look at the time.  Now, it's off to bed, off to bed!
+(LUMIERE comes up next to COGSWORTH.)
+BELLE:        Oh, I couldn't possibly go to bed now.  It's my first time in
+              an enchanted castle.
+COGSWORTH:    Enchanted?  Who said anything about the castle being enchanted?
+              (He tries to cover it up, just as a fork runs past.  To LUMIERE)
+              It was you, wasn't it!
+BELLE:        I, um, figured it out for myself. (COGSWORTH and LUMIERE have been
+              fighting.  They both look at her, then stop.  COGSWORTH dusts
+              himself off, and LUMIERE fixes his wax nose.) I'd like to look
+              around, if that's all right.
+LUMIERE:      (excited) Oh!  Would you like a tour?
+COGSWORTH:    Wait a second, wait a second.  I'm not sure that's such a good
+              idea. (Confidentially, to LUMIERE) We can't let her go poking
+              around in certain places, if you know what I mean.
+BELLE:        (Poking COGSWORTH in the belly (like the Pillsbury doughboy))
+              Perhaps you could take me.  I'm sure you know everything there
+              is to know about the castle.
+COGSWORTH:    (flattered) Well, actually, ah yes, I do!
+(Fade to COGSWORTH, LUMIERE, and BELLE walking down a hall with FOOTSTOOL.
+COGSWORTH is lecturing.)
+COGSWORTH:    As you can see, the pseudo facade was stripped away to reveal a
+              minimalist rococo design.  Note the unusual inverted vaulted
+              ceilings.  This is yet another example of the neo-classic baroque
+              period, and as I always say, if it's not baroque, don't fix it!
+              Ha ha ha. Now then, where was I? (He turns to find the heads of
+              the SUITS OF ARMOR have turned to follow BELLE.) As you were!
+              (They all snap back to face forward.)  Now, if I may draw your
+              attention to the flying buttresses above the--mademoiselle?
+
+(COGSWORTH turns back to the group and is one girl short. He sees her beginning
+to climb the grand staircase. He and LUMIERE run up to her and jump in front of
+her, blocking her progress upstairs.)
+
+BELLE:        What's up there?
+COGSWORTH:    Where? Up there?  Nothing. Absolutely nothing of interest at all
+              in the West Wing.  Dusty, dull, very boring.
+(LUMIERE has been shaking his head, but COGSWORTH nudges him and he nods in
+agreement.)
+BELLE:        Oh, so that's the West Wing.
+LUMIERE:      (To COGSWORTH) Nice going!
+BELLE:        I wonder what he's hiding up there.
+LUMIERE:      Hiding? The master is hiding nothing!
+BELLE:        Then it wouldn't be forbidden.
+(She steps over them, but they dash up and block her again.)
+COGSWORTH:    Perhaps mademoiselle would like to see something else.  We have
+              exquisite tapestries dating all the way back to...
+BELLE:        (again stepping over them) Maybe later.
+LUMIERE:      (with COGSWORTH, again dashing and blocking) The gardens, or the
+              library perhaps?
+BELLE:        (Now, with incredible interest) You have a library?
+COGSWORTH:    (Thrilled that he has found something to interest her) Oh yes!
+              Indeed!
+LUMIERE:      With books!
+COGSWORTH:    Gads of books!
+LUMIERE:      Mountains of books!
+COGSWORTH:    Forests of books!
+LUMIERE:      Cascades...
+COGSWORTH:    ...of books!
+LUMIERE:      Swamps of books!
+COGSWORTH:    More books than you'll ever be able to read in a lifetime!
+              Books on every subject ever studied, by every author who ever
+              set pen to paper...
+
+(LUMIERE and COGSWORTH begin marching off, and BELLE begins to follow, but her
+curiosity overtakes her, and she turns back to the West Wing.  Her excitement
+begins to dwindle, though, when she enters the hallway leading to BEAST's lair.
+As she walks down the hall, she stops to look in a mirror that has been
+shattered into several pieces, each one reflecting her concerned look.  She
+reaches the end of the hall and finds a closed door with gargoyle handles.  She
+takes a deep breath, then reaches out and opens the door.  Cut to int of lair,
+where BELLE begins to explore.  She is truly shocked by everything she sees.
+She wanders around, looking, and knocks over a table, but she catches it before
+it crashes to the floor.  She then turns her head and sees a shredded picture on
+the wall.  We can only see part of a portrait.  It is the same portrait that was
+shredded in the opening. BELLE reaches out and lifts the shreds of the picture
+to reveal the prince.  We never see this, however, for then she turns her head
+and sees the rose under the bell jar.  She walks over to it, her eyes
+transfixed.  She reaches out, then lifts off the jar, leaving the rose
+unprotected.  She reaches up, brushes back the strand of hair that has been
+repeatedly falling on her forehead, then reaches out to touch the rose.  As she
+nears it, a shadow falls over her.  BEAST has been on the balcony, and sees her.
+He jumps back into the room,then slams the jar back on the rose.  He then turns
+his attention to BELLE.)
+BEAST:        (growing angry) Why did you come here?
+BELLE:        (Backing away, scared) I'm sorry,
+BEAST:        I warned you never to come here!
+BELLE:        I didn't mean any harm.
+BEAST:        (Angrier) Do you realize what you could have done? (Begins to
+              thrash at the furniture)
+BELLE:        (Pleading, but still scared) Please, stop! No!
+BEAST:        (Screaming) Get out!!!! GET OUT!!!!
+
+(BELLE turns and flees the room.  BEAST calms down, then falls into despair,
+finally realizing that he may have destroyed his chances with BELLE.  She
+reaches the stairway and grabs her cloak.  She rushes down the stairs, wrapping
+the cloak around her and bursting past a confused LUMIERE and COGSWORTH .)
+LUMIERE:      Wh- Where are you going?
+BELLE:        Promise or no promise, I can't stay here another minute!
+COGSWORTH:    Oh no, wait, please wait!
+(LUMIERE tries to respond, but BELLE slams the door behind her.  He and
+COGSWORTH both bow their heads in sadness.  Cut to BELLE outside in the forest
+on PHILLIPE.  She begins to ride through the forest, but PHILLIPE comes to a
+stop.  She looks up and sees the WOLVES.  She gasps, then pulls the reins and
+begins to flee.  She runs from side to side, making the WOLVES hit the trees (a
+la Speederbike chase in Return of the Jedi).  PHILLIPE runs out on a frozen
+pond, but his and BELLE's weight collapse the ice.  The WOLVES chase her into
+the water.  Some begin to drown, but PHILLIPE is able to get out of the water
+before anything serious happens.  He runs into a clearing, but becomes
+surrounded by WOLVES.  He bucks, throwing BELLE off and wrapping the reins
+around a tree branch.  The WOLVES begin their attack on PHILLIPE, but BELLE
+comes to his rescue and beats them away with a stick.  One WOLF grabs the stick
+in its mouth and breaks half of it off, leaving BELLE defenseless.  Another
+leaps at her, grabbing the corner of her cloak and dragging her to the ground.
+She looks up and sees a WOLF about to jump on top of her.  It leaps and is
+caught in mid-air by BEAST.    He throws the WOLF away, then stands behind them
+and BELLE.  They lunge at each other.  One rips a hole in BEAST's shoulder, and
+the others focus their attack on that spot.  Finally, BEAST throws a WOLF
+against a tree, knocking it out.  The others turn and run in fear.  BEAST turns
+back to BELLE, looks at her despairingly, then collapses.  BELLE, grateful to be
+alive, turns back to PHILLIPE and begins to get on, but her conscience takes
+over, and she walks over to the fallen BEAST.  Fade to BELLE and PHILLIPE
+walking back to the castle, with BEAST on the horse's back.  Fade to int of den,
+with BELLE pouring hot water out of MRS. POTTS.  She soaks a rag in the water,
+then turns to BEAST, who is licking his wounds.)
+BELLE:        Here now. Oh, don't do that. (BEAST growls at her as she tries to
+clean the wound with her rag.) Just...hold still.
+(She touches the rag to the wound and BEAST roars in pain.  The OBJECTS, who
+have been watching, jump back into hiding from the outburst.)
+BEAST:        That hurts!
+BELLE:        (In counterpoint) If you'd hold still, it wouldn't hurt as much.
+BEAST:        Well if you hadn't run away, this wouldn't have happened!
+BELLE:        Well if you hadn't frightened me, I wouldn't have run away!
+BEAST:        (Opens his mouth to respond, but has to stop and think of a good
+              line) Well you shouldn't have been in the West Wing!
+BELLE:        Well you should learn to control your temper!   (BEAST raises his
+              hand to bring out another point, but finds he has none, so he
+              bows his head down again.  The OBJECTS emerge from their hiding
+              as BELLE has conquered the ferocious temper of BEAST.   BELLE
+              moves the rag closer to the wound)  Now, hold still. This may
+              sting a little.  (BEAST gives a surprised grunt, then grits his
+              teeth as the rag is applied. BELLE speaks tenderly.)  By the way,
+              thank you, for saving my life.
+(BEAST opens his eyes, looking surprised.)
+BEAST:        (Also very tenderly) You're welcome.
+(Camera zooms out and we see the OBJECTS looking on with interest.  Fade to
+GASTON's tavern, which is empty except for GASTON, LEFOU and MONSIEUR D'ARQUE,
+who are all sitting at a table.)
+D'ARQUE:      I don't usually leave the asylum in the middle of the night, but
+              they said you'd make it worth my while.  (GASTON pulls out a
+              sack of gold and tosses it in front of him.  He takes out a piece,
+              scrapes it on his chin and continues.)  Aah, I'm listening.
+GASTON:       It's like this.  I've got my heart set on marrying Belle, but she
+              needs a little persuasion.
+LEFOU:        (butting in) Turned him down flat!
+(GASTON slams a beer mug on his head.)
+GASTON:       Everyone knows her father's a lunatic.  He was in here tonight
+              raving about a beast in a castle...
+D'ARQUE:      Maurice is harmless.
+GASTON:       The point is, Belle would do anything to keep him from being
+              locked up.
+LEFOU:        Yeah, even marry him!
+(GASTON gives him another threatening look, and he ducks back under the mug.)
+D'ARQUE:      So you want me to throw her father in the asylum unless she agrees
+              to marry you? (They both nod in agreement.)  Oh, that is
+              despicable.  I love it!
+(Cut to int of BELLE's cottage.  MAURICE is packing to leave.)
+MAURICE:      If no one will help me, then I'll go back alone.  I don't care
+              what it takes.  I'll find that castle and somehow I'll get her
+              out of there.
+(MAURICE leaves on his journey.  Seconds later, GASTON and LEFOU arrive with
+D'ARQUE. They enter the house looking for one of the residents.)
+GASTON:       Belle! Maurice!
+LEFOU:        Oh, well, I guess it's not gonna work after all.
+(GASTON grabs him by the neck and walks outside.)
+GASTON:       They have to come back sometime, and when they do, we'll be ready
+              for them. (Drops LEFOU into a snowbank by the porch) Lefou,
+              don't move from that spot until Belle and her father come home.
+LEFOU:        But, but... aww, nuts! (He pounds the side of the house and a pile
+              of snow falls on his head.)
+(Fade to ext of castle. BELLE is playing in the snow with PHILLIPE and
+FOOTSTOOL.  BEAST, COGSWORTH and LUMIERE watch from the balcony.)
+BEAST:        I've never felt this way about anyone.  (Looks excited) I want
+              to do something for her. (Looks discouraged.) But what?
+COGSWORTH:    Well, there's the usual things--flowers, chocolates, promises
+              you don't intend to keep...
+LUMIERE:      Ahh, no no.  It has to be something very special.  Something that
+              sparks her inter--wait a minute.
+(Cut to int hallway leading to library. BEAST and BELLE are alone.)
+BEAST:        Belle, there's something I want to show you.  (Begins to open the
+              door, then stops.) But first, you have to close your eyes. (She
+              looks at him questioningly.) It's a surprise.
+(BELLE closes her eyes, and BEAST waves his hand in front of her.  Then he opens
+the door. He leads her in.)
+BELLE:        (Just as she enters the room) Can I open them?
+BEAST:        No, no.  Not yet.  Wait here.
+(BEAST walks away to draw back the curtains.  He does, and brilliant sunlight
+spills into the room.  BELLE flinches reflexively as the light hits her face.)
+BELLE:        Now can I open them?
+BEAST:        All right.  Now.
+(BELLE opens her eyes and the camera pulls back to reveal the gigantic library
+filled with books.)
+BELLE:        I can't believe it. I've never seen so many books in all my life!
+BEAST:        You--you like it?
+BELLE:        It's wonderful.
+BEAST:        Then it's yours.
+BEAST:        Oh, thank you so much.
+(Cut to BELLE and BEAST in bkgd, with OBJECTS including CHIP in foreground
+watching them.)
+MRS. POTTS:   Oh, would you look at that?
+LUMIERE:      Ha ha! I knew it would work.
+CHIP:         What?  What works?
+COGSWORTH:    It's very encouraging.
+FEATHERDUSTER:
+              Isn't this exciting!
+CHIP:         I didn't see anything.
+MRS. POTTS:   Come along, Chip.  There's chores to be done in the kitchen.
+CHIP:         But what are they talking about? What's going on?
+(OBJECTS walk away. Fade to breakfast table with BELLE at one end and BEAST at
+the other, with MRS. POTTS between them. BELLE is served breakfast, and as she
+begins to eat, she looks at BEAST, gobbling up his food with no table manners
+whatsoever.  CHIP laughs, but MRS. POTTS shoots him an admonishing look.  BELLE
+turns away and tries to ignore it, but CHIP comes to the rescue.  He nudges the
+spoon with his nose, and BEAST reaches out for it (very 3-D-ishly).  BELLE looks
+at him in wonder as he tries to eat with the spoon, but he has little success.
+Finally, BELLE puts down her spoon and lifts her bowl as if in a toast.  BEAST
+looks at the compromise and does the same.  They both begin to sip their
+breakfast out of their bowls.  Fade to courtyard where BELLE and BEAST are
+feeding the birds.)
+BELLE:        There's something sweet
+              And almost kind
+              But he was mean
+              And he was coarse and unrefined.
+
+              But now he's dear
+              And so unsure,
+              I wonder why I didn't see it there before.
+(BELLE is trying to attract some birds to BEAST, who shoves a handful of seed at
+them.  Finally, she takes a handful and gently spreads it out, creating a trail.
+One lands in his hands, and he looks up thrilled.)
+
+BEAST:        She glanced this way
+              I thought I saw
+              And when we touched
+              She didn't shudder at my paw
+
+              No it can't be
+              I'll just ignore
+              But then she's never looked at me that way before.
+
+(BELLE has ducked around a tree, leaving BEAST with the birds.  She begins to
+look doubtful again, but turns her head around the tree and laughs.  BEAST is
+covered with birds.)
+
+BELLE:        New, and a bit alarming
+              Who'd have ever thought that this could be?
+              True, that he's no Prince Charming
+              But there's something in him that I simply didn't see.
+
+(BELLE throws a snowball at BEAST, who had looked at her proudly after the birds
+flew away. He begins to gather a large pile of snow.  We cut to the OBJECTS,
+looking out of a window at the two. In the background, BELLE throws another
+snowball at BEAST, who drops his huge pile of snow on his head.  He chases her
+around a tree, but she ducks around the other side and sneaks up on him from
+behind.)
+LUMIERE:      Well who'd have thought?
+MRS. POTTS:   Well bless my soul.
+COGSWORTH:    And who'd have known?
+MRS. POTTS:   Well who indeed?
+LUMIERE:      And who'd have guessed they'd come together on their own?
+MRS. POTTS:   It's so peculiar
+ALL:          We'll wait and see
+              A few days more
+              There may be something there that wasn't there before
+(Fade to den where BELLE sits in front of a roaring fire and reads to BEAST.
+OBJECTS inc. CHIP watch from doorway)
+COGSWORTH:    Yes, perhaps there's something there that wasn't there before.
+CHIP:         What?
+MRS. POTTS:   There may be something there that wasn't there before.
+CHIP:         What's there, mama?
+MRS. POTTS:   I'll tell you when you're older.
+(Cut to int. of BEAST's lair.  He is in the tub getting washed up for the big
+night with BELLE.  LUMIERE is there with him.)
+LUMIERE:      Tonight is the night!
+BEAST:        (hesitantly) I'm not sure I can do this.
+LUMIERE:      You don't have time to be timid.  You must be bold, daring.
+BEAST:        Bold. Daring.  (BEAST has emerged from the tub and shakes himself
+              dry.)
+LUMIERE:      There will be music.  Romantic candlelight, provided myself, and
+              when the time is right, you confess your love.
+BEAST:        (Inspired) Yes, I -- I con--No, I can't.
+LUMIERE:      You care for the girl, don't you?
+BEAST:        More than anything.
+LUMIERE:      Well then you must tell her.  (COATRACK has been cutting BEAST's
+              hair.  It finishes and steps back.) Voila.  You look so...so...
+(Cut to shot of BEAST in pig-tails and bows.)
+BEAST:        Stupid.
+LUMIERE:      Not quite the word I was looking for.  Perhaps a little more off
+              the top.
+(COATRACK begins to cut and chop again. COGSWORTH enters.)
+COGSWORTH:    Ahem ahem ahem.  Your lady awaits.
+(Cut to grand staircase, where BELLE descends from the West Wing side in a
+glittering gold ball gown.  She reaches the landing and looks up at BEAST, who
+is standing at the top of the stairs in his dress clothes.  He is nudged on by
+LUMIERE from behind the curtain, and he descends and meets BELLE at the landing.
+Arm in arm, they descend the last section of stairs and continue on their way to
+dinner, stopped momentarily by FOOTSTOOL.  MRS. POTTS sings from her cart with
+CHIP on board.)
+MRS. POTTS:   Tale as old as time
+              True as it can be
+              Barely even friends
+              Then somebody bends unexpectedly.
+
+              Just a little change
+              Small to say the least
+              Both a little scared
+              Neither one prepared, beauty and the beast.
+
+(BELLE and BEAST have moved into the ballroom, where they move through a
+computer perfect dance sequence.  BEAST occasionally looks over at LUMIERE and
+COGSWORTH for their approval.  MRS. POTTS and CHIP are in the ballroom on their
+cart.)
+
+MRS. POTTS:   Ever just the same
+              Ever a surprise
+              Ever as before, ever just as sure
+              As the sun will rise
+              Tale as old as time
+              Tune as old as song
+              Bittersweet and strange,
+              Finding you can change, learning you were wrong
+ 
+              Certain as the sun
+              Rising in the east
+              Tale as old as time,
+              Song as old as rhyme, beauty and the beast.
+
+              Tale as old as time,
+              Song as old as rhyme, beauty and the beast.
+              (To CHIP) Off to the cupboard with you now, Chip.  It's past
+              your bedtime.  Good night, love.
+
+(CHIP slides off the end of the cart, and hops out of the room, but comes back
+for one last look. BELLE and BEAST have adjourned to the balcony under a starry
+night.)
+
+BEAST:        Belle? Are you happy here with me?
+BELLE:        (Hesitantly) Yes. (She looks off into the distance)
+BEAST:        What is it?
+BELLE:        (Looks at him desperately) If only I could see my father again,
+              just for a moment.  I miss him so much.
+BEAST:        (Looks disappointed for a moment, then excited.) There is a way.
+
+(The pair adjourn to BEAST's lair, where BEAST hands BELLE the MAGIC MIRROR.)
+BEAST:        This mirror will show you anything, anything you wish to see.
+BELLE:        (Hesitantly) I'd like to see my father, please.
+(The MAGIC MIRROR shines into life, and BELLE turns her head away as it flashes.
+Then it reveals MAURICE fallen in the woods, coughing and lost. BELLE is
+shocked.  BEAST looks at her with concern.)
+
+BELLE:        Papa.  Oh, no.  He's sick, he may be dying. And he's all alone.
+(BEAST turns, then looks at the rose, deep in thought.)
+BEAST:        Then...then you must go to him.
+BELLE:        What did you say?
+BEAST:        I release you.  You are no longer my prisoner.
+BELLE:        (In amazement) You mean...I'm free?
+BEAST:        Yes.
+BELLE:        Oh, thank you.  (To MAGIC MIRROR) Hold on, Papa.  I'm on my way.
+(BELLE turns to leave, then turns back and pushes the MAGIC MIRROR back to
+BEAST.)
+BEAST:        Take it with you, so you'll always have a way to look back, and
+              remember me.
+BELLE:        Thank you for understanding how much he needs me.
+(BELLE turns to leave and BEAST looks down in depression.  She touches her hand
+to his cheek and rushes out. We see BELLE's skirt fly past COGSWORTH, who has
+entered the room.)
+COGSWORTH:    Well, your highness.  I must say everything is going just
+              peachy. I knew you had it in you.
+BEAST:        (Very sad) I let her go.
+COGSWORTH:    Ha ha ha, yes.  Splend-- (COGSWORTH stops in the middle of his
+              sentence.)  You what? How could you do that?
+BEAST:        I had to.
+COGSWORTH:    (Still amazed) Yes, but why?
+BEAST:        Because, I love her.
+(Cut to COGSWORTH telling the rest of the OBJECTS about BEAST's decision.)
+ALL (ex. COGSWORTH):
+              He did what?!?!
+COGSWORTH:    Yes, I'm afraid it's true.
+CHIP:         She's going away?
+LUMIERE:      But he was so close.
+MRS. POTTS:   After all this time, he's finally learned to love.
+LUMIERE:      That's it, then.  That should break the spell.
+MRS. POTTS:   But it's not enough. She has to love him in return.
+COGSWORTH:    And now it's too late.
+(Cut to BEAST watching BELLE leave from above.  He roars in sorrow and anger.
+His roar turns into the sound of the wind.  BELLE is out in the snow, calling
+out "Papa?"  Finally, she finds him face down in a snowbank.  They return home,
+where LEFOU is still waiting, disguised as a snowman.)
+LEFOU:        Oh, they're back.
+(Cut to black.  POV of MAURICE as his eyes open. He sees BELLE.)
+MAURICE:      Belle?
+BELLE:        It's all right, Papa. I'm home.
+MAURICE:      I thought I'd never see you again.
+BELLE:        I missed you so much.
+MAURICE:      But the beast.  How did you escape?
+BELLE:        I didn't escape, Papa.  He let me go.
+MAURICE:      That horrible beast?
+BELLE:        But he's different, now.  He's changed somehow.
+(There is sound coming from BELLE's pack.  The flap opens and the MAGIC MIRROR
+falls out with CHIP rolling to a stop on it.)
+CHIP:         Hi!
+BELLE:        Oh, a stowaway.
+MAURICE:      Why, hello there, little fella.  Didn't think I'd ever see you
+              again.
+(CHIP turns to BELLE with a look of question on his face.)
+CHIP:         Belle, why'd you go away? Don't you like us anymore?
+BELLE:        Oh, Chip.  Of course I do.  It's just that--
+(There is a knocking at the door.  BELLE opens it and MONSIEUR D'ARQUE stands on
+the porch.)
+BELLE:        May I help you?
+D'ARQUE:      I've come to collect your father. (He steps aside to show the
+              Asylum D'Loons wagon behind him.)
+BELLE:        My father?
+D'ARQUE:      Don't worry, mademoiselle.  We'll take good care of him.
+BELLE:        My father's not crazy.
+LEFOU:        (Emerging from the crowd) He was raving like a lunatic. We all
+              heard him, didn't we!
+BYSTANDERS:   Yeah!
+BELLE:        No, I won't let you.
+(MAURICE has emerged from the home.)
+MAURICE:      Belle?
+LEFOU:        Ah, Maurice.  Tell us again, old man, just how big was the beast?
+MAURICE:      (Struggling) Well, he was...that is...enormous. I'd say at least
+              eight, no more like ten feet.  (CROWD laughs at him.)
+LEFOU:        Well, you don't get much crazier than that.
+MAURICE:      It's true, I tell you!
+(D'ARQUE waves his arms and ORDERLIES move in and pick up MAURICE.)
+LEFOU:        Take him away!
+MAURICE:      Let go of me!
+(GASTON has been watching from the sides, standing near D'ARQUE.)
+BELLE:        (To D'ARQUE.) No, you can't do this! (D'ARQUE shakes her off and
+              walks away.)
+GASTON:       Tsk, tsk, tsk. Poor Belle.  It's a shame about your father.
+BELLE:        You know he's not crazy, Gaston.
+GASTON:       I might be able to clear up this little misunderstanding, if...
+BELLE:        If what?
+GASTON:       If you marry me.
+BELLE:        What?
+GASTON:       One little word, Belle.  That's all it takes.
+BELLE:        Never!
+GASTON:       Have it your way. (Turns and walks away slowly, playing hard to
+              get.)
+MAURICE:      (Being thrown into the wagon.) Belle? (She runs back into the
+              house.) Let go of me!
+BELLE:        (Comes back out with MAGIC MIRROR. She yells to the crowd.) My
+              father's not crazy and I can prove it!  (To MIRROR) Show me the
+              beast! (MAGIC MIRROR again shines, then produces the image of
+              the still depressed BEAST.  The crowd oohs and aahs at it.)
+WOMAN 1:      Is it dangerous?
+BELLE:        (Trying to reassure her) Oh, no.  He'd never hurt anyone.  Please,
+              I know he looks vicious, but he's really kind and gentle.  He's my
+              friend.
+GASTON:       If I didn't know better, I'd think you had feelings for this
+              monster.
+BELLE:        He's no monster, Gaston. You are!
+GASTON:       She's as crazy as the old man.  (He grabs the MIRROR from her
+              hand.)
+              The beast will make off with your children!
+              He'll come after them in the night.
+BELLE:        No!
+GASTON:       We're not safe 'til his head is mounted on my wall!
+              I say we kill the beast!
+(MOB cheers him and repeats the words 'kill him'.)
+MAN 1:        We're not safe until he's dead,
+MAN 2:        He'll come stalking us at night!
+WOMAN 1:      Set to sacrifice our children to his monstrous appetite!
+MAN 3:        He'll wreak havoc on our village
+              If we let him wander free
+GASTON:       So it's time to take some action, boys
+              It's time to follow me!
+(GASTON throws a torch into a haystack, creating an instant bonfire.  He begins
+to prance around it, warning of the dangers of the horrible BEAST.)
+              Through the mist, through the woods
+              Through the darkness and the shadows
+              It's a nightmare but it's one exciting ride.
+ 
+              Say a prayer, then we're there
+              At the drawbridge of a castle,
+              And there's something truly terrible inside.
+(GASTON chases LEFOU around, mimicking a monster.)
+              It's a beast,
+              He's got fangs, razor sharp ones
+              Massive paws,
+              Killer claws for the feast
+(MAGIC MIRROR shows the face of BEAST to LEFOU, which GASTON exaggerates about.)
+              Hear him roar, see him foam,
+              But we're not coming home,
+              'Til he's dead, good and dead, kill the beast!
+
+BELLE:        (Interjecting) No, I won't let you do this.
+GASTON:       If you're not with us, you're against us.  Bring the old man.
+MAURICE:      Get your hands off me!
+(GASTON throws them into the basement and bolts the door.)
+GASTON:       We can't have them running off to warn the creature!
+BELLE:        Let us out!
+GASTON:       (To the CROWD) We'll rid the village of this beast. Who's with me?
+(A chorus of "I am"s comes from the CROWD)
+MOB:          Light your torch, mount your horse!
+GASTON:       Screw your courage to the sticking place
+MOB:          We're counting on Gaston to lead the way!
+              Through a mist, to a wood,
+              Where within a haunted castle,
+              Something's lurking that you don't see every day!
+(GASTON leads the MOB through the town and out into the forest, where they start
+chopping trees in preparation for their assault on the castle.)
+              It's a beast,
+              One as tall as a mountain!
+              We won't rest
+              'Til he's good and deceased!
+ 
+              Sally forth, tally ho,
+              Grab your sword, grab your bow
+              Praise the Lord and here we go!
+GASTON:       We'll lay siege to his castle and bring back his head!
+(Cut to int of basement, where BELLE is prying at the window with a stick.)
+BELLE:        I have to warn the beast. This is all my fault.  Oh, Papa.  What
+              are we going to do?
+MAURICE:      (Comforting her) Now, now.  We'll think of something.
+(We see CHIP looking in through the window.  He turns around, thinking, and then
+he sees MAURICE's contraption with the axe on the end of it.)
+MOB:          We don't like, what we don't
+              Understand, it frankly scares us
+              And this monster is mysterious at least!
+ 
+              Bring your guns, bring your knives,
+              Save your children and your wives,
+              We'll save our village and our lives,
+              We'll kill the beast!
+COGSWORTH:    I knew it, I knew it was foolish to get our hopes up.
+LUMIERE:      Maybe it would have been better if she had never come at all.
+(FOOTSTOOL comes in barking.  They rush over to the window expecting the return
+of BELLE.)
+LUMIERE:      Could it be?
+MRS. POTTS:   Is it she?
+LUMIERE:      (Realizing the MOB is not BELLE)  Sacre bleu, invaders!
+COGSWORTH:    Encroachers!
+MRS. POTTS:   (Seeing GASTON) And they have the mirror!
+COGSWORTH:    (Issuing orders) Warn the master.  If it's a fight they want,
+              we'll be ready for them.  (Turns around from window) Who's with
+              me?  Aahh! (The door is slammed as the rest of the OBJECTS leave
+              COGSWORTH behind.)
+GASTON:       Take whatever booty you can find, but remember, the beast is mine!
+(Cut to stairway, where OBJECTS are marching down to do battle with the MOB.)
+OBJECTS:      Hearts ablaze, banners high!
+              We go marching into battle,
+              Unafraid, although the danger just increased!
+MOB:          Raise the flag, sing the song
+              Here we come, we're fifty strong
+              And fifty Frenchmen can't be wrong,
+              Let's kill the beast!
+(Cut to int of BEAST's lair, where MRS. POTTS is briefing him.)
+MRS. POTTS:   Pardon me, master.
+BEAST:        Leave me in peace.
+MRS. POTTS:   But sir, the castle is under attack!
+MOB:          Kill the beast, kill the beast!
+(The OBJECTS have tried to block off the door, but it is being bashed in by the
+MOB.)
+LUMIERE:      This isn't working!
+FEATHERDUSTER:
+              Oh, Lumiere! We must do something!
+LUMIERE:      Wait!  I know!
+MOB:          Kill the beast, kill the beast!
+(Cut to BEAST's lair)
+MRS. POTTS:   What shall we do, master?
+BEAST:        (Still very sad) It doesn't matter now.  Just let them come.
+MOB:          Kill the beast, kill the beast, kill the beast!!
+(The MOB succeeds in breaking in, and finds a grand entrance filled with
+assorted pieces of furniture, teacups, candlesticks, featherdusters and clocks.
+They tiptoe in, and LEFOU unknowingly picks up LUMIERE. )
+LUMIERE:      Now!!!
+(All the objects spring into life, attacking their human enemies.  Cut back to
+BELLE's home, where CHIP has readied the invention.)
+CHIP:         Yes!  Here we go!
+(MAURICE looks out from the window and sees the advancing axe.)
+MAURICE:      What the devil?  Belle, look out!
+(The invention crashes into the door, and a red cloud of smoke poofs out of the
+basement.  BELLE and MAURICE emerge from the wreckage to find CHIP swinging on a
+loose spring.)
+CHIP:         You guys gotta try this thing.
+(Cut back to the castle where the attack continues.  Meanwhile, GASTON has
+broken off from the mob, and is searching out BEAST.  BELLE, MAURICE, PHILLIPE
+and CHIP are making their way to the castle. Finally, the invaders are chased
+out and the objects celebrate their victory.)
+COGSWORTH:    And stay out!
+(LUMIERE pulls over COGSWORTH and kisses him once on each cheek.  COGSWORTH
+shakes it off. Cut to GASTON, who finds BEAST's lair.  He raises his crossbow
+and takes aim.  BEAST looks up at him, then looks back down in sadness again.
+GASTON releases the arrow and it strikes BEAST in the shoulder.  He screams in
+pain and stands.  GASTON rushes him and they fly out the window onto the
+balcony, where it has begun to rain.)
+GASTON:       Ha ha ha ha ha!
+(GASTON corners BEAST on the edge of the roof.  BEAST simply sits there in
+despair.)
+GASTON:       Get up! Get up!  What's the matter, Beast?  Too kind and gentle to
+              fight back?
+(BEAST looks down ignoring him. GASTON walks into the foreground and breaks off
+a piece of the roof.  He is about to smash it on BEAST's head when BELLE's voice
+drifts up.  She is on the bridge and is yelling to GASTON, telling him to stop.)
+BELLE:        No!
+BEAST:        (Hearing her voice and giving him new life) Belle.
+BELLE:        Gaston, don't!
+(GASTON swings down at BEAST, but he catches the weapon in his hand.  BEAST
+rises up and roars in GASTON's face.  They proceed through a fight on the
+rooftop.  Finally, BEAST takes a hiding place among the gargoyles in the
+darkness.  Meanwhile, BELLE enters the castle on the ground.)
+BELLE:        Let's go, Phillipe!
+GASTON:       Come on out and fight!  Were you in love with her, beast?  Did you
+              honestly think she'd want you when she had someone like me?
+(BEAST has been provoked enough. He emerges and they fight again.)
+GASTON:       It's over, beast!  Belle is mine!
+(This time, however, BEAST picks up GASTON by the neck and holds him out over
+the edge of the roof. GASTON pleads with BEAST.)
+GASTON:       Put me down.  Put me down.  Please, don't hurt me! I'll do
+              anything! Anything!
+(BEAST's anger slowly melts off his face, and the look of compassion returns.
+He pulls GASTON back onto the roof.)
+BEAST:        Get out!
+(He shoves GASTON to the ground.  Above, BELLE comes out on a balcony.)
+BELLE:        Beast!
+BEAST:        Belle!
+(BEAST begins to climb the tower (very much like King Kong) until he reaches the
+balcony.  He hangs over the side.)
+BEAST:        Belle? You came back!
+(BEAST and BELLE stare passionately at each other, but the moment is interrupted
+when GASTON sneaks up and stabs BEAST in the back.  BEAST roars in pain, and
+BELLE is helpless. GASTON pulls the knife out and swings back for another shot.
+BEAST starts to fall, knocking GASTON off his balance.  BELLE reaches forward
+and pulls BEAST back, while GASTON falls off never to be seen again. BELLE helps
+the injured BEAST up onto the balcony, where he lies down on the floor.  The
+OBJECTS come rushing out, but stay out of sight.)
+BEAST:        You came back.
+BELLE:        Of course I came back.  I couldn't let them...Oh this is all my
+              fault.  If only I'd gotten here sooner.
+BEAST:        Maybe it's better this way.
+BELLE:        Don't talk like that.  You'll be all right.  We're together now.
+              Everything's going to be fine.  You'll see.
+BEAST:        At least I got to see you one... last...time.
+(BELLE pulls BEAST's paw up to her cheek.  He holds it there for a second, then
+drops it.  His head falls back, and his eyes close. BELLE drops the paw and puts
+her hands to her mouth. She can't believe this has happened.)
+BELLE:        (Crying)  No, no! Please!  Please! Please don't leave me!  I love
+              you!
+(Cut to OBJECTS, who watch the last petal fall off the rose. They all look down
+at the floor, and COGSWORTH puts his arm around MRS. POTTS. Cut back to BELLE
+and BEAST.  The rain continues to fall. But one beam of light falls, like a
+shooting star.  Then another comes.  And another, and another.  BELLE finally
+notices what is happening.  She stops crying for a second, then starts to back
+away. We cut A fog begins to enshroud BEAST.  We see the OBJECTS looking on in
+extreme anticipation.  BEAST rises up into the air magically and begins to turn.
+He is enveloped in a cloud of light, and becomes wrapped in his cloak.
+Underneath, we can see BEAST's body shifting and forming.  A fore paw comes out
+and the claws turn into fingers.  A hind paw emerges and develops into a foot.
+Finally, a wind blows across his face and the fur melts away to reveal a young
+prince.  He gradually descends and is laid on the floor again.  The fog
+disappears and BELLE reaches out to touch him.  She jerks her hand back,
+however, when the figure begins to move. It stands, then looks at it's hands,
+then turns to face BELLE.  It is a human, with the same blue eyes as BEAST.  It
+is obviously BEAST, transformed. BELLE gives him a mysterious look.)
+PRINCE:       Belle!  It's me!
+(She continues to look at him skeptically,but then she sees the blue eyes, and
+instantly knows it is him.)
+BELLE:        It is you!
+(They kiss.  A fireworks display explodes around them.  The gloom surrounding
+the castle disappears, revealing a blue sky.  The castle is transformed, with
+the gargoyles changing into cherubs.  Finally, we return to the balcony, where
+the OBJECTS hop out to meet the PRINCE and BELLE.  One by one, they are
+transformed back to their original human conditions.)
+PRINCE:       Lumiere!  Cogsworth! Oh, Mrs. Potts! Look at us!
+(CHIP comes riding in on FOOTSTOOL.)
+CHIP:         Mama! Mama!  (The pair transforms back into a boy and dog.)
+MRS. POTTS:   (Picking up her boy)  Oh my goodness!
+LUMIERE:      It is a miracle!
+(The PRINCE picks up BELLE and swings her around.  The ruffles of her skirt wipe
+to the ballroom, where all are gathered to celebrate.  The PRINCE and BELLE
+dance around the room as the rest of the characters get in their last lines.)
+LUMIERE:      Ah, l'amour.  (He says this, and a maid, obviously the former
+              FEATHERDUSTER walks by, brushing him on the chin.)  Heh heh! (He
+              starts to chase after her, but COGSWORTH stops him.)
+COGSWORTH:    Well, Lumiere, old friend.  Shall we let bygones be bygones?
+LUMIERE:      Of course, mon ami.  I told you she would break the spell.
+COGSWORTH:    I beg your pardon, old friend, but I believe I told you.
+LUMIERE:      No you didn't.  I told you.
+COGSWORTH:    You most certainly did not, you pompous parrafin-headed
+              pea-brain!
+LUMIERE:      En garde, you overgrown pocket watch! (He takes off his glove and
+              slaps COGSWORTH across the face with it.  They begin to fight.
+              Cut to BELLE and the PRINCE who continue to dance around the
+              floor.  The camera stops on MRS.  POTTS, CHIP and MAURICE, who
+              is beginning to cry.)
+CHIP:         Are they gonna live happily ever after, mama?
+MRS. POTTS:   Of course, my dear. Of course.
+CHIP:         (Looks happy for a moment, then puzzled.) Do I still have to
+              sleep in the cupboard?
+(MAURICE laughs and MRS. POTTS hugs her child and laughs.  Cut to a camera
+looking over the entire ballroom with all in the shot.  It slowly zooms out with
+BELLE and the PRINCE dancing around the room, and fades into the final stained
+glass window, this one with BELLE and the PRINCE in the center, surrounded by
+the rest of the characters.)
+CHORUS:       Certain as the sun
+              Rising in the east
+              Tale as old as time, song as old as rhyme
+              Beauty and the beast!
+
+              Tale as old as time, song as old as rhyme
+              Beauty and the beast!
+
+(Fade out into credits. The end.)
