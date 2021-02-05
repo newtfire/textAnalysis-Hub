@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <xml>
-    <cardInfo color="green">
+    <cardInfo color="green/black">
     <cardName flip="yes">Garruk Relentless</cardName>
     <cardName flip="yes">Garruk, the Veil-Cursed</cardName>
     <cardType CT="PW">Legendary <loyalty n="3">Planeswalker</loyalty> — Garruk</cardType>
