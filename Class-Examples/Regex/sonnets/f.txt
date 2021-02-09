@@ -1,0 +1,25 @@
+#this program will ask the user to enter the amount of sales tax
+#the program will calculate the total including the sales tax
+
+# variables
+sales = 0.0
+tax_percent = .07
+tax = 0.0
+total = 0.0
+
+#prompt the user for the sales amount
+
+sales = float(input('Enter sales: '))
+
+#Calculate the tax
+
+tax = sales * tax_percent
+
+#calcualte the total
+
+total = sales + tax
+
+#print the output
+
+print ('The total including the tax is $' , format (total,',.2f))
+
