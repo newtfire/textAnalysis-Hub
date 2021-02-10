@@ -7,7 +7,7 @@
     <cardType CT="PW">Legendary <loyalty n="3">Planeswalker</loyalty> — Garruk</cardType>
     <cardMC>1 Green, 3 Colorless</cardMC>
     <cardCMC amount="4">4</cardCMC>
-    <cardRarity>Mythic</cardRarity>
+    <cardRarity rarity="mythic">Mythic</cardRarity>
     <cardExpansion date="9/22/2011">Innistrad</cardExpansion>
     <cardArtist>Eric Deschamps</cardArtist>
     </cardInfo>
