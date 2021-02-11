@@ -1,0 +1,6 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = sonnets
+sonnets = element sonnets {sonnet+}
+sonnet = element sonnet {number, line+}
+line = element line {text}
+number = attribute number {text}
