@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="blithedale-schema.rnc" type="application/relax-ng-compact-syntax"?>
 <book>
   <metadata>
     <title>The Blithedale Romance</title>
