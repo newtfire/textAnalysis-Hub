@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="blithedale-schema.rnc" type="application/relax-ng-compact-syntax"?>
 <book>
-  <header>
+  <metadata>
     <title>The Blithedale Romance</title>
     <author>Nathaniel Hawthorne</author>
     <publisher where="Boston" when="1852">Ticknor, Reed, and Fields</publisher>
-  </header>
+    <source type="digital" url="https://www.gutenberg.org/files/2081/2081-h/2081-h.htm"/>
+  </metadata>
   <contents>
     <head>Table of Contents</head>
     <title>I. OLD MOODIE</title>

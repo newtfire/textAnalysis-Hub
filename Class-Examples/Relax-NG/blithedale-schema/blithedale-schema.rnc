@@ -1,0 +1,15 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = book
+book = element book {metadata, contents, chapter+}
+metadata = element metadata {title, author, publisher}
+
+title = element title {text}
+author = element author {text}
+publisher = element publisher {where, when, text}
+where = attribute where {text}
+when = attribute when {xsd:gYear}
+
+contents = element contents {head, }
+
+# ebb: Just a start on the schema here...
+
