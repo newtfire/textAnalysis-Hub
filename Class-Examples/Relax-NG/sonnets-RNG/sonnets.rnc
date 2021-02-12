@@ -1,6 +1,21 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = sonnets
-sonnets = element sonnets {sonnet+}
+sonnets = element sonnets {metadata, sonnet+}
+metadata = element metadata {title, author, language, sourceInfo}
+title = element title {text}
+author = element author {text}
+language = element language {text}
+sourceInfo = element sourceInfo {credits, postingDate, releaseDate, lastUpdated, permissions}
+credits = element credits{mixed{persName+}}
+persName = element persName {text}
+postingDate = element postingDate {when, text}
+when = attribute when {xsd:date | xsd:gYearMonth| xsd:gYear}
+releaseDate = element releaseDate {when, text}
+lastUpdated = element lastUpdated {when, text}
+permissions = element permissions {mixed{license}}
+license = element license {xsd:anyURI}
+
 sonnet = element sonnet {number, line+}
-line = element line {text}
 number = attribute number {text}
+line = element line {n, text}
+n = attribute n {xsd:integer}

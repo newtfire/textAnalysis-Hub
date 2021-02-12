@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="sonnets.rnc" type="application/relax-ng-compact-syntax"?>
 <sonnets>
+    <metadata>
+        <title>The Sonnets</title>
+        <author>William Shakespeare</author>
+        <language>English</language>
+        <sourceInfo>
+            <credits>Produced by <persName>Michael Pullen</persName> and <persName>Tom
+                    Gannett</persName>. HTML version by <persName>Al Haines</persName>.</credits>
+            <postingDate when="2014-04-07">April 7, 2014 [EBook #1041]</postingDate>
+            <releaseDate when="1997-09">September, 1997</releaseDate>
+            <lastUpdated when="2010-03-10">March 10, 2010</lastUpdated>
+            <permissions>This eBook is for the use of anyone anywhere at no cost and with almost no
+                restrictions whatsoever. You may copy it, give it away or re-use it under the terms
+                of the Project Gutenberg License included with this eBook or online at
+                    <license>https://www.gutenberg.org</license></permissions>
+        </sourceInfo>
+    </metadata>
     <sonnet number="I">
         <line>From fairest creatures we desire increase,</line>
         <line>That thereby beauty's rose might never die,</line>
