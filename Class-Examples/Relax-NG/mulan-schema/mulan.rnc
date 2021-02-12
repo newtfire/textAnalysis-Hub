@@ -1,0 +1,18 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = xml
+xml = element xml {source, (stage | sp)+}
+source = element source {title, transcriptInfo, propertyStmt}
+title = element title {text}
+transcriptInfo = element transcriptInfo {mixed{transcriber, transcriptDate, scriptSource}}
+transcriber = element transcriber {text}
+transcriptDate = element transcriptDate {when, text}
+when = attribute when {xsd:date}
+scriptSource = element scriptSource {mixed{sourceLink}}
+sourceLink = element sourceLink {xsd:anyURI}
+propertyStmt = element propertyStmt {mixed{orgName}}
+orgName = element orgName {text}
+
+stage = element stage {text}
+sp = element sp {n, mixed{speaker, stage*}}
+n = attribute n {xsd:integer}
+speaker = element speaker {mixed{stage*}}
