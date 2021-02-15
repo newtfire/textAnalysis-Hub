@@ -11,7 +11,7 @@
    <source>
     <xsl:apply-templates/>
     <roles>
-        <xsl:for-each select="//speaker/text() => distinct-values()">
+        <xsl:for-each select="//speaker/text() ! normalize-space() => distinct-values()">
             <character><xsl:value-of select="current()"/></character>
         </xsl:for-each>
     </roles>
