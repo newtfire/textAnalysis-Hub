@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="sonnets-class.rnc" type="application/relax-ng-compact-syntax"?>
 <sonnets>
     <metadata>
         <title>The Sonnets</title>

@@ -6,16 +6,22 @@ title = element title {text}
 author = element author {text}
 language = element language {text}
 sourceInfo = element sourceInfo {credits, postingDate, releaseDate, lastUpdated, permissions}
-credits = element credits{mixed{persName+}}
+credits = element credits {mixed{persName+}}
+# ebb: See in line 9 we have MIXED SYNTAX. This lets text flow freely and unpredictably around elements. 
 persName = element persName {text}
 postingDate = element postingDate {when, text}
-when = attribute when {xsd:date | xsd:gYearMonth| xsd:gYear}
 releaseDate = element releaseDate {when, text}
 lastUpdated = element lastUpdated {when, text}
+
+when = attribute when {xsd:date | xsd:gYearMonth | xsd:gYear}
+# This is showing an "or pipe"
+
 permissions = element permissions {mixed{license}}
 license = element license {xsd:anyURI}
-
 sonnet = element sonnet {number, line+}
 number = attribute number {text}
 line = element line {n, text}
 n = attribute n {xsd:integer}
+
+
+

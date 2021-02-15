@@ -1,0 +1,3 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+element test { xsd:double }
