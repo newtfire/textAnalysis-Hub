@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="mulan.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="mulan.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-  <source><title>Disney’s Mulan</title>
+  <source>
+    <title>Disney’s Mulan</title>
     <transcriptInfo>Compiled by <transcriber>Barry Adams</transcriber> while watching Mulan in the
       theater during the summer of 1998 when the film originally aired. <transcriptDate
         when="1998-08-18">Last updated: August 18, 1998</transcriptDate>
@@ -10,30 +10,97 @@
     </transcriptInfo>
     <propertyStmt>Mulan is the property and copyright of the <orgName>Walt Disney Company,
         Inc</orgName>.</propertyStmt>
+    <roles>
+      <character>Guard</character>
+      <character>Shan-Yu</character>
+      <character gender="m">General Li</character>
+      <character>Chi Fu</character>
+      <character gender="m">Emperor</character>
+      <character gender="f">Mulan</character>
+      <character gender="m">Fa Zhou</character>
+      <character gender="f">Bath Lady</character>
+      <character gender="f">Fa Li</character>
+      <character gender="f">Grandma Fa</character>
+      <character>Hair Dresser 1</character>
+      <character>Hair Dresser 2</character>
+      <character>Dresser 1</character>
+      <character>Dresser 2</character>
+      <character type="coll">Chorus</character>
+      <character gender="f">Make-up Lady/Fa Li</character>
+      <character type="coll" gender="mixed">Townspeople</character>
+      <character gender="m">Maiden #1</character>
+      <character>Matchmaker</character>
+      <character gender="m">Yi's Son</character>
+      <character>First Ancestor</character>
+      <character>Mushu</character>
+      <character>Ancestor 1</character>
+      <character>Ancestor 3</character>
+      <character>Ancestor 2</character>
+      <character>Ancestor 4</character>
+      <character>Ancestor 5</character>
+      <character>Ancestor 6</character>
+      <character>Ancestor 7</character>
+      <character>Ancestor 8</character>
+      <character>Ancestor 9</character>
+      <character>Fa Deng</character>
+      <character type="animal">Cri-Kee</character>
+      <character gender="m">Hun Long-Hair Guy</character>
+      <character>Scout #1</character>
+      <character>Scout #2</character>
+      <character gender="m">Archer Guy</character>
+      <character>Tattoo Soldier</character>
+      <character>Ling</character>
+      <character>Yao</character>
+      <character>Chien-Po</character>
+      <character>Shang</character>
+      <character type="coll">Recruits</character>
+      <character>Recruit #2</character>
+      <character>Recruit #3</character>
+      <character type="coll">Soldiers</character>
+      <character>Shang and Chorus</character>
+      <character gender="m">Hun Strong Man</character>
+      <character gender="m">Bald Hun Man #1</character>
+      <character gender="m">Long Hair Hun Man</character>
+      <character>Hun Archer</character>
+      <character type="coll">Army Chorus</character>
+      <character type="animal">Cow</character>
+      <character type="coll" gender="m">Army Men</character>
+      <character>Chien-po</character>
+      <character>Yao, Chien-Po and Ling</character>
+      <character>Hun Soldier</character>
+      <character>Parade Leader</character>
+      <character gender="m">Hun Bald Man #2</character>
+      <character gender="m">Hun Bald Man #1</character>
+      <character gender="m">Barry Cook</character>
+      <character gender="m">Man in Crowd #1</character>
+      <character gender="m">Man in Crowd #2</character>
+      <character gender="m">Little Brother</character>
+    </roles>
   </source>
 
-  <stage>Chinese guard is seen walking on The Great Wall. Shan-Yu's falcon swoops down and hits the
-    guard on the head knocking his helmet off. The falcon lands on top of a flag pole in front of a
-    full moon and lets out a large cry. One grappling hook comes over The Great Wall. The guard
-    walks over to the edge and sees many grappling hooks coming towards him</stage>
+  <stage type="scene" n="1">Chinese guard is seen walking on The Great Wall. Shan-Yu's falcon swoops
+    down and hits the guard on the head knocking his helmet off. The falcon lands on top of a flag
+    pole in front of a full moon and lets out a large cry. One grappling hook comes over The Great
+    Wall. The guard walks over to the edge and sees many grappling hooks coming towards him</stage>
 
   <sp n="1"><speaker>Guard <stage>yelling</stage></speaker> We're under attack! Light the
     signal!</sp>
 
-  <stage>Guard runs to the tower and up the ladder as Hun Bald Man #1 and Hun Long Hair Man appear
-    trying to stop him. Hun Bald Man #1 breaks the ladder with his sword just as Guard reaches the
-    top. The guard picks up the torch to light the fire and sees Shan-Yu jump over the edge of the
-    tower and looks at him across from the caldron. The guard throws the torch into the caldron
-    lighting a large fire. Shan-Yu watches as each tower lights their caldrons one by one</stage>
+  <stage type="scene" n="2">Guard runs to the tower and up the ladder as Hun Bald Man #1 and Hun
+    Long Hair Man appear trying to stop him. Hun Bald Man #1 breaks the ladder with his sword just
+    as Guard reaches the top. The guard picks up the torch to light the fire and sees Shan-Yu jump
+    over the edge of the tower and looks at him across from the caldron. The guard throws the torch
+    into the caldron lighting a large fire. Shan-Yu watches as each tower lights their caldrons one
+    by one</stage>
 
   <sp n="2"><speaker>Guard <stage>sternly</stage></speaker> Now all of China knows you're here.</sp>
 
   <sp n="3"><speaker>Shan-Yu <stage>taking the flag and holding it over the fire</stage></speaker>
     Perfect.</sp>
 
-  <stage>Cut to the palace. The large doors to the central chamber open as General Li walks in
-    flanked on his left and right by soldiers and approaches the Emperor. He bows, then looks
-    up</stage>
+  <stage type="scene" n="3">Cut to the palace. The large doors to the central chamber open as
+    General Li walks in flanked on his left and right by soldiers and approaches the Emperor. He
+    bows, then looks up</stage>
 
   <sp n="4"><speaker>General Li</speaker> Your Majesty, the Huns have crossed our Northern
     border.</sp>
@@ -58,8 +125,8 @@
   <sp n="11"><speaker>Emperor</speaker> I wont take any chances, General. A single grain of rice can
     tip the scale. One man may be the difference between victory and defeat.</sp>
 
-  <stage>Cut to Mulan using her chopsticks to single out a grain of rice on top of the mound of
-    rice</stage>
+  <stage type="scene" n="4">Cut to Mulan using her chopsticks to single out a grain of rice on top
+    of the mound of rice</stage>
 
   <sp n="12"><speaker>Mulan</speaker> Quiet and demure...graceful...polite...<stage>picking up some
       rice with her chopsticks and eating a mouthful</stage> delicate...refined...poised...
@@ -68,14 +135,14 @@
     brother. Lit- ahhh, there you are. Who's the smartest doggie in the world? Come on smart boy,
     can you help me with my chores today?</sp>
 
-  <stage>Mulan ties a sack of grain around Little Brother's waist. She ties a stick onto Little
-    brother so that end of it is in front of Little Brother's face. She ties the bone on the end of
-    the stick just out of reach. Little Brother begins to run after the bone which he cannot reach.
-    Mulan opens the door for Little Brother and he runs into the door frame, then out the open door.
-    Little brother runs by the chickens and Khan - the family horse</stage>
+  <stage type="scene" n="5">Mulan ties a sack of grain around Little Brother's waist. She ties a
+    stick onto Little brother so that end of it is in front of Little Brother's face. She ties the
+    bone on the end of the stick just out of reach. Little Brother begins to run after the bone
+    which he cannot reach. Mulan opens the door for Little Brother and he runs into the door frame,
+    then out the open door. Little brother runs by the chickens and Khan - the family horse</stage>
 
-  <stage>Cut to Mulan's Father, Fa Zhou, kneeling and praying before the Fa family's
-    ancestors</stage>
+  <stage type="scene" n="6">Cut to Mulan's Father, Fa Zhou, kneeling and praying before the Fa
+    family's ancestors</stage>
 
   <sp n="13"><speaker>Fa Zhou</speaker> Honorable ancestors, please help Mulan impress the
     matchmaker today. </sp>
@@ -83,13 +150,14 @@
   <sp n="14">Little Brother <stage>running into the temple and around Fa Zhou scattering grain
       around the floor</stage>: Bark, bark, bark, bark, bark.</sp>
 
-  <stage>The chickens follow Little Brother into the temple and begin to feed on the grain</stage>
+  <stage type="scene" n="7">The chickens follow Little Brother into the temple and begin to feed on
+    the grain</stage>
 
   <sp n="15"><speaker>Fa Zhou</speaker> Please, PLEASE, help her.</sp>
 
-  <stage>Mulan steps up to the temple seeing Little Brother on his hind legs trying to get the bone.
-    Mulan bends the stick down so that Little brother can reach the bone. Little brother gnaws on
-    the bone happily. Mulan continues toward the temple</stage>
+  <stage type="scene" n="8">Mulan steps up to the temple seeing Little Brother on his hind legs
+    trying to get the bone. Mulan bends the stick down so that Little brother can reach the bone.
+    Little brother gnaws on the bone happily. Mulan continues toward the temple</stage>
 
   <sp n="16"><speaker>Mulan <stage>calling out</stage></speaker> Father I brought your--whoop!
       <stage>Fa Zhou bumps into Mulan. The cup falls to the ground and Fa Zhou catches the teapot
@@ -120,7 +188,7 @@
   <sp n="25"><speaker>Fa Zhou <stage>calling out</stage></speaker> Hurry! <stage>to himself</stage>
     I'm going to...pray some more. <stage>Fa Zhou turns and walks back into the temple</stage></sp>
 
-  <stage>Cut to the town with Fa Li looking worried</stage>
+  <stage type="scene" n="9">Cut to the town with Fa Li looking worried</stage>
 
   <sp n="26"><speaker>Bath Lady <stage>poking out of her building</stage></speaker> Fa Li, is your
     daughter here yet? The matchmaker is not a patient woman. <stage>She goes back into the
@@ -136,17 +204,17 @@
 
   <sp n="29"><speaker>Fa Li <stage>excitedly</stage></speaker> Grandma No!</sp>
 
-  <stage>The traffic barely misses Grandma Fa as she crosses the busy street. But two horse and
-    carriage collide causing a big accident. She arrives at the other side of the street, uncovers
-    here eyes and looks at Cri-Kee</stage>
+  <stage type="scene" n="10">The traffic barely misses Grandma Fa as she crosses the busy street.
+    But two horse and carriage collide causing a big accident. She arrives at the other side of the
+    street, uncovers here eyes and looks at Cri-Kee</stage>
 
   <sp n="30"><speaker>Grandma Fa</speaker> Yep, this cricket's a lucky one. <stage>Cri-Kee falls
       over out of fright</stage></sp>
 
   <sp n="31"><speaker>Fa Li <stage>sighing in relief</stage></speaker> Hai.</sp>
 
-  <stage>Mulan arrives on Khan jumping over the recent accident in the street and jumps off with hay
-    stuck in her hair</stage>
+  <stage type="scene" n="11">Mulan arrives on Khan jumping over the recent accident in the street
+    and jumps off with hay stuck in her hair</stage>
 
   <sp n="32"><speaker>Mulan</speaker> I'm here. <stage>Seeing a stern look from her mother</stage>
     What? But Mama I had to--</sp>
@@ -154,7 +222,7 @@
   <sp n="33"><speaker>Fa Li</speaker> None of your 'xcuses. Now let's get you cleaned up.
       <stage>They walk together into the preparation area</stage></sp>
 
-  <stage>Song: Honor to us all</stage>
+  <stage type="scene" n="12">Song: Honor to us all</stage>
 
   <sp n="34"><speaker>Bath Lady</speaker>
     <stage>all the while Bath Lady undresses Mulan and pushes her into the Bath</stage> This is what
@@ -182,7 +250,7 @@
       cricket to Fa Li</stage>. We'll need more luck than I thought. <stage>Mulan looks on with an
       air of disappointment</stage></sp>
 
-  <stage>Cut to the hair dressers</stage>
+  <stage type="scene" n="13">Cut to the hair dressers</stage>
 
   <sp n="41"><speaker>Hair Dresser 1 <stage>Brushing and combing Mulan's hair much to Mulan's
         chagrin</stage></speaker> Wait and see When we're through</sp>
@@ -261,8 +329,8 @@
     us Maiden #3: Please bring honor to us Maiden #4: Please bring honor to us Mulan and Maidens:
     Please bring honor to us all! </sp>
 
-  <stage>All Girls and Mulan arrive before the Matchmaker crouched down behind their parasols. End
-    of song</stage>
+  <stage type="scene" n="14">All Girls and Mulan arrive before the Matchmaker crouched down behind
+    their parasols. End of song</stage>
 
   <sp n="64"><speaker>Matchmaker <stage>looking at her clipboard</stage></speaker> Fa Mulan</sp>
 
@@ -274,8 +342,8 @@
 
   <sp n="68"><speaker>Grandma Fa <stage>to Fa Li</stage></speaker> Who spit in her bean curd?</sp>
 
-  <stage>Mulan walks into the Matchmaker's building with the Matchmaker following behind and closing
-    the door</stage>
+  <stage type="scene" n="15">Mulan walks into the Matchmaker's building with the Matchmaker
+    following behind and closing the door</stage>
 
   <sp n="69"><speaker>Matchmaker <stage>looking over Mulan</stage></speaker> Huh, Hmm, too skinny.
       <stage>Cri-Kee escapes from his cage. Mulan struggles to catch him</stage> Hmph, not good for
@@ -309,8 +377,8 @@
   <sp n="76"><speaker>Mulan <stage>reaching and grabbing the teacup</stage></speaker> Could I just
     take that back...one moment.</sp>
 
-  <stage>They struggle for the teacup and it turns over on Matchmaker and Cri-kee jumps down
-    matchmaker's dress</stage>
+  <stage type="scene" n="16">They struggle for the teacup and it turns over on Matchmaker and
+    Cri-kee jumps down matchmaker's dress</stage>
 
   <sp n="77"><speaker>Matchmaker</speaker> Why you clumsy--<stage>Matchmaker feels Cri-Kee in her
       dress and dances around</stage> Wooo, woooo, wooooooo, <stage>Matchmaker knocks over her pot
@@ -318,8 +386,8 @@
       <stage>Mulan grabs her fan and briskly fans the charred area on Matchmaker's behind causing it
       to flame up. Mulan looks surprised about her mistake</stage></sp>
 
-  <stage>Cut to outside Matchmakers building showing Grandma Fa with much noise coming from
-    Matchmaker's building</stage>
+  <stage type="scene" n="17">Cut to outside Matchmakers building showing Grandma Fa with much noise
+    coming from Matchmaker's building</stage>
 
   <sp n="78"><speaker>Grandma Fa <stage>to Fa Li</stage></speaker> I think it's going well, don't
     you?</sp>
@@ -332,13 +400,13 @@
       it to pieces</stage> You may look like a bride, but you will never bring your family
     honor!</sp>
 
-  <stage>The townsfolk who have gathered whisper and walk away</stage>
+  <stage type="scene" n="18">The townsfolk who have gathered whisper and walk away</stage>
 
-  <stage>Cut to Mulan walking through the gate with her home leading khan. She looks sorrowful. Fa
-    Zhou sees his daughter and smiles. Mulan sees her father's smile. She covers her face with
-    Khan's head and leads him to the water trough</stage>
+  <stage type="scene" n="19">Cut to Mulan walking through the gate with her home leading khan. She
+    looks sorrowful. Fa Zhou sees his daughter and smiles. Mulan sees her father's smile. She covers
+    her face with Khan's head and leads him to the water trough</stage>
 
-  <stage>Song: Reflection</stage>
+  <stage type="scene" n="20">Song: Reflection</stage>
 
   <sp n="80"><speaker>Mulan</speaker> Look at me <stage>looking at her reflection in the water
       trough</stage> I will never pass for a perfect bride <stage>taking off her earrings and beads
@@ -358,9 +426,9 @@
     will my reflection show Who I am inside? <stage>Mulan gets up and heads out the
     temple</stage></sp>
 
-  <stage>End of song. Mulan sits on a bench under the blossom tree. Fa Zhou approaches her, clearing
-    his throat. Mulan sees him approaching and turns her head away. Fa Zhou sits down beside
-    Mulan</stage>
+  <stage type="scene" n="21">End of song. Mulan sits on a bench under the blossom tree. Fa Zhou
+    approaches her, clearing his throat. Mulan sees him approaching and turns her head away. Fa Zhou
+    sits down beside Mulan</stage>
 
   <sp n="82"><speaker>Fa Zhou</speaker> My, my, what beautiful blossoms we have this year
       <stage>looking up into the blossom tree</stage>. But look, this one's late. But, I'll bet that
@@ -369,12 +437,13 @@
 
   <sp n="83"><speaker>Mulan</speaker> What is it?</sp>
 
-  <stage>Fa Zhou gets up and walks to the entrance of their house with Mulan following</stage>
+  <stage type="scene" n="22">Fa Zhou gets up and walks to the entrance of their house with Mulan
+    following</stage>
 
   <sp n="84"><speaker>Fa Li</speaker> Mulan, stay inside.</sp>
 
-  <stage>Grandma Fa clears her throat catching Mulan's attention and motions inside. Mulan spies the
-    railing near the wall and climbs up to watch over the roof</stage>
+  <stage type="scene" n="23">Grandma Fa clears her throat catching Mulan's attention and motions
+    inside. Mulan spies the railing near the wall and climbs up to watch over the roof</stage>
 
   <sp n="85"><speaker>Chi Fu</speaker> Citizens I bring you a proclamation from the Imperial City:
     the Huns have invaded China! </sp>
@@ -392,8 +461,8 @@
 
   <sp n="90"><speaker>Mulan</speaker> No.</sp>
 
-  <stage>Fa Zhou gives his cane to Fa Li and walks toward Chi Fu. Fa Zhou bows before the
-    horsemen</stage>
+  <stage type="scene" n="24">Fa Zhou gives his cane to Fa Li and walks toward Chi Fu. Fa Zhou bows
+    before the horsemen</stage>
 
   <sp n="91"><speaker>Fa Zhou <stage>standing proud</stage></speaker> I am ready to serve the
     Emperor. <stage>Fa Zhou reaches for the conscription notice</stage></sp>
@@ -411,7 +480,7 @@
   <sp n="96"><speaker>Fa Zhou <stage>looking away from Mulan</stage></speaker> Mulan, you dishonor
     me.</sp>
 
-  <stage>Grandma Fa guides Mulan back away</stage>
+  <stage type="scene" n="25">Grandma Fa guides Mulan back away</stage>
 
   <sp n="97"><speaker>Chi Fu <stage>handing Fa Zhou the conscription notice</stage></speaker> Report
     tomorrow at the Wu Shu camp.</sp>
@@ -422,13 +491,13 @@
   <sp n="99"><speaker>Chi Fu <stage>fading out as we follow Fa Zhou</stage></speaker> The Chu
     family. The Wen family. The Chang family. The...</sp>
 
-  <stage>Cut to Fa Zhou in his armory at night. Fa Zhou takes out his sword and practices his
-    stances. Whan he balances on his right leg, his leg injury acts up and he falls. Unbeknownst to
-    her father, Mulan watches in horror. She breathes heavily</stage>
+  <stage type="scene" n="26">Cut to Fa Zhou in his armory at night. Fa Zhou takes out his sword and
+    practices his stances. Whan he balances on his right leg, his leg injury acts up and he falls.
+    Unbeknownst to her father, Mulan watches in horror. She breathes heavily</stage>
 
-  <stage>Cut to dinner. The Fa Zhou, Grandma Fa, Fa Li, and Mulan eat in silence. Thunder can be
-    heard and lightning can be seen through the opaque window. Mulan pours the tea for her family.
-    She slams her teacup down on the table and stands up</stage>
+  <stage type="scene" n="27">Cut to dinner. The Fa Zhou, Grandma Fa, Fa Li, and Mulan eat in
+    silence. Thunder can be heard and lightning can be seen through the opaque window. Mulan pours
+    the tea for her family. She slams her teacup down on the table and stands up</stage>
 
   <sp n="100"><speaker>Mulan</speaker> You shouldn't have to go.</sp>
 
@@ -448,28 +517,28 @@
 
   <sp n="107"><speaker>Fa Zhou</speaker> I know my place, it is time you learned yours.</sp>
 
-  <stage>Mulan looking like she's about to cry, turn away from Fa Zhou and runs outside into the
-    rain storm and cries</stage>
+  <stage type="scene" n="28">Mulan looking like she's about to cry, turn away from Fa Zhou and runs
+    outside into the rain storm and cries</stage>
 
-  <stage>Cut to Mulan sitting at the base of the Great Stone Dragon in the rain. Mulan looks down to
-    see her reflection in the puddle caused by the rain. She watches her parents in the bedroom. Fa
-    Li turns away from Fa Zhou and walks out of site. Fa Zhou blows out the light. Mulan gets up and
-    walks to the Fa Family Temple. Mulan's image reflects off the stone tablets as she lights
-    incense and places it in the hanging encense holder. She bows and prays to her ancestors.
-    Getting up, Mulan hurries down the steps. Cri-Kee sees her and hops down from above and follows
-    her. Mulan goes to her parent's bedroom and takes the conscription notice replacing it with the
-    hair comb her mother gave to her. She pauses to give her parents a loving, sorrowful look and
-    hurries out. Cut to Mulan in the armory. She opens the cabinet with the armor. Using her
-    father's sword, she cuts her hair short and ties it up above her head. She finishes putting on
-    the armor and ties it in the front. She takes the sword and places it in the scabbard to her
-    left. Cut to Mulan in the stable doorway. Khan rears back in fright at the sight of Mulan. Mulan
-    goes forward and comforts Khan letting him know her identity. Mulan walks Khan out of the
-    stable, Cri-Kee watches from the ground as she passes by. Mulan takes one sorrowful glance back
-    at her parents bedroom and rides Khan through the gate and off to camp.</stage>
+  <stage type="scene" n="29">Cut to Mulan sitting at the base of the Great Stone Dragon in the rain.
+    Mulan looks down to see her reflection in the puddle caused by the rain. She watches her parents
+    in the bedroom. Fa Li turns away from Fa Zhou and walks out of site. Fa Zhou blows out the
+    light. Mulan gets up and walks to the Fa Family Temple. Mulan's image reflects off the stone
+    tablets as she lights incense and places it in the hanging encense holder. She bows and prays to
+    her ancestors. Getting up, Mulan hurries down the steps. Cri-Kee sees her and hops down from
+    above and follows her. Mulan goes to her parent's bedroom and takes the conscription notice
+    replacing it with the hair comb her mother gave to her. She pauses to give her parents a loving,
+    sorrowful look and hurries out. Cut to Mulan in the armory. She opens the cabinet with the
+    armor. Using her father's sword, she cuts her hair short and ties it up above her head. She
+    finishes putting on the armor and ties it in the front. She takes the sword and places it in the
+    scabbard to her left. Cut to Mulan in the stable doorway. Khan rears back in fright at the sight
+    of Mulan. Mulan goes forward and comforts Khan letting him know her identity. Mulan walks Khan
+    out of the stable, Cri-Kee watches from the ground as she passes by. Mulan takes one sorrowful
+    glance back at her parents bedroom and rides Khan through the gate and off to camp.</stage>
 
-  <stage>Cut to the face of a statue in the Fa Family Temple. The eyes glow. Cut to Grandma Fa. She
-    wakes up with a start rising in bed. Cut to Grandma Fa walking into Fa Li and Fa Zhou's bedroom,
-    both are in bed</stage>
+  <stage type="scene" n="30">Cut to the face of a statue in the Fa Family Temple. The eyes glow. Cut
+    to Grandma Fa. She wakes up with a start rising in bed. Cut to Grandma Fa walking into Fa Li and
+    Fa Zhou's bedroom, both are in bed</stage>
 
   <sp n="108"><speaker>Grandma Fa</speaker> Mulan is gone.</sp>
 
@@ -487,14 +556,14 @@
 
   <sp n="112"><speaker>Grandma Fa</speaker> Ancestors, hear our prayer: Watch over Mulan.</sp>
 
-  <stage>Cut to the Fa Family Temple. A wind blows out the incense at the base of the center stone.
-    The center stone begins to glow as First Ancestor comes to life</stage>
+  <stage type="scene" n="31">Cut to the Fa Family Temple. A wind blows out the incense at the base
+    of the center stone. The center stone begins to glow as First Ancestor comes to life</stage>
 
   <sp n="113"><speaker>First Ancestor <stage>motioning to a bronze dragon</stage></speaker> Mushu,
     awaken!</sp>
 
-  <stage>Mushu comes to life and falls to the ground flat on his back all being obscured by
-    smoke</stage>
+  <stage type="scene" n="32">Mushu comes to life and falls to the ground flat on his back all being
+    obscured by smoke</stage>
 
   <sp n="114"><speaker>Mushu <stage>rising from the smoke arms stretched out</stage></speaker> I
     live! So tell me what mortal needs my protection Great Ancestor. You just say the word and I'm
@@ -544,7 +613,7 @@
   <sp n="130"><speaker>Ancestor 6</speaker> No, your great granddaughter had to be
     cross-dresser!</sp>
 
-  <stage>All ancestors argue at once, except First Ancestor</stage>
+  <stage type="scene" n="33">All ancestors argue at once, except First Ancestor</stage>
 
   <sp n="131"><speaker>Ancestor 7</speaker> Let a guardian bring her back. </sp>
 
@@ -588,7 +657,7 @@
   <sp n="144"><speaker>Mushu <stage>looking back into the temple</stage></speaker> So you'll get
     back to me on the job thing.</sp>
 
-  <stage>An ancestor throws Mushu's gong and hits Mushu in the face</stage>
+  <stage type="scene" n="34">An ancestor throws Mushu's gong and hits Mushu in the face</stage>
 
   <sp n="145"><speaker>Mushu <stage>walking with a slouch and banging the gong on the
       ground</stage></speaker> Just one chance is that too much to ask? I mean, it's not like it'll
@@ -623,7 +692,7 @@
     something. <stage>Throwing the head off him</stage> That's just great. Now what? I'm doomed! And
     all 'cause miss man decides to take her little drag show on the road.</sp>
 
-  <stage>Cri-Kee enters stage right</stage>
+  <stage type="scene" n="35">Cri-Kee enters stage right</stage>
 
   <sp n="152"><speaker>Cri-Kee</speaker> Chirp, Chirp.</sp>
 
@@ -649,19 +718,20 @@
   <sp n="159"><speaker>Mushu</speaker> Whach' you mean loser? How 'bout I pop one of your antenna's
     off and throw it across the yard. Then who's a loser, me or you?</sp>
 
-  <stage>Interlude</stage>
+  <stage type="scene" n="36">Interlude</stage>
 
-  <stage>Cut to Shan-Yu leading his army at a charge on horseback through a forest. He stops and
-    motions stage right. Hun Archer, Hun Strong Guy, Hun Long-Hair Guy dismount and walk into the
-    forest. They throw down two Imperial scouts before the rest of the army</stage>
+  <stage type="scene" n="37">Cut to Shan-Yu leading his army at a charge on horseback through a
+    forest. He stops and motions stage right. Hun Archer, Hun Strong Guy, Hun Long-Hair Guy dismount
+    and walk into the forest. They throw down two Imperial scouts before the rest of the
+    army</stage>
 
   <sp n="160"><speaker>Hun Long-Hair Guy</speaker> Imperial scouts. </sp>
 
-  <stage>Shan Yu dismounts and walks towards the scouts</stage>
+  <stage type="scene" n="38">Shan Yu dismounts and walks towards the scouts</stage>
 
   <sp n="161"><speaker>Scout #1</speaker> Shan-Yu.</sp>
 
-  <stage>He crouches down in front of them</stage>
+  <stage type="scene" n="39">He crouches down in front of them</stage>
 
   <sp n="162"><speaker>Shan-Yu <stage>adjusting Scout #1's collar</stage></speaker> Nice work,
     gentlemen. You found the Hun army. <stage>motioning to the soldiers on horseback. The Hun army
@@ -676,16 +746,17 @@
     <stage>calling out to the scouts</stage> Go! Tell your emperor to send his strongest armies.
       <stage>Quietly</stage> I'm ready. </sp>
 
-  <stage>The Imperial Scouts run off towards the palace</stage>
+  <stage type="scene" n="40">The Imperial Scouts run off towards the palace</stage>
 
   <sp n="165"><speaker>Shan-Yu <stage>scratching his chin</stage></speaker> How many men does it
     take to deliver a message.</sp>
 
   <sp n="166"><speaker>Archer Guy <stage>drawing back his bow</stage></speaker> One.</sp>
 
-  <stage>End Interlude</stage>
+  <stage type="scene" n="41">End Interlude</stage>
 
-  <stage>Cut to Mulan on a hill outside of the camp. Khan is sitting watching</stage>
+  <stage type="scene" n="42">Cut to Mulan on a hill outside of the camp. Khan is sitting
+    watching</stage>
 
   <sp n="167"><speaker>Mulan</speaker> Okay, okay, how 'bout this? Ahem, <stage>in her manly
       voice</stage> excuse me, where do I sign in? Hah, I see you have a sword. I have one too.
@@ -694,8 +765,8 @@
       her shoe and hits Khan in the head with it quieting Khan</stage>. I'm working on it. Who am I
     fooling? It's going to take a miracle to get me into the army.</sp>
 
-  <stage>Mushu appears as a giant shadow being cast on a rock with flames on either side. Mushu's
-    real appearance remains out of sight</stage>
+  <stage type="scene" n="43">Mushu appears as a giant shadow being cast on a rock with flames on
+    either side. Mushu's real appearance remains out of sight</stage>
 
   <sp n="168"><speaker>Mushu <stage>in a Southern Baptist Preacher's voice</stage></speaker> Did I
     hear someone ask for a miracle!? Let me hear you say aye!</sp>
@@ -753,7 +824,7 @@
     this show on the road. Cri-Kee, get the bags <stage>Mushu starts walking to the camp</stage>.
       <stage>to Khan</stage> Let's move it heifer.</sp>
 
-  <stage>Cut to Mulan at the camp's entrance</stage>
+  <stage type="scene" n="44">Cut to Mulan at the camp's entrance</stage>
 
   <sp n="183"><speaker>Mushu <stage>hiding in Mulan's armor poking his head out from her
         back</stage></speaker> Okay this is it, time to show 'em your man walk. Shoulders back,
@@ -768,13 +839,13 @@
   <sp n="185"><speaker>Mushu</speaker> No, they're men. And you're going to have to act just like
     them, so pay attention.</sp>
 
-  <stage>Mulan stops and watches Yao, Ling, Chien-Po and Tattoo Soldier</stage>
+  <stage type="scene" n="45">Mulan stops and watches Yao, Ling, Chien-Po and Tattoo Soldier</stage>
 
   <sp n="186"><speaker>Tattoo Soldier <stage>showing the dragon tattoo on his chest and
         belly</stage></speaker> Look, this tattoo will protect me from harm.</sp>
 
-  <stage>Yao thinks for a moment, then punches Tattoo Soldier in the stomach causing Ling to laugh.
-    Mulan watches in utter amazement. Yao kisses his hand</stage>
+  <stage type="scene" n="46">Yao thinks for a moment, then punches Tattoo Soldier in the stomach
+    causing Ling to laugh. Mulan watches in utter amazement. Yao kisses his hand</stage>
 
   <sp n="187"><speaker>Ling <stage>laughing</stage></speaker> I hope you can get your money
     back.</sp>
@@ -784,21 +855,21 @@
   <sp n="189"><speaker>Mushu</speaker> It's all attitude. Be tough like this guy here <stage>looking
       at Yao</stage>.</sp>
 
-  <stage>Mulan looks at Yao as he hocks up a loogie and spits</stage>
+  <stage type="scene" n="47">Mulan looks at Yao as he hocks up a loogie and spits</stage>
 
   <sp n="190"><speaker>Yao <stage>noticing Mulan watching him</stage></speaker> What are you looking
     at?</sp>
 
   <sp n="191"><speaker>Mushu</speaker> Punch him, it's how men say 'hello.'</sp>
 
-  <stage>Mulan looks at her fist, then punches Yao from behind on the shoulder. The force causes Yao
-    to run into Chien-Po</stage>
+  <stage type="scene" n="48">Mulan looks at her fist, then punches Yao from behind on the shoulder.
+    The force causes Yao to run into Chien-Po</stage>
 
   <sp n="192"><speaker>Chien-Po</speaker> Oh Yao, you made a friend.</sp>
 
   <sp n="193"><speaker>Mushu</speaker> Good, Now slap him on the behind, they like that.</sp>
 
-  <stage>Mulan slaps Yao on the behind</stage>
+  <stage type="scene" n="49">Mulan slaps Yao on the behind</stage>
 
   <sp n="194"><speaker>Yao</speaker> Wu hoo hooooo. <stage>grabbing Mulan buy the collar</stage> I'm
     going to hit you so hard it'll make your ancestors dizzy.</sp>
@@ -817,30 +888,30 @@
   <sp n="199"><speaker>Mushu <stage>loudly</stage></speaker> Chicken boy!? Say that to my face ya
     limp noodle!</sp>
 
-  <stage>Yao grabs Mulan by the collar cocking back his arm to punch. Mulan ducks as Yao hits Ling
-    standing behind her</stage>
+  <stage type="scene" n="50">Yao grabs Mulan by the collar cocking back his arm to punch. Mulan
+    ducks as Yao hits Ling standing behind her</stage>
 
   <sp n="200"><speaker>Yao</speaker> Oh, sorry Ling. Hey!</sp>
 
-  <stage>Yao grabs Mulan's foot as she starts to crawl away. Ling kicks Yao on the butt causing him
-    to land on Chien-Po's stomach. Ling Jump attacks Mulan, but she ducks and he lands on Yao on top
-    of Chien-Po</stage>
+  <stage type="scene" n="51">Yao grabs Mulan's foot as she starts to crawl away. Ling kicks Yao on
+    the butt causing him to land on Chien-Po's stomach. Ling Jump attacks Mulan, but she ducks and
+    he lands on Yao on top of Chien-Po</stage>
 
   <sp n="201"><speaker>Ling</speaker> You're dead. <stage>They fight on top of Chien-Po. Mulan runs
       away. Ling notices Mulan and then points toward her</stage> Oh, there he goes.</sp>
 
-  <stage>Mulan runs into a tent and stops. Yao, Ling, and Chien-Po (in that order) run through the
-    tent. Yao stops short as he is about to run into a soldier in a line for food. He looks behind
-    him with concerned eyes as Ling stops in time. Chien-Po bumps into Ling causing the entire line
-    of soldiers to fall forward and knock over the pot of congee and the cook behind it. The men
-    look to the back of the line and spy Mulan who has emerged from the tent. They angrily start
-    walking towards her. Mulan has a look of horror on her face as if trouble is about to
-    brew</stage>
+  <stage type="scene" n="52">Mulan runs into a tent and stops. Yao, Ling, and Chien-Po (in that
+    order) run through the tent. Yao stops short as he is about to run into a soldier in a line for
+    food. He looks behind him with concerned eyes as Ling stops in time. Chien-Po bumps into Ling
+    causing the entire line of soldiers to fall forward and knock over the pot of congee and the
+    cook behind it. The men look to the back of the line and spy Mulan who has emerged from the
+    tent. They angrily start walking towards her. Mulan has a look of horror on her face as if
+    trouble is about to brew</stage>
 
   <sp n="202"><speaker>Mulan</speaker> Hey guys. </sp>
 
-  <stage>Chi Fu watches and then walks into the tent. General Li and Li Shang are in the
-    tent.</stage>
+  <stage type="scene" n="53">Chi Fu watches and then walks into the tent. General Li and Li Shang
+    are in the tent.</stage>
 
   <sp n="203"><speaker>General Li <stage>motioning with his pointer to a map of the
       region</stage></speaker> The Huns have struck here, here and here. I will take the main troops
@@ -894,8 +965,8 @@
   <sp n="218"><speaker>All Recruits <stage>backing away revealing Mulan and pointing at her. Mulan
         is crouching in the fetal position on the ground</stage></speaker> He started it!</sp>
 
-  <stage>Shang approaches Mulan and looks down over her. Mulan looks up, sees Shang over top of her
-    and gets up quickly dusting herself off</stage>
+  <stage type="scene" n="54">Shang approaches Mulan and looks down over her. Mulan looks up, sees
+    Shang over top of her and gets up quickly dusting herself off</stage>
 
   <sp n="219"><speaker>Shang <stage>to Mulan</stage></speaker> I don't need anyone causing trouble
     in my camp!</sp>
@@ -964,13 +1035,13 @@
     new friend Ping, you'll spend tonight picking up every single grain of rice. And tomorrow, the
     real work begins.</sp>
 
-  <stage>All recruits growl at Mulan</stage>
+  <stage type="scene" n="55">All recruits growl at Mulan</stage>
 
   <sp n="246"><speaker>Mushu <stage>Popping out the front of Mulan's armor</stage></speaker> You
     know, we have to work on your people skills.</sp>
 
-  <stage>Cut to Mulan sleeping in her tent. Mushu winds up Cri-Kee's wings. Cri-Kee rings like an
-    alarm clock</stage>
+  <stage type="scene" n="56">Cut to Mulan sleeping in her tent. Mushu winds up Cri-Kee's wings.
+    Cri-Kee rings like an alarm clock</stage>
 
   <sp n="247"><speaker>Mushu</speaker> All right, rise and shine sleeping beauty. <stage>Mulan rises
       and blinks</stage> C'mon <stage>rapping on Mulan's head with each syllable</stage> hup, hup,
@@ -1002,7 +1073,7 @@
       porridge</stage></speaker> Oh, that's my tough looking warrior. That's what I'm talking about.
     Now get out there and make me proud. <stage>Mushu ties up Mulan's hair</stage></sp>
 
-  <stage>Khan whinnies and pokes his head into the tent</stage>
+  <stage type="scene" n="57">Khan whinnies and pokes his head into the tent</stage>
 
   <sp n="254"><speaker>Mushu</speaker> What do you mean the troops just left? </sp>
 
@@ -1014,7 +1085,7 @@
   <sp n="256"><speaker>Mushu <stage>running out from the tent calling after Mulan</stage></speaker>
     Wait, you forgot your sword. My little baby off to destroy people <stage>sniffle</stage>.</sp>
 
-  <stage>Cut to the troops muddling around near Shang's tent</stage>
+  <stage type="scene" n="58">Cut to the troops muddling around near Shang's tent</stage>
 
   <sp n="257"><speaker>Chi Fu <stage>enters stage left</stage></speaker> Order people, order!</sp>
 
@@ -1027,7 +1098,7 @@
 
   <sp n="261"><speaker>Chi Fu</speaker> That's not funny.</sp>
 
-  <stage>Mulan comes running up to the group</stage>
+  <stage type="scene" n="59">Mulan comes running up to the group</stage>
 
   <sp n="262"><speaker>Ling <stage>noticing Mulan's arrival</stage></speaker> Looks like our new
     friend slept in this morning. <stage>Mulan stops between Ling and Yao</stage>
@@ -1063,20 +1134,21 @@
       <stage>Shang hands the other weight to Yao making him fall to the ground. The troops laugh
       while Mulan looks concerned</stage>. You need both to reach the arrow.</sp>
 
-  <stage>Yao climbs up the pole then slips down under the weight. Ling, Chien-Po, and Mulan each
-    take their turn and fall down. Mulan rubs her behind as she walks away in front of Shang</stage>
+  <stage type="scene" n="60">Yao climbs up the pole then slips down under the weight. Ling,
+    Chien-Po, and Mulan each take their turn and fall down. Mulan rubs her behind as she walks away
+    in front of Shang</stage>
 
   <sp n="270"><speaker>Shang</speaker> We've got a long way to go.</sp>
 
-  <stage>Song I'll Make a Man Out of You</stage>
+  <stage type="scene" n="61">Song I'll Make a Man Out of You</stage>
 
-  <stage>Shang throws staffs to the soldiers. Yao intercepts Mulan's staff and trips her with
-    it</stage>
+  <stage type="scene" n="62">Shang throws staffs to the soldiers. Yao intercepts Mulan's staff and
+    trips her with it</stage>
 
   <sp n="271"><speaker>Shang</speaker> Let's get down to business-- to defeat the Huns.</sp>
 
-  <stage>Shang throws up two clay pots and breaks them apart with his staff. The troops are highly
-    impressed</stage>
+  <stage type="scene" n="63">Shang throws up two clay pots and breaks them apart with his staff. The
+    troops are highly impressed</stage>
 
   <sp n="272"><speaker>Recruits <stage>putting their staffs out at arms length,
       spoken</stage></speaker> Hua</sp>
@@ -1110,8 +1182,8 @@
   <sp n="277"><speaker>Ling <stage>Banging his head on a stone slab</stage></speaker> Boy I was a
     fool in school for cutting gym</sp>
 
-  <stage>Shang practices martial arts with Mulan. With a punch to the face he knocks her back into a
-    tree</stage>
+  <stage type="scene" n="64">Shang practices martial arts with Mulan. With a punch to the face he
+    knocks her back into a tree</stage>
 
   <sp n="278"><speaker>Mushu <stage>from the tree acts as a boxing coach</stage></speaker> This
     guy's got 'em scared to death</sp>
@@ -1160,13 +1232,13 @@
     coursing river (Be a man) With all the force of a great typhoon (Be a man) With all the strength
     of a raging fire Mysterious as the dark side of the moon</sp>
 
-  <stage>End Song</stage>
+  <stage type="scene" n="65">End Song</stage>
 
-  <stage>Interlude</stage>
+  <stage type="scene" n="66">Interlude</stage>
 
-  <stage>Cut to Shan Yu sitting on top of a tree. He cuts off the very top with his sword. His
-    falcon swoops buy and drops a doll. Shan-Yu takes the doll, sniffs it, looks surprised, and
-    drops down to the ground</stage>
+  <stage type="scene" n="67">Cut to Shan Yu sitting on top of a tree. He cuts off the very top with
+    his sword. His falcon swoops buy and drops a doll. Shan-Yu takes the doll, sniffs it, looks
+    surprised, and drops down to the ground</stage>
 
   <sp n="285"><speaker>Shan-Yu <stage>tossing the doll to Hun Strong Man</stage></speaker> What do
     you see?</sp>
@@ -1189,9 +1261,9 @@
     Emperor is through that pass. Besides, the little girl will be missing her doll. We should
     return it to her.</sp>
 
-  <stage>End Interlude</stage>
+  <stage type="scene" n="68">End Interlude</stage>
 
-  <stage>Cut to Mulan by the lake with Mushu, Khan, and Cri-Kee</stage>
+  <stage type="scene" n="69">Cut to Mulan by the lake with Mushu, Khan, and Cri-Kee</stage>
 
   <sp n="292"><speaker>Mushu</speaker> Hey, oh, ah, no, this is not a good idea. What if somebody
     sees you?</sp>
@@ -1225,13 +1297,14 @@
   <sp n="301"><speaker>Mushu <stage>gasps</stage></speaker> Ah. We're doomed! There a couple of
     things I know they're bound to notice!</sp>
 
-  <stage>Yao and Ling jump into the water. Chien-Po dips in his toe to check temperature then jumps
-    in causing a large wave. Yao and Ling ride the wave towards Mulan. Mulan sees them and hides her
-    face behind a lily pad</stage>
+  <stage type="scene" n="70">Yao and Ling jump into the water. Chien-Po dips in his toe to check
+    temperature then jumps in causing a large wave. Yao and Ling ride the wave towards Mulan. Mulan
+    sees them and hides her face behind a lily pad</stage>
 
   <sp n="302"><speaker>Yao <stage>calling</stage></speaker> Hey, Ping.</sp>
 
-  <stage>Mulan peeks over the lily pad and spreads it on the water covering her chest</stage>
+  <stage type="scene" n="71">Mulan peeks over the lily pad and spreads it on the water covering her
+    chest</stage>
 
   <sp n="303"><speaker>Mulan <stage>speaking nervously and unnaturally in a manly
       voice</stage></speaker> Oh hi guys, I didn't know you were *here*. <stage>Yao, Ling and
@@ -1253,8 +1326,8 @@
   <sp n="307"><speaker>Mulan <stage>waving slightly and smiling</stage></speaker> Hello
     Chien-Po.</sp>
 
-  <stage>Yao stands on top of a rock looking down at the others. Mulan looks down into the water and
-    hides her eyes with her free hand</stage>
+  <stage type="scene" n="72">Yao stands on top of a rock looking down at the others. Mulan looks
+    down into the water and hides her eyes with her free hand</stage>
 
   <sp n="308"><speaker>Yao</speaker> And I am Yao, king of the rock. And there's nothin' you girls
     can do about it.</sp>
@@ -1280,15 +1353,15 @@
   <sp n="316"><speaker>Chien-Po <stage>while all three of them climb up the rock and on each
         other</stage></speaker> Snake, snake.</sp>
 
-  <stage>Mulan whistles for Khan and wades back to shore. Khan comes close enough to shore and Mulan
-    hides behind Khan as she wraps a towel around her body</stage>
+  <stage type="scene" n="73">Mulan whistles for Khan and wades back to shore. Khan comes close
+    enough to shore and Mulan hides behind Khan as she wraps a towel around her body</stage>
 
-  <stage>Cut to Yao, Ling and Chien-Po calmed down sitting on the rock</stage>
+  <stage type="scene" n="74">Cut to Yao, Ling and Chien-Po calmed down sitting on the rock</stage>
 
   <sp n="317"><speaker>Ling</speaker> Some king of the rock! <stage>Yao pushes him off the
       rock</stage></sp>
 
-  <stage>Cut to Mulan with towel wrapped around her</stage>
+  <stage type="scene" n="75">Cut to Mulan with towel wrapped around her</stage>
 
   <sp n="318"><speaker>Mulan</speaker> Boy, that was close.</sp>
 
@@ -1300,8 +1373,8 @@
 
   <sp n="321"><speaker>Mushu</speaker> Hey, don't look at me. I ain't biting any more butts.</sp>
 
-  <stage>Cut to Mulan outside Chi Fu's Tent having dressed fully. Chi Fu and Shang are talking from
-    inside</stage>
+  <stage type="scene" n="76">Cut to Mulan outside Chi Fu's Tent having dressed fully. Chi Fu and
+    Shang are talking from inside</stage>
 
   <sp n="322"><speaker>Chi Fu <stage>fading in</stage></speaker> You think your troops are ready to
     fight? Hah! They would not last a minute against the Huns. </sp>
@@ -1323,7 +1396,7 @@
     that job on my own. <stage>opens the entrance to the tent for Shang</stage> You're
     dismissed.</sp>
 
-  <stage>Shang storms out of the tent and starts to walk by Mulan</stage>
+  <stage type="scene" n="77">Shang storms out of the tent and starts to walk by Mulan</stage>
 
   <sp n="328"><speaker>Mulan <stage>in a manly voice</stage></speaker> Hey, I'll hold him and you
     punch, heh, heh... <stage>Shang walks by without reacting</stage> or not. <stage>calling out to
@@ -1344,10 +1417,10 @@
       Cri-Kee</stage> I think it's time we took this war into our own hands <stage>rubbing hands
       together</stage>.</sp>
 
-  <stage>Mushu and Cri-Kee wait outside Chi Fu's Tent. Chi Fu emerges with carrying a scrub brush
-    and wrapped in a towel and with big showering slippers on his feet. He whistles as he walks off.
-    Mushu and Cri-Kee enter his tent. Cri-Kee uses his legs to write up a letter. He finishes and
-    Mushu takes the paper</stage>
+  <stage type="scene" n="78">Mushu and Cri-Kee wait outside Chi Fu's Tent. Chi Fu emerges with
+    carrying a scrub brush and wrapped in a towel and with big showering slippers on his feet. He
+    whistles as he walks off. Mushu and Cri-Kee enter his tent. Cri-Kee uses his legs to write up a
+    letter. He finishes and Mushu takes the paper</stage>
 
   <sp n="334"><speaker>Mushu</speaker> Okay, okay, let me see what you've got. From General Li, dear
     son, we're waiting for the huns at the pass and it would mean a lot if you'd come and back us
@@ -1356,13 +1429,14 @@
     more urgent, please! You know what I'm talkin' about? <stage>Cri-Kee starts writing the note
       again</stage> That's better, much better. <stage>taking the note</stage> Okay, Let's go.</sp>
 
-  <stage>Cut to Khan drinking water from the trough. Mushu is on his back</stage>
+  <stage type="scene" n="79">Cut to Khan drinking water from the trough. Mushu is on his
+    back</stage>
 
   <sp n="335"><speaker>Mushu</speaker> Khan-ie baby, hey, we need a ride. <stage>Khan squirts Mushu
       off his back with water from his mouth</stage></sp>
 
-  <stage>Cut to Chi Fu walking out of the lake wrapped in a towel, sounds of laughter can be heart
-    from the troops</stage>
+  <stage type="scene" n="80">Cut to Chi Fu walking out of the lake wrapped in a towel, sounds of
+    laughter can be heart from the troops</stage>
 
   <sp n="336"><speaker>Chi Fu <stage>muttering</stage></speaker> Insubordinate ruffians. <stage>then
       calling to the troops</stage> You men owe me a new pair of slippers. And I do not squeal like
@@ -1391,7 +1465,7 @@
   <sp n="341"><speaker>Mushu <stage>from up in the tree</stage></speaker> Pack your bags Cri-Kee,
     we're movin' out. <stage>Cri-Kee high fives Mushu</stage></sp>
 
-  <stage>Song: A Girl Worth Fighting For</stage>
+  <stage type="scene" n="81">Song: A Girl Worth Fighting For</stage>
 
   <sp n="342"><speaker>Army Chorus <stage>troops walking up hill</stage></speaker> For a long time
     we've been marching off to battle</sp>
@@ -1485,52 +1559,54 @@
       and Chien-Po with snowballs about to pelt her so she turns around</stage> A girl worth
     fighting--</sp>
 
-  <stage>All have stunned looks on their faces</stage>
+  <stage type="scene" n="82">All have stunned looks on their faces</stage>
 
-  <stage>End Song</stage>
+  <stage type="scene" n="83">End Song</stage>
 
-  <stage>Cut to ruins of a burned out village. The soldiers walk through the singed gate and look
-    around at the few planks that remain from the buildings</stage>
+  <stage type="scene" n="84">Cut to ruins of a burned out village. The soldiers walk through the
+    singed gate and look around at the few planks that remain from the buildings</stage>
 
   <sp n="369"><speaker>Shang <stage>from mounted horse</stage></speaker> Search for survivors.</sp>
 
-  <stage>Cut to Mulan walking around the burned-out village. She finds a the doll that Shan-Yu was
-    holding and looks up sorrowfully. Shang comes to her side</stage>
+  <stage type="scene" n="85">Cut to Mulan walking around the burned-out village. She finds a the
+    doll that Shan-Yu was holding and looks up sorrowfully. Shang comes to her side</stage>
 
   <sp n="370"><speaker>Shang</speaker> I don't understand. My father should have been here.</sp>
 
   <sp n="371"><speaker>Chi Fu <stage>calling out from the top of a hill overlooking a
       valley</stage></speaker> Captain! </sp>
 
-  <stage>Chi Fu points down to the valley where the remains of General Li's army can be seen. Flags
-    poking up out of the snow, armor lying face down, broken cannon carts. Ling, Yao, Mulan, and a
-    soldier have the look of horror on their faces as they look into the valley. Chien-Po walks up
-    from the valley carrying a helmet</stage>
+  <stage type="scene" n="86">Chi Fu points down to the valley where the remains of General Li's army
+    can be seen. Flags poking up out of the snow, armor lying face down, broken cannon carts. Ling,
+    Yao, Mulan, and a soldier have the look of horror on their faces as they look into the valley.
+    Chien-Po walks up from the valley carrying a helmet</stage>
 
   <sp n="372"><speaker>Chien-po <stage>handing the helmet to Shang</stage></speaker> ...the
     General.</sp>
 
-  <stage>Shang takes the helmet and walks to the edge of the hill. He draws his sword and stabs it
-    into the snow upright. He kneels down and places the helmet on top of the sword. Mulan
-    approaches him from behind</stage>
+  <stage type="scene" n="87">Shang takes the helmet and walks to the edge of the hill. He draws his
+    sword and stabs it into the snow upright. He kneels down and places the helmet on top of the
+    sword. Mulan approaches him from behind</stage>
 
   <sp n="373"><speaker>Mulan <stage>softly</stage></speaker> I'm sorry.</sp>
 
-  <stage>Shang gets up, turns around and puts his hand on Mulan's shoulder and he walks by. Shang
-    walks to the center of the troops. He grabs his horse by the saddle, takes one quick look of
-    grief then mounts his horse</stage>
+  <stage type="scene" n="88">Shang gets up, turns around and puts his hand on Mulan's shoulder and
+    he walks by. Shang walks to the center of the troops. He grabs his horse by the saddle, takes
+    one quick look of grief then mounts his horse</stage>
 
   <sp n="374"><speaker>Shang</speaker> The Huns are moving quickly. We'll make better time to the
     Imperial City through the Tung Shao Pass. We're the only hope for the Emperor now. Move
     out!</sp>
 
-  <stage>Mulan looks at the sword, takes out the doll she found and places the doll at the base of
-    the sword. She turns around and joins the rest of the troops marching on</stage>
+  <stage type="scene" n="89">Mulan looks at the sword, takes out the doll she found and places the
+    doll at the base of the sword. She turns around and joins the rest of the troops marching
+    on</stage>
 
-  <stage>Cut to Mulan standing next to Khan saddled to the cart with cannons. A cannon blast shoots
-    out of the cart and explodes in the air. The troops look surprised. Mulan glances back with a
-    scowl into the hole in the canopy of the cart to see Mushu with a sorrowful face. Mushu points
-    at Cri-Kee. Shang charges up to Mulan on his horse, Chi Fu right behind</stage>
+  <stage type="scene" n="90">Cut to Mulan standing next to Khan saddled to the cart with cannons. A
+    cannon blast shoots out of the cart and explodes in the air. The troops look surprised. Mulan
+    glances back with a scowl into the hole in the canopy of the cart to see Mushu with a sorrowful
+    face. Mushu points at Cri-Kee. Shang charges up to Mulan on his horse, Chi Fu right
+    behind</stage>
 
   <sp n="375"><speaker>Shang <stage>angrily</stage></speaker> What happened?!</sp>
 
@@ -1540,9 +1616,9 @@
       hits Shang in the shoulder as he falls to the ground. Shang pulls out the arrow</stage>
     <stage>calling out</stage> Get out of range!!</sp>
 
-  <stage>The troops hurriedly run away as many arrows start falling all around them. Mulan pulls
-    Khan by the reins to hurry him up. Fire arrows start hitting the cart with cannons attached to
-    Khan. The cart begins to blaze with fire</stage>
+  <stage type="scene" n="91">The troops hurriedly run away as many arrows start falling all around
+    them. Mulan pulls Khan by the reins to hurry him up. Fire arrows start hitting the cart with
+    cannons attached to Khan. The cart begins to blaze with fire</stage>
 
   <sp n="378"><speaker>Shang</speaker> Save the cannons!</sp>
 
@@ -1555,89 +1631,93 @@
 
   <sp n="380"><speaker>Mushu</speaker> Oh sure, save the horse.</sp>
 
-  <stage>Mulan grabs Mushu with her right hand and grabs the sword with her left and runs to the
-    troops position. Cri-Kee and Khan follow. Yao, Ling, Chien-Po and other recruits set up cannons
-    against rocks. They dodge a set of arrows that fall around them</stage>
+  <stage type="scene" n="92">Mulan grabs Mushu with her right hand and grabs the sword with her left
+    and runs to the troops position. Cri-Kee and Khan follow. Yao, Ling, Chien-Po and other recruits
+    set up cannons against rocks. They dodge a set of arrows that fall around them</stage>
 
   <sp n="381"><speaker>Shang</speaker> Fire!</sp>
 
-  <stage>They launch a volley at the mountain where the archers are stationed. As the cannon fire
-    explodes, Shan-Yu's army hides</stage>
+  <stage type="scene" n="93">They launch a volley at the mountain where the archers are stationed.
+    As the cannon fire explodes, Shan-Yu's army hides</stage>
 
   <sp n="382"><speaker>Shang</speaker> Fire!</sp>
 
-  <stage>Mulan, Ling and Chien-Po launch a second volley at the mountain where the archers are
-    stationed. No more arrows can be seen coming from the mountain position</stage>
+  <stage type="scene" n="94">Mulan, Ling and Chien-Po launch a second volley at the mountain where
+    the archers are stationed. No more arrows can be seen coming from the mountain position</stage>
 
   <sp n="383"><speaker>Shang</speaker> Hold the last cannon. <stage>Yao poised to light his cannon,
       pauses. Shan-Yu and his troops appear at the top of the mountain</stage> Prepare to fight. If
     we die, we die with honor.</sp>
 
-  <stage>Shan-Yu raises his sword high above his head and charges down the mountain at Shang's
-    position. His falcon flies off his shoulder on Shan-Yu's war cry The Hun army follows</stage>
+  <stage type="scene" n="95">Shan-Yu raises his sword high above his head and charges down the
+    mountain at Shang's position. His falcon flies off his shoulder on Shan-Yu's war cry The Hun
+    army follows</stage>
 
   <sp n="384"><speaker>Shang</speaker> Yao, aim the cannon at Shan-Yu.</sp>
 
-  <stage>The line of Shang's troops with Mulan at the end draw their swords. Mulan looks down at her
-    sword and sees the reflection of a large snow embankment hanging to the side of a cliff. She
-    rushes forward</stage>
+  <stage type="scene" n="96">The line of Shang's troops with Mulan at the end draw their swords.
+    Mulan looks down at her sword and sees the reflection of a large snow embankment hanging to the
+    side of a cliff. She rushes forward</stage>
 
   <sp n="385"><speaker>Yao <stage>being pushed aside by Mulan as she grabs the
       cannon</stage></speaker> Hey. Shang: Ping, come back. Ping!</sp>
 
-  <stage>Mulan charges forward towards the oncoming horde of the Hun army being led by Shan-Yu and
-    his falcon. Mushu looks over her at the oncoming horde with worry in his eyes</stage>
+  <stage type="scene" n="97">Mulan charges forward towards the oncoming horde of the Hun army being
+    led by Shan-Yu and his falcon. Mushu looks over her at the oncoming horde with worry in his
+    eyes</stage>
 
   <sp n="386"><speaker>Shang <stage>starting to run after her waving his arms</stage></speaker>
     Stop!</sp>
 
-  <stage>Mulan plants the cannon and aims it for the cliff with the snow overhang</stage>
+  <stage type="scene" n="98">Mulan plants the cannon and aims it for the cliff with the snow
+    overhang</stage>
 
   <sp n="387"><speaker>Mushu <stage>seeing Shan-Yu riding closer to their position</stage></speaker>
     All right, you might want to light that right about now. Quickly! Quickly!</sp>
 
-  <stage>Mulan takes out the flint and tries to light the fuse. Shan-Yu's falcon swoops buy knocking
-    Mulan down scattering the flint rock</stage>
+  <stage type="scene" n="99">Mulan takes out the flint and tries to light the fuse. Shan-Yu's falcon
+    swoops buy knocking Mulan down scattering the flint rock</stage>
 
   <sp n="388"><speaker>Yao <stage>speaking to Ling and Chien-Po</stage></speaker> C'mon, we've gotta
     help. <stage>they charge towards Mulan's position</stage></sp>
 
-  <stage>Mulan searches for the flint in the snow in vain. She sees Mushu, grabs him and stretches
-    him causing him to light the fuse. Mushu lands on the cannon and the cannon fires off just above
-    the charging Shan-Yu</stage>
+  <stage type="scene" n="100">Mulan searches for the flint in the snow in vain. She sees Mushu,
+    grabs him and stretches him causing him to light the fuse. Mushu lands on the cannon and the
+    cannon fires off just above the charging Shan-Yu</stage>
 
   <sp n="389"><speaker>Mushu <stage>tailing off as he rides the cannon toward the snow
         embankment</stage></speaker> You missed him! How could you miss? He was three feet in front
     of you!</sp>
 
-  <stage>The cannon lodges in the snow and explodes causing the beginning of a large avalanche.
-    Mulan looks up with an evil grin on her face and Shan-Yu watches in horror as many of his troops
-    begin to be swallowed up by the snow</stage>
+  <stage type="scene" n="101">The cannon lodges in the snow and explodes causing the beginning of a
+    large avalanche. Mulan looks up with an evil grin on her face and Shan-Yu watches in horror as
+    many of his troops begin to be swallowed up by the snow</stage>
 
   <sp n="390"><speaker>Shan-Yu <stage>recollecting himself and focusing in on
       Mulan</stage></speaker> Yrrrrrrraah. </sp>
 
-  <stage>Shan-Yu swipes at Mulan with his sword hitting her in the right side. Mulan falls back
-    grabbing her right side. Shan-Yu's horse stumbles. Mulan uses this break to bolt away from the
-    avalanche. Shan-Yu gains his composure and starts to gallop away from the avalanche on his
-    horse. Shang looks with shock as hee sees the avalanche coming toward him. Mulan grabs Shang as
-    she passes by him, turning him around and helping him run away from the avalanche</stage>
+  <stage type="scene" n="102">Shan-Yu swipes at Mulan with his sword hitting her in the right side.
+    Mulan falls back grabbing her right side. Shan-Yu's horse stumbles. Mulan uses this break to
+    bolt away from the avalanche. Shan-Yu gains his composure and starts to gallop away from the
+    avalanche on his horse. Shang looks with shock as hee sees the avalanche coming toward him.
+    Mulan grabs Shang as she passes by him, turning him around and helping him run away from the
+    avalanche</stage>
 
   <sp n="391"><speaker>Yao, Chien-Po and Ling <stage>running towards the oncoming
       avalanche</stage></speaker> Yeeahhhhhh! <stage>they stop. noticing the oncoming avalanche they
       turn around and run back to where they came from</stage> Waaaaaaaaaa!</sp>
 
-  <stage>Khan jumps away from the troops position and starts to run towards Mulan passing Ling, Yao
-    and Chien-Po. The avalanche swallows up Shan-Yu and his horse. Khan arrives at Mulan's position
-    just ahead of the avalanche. Mulan jumps onto Khan and reaches for Shang. She grabs his hand,
-    then the avalanche rushes forth breaking their grip, turning Khan around facing the oncoming
-    avalanche of snow</stage>
+  <stage type="scene" n="103">Khan jumps away from the troops position and starts to run towards
+    Mulan passing Ling, Yao and Chien-Po. The avalanche swallows up Shan-Yu and his horse. Khan
+    arrives at Mulan's position just ahead of the avalanche. Mulan jumps onto Khan and reaches for
+    Shang. She grabs his hand, then the avalanche rushes forth breaking their grip, turning Khan
+    around facing the oncoming avalanche of snow</stage>
 
-  <stage>Cut to Ling, Yao and Chien-Po standing behind a rock. They see the snow approaching close
-    and run to larger shelter where the rest of Shang's army is positioned just as the avalance
-    reaches their posision</stage>
+  <stage type="scene" n="104">Cut to Ling, Yao and Chien-Po standing behind a rock. They see the
+    snow approaching close and run to larger shelter where the rest of Shang's army is positioned
+    just as the avalance reaches their posision</stage>
 
-  <stage>Cut to Mushu riding down the snow on a shield</stage>
+  <stage type="scene" n="105">Cut to Mushu riding down the snow on a shield</stage>
 
   <sp n="392"><speaker>Mushu <stage>calling out</stage></speaker> Mulan! Mulan! <stage>seeing hair
       sticking up from the snow</stage> Mulan? <stage>Mushu picks up the Hun by the
@@ -1649,15 +1729,16 @@
     Nope. Mulan! <stage>Mushu picks up Cri-Kee out of the snow</stage> Man, you are one lucky
     bug.</sp>
 
-  <stage>Cut to Mulan riding Khan above the snow into the teeth of the avalanche. Khan and Mulan are
-    swept under by the snow and reemerge quickly. She looks back and sees Shang passed out riding
-    the wave of snow</stage>
+  <stage type="scene" n="106">Cut to Mulan riding Khan above the snow into the teeth of the
+    avalanche. Khan and Mulan are swept under by the snow and reemerge quickly. She looks back and
+    sees Shang passed out riding the wave of snow</stage>
 
   <sp n="395"><speaker>Mulan <stage>calling loudly</stage></speaker> Shang, Shang! <stage>Mulan
       turns around and rides to Shang's position. She picks him up and places him on Khan. She turns
       Khan around again to be riding upstream</stage></sp>
 
-  <stage>Cut to Chien-Po with Ling standing on him and Yao standing on top of Ling</stage>
+  <stage type="scene" n="107">Cut to Chien-Po with Ling standing on him and Yao standing on top of
+    Ling</stage>
 
   <sp n="396"><speaker>Chien-Po</speaker> Do you see them?</sp>
 
@@ -1665,8 +1746,8 @@
       a rope attached</stage> Perfect! Now I'll pull them to safe--<stage>Yao grasps at air as the
       rope completely passed through his hands</stage>--ty.</sp>
 
-  <stage>Cut to Mulan and Shang on Khan with Mushu and Cri-Kee riding up to her on his
-    shield</stage>
+  <stage type="scene" n="108">Cut to Mulan and Shang on Khan with Mushu and Cri-Kee riding up to her
+    on his shield</stage>
 
   <sp n="398"><speaker>Mushu <stage>riding on the shield up to Mulan, Khan and Shang speaking
         loudly, above the noise of the avalanche</stage></speaker> Hey Mulan, I found a lucky
@@ -1688,13 +1769,14 @@
 
   <sp n="402"><speaker>Yao</speaker> Pull</sp>
 
-  <stage>Chien-Po prays as he calmly walks up to the group of soldiers. He lifts them all up and
-    pulls backward hauling Mulan, Shang, Khan, Mushu and Cri-Kee to safety</stage>
+  <stage type="scene" n="109">Chien-Po prays as he calmly walks up to the group of soldiers. He
+    lifts them all up and pulls backward hauling Mulan, Shang, Khan, Mushu and Cri-Kee to
+    safety</stage>
 
   <sp n="403"><speaker>Mushu</speaker> I knew we could to it. You da man. <stage>Mulan looks
       pleased</stage> Well sorta. <stage>Mulan grimaces</stage></sp>
 
-  <stage>The soldiers help them up to the cliff</stage>
+  <stage type="scene" n="110">The soldiers help them up to the cliff</stage>
 
   <sp n="404"><speaker>Ling</speaker> Step back guys, give 'em some air.</sp>
 
@@ -1718,12 +1800,13 @@
       Shang, Yao, Ling, and Chien-Po begin to fade as she loses consciousness</stage> Ping, hold on.
     Hold on.</sp>
 
-  <stage>Cut to outside of the medic tent. Mulan and Medic are inside. Shang stands by the entrance.
-    Yao, Ling and Chien-Po look quite concerned. Ling drums his fingers on his knees. The medic
-    comes out from the tent and whispers to Shang. Shang looks astonished and goes into the tent.
-    Mulan is lying down. She opens her eyes, sees Shang and smiles at the sight of him. She sits up
-    allowing the blanket to fall to her waist revealing her form fitting bandages on her chest. She
-    sees Shang's surprised look and realizes her feminine form is noticeable</stage>
+  <stage type="scene" n="111">Cut to outside of the medic tent. Mulan and Medic are inside. Shang
+    stands by the entrance. Yao, Ling and Chien-Po look quite concerned. Ling drums his fingers on
+    his knees. The medic comes out from the tent and whispers to Shang. Shang looks astonished and
+    goes into the tent. Mulan is lying down. She opens her eyes, sees Shang and smiles at the sight
+    of him. She sits up allowing the blanket to fall to her waist revealing her form fitting
+    bandages on her chest. She sees Shang's surprised look and realizes her feminine form is
+    noticeable</stage>
 
   <sp n="411"><speaker>Mulan <stage>gasping as she covers up</stage></speaker> Huh, I can
     explain.</sp>
@@ -1734,13 +1817,13 @@
   <sp n="413"><speaker>Mulan <stage>calling after Shang as he steps out of the
       tent</stage></speaker> Shang!</sp>
 
-  <stage>Cut to outside the tent. Chi Fu hauls out Mulan by the arm. Mulan uses her other hand to
-    hold the blanket</stage>
+  <stage type="scene" n="112">Cut to outside the tent. Chi Fu hauls out Mulan by the arm. Mulan uses
+    her other hand to hold the blanket</stage>
 
   <sp n="414"><speaker>Chi Fu</speaker> I knew there was something wrong with you. <stage>Chi Fu
       takes off Mulan's hair tie and throws her to the ground</stage> A woman.</sp>
 
-  <stage>Ling, Yao and Chien-Po are shocked</stage>
+  <stage type="scene" n="113">Ling, Yao and Chien-Po are shocked</stage>
 
   <sp n="415"><speaker>Chi Fu <stage>to the troops</stage></speaker> Trecherous snake.</sp>
 
@@ -1758,12 +1841,12 @@
 
   <sp n="421"><speaker>Chi Fu <stage>to Shang</stage></speaker> Hmph, Captain?</sp>
 
-  <stage>Shang walks over to Khan and takes the sword out of the scabbard attached to Khan. Khan
-    rears back</stage>
+  <stage type="scene" n="114">Shang walks over to Khan and takes the sword out of the scabbard
+    attached to Khan. Khan rears back</stage>
 
   <sp n="422"><speaker>Chi Fu <stage>to the soldier by Khan</stage></speaker> Restrain him.</sp>
 
-  <stage>Shang walks toward Mulan with sword in hand</stage>
+  <stage type="scene" n="115">Shang walks toward Mulan with sword in hand</stage>
 
   <sp n="423"><speaker>Yao, Ling and Chien-Po <stage>rushing toward Mulan</stage></speaker>
     Noooooo!</sp>
@@ -1771,8 +1854,9 @@
   <sp n="424"><speaker>Chi Fu <stage>putting his hand to stop Ling, Yao, and Chien-Po from
         proceeding further</stage></speaker> You know the law.</sp>
 
-  <stage>Shang stands over Mulan. Mulan looks at Shang then bows her head in anticipation. Shang
-    lifts the sword high above his head and throws it down in front of Mulan</stage>
+  <stage type="scene" n="116">Shang stands over Mulan. Mulan looks at Shang then bows her head in
+    anticipation. Shang lifts the sword high above his head and throws it down in front of
+    Mulan</stage>
 
   <sp n="425"><speaker>Shang</speaker> A life for a life. My debt is repaid. <stage>turns and walks
       towards the Imperial City</stage> Move out!</sp>
@@ -1783,10 +1867,11 @@
   <sp n="427"><speaker>Shang <stage>getting in Chi Fu's face</stage></speaker> I said, "Move
     out!"</sp>
 
-  <stage>The troops walk off toward the Imperial City leaving Mulan behind with Khan, Cri-Kee, and
-    Mushu. Mulan is sitting, shivering. Khan takes his blanket and wraps it around Mulan with his
-    mouth and sits behind her. Cri-Kee lights a fire with twigs. When he doesn't get warm, he moves
-    under the blanket wrapped around Mulan. Mushu walks toward Mulan carrying a stick</stage>
+  <stage type="scene" n="117">The troops walk off toward the Imperial City leaving Mulan behind with
+    Khan, Cri-Kee, and Mushu. Mulan is sitting, shivering. Khan takes his blanket and wraps it
+    around Mulan with his mouth and sits behind her. Cri-Kee lights a fire with twigs. When he
+    doesn't get warm, he moves under the blanket wrapped around Mulan. Mushu walks toward Mulan
+    carrying a stick</stage>
 
   <sp n="428"><speaker>Mushu</speaker> I was this close, this close to impressing the ancestors,
     getting the top shelf, an entourage. Man, all my fine work, ffft. <stage>Mushu picks up a
@@ -1830,13 +1915,14 @@
     Things'll work out. We started this thing together and that's how we'll finish. <stage>Mushu
       hugs Mulan. Mulan smiles</stage> I promise.</sp>
 
-  <stage>Cut to Shan-Yu's falcon flying over the avalanche site. Shan-Yu's hand pops out of the
-    snow. He gets up and glances around</stage>
+  <stage type="scene" n="118">Cut to Shan-Yu's falcon flying over the avalanche site. Shan-Yu's hand
+    pops out of the snow. He gets up and glances around</stage>
 
   <sp n="437"><speaker>Shan-Yu <stage>screaming</stage></speaker> Rrrrrrraaaaaaaaahhh!</sp>
 
-  <stage>Hun Archer, Long-Hair Hun Man, Hun Strong Guy, Hun Bald Man #1, and Hun Bald Man #2 each
-    pop out of the snow and join Shan-Yu. They set off towards the Imperial City</stage>
+  <stage type="scene" n="119">Hun Archer, Long-Hair Hun Man, Hun Strong Guy, Hun Bald Man #1, and
+    Hun Bald Man #2 each pop out of the snow and join Shan-Yu. They set off towards the Imperial
+    City</stage>
 
   <sp n="438"><speaker>Mulan <stage>seeing them from behind, gasps</stage></speaker> Huh.
       <stage>Mulan runs, grabs her sword, mounts Khan, and heads out following the Huns to the
@@ -1858,14 +1944,15 @@
       and utters fighting words as they ride off to the Imperial City</stage> Wu Hu Ha Ga, Wu Hu Ha
     Ga</sp>
 
-  <stage>Cut to the victory parade in the Imperial City. Fireworks go off, kites are flying. The
-    drummers march by, followed by the flutist, followed by the acrobats. The Parade Leader follows,
-    then Shang and his men, followed by lion dancers</stage>
+  <stage type="scene" n="120">Cut to the victory parade in the Imperial City. Fireworks go off,
+    kites are flying. The drummers march by, followed by the flutist, followed by the acrobats. The
+    Parade Leader follows, then Shang and his men, followed by lion dancers</stage>
 
   <sp n="445"><speaker>Parade Leader</speaker> Make way for the heros of China.</sp>
 
-  <stage>Shang leads the men on horseback, all have sorrowful looks on their faces. Mulan rides up
-    through the crowd and stops. She looks around and sees Shang in the parade</stage>
+  <stage type="scene" n="121">Shang leads the men on horseback, all have sorrowful looks on their
+    faces. Mulan rides up through the crowd and stops. She looks around and sees Shang in the
+    parade</stage>
 
   <sp n="446"><speaker>Mulan <stage>calling out</stage></speaker> Shang! <stage>riding next to
       him</stage></sp>
@@ -1884,13 +1971,13 @@
   <sp n="452"><speaker>Mulan <stage>riding ahead to block Shang's horse</stage></speaker> Why else
     would I come back? You said you'd trust Ping. Why is Mulan any different?</sp>
 
-  <stage>Shang turns his horse and rides around Mulan and goes forward</stage>
+  <stage type="scene" n="122">Shang turns his horse and rides around Mulan and goes forward</stage>
 
   <sp n="453"><speaker>Mulan <stage>to Yao, Chien-Po and Ling</stage></speaker> Keep your eyes open.
     I know they're here. Hya.</sp>
 
-  <stage>Mulan rides off and stops near the entrance to the palace, she dismounts Khan and runs into
-    the palace yard</stage>
+  <stage type="scene" n="123">Mulan rides off and stops near the entrance to the palace, she
+    dismounts Khan and runs into the palace yard</stage>
 
   <sp n="454"><speaker>Mushu</speaker> Now where are you going?</sp>
 
@@ -1898,16 +1985,16 @@
     will believe me. <stage>Mulan runs into the palace yard</stage>
   </sp>
 
-  <stage>Cut to the parade procession stopping in front of the Emperor on the steps of the palace.
-    Chi Fu stands next to Shang and gives him Shan-Yu's sword. The Lion dancers stop behind Shang. A
-    palace man strikes a large gong and the people fall silent</stage>
+  <stage type="scene" n="124">Cut to the parade procession stopping in front of the Emperor on the
+    steps of the palace. Chi Fu stands next to Shang and gives him Shan-Yu's sword. The Lion dancers
+    stop behind Shang. A palace man strikes a large gong and the people fall silent</stage>
 
   <sp n="456"><speaker>Emperor</speaker> My children, heaven smiles down upon the Middle Kingdom.
     China will sleep safely tonight thanks to our brave warriors.</sp>
 
-  <stage>The crowd cheers</stage>
+  <stage type="scene" n="125">The crowd cheers</stage>
 
-  <stage>Cut to Mulan at the fringe of the crowd</stage>
+  <stage type="scene" n="126">Cut to Mulan at the fringe of the crowd</stage>
 
   <sp n="457"><speaker>Mulan <stage>approaching Man #1 laying her hand on his
       shoulder</stage></speaker> Sir, the Emperor's in danger! <stage>Man #1 rips his shoulder away
@@ -1922,7 +2009,7 @@
 
   <sp n="460"><speaker>Mushu</speaker> Hey, you're a girl again, remember?</sp>
 
-  <stage>Cut to Shang holding the sword before the Emperor</stage>
+  <stage type="scene" n="127">Cut to Shang holding the sword before the Emperor</stage>
 
   <sp n="461"><speaker>Shang <stage>kneeling down giving the sword to the Emperor</stage></speaker>
     Your Majesty, I present to you the sword of Shan-Yu.</sp>
@@ -1930,50 +2017,52 @@
   <sp n="462"><speaker>Emperor</speaker> I know what this means to you, Captain Li. Your father
     would have been very proud.</sp>
 
-  <stage>Shan-Yu's falcon swoops down and takes the sword as Shang is giving it to the Emperor. The
-    falcon rises above the roof and drops the sword to Shan-Yu who was sitting next to the gargoyles
-    in the shadows blending in. He rises out of the shadows to catch the sword so that all the
-    people can see his face. The masses of people gasp at the sight of Shan-Yu. Shang begins to draw
-    his sword. All 5 of Shan-Yu's men jump out from behind the dragon knocking down Shang and grab
-    the Emperor knocking off his hat. Hun Bald Man #1 and #2 carry the Emperor into the Palace.
-    Long-Haired Hun Man and Hun Strong Guy close the palace doors as Hun archer knocks his arrow
-    retreating into the Palace to threaten would be rescue attempts</stage>
+  <stage type="scene" n="128">Shan-Yu's falcon swoops down and takes the sword as Shang is giving it
+    to the Emperor. The falcon rises above the roof and drops the sword to Shan-Yu who was sitting
+    next to the gargoyles in the shadows blending in. He rises out of the shadows to catch the sword
+    so that all the people can see his face. The masses of people gasp at the sight of Shan-Yu.
+    Shang begins to draw his sword. All 5 of Shan-Yu's men jump out from behind the dragon knocking
+    down Shang and grab the Emperor knocking off his hat. Hun Bald Man #1 and #2 carry the Emperor
+    into the Palace. Long-Haired Hun Man and Hun Strong Guy close the palace doors as Hun archer
+    knocks his arrow retreating into the Palace to threaten would be rescue attempts</stage>
 
   <sp n="463"><speaker>Shang <stage>getting up and running toward the closing
       doors</stage></speaker> No.</sp>
 
   <sp n="464"><speaker>Yao <stage>beckoning to the other soldiers</stage></speaker> C'mon.</sp>
 
-  <stage>Shang reaches the palace doors just as they close with all the Huns inside</stage>
+  <stage type="scene" n="129">Shang reaches the palace doors just as they close with all the Huns
+    inside</stage>
 
   <sp n="465"><speaker>Shan-Yu <stage>laughs evily</stage></speaker> Ha, Ha, Ha, Ha, Ha, Ha.</sp>
 
-  <stage>Shang and his soldiers pick up a big stone statue and use it as a battering ram. They are
-    unsuccessful at opening the door. Mulan sees what's going on and arrives at the steps</stage>
+  <stage type="scene" n="130">Shang and his soldiers pick up a big stone statue and use it as a
+    battering ram. They are unsuccessful at opening the door. Mulan sees what's going on and arrives
+    at the steps</stage>
 
   <sp n="466"><speaker>Mulan <stage>to herself</stage></speaker> They'll never reach the Emperor in
     time. <stage>She looks at the columns and runs near to the Shang and his soldiers. She whistles
       loudly catching the soldiers' attention</stage> Hey guys, I've got an idea. <stage>Mulan runs
       around the palace to the right towards the columns</stage></sp>
 
-  <stage>Song: I'll Make a Man Out of You (reprise) plays in the background during the next action
-    sequence</stage>
+  <stage type="scene" n="131">Song: I'll Make a Man Out of You (reprise) plays in the background
+    during the next action sequence</stage>
 
   <sp n="467">(Be a man) We must be swift as the coursing river (Be a man) With all the force of a
     great typhoon (Be a man) With all the strength of a raging fire Mysterious as the dark side of
     the moon</sp>
 
-  <stage>Yao, Ping and Chien-Po look at one another then drop the statue and follow Mulan. Shang
-    looks astonished. Around the corner Yao, Ling and Chien-Po begin to take off their armor and
-    dress as women. Once the transformation is complete, they take out their sashes and prepare to
-    shimmy up the columns. Shang arrives and taps Mulan on the shoulder. He takes off his cape and
-    wraps it around the column to signify that he's coming along. They shimmy up the poles
-    together</stage>
+  <stage type="scene" n="132">Yao, Ping and Chien-Po look at one another then drop the statue and
+    follow Mulan. Shang looks astonished. Around the corner Yao, Ling and Chien-Po begin to take off
+    their armor and dress as women. Once the transformation is complete, they take out their sashes
+    and prepare to shimmy up the columns. Shang arrives and taps Mulan on the shoulder. He takes off
+    his cape and wraps it around the column to signify that he's coming along. They shimmy up the
+    poles together</stage>
 
-  <stage>End song</stage>
+  <stage type="scene" n="133">End song</stage>
 
-  <stage>Cut to Hun Bald Man #1 and #2 arriving with the Emperor and a high balcony within the
-    palace. Shan-Yu drops down from the roof</stage>
+  <stage type="scene" n="134">Cut to Hun Bald Man #1 and #2 arriving with the Emperor and a high
+    balcony within the palace. Shan-Yu drops down from the roof</stage>
 
   <sp n="468"><speaker>Shan-Yu</speaker> Boo. <stage>Shan-Yu steps into the balcony next to the
       Emperor</stage>
@@ -1981,17 +2070,17 @@
       that lead to the balcony</stage>. <stage>pacing around the Emperor</stage> Your walls and
     armies have fallen, and now it's your turn. Bow to me.</sp>
 
-  <stage>Cut to the entrance to the stairwell that leads to the balcony. Hun Bald Man #1 and #2 come
-    down the stairs and close the door, joining Hun Archer Man, Hun Strong Man and Hun Long-Hair
-    Man. Mulan and company are around the corner</stage>
+  <stage type="scene" n="135">Cut to the entrance to the stairwell that leads to the balcony. Hun
+    Bald Man #1 and #2 come down the stairs and close the door, joining Hun Archer Man, Hun Strong
+    Man and Hun Long-Hair Man. Mulan and company are around the corner</stage>
 
   <sp n="469"><speaker>Mulan <stage>whispering</stage></speaker> Okay, any questions?</sp>
 
   <sp n="470"><speaker>Yao <stage>whispering</stage></speaker> Does this dress make me look fat?
       <stage>Mulan slaps him</stage> Ow.</sp>
 
-  <stage>Mulan, Yao, Ling and Chien-Po walk out smiling, giggling and trying to act lady-like
-    including holding fans and waving fans</stage>
+  <stage type="scene" n="136">Mulan, Yao, Ling and Chien-Po walk out smiling, giggling and trying to
+    act lady-like including holding fans and waving fans</stage>
 
   <sp n="471"><speaker>Hun Archer</speaker> Who's there?</sp>
 
@@ -2003,37 +2092,38 @@
   <sp n="474"><speaker>Ling <stage>waving daintily, speaking to Yao</stage></speaker> Oh he's so
     cute.</sp>
 
-  <stage>Hun Bald Man #2 smiles and waves back. Hun Bald Man #1 elbows Hun Bald Man #2. A bitten
-    apple falls out from beneath Ling's dress. He pulls the dress out and turns so as not to expose
-    the loss of figure</stage>
+  <stage type="scene" n="137">Hun Bald Man #2 smiles and waves back. Hun Bald Man #1 elbows Hun Bald
+    Man #2. A bitten apple falls out from beneath Ling's dress. He pulls the dress out and turns so
+    as not to expose the loss of figure</stage>
 
   <sp n="475"><speaker>Shang <stage>from around the corner putting his head down into his
         hand</stage></speaker> Aww.</sp>
 
-  <stage>Shan-Yu's Falcon sees Shang and starts to squawk. Mushu from above singes off all his
-    feathers with his fire breathing</stage>
+  <stage type="scene" n="138">Shan-Yu's Falcon sees Shang and starts to squawk. Mushu from above
+    singes off all his feathers with his fire breathing</stage>
 
   <sp n="476"><speaker>Mushu <stage>to Cri-Kee sitting above him</stage></speaker> Now that's what I
     call Mongolian Barbeque. <stage>Cri-Kee rolls on his back in laughter. The stunned falcon
       doesn't do anything</stage></sp>
 
-  <stage>Hun Bald Man #2 picks up the apple and offers it back to Ling. Ling, Yao, and Chien-Po pull
-    out the fruit they were using to simulate a woman's chest. Chien-Po takes his watermelons and
-    smashes them on the heads of Hun Bald Man #1 and #2. He then smashes their two heads together
-    and they fall to the ground. Ling pushes the apple into Hun Long-Hair man's mouth and kicks him
-    in the stomach causing Hun Long-Hair Man to stoop over on the ground. Ling uses his head to
-    crack Hun Long-Hair Man's back. Hun Strong Guy lunges his fist at Yao and misses, he misses with
-    the other. Yao grabs the outstretched arm and flips him over onto his head. Mulan kicks away Hun
-    Archer Man's bow and knocked arrow, avoids his strike by turning her back to Hun Archer. She
-    follows with a left elbow to the stomach followed by a left upper cut knocking Hun Archer to the
-    ground. She sits on his back and uses the bow to pull his head back</stage>
+  <stage type="scene" n="139">Hun Bald Man #2 picks up the apple and offers it back to Ling. Ling,
+    Yao, and Chien-Po pull out the fruit they were using to simulate a woman's chest. Chien-Po takes
+    his watermelons and smashes them on the heads of Hun Bald Man #1 and #2. He then smashes their
+    two heads together and they fall to the ground. Ling pushes the apple into Hun Long-Hair man's
+    mouth and kicks him in the stomach causing Hun Long-Hair Man to stoop over on the ground. Ling
+    uses his head to crack Hun Long-Hair Man's back. Hun Strong Guy lunges his fist at Yao and
+    misses, he misses with the other. Yao grabs the outstretched arm and flips him over onto his
+    head. Mulan kicks away Hun Archer Man's bow and knocked arrow, avoids his strike by turning her
+    back to Hun Archer. She follows with a left elbow to the stomach followed by a left upper cut
+    knocking Hun Archer to the ground. She sits on his back and uses the bow to pull his head
+    back</stage>
 
   <sp n="477"><speaker>Mulan <stage>calling out</stage></speaker> Shang, GO!</sp>
 
-  <stage>Shang runs out from behind the corner, charges through the door and runs up the
-    stairs</stage>
+  <stage type="scene" n="140">Shang runs out from behind the corner, charges through the door and
+    runs up the stairs</stage>
 
-  <stage>Cut to Shan-Yu and the Emperor on the balcony</stage>
+  <stage type="scene" n="141">Cut to Shan-Yu and the Emperor on the balcony</stage>
 
   <sp n="478"><speaker>Shan-Yu</speaker> I tire of your arrogance old man. <stage>yelling and
       putting his sword at the emperor's throat</stage> Bow to me!</sp>
@@ -2044,23 +2134,23 @@
   <sp n="480"><speaker>Shan-Yu</speaker> Then you will kneel in pieces. <stage>Shan-Yu draws back
       his sword to strike the Emperor</stage></sp>
 
-  <stage>Shang runs up in time to block the striking blow of Shan-Yu with his sword. Shang swipes
-    with his sword. Shan-Yu grabs Shang's arm and throws him towards the edge. Shang grabs onto a
-    column and he flies over the edge and uses the momentum to swing back and kick Shan-Yu. Shan-Yu
-    falls to the ground, Shang on top of him. Shang punches Shan-Yu. Shan-Yu grabs Shang and rolls
-    over forcing Shang to be on his back underneath him. Shang uses his knee to hit Shan-Yu from
-    behind as he uses his hand to hit him in the head. Shang forces Shan-Yu onto his back and grabs
-    his arm pulling it behind Shan-Yu's back. Mulan, Chien-Po, Yao and Ling enter the balcony from
-    the stairs</stage>
+  <stage type="scene" n="142">Shang runs up in time to block the striking blow of Shan-Yu with his
+    sword. Shang swipes with his sword. Shan-Yu grabs Shang's arm and throws him towards the edge.
+    Shang grabs onto a column and he flies over the edge and uses the momentum to swing back and
+    kick Shan-Yu. Shan-Yu falls to the ground, Shang on top of him. Shang punches Shan-Yu. Shan-Yu
+    grabs Shang and rolls over forcing Shang to be on his back underneath him. Shang uses his knee
+    to hit Shan-Yu from behind as he uses his hand to hit him in the head. Shang forces Shan-Yu onto
+    his back and grabs his arm pulling it behind Shan-Yu's back. Mulan, Chien-Po, Yao and Ling enter
+    the balcony from the stairs</stage>
 
   <sp n="481"><speaker>Mulan</speaker> Chien-Po, get the Emperor.</sp>
 
   <sp n="482"><speaker>Chien-Po <stage>standing in front of the Emperor and bowing</stage></speaker>
     Sorry, your Majesty. </sp>
 
-  <stage>Chien-Po lifts up the Emperor and runs over to Mulan who is by a rope attached to a column
-    in the balcony. Chien-Po uses his sash as a pulley and rides down the rope to the ground. Shan
-    Yu watches the Emperor leave</stage>
+  <stage type="scene" n="143">Chien-Po lifts up the Emperor and runs over to Mulan who is by a rope
+    attached to a column in the balcony. Chien-Po uses his sash as a pulley and rides down the rope
+    to the ground. Shan Yu watches the Emperor leave</stage>
 
   <sp n="483"><speaker>Shan-Yu</speaker> No! </sp>
 
@@ -2073,26 +2163,26 @@
 
   <sp n="485"><speaker>Yao <stage>motioning her to follow</stage></speaker> Come on!</sp>
 
-  <stage>Mulan looks down at Shang with a worried look. Shan-Yu begins to approach Mulan and the
-    rope. Mulan looks at the approaching Shan-Yu and then down to spy his sword. Thinking quickly,
-    Mulan grabs Shan-Yu's sword and cuts the taught rope. Shan-Yu reaches the edge and grabs for the
-    falling rope unsuccessfully as Mulan leaves the sword embedded in the column and runs to Shang's
-    position. The crowd cheers</stage>
+  <stage type="scene" n="144">Mulan looks down at Shang with a worried look. Shan-Yu begins to
+    approach Mulan and the rope. Mulan looks at the approaching Shan-Yu and then down to spy his
+    sword. Thinking quickly, Mulan grabs Shan-Yu's sword and cuts the taught rope. Shan-Yu reaches
+    the edge and grabs for the falling rope unsuccessfully as Mulan leaves the sword embedded in the
+    column and runs to Shang's position. The crowd cheers</stage>
 
   <sp n="486"><speaker>Shan-Yu</speaker> No! <stage>He looks down at the crowd and realizes he
       cannot find the Emperor among the throng of people</stage> Yrraaaaahhhh!</sp>
 
-  <stage>Shan-Yu turns and looks back and sees Mulan looking concerned, holding up Shang. Shan-Yu
-    pulls out his sword lodged in the column and heads toward them. As Shang sees Shan-Yu
-    approaching, he puts his arm in front of Mulan to ask her to leave and takes out his knife.
-    Mulan slides away. Shan-Yu comes up to Shang, knocks away his knife, slaps him in the face, and
-    grabs Shang by the shirt collar</stage>
+  <stage type="scene" n="145">Shan-Yu turns and looks back and sees Mulan looking concerned, holding
+    up Shang. Shan-Yu pulls out his sword lodged in the column and heads toward them. As Shang sees
+    Shan-Yu approaching, he puts his arm in front of Mulan to ask her to leave and takes out his
+    knife. Mulan slides away. Shan-Yu comes up to Shang, knocks away his knife, slaps him in the
+    face, and grabs Shang by the shirt collar</stage>
 
   <sp n="487"><speaker>Shan-Yu <stage>in Shang's face</stage></speaker> You, you took away my
     victory.</sp>
 
-  <stage>Mulan's shoe hits Shan-Yu in the head and bounces back to her feet. Shan-Yu turns toward
-    Mulan</stage>
+  <stage type="scene" n="146">Mulan's shoe hits Shan-Yu in the head and bounces back to her feet.
+    Shan-Yu turns toward Mulan</stage>
 
   <sp n="488"><speaker>Mulan</speaker> No! I did! <stage>Mulan pulls her hair back to look like she
       did when she was a soldier</stage></sp>
@@ -2100,11 +2190,11 @@
   <sp n="489"><speaker>Shan-Yu <stage>looking at Mulan</stage></speaker> The soldier from the
     mountains.</sp>
 
-  <stage>Shan-Yu drops Shang and starts after Mulan as she puts on her shoe and runs down the stairs
-    and through the doors to the balcony. She closes the door with the latch falling in place right
-    behind her. She leans against the doors. Shan-Yu punches a hole in one door with his fist. Mulan
-    runs away from the doors down the corridor. Mushu riding Shan-Yu's falcon like a horse catches
-    up with Mulan</stage>
+  <stage type="scene" n="147">Shan-Yu drops Shang and starts after Mulan as she puts on her shoe and
+    runs down the stairs and through the doors to the balcony. She closes the door with the latch
+    falling in place right behind her. She leans against the doors. Shan-Yu punches a hole in one
+    door with his fist. Mulan runs away from the doors down the corridor. Mushu riding Shan-Yu's
+    falcon like a horse catches up with Mulan</stage>
 
   <sp n="490"><speaker>Mushu</speaker> So what's the plan?</sp>
 
@@ -2119,12 +2209,12 @@
       Cri-Kee jump onto a kite and use the wings to soar over toward the fireworks
     tower</stage></sp>
 
-  <stage>Cut to Shan-Yu. Shan-Yu breaks through the doors and catches up to Mulan swinging his sword
-    wildly knocking down a support column with every swipe. Mulan runs and ducks his every blow.
-    Mulan climbs up a column to get out of Shan-Yu's reach. Shan-Yu slices the base of the column
-    causing it to fall and break through the outer wall. Mulan screams as the beam falls and comes
-    to a stop. Mulan gets up on the beam and jumps up to catch onto the awning. She looks off to her
-    right and spies Mushu arriving at the fireworks tower</stage>
+  <stage type="scene" n="148">Cut to Shan-Yu. Shan-Yu breaks through the doors and catches up to
+    Mulan swinging his sword wildly knocking down a support column with every swipe. Mulan runs and
+    ducks his every blow. Mulan climbs up a column to get out of Shan-Yu's reach. Shan-Yu slices the
+    base of the column causing it to fall and break through the outer wall. Mulan screams as the
+    beam falls and comes to a stop. Mulan gets up on the beam and jumps up to catch onto the awning.
+    She looks off to her right and spies Mushu arriving at the fireworks tower</stage>
 
   <sp n="495">
     <stage>Zoom in on the fireworks tower. Mushu lands near Barry Cook and Tony Bancroft (the
@@ -2138,25 +2228,27 @@
   <sp n="498"><speaker>Mushu <stage>Mushu (using the wings from the kite) and Cri-Kee with wings
         spread like batman</stage></speaker> You're worst nightmare.</sp>
 
-  <stage>Barry Cook and Tony Bancroft jump off the tower and plunge toward the ground</stage>
+  <stage type="scene" n="149">Barry Cook and Tony Bancroft jump off the tower and plunge toward the
+    ground</stage>
 
-  <stage>Cut to Mulan. She pulls herself onto the roof and climbs up to the crest</stage>
+  <stage type="scene" n="150">Cut to Mulan. She pulls herself onto the roof and climbs up to the
+    crest</stage>
 
   <sp n="499"><speaker>Man in Crowd #1</speaker> On the roof.</sp>
 
   <sp n="500"><speaker>Man in Crowd #2</speaker> Look!</sp>
 
-  <stage>Mulan lines up where she is standing with the fireworks tower across the way. Shan-Yu
-    breaks through the roof behind Mulan surprising her. Mulan backs away and searches for something
-    on her person to help her against Shan-Yu. She finds a her fan, takes it out, and opens
-    it</stage>
+  <stage type="scene" n="151">Mulan lines up where she is standing with the fireworks tower across
+    the way. Shan-Yu breaks through the roof behind Mulan surprising her. Mulan backs away and
+    searches for something on her person to help her against Shan-Yu. She finds a her fan, takes it
+    out, and opens it</stage>
 
   <sp n="501"><speaker>Shan-Yu</speaker> It looks like you're out of ideas.</sp>
 
-  <stage>Shan-Yu lunges with his sword. Mulan dodges to her right and lets the sword go right
-    through the fan. She closes the fan back up on the sword and twists the fan with both hands so
-    that Shan-Yu loses his grip. The sword flies toward Mulan and she catches it by the handle
-    slipping off the fan with her sword movement</stage>
+  <stage type="scene" n="152">Shan-Yu lunges with his sword. Mulan dodges to her right and lets the
+    sword go right through the fan. She closes the fan back up on the sword and twists the fan with
+    both hands so that Shan-Yu loses his grip. The sword flies toward Mulan and she catches it by
+    the handle slipping off the fan with her sword movement</stage>
 
   <sp n="502"><speaker>Mulan</speaker> Not quite. <stage>calling out</stage> Ready, Mushu?</sp>
 
@@ -2164,23 +2256,25 @@
     I am ready, baby. <stage>He blows fire onto a stick and hands the stick to Cri-Kee who's
       standing on the firework</stage> Light me! <stage>Cri-Kee lights the fuse</stage></sp>
 
-  <stage>Shan-Yu approaches Mulan. Using the sword as a lever, Mulan lunges at Shan-Yu kicking him
-    in the face then sweep kicks him and he falls to the ground. Mulan picks the sword back up and
-    stabs it into Shan-Yu's cape. The rocket on Mushu ignites and hurls him toward Shan-Yu. Mulan
-    lies flat down on the left side of the roof. Shan-Yu sees the approaching rocket and tries to
-    run, but the sword has him pinned to the spot. The rocket hits Shan-Yu square in the belly
-    propelling him toward the firework tower. Mushu grabbed onto the sword as he went by letting the
-    rocket do the work. Cri-Kee hangs on to Mushu's tail. Mulan jumps back up to the crest of the
-    roof and runs away from the fireworks tower grabbing Mushu and Cri-Kee off the sword</stage>
+  <stage type="scene" n="153">Shan-Yu approaches Mulan. Using the sword as a lever, Mulan lunges at
+    Shan-Yu kicking him in the face then sweep kicks him and he falls to the ground. Mulan picks the
+    sword back up and stabs it into Shan-Yu's cape. The rocket on Mushu ignites and hurls him toward
+    Shan-Yu. Mulan lies flat down on the left side of the roof. Shan-Yu sees the approaching rocket
+    and tries to run, but the sword has him pinned to the spot. The rocket hits Shan-Yu square in
+    the belly propelling him toward the firework tower. Mushu grabbed onto the sword as he went by
+    letting the rocket do the work. Cri-Kee hangs on to Mushu's tail. Mulan jumps back up to the
+    crest of the roof and runs away from the fireworks tower grabbing Mushu and Cri-Kee off the
+    sword</stage>
 
   <sp n="504"><speaker>Mulan <stage>while running</stage></speaker> Get off the roof, get off the
     roof, get off the roof.</sp>
 
-  <stage>The rocket rides Shan-Yu into the fireworks tower causing masses of explosions and
-    fireworks to fly everywhere. Mulan jumps near the edge of the roof. Propelled by the explosion,
-    she grabs onto a lantern that is hanging on a taught rope and starts to slide down. She looks
-    down and releases her grip so that she lands on the back of Shang causing the two of them to
-    fall to the ground. Shan-Yu's sword follows and lands on the ground near by</stage>
+  <stage type="scene" n="154">The rocket rides Shan-Yu into the fireworks tower causing masses of
+    explosions and fireworks to fly everywhere. Mulan jumps near the edge of the roof. Propelled by
+    the explosion, she grabs onto a lantern that is hanging on a taught rope and starts to slide
+    down. She looks down and releases her grip so that she lands on the back of Shang causing the
+    two of them to fall to the ground. Shan-Yu's sword follows and lands on the ground near
+    by</stage>
 
   <sp n="505"><speaker>Mushu <stage>landing and flying backwards on his butt a couple of times
         pointing at the fireworks</stage></speaker> Ah ha ha ha ha. <stage>Mushu's catches Cri-Kee
@@ -2204,20 +2298,20 @@
 
   <sp n="511"><speaker>Shang</speaker> Your Majesty, I can explain.</sp>
 
-  <stage>The Emperor motions for Shang to stand aside. Shang and his men part giving the Emperor a
-    clear path to Mulan. Mulan steps forward and bows before the Emperor. Chi Fu with a sinister
-    look waits to write down the words of the Emperor</stage>
+  <stage type="scene" n="155">The Emperor motions for Shang to stand aside. Shang and his men part
+    giving the Emperor a clear path to Mulan. Mulan steps forward and bows before the Emperor. Chi
+    Fu with a sinister look waits to write down the words of the Emperor</stage>
 
   <sp n="512"><speaker>Emperor</speaker> I've heard a great deal about you, Fa Mulan. You stole your
     father's armor, ran away from home, impersonated a soldier, deceived your commanding officer,
     dishonored the Chinese army, destroyed my palace, AND...you have saved us all. <stage>the
       Emperor bows to Mulan</stage></sp>
 
-  <stage>Chi Fu looks at the Emperor actions astonishingly then immediately falls prostrate before
-    Mulan. Shang, Yao, Ling, and Chien-Po follow suit. Mulan looks up then turns around hardly
-    believing what she sees as the entire Chinese population within the palace grounds fall
-    prostrate on the ground in a wave like pattern, bowing to her. Khan bows with Mushu and Cri-Kee
-    on his back</stage>
+  <stage type="scene" n="156">Chi Fu looks at the Emperor actions astonishingly then immediately
+    falls prostrate before Mulan. Shang, Yao, Ling, and Chien-Po follow suit. Mulan looks up then
+    turns around hardly believing what she sees as the entire Chinese population within the palace
+    grounds fall prostrate on the ground in a wave like pattern, bowing to her. Khan bows with Mushu
+    and Cri-Kee on his back</stage>
 
   <sp n="513"><speaker>Mushu</speaker> My little baby's all grown up and savin' China. <stage>to
       Cri-Kee</stage> You have a tissue?</sp>
@@ -2246,15 +2340,15 @@
     your family will know what you have done for me. And this <stage>handing her the sword of
       Shan-Yu</stage> so the world will know what you have done for China.</sp>
 
-  <stage>Mulan takes the gifts and hugs the Emperor</stage>
+  <stage type="scene" n="157">Mulan takes the gifts and hugs the Emperor</stage>
 
   <sp n="522"><speaker>Yao</speaker> Is she allowed to do that? <stage>Shang, Ling, and Chien-Po
       shrug</stage></sp>
 
-  <stage>Mulan walks away from the Emperor and is embraced by Yao and Ling. Chien-Po comes up and
-    lifts all three of them off the ground in a big bear hug. Chien-Po lets them all back to the
-    ground again. Mulan walks toward Shang and stops in front of him. As Shang begins to speak Mulan
-    starts to smile anticipating something good</stage>
+  <stage type="scene" n="158">Mulan walks away from the Emperor and is embraced by Yao and Ling.
+    Chien-Po comes up and lifts all three of them off the ground in a big bear hug. Chien-Po lets
+    them all back to the ground again. Mulan walks toward Shang and stops in front of him. As Shang
+    begins to speak Mulan starts to smile anticipating something good</stage>
 
   <sp n="523"><speaker>Shang</speaker> Um...<stage>Mulan grins</stage> You... <stage>Mulan
       smiles</stage> You fight good.</sp>
@@ -2265,13 +2359,13 @@
   <sp n="525"><speaker>Shang</speaker>
     <stage>turning toward Mulan and grunts with disappointment in himself</stage>: Hmm.</sp>
 
-  <stage>Mulan mounts Khan</stage>
+  <stage type="scene" n="159">Mulan mounts Khan</stage>
 
   <sp n="526"><speaker>Mulan</speaker> Khan, let's go home.</sp>
 
-  <stage>Khan jumps down the steps and gallops on the flat parts of the stair case back down to
-    ground level. The crowd cheers al the while. The Emperor approaches Shang and clears his
-    throat</stage>
+  <stage type="scene" n="160">Khan jumps down the steps and gallops on the flat parts of the stair
+    case back down to ground level. The crowd cheers al the while. The Emperor approaches Shang and
+    clears his throat</stage>
 
   <sp n="527"><speaker>Emperor <stage>to Shang</stage></speaker> The flower that blooms in adversity
     is the most rare and beautiful of all.</sp>
@@ -2281,27 +2375,28 @@
   <sp n="529"><speaker>Emperor</speaker> You don't meet a girl like that ev'ry dynasty. <stage>The
       emperor puts on his hat and walks back up the steps to his palace</stage></sp>
 
-  <stage>Cut to Mulan's home, her father is sitting beneath the blossom tree. A blossom falls and
-    lands on his leg. Mulan appears at the threshold and moves toward her father. Fa Zhou sees her
-    approaching and starts to stand</stage>
+  <stage type="scene" n="161">Cut to Mulan's home, her father is sitting beneath the blossom tree. A
+    blossom falls and lands on his leg. Mulan appears at the threshold and moves toward her father.
+    Fa Zhou sees her approaching and starts to stand</stage>
 
   <sp n="530"><speaker>Fa Zhou</speaker> Mulan. </sp>
 
-  <stage>Mulan quickly moves in front of her father and kneels causing him to sit back down</stage>
+  <stage type="scene" n="162">Mulan quickly moves in front of her father and kneels causing him to
+    sit back down</stage>
 
   <sp n="531"><speaker>Mulan</speaker> Father, I brought you the sword of Shan-Yu <stage>hands the
       sword to Fa Zhou</stage> and the crest of the Emperor <stage>hands the crest to Fa
       Zhou</stage>. <stage>with head bowed</stage> They're gifts to honor the Fa Family.</sp>
 
-  <stage>Fa Zhou takes the gifts and throws them down to the ground beside him to the surprise of
-    Mulan. He bends down and holds her arms outstretched</stage>
+  <stage type="scene" n="163">Fa Zhou takes the gifts and throws them down to the ground beside him
+    to the surprise of Mulan. He bends down and holds her arms outstretched</stage>
 
   <sp n="532"><speaker>Fa Zhou</speaker> The greatest gift and honor, is having you for a daughter.
       <stage>Fa Zhou wipes away Mulan's tear then hugs Mulan</stage> I've missed you so.</sp>
 
   <sp n="533"><speaker>Mulan</speaker> I've missed you too Baba.</sp>
 
-  <stage>Fa li and Grandma Fa watch from the doorway</stage>
+  <stage type="scene" n="164">Fa li and Grandma Fa watch from the doorway</stage>
 
   <sp n="534"><speaker>Fa Li <stage>sighing</stage></speaker> Ahhhhh</sp>
 
@@ -2311,20 +2406,20 @@
   <sp n="536"><speaker>Shang <stage>just arriving</stage></speaker> Excuse me, does Fa Mulan live
     here?</sp>
 
-  <stage>Grandma Fa's mouth stays open as she and Fa Li point toward Mulan's position. Shang walks
-    toward Mulan and Fa Zhou</stage>
+  <stage type="scene" n="165">Grandma Fa's mouth stays open as she and Fa Li point toward Mulan's
+    position. Shang walks toward Mulan and Fa Zhou</stage>
 
   <sp n="537"><speaker>Grandma Fa</speaker> Woo, sign me up for the next war.</sp>
 
-  <stage>Shang approaches seeing Fa Zhou</stage>
+  <stage type="scene" n="166">Shang approaches seeing Fa Zhou</stage>
 
   <sp n="538"><speaker>Shang <stage>bows before Fa Zhou and speaks confidently</stage></speaker>
     Honorable Fa Zhou I--Mulan <stage>Mulan steps up. Shang sees her and speaks insecurely</stage>
     Uh...Uh...You forgot your helmet. Ah but well, actually it's your helmet, isn't
       it?...<stage>handing the helmet toward Fa Zhou</stage> I mean...</sp>
 
-  <stage>Fa Zhou motions with his head for Mulan to take over. Mulan holds the helmet Shang
-    offers</stage>
+  <stage type="scene" n="167">Fa Zhou motions with his head for Mulan to take over. Mulan holds the
+    helmet Shang offers</stage>
 
   <sp n="539"><speaker>Mulan</speaker> Would you like to stay for dinner?</sp>
 
@@ -2335,9 +2430,9 @@
   <sp n="541"><speaker>Shang <stage>reassuredly to Mulan</stage></speaker> Dinner would be
     great.</sp>
 
-  <stage>Cut to First Ancestor grinning happily looking at the scene through the temple window. He
-    watches Mulan hand the helmet back to Fa Zhou. Mushu climbs up to the window sill by First
-    Ancestor's his head</stage>
+  <stage type="scene" n="168">Cut to First Ancestor grinning happily looking at the scene through
+    the temple window. He watches Mulan hand the helmet back to Fa Zhou. Mushu climbs up to the
+    window sill by First Ancestor's his head</stage>
 
   <sp n="542"><speaker>Mushu <stage>tugging on First Ancestor's ear</stage></speaker> C'mon, who did
     a good job? C'mon, tell me who did a good job.</sp>
@@ -2350,9 +2445,10 @@
 
   <sp n="545"><speaker>Mushu</speaker> Take it Cri-Kee.</sp>
 
-  <stage>Song: True to Your Heart -- No characters sing in the song</stage>
+  <stage type="scene" n="169">Song: True to Your Heart -- No characters sing in the song</stage>
 
-  <stage>Ancestor 1 does a dance from Pulp Fiction while Ancestor 3 does the Hand Jive</stage>
+  <stage type="scene" n="170">Ancestor 1 does a dance from Pulp Fiction while Ancestor 3 does the
+    Hand Jive</stage>
 
   <sp n="546"><speaker>Ancestor 3 <stage>spoken to Ancestor 1</stage></speaker> She get's it from my
     side of the family.</sp>
@@ -2362,20 +2458,20 @@
 
   <sp n="548"><speaker>First Ancestor <stage>disgusted</stage></speaker> Guardians.</sp>
 
-  <stage>Mushu lands on the steps outside the temple. Mulan walks up to him and rests besides him on
-    the steps</stage>
+  <stage type="scene" n="171">Mushu lands on the steps outside the temple. Mulan walks up to him and
+    rests besides him on the steps</stage>
 
   <sp n="549"><speaker>Mulan</speaker> Thanks, Mushu <stage>kisses Mushu on the
     forehead</stage>.</sp>
 
   <sp n="550"><speaker>Little Brother</speaker> Bark, bark, bark, bark, bark, bark, bark </sp>
 
-  <stage>Little brother runs up the steps and into the temple with the bag of grain tied to him. The
-    chickens follow him in</stage>
+  <stage type="scene" n="172">Little brother runs up the steps and into the temple with the bag of
+    grain tied to him. The chickens follow him in</stage>
 
   <sp n="551"><speaker>First Ancestor <stage>annoyed</stage></speaker> Mushu!</sp>
 
-  <stage>Roll Credits</stage>
+  <stage type="scene" n="173">Roll Credits</stage>
 
-  <stage>The End</stage>
+  <stage type="scene" n="174">The End</stage>
 </xml>

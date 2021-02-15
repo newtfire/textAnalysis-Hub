@@ -6,6 +6,24 @@
     version="3.0">
     
 <xsl:mode on-no-match="shallow-copy"/>
+    
+<xsl:template match="source">
+   <source>
+    <xsl:apply-templates/>
+    <roles>
+        <xsl:for-each select="//speaker/text() => distinct-values()">
+            <character><xsl:value-of select="current()"/></character>
+        </xsl:for-each>
+    </roles>
+   </source> 
+</xsl:template>    
+    
+ <xsl:template match="xml/stage">
+        <stage type="scene" n="{count(preceding-sibling::stage) + 1}">
+            <xsl:apply-templates/>
+        </stage>
+ </xsl:template>
+    
 
 <xsl:template match="sp">
     <sp n="{count(preceding::sp) + 1}">
