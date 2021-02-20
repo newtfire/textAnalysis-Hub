@@ -12,7 +12,7 @@ sourceLink = element sourceLink {xsd:anyURI}
 propertyStmt = element propertyStmt {mixed{orgName}}
 orgName = element orgName {text}
 roles = element roles {character+}
-character = element character {gender?, type?, text}
+character = element character {gender, type?, text}
 gender = attribute gender {"f" | "m" | "mixed"}
 type = attribute type {"coll" | "animal" | "scene"}
 
