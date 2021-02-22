@@ -35,19 +35,20 @@
         <section title="gitHub-Configure">
             <h2>Setup your GitHub repository for web hosting</h2>
             <h3>Preparing a <code>docs</code> directory</h3>
-            <p>Be sure you have cloned your own repo in the same directory that holds the textEncoding-Hub. In our tutorials we have asked you to create a GitHub directory to contain your GitHub repos. Either work with the personal GitHub repo you created already, or make a new one for the semester project. The file directory structure we expect on your computer is:</p>
+            <p>In our git tutorials we have asked you to create a local directory on your computer named "GitHub" to contain your cloned GitHub repos side by side. Be sure you have cloned your own repo in the same outer directory (probably named "GitHub") that holds the textAnalysis-Hub. Either work with the personal GitHub repo you created already, or clone a new one to sit next to your other cloned repos for the semester project. The file directory structure we expect on your computer is:</p>
           <pre>  
             GitHub
                 |
-                — textEncoding-Hub
+                — textAnalysis-Hub
                 — myCoolRepo
+                - projectRepo
           </pre>
             
-           <p>If everything looks okay with your setup, let’s begin. First, you need to retrieve a copy of my starter web folder. Open your Git Bash Shell (on Windows) or your Terminal on Mac. Navigate on your computer to your local clone of the textEncoding-Hub, and before you do <em>anything</em> else, use <code>git pull</code> to update your repo files so you bring in the latest commits to your local computer.</p>
+           <p>If everything looks okay with your setup, let’s begin. First, you need to retrieve a copy of my starter web folder. Open your Git Bash Shell (on Windows) or your Terminal on Mac. Navigate on your computer to your local clone of the textAnalysis-Hub, and before you do <em>anything</em> else, use <code>git pull</code> to update your repo files so you bring in the latest commits to your local computer.</p>
            
-            <p>Because we want GitHub to function as a place to store and share code, as well as publish a website, we will configure GitHub Pages to publish from a special directory in the repo, which must be named <code>docs</code>. I have a starter prepared for your docs folder with some files you can begin to customize to make a website. My folder is in the textEncoding-Hub on this relative path:</p>
+            <p>Because we want GitHub to function as a place to store and share code, as well as publish a website, we will configure GitHub Pages to publish from a special directory in the repo, which must be named <code>docs</code>. I have a starter prepared for your docs folder with some files you can begin to customize to make a website. My folder is in the textAnalysis-Hub on this relative path:</p>
 
-           <pre> textEncoding-Hub/docs/copy-and-rename-to-docs</pre>
+           <pre> textAnalysis-Hub/docs/copy-and-rename-to-docs</pre>
             
             <p>This <code>copy-and-rename-to-docs</code> folder will need to be renamed <code>docs</code> when you copy it to your repo.</p> 
             
@@ -64,11 +65,11 @@
             <ol>
                 <li>Navigate to your repo using the <code>cd</code> command, so your command prompt is at myCoolRepo.</li>
                 <li>Do a <code>git pull</code> here just in case you made changes to your repo from another computer.</li>
-                <li>Then write the <code>cp</code> command with an <code>-r</code> flag like this to allow it to copy a directory from the textEncoding-Hub into your space, realizing that <code>../</code> climbs up a directory, and that you can use the tab key to autocomplete long directory names. (The <code>./</code> in the second argument means right here on myOwnCoolRepo.)
+                <li>Then write the <code>cp</code> command with an <code>-r</code> flag like this to allow it to copy a directory from the textAnalysis-Hub into your space, realizing that <code>../</code> climbs up a directory, and that you can use the tab key to autocomplete long directory names. (The <code>./</code> in the second argument means right here on myOwnCoolRepo.)
                 <pre>
-                     <code>cp -r ../textEncoding-Hub/docs/copy-and-rename-to-docs ./docs</code></pre>
+                     <code>cp -r ../textAnalysis-Hub/docs/copy-and-rename-to-docs ./docs</code></pre>
                 </li>
-                <li>Check to see that you now have a docs directory in your own repo. (If you are having difficulty with the <code>cp</code> command, there is nothing at all wrong with using your File Manager (Windows) or Finder (Mac) to copy the directory over and rename it. Just please be sure to <strong>copy</strong> rather than move the directory! Leave a copy of the directory in the textEncoding-Hub rather than deleting it so you do not change our class GitHub repo. Be sure not to push any changes to the textEncoding-Hub.)</li>
+                <li>Check to see that you now have a docs directory in your own repo. (If you are having difficulty with the <code>cp</code> command, there is nothing at all wrong with using your File Manager (Windows) or Finder (Mac) to copy the directory over and rename it. Just please be sure to <strong>copy</strong> rather than move the directory! Leave a copy of the directory in the textAnalysis-Hub rather than deleting it so you do not change our class GitHub repo. Be sure not to push any changes to the textAnalysis-Hub.)</li>
                 <li>Now it is time to add, commit, and push your changes to your remote repo, which will be publishing your website. 
                 <ul>
                     <li><code>git add -A</code> (or <code>git add .</code>) <span class="smaller">Note: git add -A is a little more powerful than git add . in that it ensures that deleted files are tracked, but usually they are interchangeable. Use whichever one you prefer.</span></li>
