@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:discography xmlns:tns="discography.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="discography.xsd" id="12345678">
+    <firstSong>
+        <tns:title>BrandonShusteric</tns:title>
+        <tns:artist>202</tns:artist>
+        <tns:album>bbs5249@psu.edu</tns:album>
+        <tns:genre>Male</tns:genre>
+        <tns:location>4129808009</tns:location>
+        <tns:dateofRecording></tns:dateofRecording>
+        <tns:billboardChart></tns:billboardChart>
+        <tns:length></tns:length>
+    </firstSong>
+
+    <secondSong>
+        <tns:title>BrandonShusteric</tns:title>
+        <tns:artist>202</tns:artist>
+        <tns:album>bbs5249@psu.edu</tns:album>
+        <tns:genre>Male</tns:genre>
+        <tns:location>4129808009</tns:location>
+        <tns:dateofRecording></tns:dateofRecording>
+        <tns:billboardChart></tns:billboardChart>
+        <tns:length></tns:length>
+    </secondSong>
+
+    <thirdSong>
+        <tns:artist>202</tns:artist>
+        <tns:album>bbs5249@psu.edu</tns:album>
+        <tns:genre>Male</tns:genre>
+        <tns:location>4129808009</tns:location>
+        <tns:dateofRecording></tns:dateofRecording>
+        <tns:billboardChart></tns:billboardChart>
+        <tns:length></tns:length>
+    </thirdSong>
+
+    <fourthSong>
+        <tns:artist>202</tns:artist>
+        <tns:album>bbs5249@psu.edu</tns:album>
+        <tns:genre>Male</tns:genre>
+        <tns:location>4129808009</tns:location>
+        <tns:dateofRecording></tns:dateofRecording>
+        <tns:billboardChart></tns:billboardChart>
+        <tns:length></tns:length>
+    </fourthSong>
+
+    <fifthSong>
+        <tns:artist>202</tns:artist>
+        <tns:album>bbs5249@psu.edu</tns:album>
+        <tns:genre>Male</tns:genre>
+        <tns:location>4129808009</tns:location>
+        <tns:dateofRecording></tns:dateofRecording>
+        <tns:billboardChart></tns:billboardChart>
+        <tns:length></tns:length>
+    </fifthSong>
+</tns:discography>
