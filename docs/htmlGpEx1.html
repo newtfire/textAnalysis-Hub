@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <title>HTML Ex 1</title>
+        <meta charset="UTF-8" />
+        <meta name="author" content="My Name" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="explain.css" />
+    </head>
+    <body>
+        <div id="top"><div id="bannerImage"><a href="https://newtfire.org/courses/"><img
+            src="copy-and-rename-to-docs/images/newt-mosaic4.png"
+            alt="NewtFire logo: a mosaic rendering of a firebelly newt"/></a></div>
+            <div id="title"><a href="https://newtfire.org">newtFire</a> <a href="https://newtfire.org/courses/">{dh}</a></div>
+            <div class="boilerplate"><span><strong>Maintained by: </strong> Elisa E. Beshero-Bondar
+                (eeb4 at psu.edu)   <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png" /></a><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"></a> <a href="https://newtfire.org/firebellies.html">Powered by firebellies</a>.</span></div>	
+        </div>
+        <hr/>
+        <h1>HTML for GitHub Pages Exercise 1: Getting Started</h1>
+        <hr/>
+        <p class="navbar"><a href="index.html">Main</a> | <a href="htmlGpEx1.html">HTML Exercise 1</a> | 
+            <a href="htmlGpEx2.html">HTML Exercise 2</a> | <a href="animals.html">Animals</a></p>
+        <hr/>
+        
+        
+     <section title="overview"><h2>Overview</h2>   
+         <p>Learning how to create and publish a website involves: </p>
+        <ul>
+            <li>learning how to write the text encoding for a website: HTML and related code like CSS and JS to be read by web browsers</li>
+            <li>learning how to publish the site in designated web hosting locations, using special directories for publishing to the web</li>
+        </ul>
+        <p>In this class we are working with GitHub Pages, a web hosting service freely provided by GitHub associated with your GitHub repository. This exercise is one of <a href="index.html">a pair of exercises</a> that will help you get started with configuring a GitHub Pages website built on your own code as you are learning HTML and CSS.</p>
+        </section>
+        <section title="gitHub-Configure">
+            <h2>Setup your GitHub repository for web hosting</h2>
+            <h3>Preparing a <code>docs</code> directory</h3>
+            <p>Be sure you have cloned your own repo in the same directory that holds the textEncoding-Hub. In our tutorials we have asked you to create a GitHub directory to contain your GitHub repos. Either work with the personal GitHub repo you created already, or make a new one for the semester project. The file directory structure we expect on your computer is:</p>
+          <pre>  
+            GitHub
+                |
+                — textEncoding-Hub
+                — myCoolRepo
+          </pre>
+            
+           <p>If everything looks okay with your setup, let’s begin. First, you need to retrieve a copy of my starter web folder. Open your Git Bash Shell (on Windows) or your Terminal on Mac. Navigate on your computer to your local clone of the textEncoding-Hub, and before you do <em>anything</em> else, use <code>git pull</code> to update your repo files so you bring in the latest commits to your local computer.</p>
+           
+            <p>Because we want GitHub to function as a place to store and share code, as well as publish a website, we will configure GitHub Pages to publish from a special directory in the repo, which must be named <code>docs</code>. I have a starter prepared for your docs folder with some files you can begin to customize to make a website. My folder is in the textEncoding-Hub on this relative path:</p>
+
+           <pre> textEncoding-Hub/docs/copy-and-rename-to-docs</pre>
+            
+            <p>This <code>copy-and-rename-to-docs</code> folder will need to be renamed <code>docs</code> when you copy it to your repo.</p> 
+            
+            <p>To copy the folder we can use the shell command <code>cp</code> and practice some file navigation to place the folder at the top level inside your repo. If your repo is named, “myCoolRepo”, you would put the folder here and rename it docs:</p>
+            <pre>
+            myCoolRepo
+                |
+                — docs
+            </pre>
+            
+            <p>So its local file path would be something like: <code>/path/on/your/computer/to/GitHub/myCoolRepo/docs</code>.</p>
+            
+            <p>If your directory structure is like the one we recommend in our GitHub tutorials, you will be able to copy and rename the directory in one move with the cp command as we show you below. (If your file directory structure is different you will need to customize our commands here.)</p>
+            <ol>
+                <li>Navigate to your repo using the <code>cd</code> command, so your command prompt is at myCoolRepo.</li>
+                <li>Do a <code>git pull</code> here just in case you made changes to your repo from another computer.</li>
+                <li>Then write the <code>cp</code> command with an <code>-r</code> flag like this to allow it to copy a directory from the textEncoding-Hub into your space, realizing that <code>../</code> climbs up a directory, and that you can use the tab key to autocomplete long directory names. (The <code>./</code> in the second argument means right here on myOwnCoolRepo.)
+                <pre>
+                     <code>cp -r ../textEncoding-Hub/docs/copy-and-rename-to-docs ./docs</code></pre>
+                </li>
+                <li>Check to see that you now have a docs directory in your own repo. (If you are having difficulty with the <code>cp</code> command, there is nothing at all wrong with using your File Manager (Windows) or Finder (Mac) to copy the directory over and rename it. Just please be sure to <strong>copy</strong> rather than move the directory! Leave a copy of the directory in the textEncoding-Hub rather than deleting it so you do not change our class GitHub repo. Be sure not to push any changes to the textEncoding-Hub.)</li>
+                <li>Now it is time to add, commit, and push your changes to your remote repo, which will be publishing your website. 
+                <ul>
+                    <li><code>git add -A</code> (or <code>git add .</code>) <span class="smaller">Note: git add -A is a little more powerful than git add . in that it ensures that deleted files are tracked, but usually they are interchangeable. Use whichever one you prefer.</span></li>
+                    <li><code>git commit -m "adding docs folder to start GitHub website"</code></li>
+                    <li><code>git push</code></li>
+                </ul>
+           <p>Go visit your remote GitHub repo on the web to see that your commit history is updated and your new docs folder is ready to serve a website. Next we will need to activate GitHub Pages on your remote repo.</p>  
+                </li>
+                
+            </ol>
+            <h3>Activate GitHub Pages on your remote repo</h3>
+            <p>In the web browser, as you are visiting your remote repo, find and open the Settings tab. The Settings tab is in the upper right, just above the green Code button.</p>
+            <p>You will see the main view of Settings. Scroll down on this page until you see the <strong>GitHub Pages</strong> heading, which will look like this:</p>
+            
+            <img src="githubPagesSettings.png" alt="GitHub Pages section in the GitHub Repo Settings" class="screenCap"/>
+            
+            
+            <p>Configure your settings to look like mine in the screen capture below. They should be to serve GitHub Pages from <code>Branch:master</code>, and the <code>docs/</code> directory.</p>
+            
+            <img src="githubPagesSettingsMod.png" alt="GitHub Pages Settings, set to read from the docs directory on the master branch" class="screenCap"/>
+<p>When you have altered this setting, your site will be published from the URL listed in the now pale-green box in your GitHub settings. You may wish to copy that link, and paste it on the code view of your repo in the About window. Paste that URL in a web browser to view your published site, and use that URL to direct visitors to your site. <strong>Caution: </strong> GitHub Pages can take sometimes up to 10 minutes to update after a <code>git push</code> of your latest work, so be patient. Also try opening your site in different web browsers to refresh the view.</p>
+        </section>
+        
+       <section title="writing-HTML">
+ 
+       <h2>Editing and preparing new HTML files for your site</h2>
+           <p>For our first assignment you may simply edit the index.html page that you now have stored in your <code>docs/</code> folder on your GitHub repo.</p>
+           <p>The goal of this assignment is to create a very basic personal webpage. If you view page source on this page you can see examples of how we used headings, paragraphs, lists, an image, and links to other pages within the same directory. You can also view the corresponding CSS and take note of how we linked our CSS with this page. Mac users to view page source we recommend that you use Firefox or Chrome because Safari will require you to change browser preferences to see the page source. In Firefox or Chrome simply right-click and select view page source.</p>
+           <p>The key components of your first basic webpage that we will be looking for are:</p>
+               
+               <ul><li>Heading elements (with any variation of heading levels)</li>
+               <li>Paragraph element(s)</li>
+               <li>Showing at least one new image</li>
+               </ul>
+           <p>If you wish, study our <a href="https://newtfire.org/courses/tutorials/explainCSS.html">Introduction to CSS</a> and begin updating and revising and adding more styling to your page by editing the CSS file.</p>
+        <p>If you wish, try adding a new page to link to your index.html page, using a relative link. In oXygen, open a new XHTML 5 file, and alter the head element to contain the info below. This page will link to the same CSS file, <code>webstyle.css</code> currently associated with your <code>index.html</code> page. When you go to save this file give it a new name with no spaces that makes sense within your site, like <code>about.html</code>, or <code>hobbies.html</code>. oXygen will want to save this as <code>.xhtml</code> by default, but be sure to change the file extension to <code>.html</code>. (We are going to be using the <code>.html</code> file extension as more typically recognized on websites.</p>
+        
+        <pre>
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml" lang="en"&gt;
+    &lt;head&gt;
+        &lt;title&gt;HTML Ex 1&lt;/title&gt;
+        &lt;meta charset="UTF-8" /&gt;
+        &lt;meta name="author" content="My Name" /&gt;
+        &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt;
+        &lt;link rel="stylesheet" type="text/css" href="webstyle.css" /&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;!--Code the viewable portion of your page here.--&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+        </pre>
+           
+           <p>Save your new HTML page in your <code>docs/</code> directory. Then to publish your work, use the git commands to add, commit, and push your files up to the web (not forgetting the commit message with <code>git commit -m "your  message"</code>). </p>
+       </section>
+           
+          <section title="submitting">
+              <h3>Submitting your work</h3>
+              <p>Submit the link to your GitHub Pages website on Canvas at the assignment submission point there.</p>
+       </section>
+        
+    </body>
+</html>

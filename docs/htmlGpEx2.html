@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <title>HTML Ex 2</title>
+        <meta charset="UTF-8" />
+        <meta name="author" content="My Name" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="explain.css" />
+    </head>
+    <body>
+        <div id="top"><div id="bannerImage"><a href="https://newtfire.org/courses/"><img
+            src="copy-and-rename-to-docs/images/newt-mosaic4.png"
+            alt="NewtFire logo: a mosaic rendering of a firebelly newt"/></a></div>
+            <div id="title"><a href="https://newtfire.org">newtFire</a> <a href="https://newtfire.org/courses/">{dh}</a></div>
+            <div class="boilerplate"><span><strong>Maintained by: </strong> Elisa E. Beshero-Bondar
+                (eeb4 at psu.edu)   <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png" /></a><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"></a> <a href="https://newtfire.org/firebellies.html">Powered by firebellies</a>.</span></div>	
+        </div>
+        <hr/>
+        <h1>HTML for GitHub Pages Exercise 2: Building and Styling a Site with Linked Pages</h1>
+        <hr/>
+        <p class="navbar"><a href="index.html">Main</a> | <a href="htmlGpEx1.html">HTML Exercise 1</a> | 
+            <a href="htmlGpEx2.html">HTML Exercise 2</a> | <a href="animals.html">Animals</a></p>
+        <hr/>
+        
+     <section title="overview"><h2>Overview</h2>   
+        <p>This exercise builds on <a href="htmlGpEx1.html">HTML Exercise 1 for GitHub Pages</a>, so that you develop a small, consistently styled website that contains:</p>
+         <ul><li>Multiple HTML pages with their own distinct content and images.</li>
+             <li>A simple menu of relative links on each page so visitors can find each of the others.</li>
+             <li>A single CSS file associated with all of your site pages to give you a consistent style for your website.</li>
+         </ul>
+        </section>
+       <section title="howto">
+           <h2>Building your site with a consistent layout and navigation</h2>
+           <p>For the semester project, you will be building a website that helps to curate a document, so you can create this GitHub Pages website to be associated with your project. Think about planning a small set of at least three or four pages that will (eventually) contain:</p> 
+               <ul><li>an introduction to your document and author, with some basic information about your project</li>     
+                   <li>an <strong>edition</strong> of your document (an HTML representation of the document that you will eventually be preparing wtih XSLT from your XML)</li>
+                    <li>a page representing some <strong>analysis of data and metadata</strong> from your markup</li>
+                   <li>perhaps a separate conclusion page, though this could appear on the introduction or the analysis pages.</li>
+               </ul>
+      <p>Of course for this assignment you do not need to have complete content for any of these pages yet! However, you can begin creating a home for this material by preparing some simple HTML pages with simple headings, perhaps a relevant image or two, and content like <q>Coming soon!</q> or <q>Under construction!</q></p>
+           <p>Create some HTML pages with simple one-word filenames (no spaces and ideally no special characters in the filenames), with a <code>.html</code> file extension.
+           The easiest way to create a set of these pages is simply to open the <code>index.html</code> page in &lt;oXygen/&gt; and use <q>save as</q> to save the file with a new filename. Then you can leave the <code>head</code> element mostly intact, just changing its <code>title</code> element. You will want to continue with the CSS file association line, most likely, since our goal is to have just a single CSS file that contains your styling codes for the whole website.</p> 
+           <p>Begin editing the content of the <code>body</code> so that each page contains some distinct content.</p>
+           <p>Now, give some thought to how visitors will navigate your pages. A coherent website needs to contain clear site navigation cues to guide visitors to each of the main pages. You will want to work with <a href="https://www.webstix.com/knowledgebase/general/relative-links-vs-absolute-links/#:~:text=Quite%20simply%2C%20a%20relative%20link,(URL)%20to%20the%20page."><strong>relative links</strong></a> to point to HTML files saved in the same file folder (your <code>docs/</code> directory) on your site. Here are some of examples of student project sites with reasonably simple navigation menus to give you an idea of site layout and navigation: </p>
+           <ul><li><a href="http://undertale.newtfire.org/">Undertale Project</a> (made by Pitt-Greensburg students in Fall 2019)</li>
+               <li><a href="http://rickandmorty.newtfire.org/">The Rick and Morty Project</a> (made by Pitt-Greensburg students in Spring 2018)</li>
+               <li><a href="http://kpop.newtfire.org/">KPop Project</a> (underway by students in Penn State Behrend’s DIGIT 400 Project Design class)</li>
+           </ul>
+           <p>Basically you are establishing a simple plan for a website with multiple HTML pages. There are many ways to create a simple navigation bar, and <a href="https://www.w3schools.com/css/css_navbar.asp">this w3schools tutorial</a> will walk you through a couple of methods using an HTML unordered list and CSS styling. (Note: w3schools displays CSS styling within the HTML page for demonstration purposes, but because we are building a website with the <em>same</em> consistent styling throughout, we want you to set up all your styling in a separate CSS file linked to each of yoru HTML pages. That way, when you make one update to the CSS you update the styling everywhere across your website.</p>
+           <p>We also think a very simple HTML menu bar can be very easy to code and maintain, and not take up a lot of space on a page. For example, a menu might look like:</p>           <div class="pre-colored">
+               <hr />
+               <p><span style="color: blue;">Main</span> | <span style="color:blue;">About</span> |
+                   <span style="color: blue;">Texts</span> | <span style="color:blue;"
+                       >Analysis</span></p>
+               <hr />
+           </div>
+           <p>and be coded with relative links to pages in the same folder like so:</p>
+           <pre>&lt;hr/&gt;
+&lt;p class="navbar"&gt;&lt;a href="index.html"&gt;Main&lt;/a&gt; | &lt;a href="about.html"&gt;About&lt;/a&gt; | 
+            &lt;a href="texts.html"&gt;Texts&lt;/a&gt; | &lt;a href="analysis.html"&gt;Analysis&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;</pre>
+           <p>Explore and experiment with giving your site navigation a distinct look and consistent location and appearance on your webpages. Remember to save your work frequently, and push it to your remote repo to publish updates to your site using:</p>
+           <ol>
+               <li><code>git add .</code></li>
+               <li><code>git commit -m "your commit message"</code></li>
+               <li><code>git push</code></li>
+           </ol>
+         <h3>Styling your pages with CSS, with help from HTML <code>&lt;span&gt;</code> and <code>@class</code></h3> 
+           <p>Take some time to work on the styling of your site, and learn your way around CSS code. It will help to use HTML elements and attributes especially designed for highlighting and styling, so on that you may want to <a href="https://newtfire.org/courses/tutorials/explainHTMLSpanClass.html">try the <code>&lt;span&gt;</code> element and <code>@class</code> attribute</a>, which are easy to associate with styling code in CSS. Check out the tutorials and sample sites at the end of our <a href="https://newtfire.org/courses/tutorials/explainCSS.html">Introduction to CSS</a>, and one of our favorites, the <a href="http://www.csszengarden.com/">CSS Zen Garden</a>, which features the same HTML page styled in eight shockingly different ways (and shares the code for each). Happy styling!</p>
+       </section>
+    
+          <section title="submitting">
+              <h3>Submitting your work</h3>
+              <p>Submit two links to the Canvas submission point for this assignment:</p> 
+                  <ol><li>Your GitHub Pages website on Canvas at the assignment submission point there. </li>
+                  <li>A link to the <q>code view</q> of your repo, to help me quickly review your <code>docs/</code> directory.</li>
+                  </ol>
+       </section>
+        
+    </body>
+</html>

@@ -1,0 +1,10 @@
+
+body {
+background-color: BurlyWood;
+color: indigo;
+font-family: arial, helvetica, sans-serif;
+}
+ol {list-style-type: lower-alpha;
+padding: 5em;
+    
+}
