@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <background>
+        <title> I've Had Enough of You</title>
+        <source> Song from "Billie Bust Up"</source>
+        <singer> Sung by Michael Kovach</singer>
+        <formatting>XML Formatting: Rachel Gerzevske</formatting>
+    </background>
+
+    <verse number="1">
+        <line n="1">
+            <emphasized>YOU!</emphasized>
+        </line>
+        <line n="2">You’ve been nothing but a thorn in my side <rhyme with="line 4">since day
+                one!</rhyme></line>
+        <line n="3"> But <introduction boss="fantoccio">I... am Fantoccio</introduction> the Great
+            and I’ll not... HA!</line>
+        <line n="4">
+            <rhyme with="line 2">Be outdone!</rhyme>
+        </line>
+
+        <line n="5">Welcome to Fantoccio's spectacular theatre in the
+                <emphasized>pound!</emphasized></line>
+        <line n="6">Please excuse my <definition meaning="theatrical dialect">thespian
+                vernacular</definition></line>
+        <line n="7">When I say: thou ist going down!</line>
+    </verse>
+
+    <chorus>
+        <line n="5">
+            <repetition>I've had enough of you</repetition>
+        </line>
+        <line n="6">So time to be my puppet on a <rhyme with="line 8">string</rhyme></line>
+        <line n="7">
+            <repetition>I've had enough of you</repetition>
+        </line>
+        <line n="8">Oh <emphasized>DANCE</emphasized> my little muppet <rhyme with="line 6"
+                >plaything</rhyme>!</line>
+    </chorus>
+
+    <verse number="2">
+        <line n="9">Now!</line>
+        <line n="10">The audience is thirsty for <rhyme with="line 11">fun</rhyme></line>
+        <line n="11">Time to <rhyme with="line 10">run</rhyme></line>
+        <line n="12">'Cuz nooooow your denouement has already <rhyme with="line 13"
+            >begun!</rhyme></line>
+        <line n="13">That means your done!</line>
+
+        <line n="14">We could both be pirates on the <rhyme with="line 15">sea</rhyme></line>
+        <line n="15">You’ll swab the deck and play your part for <rhyme with="line 14"
+            >me</rhyme></line>
+        <line n="16">Mops galore!</line>
+        <line n="17">You'd better keep it <rhyme with="line 18">clean!</rhyme></line>
+        <line n="18">Watch out now my little friend, 'cuz <reference literature="Shakespeare"
+                >sharkspeare's</reference> looking <rhyme with="line 17">mean!</rhyme></line>
+    </verse>
+
+    <chorus>
+        <line n="19">
+            <repetition>I've had enough of you</repetition>
+        </line>
+        <line n="20">So time to be my puppet on a <rhyme with="line 20">string</rhyme></line>
+        <line n="21">
+            <repetition>I've had enough of you</repetition>
+        </line>
+        <line n="22">Oh <emphasized>DANCE</emphasized> my little muppet <rhyme with="line 22"
+                >plaything</rhyme>!</line>
+    </chorus>
+
+    <verse number="3">
+        <line n="23">A battle like no <rhyme with="line 24">other</rhyme></line>
+        <line n="24">Better move! 'Cuz here’s <rhyme with="line 23">another!</rhyme></line>
+        <line n="25">At least you’ll get to see defeat in epic <rhyme with="line 27"
+            >style</rhyme></line>
+
+        <line n="26">The audience is primed, each attack right on time</line>
+        <line n="27">Seeing you entwined is so <rhyme with="line 25">worthwhile</rhyme>!</line>
+
+        <line n="28">But why stop <rhyme with="line 29">there?</rhyme></line>
+        <line n="29">Add <rhyme with="line 28">a lion, a bear</rhyme>,</line>
+        <line n="30">What's wrong my <french translation="little dear">petite chère</french>? Why
+            don't you smile!</line>
+
+        <line n="31">The final act is sure to be a theatrical plot twist worthy of a <rhyme
+                with="line 33">prize</rhyme></line>
+        <line n="32">Want a shot? You better be more tactical</line>
+        <line n="33">Messin' with Fantoccio is never <rhyme with="line 31">wise!</rhyme></line>
+    </verse>
+
+    <chorus>
+        <line n="34">
+            <repetition>I've had enough of you</repetition>
+        </line>
+        <line n="35">So won't you be my puppet on a <rhyme with="line 37">string</rhyme></line>
+        <line n="36">
+            <repetition>I've had enough of you</repetition>
+        </line>
+        <line n="37">Oh DANCE my little muppet <rhyme with="line 35">plaything</rhyme>!</line>
+        <line n="38">I'm up to here with you</line>
+        <line n="39">So why don’t you fin'ly face it</line>
+        <line n="40">Your fate is sealed</line>
+    </chorus>
+
+    <verse number="4">
+        <line n="41">And everything you do is what I <rhyme with="line 42">say!</rhyme></line>
+        <line n="42">Starting now and <rhyme with="line 41">everyday</rhyme></line>
+        <line n="43">You'll <rhyme with="line 44">be my puppet, learn to love it,</rhyme></line>
+        <line n="44">Every word I say you’ll <rhyme with="line 43">covet!</rhyme></line>
+
+        <line n="45">
+            <rhyme with="lines 46 and 47">Start-a-new, stuck like glue</rhyme>
+        </line>
+        <line n="46">Bid your former self <rhyme with="lines 45 and 47">adieu</rhyme></line>
+        <line n="47">'Cuz I've had enough of <emphasized><rhyme with="lines 45 and 46"
+                    >YOUUUUUU!!!!</rhyme></emphasized></line>
+    </verse>
+</root>

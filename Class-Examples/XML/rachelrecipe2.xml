@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <!--File renamed so I could upload this to GitHub easier. The XML formatting was done by Rachel Gerzevske!-->
+
+    <title>Chocolate Fudge Cake <note>(Recipe Found on Pinterest)</note></title>
+
+    <heading>SERVINGS:</heading>
+    <note read="not mentioned in recipe">About four servings</note>
+
+    <heading>INGREDIENTS:</heading>
+    <ingredient>1 1/4 cup granulated sugar <note status="important">divided</note></ingredient>
+    <ingredient>1 cup all-purpose flour</ingredient>
+    <ingredient>2/3 cup natural cocoa powder <note status="important">divided</note></ingredient>
+    <ingredient>2 teaspoon baking powder</ingredient>
+    <ingredient>1/4 teaspoon salt</ingredient>
+    <ingredient>1/2 cup milk</ingredient>
+    <ingredient>1/3 cup unsalted butter <note status="important">melted</note></ingredient>
+    <ingredient>1 1/2 teaspoon vanilla extract</ingredient>
+    <ingredient>1/2 cup brown sugar <note status="important">packed</note></ingredient>
+    <ingredient>1 1/4 cups HOT water</ingredient>
+
+    <heading>DIRECTIONS:</heading>
+
+    <step n="1">Preheat oven to <temperature degrees="farenheit">350 degrees</temperature>. Spray a
+        9 inch square baking dish with cooking spray. Set aside.</step>
+
+    <step n="2">In a large bowl, <combine ingredients="dry">combine 3/4 granulated sugar, flour, 1/4
+            cup cocoa powder, baking powder, and salt.</combine>
+        <combine ingredients="liquids">Stir in milk, melted butter, and vanilla</combine>. Using a
+        hand mixer, beat mixture until smooth.</step>
+
+    <step n="3">Pour the batter into a 9 inch baking dish.</step>
+
+    <step n="4">In a small bowl, <combine ingredients="dry">combine the remaining 1/2 cup granulated
+            sugar, remaining cocoa powder, and the brown sugar</combine>. Sprinkle mixture evenly
+        over batter.</step>
+
+    <step n="5">Pour hot water overtop <note status="important">Do not stir!</note></step>
+
+    <step n="6"><time minutes="32-35">Bake for 32-35 minutes</time> or until center is almost set.
+        Remove from the oven and <time minutes="10">let stand for ten minutes.</time></step>
+
+    <step n="7">Serve in individual dishes. Top with ice cream or fresh whipped topping.</step>
+
+    <!--This is a favorite recipe of mine! It's a rich cake that I usually have around Christmas. The recipe specifically calls for a 9 inch pan because of how the cake is made, so a different sized pan would require more ingredients. At least it's easy to make. -->
+</root>
