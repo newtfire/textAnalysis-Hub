@@ -1,0 +1,107 @@
+<?xml-model href="RelaxNg/Aladdin.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<xml>
+    <metadata>
+        <title>Prince Ali </title>
+        <origin>Lyrics from <movie>Aladdin (Live-Action)</movie>
+        </origin>
+        <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <composer
+                ref="#Ashman">Howard Ashman</composer></author>
+        <perform>Performed by <voiceActor ref="#Smith" role="#Genie">Will Smith</voiceActor> as
+            Genie</perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"> Make way for Prince Ali </ln>
+            <ln n="2"> Say hey, it's Prince Ali </ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="3"> Hey, clear the way in the old Bazaar </ln>
+            <ln n="4"> Hey, you, let us through </ln>
+            <ln n="5"> It's a brand new star </ln>
+            <ln n="6"> Oh, come! </ln>
+            <ln n="7"> Be the first on your block to meet his eye </ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="8"> Make way, here he comes </ln>
+            <ln n="9"> Ring bells! Bang the drums! </ln>
+            <ln n="10"> You're gonna love this guy </ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="11"> Prince Ali! Fabulous he, Ali Ababwa </ln>
+            <ln n="12"> Show some respect </ln>
+            <ln n="13"> Boy, genuflect! </ln>
+            <ln n="14"> Down on one knee </ln>
+            <ln n="15"> Now try your best to stay calm </ln>
+            <ln n="16"> Brush up your Friday salaam </ln>
+            <ln n="17"> Then come and meet his spectacular coterie! </ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="18"> Prince Ali! Mighty is he, Ali Ababwa </ln>
+            <ln n="19"> Strong as ten regular men, definitely </ln>
+            <ln n="20"> He's faced the galloping hordes </ln>
+            <ln n="21"> A hundred bad guys with swords </ln>
+            <ln n="22"> Who sent those goons to their lords? </ln>
+            <ln n="23"> Why, Prince Ali </ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="24"> Fellas, he's got </ln>
+            <ln n="25"> He's got seventy-five golden camels </ln>
+            <ln n="26"> Woo, uh, huh, now the ladies, what he got? </ln>
+            <ln n="27"> Purple peacocks, he's got fifty-three </ln>
+            <ln n="28"> Uh, huh, uh, huh, uh, huh </ln>
+            <ln n="29"> When it comes to exotic-type mammals </ln>
+            <ln n="30"> Everybody, help me out! </ln>
+            <ln n="31"> He's got a zoo </ln>
+            <ln n="32"> I'm telling you, it's a world-class menagerie </ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="33"> Prince Ali! Handsome is he, Ali Ababwa </ln>
+            <ln n="34"> That physique! How can I speak </ln>
+            <ln n="35"> Weak in my knees (yummy, boy!) </ln>
+            <ln n="36"> So get on out in that square </ln>
+            <ln n="37"> Adjust your veil and prepare </ln>
+            <ln n="38"> To gawk and grovel and stare at Prince Ali </ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="39"> He's got ninety-five white Persian monkeys </ln>
+            <ln n="40"> (He's got the monkeys, a bunch of monkeys) </ln>
+            <ln n="41"> And to view them he charges no fee </ln>
+            <ln n="42"> (He's generous, so generous) </ln>
+            <ln n="43"> He's got ten thousand servants and flunkies </ln>
+            <ln n="44"> (Proud to work for him) </ln>
+            <ln n="45"> They bow to his whim, love serving him </ln>
+            <ln n="46"> They're just lousy with loyalty to Ali! </ln>
+            <ln n="47"> Prince Ali! </ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="48"> Prince A- </ln>
+            <ln n="49"> We're waiting for you! We're not going till you go </ln>
+            <ln n="50"> You can do it! There it is! </ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="51"> Prince Ali! Amorous he, Ali Ababwa </ln>
+            <ln n="52"> Heard your princess was hot! Where is she? </ln>
+            <ln n="53"> And that, good people, is why </ln>
+            <ln n="54"> He got all cute and dropped by </ln>
+            <ln n="55"> With sixty elephants, llamas galore </ln>
+            <ln n="56"> (For real?) </ln>
+            <ln n="57"> With his bears and lions </ln>
+            <ln n="58"> A brass band and more </ln>
+            <ln n="59"> (What?) </ln>
+            <ln n="60"> With his forty fakirs, his cooks, his bakers </ln>
+            <ln n="61"> His birds that warble on key </ln>
+            <ln n="62"> Make way </ln>
+            <ln n="63"> For Prince Ali! </ln>
+        </lg>
+    </song>
+</xml>

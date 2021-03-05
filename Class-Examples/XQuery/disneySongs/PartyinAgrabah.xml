@@ -1,0 +1,110 @@
+<?xml-model href="RelaxNg/Aladdin.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <metadata>
+        <title>There's a Party Here in Agrabah</title>
+        <origin>Lyrics from <movie>Aladdin and the King of Thieves</movie></origin>
+        <author>Composed by <composer ref="Friedman">David Friedman</composer></author>
+        <perform><voiceActor ref="null" role="null">null</voiceActor></perform>
+    </metadata>
+
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="Genie">Genie</char> There's a party here in Agrabah</ln>
+            <ln n="2">There's excitement in the air</ln>
+            <ln n="3">People pouring in from near and far</ln>
+            <ln n="4">'Cause Jasmine and Aladdin are gonna have a weddin'</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="5">There's a party here in Agrabah</ln>
+            <ln n="6">Everybody will be there</ln>
+            <ln n="7">So if you're a pauper or a shah</ln>
+            <ln n="8">Do somethin' with your hair</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="9">You mustn't wear an outfit that's naughty</ln>
+            <ln n="10">A turban that's unraveling just won't do</ln>
+            <ln n="11">No earrings that are tasteless or gaudy</ln>
+            <ln n="12">You're gonna look gorgeous when I get through</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="13">There's a party here in Agrabah</ln>
+            <ln n="14">So I'm going to paint the town</ln>
+            <ln n="15">If you want to see what colors are</ln>
+            <ln n="16">Follow me around</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="17">Aladdin's gettin' married, and it's gonna be</ln>
+            <ln n="18">The wedding of the century</ln>
+            <ln n="19">My buddy's gettin' married, and you're gonna see</ln>
+            <ln n="20">Just how much I can do</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="21">You've heard of your safari bar mitzvahs</ln>
+            <ln n="22">You've all been to a luau, a sweet sixteen</ln>
+            <ln n="23">Well, none of them compare to what this is</ln>
+            <ln n="24">The food'll be disgusting, by evening you'll be busting</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="25">There's a party here in Agrabah</ln>
+            <ln n="26">And it's got us all aglow</ln>
+            <ln n="27">If a street rat could've come so far</ln>
+            <ln n="28">Maybe I could do it</ln>
+            <ln n="29">Sure, there's nothin' to it!</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="30">There's a party here in Agrabah</ln>
+            <ln n="31">But we're not sure that we'll go</ln>
+            <ln n="32">For although the bride is lah-dee-dah</ln>
+            <ln n="33">The groom is awfully low</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="34">And now we take you down to the palace</ln>
+            <ln n="35">Where everyone has celebrated all night long</ln>
+            <ln n="36">Without Jafar and all of his malice</ln>
+            <ln n="37">Everybody's happy</ln>
+            <ln n="38">What could possibly go wrong?</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="39"><char ref="Thieves">Thieves</char> There's a party here in Agrabah</ln>
+            <ln n="40">And we're gonna rob 'em blind</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="41"><char ref="Cassim">Cassim</char> While they're all munching caviar</ln>
+            <ln n="42">Create a small disturbance, I'll sneak up from behind</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="43"><char ref="Iago">Iago</char> There's a party here in Agrabah</ln>
+            <ln n="44">And the loot is pourin' in</ln>
+            <ln n="45">I like this wedding stuff so far</ln>
+            <ln n="46">Maybe if I'm pleasant, I'll get to keep a present</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="47"><char ref="Genie">Genie</char> We've ordered just a few tasteful flowers</ln>
+            <ln n="48">The valets will carefully park for you</ln>
+            <ln n="49">The bridesmaids have been dressing for hours!</ln>
+            <ln n="50">Girls, you look just lovely and so grown-up, too</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="51">There's a party here in Agrabah</ln>
+            <ln n="52">Guests are filling up the room</ln>
+            <ln n="53">But there's something missing...yes, ah ha!</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="54"><char ref="Sultan">Sultan</char> Where is the groom?</ln>
+        </lg>
+    </song>
+</xml>

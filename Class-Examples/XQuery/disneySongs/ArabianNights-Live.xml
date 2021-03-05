@@ -1,0 +1,78 @@
+<?xml-model href="RelaxNg/Aladdin.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <metadata>
+        <title>Arabian Nights (2019)</title>
+        <origin>Lyrics from <movie>Aladdin (Live-Action)</movie> </origin>
+        <author>Music by <composer ref="Menken">Alan Menken</composer>Lyrics by <lyricist ref="Ashman">Howard Ashman</lyricist>, with new lyrics by <lyricist ref="Pasek">Benj Pasek</lyricist> and
+            <lyricist ref="Paul">Justin Paul</lyricist></author>
+        <perform>>Performed by <voiceActor ref="Smith" role="Genie">Will Smith</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1">Oh, imagine a land, it's a faraway place</ln>
+            <ln n="2">Where the caravan camels roam</ln>
+            <ln n="3">Where you wander among every culture and tongue</ln>
+            <ln n="4">It's chaotic, but, hey, it's home</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="5">When the wind's from the East, and the sun's from the West</ln>
+            <ln n="6">And the sand in the glass is right</ln>
+            <ln n="7">Come on down, stop on by</ln>
+            <ln n="8">Hop a carpet and fly</ln>
+            <ln n="9">To another Arabian night</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="10">As you wind through the streets at the fabled bazaars</ln>
+            <ln n="11">With the cardamom-cluttered stalls</ln>
+            <ln n="12">You can smell every spice</ln>
+            <ln n="13">While you haggle the price</ln>
+            <ln n="14">Of the silks and the satin shawls</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="15">Oh, the music that plays as you move through a maze</ln>
+            <ln n="16">In the haze of your pure delight</ln>
+            <ln n="17">You are caught in a dance</ln>
+            <ln n="18">You are lost in the trance</ln>
+            <ln n="19">Of another Arabian night</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="20">Arabian nights</ln>
+            <ln n="21">Like Arabian days</ln>
+            <ln n="22">More often than not are hotter than hot</ln>
+            <ln n="23">In a lot of good ways</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="24">Arabian nights</ln>
+            <ln n="25">Like Arabian dreams</ln>
+            <ln n="26">This mystical land of magic and sand</ln>
+            <ln n="27">Is more than it seems</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="28">There's a road that may lead you</ln>
+            <ln n="29">To good or to greed through</ln>
+            <ln n="30">The power your wishing commands</ln>
+            <ln n="31">Let the darkness unfold or find fortunes untold</ln>
+            <ln n="32">Well, your destiny lies in your hands</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="33">Arabian nights</ln>
+            <ln n="34">Like Arabian days</ln>
+            <ln n="35">They seem to excite, take off and take flight</ln>
+            <ln n="36">To shock and amaze</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="37">Arabian nights</ln>
+            <ln n="38">'Neath Arabian moons</ln>
+            <ln n="39">A fool off his guard could fall and fall hard</ln>
+            <ln n="40">Out there on the dunes</ln>
+        </lg>
+    </song>
+</xml>

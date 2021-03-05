@@ -1,0 +1,21 @@
+<?xml-model href="RelaxNg/Aladdin.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<xml>
+    <metadata>
+        <title>One Jump Ahead (Reprise)</title>
+        <origin>Lyrics from <movie>Aladdin (Live-Action)</movie></origin>
+        <author>Music and lyrics by<composer ref="#Menken"> Alan Menken</composer>
+            and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+        <perform>Performed by <voiceActor ref="#Massoud" role="#Aladdin">Mena Massoud</voiceActor> as Aladdin</perform>
+    </metadata>
+
+    <song>
+        <lg n="1">
+            <ln n="1">Riffraff! Street rat! I don't buy that!</ln>
+            <ln n="2">If only they'd look closer</ln>
+            <ln n="3">Would they see a poor boy?</ln>
+            <ln n="4">No, siree</ln>
+            <ln n="5">They'd find out there's so much more to me</ln>
+        </lg>
+    </song>
+</xml>

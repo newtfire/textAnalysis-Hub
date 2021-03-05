@@ -1,0 +1,88 @@
+<?xml-model href="RelaxNg/Aladdin.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<xml>
+    <metadata>
+        <title>Father and Son</title>
+        <origin>Lyrics from <movie>Aladdin and the King of Theives</movie></origin>
+        <author>Composed by <composer ref="#Peterson">Randy Petersen</composer> and
+                <composer ref="#Quinn">Kevin Quinn</composer></author>
+        <perform>Performed by <voiceActor ref="#Williams" role="#Genie">Robin Williams</voiceActor>,
+                <voiceActor ref="#Kane" role="#Aladdin">Brad Kane</voiceActor> and <voiceActor ref="#Foard" role="#Cassim">Merwin Foard</voiceActor></perform>
+    </metadata>
+
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Genie">Genie</char> It's a big, bright, beautiful future</ln>
+            <ln n="2">Thank your lucky stars you're alive</ln>
+            <ln n="3">You got someone special to talk to</ln>
+            <ln n="4">A friend that you can trust for life</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="5">You've been on your own with no family ties</ln>
+            <ln n="6">But those solo days are done</ln>
+            <ln n="7">You'll be two of a kind</ln>
+            <ln n="8">Spending quality time</ln>
+            <ln n="9">Together as father and son</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="10">Buildin' model ships</ln>
+            <ln n="11">Takin' fishin' trips</ln>
+            <ln n="12">Workin' hand in hand</ln>
+            <ln n="13">Painting the palace, mowin' the sand</ln>
+            <ln n="14">First at ten to go</ln>
+            <ln n="15">With your daddy-o</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="16">Once you break the ice</ln>
+            <ln n="17">You can postulate paternal advice</ln>
+            <ln n="18">See, you're travelling at the speed of life</ln>
+            <ln n="19">That's the theory of relatives!</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="20">It's a fine, fantabulous future</ln>
+            <ln n="21">I see fruit on the family tree</ln>
+            <ln n="22">You'll be great as a grumpy ol' grandpa</ln>
+            <ln n="23">Bouncing babies on your knee!</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="24">You can fall asleep on the comfy couch</ln>
+            <ln n="25">After playin' one-on-one</ln>
+            <ln n="26">Reamin' back-to-back</ln>
+            <ln n="27">Betcha wallop the Shaq</ln>
+            <ln n="28">Together as father and son</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="29"><char ref="#Cassim">Cassim</char> May be a bumpy ride</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="30"><char ref="#Aladdin">Aladdin</char> We'll make it side by side</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="31"><char ref="#Genie">Genie</char> Good afternoon, I'll be your travel guide</ln>
+            <ln n="32">Move over, Aladdin</ln>
+            <ln n="33">Make room for dad!</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="34">You got a whole new shoulder to cry on</ln>
+            <ln n="35">Take a chance now, give it a spin</ln>
+            <ln n="36">You've had chums for palin' around with</ln>
+            <ln n="37">But you never had a friend like him</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="38">Put your checkered past behind you now</ln>
+            <ln n="39">No more living on the run</ln>
+            <ln n="40">Face the big, bright, beautiful future</ln>
+            <ln n="41">Together together, together, together as father and son</ln>
+        </lg>
+    </song>
+</xml>

@@ -1,0 +1,46 @@
+<?xml-model href="RelaxNg/Aladdin.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <metadata>
+        <title>Arabian Nights</title>
+        <origin>Lyrics from <movie>Aladdin</movie></origin>
+        <author>Music and lyrics by <composer ref="Menken">Alan Menken</composer>
+            and <composer ref="Ashman">Howard Ashman</composer></author>
+        <perform>Performed by <voiceActor ref="Adler" role="Peddler">Bruce Adler</voiceActor> as the Peddler</perform>
+    </metadata>
+
+    <song>
+        <lg n="1">
+            <ln n="1">Oh, I come from a land, from a faraway place</ln>
+            <ln n="2">Where the caravan camels roam</ln>
+            <ln n="3">Where it's flat and immense</ln>
+            <ln n="4">And the heat is intense</ln>
+            <ln n="5">It's barbaric, but, hey, it's home</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="6">When the wind's from the East</ln>
+            <ln n="7">And the sun's from the West</ln>
+            <ln n="8">And the sand in the glass is right</ln>
+            <ln n="9">Come on down</ln>
+            <ln n="10">Stop on by</ln>
+            <ln n="11">Hop a carpet and fly</ln>
+            <ln n="12">To another Arabian night</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="13">Arabian nights</ln>
+            <ln n="14">Like Arabian days</ln>
+            <ln n="15">More often than not</ln>
+            <ln n="16">Are hotter than hot</ln>
+            <ln n="17">In a lot of good ways</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="18">Arabian nights</ln>
+            <ln n="19">'Neath Arabian moons</ln>
+            <ln n="20">A fool off his guard</ln>
+            <ln n="21">Could fall and fall hard</ln>
+            <ln n="22">Out there on the dunes</ln>
+        </lg>
+    </song>
+</xml>

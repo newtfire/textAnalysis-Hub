@@ -1,0 +1,188 @@
+<?xml-model href="RelaxNg/Aladdin.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<xml>
+    <metadata>
+        <title>Forget About Love</title>
+        <origin>Lyrics from <movie>Aladdin: The Return of Jafar</movie></origin>
+        <author>Lyrics and music by <composer ref="#Silversher">Patty
+                Silversher</composer> and <composer ref="#Silversher">Michael
+                Silversher</composer></author>
+        <perform>Performed by <voiceActor ref="#Gottfried" role="#Iago">Gilbert
+                Gottfried</voiceActor>, <voiceActor ref="#Callaway" role="#Jasmine">Liz
+                Callaway</voiceActor> and <voiceActor ref="#Kane" role="#Aladdin">Brad
+            Kane</voiceActor></perform>
+    </metadata>
+
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Iago">Iago</char> Forget about that guy</ln>
+            <ln n="2">Forget about the way you fell into his eyes</ln>
+            <ln n="3">Forget about his charms</ln>
+            <ln n="4">Forget about the way he held you in his arms</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="5">Walking on air's obnoxious</ln>
+            <ln n="6">The thrills, the chills</ln>
+            <ln n="7">Will make you nauseous</ln>
+            <ln n="8">And you'll never get enough</ln>
+            <ln n="9">Just forget about love</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="10">Forget about romance</ln>
+            <ln n="11">Forget about the way your heart begins to dance</ln>
+            <ln n="12">Then you feel the blush</ln>
+            <ln n="13">When he's spouting out some sentimental mush</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="14">Love really is revolting</ln>
+            <ln n="15">It's even worse than when you're molting</ln>
+            <ln n="16">Enough of this fluff</ln>
+            <ln n="17">Just forget about love</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="18"><char ref="#Jasmine">Jasmine</char> I had almost forgotten the way it
+                felt</ln>
+            <ln n="19">When he held out his hand for mine</ln>
+            <ln n="20">My heart all a-flutter</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="21">
+                <char ref="#Iago">Iago</char> Oh, how I shudder</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="22"><char ref="#Jasmine">Jasmine</char> The first time we kissed</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="23"><char ref="#Iago">Iago</char> It won't be missed</ln>
+            <ln n="24">Forget about his touch</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="25"><char ref="#Jasmine">Jasmine</char> I can't forget about his touch</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="26"><char ref="#Iago">Iago</char> In the scheme of things</ln>
+            <ln n="27">It doesn't matter much</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="28"><char ref="#Jasmine">Jasmine</char> It matters so much</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="29"><char ref="#Iago">Iago</char> You're better on your own</ln>
+            <ln n="30">A meal becomes a banquet</ln>
+            <ln n="31">When you eat alone</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="32"><char ref="#Jasmine">Jasmine</char> Hmm-mm-mm-mm</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="33"><char ref="#Both">Both </char>Love's filled with compromises</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="34"><char ref="#Iago">Iago</char> And don't you hate those big surprises?</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="35"><char ref="#Jasmine">Jasmine</char> A cozy rendez-vous</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="36"><char ref="#Iago">Iago</char> Oh, please!</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="37"><char ref="#Jasmine">Jasmine</char> Candlelight for two</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="38"><char ref="#Iago">Iago</char> Oh, geez!</ln>
+        </lg>
+
+        <lg n="20">
+            <ln n="39"><char ref="#Jasmine">Jasmine</char> Look, you're calling my bluff, I
+                can't</ln>
+        </lg>
+
+        <lg n="21">
+            <ln n="40"><char ref="#Iago">Iago</char> Just</ln>
+        </lg>
+
+        <lg n="22">
+            <ln n="41"><char ref="#Both">Both</char> Forget about love!</ln>
+        </lg>
+
+        <lg n="23">
+            <ln n="42"><char ref="#Jasmine">Jasmine</char> I can't forget about my heart</ln>
+        </lg>
+
+        <lg n="24">
+            <ln n="43"><char ref="#Aladdin">Aladdin</char> I can't forget about my heart</ln>
+        </lg>
+
+        <lg n="25">
+            <ln n="44"><char ref="#Jasmine">Jasmine</char> And how it felt to fall for you right
+                from the start</ln>
+        </lg>
+
+        <lg n="26">
+            <ln n="45"><char ref="#Aladdin">Aladdin</char> I'm still falling</ln>
+        </lg>
+
+        <lg n="27">
+            <ln n="46"><char ref="#Jasmine">Jasmine</char> Whatever we may do</ln>
+        </lg>
+
+        <lg n="28">
+            <ln n="47"><char ref="#Aladdin">Aladdin</char> Whatever we may do</ln>
+        </lg>
+
+        <lg n="29">
+            <ln n="48"><char ref="#Jasmine">Jasmine</char> You are here for me, and I'll be there
+                for you</ln>
+        </lg>
+
+        <lg n="30">
+            <ln n="49"><char ref="#Aladdin">Aladdin</char> I'll be there</ln>
+        </lg>
+
+        <lg n="31">
+            <ln n="50"><char ref="#Both">Both</char> To wish, to want, to wander</ln>
+            <ln n="51">To find the sun through rain and thunder</ln>
+        </lg>
+
+        <lg n="32">
+            <ln n="52"><char ref="#Aladdin">Aladdin</char> A cozy rendez-vous</ln>
+        </lg>
+
+        <lg n="33">
+            <ln n="53"><char ref="#Jasmine">Jasmine</char> Yes, please!</ln>
+        </lg>
+
+        <lg n="34">
+            <ln n="54"><char ref="#Aladdin">Aladdin</char> Candlelight for two</ln>
+        </lg>
+
+        <lg n="35">
+            <ln n="55"><char ref="#Iago">Iago</char> Oh, geez!</ln>
+            <ln n="56">Enough is enough!</ln>
+        </lg>
+
+        <lg n="36">
+            <ln n="57"><char ref="#Both">Aladdin and Jasmine</char> We can't forget about
+                love!</ln>
+        </lg>
+    </song>
+</xml>

@@ -1,0 +1,114 @@
+<?xml-model href="RelaxNg/Aladdin.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<xml>
+    <metadata>
+        <title>Are You in or Out?</title>
+        <origin>Lyrics from <movie>Aladdin and the King of Thieves</movie></origin>
+        <author>Composed by <composer ref="#Peterson">Randy Peterson</composer> and
+                <composer ref="#Quinn">Kevin Quinn</composer></author>
+        <perform>Performed by <voiceActor ref="#Orbach" role="#Sa'luk">Jerry Orbach</voiceActor> as Sa'luk, with chorus</perform>
+    </metadata>
+
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Sa'luk">Sa'luk</char> I remember a time</ln>
+            <ln n="2">When crime was sublime</ln>
+            <ln n="3">There was plenty of loot in the lair</ln>
+            <ln n="4">We'd plunder and pillage</ln>
+            <ln n="5">And ransack a village</ln>
+            <ln n="6">With nary a worry or care</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="7">Then along came this king</ln>
+            <ln n="8">With his soft-hearted dream</ln>
+            <ln n="9">But he ratted us out in the end</ln>
+            <ln n="10">So rally the troops</ln>
+            <ln n="11">We were meant to regroup</ln>
+            <ln n="12">And return to our roots once again!</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="13">Are you in or out?</ln>
+            <ln n="14">Gotta know without a doubt</ln>
+            <ln n="15">I'm the one you need for a dirty deed</ln>
+            <ln n="16">I'm the best; success is guaranteed</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="17">Are you men or mice?</ln>
+            <ln n="18">Take a slice of my advice</ln>
+            <ln n="19">You want a fearless leader</ln>
+            <ln n="20">One that's strong and stout?</ln>
+            <ln n="21">Better vote for me</ln>
+            <ln n="22">Are you in or out?</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="23"><char ref="#Thieves">Thieves</char> We used to be smart, yes</ln>
+            <ln n="24">Horrendously heartless</ln>
+            <ln n="25">In a ravaging raid we were rough</ln>
+            <ln n="26">We knew what we had</ln>
+            <ln n="27">To be blissfully bad</ln>
+            <ln n="28">Then Cassim brought this sensitive stuff</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="29">And we strayed from the path</ln>
+            <ln n="30">Of our rigorous wrath</ln>
+            <ln n="31">Now we're taking a bath in the dust</ln>
+            <ln n="32">But we'll reclaim our winnings</ln>
+            <ln n="33">Our humble beginnings</ln>
+            <ln n="34">In turmoil and torture we trust</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="35"><char ref="#Sa'luk">Sa'luk</char> Are you in or out?</ln>
+            <ln n="36">Double-crossers or devout?</ln>
+            <ln n="37">Put your faith in me; pretty soon you'll see</ln>
+            <ln n="38">I'm the prince of generosity</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="39">Are you foe or friend?</ln>
+            <ln n="40">Here's the path I recommend</ln>
+            <ln n="41">You want a ride to fame?</ln>
+            <ln n="42">I've got the fastest route</ln>
+            <ln n="43">What's it gonna be?</ln>
+            <ln n="44">Are you in or out?</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="45"><char ref="#Thieves">Thieves</char> We'll go robbing in all the right
+                places</ln>
+            <ln n="46">From Agrabah dunes to Paris</ln>
+            <ln n="47">Imagine the fear on their faces</ln>
+            <ln n="48">When we drop by for cookies and tea</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="49"><char ref="#Sa'luk">Sa'luk</char> Are you in or out?</ln>
+            <ln n="50">If you're with me, give a shout</ln>
+            <ln n="51">I'll lead you all the way into the glory days</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="52"><char ref="#Thieves">Thieves</char> We'll begin a life of crime that
+                pays</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="53">Are you out or in?</ln>
+            <ln n="54">Make your choice now: sink or swim</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="55"><char ref="#Sa'luk">Sa'luk</char> You can stick with me</ln>
+            <ln n="56">Or stay behind and pout</ln>
+            <ln n="57">What's it gonna be?</ln>
+            <ln n="58">Consider carefully</ln>
+            <ln n="59">Are you in or out?</ln>
+        </lg>
+    </song>
+
+</xml>

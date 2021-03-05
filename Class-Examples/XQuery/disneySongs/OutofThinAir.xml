@@ -1,0 +1,110 @@
+<?xml-model href="RelaxNg/Aladdin.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <metadata>
+        <title>Out of Thin Air</title>
+        <origin><movie>Aladdin and the King of Thieves</movie></origin>
+        <author><composer ref="#Friedman">David
+            Friedman</composer></author>
+        <perform>
+            <voiceActor ref="#Kane" role="#Aladdin">Brad Kane</voiceActor>
+            <voiceActor ref="#Callaway" role="#Jasmine">Liz Callaway</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Jasmine">Jasmine</char> You showed me the world</ln>
+            <ln n="2">When I was all locked up inside</ln>
+            <ln n="3">You reached out your hand</ln>
+            <ln n="4">And took me on a magic carpet ride</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="5">One look at your smile</ln>
+            <ln n="6">And I could see the light</ln>
+            <ln n="7">Shining everywhere</ln>
+            <ln n="8">People like you don't come out of thin air</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="9"><char ref="#Aladdin">Aladdin</char> Oh, Jasmine</ln>
+            <ln n="10">You don't understand</ln>
+            <ln n="11">There is so much that you don't see</ln>
+            <ln n="12">Just think, if you can</ln>
+            <ln n="13">What growing up had to be like for me</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="14">Your father's a man</ln>
+            <ln n="15">Who taught you who you are</ln>
+            <ln n="16">Mine was never there</ln>
+            <ln n="17">So how can you say I don't come out of thin air?</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="18"><char ref="#Aladdin">Aladdin</char> There's so much I want to know</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="19"><char ref="#Jasmine">Jasmine</char> You've got the chance to learn</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="20"><char ref="#Aladdin">Aladdin</char> If it means I'd have to go</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="21"><char ref="#Jasmine">Jasmine</char> I'll be right here when you return</ln>
+            <ln n="22">Our wedding can wait</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="23"><char ref="#Aladdin">Aladdin</char> I love you</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="24"><char ref="#Jasmine">Jasmine</char> I think it's worth this small
+                delay</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="25"><char ref="#Aladdin">Aladdin</char> Maybe you're right</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="26"><char ref="#Jasmine">Jasmine</char> And won't it be great</ln>
+            <ln n="27">To have your father see our wedding day?</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="28"><char ref="#Aladdin">Aladdin</char> I've waited so long</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="29"><char ref="#Jasmine">Jasmine</char> It isn't too late</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="30"><char ref="#Aladdin">Aladdin</char> To learn the truth</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="31"><char ref="#Both">Both</char> And now at last, we can finally say</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="32"><char ref="#Jasmine">Jasmine</char> Your father is really there</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="33"><char ref="#Aladdin">Aladdin</char> There's so much that we might
+                share</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="34"><char ref="#Jasmine">Jasmine</char> And you'll finally learn</ln>
+        </lg>
+
+        <lg n="20">
+            <ln n="35"><char ref="#Both">Both</char> You don't come out of thin air</ln>
+        </lg>
+    </song>
+</xml>
