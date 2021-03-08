@@ -5,7 +5,7 @@ eXist-dB is free and open source software, and you can download, install, and wo
 Here are [eXist-dB's official installation instructions](https://exist-db.org/exist/apps/doc/basic-installation), which indicate basic system requirements for your computer. As indicated by the eXist developers, you will need:
 * At least Java version 8 
     * (Check this by opening your git Bash client (on Windows) or your Terminal (on Mac) and entering: `java -version`
-    * You should return something that looks like this or higher: `java version ""1.8.0_60`
+    * You should return something that looks like this or higher: `java version "1.8.0_60"`
     * If you don't have Java or the appropriate Java, we recommend [Oracle's guidance and installation scripts](https://www.java.com/en/download/help/index_installing.html).
 * About 200 Mb of disk space
 * At least 512 Mb of available memory
