@@ -16,14 +16,21 @@ Here are our instructions, as of 2021-03-27, for installing and working with eXi
 * On the new page that opens, scroll down to the section titled Downloads. This links four different kinds of download files, for different kinds of computers and installation environments (ranging from Linux, to Mac, to Windows).  
 * Now, follow instructions below for your computer:
 
-## Windows
+## Installation
 
-### Installation
+### Mac
+1. For Mac users, download the exist distribution with this file extension: **.dmg**. (Today that distribution is named `	
+eXist-db-5.2.0.dmg`. In your finder, click on the `.dmg` installation file and open it, and you should be prompted to send it to your Applications. 
+1. Open eXist-dB from your Applications. As you are prompted for set up, follow instructions as needed in the section below. 
+
+### Windows
 1. For Windows users, download the exist distribution marked **.jar** at the end .  (Today that distribution is named `	
 exist-installer-5.2.0.jar`.)
 1.  Double-click the `.jar` file you downloaded.  This opens the eXistdb Installer. Click the green Next button, and then use the Browse button to select an installation path where you want this to be installed. eXist will warn you if you are installing it in a directory with other files, so you may want to create a new directory for this. (For example, I am installing in the default location at `C:\eXist-db\data`).
 1. eXist will ask you where to store its data directory. This is where your database files will be stored. We recommend accepting the destination that eXist-dB suggests (inside the directory you selected for installation). 
-1. eXist will now prompt you to enter an admin Password. You don't have to do this (you can leave this blank), but you may want to if you're worried about security, for example if you are installing on a laptop you often use in public places like a coffee shop. Here's what the eXist developers say:
+
+## Setup
+1. eXist will prompt you to enter an admin Password. You don't have to do this (you can leave this blank), but you may want to if you're worried about security, for example if you are installing on a laptop you often use in public places like a coffee shop. Here's what the eXist developers say:
 
 ```
 The Admin Password is a password for the eXist-db administrator account, or more commonly, the "admin" account. 
@@ -60,18 +67,19 @@ You can also launch eXist-db by double-clicking on start.jar or by calling "java
 Launching eXist-db in one of these ways will display a splash screen while starting up the database. After startup, you will find an eXist-db icon in your system tray/menu bar. Click (Windows and Mac OS) or right-click (Linux) on the icon to get a popup menu with further options.
 
 ```
-### Launching eXist
+## Launching eXist
 
+### Windows
 1. On Windows, click on your launch shortcut icon. You'll be asked to configure your Java memory, and you can change some of the settings. Notice the Jetty Ports listed on this screen. Do you have anything else on your system that uses its ports? If you're curious about this, try running this command in your git Bash shell: `netstat -a`, and you will see all of the ports sending and receiving information on your computer! eXist's default port `8080` is a low numbered one so you can check to see if it is already running. (It is probably not.) If it is, you can just change the number to something else that is not in use. Click Save.
  * If you see something like an "Error Running Process" : Cannot run program ""C:\Program Files\Java\jre1.8.0_271\bin\javw.exe"" (in directory "C:\Users\Lisa\Desktop\eXist:): CreateProcess error=206 The filename or extension is too long." that's  sign that you've probably installed in a problematic location like we did the first time (like the Desktop). Go back and redo the installation. 
 1. Windows will prompt you to run eXist-db as a service on Windows. "Not doing so may lead to dat loss if you shut down the computer before eXist-db." (We recommend clicking to install the service: you'll probably need to click through a couple of screens permitting Apache Commons to run a web service.) 
 1. At this point in the background I could see that Windows Defender Firewall had blocked some features of this app. We recommend ONLY allowing Java to communicate on Private networks, not public ones! 
-1. At this point, you should be able to open a web browser to the address: `localhost:8080`. If all is well, you will see the eXist-dB logo come up! 
+1. At this point, you should be able to open a web browser to the address: `localhost:8080`. If all is well, you will see the eXist-dB logo come up! There should be an ”X”-shaped eXist-dB icon in your system tray which you can use to start and stop the eXist-dB server.
 
 
-
-## Mac
-1. For Mac users, download the exist distribution with this file extension: **.dmg**
+### Mac
+1. When you launch eXist-dB, watch for the eXist ”X”-shaped icon to appear in your system menu along the top of your screen. If you click on it you can see it gives you controls to start and stop the server. 
+1. Open a web browser to `localhost:8080` and access eXist-dB as an administrator! 
 
 
 ## Working with eXist-dB (all versions)
