@@ -1,5 +1,5 @@
 # textAnalysis-Hub
-shared repo for Digital Project Design class
+shared repo for the Text Analysis class at Penn State Erie, The Behend College.
 
 Welcome to the textAnalysis-Hub! This is a repository to help introduce and orient DIGIT students to the GitHub collaboration environment, and accompanies the course website posted at <https://newtfire.org/courses/textAnalysis/>
 
