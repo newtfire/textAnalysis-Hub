@@ -3,14 +3,15 @@
 *To download a file without cloning or pulling in changes locally, navigate to the file on GitHub and on the right side near the top of the file's content click the button that gives you the "Raw" view of the file. From there you can copy and paste or right click and save.*
   
 ## Quick reference
-* Open terminal / command line shell
-* Navigate to repo.
+* Set up / navigate to a good home for your GitHub repos in your File Manager / Finder
+* Open terminal / command line shell at that location. 
+* `git clone https://YOUR/GITHUB?ClONE/ADDRESS.git`
 * `git pull`
 * Make changes.
 * `git status` -- list of changes should be red
 * `git add -A` 
 * `git status` -- list of changes should be green
-* `git commit -m "message here"`
+* `git commit -m "message here describing your changes"`
 * `git push`
   
 ## Detailed walk-through
