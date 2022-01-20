@@ -8,7 +8,7 @@
 * `git pull`
 * Make changes.
 * `git status` -- list of changes should be red
-* `git add -A` OR `git add .`
+* `git add -A` 
 * `git status` -- list of changes should be green
 * `git commit -m "message here"`
 * `git push`
@@ -22,15 +22,15 @@
 **`cd` means "change directories"** and in the above command you are *stepping down* into Documents (or Desktop) and into the GitHub folder. Use **`ls`** to list out the contents of the directory you have stepped down into.
 
 * If you need to **clone** a repository, do so here, because then the new repository will sit as a *child* inside your GitHub directory. Go to the git remote website and get its "Download/Clone" URL by copying it (green icon on right side of the repo's main page). 
-Then, in the Terminal/Command Line Shell, type `git clone` and paste in the the URL after that. So it looks like this for our textAnalysis-Hub:
+Then, in the Terminal/Command Line Shell, type `git clone` and paste in the the URL after that. So it looks like this for our textEncoding-Hub:
 ````
-git clone https://github.com/newtfire/textAnalysis-Hub.git
+git clone https://github.com/newtfire/textEncoding-Hub.git
 ````
 Hit enter, and watch the lines scroll away in the command line terminal as the repository clones itself on your local computer inside your GitHub directory. 
 
 2) You interact with your local directory the way you would any other. You can drag files into it using the Finder/File Explorer, save files into it, and check in with the remote repository to **pull** new files in.  
 So this is what you should do:
-Open Terminal/Command Line Shell, and step down into your GitHub directory, and then down into the textAnalysis-Hub (or desired repo), and check that you are where you want to be **by typing `ls`.** The ls command will **show the contents of the directory** in which you've positioned yourself. You can **`cd`** up or down (cd means change directory), by moving like this:
+Open Terminal/Command Line Shell, and step down into your GitHub directory, and then down into the textEncoding-Hub (or desired repo), and check that you are where you want to be **by typing `ls`.** The ls command will **show the contents of the directory** in which you've positioned yourself. You can **`cd`** up or down (cd means change directory), by moving like this:
 ````
 cd ..
 ````
@@ -41,22 +41,22 @@ cd directoryName
 ````
 This moves down into a directory. 
 
-* To make sure you're in the right directory, the top level of the textAnalysis-Hub, also check to see the directory name at the terminal prompt. Yours should look similar to this, and the key part is "textAnalysis-Hub":
-```
-eeb4@salamander textAnalysis-Hub %  
-```
+* To make sure you're in the right directory, the top level of the textEncoding-Hub, also check to see the directory name at the terminal prompt. Yours should look similar to this, and the key part is "textEncoding-Hub":
+`eeb4@salamander textEncoding-Hub % `
 
-Then to pull in any changes from the remote "mothership" repo, type:
+(If you're on a Mac you'll see a '%' sign at the end. If you're on Windows, you'll see something different.) 
+
+To pull in any changes from the remote "mothership" repo, type:
 ````
 git pull
 ```` 
 
 3) When you want to share you local changes to the repo with the remote mothership and other collaborators, you need to **add**, **commit**, and **push** those changes. Here's how you do it:
 
-* Make sure you're in the textAnalysis-Hub repo at the top level
+* Make sure you're in the textEncoding-Hub repo at the top level
 * Then type:
 ````
-git add .
+git add -A
 ````
 The period means *all* -- as in add *all* new files to be tracked by Git.
 
