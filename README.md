@@ -12,6 +12,6 @@ You can read our detailed guide to get started with Git (or just use this as we 
 
 There are things we will do together only in the remote webpage view of GitHub visible at <https://github.com/newtfire/textAnalysis-Hub/>:
 *  See if you can find the "Issues" area by mousing over the icons on the top (in the new view) or the right-hand (old view) side of the GitHub page: "Issues" is the exclamation point inside the circle. We're using the "Issues" page to open conversations about questions, problems, things we need to discuss and fix and work on together. 
-*  
+
 * If we formulate a new method or policy we definitely want to follow, we'll post a Wiki page about it. (Find the Wiki area, the icon that looks like a book.) The Issues and Wikis are searchable, and you write in them using markdown syntax, which lets you easily and quickly format headings, lists, bold, italics, or share an image.
 
