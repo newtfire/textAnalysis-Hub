@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="out/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Behrend Calendar Entries</title>
+            <editor>Aidan Ray</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text n="1">
+
+      <body>
+         <head>COPYRIGHT 1908, BY FRIENDSHIP CALENDAR CO. NEW BRITAIN, CONN.</head>
+         <l><date when="1909-03-12">March 12, 1909. Friday</date></l>
+         <ab><graphic
+               url="https://newtfire.org/courses/tutorials/TEI-images/mary-behrend-calendar-1909/IMG_2050.jpg"
+            />MOLLY ON SNOWSHOES THAT MR. WEIR GOT. PRETTY PICTURE IS IT NOT?!</ab>
+         <ab>Love from Molly.</ab>
+      </body>
+   </text>
+
+   <text n="2">
+      <body>
+         <head>COPYRIGHT 1908, BY FRIENDSHIP CALENDAR CO. NEW BRITAIN, CONN.</head>
+         <l><date when="1909-03-17">March 17, 1909. Wednesday St. Patrick's Day</date></l>
+         <ab><graphic
+               url="https://newtfire.org/courses/tutorials/TEI-images/mary-behrend-calendar-1909/IMG_2052.jpg"
+            />St. PATRICK WAS A USEFUF SAINT HE FRIGHTENED ALL THE SNAKES AWAY - I WISH HE'D TRY HIS
+            ART ON SMOKE AROUND HAMMERMILL SOMEDAY!</ab>
+         <ab>The Hammermill ?</ab>
+      </body>
+   </text>
+
+   <text n="3">
+      <body>
+         <head>COPYRIGHT 1908, BY FRIENDSHIP CALENDAR CO. NEW BRITAIN, CONN.</head>
+         <l><date when="1909-03-08">March 8, 1909. Monday</date></l>
+         <ab><graphic
+               url="https://newtfire.org/courses/tutorials/TEI-images/mary-behrend-calendar-1909/IMG_2048.jpg"
+            />
+         </ab>
+      </body>
+   </text>
+</TEI>
