@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xml>
+    <meta source="https://www.depaulatrading.com/blogs/news/icarus"
+        title="The Story of Icarus from Greek Mythology"/>
+
+    <section title="Good Old Dad">
+        <p n="1"><people name="KM">King Minos</people> was greatly <emotion conotation="positive"
+                >impressed</emotion> with the work of <people name="Dae">Icarus' father</people>,
+            which led him to the decision of <impPoint factor="imprisoned because of Kings greed"
+                >imprisoning <people name="Ica">Icarus</people> and <people name="Dae"
+                    >Daedalus</people> so the inventor could work solely for him.</impPoint> The
+            king's <emotion conotation="negative">greed</emotion> led the young man and his father
+            to be locked up in a cave above sea level. <impPoint factor="only two escape routes">The
+                only way to escape the prison was through the Labyrinth where the <mythicCreature
+                    type="Minotaur">Minotaur</mythicCreature> was locked, which was also surrounded
+                by the king’s soldiers. The other way to escape the prison was through the entrance
+                situated on the side of high cliff plunging down to the sea below.</impPoint></p>
+
+        <p n="2"><impPoint factor="situation was alright">At first, <people name="Ica"
+                    >Icarus</people> and his father <people name="Dae">Daedalus</people> were
+                    <emotion conotation="positive">content</emotion> with <people name="KM">King
+                    Minos</people>' decision to lock them up. Everything Icarus’ father asked from
+                the king was instantly provided.</impPoint> They both received plenty of food and
+            the inventor tools he could use when working on his new inventions. Icarus was young
+            when they were imprisoned by the king, and didn't complain - he even <emotion
+                conotation="positive">enjoyed</emotion> being able to help his father with his new
+            inventions and especially playing with the toys his father made just for him.</p>
+    </section>
+
+    <section title="Despair">
+        <p n="3"><impPoint factor="Icarus becomes impatient">As the young Icarus grew, he realized
+                he would be imprisoned in the cave for a lifetime.</impPoint> Daedalus also thought
+            about his son’s well-being; Icarus was <emotion conotation="negative">tired</emotion> of
+            living in the cold, damp cave, and despaired of never having a life.</p>
+
+        <p n="4">The 16-years old Icarus started to complain to his father and stated he wanted to
+            go on adventures, meet a girl, make her his wife and have his own son. He even expressed
+                <emotion conotation="negative">his hatred</emotion> for the king, the cave, and his
+            father. However, after the outburst, Icarus immediately apologized. <impPoint
+                factor="because of Icarus, Daedalus tries to get him out">Because of the <emotion
+                    conotation="negative">rage</emotion> Icarus had shown, his father asked for King
+                Minos to make his son one of the royal guards, which the king
+            considered.</impPoint></p>
+    </section>
+
+    <section title="Wooden Wings">
+        <p n="5">Ultimately, the king decided not to let Icarus go and instead stay with his father
+            and keep him company, <impPoint factor="Kings greed trumps fathers request">because he
+                might have acquired his father’s skills.</impPoint> For them to escape, Daedalus
+            created wings from wooden frames. <impPoint
+                factor="Father designs wings for them to escape">The wings were covered with big
+                feathers and were tightly secured using wax.</impPoint></p>
+
+        <p n="6">When they took to flight, Daedalus advised Icarus <impPoint
+                factor="clear instructions on flying">to fly in between the sun and the
+                ocean</impPoint> - far from the sun because it would melt the wax, and not too close
+            to the sea for it would dampen the feathers. However, as they flew, <impPoint
+                factor="Icarus dies">Icarus got carried away and despite his father's <emotion
+                    conotation="nuetral">passionate pleas</emotion>, ventured too close to the sun,
+                melting the wax and causing his plunge hundreds of feet below, resulting in his
+                demise.</impPoint></p>
+    </section>
+</xml>
