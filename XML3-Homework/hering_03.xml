@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--lnh: One Fish, Two Fish, Red Fish, Blue Fish book by Dr. Seuss-->
+<root>
+    <section num="1" rhySchemes="11">
+        <line num="1"><num value="1">One</num> fish, <num value="2">Two</num> fish, <color>Red</color> fish, <color>Blue</color>
+            fish,</line>
+        <line num="2"><color>Black</color> fish, <color>Blue</color> fish, Old fish, New fish.</line>
+        <line num="3">This one has a little <rhy scheme="1">car</rhy>.</line>
+        <line num="4">This one has a little <rhy scheme="1">star</rhy>.</line>
+        <line num="5">Say! What a lot of fish there <rhy scheme="1">are</rhy>.</line>
+        <line num="6">Yes. Some are <color>red</color>, and some are <color><rhy scheme="2">blue</rhy></color>.</line>
+        <line num="7">Some are old and some are <rhy scheme="2">new</rhy>.</line>
+        <line num="8">Some are <rhy scheme="3">sad</rhy>, and some are <rhy scheme="3">glad</rhy>,</line>
+        <line num="9">And some are very, very <rhy scheme="3">bad</rhy>.</line>
+        <line num="10">Why are they <rhy scheme="3">sad</rhy> and <rhy scheme="3">glad</rhy> and <rhy scheme="3">bad</rhy>?</line>
+        <line num="11">I do not know, go ask your <rhy scheme="3">dad</rhy>.</line>
+        <line num="12">Some are thin, and some are <rhy scheme="4">fat</rhy>.</line>
+        <line num="13">The <rhy scheme="4">fat</rhy> one has a <color>yellow</color> <rhy scheme="4">hat</rhy>.</line>
+        <line num="14">From <rhy scheme="5">there</rhy> to here,</line>
+        <line num="15">From here to <rhy scheme="5">there</rhy>,</line>
+        <line num="16">Funny things are <rhy scheme="5">everywhere</rhy>.</line>
+        <line num="17">Here are some who like to <rhy scheme="6">run</rhy>.</line>
+        <line num="18">They run for fun in the hot, hot <rhy scheme="6">sun</rhy>.</line>
+        <line num="19">Oh me! Oh <rhy>my</rhy>! Oh me! oh <rhy scheme="7">my</rhy>!</line>
+        <line num="20">What a lot of funny things go <rhy scheme="7">by</rhy>.</line>
+        <line num="21">Some have <num value="2">two</num> feet and some have <num value="4"><rhy scheme="8">four</rhy></num>.</line>
+        <line num="22">Some have <num value="6">six</num> feet and some have <rhy scheme="8">more</rhy>.</line>
+        <line num="23">Where do they come from? I can't <rhy scheme="9">say</rhy>.</line>
+        <line num="24">But I bet they have come a long, long <rhy scheme="9">way</rhy>.</line>
+        <line num="25">we see them come, we see them <rhy scheme="10">go</rhy>.</line>
+        <line num="26">Some are fast. Some are <rhy scheme="10">slow</rhy>.</line>
+        <line num="27">Some are high. Some are <rhy scheme="10">low</rhy>.</line>
+        <line num="28">Not one of them is like <rhy scheme="11">another</rhy>.</line>
+        <line num="29">Don't ask us why, go ask your <rhy scheme="11">mother</rhy>.</line>
+    </section>
+<!--luh: I didn't have the time to add the scheme attributes to all the rhyme elemens. This book was longer than I thought-->
+    <section num="2" rhySchemes="2">
+        <line num="30">Say! Look at his fingers!</line>
+        <line num="31"><num  value="1">One</num>, <num value="2">two</num>, <num value="3"><rhy>three</rhy></num>...</line>
+        <line num="32">How many fingers do I <rhy>see</rhy>?</line>
+        <line num="33"><num value="1">One</num>, <num value="2">two</num>, <num value="3">three</num>, <num value="4">four</num>,</line>
+        <line num="34"><num value="5">five</num>, <num value="6">six</num>, <num value="7">seven</num>, <num value="8">eight</num>, <num value="9">nine</num>, <num value="10">ten</num>.</line>
+        <line num="35">He has <num value="11">eleven</num>!</line>
+        <line num="36"><num value="11">Eleven</num>! This is something <rhy>new</rhy>.</line>
+        <line num="37">I wish I had <num value="11">eleven</num> <rhy>too</rhy>!</line>
+    </section>
+
+    <section num="3" rhySchemes="1">
+        <line num="38"><rhy>Bump</rhy>! <rhy>Bump</rhy>! <rhy>Bump</rhy>!</line>
+        <line num="39">Did you ever ride a <rhy>Wump</rhy>?</line>
+        <line num="40">We have a <rhy>Wump</rhy> with just one <rhy>hump</rhy>.</line>
+        <line num="41">But we know a man called Mr. <rhy>Gump</rhy>.</line>
+        <line num="42">Mr. <rhy>gump</rhy> has a seven <rhy>hump</rhy> <rhy>Wump</rhy>. So...</line>
+        <line num="43">If you like to go <rhy>Bump</rhy>! <rhy>Bump</rhy>!</line>
+        <line num="44">Just <rhy>jump</rhy> on the <rhy>hump</rhy> of the <rhy>Wump</rhy> of <rhy>Gump</rhy></line>
+    </section>
+
+    <section num="4" rhySchemes="11">
+        <line num="45">Who am I? My name is <rhy>Ned</rhy></line>
+        <line num="46">I do not like my little <rhy>bed</rhy>.</line>
+        <line num="47">This is no good. This is not <rhy>right</rhy>.</line>
+        <line num="48">My feet stick out of <rhy>bed</rhy> all <rhy>night</rhy>.</line>
+        <line num="49">And when I pull them in, Oh, <rhy>Dear</rhy>!</line>
+        <line num="50">My head sticks out of <rhy>bed</rhy> up <rhy>here</rhy>!</line>
+    </section>
+
+    <section num="5" rhySchemes="11">
+        <line num="51">We <rhy>like</rhy> our <rhy>bike</rhy>. It is made for <num value="3"><rhy>three</rhy></num>.</line>
+        <line num="52">Our <rhy>Mike</rhy> sits up in back, you <rhy>see</rhy>.</line>
+        <line num="53">We like our <rhy>Mike</rhy>, and this is <rhy>why</rhy>:</line>
+        <line num="54"><rhy>Mike</rhy> does all the work when the hills get <rhy>high</rhy>.</line>
+    </section>
+
+    <section num="6" rhySchemes="11">
+        <line num="55">Hello there, <rhy>Ned</rhy>. How do you <rhy>do</rhy>?</line>
+        <line num="56">Tell me, tell me what is <rhy>new</rhy>?</line>
+        <line num="57">How are things in your little <rhy>bed</rhy>?</line>
+        <line num="58">What is new? Please tell me <rhy>Ned</rhy>.</line>
+        <line num="59">I do not like this <rhy>bed</rhy> at <rhy>all</rhy>.</line>
+        <line num="60">a lot of things have come to <rhy>call</rhy>.</line>
+        <line num="61">A cow, a dog, a cat, a <rhy>mouse</rhy>.</line>
+        <line num="62">Oh! What a <rhy>bed</rhy>! Oh! What a <rhy>house</rhy>!</line>
+    </section>
+
+    <section num="7" rhySchemes="11">
+        <line num="63">Oh <rhy>dear</rhy>, oh <rhy>dear</rhy>! I cannot <rhy>hear</rhy>.</line>
+        <line num="64">Will you please come over <rhy>near</rhy>?</line>
+        <line num="65">Will you please look in my <rhy>ear</rhy>?</line>
+        <line num="66">There must be something there, I <rhy>fear</rhy>.</line>
+        <line num="67">Say look! A bird was in your <rhy>ear</rhy>.</line>
+        <line num="68">But he is out. So have no <rhy>fear</rhy>.</line>
+        <line num="69">Again your <rhy>ear</rhy> can <rhy>hear</rhy>, my <rhy>dear</rhy>.</line>
+    </section>
+
+    <section num="8" rhySchemes="11">
+        <line num="70">My hat is <rhy>old</rhy>, my teeth are <color><rhy>gold</rhy></color>.</line>
+        <line num="71">I have a bird I like to <rhy>hold</rhy>.</line>
+        <line num="72">My shoe is off, my foot is <rhy>cold</rhy>.</line>
+        <line num="73">My shoe is off, my foot is <rhy>cold</rhy>.</line>
+        <line num="74">I have a bird I like to <rhy>hold</rhy>.</line>
+        <line num="75">My hat is <rhy>old</rhy>, my teeth are <color><rhy>gold</rhy></color>.</line>
+        <line num="76">And now my story is all <rhy>told</rhy>.</line>
+    </section>
+
+    <section num="9" rhySchemes="11">
+        <line num="77">We <rhy>took</rhy> a <rhy>look</rhy>. We saw a <rhy>Nook</rhy>.</line>
+        <line num="78">On his head he had a <rhy>hook</rhy>.</line>
+        <line num="79">On his <rhy>hook</rhy> he had a <rhy>book</rhy>.</line>
+        <line num="80">On his <rhy>book</rhy> was "How to <rhy>Cook</rhy>"</line>
+        <line num="81">We saw him sit and try to <rhy>cook</rhy></line>
+        <line num="82">But a <rhy>Nook</rhy> can't read, so a <rhy>Nook</rhy> can't <rhy>Cook</rhy>.</line>
+        <line num="83">SO...</line>
+        <line num="84">What good to a <rhy>Nook</rhy> is a <rhy>hook</rhy> <rhy>cook</rhy> <rhy>book</rhy>?</line>
+    </section>
+
+    <section num="10" rhySchemes="11">
+        <line num="85">the moon was out and we saw some <rhy>sheep</rhy>.</line>
+        <line num="86">We saw some <rhy>sheep</rhy> take a walk in their <rhy>sleep</rhy>.</line>
+        <line num="87">by the light of the moon, by the light of a <rhy>star</rhy>;</line>
+        <line num="88">They walked all night from near to <rhy>far</rhy>.</line>
+        <line num="89">I would never walk. I would take a <rhy>car</rhy>.</line>
+    </section>
+
+    <section num="11" rhySchemes="11">
+        <line num="90">I do not like this <num value="1">one</num> so <rhy>well</rhy>.</line>
+        <line num="91">all he does is <rhy>yell</rhy>, <rhy>yell</rhy>, <rhy>yell</rhy>.</line>
+        <line num="92">I will not have this <num value="1">one</num> <rhy>about</rhy>.</line>
+        <line num="93">When he comes in I put him <rhy>out</rhy>.</line>
+        <line num="94">This one is quiet as a <rhy>mouse</rhy>.</line>
+        <line num="95">I like to have him in the <rhy>house</rhy>.</line>
+    </section>
+
+    <section num="12" rhySchemes="11">
+        <line num="96">At our house we open <rhy>cans</rhy>.</line>
+        <line num="97">We have to open many <rhy>cans</rhy>.</line>
+        <line num="98">and that is why we have a <rhy>Zans</rhy>.</line>
+        <line num="99">A <rhy>Zans</rhy> for <rhy>cans</rhy> is very good.</line>
+        <line num="100">Have you a <rhy>Zans</rhy> for <rhy>cans</rhy>? You should.</line>
+    </section>
+
+    <section num="13" rhySchemes="11">
+        <line num="101">I like to <rhy>box</rhy>. How I like to <rhy>box</rhy>.</line>
+        <line num="102">So every day I <rhy>box</rhy> a <rhy>Gox</rhy>.</line>
+        <line num="103">In <color>yellow</color> <rhy>socks</rhy> I <rhy>box</rhy> my <rhy>Gox</rhy>.</line>
+        <line num="104">I <rhy>box</rhy> in <color>yellow</color> <rhy>Gox</rhy> <rhy>box</rhy> <rhy>socks</rhy>.</line>
+    </section>
+
+    <section num="14" rhySchemes="11">
+        <line num="105">It is fun to <rhy>sing</rhy> if you <rhy>sing</rhy> with a <rhy>Ying</rhy>.</line>
+        <line num="106">My <rhy>Ying</rhy> can <rhy>sing</rhy> like <rhy>anything</rhy>.</line>
+        <line num="107">I <rhy>sing</rhy> high and my <rhy>Ying</rhy> <rhy>sings</rhy> <rhy>low</rhy>.</line>
+        <line num="108">And we are not too bad, you <rhy>know</rhy>.</line>
+    </section>
+
+    <section num="15" rhySchemes="11">
+        <line num="109">this one, I <rhy>think</rhy>, is called a <rhy>Yink</rhy>.</line>
+        <line num="110">he likes to <rhy>wink</rhy>, he likes to <rhy>drink</rhy>.</line>
+        <line num="111">He likes to <rhy>drink</rhy>, and <rhy>drink</rhy>, and <rhy>drink</rhy>.</line>
+        <line num="112">the thing he likes to <rhy>drink</rhy> is <rhy>ink</rhy>.</line>
+        <line num="113">The <rhy>ink</rhy> he likes to <rhy>drink</rhy> is <rhy>pink</rhy>.</line>
+        <line num="114">He likes to <rhy>wink</rhy> and <rhy>drink</rhy> <rhy>pink</rhy> <rhy>ink</rhy>.</line>
+        <line num="115">SO...</line>
+        <line num="116">If you have a lot of <rhy>ink</rhy>,</line>
+        <line num="117">you should get a <rhy>Yink</rhy>, I <rhy>think</rhy>.</line>
+    </section>
+
+    <section num="16" rhySchemes="11">
+        <line num="118"><rhy>Hop</rhy>, <rhy>hop</rhy>, <rhy>hop</rhy>! I am a <rhy>Yop</rhy></line>
+        <line num="119">All I like to do is <rhy>hop</rhy>,</line>
+        <line num="120">From finger <rhy>top</rhy> to finger <rhy>top</rhy>.</line>
+        <line num="121">I <rhy>hop</rhy> from left to right and <rhy>then</rhy>...</line>
+        <line num="122"><rhy>Hop</rhy>, <rhy>hop</rhy>! I <rhy>hop</rhy> right back <rhy>again</rhy>.</line>
+        <line num="123">I like to <rhy>hop</rhy> all day and <rhy>night</rhy>.</line>
+        <line num="124">From <rhy>right</rhy> to left and left to <rhy>right</rhy>.</line>
+        <line num="125">Why do I like to <rhy>hop</rhy>, <rhy>hop</rhy>, <rhy>hop</rhy>?</line>
+        <line num="126">I do not know. Go ask your <rhy>Pop</rhy>.</line>
+    </section>
+
+    <section num="17" rhySchemes="11">
+        <line num="127"><rhy>Brush</rhy>, <rhy>brush</rhy>, <rhy>brush</rhy>, <rhy>brush</rhy></line>
+        <line num="128"><rhy>Comb</rhy>, <rhy>comb</rhy>, <rhy>comb</rhy>, <rhy>comb</rhy></line>
+        <line num="129"><color>Blue</color> hair is fun to <rhy>brush</rhy> and <rhy>comb</rhy>.</line>
+        <line num="130">All girls who like to <rhy>brush</rhy> and <rhy>comb</rhy>,</line>
+        <line num="131">Should have a pet like this at <rhy>home</rhy>.</line>
+    </section>
+
+    <section num="18" rhySchemes="11">
+        <line num="132">Who is this <rhy>pet</rhy>? Say! He is <rhy>wet</rhy>.</line>
+        <line num="133">You never yet met a <rhy>pet</rhy>, I <rhy>bet</rhy>,</line>
+        <line num="134">As <rhy>wet</rhy> as they let this <rhy>wet</rhy> <rhy>pet</rhy> <rhy>get</rhy>.</line>
+    </section>
+
+    <section num="19" rhySchemes="11">
+        <line num="135">Did you ever fly a kite in <rhy>bed</rhy>?</line>
+        <line num="136">did you ever walk with ten cats on your <rhy>head</rhy>?</line>
+        <line num="137">Did you ever milk this kind of <rhy>cow</rhy>?</line>
+        <line num="138">Well, we can do it. We know <rhy>how</rhy>.</line>
+        <line num="139">If you never did, you <rhy>should</rhy>.</line>
+        <line num="140">These things are fun, and fun is <rhy>good</rhy>.</line>
+    </section>
+
+    <section num="20" rhySchemes="11">
+        <line num="141"><rhy>Hello</rhy>, <rhy>hello</rhy>. Are you there?</line>
+        <line num="142"><rhy>Hello</rhy>! I called you up to say <rhy>hello</rhy>.</line>
+        <line num="143">I said <rhy>Hello</rhy>.</line>
+        <line num="144">Can you hear me, <rhy>Joe</rhy>?</line>
+        <line num="145">Oh no, I cannot hear your <rhy>call</rhy>.</line>
+        <line num="146">I cannot hear your call at <rhy>all</rhy>.</line>
+        <line num="147">This is not good, and I know <rhy>why</rhy>.</line>
+        <line num="148">A mouse has cut the wire, <rhy>goodbye</rhy>!</line>
+    </section>
+
+    <section num="21" rhySchemes="11">
+        <line num="149">From <rhy>near</rhy> to far, from <rhy>here</rhy> to <rhy>there</rhy>,</line>
+        <line num="150">Funny things are <rhy>everywhere</rhy>.</line>
+        <line num="151">These <color>yellow</color> pets are called the <rhy>Zeds</rhy>.</line>
+        <line num="152">They have one hair upon their <rhy>heads</rhy>.</line>
+        <line num="153">Their hair grows fast. So fast they <rhy>say</rhy>,</line>
+        <line num="154">They need a haircut every <rhy>day</rhy>.</line>
+    </section>
+
+    <section num="22" rhySchemes="11">
+        <line num="155">Who am I? My name is <rhy>Ish</rhy></line>
+        <line num="156">On my hand I have a <rhy>dish</rhy>.</line>
+        <line num="157">I have this <rhy>dish</rhy> to help me <rhy>wish</rhy>.</line>
+        <line num="158">When I <rhy>wish</rhy> to make a <rhy>wish</rhy></line>
+        <line num="159">I wave my hand with a big <rhy>swish</rhy> <rhy>swish</rhy>.</line>
+        <line num="160">Then I say, "I <rhy>wish</rhy> for <rhy>fish</rhy>!"</line>
+        <line num="161">And I get <rhy>fish</rhy> right on my <rhy>dish</rhy>.</line>
+        <line num="162">So...</line>
+        <line num="163">If you <rhy>wish</rhy> to make a <rhy>wish</rhy>,</line>
+        <line num="164">you may <rhy>swish</rhy> for <rhy>fish</rhy> with my <rhy>Ish</rhy> <rhy>wish</rhy> <rhy>dish</rhy>.</line>
+    </section>
+
+    <section num="23" rhySchemes="11">
+        <line num="165">At our house we play out <rhy>back</rhy>.</line>
+        <line num="166">We play a game called ring the <rhy>Gack</rhy>.</line>
+        <line num="167">Would you like to play this game?</line>
+        <line num="168">Come down! We have the only <rhy>Gack</rhy> in town.</line>
+    </section>
+
+    <section num="24" rhySchemes="11">
+        <line num="169">Look what we found in the park in the <rhy>dark</rhy>.</line>
+        <line num="170">We will take him home, we will call him <rhy>Clark</rhy>.</line>
+        <line num="171">He will live at our house, he will <rhy>grow</rhy> and <rhy>grow</rhy>.</line>
+        <line num="172">Will our mother like this? We don't <rhy>know</rhy>.</line>
+    </section>
+
+    <section num="25" rhySchemes="11">
+        <line num="173">And now, Good night.</line>
+        <line num="174">It is time to <rhy>sleep</rhy></line>
+        <line num="175">So we will <rhy>sleep</rhy> with our pet <rhy>Zeep</rhy>.</line>
+        <line num="176">Today is gone. Today was <rhy>fun</rhy>.</line>
+        <line num="177">Tomorrow is another <rhy>one</rhy>.</line>
+        <line num="178">Every day, from here to <rhy>there</rhy>.</line>
+        <line num="179">funny things are <rhy>everywhere</rhy>.</line>
+    </section>
+</root>
