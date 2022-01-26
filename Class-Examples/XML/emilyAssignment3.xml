@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <para num="1">Knowing how to change a tire is a necessary skill for all drivers. If you rely on
+        a cell phone to save you in a roadside emergency, there’s always that chance you will forget
+        to charge it, be out of range, or leave it at home. Flat tires can happen anywhere, and a
+        cell phone is no substitute for knowing how to change a flat tire.</para>
+    <para num="2">Thankfully, changing a tire isn’t all that hard! Just adhere to the following
+        guidelines to be prepared in case you have a flat.</para>
+    <para num="3">
+        <heading>ITEMS YOU'LL NEED TO FIX A FLAT TIRE</heading>
+        <subheading>These items should have come with your vehicle:</subheading>
+        <item xml:id="jack">Jack</item>
+        <item xml:id="lWrentch">Lug wrench</item>
+        <item xmlid="spare">Fully inflated spare tire</item>
+        <item xml:id="manual">Vehicle owner’s manual</item>
+    </para>
+    <para num="4">
+        <body>If you have misplaced any of these items, or if your car did not come with these
+            items, you should purchase new ones right away. And be sure you’re regularly inflating
+            the spare tire to your vehicle manufacturer’s recommended PSI. You should check the
+            spare’s air pressure every time you check your other tires. Remember to check pressure
+            every month and before long trips or carrying extra load.</body>
+    </para>
+    <para num="5">Here are some items that don’t come with your vehicle but that you should stow in
+        your trunk or glove box in case you have to change a flat tire: <item>Flashlight with
+            working batteries</item>
+        <item xml:id="poncho">Rain poncho</item>
+        <item xml:id="wood"> Small cut of
+                    <mesure><quant>2</quant><unit>"</unit>X<quant>6</quant><unit>”</unit></mesure>
+            wood to secure the jack</item>
+        <item xml:id="glove">Gloves</item>
+        <item xml:id="whWedges">Wheel wedges</item></para>
+    <para num="6">
+        <heading>HOW TO CHANGE TIRES</heading>
+        <body>
+            <step num="1">
+                <heading xml:id="safeLocation">FIND A SAFE LOCATION</heading>
+                <body>As soon as you realize you have a flat tire, do not abruptly brake or turn.
+                        <action>Slowly reduce speed</action> and <action>scan</action> your
+                    surroundings for a level, straight stretch of road with a wide shoulder. An
+                    empty parking lot would be an ideal place. <tip>Level ground</tip> is good
+                    because it will prevent your vehicle from rolling. Also, <tip>straight stretches
+                        of road are better than curves because oncoming traffic is more likely to
+                        see you</tip>. Never attempt to change your tire on a narrow shoulder near
+                    oncoming traffic. Keep moving (slowly) until you find a safer spot. While
+                    driving on a flat risks ruining your rim, replacing a rim is better than being
+                    hit by an inattentive driver. Make sure to <action>consult</action> your owner’s
+                    manual and review their specific steps on how to change a flat tire for your
+                    vehicle</body>
+            </step>
+            <step num="2">
+                <heading xml:id="hazardLights">TURN ON YOUR HAZARD LIGHTS</heading>
+                <body>Your <item xml:id="hazards">hazard lights or <alt>“flashers”</alt></item> will
+                    help other drivers see you on the side of the road. To avoid an accident,
+                        <action>turn</action> them on as soon as you realize you need to pull
+                    over.</body>
+            </step>
+            <step num="3">
+                <heading xml:id="parkingBreak">APPLY THE PARKING BRAKE</heading>
+                <body> Once stopped, always use the <item xml:id="parkingBrake">parking brake</item>
+                    when preparing to replace a flat tire. This will minimize the possibility of
+                    your vehicle rolling.</body>
+            </step>
+            <step num="4">
+                <heading xml:id="whWedges">APPLY WHEEL WEDGES</heading>
+                <body><item xml:id="whWedges">Wheel wedges</item> go in front of or behind the tires
+                    to further ensure the vehicle doesn’t roll while you fix the <item
+                        xml:id="flatTire">flat tire</item>. <tip>If you’re changing a rear tire,
+                        place these in front of the front tires. If your <item xml:id="flatTire"
+                            >flat tire</item> is at the front, put the wheel wedges behind the rear
+                        tires</tip>. Bricks or large stones will work just as well as “real” wheel
+                    wedges. Just be sure they’re large enough to stop the car from rolling.</body>
+            </step>
+            <step num="5">
+                <heading xml:id="hubcapRemove">REMOVE THE HUBCAP OR WHEEL COVER </heading>
+                <body>If your vehicle has a <item xml:id="hubCap">hubcap</item> covering the <item
+                        xml:id="lugNut">lug nuts</item>, it’s easier to remove the <item
+                        xml:id="hubcap">hubcap</item> before lifting the vehicle with the <item
+                        xml:id="jack">jack</item>. If your <item xml:id="lugNut">lug nuts</item> are
+                    exposed, you can skip ahead to Step 6. Use the flat end of your <item
+                        xml:id="lWrench">lug wrench</item> to <action>remove</action> the <item
+                        xml:id="hubCap">hubcap</item>. This will work for most vehicles, but some
+                        <item xml:id="hubCap">hubcaps</item> need a different tool to come off.
+                        <action> Consult </action>your owner’s manual for proper <item
+                        xml:id="hubCap">hubcap</item> or wheel cover removal procedures.</body>
+            </step>
+            <step num="6">
+                <heading xml:id="lugNutsLosen">LOOSEN THE LUG NUTS</heading>
+                <body>Using the <item xml:id="lWrench">lug wrench</item>, turn the <item
+                        xml:id="lugNut">lug nuts</item> counterclockwise until you break their
+                    resistance. You may have to use force, and that’s ok. Use your foot or all of
+                    your body weight if necessary. Loosen the <item xml:id="lugNut">lug nuts</item>
+                    about <measure num="0.25">¼</measure> to <measure num="0.5">½</measure> of a
+                    turn, but don’t remove them completely yet. Save that for when it’s time to
+                    remove your tire/wheel from the vehicle.</body>
+            </step>
+            <step num="7">
+                <heading xml:id="jackPlace">PLACE THE JACK UNDER THE VEHICLE</heading>
+                <body>The right place for the <item xml:id="jack">jack</item> is usually beneath the
+                    vehicle frame alongside the tire that’s flat. Many vehicle frames have molded
+                    plastic on the bottom with a cleared area of exposed metal specifically for the
+                        <item xml:id="jack">jack</item>. To safely lift and avoid damage to the
+                    vehicle, follow the instructions for <item xml:id="jack">jack</item> placement
+                    in your <item xml:id="manual">vehicle owner’s manual</item>.</body>
+            </step>
+            <step num="8">
+                <heading xml:id="jackRaise">RAISE THE VEHICLE WITH THE JACK</heading>
+                <body>To prevent the <item xml:id="jack">jack</item> from settling under the weight
+                    of your vehicle and coming off balance, <action>place</action> a small cut of
+                        <item xml:id="wood">2x6” wood</item> beneath it before attempting to raise
+                    your vehicle. This tactic is especially helpful on asphalt. With the <item
+                        xml:id="jack">jack</item> properly positioned, raise the vehicle until the
+                    flat tire is about <masure><quant num="6">six</quant>
+                        <unit>inches</unit></masure> above the ground.<action> Never put</action>
+                    any part of your body under the vehicle during or after raising the vehicle with
+                    the <item xml:id="jack">jack</item>.</body>
+            </step>
+            <step num="9">
+                <heading xml:id="lugNutsUnscrew">UNSCREW THE LUG NUTS</heading>
+                <body>Now it’s time to <action>remove</action> the <item xml:id="lugNut">lug
+                        nuts</item> all the way. Since you've already loosened them, you should be
+                    able to <action>unscrew</action> them mostly by hand.</body>
+            </step>
+            <step num="10">
+                <heading xml:id="flatTireRemove">REMOVE THE FLAT TIRE</heading>
+                <body><action>Gripping</action> the <item xml:id="flatTire">tire</item> by the
+                    treads, <action>pull</action> it gently toward you until it’s completely free
+                    from the hub behind it. <action>Set it </action> on its sideso that it doesn’t
+                    roll away.</body>
+            </step>
+            <step num="11">
+                <heading xml:id="spareTireMount">MOUNT THE SPARE TIRE ON THE LUG BOLTS</heading>
+                <body>Now place the spare on the hub by lining up the rim with the lug bolts. Push
+                    gently until the lug bolts show through the rim.</body>
+            </step>
+            <step num="12">
+                <heading xml:id="lugNutsTighten">TIGHTEN THE LUG NUTS BY HAND</heading>
+                <body>Put the lug nuts back on the lug bolts and tighten them all the way by hand.
+                    Once they are all on, check each one again, tightening as much as possible. You
+                    will tighten them with the wrench after lowering the vehicle to the
+                    ground.</body>
+            </step>
+            <step num="13">
+                <heading xml:id="lowerANDTighten">LOWER THE VEHICLE AND TIGHTEN THE LUG NUTS
+                    AGAIN</heading>
+                <body><action>Use</action> the <item xml:id="jack">jack</item> to <action>lower
+                    </action>the vehicle so that the spare tire is resting on the ground but the
+                    full weight of the vehicle isn’t fully on the tire. At this point, you should
+                        <action>tighten</action> the <item xml:id="lugNut">lug nuts</item> with the
+                    wrench, turning clockwise, as much as you can. Push down on the lug wrench with
+                    the full weight of your body.</body>
+            </step>
+            <step num="14"><heading xml:id="lowerCompletely">LOWER THE VEHICLE COMPLETELY</heading>
+                <body><action>Bring</action> the vehicle all the way to the ground and
+                        <action>remove</action> the <item xml:id="jack">jack</item>. Give the <item
+                        xml:id="lugNut">lug nuts</item> another pull with the wrench to
+                        <action>ensure</action> they’re as tight as possible</body>.</step>
+            <step num="15">
+                <heading xml:id="replaceHubcap">REPLACE THE HUBCAP</heading>
+                <body>If the <item xml:id="hubCap">hubcap</item> you took from the <item
+                        xml:id="flatTire">flat tire</item> will fit your spare, <action>put it in
+                        place</action> the same way you removed it initially. If it doesn’t fit,
+                    stow it away with the tire when you stow your equipment.</body>
+            </step>
+            <step num="16">
+                <heading xml:id="stowEqipment">STOW ALL EQUIPMENT</heading>
+                <body>You have before you a <item xml:id="jack">jack</item>, a <item
+                        xml:id="lWrench">lug wrench</item>, <item xml:id="whWedges">wheel
+                        wedges</item>, your <item xml:id="flatTire">flat tire</item>, and possibly a
+                        <item xml:id="hubCap">hubcap</item>. Don’t forget to put all of them in your
+                    vehicle before driving away.</body>
+            </step>
+            <step num="17">
+                <heading xml:id="checkSparePressure">CHECK THE PRESSURE IN THE SPARE TIRE</heading>
+                <body>You should <action>check</action>the tire pressure of the spare tire to make
+                    sure that it is safe to drive on. “T-Type” temporary spares, also called
+                    “mini-spares,” require 60 psi (420 kPa). If the tire needs pressure, drive
+                    (slowly) to a service station immediately.</body>
+            </step>
+            <step num="18">
+                <heading xml:id="flatToTechnician">TAKE YOUR FLAT TIRE TO A TECHNICIAN</heading>
+                <body>Temporary spare tires aren’t made to drive long distances or at high speeds,
+                    so drive cautiously until you’re able to visit a tire technician. A professional
+                    should be able to determine whether your tire needs a repair or if it’s time to
+                    replace it.</body>
+            </step>
+        </body>
+    </para>
+    <para num="7"><heading>HOW LONG DOES IT TAKE TO FIX A FLAT TIRE? </heading>Aside from taking
+        your tire to a professional, the above procedure shouldn’t take more than
+                <time><quant>15</quant> to <quant>30</quant>
+            <unit>minutes</unit></time> to change a tire. Just be sure you don’t leave out any
+        steps. It’s beneficial practice changing a tire in your garage or driveway to ensure you’re
+        ready to handle this situation if it ever happens to you.</para>
+    <para num="8"><heading>A FEW MORE TIPS ON CHANGING TIRES</heading> Knowing how to fix a flat
+        tire is great, but regular tire maintenance is even more important. In addition to reviewing
+        this guide regularly, remember to do the following: Keep your tires properly inflated Rotate
+        your tires according to the manufacturer’s guidelines Monitor for tread wear All of these
+        precautions will extend the life of your tires and reduce the likelihood of a flat. While
+        there’s no way to prevent flat tires completely, proper care can improve performance and
+        ensure your tires last as long as possible.</para>
+</root>
