@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<letter>
+    <description>
+        <line>The following letter was written shortly after Wilde's release from prison:</line>
+    </description>
+
+    <datePlace>
+        <line>Rouen, August 1897</line>
+    </datePlace>
+    <adressing>
+        <line num="1">My own Darling Boy,</line>
+    </adressing>
+    <line>I got your <message>telegram</message> half an hour ago, and just send a line to say that
+        I feel that my only hope of again doing <outstanding>beautiful work</outstanding> in art is
+        being with you.</line>
+    <line>It was not so in the old days, but now it is different, and you can really
+            <liveTwice>recreate</liveTwice> in me that energy and sense of <happy>joyous</happy>
+        power on which art depends. </line>
+    <line>Everyone is <notHappy>furious</notHappy> with me for going back to you, but they don't
+        understand us.</line>
+    <line>I <emotion>feel</emotion> that it is only with you that I can do anything at all.</line>
+    <line>Do <redo>remake</redo> my <unhappy>ruined</unhappy> life for me, and then our friendship
+        and love will have a different meaning to the world.</line>
+    <line>I <regret>wish</regret> that when we met at Rouen we had not parted at all.</line>
+    <line>There are such wide <distance>abysses</distance> now of space and land between us.</line>
+    <line>But we <pure>love</pure> each other.</line>
+    <letterEnd>Goodnight, dear. Ever yours,</letterEnd>
+    <name>Oscar</name>
+</letter>
