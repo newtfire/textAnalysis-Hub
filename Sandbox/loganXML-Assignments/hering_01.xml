@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <section title="intro">
+        <line n="1">
+            <title>Country Loaf (Pain de Campagne)</title>
+        </line>
+
+        <line n="2"><person name="Deb Lindsey">Deb Lindsey</person> for The Washington Post</line>
+        <line n="3">
+            <when date="9-10-2014">SEP 10, 2014</when>
+        </line>
+
+        <line n="4">Washington author <person name="Sam Fromartz">Sam Fromartz</person> has been
+            making sourdough variations of this yeast bread for years. Here, he adds fermented cider
+            for flavor. A mild beer may be substituted; an IPA would be too bitter. The loaf is
+            sized to last a few days.</line>
+
+        <line n="5">The optional <measurement amount="1" unit="tablespoons">tablespoon</measurement>
+            of <i>water</i> is to compensate for the variable absorption of the rye and whole-wheat
+            flours.</line>
+
+        <line n="6">You'll need a colander, a pastry cloth or clean dish towel and a covered
+            cast-iron or enameled cast-iron pot.</line>
+
+        <line n="7">Make Ahead: The dough needs four <time amount="20" unit="minutes"
+                >20-minute</time> rests, plus an <time amount="8 to 24" unit="hours"
+                >8-to-24-hour</time> stay in the refrigerator and a final <time amount="1.5"
+                unit="hours">1 1/2-hour</time> rise.</line>
+
+        <line n="8">Storage Notes: Store the cooled loaf in a paper bag for a day, and store in a
+            plastic bag for a few days after that. Do not refrigerate.</line>
+    </section>
+
+    <section title="servings">
+        <line n="9">
+            <sectionTitle>SERVINGS:</sectionTitle>
+        </line>
+        <line n="10">
+            <interactable type="dropdownMenu">
+                <serving amount="10 - 12" unit="loafs">10 - 12</serving>
+            </interactable>
+        </line>
+
+        <line n="11">Tested size: 10-12 servings; makes one 11-ounce loaf 10 to 12 slices</line>
+    </section>
+
+    <section title="ingredients">
+        <line n="12">
+            <sectionTitle>INGREDIENTS</sectionTitle>
+        </line>
+        <line n="13"><measurement amount="1.25" unit="cups">1 1/4 cups (160 grams)</measurement>
+            <i>white bread flour</i>, plus more for dusting</line>
+        <line n="14">
+            <measurement amount="0.25" unit="cups">1/4 cup (38 grams)</measurement>
+            <i>stone-ground whole-wheat flour</i>
+        </line>
+        <line n="15">
+            <measurement amount="0.25" unit="cups">1/4 cup (32 grams)</measurement>
+            <i>stone-ground whole rye flour</i>
+        </line>
+        <line n="16">
+            <measurement amount="0.5" unit="teaspoons">1/2 teaspoon</measurement>
+            <i>instant yeast or bread machine yeast</i>
+        </line>
+        <line n="17">
+            <measurement amount="1" unit="teaspoons">1 teaspoon</measurement>
+            <i>table salt</i>
+        </line>
+        <line n="18"><measurement amount="0.25" unit="cups">1/4 cup (55 grams)</measurement>
+            <i>dry fermented cider</i> (may substitute <i>Pilsener beer</i>; see headnote)</line>
+        <line n="19"><measurement amount="0.5" unit="cups">1/2 cup (120 grams)</measurement>
+            <i>lukewarm water</i> (<measurement amount="80" unit="degrees">80
+            degrees</measurement>), plus an optional <measurement amount="1" unit="tablespoons">1
+                tablespoon</measurement></line>
+    </section>
+
+    <section title="directions">
+        <line n="20">
+            <sectionTitle>DIRECTIONS</sectionTitle>
+        </line>
+        <line n="21">
+            <step n="1">Whisk together the <i>flours</i>, <i>yeast</i> and <i>salt</i> in a mixing
+                bowl. Combine the <i>cider</i> and <i>water</i> in a liquid measuring cup.</step>
+        </line>
+
+        <line n="22">
+            <step n="2">Add the <i>liquid</i> to the <i>flour mixture</i>; use a spatula or bench
+                scraper or your hand moistened with water to blend them for about a minute. The
+                dough should be shaggy yet cohesive. Cover the bowl with a towel; let the dough rest
+                for <time amount="20" unit="minutes">20 minutes</time>.</step>
+        </line>
+
+        <line n="23">
+            <step n="3">Moisten your kneading hand. If the dough seems stiff, add the optional <i
+                    amount="1" unit="tablespoons">tablespoon of water</i>. Stretch one edge of the
+                dough (still in the bowl), then press it into the center of the bowl. Repeat this
+                about a dozen times, moving clockwise to catch all sides of the dough. (This should
+                take <time amount="1 or 2" unit="minutes">1 or 2 minutes</time>.)</step>
+        </line>
+        <line n="24">
+            <step n="4">Turn the dough over so the seams are on the bottom. Cover and let rest for
+                    <time amount="20" unit="minutes">20 minutes</time>. Repeat the clockwise
+                stretching and folding two more times, with <time amount="20" unit="minutes"
+                    >20-minute</time> rests after each. Cover and refrigerate at least <time
+                    amount="8" unit="hours">8 hours</time> and up to <time amount="24" unit="hours"
+                    >24 hours</time>. The dough should have doubled. If it hasn't, leave it on the
+                counter until it does.</step>
+        </line>
+
+        <line n="25">
+            <step n="5">Lightly <i>flour</i> a work surface. Use a pastry cloth or clean dish towel
+                to line a round colander. Dust the cloth with flour.</step>
+        </line>
+
+        <line n="26">
+            <step n="6">Transfer the dough to the floured work surface. Fold the edges toward the
+                center to create a round shape, turning it over so the seams are on the bottom. Let
+                it rest for <time amount="5" unit="minutes">5 minutes</time>, then transfer to the
+                colander, seam side up. Cover with a towel and let the dough rise for <time
+                    amount="1 1/2" unit="hours">1 1/2 hours</time>.</step>
+        </line>
+
+        <line n="27">
+            <step n="7"><time amount="30" unit="minutes">Thirty minutes</time> before baking, place
+                a cast-iron Dutch oven (lid on) or enameled cast-iron pot with a lid (on) in the
+                oven; preheat to <measurement amount="475" unit="degrees">475
+                degrees</measurement>.</step>
+        </line>
+
+        <line n="28">
+            <step n="8">Carefully remove the hot pot from the oven.</step>
+        </line>
+
+        <line n="29">
+            <step n="9">Turn the dough out onto the counter so the seams are on the bottom. Use
+                kitchen scissors to make 8 snips on the top of the dough in an evenly spaced spoke
+                pattern, each about <measurement amount="1/4" unit="inches">1/4-inch</measurement>
+                deep. Lift the dough and carefully drop it into the hot pot. Immediately cover with
+                the hot lid. Bake for <time amount="30" unit="minutes">30 minutes</time>, then
+                reduce the heat to <measurement amount="475" unit="degrees">475
+                    degrees</measurement>. Uncover and bake for <time amount="8 to 10"
+                    unit="minutes">8 to 10 minutes</time> or until the crust is dark brown. Try to
+                minimize the amount of time the oven door is open.</step>
+        </line>
+
+        <line n="30">
+            <step n="10">The bread is done when its internal temperature registers <measurement
+                    amount="205" unit="degrees">205 degrees</measurement> on an instant-read
+                thermometer and the loaf sounds hollow when knocked on the underside.</step>
+        </line>
+
+        <line n="31">
+            <step n="11">Transfer the loaf to a wire rack to cool for at least <time amount="1"
+                    unit="hours">1 hour</time> before cutting.</step>
+        </line>
+    </section>
+</root>

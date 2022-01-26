@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--I'm typing text above the root document-->
+<!--Shift + Ctrl + Comma-->
+<xml>
+    <title>Country Loaf (Pain de Campagne)</title>
+
+    <Publisher>Deb Lindsey for The Washington Post</Publisher>
+
+    <date int="date">SEP 10, 2014</date>
+    <intro p="1">
+        <author name="First-Last"> Washington author Sam Fromartz</author>
+        <para>has been making sourdough variations of this yeast bread for years. Here, he adds
+            fermented cider for flavor. <Sub>A mild beer may be substituted;</Sub>
+            <exception>an IPA would be too bitter</exception>. The loaf is sized to last a few days.
+                <p>The optional tablespoon of water is to compensate for the variable absorption of
+                the rye and whole-wheat flours.</p>
+            <p>You'll need a colander, a pastry cloth or clean dish towel and a covered cast-iron or
+                enameled cast-iron pot.</p>
+            <p>Make Ahead: <time t="80min">The dough needs four 20-minute rests</time>, plus an
+                    <time t-="480-1440min">8-to-24-hour stay in the refrigerator</time> and a final
+                    <time t="90min">1 1/2-hour rise.</time></p>
+            <p>Storage Notes: Store the cooled loaf in a paper bag for a day,</p>
+            <time t="1440-2880+min">and store in a plastic bag for a few days after that.</time>
+            <notice>Do not refrigerate.</notice>
+        </para>
+    </intro>
+    <subTitle>SERVINGS:</subTitle>
+    <Measurement>
+        <subHeading>Tested</subHeading>
+        <Size>size: 10-12</Size>
+        <p>servings; makes one </p>
+        <unit m="11">11-ounce </unit>
+        <Slices count="10-12">loaf 10 to 12 slices</Slices>
+    </Measurement>
+
+    <subTitle>INGREDIENTS</subTitle>
+    <IngedList>
+        <li Ingred="1">
+            <quant int="1.25">1 1/4 cups <unit m="g">(160 grams)</unit></quant>
+            <p>white bread flour, plus more for dusting</p>
+        </li>
+        <li Ingred="2">
+            <quant int=".25">1/4 cup <unit m="g">(38 grams)</unit></quant>
+            <Wheat type="Stone-Ground whole-wheat flour"> stone-ground whole-wheat flour</Wheat>
+        </li>
+        <li Ingred="3">
+            <quant int=".25">1/4 cup <unit m="g">(32 grams)</unit></quant>
+            <p>stone-ground whole rye flour</p>
+        </li>
+        <li Ingred="4">
+            <quant int=".50">1/2 teaspoon </quant>
+            <p>instant yeast or bread machine yeast</p>
+        </li>
+        <li Ingred="5">
+            <quant int="1">1 teaspoon</quant>
+            <p>table salt</p>
+        </li>
+        <li Ingred="6">
+            <quant int=".25">1/4 cup <unit m="g">(55 grams)</unit></quant>
+            <p>dry fermented cider</p>
+            <substitute>(may substitute Pilsener beer; see headnote)</substitute>
+        </li>
+        <li Ingred="7">
+            <quant int=".50">1/2 cup <unit m="g">(120 grams)</unit></quant>
+            <Temp t="80^f">lukewarm water <unit m="f">(80 degrees)</unit></Temp>, <OpStep>plus an
+                optional 1 tablespoon</OpStep></li>
+    </IngedList>
+    <subTitle>DIRECTIONS</subTitle>
+    <StepList>
+        <li step="1">Whisk together the flours, yeast and salt in a mixing bowl. Combine the cider
+            and water in a liquid measuring cup.</li>
+
+        <li step="2">Add the liquid to the flour mixture; use a spatula or bench scraper or your
+            hand moistened with water to blend them <time t="1min">for about a minute.</time> The
+            dough should be shaggy yet cohesive. Cover the bowl with a towel; let the dough rest for
+            20 minutes.</li>
+
+        <li step="3">Moisten your kneading hand. If the dough seems stiff, add the optional
+            tablespoon of water. Stretch one edge of the dough (still in the bowl), then press it
+            into the center of the bowl. Repeat this about a dozen times, moving clockwise to catch
+            all sides of the dough. (This should take 1 or 2 minutes.)</li>
+
+        <li step="4">Turn the dough over so the seams are on the bottom. Cover and <time t="20min"
+                >let rest for 20 minutes</time>. Repeat the clockwise stretching and folding two
+            more times, with 20-minute rests after each. Cover and refrigerate at least 8 hours and
+            up to 24 hours. The dough should have doubled. If it hasn't, leave it on the counter
+            until it does.</li>
+
+        <li step="5">Lightly flour a work surface. Use a pastry cloth or clean dish towel to line a
+            round colander. Dust the cloth with flour.</li>
+
+        <li step="6">Transfer the dough to the floured work surface. Fold the edges toward the
+            center to create a round shape, turning it over so the seams are on the bottom. Let it
+            rest for 5 minutes, then transfer to the colander, seam side up. Cover with a towel and
+            let the dough rise for 1 1/2 hours.</li>
+
+        <li step="7"><time t="30min">Thirty minutes before baking,</time> place a cast-iron Dutch
+            oven (lid on) or enameled cast-iron pot with a lid (on) in the oven; preheat to 475
+            degrees.</li>
+
+        <li step="8">Carefully remove the hot pot from the oven.</li>
+
+        <li step="9">Turn the dough out onto the counter so the seams are on the bottom. Use kitchen
+            scissors to make 8 snips on the top of the dough in an evenly spaced spoke pattern, each
+            about 1/4-inch deep. Lift the dough and carefully drop it into the hot pot. Immediately
+            cover with the hot lid. Bake for 30 minutes, then reduce the heat to 450 degrees.
+            Uncover and bake for 8 to 10 minutes or until the crust is dark brown. Try to minimize
+            the amount of time the oven door is open.</li>
+
+        <li step="10">The bread is done when its internal temperature registers 205 degrees on an
+            instant-read thermometer and the loaf sounds hollow when knocked on the underside.</li>
+
+        <li step="11">Transfer the loaf to a wire rack to cool for at least 1 hour before
+            cutting.</li>
+    </StepList>
+</xml>

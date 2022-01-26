@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--lnh: link to my recepie https://sallysbakingaddiction.com/easy-cinnamon-rolls-from-scratch/-->
+<root>
+    <section title="intro">
+        <line n="1">
+            <title>Easy Cinnamon Rolls (from scratch)</title>
+        </line>
+        <line n="2">
+            <symbol type="star">★★★★★</symbol>
+        </line>
+        <line n="3">4.9 from 252 reviews</line>
+        <line n="4">Prep Time: <time amount="100" unit="minutes">1 hour, 40 minutes</time></line>
+        <line n="5">Cook Time: <time amount="25" unit="minutes">25 minutes</time></line>
+        <line n="6">Total Time: <time amount="125" unit="minutes">2 hours, 5 minutes</time></line>
+        <line n="7">Yield: <serving amount="11-12" unit="rolls">11-12</serving> rolls</line>
+        <line n="8">
+            <interactable type="button">PRINT RECIPE</interactable>
+        </line>
+        <line n="9">
+            <interactable type="button">PIN RECIPE</interactable>
+        </line>
+    </section>
+
+    <section title="description">
+        <line n="10">
+            <title>Description</title>
+        </line>
+        <line n="11">These easy cinnamon rolls are perfect for yeast beginners because they only</line>
+        <line n="12">require 1 rise. Top with vanilla icing or my favorite coffee icing below.</line>
+    </section>
+
+    <section title="ingredients">
+        <line n="13">
+            <title>Ingredients</title>
+        </line>
+        <line n="14">
+            <subTitle>Rolls</subTitle>
+        </line>
+        <line n="15"><measurement amount="2.75" unit="cups">2 and 3/4 cups (344g)</measurement>
+            <i>all-purpose flour</i> (spoon &amp; leveled)</line>
+        <line n="16">
+            <measurement amount="0.25" unit="cups">1/4 cup (50g)</measurement>
+            <i>granulated sugar</i>
+        </line>
+        <line n="17">
+            <measurement amount="0.5" unit="teaspoons">1/2 teaspoon</measurement>
+            <i>salt</i>
+        </line>
+        <line n="18"><measurement amount="2.25" unit="teaspoons">2 and 1/4 teaspoons</measurement>
+            <i>Red Star Platinum Yeast or any instant yeast</i> (1 packet)</line>
+        <line n="19">
+            <measurement amount="0.5" unit="cups">1/2 cup (120ml)</measurement>
+            <i>whole milk</i>
+        </line>
+        <line n="20">
+            <measurement amount="0.25" unit="cups">1/4 cup (60ml)</measurement>
+            <i>water</i>
+        </line>
+        <line n="21">
+            <measurement amount="3" unit="tablespoons">3 Tablespoons</measurement>
+            <i>unsalted butter</i>
+        </line>
+        <line n="22">
+            <measurement amount="1" unit="large egg">1</measurement>
+            <i>large egg</i>
+        </line>
+        <line n="23">
+            <subTitle>Filling</subTitle>
+        </line>
+        <line n="24"><measurement amount="3" unit="tablespoons">3 Tablespoons (45g)</measurement>
+            <i>unsalted butter</i>, softened to room temperature</line>
+        <line n="25">
+            <measurement amount="3" unit="tablespoons">1 Tablespoon</measurement>
+            <i>ground cinnamon</i>
+        </line>
+        <line n="26">
+            <measurement amount="0.25" unit="cups">1/4 cup (50g)</measurement>
+            <i>granulated sugar or packed light or dark brown sugar</i>
+        </line>
+        <line n="27">
+            <subTitle>Icing</subTitle>
+        </line>
+        <line n="28">
+            <measurement amount="1" unit="cups">1 cup (120g)</measurement>
+            <i>confectioners’ sugar</i>
+        </line>
+        <line n="29">
+            <measurement amount="0.5" unit="teaspoons">1/2 teaspoon</measurement>
+            <i>pure vanilla extract</i>
+        </line>
+        <line n="30">
+            <measurement amount="2-3" unit="tablespoons">2–3 Tablespoons (30-45ml)</measurement>
+            <i>strong brewed coffee or milk</i>
+        </line>
+    </section>
+
+    <section title="instructions">
+        <line n="31">
+            <title>Instructions</title>
+        </line>
+        <line n="32">
+            <step n="1">Make the dough: Whisk the <i>flour</i>, <i>sugar</i>, <i>salt</i>, and
+                    <i>yeast</i> together in a large bowl. Set aside.</step>
+        </line>
+        <line n="33">
+            <step n="2">Combine the <i>milk</i>, <i>water</i>, and <i>butter</i> together in a
+                heatproof bowl. Microwave or use the stove and heat until the <i>butter</i> is
+                melted and the mixture is warm to touch (about <measurement amount="110"
+                    unit="degrees">110°F</measurement>). Pour into the dry ingredients, add the
+                    <i>egg</i>, and stir until it forms a soft dough or use your mixer.</step>
+        </line>
+        <line n="34">
+            <step n="3">On a lightly floured surface using floured hands, knead the dough for <time
+                    amount="3" unit="minutes">3 minutes</time>. Place in a lightly greased bowl (I
+                use non-stick spray), cover loosely, and let rest for about <time amount="10"
+                    unit="minutes">10 minutes</time>.</step>
+        </line>
+        <line n="35">
+            <step n="4">Fill the rolls: After <time amount="10" unit="minutes">10 minutes</time>,
+                roll the dough out in a 14×8 inch rectangle. Spread the softened <i>butter</i> on
+                top. Mix together the <i>cinnamon</i> and <i>sugar</i>. Sprinkle it all over the
+                dough. Roll up the dough tightly to make a 14 inch log. Cut into 10-12 even rolls
+                and arrange in a lightly greased 9-inch round cake pan or pie dish.</step>
+        </line>
+        <line n="36">
+            <step n="5">Rise: Tightly cover the rolls with aluminum foil or plastic wrap and allow
+                to rise in a warm, draft-free environment for <time amount="60-90" unit="minutes"
+                    >60-90 minutes</time>. See blog post above for my trick to this step!</step>
+        </line>
+        <line n="37">
+            <step n="6">Bake the rolls: After the rolls have doubled in size, preheat the oven to
+                    <measurement amount="375" unit="degrees">375°F (190°C)</measurement>. Bake for
+                    <measurement amount="25-28" unit="minutes">25-28 minutes</measurement> until
+                lightly browned. If you notice the tops are getting too brown too quickly, loosely
+                cover the rolls with aluminum foil and continue baking.</step>
+        </line>
+        <line n="38">
+            <step n="7">Make the icing: Whisk the confectioners’ <i>sugar</i>, <i>vanilla
+                    extract</i>, and <i>coffee/milk</i> together. Drizzle or spread over warm
+                rolls.</step>
+        </line>
+        <line n="39">
+            <step n="8">Cover leftover frosted or unfrosted rolls tightly and store for up to
+                    <measurement amount="3" unit="days">3 days</measurement> at room temperature or
+                up to <measurement amount="5" unit="days">5 days</measurement> in the
+                refrigerator.</step>
+        </line>
+    </section>
+
+    <section title="notes">
+        <line n="40">
+            <title>Notes</title>
+        </line>
+        <line n="41">
+            <note n="1">Make Ahead Instructions: This dough can be made the night before through
+                step 4. Cover with plastic wrap and let rest in the refrigerator overnight. The next
+                morning, remove from the refrigerator and allow to rise in a warm environment, about
+                1 hour. Continue with step 6.</note>
+        </line>
+        <line n="42">
+            <note n="2">Freezing Instructions: Baked rolls can be frozen up to 2-3 months. Thaw
+                overnight in the refrigerator and warm up before enjoying. You can also freeze the
+                unbaked rolls and here’s how: bake the rolls in step 6 for only about 10 minutes at
+                375°F (191°C). Cool completely, then cover tightly and freeze. To serve, take the
+                rolls out of the freezer and put into the refrigerator a few hours before serving.
+                Then, finish baking them.</note>
+        </line>
+        <line n="43">
+            <note n="3">Yeast: I highly recommend instant yeast. If you only have active dry yeast,
+                you can use that instead. Active dry and instant yeast can be used interchangeably
+                in recipes (1:1). Active dry yeast has a moderate rate of rising and instant dry
+                yeast has a faster rate of rising; active dry yeast will create a slower rise
+                time.</note>
+        </line>
+        <line n="44">
+            <note n="4">Milk: Whole milk is ideal for this dough. If needed, you can substitute
+                nondairy milk.</note>
+        </line>
+        <line n="45">
+            <note n="5">Reference my Baking with Yeast Guide for answers to common yeast
+                FAQs.</note>
+        </line>
+    </section>
+</root>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="out/gardinerODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="out/gardinerODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Calender Pages</title>
+            <author>Mary Behrend</author>
+            <editor>Joey Gardiner</editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Friendship Calender Co.</publisher>
+            <pubPlace>New Britain, Conn</pubPlace>
+            <date>1908</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier><repository>Penn State Behrend, Liley Library Archives</repository></msIdentifier>
+               <physDesc>
+                  <handDesc>
+                     <handNote xml:id="blackInk">The main color of ink used for writing on the calender sheets.</handNote>
+                     <handNote xml:id="redInk">An extra handwriting that adds small notes on a few of the pages.</handNote>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+         
+      </fileDesc>
+  </teiHeader>
+  <text xml:lang="en">
+      <body>
+         <div>
+            <ab>
+               COPYRIGHT 1908, BY FRIENDSHIP CALENDER CO. NEW BRITAIN, CONN.
+               <date when="1909-03-11">March 11, 1909.</date> Thursday
+            </ab>
+            <figure>
+               <head>Four Ladies</head>
+               <ab>There are four ladies in fancy appearing dresses. From left to right their dress color is: purple, red, blue, green. The lady in the red dress has a tall red head. The lady in the purple dress has red hair and a small purple hat. The other three have blonde hair.</ab>
+            </figure>
+            <p hand="#blackInk">Everybody dressed <unclear>in their red for</unclear> this is an Erie Tea They ear too much, talk too much - you can <unclear>?? They drink no the in me.</unclear></p>
+            <!-- There is some red handwriting up the left side, the entire sentence is unclear to me -->
+         </div>
+         
+         <div n="1">
+            <ab>
+            COPYRIGHT 1908, BY FRIENDSHIP CALENDER CO. NEW BRITAIN, CONN.
+         <date when="1909-03-12">March 12, 1909.</date> FRIDAY
+         </ab>
+         <figure>
+            <head>Molly on Snowshoes</head>
+            <ab>A girl dressed in winter weather clothing is drawn on the left side of the paper. She is wearing two huge snowshoes. These snowshoes have red dots around the edges.</ab>
+         </figure>
+         <p hand="#blackInk">Molly on snowshoes that Mr. Weir got. Pretty picture is it not?!</p>
+         <p hand="#redInk">Love <unclear>J???</unclear> Molly</p>
+         </div>
+         
+         <div n="2">
+            <ab>
+               COPYRIGHT 1908, BY FRIENDSHIP CALENDER CO. NEW BRITAIN, CONN.
+               <date when="1909-03-17">March 17, 1909.</date> Wednesday St. Patrick's Day
+            </ab>
+            <p hand="#blackInk">ST. Patrick was a usefuf saint he frightened all the snakes away - I wish he'd try his art on smoke around the <placeName>Hammermill</placeName> some day!</p>
+            <figure>
+               <head>Various Doodles</head>
+               <ab>There are four clovers scattered around the page. Near the date there are two snakes. One is stretched out and the other is coiled. At the bottom of the page there is a sketch of the Hammermill factory.</ab>
+               <p hand="#redInk">The Hammermill vally <unclear>????? ??????</unclear>!</p>
+            </figure>
+         </div>
+      </body>
+  </text>
+</TEI>

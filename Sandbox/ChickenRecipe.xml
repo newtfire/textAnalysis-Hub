@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    
+    <header>Crispy, Creamy Chicken Cordon Bleu</header>
+    <intro>There’s nothing we love more than a crispy, succulent, perfectly-fried piece of fried chicken. But we also love gourmet meals. You know, the ones that you sit down to in the     candlelight? Those ones. Well, our easy chicken Cordon Bleu is the best of both worlds: sounds fancy but really? It’s just some really, really good fried chicken. That, we can          promise. </intro>
+    
+    <author>Matthew Johnson</author>
+    <publisher publisher="Tasty Team">Tasty Team</publisher>
+    
+    <ingredientslist><header>Ingredients</header>
+    <serving>for 6 servings</serving>
+    
+    <ingredient><quantity>4</quantity> boneless, skinless chicken breasts</ingredient>
+    <ingredient category="optional">salt, to taste</ingredient>
+    <ingredient category="optional">pepper, to taste</ingredient>
+    <ingredient><quantity>1</quantity> <unit>tablespoon</unit> garlic powder</ingredient>
+    <ingredient><quantity>1</quantity> <unit>tablespoon</unit> onion powder</ingredient>
+    <ingredient><quantity>16</quantity> slices swiss cheese</ingredient>
+    <ingredient><quantity>½</quantity> <unit>lb</unit> ham, thinly sliced</ingredient>
+    <ingredient>peanut oil, or vegetable oil, for frying</ingredient>
+    <ingredient><quantity>1</quantity> <unit>cup</unit> all-purpose flour</ingredient>
+    <ingredient><quantity>4</quantity> eggs, beaten</ingredient>
+    <ingredient><quantity>2</quantity> <unit>cups</unit> panko bread crumbs</ingredient>
+    
+    
+    <header>CREAMY DIJON SAUCE</header>
+    
+    <ingredient><quantity>3</quantity> <unit>tablespoons</unit> butter</ingredient>
+    <ingredient><quantity>2</quantity> cloves garlic, minced</ingredient>
+    <ingredient><quantity>3</quantity> <unit>tablespoons</unit> all-purpose flour</ingredient>
+    <ingredient><quantity>2</quantity> <unit>cups</unit> milk</ingredient>
+    <ingredient><quantity>¼</quantity> <unit>cup</unit> dijon mustard</ingredient>
+    <ingredient><quantity>1</quantity> <unit>cup</unit> shredded parmesan cheese</ingredient>
+    <ingredient category="optional">salt, to taste</ingredient>
+    <ingredient category="optional">pepper, to taste</ingredient></ingredientslist>
+    
+    
+    <directions><header>Preparation</header>
+    <step>Sprinkle the chicken breasts with salt, pepper, garlic powder, and onion powder, tossing to coat evenly.</step>
+    
+    <step>On a cutting board, place a chicken breast between two sheets of plastic wrap and pound until about <quantity>½</quantity> <unit>inch</unit> (1 cm) thick with a meat mallet, rolling pin, or heavy pan.</step>
+    
+    <step>Remove the plastic wrap and place 2 slices of Swiss cheese, then 2 slices of ham, then another layer of Swiss cheese, and another layer of ham. Evenly roll the chicken and place onto a new sheet of plastic wrap.</step>
+    
+    <step>Wrap the chicken in the plastic wrap tightly and use the excess plastic on the sides to twist, firming up the roll of chicken cordon bleu as you work. Tie the excess plastic. Repeat with the remaining ingredients, then chill the rolls in the fridge to set for <quantity>30</quantity> <unit>minutes</unit>.</step>
+    
+    <step>Meanwhile, preheat a tall-sided pan with <quantity>2</quantity> <unit>inches</unit> (5 cm) of oil to <quantity>325</quantity><unit>°F</unit> (170°C).</step>
+    
+    <step>After the rolls are set, prepare 2 separate large, wide dishes with the flour, beaten egg, and bread crumbs. Dredge the chicken first in the flour, then the egg, and then bread crumbs.</step>
+    
+    <step>Place the breaded chicken cordon bleu in the oil and cook for about <quantity>5</quantity> <unit>minutes</unit> per side, or until the outside is an even golden brown. If a good color is achieved and the chicken’s center is still not 165°F (75°C), place the chicken cordon bleu on a wire rack set over a baking sheet and finish the chicken in the oven at <quantity>325</quantity><unit>°F</unit> (170°C) until that temperature is reached.</step>
+    
+    <step>Meanwhile, prepare the sauce. In a 1 ½-quart saucepan over medium heat, melt the butter and cook the garlic until soft. Add the flour and whisk for 1 minute.</step>
+    
+    <step>Add the milk and whisk until fully combined with the roux and no lumps remain. Continue whisking until the mixture comes to a simmer and has thickened.</step>
+    
+    <step>Add the mustard, Parmesan cheese, salt, and pepper and whisk to combine. Remove the pan from the heat.</step>
+    
+    <step>Slice the chicken and serve drizzled with Dijon sauce.</step>
+    
+    <step>Enjoy!</step></directions>
+    
+</root>

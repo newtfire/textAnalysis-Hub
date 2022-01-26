@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="ozyMetaSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <meta>
+        <title>Ozymandias</title>
+        <author>Percy Bysshe Shelley</author>
+        <publication>
+            <title type="journal">The Examiner</title>
+            <pubPlace>London</pubPlace>
+            <date when="1818-01-11">11 January 1818</date>
+        </publication>
+        <source>British Library 
+            <ref target="http://www.bl.uk/learning/timeline/item126940.html"/>
+        </source>
+    </meta>
+    <poem>
+        <l n="1"><person>I</person> met a <person>traveller</person> from <place>an antique land</place>,</l>
+        <l n="2">Who said—<fragment>Two vast and trunkless legs of stone</fragment> </l>
+        <l n="3">Stand in <place>the desert</place>. . . . Near them, on the sand,</l>
+        <l n="4">Half sunk <object>a shattered visage</object> lies, whose frown,</l>
+        <l n="5">And wrinkled lip, and sneer of cold command,</l>
+        <l n="6">Tell that its <person>sculptor</person> well those passions read</l>
+        <l n="7">Which yet survive, stamped on these lifeless things,</l>
+        <l n="8"><fragment>The hand that mocked them</fragment>, and <fragment>the heart that fed</fragment>;</l>
+        <l n="9">And on <fragment>the pedestal</fragment>, these words appear:</l>
+        <l n="10"><person>My name is Ozymandias, King of Kings</person>;</l>
+        <l n="11">Look on my Works, <person>ye Mighty</person>, and despair!</l>
+        <l n="12">Nothing beside remains. Round the decay</l>
+        <l n="13">Of <fragment>that colossal Wreck</fragment>, boundless and bare</l>
+        <l n="14">The lone and level sands stretch far away.”</l>
+    </poem>
+</xml>
