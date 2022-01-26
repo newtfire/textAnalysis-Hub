@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<title>Pretzel Recipe</title>
+
+<heading>Ingredients</heading>
+<total>for 8 servings</total>
+
+<ing n="1"><quant num="1.5">1 ½</quant> <unit>cups</unit> <material>water, warm</material></ing>
+<ing n="2"><quant num="1">1</quant> <unit>tablespoon</unit> <material>salt</material></ing>
+<ing n="3"><quant num="1">1</quant> <unit>tablespoon</unit> <material>sugar</material></ing>
+<ing n="4"><quant num="1">1</quant> <unit>packet</unit> <material>active dry yeast</material></ing>
+<ing n="5"><quant num="4.5">4 ½</quant> <unit>cups</unit> <material>flour</material></ing>
+<ing n="6"><quant num="3">3</quant> <unit>tablespoons</unit> <material>oil, divided</material></ing>
+<ing n="7"><quant num="0.67">⅔</quant> <unit>cup</unit> <material>baking soda</material></ing>
+<ing n="8"><quant num="2">2</quant> <material>eggs, beaten</material></ing> 
+<ing n="9"><material>coarse salt</material></ing>
+
+<heading>Preparation</heading>
+<step n="1">In a bowl, <action>mix</action> <ingredient>water, salt, and sugar</ingredient> until combined. <action>Add</action> <ingredient>yeast</ingredient>, and <action>let rest</action> <time><quant>5</quant> <unit>minutes</unit></time> until yeast starts to foam.</step>
+<step n="2"><action>Add</action> <ingredients>flour and <quant>2</quant> <unit>tablespoons</unit> of oil</ingredients>, and <action>mix thoroughly</action> until a dough forms.</step>
+<step n="3"><action>Remove</action> the <ingredient>dough</ingredient> and use the remaining oil to cover the bowl.</step>
+<step n="4"><action>Cover</action> bowl with plastic wrap, and <action>leave</action> in a warm place for <time><quant>1</quant> <unit>hour</unit></time>.</step>
+<step n="5"><action>Preheat</action> oven to <temperature><quant>450°</quant><unit>F</unit> (<quant>230°</quant><unit>C</unit>)</temperature>.</step>
+<step n="6"><action>Cut</action> dough into 8 pieces and <action>roll them out</action> into thin ropes, twisting the two ends to form a pretzel shape.</step>
+<step n="7"><action>Add</action> baking soda to a large pot of water, and bring to a rolling boil. <action>Boil</action> each pretzel for <time><quant>30</quant> <unit>seconds</unit></time> per side.</step>
+<step n="8"><action>Transfer</action> pretzels to a baking sheet, <action>brush</action> with egg wash, and sprinkle with salt. <action>Bake</action> for <time><quant>10-15</quant> <unit>minutes</unit></time>, until golden brown.</step>
+<step n="9">Enjoy!</step>
+</root>

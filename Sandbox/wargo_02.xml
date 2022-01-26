@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <title>Recipe: 'Oh She Glows' Soul-Soothing African Peanut Stew</title>
+    <socials><heading>Social Sharing</heading> Facebook Pinterest Twitter Reddit LinkedIn</socials>
+    <para num="1">Hearty and warming, this vegan dish is exactly what a cold winter night calls for
+        Although peanut butter is often thought of in conjunction with sweets, this recipe from
+        Angela Liddon’s The Oh She Glows Cookbook makes a strong case for enjoying peanuts in a
+        savoury dish. This hearty stew is nutritious, satisfying and just what a cold winter day
+        needs. Soul-Soothing African Peanut Stew</para>
+    <para num="2">
+        <author> By <name part="first">Angela</name>
+            <name part="last">Liddon</name></author>
+    </para>
+    <para num="3"><adj>Creamy</adj>, <adj>satisfying</adj>, and <adj>lightly spicy</adj>, you’ll
+        soon see why soul-soothing peanut butter and sweet potato are a match made in vegan heaven.
+        If you are a fan of spicy food, I encourage you to add the optional cayenne pepper to give
+        this recipe a bit more kick. </para>
+    <para num="4">
+        <heading>Ingredients</heading>
+        <item num="1">
+            <measure>
+                <quant>1</quant>
+                <unit>tsp</unit>
+            </measure>
+            <ing xml:id="evoo"> extra virgin olive oil</ing>
+        </item>
+        <item num="2">
+            <quant>1</quant>
+            <measure>medium</measure>
+            <ing xml:id="swon"> sweet onion</ing>
+        </item>
+        <item nu="3">
+            <measure>
+                <quant>3</quant>
+                <unit>cloves</unit>
+            </measure>
+            <ing xml:id="grlc"> garlic, minced</ing>
+        </item>
+        <item num="4">1 <ing xml:id="rdblppr"> red bell pepper, diced</ing></item>
+        <item num="5">
+            <quant>1</quant>
+            <ing xml:id="jalp">jalapeño</ing>
+            <alt>seeded, if desired, and diced</alt>
+        </item>
+        <item num="6">1 medium <ing xml:id="swpot">sweet potato</ing>
+            <tip>peeled and chopped into</tip>
+            <measure><quant num=".05">½</quant><unit>inch</unit></measure> pieces</item>
+        <item num="7">
+            <measure>
+                <quant>1 </quant>
+                <unit>can</unit>
+                <alt><quant>28</quant>-<unit>ounce</unit></alt>
+            </measure>
+            <ing xml:id="dtom">diced tomatoes</ing>
+            <tip>with their juices</tip>
+        </item>
+        <item num="8"><ing xml:id="fgss">Fine-grain sea salt</ing> and <ing xml:id="fgbpep">freshly
+                ground black pepper</ing></item>
+        <item num="9">
+            <measure>
+                <quant num="0.33">⅓</quant>
+                <unit>cup</unit>
+            </measure>
+            <ing xml:id="npb">natural peanut butter</ing>
+        </item>
+        <item num="10">
+            <measure>
+                <quant>4</quant>
+                <unit>cups</unit>
+            </measure>
+            <ing xml:id="vegbr">vegetable broth</ing>
+            <tip>plus more as needed</tip>
+        </item>
+        <item num="11">
+            <measure>
+                <quant num="1.05">1½</quant>
+                <unit>tsp</unit>
+            </measure>
+            <ing xml:id="chpow">chili powder</ing>
+        </item>
+        <item num="12">
+            <mesure>
+                <quant num="0.25">¼</quant>
+                <unit>tsp</unit>
+            </mesure>
+            <ing xml:id="cypep">cayenne pepper</ing>
+            <tip>optional</tip>
+        </item>
+        <item num="13">
+            <measure>
+                <quant>1</quant>
+                <unit>can</unit>
+            </measure>
+            <alt>
+                <quant>15</quant>
+                <unit>ounce</unit>
+            </alt>
+            <ing xml:id="chkp">chickpeas</ing>
+            <tip>drained and rinsed</tip>
+        </item>
+        <item num="14">
+            <quant>
+                <quant>2 handfuls</quant>
+            </quant>
+            <ing xml:id="bbysp">baby spinach</ing>
+            <alt>destemmed and torn <ing xml:id="klvs">kale leaves</ing></alt>
+        </item>
+        <item num="15"><ing xml:id="fshcil">Fresh cilantro</ing> or <ing xml:id="pl">parsley
+                leaves</ing><tip>for serving</tip></item>
+        <item num="16"><ing xml:id="rstp">Roasted peanuts</ing> for serving</item>
+    </para>
+    <para num="5">
+        <heading>Preparation</heading>
+        <step num="1">In a large <utensil>saucepan</utensil>,<action>heat</action> the <ing
+                ref="evoo">oil</ing> over <action>medium heat</action>. <action>Add</action> the
+                <ing ref="swon">onion</ing> and <ing ref="grlc">garlic</ing> and
+                <action>sauté</action> for about <time><quant>5</quant>
+                <unit>minutes</unit></time>, or <tip>until the onion is translucent</tip>.</step>
+        <step num="2">Add the <ing ref="rdblppr">bell pepper</ing>, <ing ref="jalp">jalapeño</ing>
+            (if using), <ing ref="swpot">sweet potato</ing><ing ref="dtom">tomatoes</ing><tip>with
+                their juices</tip>
+            <action>Raise the heat</action> to <temp>medium-high</temp> and <action>simmer</action>
+                    for<time><quant>5</quant>
+                <unit>minutes</unit></time> more. <action>Season</action> the <ing
+                ref="stepnum1andstepnum2"
+                ><!-- can i reference a paragraph or step? like this?: <ing ref="step num="1" and "setp num="2""</ing> and can i combine references? -->vegetables</ing>
+            with <ing ref="fgss">salt</ing> and <ing ref="fgbpep">black pepper</ing>. </step>
+        <step num="3">In a <utensil>medium bowl</utensil>, <action>whisk</action> together the <ing
+                ref="npb">peanut butter</ing> and <measure><quant>1</quant>
+                <unit>cup</unit></measure> of the <ing ref="vegbr">vegetable broth</ing>
+            <tip>until no clumps remain</tip>
+            <action>Stir the mixture</action> into the <ing ref="stepnum1andstepnum2"
+                >vegetables</ing> along with the <measure>remaining <quant>3</quant>
+                <unit>cups</unit></measure>
+            <ing ref="vegbr">broth</ing>, <ing xml:id="chp">chili powder,</ing> and the <ig
+                xml:id="cyp">cayenne</ig> (if using)</step>
+        <step num="4"><action>Cover the pan</action> with a <utensil>lid</utensil> and
+                <action>reduce the heat</action> to <temp>medium-low</temp>. <action>Simmer</action>
+            for <time><quant>10- 20</quant>
+                <unit>minutes</unit></time>, or <tip>until the sweet potato is
+            fork-tender</tip></step>
+        <step num="5"><action>Stir in</action> the <ing ref="chkp">chickpeas</ing> and <ing
+                ref="bbysp">spinach</ing> and <action>cook</action> until the <tip><ing ref="bbysp"
+                    >spinach</ing> is wilted</tip>
+            <action>Season</action> with <ing ref="fgss">salt</ing> and <ing ref="fgbpep">black
+                pepper</ing>
+            <measure>to taste</measure></step>
+        <step num="6">
+            <action>Ladle the<ing>stew</ing>into</action><utensil>bowls</utensil> and
+                <action>garnish</action> with <ing ref="fschil">cilantro</ing> and <ing ref="rstp"
+                >roasted peanuts</ing></step>
+    </para>
+    <tip>Have some leftover cooked rice? This soup is fabulous with some stirred in</tip>
+</root>
+<!-- im not sure why i make the xml:id's super complex. that is one thing I would have changed.-->
