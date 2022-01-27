@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- These are patch notes and future updates of a game I play -->
+
+<xml>
+    
+    <header>THIS WEEK AT BUNGIE – <date>1/20/2022</date></header>
+    <subheader><date>Jan 20, 2022</date> - <editor position="community manager">A_dmg04</editor></subheader>
+    <intro>This week at Bungie, we’re sweeping up some blues. 
+    
+   <p> Time’s been flying by, hasn’t it? Including the article you’re reading today, just five TWABs stand between you and The Witch Queen. We don’t (yet) have the technology to enter a hyper-sleep that can bridge these gaps, but we do have the power to set some expectations on topics we’ll be covering between now and then. 
+    </p>
+<p>    This week, we’ll be talking about Power, blue drops, Gunsmith reputation, some shifts in Exotic sources, and more. Over the next few TWABs, we’ll be talking Vanguard rep, Gambit reworks, weapon crafting, and Void 3.0... but not necessarily in that order. Don’t forget the patch note previews and additional weapon tuning details. It’ll be a fun time, and hopefully we’ll give you some things to chew on each week. We may even have a trailer or two to share with you before launch. If you haven’t been on social media in the last week, you might have missed some bite-sized snippets of story... </p>    
+    <p>So, let’s kick things off with Power, and where your Guardian will stand when it’s time to embark on The Witch Queen’s campaign. </p>
+    </intro>
+    
+    
+    
+    
+    
+    <header>THE POWER IS YOURS </header>
+    <information category="leveling"><p><preface>In the realm of Destiny, Power is not only a measurement of your Guardian’s general abilities, but a consistent gauge for players on whether or not they’ll be able to tackle a given challenge. While The Witch Queen won’t feature a big overhaul to the ways in which you gain Power, we do have some general updates coming on launch day to get returning and new players up and ready for a fresh campaign.</preface> </p>
+    
+    <p>First, let’s talk some definitions. Some of you may know these by heart, but we’re always excited to introduce New Lights and returning players to information like this: 
+    <term category="leveling">Floor - The lowest possible Power for a piece of gear; starting point for new characters.</term> 
+    <term category="leveling">Soft cap - The point at which general drops stop being automatic upgrades; Powerful gear drops are now the best way to gain Power.</term> 
+    <term category="leveling">Power cap - The point at which Powerful drops stop being upgrades; Pinnacle gear drops are now the only way to gain Power. </term>
+    <term category="leveling">Hard cap - Max possible Power from Pinnacle drops (ignoring Artifact Power).</term> </p>
+    
+        <p>Starting on <date>February 22</date>, the Power floor will be updated to <quantity>1350</quantity>. Any player who signs in will be at appropriate Power levels to start the Witch Queen campaign, even if they’ve taken a recent break from the game.</p>
+    
+    Through general gameplay, players can reach the soft cap of <quantity>1500</quantity> by earning general gear through activity completions, chests, and more. This includes Rare and Legendary drops. Once reaching the soft cap, players will need to earn Powerful drops from vendor challenges and other objectives in the game. Once reaching the Power cap of <quantity>1550</quantity>, the only upgrades that players will find are from endgame activities that offer Pinnacle rewards. Your final stretch to the hard cap of <quantity>1560</quantity> will be through raids, Trials of Osiris, Iron Banner, and other endgame PvE sources.  
+    
+    There will be some adjustments to Pinnacle and Powerful sources, as these shift yearly to focus on newer Seasonal content and fresh Destiny 2 expansion content offered with The Witch Queen. Keep an eye on tooltips as you start completing activities, as they’ll specifically note the different types of rewards that they offer. We have no doubts that our more eager players will create guides within a week of launch, but we hope that the Power climb is fairly easy to understand once you get your boots on the ground on <date>February 22</date>.</information>
+    
+    
+    
+    
+    
+    <header>DESIGNING AN ECONOMY IS “EASY,” RIGHT? </header>
+    <information category="economy"><p>Short answer: absolutely not. Nothing in game design is easy, especially when tackling the various currencies and exchanges that Destiny 2 offers. This week, we’ll be diving in with <position>Economy Feature Lead</position> <editor>Joshua Kulinski</editor>, speaking to some exciting changes on behalf of the team.</p> 
+    
+    <p><editor position="economy feature lead">Joshua</editor>: Beginning in The Witch Queen, blue (Rare) rewards will stop dropping from playlist activities (Crucible, Strikes, Gambit, etc.) once players have reached the soft cap. Players above the soft cap (<quantity>1500</quantity> Power in The Witch Queen) will instead see a slightly increased chance at receiving Legendary rewards from these activities, or a small amount of <material type ="legendary shards">Legendary Shards</material>. </p>
+    
+    <p>Blue weapons and armors will continue to drop from enemies and chests while playing Destiny 2, but we hope that this will reduce the need for players to manage their inventories and reduce the frequency of visits to the <character>Postmaster</character> when running playlist activities.</p>
+    
+    <p>We have some work ahead of us when it comes to rarity as a subject in Destiny 2. While blue gear helps players increase their Power earlier in the game, we want to look at their place in the overall game. We aren’t expecting any major changes in the next few Seasons, but will be spending some time behind the scenes thinking about the future of Rare drops all up. </p>
+    
+    <header>Gunsmith Reputation </header>    
+    <p><character>Banshee-44</character> is getting a new reputation system that matches the other vendors in the Tower, such as <character>Zavala</character> and <character>Shaxx</character>. This means we are removing some of the items that were previously associated with Gunsmith Reputation, namely Gunsmith Materials and Weapon Telemetries. Players will now earn Reputation Rank progress with <character>Banshee-44</character> when dismantling Legendary and Exotic weapons and armor or by completing daily Gunsmith bounties.</p>
+    
+    <p>Players will want to spend their Gunsmith Materials and Weapon Telemetries at Banshee-44 before February 22, 2022. Any materials that are not spent will be removed from inventory automatically.  </p>
+    
+    <header>Mods and Mod Components</header> 
+    <p>We will also be removing Mod Components from the game. Starting in The Witch Queen, weapon and armor mods sold by <character>Banshee-44</character> and <character>Ada-1</character> respectively will no longer require Mod Components to purchase and will instead cost <quantity>10,000</quantity> <material type="glimmer">Glimmer</material>  each. Furthermore, as part of this update, we are increasing the number of mods available on each vendor at a single time from two to four.  </p>
+    
+    <p>Before we move on, it should be noted that all Ghost Mods that generated Weapon Telemetries will be removed, as they no longer serve a purpose.</p>   
+    
+    These mods are:   
+    Arc Analyzer   
+    Solar Analyzer   
+    Void Analyzer   
+    Omni-Telemetry   
+    Banshee Special 
+    
+    <header><character>Rahool</character>’s Taking Over </header>
+    <p>As we have mentioned in the past, <character>Master Rahool</character> will be inheriting <character>Spider</character>’s material exchange duties in The Witch Queen. Exchange rates should match what you know from <character>Spider</character> (for now), but these services are being shifted to the <location>Tower</location> as the <location>Tangled Shore</location> will soon be off limits to Guardians.</p>
+    
+    <p>In addition, <character>Rahool</character> will also be picking up some of the wares that <character>Banshee-44</character> and <character>Ada-1</character> once offered, specifically the sale of <material type="enhancment prism">Enhancement Prism </material> and <material type="ascendant shard">Ascendant Shard </material>. As noted above, this makes space for more mods to be available for purchase during a given week. <character>Rahool</character> will offer these materials at the same price as <character>Banshee-44</character> and <character>Ada-1</character> once sold them. </p>
+    
+    <material type="enhancment prism">Enhancement Prism </material>
+    <quantity>10</quantity> <material type="enhancment cores">Enhancement Cores</material> 
+    <quantity>25</quantity> <material type="planetary materials">Planetary Materials</material> 
+    <quantity>10,000</quantity> <material type="glimmer">Glimmer</material> 
+    
+    <material type="ascendant shard">Ascendant Shard </material>
+    <quantity>10</quantity> <material type="enhancment prism">Enhancement Prism </material>
+    <quantity>100</quantity> <material type="planetary materials">Planetary Materials</material>
+    <quantity>50,000</quantity> <material type="glimmer">Glimmer</material>
+    
+    <p>As a final note before we move on to some Exotic news, <character>Master Rahool</character> will also be able to decrypt Umbral engrams, so players will not have to hop between <location>the H.E.L.M.</location> and the <location>Tower</location> to decrypt all of the engrams in their inventory. Focusing for individual Seasonal weapons and armor will live on Seasonal Vendors in the H.E.L.M. moving forward, so if you want to focus on a specific weapon from a given Season, you’ll still need to head to <location>the H.E.L.M.</location> for decryption. </p>
+    
+    <header><weapon>Hawkmoon</weapon> and <weapon>Dead Man’s Tale</weapon> </header>
+    <p>As of <date>February 22, 2022</date> the Harbinger and Presage Exotic missions will no longer be accessible. The team still wanted to preserve the ability for players to obtain random rolls of these weapons. Therefore, instead of adding these items to the Monument to Lost Lights, as we have done with most of our previous Exotics that no longer have sources, these two weapons will show up as part of <character>Xur</character>’s inventory each weekend. </p>
+    
+    <p>Every week <character>Xur</character> will offer a unique roll for both <weapon>Hawkmoon</weapon> and <weapon>Dead Man’s Tale</weapon>, and will be purchasable to all players that own Beyond Light for the following materials:</p>
+    
+        <quantity>1</quantity> <material type="ascendant shard">Ascendant Shard </material>
+    <quantity>1</quantity> <material type="exotic cipher">Exotic Cipher</material> 
+        <quantity>125,000</quantity> <material type="glimmer">Glimmer</material>
+    <quantity>200</quantity> <material type="legendary shards">Legendary Shards </material>
+    
+    <header>Wait, before you go... what about those Exotic Catalysts? </header>
+    <p>Oh, that’s something fun! The <weapon>Hawkmoon</weapon>, <weapon>DMT</weapon>, and <weapon>Ager’s Scepter</weapon> catalysts will be moved to the playlist activity (Strikes, Crucible, Gambit) completions. In addition to these three, we have also added the ability for three catalysts that have been absent from Destiny 2 to drop from playlist activities as well.</p>
+    
+    The full list: 
+    
+    <weapon>Hawkmoon </weapon>
+    <weapon>Dead Man's Tale</weapon> 
+    <weapon>Ager's Scepter </weapon>
+    <weapon>Outbreak Perfected </weapon>
+    <weapon>Whisper of the Worm </weapon>
+    <weapon>The Fourth Horseman </weapon>
+    
+    <p><weapon>Outbreak Perfected</weapon> and <weapon>Whisper of the Worm</weapon> have both had the requirements for completing their catalyst updated so that they can be completed without access to their original activities.</p> </information> 
+    
+</xml>
