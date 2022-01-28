@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <ingredients>
+        <heading>Ingredients</heading>
+  
+    <total>Original recipe yields <quant>12</quant> servings</total>
+    <heading>Ingredient Checklist</heading>
+    <ing n="1"><quant num="2">2</quant> <unit>cups</unit> <material>all-purpose flour</material></ing> 
+    <ing n="2"><quant num="3">3</quant> <unit>teaspoons</unit> <material>baking powder</material></ing>
+    <ing n="3"><quant num="0.5">½</quant> <unit>teaspoon</unit> <material>salt</material></ing>
+    <ing n="4"><quant n="0.75">¾</quant> <unit>cup</unit> <material>white sugar</material></ing>
+    <ing n="5"><quant num="1">1</quant> <material>egg</material> </ing>
+    <ing n="6"><quant num="1">1</quant> <unit>cup</unit> <material>milk</material></ing>
+    <ing n="7"><quant num="0.25">¼</quant> <unit>cup</unit> <material>vegetable oil</material></ing>
+    </ingredients>
+       
+    <step n="1"><heading>Step 1</heading>
+    <action>Preheat</action> oven to <quant>400</quant> <unit>degrees F</unit> (<quant>205</quant> <unit>degrees C</unit>).
+    </step>
+    
+    <step n="2"><heading>Step 2</heading>
+    <action>Stir</action> together the <material>flour</material>, <material>baking powder</material>, <material>salt</material> and <material>sugar</material> in a large bowl. 
+    Make a well in the center. In a small bowl or 2 cup measuring cup, beat egg with a fork. Stir in milk and oil. Pour all at once into the well in the flour mixture. Mix quickly and 
+    lightly with a fork until moistened, but do not beat. The batter will be lumpy. Pour the batter into paper lined muffin pan cups.</step>
+    
+    <step n="3"><heading>Step 3</heading>
+    Variations: <type n="1">Blueberry Muffins</type>: Add <quant>1</quant> <unit>cup</unit> <material>fresh blueberries</material>. <type n="2">Raisin Muffins</type>: Add <quant>1</quant> 
+    <unit>cup</unit> finely <material>chopped raisins</material>. <type n="3">Date Muffins</type>:  Add <quant>1</quant> <unit>cup</unit> finely <material>chopped dates</material>. 
+    <type n="4">Cheese Muffins</type>: Fold in <quant>1</quant> <unit>cup</unit> grated sharp <material>yellow cheese</material>. <type n="5">Bacon Muffins</type>: Fold <quant num="0.25">1/4
+    </quant> <unit>cup</unit> crisp cooked <material>bacon</material>, broken into bits.</step>
+    
+    <step n="4"><heading>Step 4</heading>
+    Bake for <quant>25</quant> <unit>minutes</unit>, or until golden.</step>
+</root>
