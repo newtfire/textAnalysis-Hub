@@ -20,7 +20,7 @@
         <date alt="2021/12/14">December 14, 2021</date>
     </end>
     
-    <front>Eligibility</front>
+    <preReq><front>Eligibility</front>
     
     <end>Adventure Rank 40 or above</end>
     
@@ -39,16 +39,16 @@
     <p>Get Story Keys By Doing Daily Commissions</p>
     
     <p>You can obtain Story Keys by doing daily commissions. You can keep a maximum amount of 3
-        keys.</p>
+        keys.</p></preReq>
     
-    <header>Who Is <character>Arataki Itto</character>?</header>
+    <charBio><header>Who Is <character>Arataki Itto</character>?</header>
     
     <subHeader>Oni of <location>Hanamizaka</location></subHeader>
     
     <p type="characterDescription">A new <region>Inazuma</region>
         <visionType>Geo</visionType> character that wields a <weaponType>Claymore</weaponType>
         weapon. He is the first and considered the greatest Head of the Arataki Gang and an intrepid
-        man with Oni blood running through his veins.</p>
+        man with Oni blood running through his veins.</p></charBio>
     
     <header><character>Arataki Itto</character> Story Quest - Walkthrough Chart and
         Location</header>
@@ -60,7 +60,7 @@
         of <region>Inazuma</region>. </p>
     <subheader><character>Arataki Itto</character> Story Quest</subheader>
     
-    <p>Taurus Iracundus Chapter</p>
+    <line>Taurus Iracundus Chapter</line>
     
     <in step="1">Talk to <character>Katheryne</character> in <region>Inazuma</region></in>
     
@@ -124,22 +124,22 @@
     
     <subHeader>Rewards List</subHeader>
     
-    <li>
+    <reward>
         <Exp kind="adventurerExp" amount="700">Exp</Exp>
-    </li>
-    <li>
+    </reward>
+    <reward>
         <item itemType="currency" currency="premium" amount="60" rarity="*****">Primogems</item>
-    </li>
-    <li>
+    </reward>
+    <reward>
         <item itemType="currency" currency="standard" amount="44000" rarity="***">Mora</item>
-    </li>
-    <li>
+    </reward>
+    <reward>
         <item itemType="talentMaterial" tier="II" amount="5" rarity="***">Guide To Elegance</item>
-    </li>
-    <li>
+    </reward>
+    <reward>
         <item itemType="characterExp" amount="5" tier="III" rarity="****">Hero's Wit</item>
-    </li>
-    <li>
+    </reward>
+    <reward>
         <item itemType="weaponExp" amount="10" tier="III" rarity="***">Mystic Enhancement Ore</item>
-    </li>
+    </reward>
 </root>
