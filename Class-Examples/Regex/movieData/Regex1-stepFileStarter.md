@@ -1,6 +1,29 @@
 # Regex Steps for Converting Movie Data From a tab-separated text file to XML
 
-First step, I used the following expression to find:
+First step is ALWAYS to search for characters that will disrupt XML encoding: 
+`&`, `<`, `>`. 
+XML is not allowed to contain raw ampersand characters `&`. 
+So I needed to find:
+
+```
+&
+```
+and replace with the special escape characters for ampersands:
+```
+&amp;
+```
+I searched for `<` and `>` and did not find them. 
+
+
+Moving on, we can begin the "autotagging" find and replace process.
+I wanted to wrap elements around whole lines. 
+
+I used the following expression to find. 
+I made sure that *dot matches all* was NOT set so that
+the dot matches on any character but only inside each line. 
+This expression matches on the beginning of each line, 
+and *one ore more characters on that line*.
+
 ```
 ^.+
 ```
@@ -28,18 +51,7 @@ At the very end of class, I manually set a root element around the entire docume
 
 And I saved the file as movieData.xml.
 And I closed it.
-And I opened my new movieData.xml
-And I saw that it was giving me an error, because I forgot a very important step!
-XML is not allowed to contain raw ampersand characters `&`. 
-So I needed to find:
-
-```
-&
-```
-and replace with the special escape characters for ampersands:
-```
-&amp;
-```
-Once I did that I had a green square in oXygen.
+And I opened my new movieData.xml and saw that I had a green square in oXygen, indicating 
+that the document is well-formed. Yay!
 
 I can continue doing more regex find and replace operations to tag the dates, locations, and time durations inside each of these movie elements. 
