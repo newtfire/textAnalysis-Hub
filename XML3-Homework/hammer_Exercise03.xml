@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>x
+    <meta><title>Autobiography of a Yogi</title> by <author><name part="first">Paramhansa</name>
+            <name part="last">Yogananda</name></author> WITH A PREFACE BY <prefaAuthor><name
+                part="initials">W. Y.</name>
+            <name part="last">Evans-Wentz</name>, <name part="initials">M.A.</name>, <name
+                part="initials">D.Litt.</name>, <name part="initials"
+        >D.Sc.</name></prefaAuthor></meta>
+    <preface>
+        <header>PREFACE</header>
+        <prefaMeta>By <prefaAuthor><name part="initials">W. Y.</name>
+                <name part="last">EVANS-WENTZ</name>, <name part="initials">M.A.</name>, <name
+                    part="initials">D.Litt.</name>, <name part="initials">D.Sc.</name></prefaAuthor>
+            <authWorks>Jesus College, Oxford; Author of The Tibetan Book of the Dead, Tibet's Great
+                Yogi Milarepa, Tibetan Yoga and Secret Doctrines, etc.</authWorks></prefaMeta>
+        <prefaText>
+            <para>The value of <bioOf>Yogananda</bioOf>'s Autobiography is greatly enhanced by the
+                fact that it is one of the few books in English about the wise men of
+                    <locat>India</locat> which has been written, not by a journalist or foreigner,
+                but by one of their own race and training--in short, a book about
+                    <group>yogis</group> by a <group>yogi</group>. As an eyewitness recountal of the
+                extraordinary lives and powers of modern <group>Hindu</group> saints, the book has
+                importance both timely and timeless. To its illustrious author, whom I have had the
+                pleasure of knowing both in <locat>India</locat> and <locat>America</locat>, may
+                every reader render due appreciation and gratitude. His unusual life-document is
+                certainly one of the most revealing of the depths of the Hindu mind and heart, and
+                of the spiritual wealth of <locat>India</locat>, ever to be published in the
+                West.</para>
+            <para>It has been my privilege to have met one of the sages whose life- history is
+                herein narrated-<storyteller>Sri Yukteswar Giri</storyteller>. A likeness of the
+                venerable saint appeared as part of the frontispiece of my <practice>Tibetan
+                    Yoga</practice> and <practice>Secret Doctrines</practice>. 1-1 It was at
+                    <locat>Puri</locat>, in <locat>Orissa</locat>, on the <locat>Bay of
+                    Bengal</locat>, that I encountered <storyteller>Sri Yukteswar</storyteller>. He
+                was then the head of a quiet ashrama near the seashore there, and was chiefly
+                occupied in the spiritual training of a group of youthful disciples. He expressed
+                keen interest in the welfare of the people of the <locat>United States</locat> and
+                of all the <locat>Americas</locat>, and of <locat>England</locat>, too, and
+                questioned me concerning the distant activities, particularly those in
+                    <locat>California</locat>, of his chief disciple, <bioOf>Paramhansa
+                    Yogananda</bioOf>, whom he dearly loved, and whom he had sent, in
+                    <time>1920</time>, as his emissary to the West.</para>
+            <para><locat>Sri Yukteswar</locat> was of gentle mien and voice, of pleasing presence,
+                and worthy of the veneration which his followers spontaneously accorded to him.
+                Every person who knew him, whether of his own community or not, held him in the
+                highest esteem. I vividly recall his tall, straight, ascetic figure, garbed in the
+                saffron- colored garb of one who has renounced worldly quests, as he stood at the
+                entrance of the hermitage to give me welcome. His hair was long and somewhat curly,
+                and his face bearded. His body was muscularly firm, but slender and well-formed, and
+                his step energetic. He had chosen as his place of earthly abode the holy city of
+                Puri, whither multitudes of pious <nationality>Hindus</nationality>, representative
+                of every province of <location>India</location>, come daily on pilgrimage to the
+                famed <locat>Temple of Jagannath</locat>, "Lord of the World." It was at
+                    <locat>Puri</locat> that <storyteller>Sri Yukteswar</storyteller> closed his
+                mortal eyes, in <time>1936</time>, to the scenes of this transitory state of being
+                and passed on, knowing that his incarnation had been carried to a triumphant
+                completion. I am glad, indeed, to be able to record this testimony to the high
+                character and holiness of <storyteller>Sri Yukteswar</storyteller>. Content to
+                remain afar from the multitude, he gave himself unreservedly and in tranquillity to
+                that ideal life which <bioOf>Paramhansa Yogananda</bioOf>, his disciple, has now
+                described for the ages. <prefaAuthor><name part="initials">W. Y.</name>
+                    <name part="last">EVANS-WENTZ</name></prefaAuthor></para>
+        </prefaText>
+        <footer>1-1: <publisher>Oxford University Press</publisher>, <time>1935</time>.</footer>
+    </preface>
+</book>
