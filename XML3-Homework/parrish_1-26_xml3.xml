@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <intro> Learning to knit can seem a bit daunting, so if you're keen to kick start your knitting
+        journey but you're not sure where to begin, you’ve come to the right place! We've got loads
+        of brilliant learn to knit videos that cover everything from beginner tutorials on how to
+        hold the needles and knit your first row, through to more advanced knitting techniques such
+        as how to work those tricky button holes. You'll be knitting up a storm in no time! </intro>
+
+    <extraInfo> Getting started Before you begin your journey of learning how to knit, you’ll need a
+        few essentials to get you started. We'll talk you through the essential first steps to
+        getting started including picking a knitting project, choosing the best needles for the job
+        and selecting your yarn, as well as showcasing some fabulous kits. Then enjoy browsing our
+        gallery of step-by-step tutorials. </extraInfo>
+
+    <mainSteps>
+        <step main="first">1. Pick a pattern</step>
+        <extraInfo> The first step on your knitting odyssey is to pick a pattern! We've got hundreds
+            of knitting projects from a host of designers and much-loved brands for all abilities.
+            Whether you're looking to craft a cosy hat for a buddy, a snuggly baby blanket, or
+            dreamy scarf, we have a beautiful pool of projects to inspire you! </extraInfo>
+        <step main="second">2. Choose the best needles to get started</step> First up, if you’re
+        learning traditional knitting techniques, we would recommend starting with single point
+        needles, which are used in our beginner videos. But there’s a whole menagerie of knitting
+        needles to explore from DPNs to circular in different sizes and materials, from bamboo to
+        plastic. <step main="third">3. Select your yarn</step> Yarn glorious yarn! One of the
+        greatest joys a knitter has on her way to making divine projects is choosing which yummy
+        yarn to work with. With so many yarns to choose from in every shade imaginable, it can
+        easily get a knitting newbie in a tangle. From selecting a suitable fiber to exploring
+        color, we’re here to help! <step main="fourth">4. Cast on</step> Before you start knitting
+        the very first step to knitting is learning how to tie a slip knot and cast on the number of
+        stitches you will be knitting in your row. See our step-by-step guide and video on how to
+        tie a slip knot or follow these simple steps! </mainSteps>
+
+    <slipKnot> How to tie a slip knot and cast on <slipKnotSteps slipKnot="first"> 1 Leaving a nice
+            long tail (which you’ll sew in later), take the yarn and wind it around your fingers. </slipKnotSteps>
+        <slipKnotSteps slipKnot="second"> 2 How to tie a slip knot step 2 Reach through the loop
+            around your fingers and pull your working yarn (attached to the ball) through. </slipKnotSteps>
+        <slipKnotSteps slipKnot="third"> 3 Pull tight your slip knot Remove your fingers, and pull
+            the working yarn tight to produce a slip knot. You’re ready to start casting on! </slipKnotSteps>
+        <slipKnotTip slipKnot="tip"> PRO TIP A slip knot is a special knot on your yarn that means
+            you can adjust the size of your loop. </slipKnotTip>
+        <slipKnotSteps slipKnot="fourth"> 4 Secure slip knot around needle Place your loop around
+            your needle and adjust size to secure if you need to. Hold in your left hand. </slipKnotSteps>
+        <slipKnotSteps slipKnot="fifth"> 5 <knitStep step="first"> How to knit step 1 Insert
+                right-hand needle diagonally underneath and into the stitch. </knitStep>
+        </slipKnotSteps>
+        <slipKnotSteps slipKnot="sixth"> 6 <knitStep step="second"> How to knit step 2 Take the
+                working yarn and wrap around the front of the right needle. </knitStep>
+        </slipKnotSteps>
+        <slipKnotSteps slipKnot="seventh"> 7 <knitStep step="third"> How to knit step 3 Bring the
+                right needle back and place on top of the left needle, bringing the loop of yarn
+                with it. You will have a loop on each needle. </knitStep>
+        </slipKnotSteps>
+        <slipKnotSteps slipKnot="eighth"> 8 <knitStep stitchStep="third"> How to knit stitch step 3
+                Now, transfer the loop on your right needle onto your left needle, so you have 2
+                loops on your left. You’ve cast on your first stitch! </knitStep>
+        </slipKnotSteps>
+        <slipKnotSteps slipKnot="ninth"> 9 Now repeat step 5 - 8 until you’ve cast on the amount of
+            stitches you’d like to knit! </slipKnotSteps>
+    </slipKnot>
+    <mainSteps>
+        <step main="fifth"> 5. Knit a row of stitches</step> Now you’ve cast on you’re ready to knit
+        your first row of stitches. The knit stitch, which is also called garter stitch, is the
+        first basic knitting stitch to master when you begin. We’ll show you how step-by-step. </mainSteps>
+
+    <knitStitchSteps> How to knit stitch <stitchSteps step="first"> 1 Insert your right needle
+            underneath the first stitch on your left needle. </stitchSteps>
+        <stitchSteps step="second"> 2 How to knit step 2 Bring the working yarn around the right
+            needle. </stitchSteps>
+        <stitchSteps step="third"> 3 How to knit step 3 Slide the right needle back bringing the
+            yarn with it, so the right needle sits on top of the left. </stitchSteps>
+        <stitchSteps step="fourth"> 4 How to knit step 4 Slide the stitch off the left hand needle
+            so you now have one knitted stitch on your right. You’ve completed your first knit
+            stitch. Go you! </stitchSteps>
+        <stitchSteps step="fifth"> 5 Knit your first row Repeat your knit stitch until you’ve
+            completed the first row! </stitchSteps>
+        <stitchSteps step="sixth"> 6 Turn your right needle around and transfer it to your left
+            hand. Swap your empty left hand needle into your right hand to begin stitching your
+            second row using steps 1-5. </stitchSteps>
+        <stitchSteps step="seventh"> 7 Repeat the number of rows you’d like to build your fabric.
+        </stitchSteps>
+    </knitStitchSteps>
+
+    <mainSteps>
+        <step main="sixth">6. Bind off</step> Binding off is the final knitting technique you’ll
+        need to complete your first knitting project. While there are lots of ways to bind off,
+        we’re going to show you a simple bind off method to get you started. </mainSteps>
+
+    <bindOffSteps> To ‘bind off’ just means fastening up your live stitches using your needles, so
+        you have a nice neat and secure edge. Once you’ve got this finishing technique in the bag
+        you're ready to start your first project! <header>How to make a simple bind off</header>
+        <bindOff step="first"> 1 How to cast off step 1 Knit your first stitch, as if you were
+            beginning a new row. </bindOff>
+        <bindOff step="second"> 2 How to cast off step 2 Knit the second stitch so you have two
+            stitches on your right needle. </bindOff>
+        <bindOff step="third"> 3 How to cast off step 3 Use the tip of your left needle to insert
+            underneath and into the first stitch on your right needle. </bindOff>
+        <bindOff step="fourth"> 4 How to cast off step 4 Use the left needle to lift the first
+            stitch and pull it over the second, and that’s it! You’ve completed your first bind off
+            stitch. </bindOff>
+        <bindOff step="fifth"> 5 How to cast off step 5 Repeat this bind off method all the way to
+            the end of your row. Once you’ve reached the end use your scissors to snip the working
+            yarn leaving a tail. Pull the tail through the final loop and tighten to secure a knot. </bindOff>
+        <bindOff step="sixth"> 6 Now you’ve finished binding off, sew in your ends to complete!
+        </bindOff>
+    </bindOffSteps>
+
+    <extraInfo> Knitting videos for beginners Get started with the knitting basics! If you've never
+        picked up a pair of needles before, the thought of learning to knit can seem pretty
+        overwhelming. Our beginners' knitting videos are packed full of helpful tutorials and tips
+        on everything from knitting your first row to experimenting with super simple stitches - and
+        once you've learned to knit, there's even a step-by-step project to practice your new skills
+        at the end! </extraInfo>
+</root>
