@@ -1,6 +1,7 @@
 # GitHub Test 2
 
-This directory is here to hold your files for Part 2 of the GitHub Test. To proceed:
+This directory is here, in the textAnalysis-Hub/GitHub-Test-2, to hold your files for Part 2 of the GitHub Test. 
+To proceed with completing this portion of the test:
 
 1. Check what branch you are in on your local computer's clone of this textAnalysis-Hub.
 1. Make your way to the main branch (if you are not already there) using the appropriate git commands. 
