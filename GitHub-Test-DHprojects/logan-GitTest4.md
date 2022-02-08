@@ -1,0 +1,6 @@
+# Blues Website
+
+Logan Hering
+
+For this assignment I chose to look at the Blues Analysis project. With the project the team was researching different blues artists, their songs, common lyrics among songs, the time period of different blues songs, and how all these things connect and interact with each other. They used a website archive with a lot of blues lyrics. However the website was outdated looking and in need of an update which the project team did really well. Using colors and themes that remained faithful to the old website they built a new modern website that truly looks amazing. Everything is very neat and clean with text, tables, and graphs making it easy and enjoyable for the readers to understand more about the blues and the culture around it. However despite the teams great work it is stated they ran into some issues with "link rotting" and weren't able to get all the information from the websites. The website is overall very cool and it would be interesting to see ,or make, websites like this one for other types of musical genres.  Every type of music seems to have its own culture and history and I think it could be enjoyable to create something similar to this website for another musical genre.
+
