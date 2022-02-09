@@ -59,7 +59,8 @@ WHAT SHALL WE DO ABOUT "dot matches all"?
 NOTICE how our `<speaker>` element could include a stage direction (which could be okay, if this is our strategy for modeling the document. 
 If it isn't okay, can we deal with it using regex (perhaps an extra step or two)?
 
-Potentially useful regular expressions (incomplete hints)
-Find: `<sp>[^<]+?:`
-Find: `<sp>[^:]+?(?=<st)`
+Potentially useful regular expressions to find **(incomplete hints)**
+* Find: `<sp>[^<]+?:`
+
+* Find: `<sp>[^:]+?(?=<st)`
 
