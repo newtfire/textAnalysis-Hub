@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Below this is the SCHEMA ASSOCIATION line. In oXygen, use Document >> Schema >> Associate Schema, and use the File folder to 
+select the schema file to associate, and oXygen will generate this line for you. When it is generated,
+you may then need to correct your schema to properly validate your file. -->
+<?xml-model href="ozyTester.rnc" type="application/relax-ng-compact-syntax"?>
+<Ozymandias>
+    <layer agent="I">
+        <line n="1">I met a traveller from an antique land,</line>
+        <line n="2">Who said—<layer agent="traveller" pos="start"/>“Two vast and trunkless legs of stone </line>
+        <line n="3">Stand in the desert. <ellipsis rend=". . ."/> Near them, on the sand,</line>
+        <line n="4">Half sunk a shattered visage lies, whose frown,</line>
+        <line n="5">And wrinkled lip, and sneer of cold command,</line>
+        <line n="6">Tell that its <layer agent="sculptor" pos="start"/>sculptor well those passions
+            read</line>
+        <line n="7">Which yet survive, stamped on these lifeless things,</line>
+        <line n="8">The hand that mocked them, and the heart that fed;</line>
+        <line n="9">And on the pedestal, these words appear:<layer agent="sculptor" pos="end"/></line>
+        <line n="10">My name is Ozymandias, King of Kings;</line>
+        <line n="11">Look on my Works, ye Mighty, and despair!</line>
+        <line n="12">Nothing beside remains. Round the decay</line>
+        <line n="13">Of that colossal Wreck, boundless and bare</line>
+        <line n="14">The lone and level sands stretch far away.”<layer agent="traveller" pos="end"/></line>
+    </layer>
+</Ozymandias>
+<!--Our problem with XML is the Ordered Hierarchy of Content Objects: OHCO.  
+   We always in real life have to deal with Overlap issues. 
+-->
