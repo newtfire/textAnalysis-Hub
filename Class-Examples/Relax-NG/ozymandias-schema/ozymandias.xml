@@ -22,6 +22,4 @@ you may then need to correct your schema to properly validate your file. -->
         <line n="14">The lone and level sands stretch far away.”<layer agent="traveller" pos="end"/></line>
     </layer>
 </Ozymandias>
-<!--Our problem with XML is the Ordered Hierarchy of Content Objects: OHCO.  
-   We always in real life have to deal with Overlap issues. 
--->
+

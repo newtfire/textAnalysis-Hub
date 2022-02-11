@@ -7,6 +7,5 @@ n = attribute n {xsd:integer}
 ellipsis = element ellipsis {rend, empty}
 rend = attribute rend {text}
 pos = attribute pos {"start" | "end"}
-# Relax NG comment: We wrote this Relax NG file in class on 2021-09-15
-# to validate the ozymandias.xml file that has <line> elements.
+
 
