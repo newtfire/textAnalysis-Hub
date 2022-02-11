@@ -3,9 +3,4 @@ root = element root {title, chapter+}
 title = element title {text}
 chapter = element chapter {n, heading, p+}
 p = element p {n, mixed{ (date | time | q)*}} 
-n = attribute n {xsd:integer}
-heading = element heading {text}
-date = element date {text}
-time = element time {text}
-q = element q {wordCount, mixed{ (date | time)*}}
-wordCount = attribute wordCount {xsd:integer}
+
