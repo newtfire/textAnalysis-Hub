@@ -1,0 +1,728 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	
+	<title>The Third Soldier</title>
+
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+
+<body>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	
+	<title>The Third Soldier</title>
+
+</head>
+
+<body>
+
+<h1>The Third Soldier</h1><pre>CAST:
+GRACCUS, an old soldier of the Legion
+ANTONIUS, his friend
+LUSTRA, GRACCUS' wife
+MARIUS, GRACCUS' son
+TERTIUS, a gladiator
+DROMIDUS, another gladiator
+THE EMPEROR
+GUARD
+CROWD
+______________________________________
+
+FIRST SCENE 
+
+[NARRATOR] Our story tonight is laid in Rome, the dissolute, corrupt Rome of 
+the first century--a Rome where men believed neither in their gods nor in 
+themselves; a time when there was no faith, no reverence, no pride. A Rome 
+grown fat and slothful; mistress of the world--and yet no longer mistress of 
+her own soul. But even in this time of corruption there were a few families 
+which held to the sterner, cleaner, braver old tradition of simplicity and 
+self-restraint; and it is in such a home that our story opens.
+
+It is not a home of wealth, for the head of the house is one GRACCUS, a 
+broken-down former soldier of the Legion, piecing out a living by what work he 
+can find. Now, one night GRACCUS, a man in late middle life, sat by his 
+hearth, staring at the dancing flame with half-closed eyes, when he heard a 
+footstep behind him and a voice--
+ 
+ANTONIUS [entering, a man of GRACCUS' age]: Well, my good friend Graccus--
+
+GRACCUS [greeting him]: Antonius! old comrade, I didn't hear you come in.
+
+ANTONIUS: It's a wonder, for my poor old joints creaked so coming up the 
+stairs, I'd think they'd have warned you! 
+
+GRACCUS: Sit down, Antonius--sit down, old comrade. It's a week since I've 
+seen you.
+  
+ANTONIUS [sitting down]: Graccus, it's getting to be an awful long walk over 
+here to your house for an old fellow like me.
+
+GRACCUS: We're neither of us so young, Antonius--like we were thirty years ago 
+when we followed the Legions of Caesar to Gaul, to Tarshish, to Egypt, to 
+Judea--
+  
+ANTONIUS: Don't mention Judea to me! We were only there a year, Graccus, but 
+it seemed like a lifetime. There was a dead place for you! By Jupiter, every 
+time I think of it I can feel the heat, see the dust--agg!
+
+GRACCUS: It was a dead place.
+   
+ANTONIUS: Aaagh! It's good to sit down. Where's the wife?
+
+GRACCUS: Oh, she's down the street. She bought a fish this morning, and she 
+thinks the pedlar cheated her, so she's gone to find him.
+   
+ANTONIUS: Graccus, if she's caught the pedlar now, I pity him.
+
+GRACCUS: So do I.
+   
+ANTONIUS: Where's your boy? I don't seem to see him round home any more.
+   
+GRACCUS: No. Home's not good enough for him any longer. He's got to be running 
+round with those friends of his o' nights.
+ 
+ANTONIUS: Can't you speak to him? 
+
+GRACCUS: I speak to him, but a lot of good it does!
+
+ANTONIUS: Well, after all, Graccus, you can't hold a young fellow down too 
+much. When I was his age I'd marched the length of Gaul with the Legion--I'd 
+killed my first man--at his age.
+ 
+GRACCUS [quietly]: And so had I.
+   
+ANTONIUS: He's a great husky lad, Graccus--it's a pity he don't want to serve 
+in the Legion. Our old Legion. What's he say when you mention it? 
+
+GRACCUS: He says too much work and not enough pay--and he wants to stay in 
+Rome where he can go the pace!
+ 
+ANTONIUS: Graccus, I don't know what the young people are coming to.
+ 
+GRACCUS: I don't know what Rome is coming to, Antonius.
+ 
+ANTONIUS: There you said something, Graccus. 
+
+WIFE [calling, off]: Graccus--Graccus! 
+
+GRACCUS: Ah--that sounds like my wife. 
+
+ANTONIUS [rising]: Perhaps I'd better be going, Graccus?
+ 
+GRACCUS: No. Don't go, Antonius. 
+
+WIFE [off]: Graccus--Graccus! 
+
+GRACCUS: Yes, dear?
+ 
+WIFE [off]: Can't you let me in when my arms are full of bundles?
+ 
+GRACCUS: Yes, dear. Right away. [Opens door for her.] 
+
+WIFE [coming in]: Well! It took you long enough to open the door, Graccus. 
+[Very cool.] Good evening, Antonius. You're quite a stranger.
+
+ANTONIUS: Yes. How are you, Lustra?
+
+WIFE: Just all tired out! I suppose Graccus has told you that he hasn't 
+brought in a penny for a week!
+
+ANTONIUS: No, he--
+
+WIFE: And a man cheated me in the market this morning--and I couldn't find him 
+just now. 
+
+GRACCUS: Well, well, dear. Too bad--for you. 
+
+WIFE: And everything has gone wrong all day--and of course I'm the only one in 
+this house who worries about anything. As for Graccus, Antonius, everything 
+could go to the dogs--and he'd never give it a thought. Would you, Graccus?
+
+GRACCUS: Well, Lustra, I--
+
+WIFE: No, you would not.
+  
+GRACCUS: Well, dear, that seems to settle it.
+
+WIFE: Graccus, do you need such a big fire when we have almost no wood left?
+
+GRACCUS: Well, I thought anything that would make it a little more cheerful 
+round here--
+ 
+WIFE: Just burning things up--so wasteful!
+
+GRACCUS: Sit down, dear.
+   
+WIFE: I'm sorry, but I have too much to do to sit here and gossip round the 
+fire. I have work to do! [She goes out.] 
+
+GRACCUS: There was a parting shot. 
+
+ANTONIUS: Graccus, she didn't seem to be overcome with joy at seeing me here.
+   
+GRACCUS: That's just her way, Antonius. You have to get used to it.
+   
+ANTONIUS: I'm afraid it would take me quite while. [Low mutters from outside, 
+growing. Growling mob noises.] What's that racket outside? 
+
+GRACCUS [going to window]: Sounds like a mob. 
+
+ANTONIUS: Can you see anything, Graccus? 
+
+GRACCUS: Yes. There's a crowd of people over yonder.
+
+ANTONIUS: They're making enough noise--and so many of them. I wonder what it 
+can be? 
+
+GRACCUS: They're driving a man before them. 
+
+ANTONIUS: Poor devil! I wonder what he's done?
+
+GRACCUS: Look over there at the street corner, Antonius--they're flogging 
+him--now driving him ahead of them!
+
+ANTONIUS [at window]: But he's taking it, Graccus. He's not wincing! 
+
+GRACCUS: By the gods! I'd like to go out there and tell that riff-raff that 
+Romans don't--
+
+ANTONIUS: Oh, what's the use of interfering. They wouldn't listen to you. 
+They'd laugh at you--they'd beat you maybe.
+
+GRACCUS: Look, Antonius--you can see the man clearly, now. He's down--
+
+ANTONIUS: Graccus, he felt that lash--you heard him cry? But he's risen. He's 
+going on.
+
+GRACCUS: I wonder who he is, Antonius, and why they persecute him?
+
+ANTONIUS: Oh, to make sport, old comrade--that's the modern Roman way.
+
+GRACCUS: By the gods, Antonius, it was not our way! When we drew the sword it 
+was against an enemy worthy of our steel! 
+
+[Mob noises die out.] 
+
+ANTONIUS: Well, Graccus, there's some sport for the mob. 
+
+GRACCUS: I wonder who he is, and what he's done? 
+
+ANTONIUS: I suppose nothing very much--a runaway slave, maybe, Graccus, or 
+some poor devil who dared to stand up and say what he believed.
+
+GRACCUS [going to his chair]: Antonius, I've seen enough cruelty in my time.  
+I've seen all I want to. And I've not been blameless; but, somehow, as I grow 
+older, I weary of it; of its uselessness--of its viciousness.
+ 
+ANTONIUS: We've both seen enough cruelty, old comrade. The Empire was not 
+spread to the ends of the earth--by love.
+
+GRACCUS: Antonius--do you remember the winter we were quartered in Judea?
+
+ANTONIUS: I remember the dust and dirt of it!
+
+GRACCUS: I wonder if you also remember something else?
+ 
+ANTONIUS: What?
+
+GRACCUS: Well, it's a little thing. I suppose very few people do remember it, 
+but somehow it's stuck in my mind, and it keeps growing--all the time, 
+Antonius.
+   
+ANTONIUS: You've got me curious, Graccus. What was it?
+
+GRACCUS: Well, we were stationed, as I said--in Judea, near a town--what was 
+it? I can't remember--but that doesn't matter. 
+
+ANTONIUS: Go on.
+
+GRACCUS: And there was a row among the Jews over some man--I can't remember 
+all the details--but the Jews brought Him before the Roman Governor--
+
+ANTONIUS: Old Pontius Pilate himself, eh? What happened when He came before 
+old Pilate? 
+
+GRACCUS: The Jews said this Man claimed to be God--there was a lot of talk, 
+and finally Pilate turned the Man over to them to do as they pleased with. 
+
+ANTONIUS: He would--to save himself trouble. What happened then?
+
+GRACCUS: Don't you remember, Antonius? Don't you remember how our squad from 
+the seventh company went up on the hill over the city, with the Jews storming 
+all round us--up to the hill they called the place of skulls? And saw that Man 
+crucified? 
+
+ANTONIUS: Hmmm--I--I don't seem to remember. You say I was there?
+   
+GRACCUS: Why, you drove your lance into His side--to put Him out of His agony.
+   
+ANTONIUS: I've done that to so many poor creatures, Graccus. I'm not a man for 
+torture. 
+
+GRACCUS: I wasn't so merciful. I gave Him gall when He cried out in His 
+thirst.
+  
+ANTONIUS: I can't recall any of it. I've been through so much of that sort of 
+thing. But why--why do you bring it up?
+  
+GRACCUS: I can't forget it. It's been growing on me. I can remember that Man's 
+face as though it were yesterday--I can see Him there before me--now. And I 
+remember how as the moment of His death closed in on Him there was a look on 
+His face of triumph, of great triumph--but mostly of forgiveness. And I 
+suddenly felt humble, and ashamed of myself--and sorry for the cruelty I'd 
+stood and watched. And as the evening came I sneaked away from all of you--and 
+went down to my room--and tried to sleep--but I couldn't. And that face--that 
+face--has been coming back every night--every night, I tell you! It's 
+beginning to--do something to me--If He <u>was</u> a God.
+ 
+ANTONIUS: Oh, brace up! An obsession, my dear boy--an obsession! Forget it!  
+Poof--Pilate's dead--Judea's at the other end of the sea--a million men have 
+died in Judea--since then. What's one man dead on a cross--thirty years ago. 
+
+[He laughs and goes out.]
+
+GRACCUS [to himself]: I can't forget it. I cannot forget.
+ 
+WIFE [entering, worried]: Graccus. 
+
+GRACCUS: Yes, my dear? 
+
+WIFE: It's getting late--very late. Why hasn't our son come home?
+
+GRACCUS: You mustn't worry about him. 
+
+WIFE: I can't help it.
+    
+GRACCUS: He'll come when he gets ready to. 
+
+WIFE: But he should be here! Oh, Graccus, you must go out--
+
+GRACCUS: You know I have no influence over him, Lustra. 
+
+[There comes the distant sound of a musical instrument, a stringed instrument, 
+played in a ribald and slightly tipsy manner--or at least the music should 
+suggest this mood.] 
+
+WIFE: Listen, Graccus--
+
+GRACCUS: Hmmm?
+
+WIFE: Can't you hear the music from the street?
+
+[The music is nearer, and now there are joined to it laughter, and ribald 
+shouts that grow louder.]
+
+GRACCUS: More drunken revellers! The street's full of them o' nights. That's 
+the new Roman way.
+
+[The noises are very near now.] 
+
+WIFE [at window]: Graccus, they've stopped outside of our house. Open the door 
+and tell them to be gone! 
+
+GRACCUS: I will! [Calling.] Ho--you good-for-nothings! Get away from my house 
+with your drunken singing.
+
+CROWD [Outside]: Ho! Ha! Ha! Ha! 
+
+GRACCUS [calling through window]: Get along, now! Or I'll--I'll call the 
+guard!
+
+CROWD [outside]: Ha! He'll call the guard! Listen to him! The noblest Roman of 
+them all! 
+
+GRACCUS: If I were ten years younger, I'd show you young bloods that--
+
+MARIUS [entering]: Oh, keep quiet, Father. 
+
+GRACCUS: Marius, my son! 
+
+MARIUS [a lad of eighteen, a handsome, reckless sort of boy, treats his father 
+with condescension]: Close the door, and don't make such a fool of yourself.
+
+GRACCUS: Marius, is--is this rabble the best you can do for company?
+
+MARIUS: Never mind insulting my friends! [Calls through door.] Don't listen to 
+my father--comrades--he doesn't mean anything by it.
+ 
+CROWD [outside]: That's all right, Marius! We know he's a good old scout! 
+
+MARIUS [through door to friends]: And now, boys, thanks for coming here to the 
+house with me--I'll do my best tomorrow--I'll try to make a good showing. 
+Good-night to you all.
+
+CROWD [outside]: Good-night, Marius! We'll all be there to see you! Good-night 
+to you! etc. [Fades off with music and song.] 
+
+MARIUS [closing door]: Well, father! The next time my friends come here, be 
+careful what you say!
+
+WIFE: Marius! 
+
+MARIUS: Well, what is it? Mother--
+
+WIFE: What are you going to do tomorrow that they all cheered?
+
+MARIUS: Oh--nothing much.
+
+GRACCUS: What is it you want to make a good showing at, son?
+ 
+MARIUS: I've joined the corps of gladiators, and tomorrow I have my first 
+bout! 
+
+WIFE: Oh! You can't--you can't--
+
+MARIUS: Now, Mother, don't make a fuss--
+
+WIFE: But you may be injured--killed, Marius! 
+
+MARIUS: Well, that's part of the game; but don't worry about danger tomorrow--
+'cause there isn't any!
+
+GRACCUS: No danger, son, in a contest of gladiators?
+
+MARIUS: Ha! It won't be much of a contest. 
+
+GRACCUS: But I don't understand, son--
+
+MARIUS: They have rounded up a number of foreigners, enemies to the Emperor 
+and to the gods--and those are the fellows we are going in against; it won't 
+be a fight, it will be an execution--a slaughter!
+
+GRACCUS: Oh, one of those things--where a lot of poor, untrained, badly-armed, 
+half-starved wretches go out against well-trained professional fighters. Well, 
+son--I wonder if you can be very proud of your first fight?
+
+MARIUS: Well, Father, I'm doing what I'm told to do.
+
+GRACCUS: No son of mine is going to take part in that cowardly business! 
+
+MARIUS: I am going to fight tomorrow. 
+
+GRACCUS: Fight, you call that fight? You call that the way a Roman fights?  
+Marius, I'd rather see you in poverty than in the ranks of the gladiators--but 
+I'd rather see you dead than in such a massacre as they put on tomorrow! 
+
+WIFE: Graccus, that's a wicked thing to say, that you'd rather see him dead!  
+It will bring bad luck on us and on our son!
+
+MARIUS: Oh, let him talk, Mother. 
+
+GRACCUS: Marius, who are these poor creatures that are to be slaughtered?
+
+MARIUS: I told you they were foreigners and enemies of the gods! 
+
+GRACCUS: Oh. Was it one of them your rabble was driving through the streets 
+early tonight? 
+
+MARIUS: Yes, and we've put the fear of death in them, all right! They're 
+hiding like rabbits--except a few fools who stand up and defy us, and who say 
+they want to die for their God--ha! ha! 
+
+GRACCUS: So these people have a God they are willing to die for, eh, son?  
+That is more than Rome can boast--for in Rome the gods are dead. What sort of 
+a God may He be?
+
+MARIUS: Oh, they worship some Man who was killed years ago in Judea--
+
+GRACCUS: In Judea?
+  
+MARIUS: Yes, in Judea! Wherever that is. Say, you were there once, weren't 
+you? Huh? 
+
+GRACCUS: Yes, son. I was in Judea.
+ 
+MARIUS: Father! What are you looking at me that way for?
+ 
+WIFE: Graccus, what's the matter with you?
+ 
+GRACCUS: I--I just had a strange feeling--I can't explain it. I--I thought I 
+saw something--over on that wall.
+ 
+MARIUS: Why, your face is white--and you're trembling.
+ 
+GRACCUS: Son, I wish you wouldn't go into that slaughter tomorrow! I beg you 
+not to! I--I beg you! There's enough cruelty in the world--and suffering--
+without your adding more. 
+
+MARIUS: Oh, you talk like a Greek philosopher in the market-place!
+ 
+GRACCUS: I beg you not to go tomorrow! 
+
+MARIUS: I am going.
+  
+GRACCUS: No. I forbid you, Marius! 
+
+MARIUS: You forbid me! Ha! You--ha! ha! ha! 
+
+GRACCUS: If you go to the arena, I will go, too. 
+
+MARIUS: You'd better not come down to that arena and try to make trouble! I 
+warn you. My friends won't be in any mood to listen to your sort of talk! 
+
+GRACCUS: But I shall come!
+
+MARIUS: Father, I warn you not to!
+
+GRACCUS: I shall come!
+______________________________________
+
+SECOND SCENE 
+
+[NARRATOR] In spite of his father's threat, MARIUS reported the next day at 
+the arena. The great stadium was filling rapidly; and as MARIUS and his 
+fellow-gladiators stood in their room waiting for the bugle to summon them to 
+the arena, they heard the cries and mutters of the crowd above them.
+ 
+MARIUS: Listen to that crowd, Tertius! It's like a lot of wild animals 
+snarling, eh?
+
+TERTIUS [a gladiator]: Oh, don't let the crowd get on your nerves, Marius, 
+boy! They always yell like that.
+
+MARIUS: It's my first time, Tertius; I suppose I'm all keyed up.
+   
+TERTIUS: Oh, take it easy. You're all ready to go in--sit down and make 
+yourself comfortable, like me, till we're called out.
+   
+MARIUS: I wish it was ready to start! I hate this waiting! 
+
+TERTIUS: Oh, take it easy, kid--take it easy; don't tighten up, or when you 
+get out there you're liable to get something you're not looking for, ain't 
+that right, Dromidus?
+
+DROMIDUS [another gladiator]: I'll say it's right. Why, they got a couple of 
+big boys down there in the prison cage that don't look like no cinch to me. 
+
+TERTIUS: Say, Dromidus, you think a couple of 'em 'a get some fight in 'em?
+   
+DROMIDUS: I tell you they got a couple of bad-looking boys down there. It 
+wouldn't surprise me if somebody in this room come back feet first.
+
+[Laughter.] 
+
+TERTIUS: Aw, don't try to get this kid nervous. 
+
+MARIUS: I'm not nervous, but I wish it would begin!
+   
+DROMIDUS: He's not nervous, boy! The kid's not nervous.
+
+[Laughter.] 
+
+TERTIUS: Oh, let the boy alone! You fellows all had a first time; now give 
+this boy an even break--
+  
+MARIUS: Tertius, if it would only begin! 
+
+TERTIUS: Boy, it won't get going till the Emperor comes. Then we all march out 
+in double file and make the salute. Be sure to keep your head up! Then when 
+the Emperor takes the salute we'll turn and make a line across the arena. You 
+keep next to me, understand?
+ 
+MARIUS: Yes. 
+
+TERTIUS: Then they let the prisoners out. They line 'em up--one against each 
+man of us. Then, when the horn blows, go after your man. You've got the 
+advantage, cause he's scared. Don't give him no chance to get set. Keep after 
+him. And remember this, always try to get him against the wall where you can 
+handle him. Don't try no fancy stuff the first time. Go in and finish him 
+quick! See? Remember, if you don't get him, he'll get you: That's the one 
+thing you never must forget.
+
+MARIUS: I'll remember, Tertius.
+
+[Knocking.] 
+
+TERTIUS: Who's there?
+
+GRACCUS [outside]: Is this the room of the gladiators?
+ 
+TERTIUS: Right! What do you want?
+
+GRACCUS [outside]: I want to see Marius Andonicus. 
+
+TERTIUS: Well, he's here. Come in, if you want to see him.
+ 
+GRACCUS [entering]: Well, Marius, my son, I see you are all ready to fight? 
+
+MARIUS: I am, Father; all ready.
+    
+GRACCUS: Well, Gladiators of Rome! This is a brave business you have here.
+
+TERTIUS [innocent]: Yes? Sure!
+
+GRACCUS: Yes! Very brave. All of you armed, armoured, trained--and your 
+adversaries--given a sword most of them don't know how to use and told to go 
+out and die.
+ 
+MARIUS: Father, don't come here and--
+
+GRACCUS: I told you I would come here! 
+
+TERTIUS: Say, look here, old fellow--what's the idea making all this 
+disturbance? Go outside if you want to make a noise. We don't want you.
+
+GRACCUS: Marius, my son, I appeal to you for the last time to leave this room.
+
+TERTIUS: Let the boy alone! Who are you, to come here and tell him what to do?
+
+GRACCUS: I'm his father, but I suppose that doesn't matter--in the new Rome!  
+I'm an old soldier of the Legion--the old Fighting Ninth--that marched 
+barefoot through the snows of Appena and stormed the heights of Martinus when 
+the Gauls outnumbered us eight to one! But I suppose that doesn't matter--in 
+the new Rome! No, that's all forgotten--old stuff, now. This business of yours 
+is more important than carrying the eagles to the far corners of the world! Go 
+on, Marius, my son--go out there and fight--in the new Roman way! Go out there 
+and satisfy the blood lust of that pack of jackals out yonder! But when you're 
+out there; when you draw your sword, remember that your father drew his sword 
+against foes that did not dishonour him--that your father served an Emperor--
+and an Empire--not a Vulture feasting on carrion and ruling a land of jackals! 
+
+GLADIATORS: Treason! Treason!
+
+MARIUS: Father, beware what you say! 
+
+GRACCUS: I'll say my mind! What Empire have you men to serve? Rome is dead, I 
+tell you. Dead. And your Emperor--this Caesar of yours! What's he? Look at him 
+when you go out there to slaughter for his amusement. See if he looks like a 
+Caesar with his drooling lips and fat face and--
+
+GLADIATORS: Treason! 
+
+[They start to lay hands on GRACCUS. A trumpet is heard, just outside, and a 
+command.]
+  
+TERTIUS: The Emperor! Attention!  
+
+[The gladiators come to attention. The EMPEROR enters--soft, fat and cruel, 
+like Rome.]
+
+EMPEROR [to GRACCUS]: And what were you saying about Caesar, fellow?
+
+GRACCUS: Since you overheard me, sire, I have nothing to add.
+ 
+EMPEROR: No. Continue. Your remarks were very novel. Entertaining. I'm more 
+accustomed to flattery. Ah--what did you say about a vulture feasting on 
+carrion? Were those not the words? 
+
+GRACCUS: I have no defense.
+ 
+EMPEROR: Well, well. You're a valiant fellow. I think you should have a chance 
+to show your valour this afternoon.
+ 
+GRACCUS: Sire?
+
+EMPEROR: As I stood outside the door--quite fascinated by your flow of 
+language, I heard something about how you marched against the Gauls when they 
+outnumbered you eight to one. 
+
+GRACCUS: I did, sire.
+
+EMPEROR: And very laudable, indeed. And to reward you for your valiant little 
+comment on Rome, and my Imperial Self, I shall give you a chance to do a 
+little fighting in the arena--
+
+GRACCUS: I am a soldier, sire; not a gladiator. 
+
+EMPEROR: Who spoke of you being a gladiator? I think I shall give you the 
+opportunity of joining our friends in the prison cage--
+
+MARIUS: Sire, I beseech you! My father is an old man--he's mad--he does not 
+know what he says.
+
+EMPEROR: Young man, even a madman should be more tactful; and I understand 
+that nothing is more soothing and quieting to an overwrought man like your 
+father than six inches of steel through the breastbone. Guards! Take this man 
+in the prison cage. 
+
+GUARD [to GRACCUS]: Prisoner--fall in! [GRACCUS falls in between them.] 
+Forward--march! [GRACCUS is marched out.]
+
+MARIUS: Sire, you can't mean it! You don't mean it! My father--
+
+EMPEROR: Caesar has spoken. Bid the crowd make way!
+ 
+VOICES: Make way for Caesar--Stand aside!
+ 
+[EMPEROR goes.] 
+
+MARIUS: Tertius: my father--you heard what he said--He's an old soldier of the 
+Legion. He bled to make Rome great--and no matter what he said, Rome can't--
+Caesar can't send him out to die-- 
+
+TERTIUS: Brace up, lad. It's out of our hands now. Come, buckle on your sword.
+   
+MARIUS: Never. I'm not going out. I can't, Tertius. He's my father--and an  
+old soldier of the Legion, and I'll never draw my sword against him. [He 
+breaks his sword.]
+______________________________________
+
+THIRD SCENE 
+
+[NARRATOR] From the room of the gladiators the guard took GRACCUS down the 
+long stone corridors to the prison-pen. The door was opened, clanged to, and 
+the old soldier found himself within. In the corner a dozen men kneeled 
+quietly, as though no danger threatened, their faces bright with the courage 
+of spiritual exaltation. In their midst stood a cross rudely fashioned from 
+two sticks. Forgetting his own danger, GRACCUS watched the little group round 
+the cross--fascinated. And as he watched them, they began to sing, quietly. 
+[Song.] Then from the stone corridors outside the pen, GRACCUS heard 
+footsteps, and turned to see through the bars, the face of his son, MARIUS--
+ 
+MARIUS [outside the bars]: Father! 
+
+GRACCUS: My son.
+ 
+MARIUS: I had to come! I had to tell you I'm not going out there into that 
+arena! I'm never going out there!
+  
+GRACCUS: Then I am content. Marius, lad--give me your hand through these 
+bars--
+
+MARIUS [sob]: Father--
+
+GRACCUS: Don't, lad. Death must be met. I shall not falter--nor must you.
+ 
+MARIUS: But I can't see you die this way! It's horrible! They're killing you 
+for a few rash words--you, who have served the Empire--
+
+GRACCUS: Not <u>this</u> Empire--
+
+MARIUS: Oh, Father, there may yet be a chance to save yourself. Recant your  
+words! Let me try to reach the Emperor and tell him that you recant--
+ 
+GRACCUS: Recant the truth? Never. I am too old for that.
+ 
+MARIUS: But it means death, Father--Even now I hear the tramp of the guards 
+who come here--
+
+GRACCUS: Marius, look yonder at those men by that cross. How calmly they kneel 
+at the very threshold of death! No faltering there--
+   
+MARIUS: Dying because they believe in some God who will be forgotten--
+
+GRACCUS: Will He be forgotten? Listen, Marius-- You think that Rome is great--
+that Rome will live? I tell you Rome is dying--that when all the Caesars are 
+forgotten dust, this faith shall rule a world of which no Caesar ever dreamed!  
+An Empire founded by One to whom I gave a cup of gall as He hung upon His 
+cross.
+
+[The prayer of the Christians arises. The tramp of guards is heard. ...]
+
+
+______________________________________
+Originally broadcast: January 8, 1928 
+Written by William Ford Manley for 
+NBC's weekly half-hour anthology series, 
+"Biblical Dramas."
+
+</pre>
+
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'62a89871fa360d9a',m:'1466d39ea168a315e0973b70b5c9c5a03544ae51-1614834598-1800-AXqJOsG+pdlurhWEEvHRh/1h58Zf1plnyXf5rZOSVeSQFOm5H2XIR/1QLVj1eWlm/rlZp6K3Zk0tERIOHi4/fS30Hp2xtbmIfYH7V7P44tSzFeJnzlUIChjH5WAnX6zrOzFZsmY8XM2r5ibeqFPSY+4=',s:[0xfc8dc3f0ba,0xe4228c512d],}})();</script></body>
+</html>
+
+</body>
+</html>
