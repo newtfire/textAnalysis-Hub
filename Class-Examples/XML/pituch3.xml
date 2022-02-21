@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xml>
+    <metadata>
+        <coder>JEP</coder>
+        <title>Head above water</title>
+        <artist>Avril Lavinge</artist>
+        <released>2019</released>
+    </metadata>
+    <info>
+        <title>Head above water</title>
+        <artist>Avril Lavinge</artist>
+        <runtime><minutes sec="180">3</minutes>:<seconds>41</seconds></runtime>
+    </info>
+    <verse num="1">
+        <p num="1">
+            <l num="1">I gotta keep the calm before the storm</l>
+            <l num="2">I don't want less, I don't want more</l>
+            <l num="3">Must bar the windows and the doors</l>
+            <l num="4">To keep me safe, to keep me warm</l>
+        </p>
+        <p num="2">
+            <l num="5">Yeah, my life is what I'm fighting for</l>
+            <l num="6">Can't part the sea, can't reach the shore</l>
+            <l num="7">And my voice becomes the driving force</l>
+            <l num="8">I won't let this pull me overboard</l>
+        </p>
+    </verse>
+    <chorus num="1">
+        <p num="3">
+            <l num="9">.God, keep my head above water</l>
+            <l num="10">Don't let me drown, it gets harder</l>
+            <l num="11">I'll meet you there at the altar</l>
+            <l num="12">As I fall down to my knees</l>
+            <l num="13">Don't let me <rep>drown, drown, drown</rep></l>
+            <l num="14">
+                <rep>don't let me, don't let me, don't let me drown</rep>
+            </l>
+        </p>
+    </chorus>
+    <verse num="2">
+        <p>
+            <l num="15">So pull me up from down below</l>
+            <l num="16">'Cause I'm underneath the undertow</l>
+            <l num="17">Come dry me off and hold me close</l>
+            <l num="18">I need you now, I need you most</l>
+        </p>
+    </verse>
+    <chorus num="2">
+        <p>
+            <l num="19">God, keep my head above water</l>
+            <l num="20">Don't let me drown, it gets harder</l>
+            <l num="21">I'll meet you there at the altar</l>
+            <l num="22">As I fall down to my knees</l>
+            <l num="23">Don't let me <rep>drown, drown, drown</rep></l>
+            <l num="24">
+                <rep>Don't let me, don't let me, don't let me drown</rep>
+            </l>
+            <l num="25">Don't let me <rep>drown, drown, drown</rep></l>
+            <l num="26"><rep>Don't let me, don't let me, don't let me drown</rep> (Keep my head
+                above water, above water)</l>
+        </p>
+    </chorus>
+    <verse num="3">
+        <p>
+            <l num="27">And I can't see in the stormy weather</l>
+            <l num="28">I can't seem to keep it all together</l>
+            <l num="29">And I, I can't swim the ocean like this forever</l>
+            <l num="30">And I can't breathe</l>
+        </p>
+    </verse>
+    <chorus num="3">
+        <p>
+            <l num="31">God, keep my head above water</l>
+            <l num="32">I lose my breath at the bottom</l>
+            <l num="33">Come rescue me, I'll be waiting</l>
+            <l num="34">I'm too young to fall asleep</l>
+        </p>
+        <p>
+            <l num="35">God, keep my head above water</l>
+            <l num="36">Don't let me drown, it gets harder</l>
+            <l num="37">I'll meet you there at the altar</l>
+            <l num="38">As I fall down to my knees</l>
+        </p>
+        <p>
+            <l num="39">Don't let me drown (Don't let me, don't let me drown)</l>
+            <l num="40">Don't let me drown (Don't let me, don't let me drown)</l>
+            <l num="41">Don't let me drown (Don't let me, don't let me drown)</l>
+            <l num="42">And keep my head above water, above water</l>
+        </p>
+    </chorus>
+</xml>

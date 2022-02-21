@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <!-- The following is a lore segment from the 2016 DOOM game telling the story of what happened to the Doom Slayer (the game's protaganist) before the events of the game. It is divided into seven parts. -->
+    <meta>
+        <source>
+            <title>Doom</title>
+            <year>2016</year>
+            <genre>First Person Shooter</genre>
+        </source>
+    </meta>
+    <title>The Slayer's Testament</title>
+    <body>
+        <testament part="1">
+            <reportNumber>UAC REPORT FILE H8UM66S</reportNumber> In the first age, in the first
+            battle, when the shadows first lengthened, one stood. Burned by the embers of
+            Armageddon, his soul blistered by the fires of <place>Hell</place> and tainted beyond
+            ascension, he chose the path of perpetual torment. In his ravenous hatred he found no
+            peace; and with boiling blood he scoured the <place>Umbral Plains</place> seeking
+            vengeance against the <entity>dark lords</entity> who had wronged him. He wore the crown
+            of the <entity>Night Sentinels</entity>, and those that tasted the bite of his sword
+            named him... the <entity>Doom Slayer</entity>. </testament>
+        <testament part="2">
+            <reportNumber>UAC REPORT FILE 9REIZDUR</reportNumber> Tempered by the fires of
+                <place>Hell</place>, his iron will remained steadfast through the passage that preys
+            upon the weak. For he alone was the <entity>Hell Walker</entity>, the <entity>Unchained
+                Predator</entity>, who sought retribution in all quarters, dark and light, fire and
+            ice, in the beginning and the end, and he hunted the <entity>slaves of Doom</entity>
+            with barbarous cruelty; for he passed through the divide as none but
+                <entity>demon</entity> had before. </testament>
+        <testament part="3">
+            <reportNumber>UAC REPORT FILE HR93TE1F</reportNumber> And in his conquest against the
+            blackened <entity>souls of the doomed</entity>, his prowess was shown. In his crusade,
+            the <entity>Seraphim</entity> bestowed upon him terrible power and speed, and with his
+            might he crushed the obsidian pillars of the <place>Blood Temples</place>. He set forth
+            without pity upon the <entity>beasts of the nine circles</entity>. Unbreakable,
+            incorruptible, unyielding, the <entity>Doom Slayer</entity> sought to end the dominion
+            of the dark realm. </testament>
+        <testament part="4">
+            <reportNumber>UAC REPORT FILE I3S5A9XB</reportNumber> The age of his reckoning was
+            uncounted. The <entity>scribes</entity> carved his name deep in the tablets of
+                <place>Hell</place> across eons, and each battle etched terror in the hearts of the
+                <entity>demons</entity>. They knew he would come, as he always had, as he always
+            will, to feast on the blood of the <entity>wicked</entity>. For he alone could draw
+            strength from his fallen <entity>foes</entity>, and ever his power grew, swift and
+            unrelenting.</testament>
+        <testament part="5">
+            <reportNumber>UAC REPORT FILE ZPHVM41A</reportNumber> None could stand before the
+                <entity>horde</entity> but the <entity>Doom Slayer</entity>. Despair spread before
+            him like a plague, striking fear into the <entity>shadow-dwellers</entity>, driving them
+            to deeper and darker pits. But from the depths of the <place>abyss</place> rose
+                <entity>The Great One</entity>, a champion mightier than all who had come before.
+                <entity>The Titan</entity>, of immeasurable power and ferocity. He strode upon the
+            plain and faced the <entity>Doom Slayer</entity>, and a mighty battle was fought on the
+                <place>desolate plains</place>. <entity>The Titan</entity> fought with the fury of
+            the countless that had fallen at the <entity>Doom Slayer</entity>'s hand, but there fell
+            the <entity>Titan</entity>, and in his defeat the <entity>shadow horde</entity> were
+            routed. </testament>
+        <testament part="6">
+            <reportNumber>UAC REPORT FILE WMHVVFJ</reportNumber> And in his terrible rancor between
+            worlds and through time, the <entity>Hell Walker</entity> found the wretch who shall not
+            be named, but in his heresy was loyal to his evil cause. The wretch adorned the
+                <entity>Doom Slayer</entity> in a mighty armor, wrought in the forges of
+                <place>Hell</place>, impenetrable and unyielding. With sword and shield of
+            adamantine strength, the <entity>Doom Slayer</entity> set to banishing all that were
+            left unbroken by his savagery to the void. </testament>
+        <testament part="7">
+            <reportNumber>UAC REPORT FILE JSLR7ESL</reportNumber> Yet as the mighty
+                <entity>Titan</entity> fell and dread engulfed the <entity>armies of Doom</entity>,
+            the <entity>demon priests</entity> of the <place>Blood Temples</place> laid a trap to
+            capture this <entity>scourge</entity> of <place>Hell</place>. Insatiable, even by the
+            vanquishing of the <entity>Great One</entity>, the <entity>Hell Walker</entity> sought
+            prey in the tombs of the <place>Blood Keep</place>. And blinded by his fervor, the lure
+            drew him in. The <entity>priests</entity> brought down the <place>temple</place> upon
+            the <entity>Doom Slayer</entity>, and in his defeat entombed him in the cursed
+            sarcophagus. The mark of the <entity>Doom Slayer</entity> was burned upon his crypt, a
+            warning to all of <place>Hell</place> that the terror within must never be freed. There
+            he lies still, and ever more, in silent suffering. </testament>
+    </body>
+</xml>
