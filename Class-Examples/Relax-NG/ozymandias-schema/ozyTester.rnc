@@ -1,0 +1,11 @@
+start = root
+root = element Ozymandias {layer}
+layer = element layer {agent, pos?, line*}
+agent = attribute agent {"I" | "traveller" | "sculptor" | text }
+line = element line {n, mixed{ (layer | ellipsis)* } }
+n = attribute n {xsd:integer}
+ellipsis = element ellipsis {rend, empty}
+rend = attribute rend {text}
+pos = attribute pos {"start" | "end"}
+
+

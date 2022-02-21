@@ -1,0 +1,10 @@
+# this is a comment in Relax NG. 
+start = root
+root = element root {title, chapter+}
+title = element title {text}
+chapter = element chapter {n, heading, p+}
+p = element p {n, mixed{ (date | time | q)*}} 
+# mixed syntax example with lots of flexiblity. Read from the inside out.
+# The "or" pipes | and parentheses create a series of options. 
+# Putting the repetition indicator *outside* the parentheses means 
+# that Relax NG gives you your choice of *any* of these three, zero or more times. 

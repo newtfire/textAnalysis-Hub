@@ -33,9 +33,14 @@ I set this to replace:
 ```
 
 Second step I matched this and set capturing groups so I could tag the titles:
+
+Find: 
 ```
 (<movie>)(.+?)\t
 ```
+
+
+
 I set this to replace, so I could keep the first tag, and then add a new pair of tags for the title elements:
 ```
 \1<title>\2</title>
