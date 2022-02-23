@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: /*#c59fc9;*/ #e6e6e6;
+	padding:1vw; font-family:sans-serif;
+}
+
+#cy {
+     width: 65vw;
+     height:100vh;
+     position:absolute;
+     margin:auto;
+     border-style:double;
+     
+ }
+ 
