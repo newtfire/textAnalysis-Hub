@@ -1,0 +1,72 @@
+<?xml-model href="RelaxNg/Aladdin.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<xml>
+    <metadata>
+        <title>One Jump Ahead</title>
+        <origin>Lyrics from <movie>Aladdin (Live-Action)</movie></origin>
+        <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer>
+            and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+        <perform>Performed by <voiceActor ref="#Massoud" role="#Aladdin">Mena Massoud</voiceActor> as
+                Aladdin</perform>
+    </metadata>
+
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Aladdin">Aladdin</char> Gotta keep one jump ahead of the
+                breadline</ln>
+            <ln n="2">One swing ahead of the sword</ln>
+            <ln n="3">I steal only what I can't afford (And that's everything!)</ln>
+            <ln n="4">One jump ahead of the lawmen</ln>
+            <ln n="5">That's all, and that's no joke</ln>
+            <ln n="6">These guys don't appreciate I'm broke</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="7"><char ref="#Crowd">Crowd</char> Riffraff! Street rat! Scoundrel!</ln>
+            <ln n="8"><char ref="#Aladdin">Aladdin</char> Take that! Try a different tack,
+                guys</ln>
+            <ln n="9"><char ref="#Crowd">Crowd</char> Rip him open! Round the back, guys</ln>
+            <ln n="10"><char ref="#Aladdin">Aladdin</char> I can take a hint, gotta face the
+                facts</ln>
+            <ln n="11">Could really use a friend or two</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="12"><char ref="#Ladies">Ladies</char> Huh? Oh, it's sad Aladdin's hit the
+                bottom</ln>
+            <ln n="13">He's become a one-man rise in crime</ln>
+            <ln n="14">I'd blame parents except he hasn't got 'em</ln>
+            <ln n="15"><char ref="#Aladdin">Aladdin</char> Gotta eat to live, gotta steal to
+                eat</ln>
+            <ln n="16">Tell you all about it when I got the time!</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="17">One jump ahead of the slowpokes</ln>
+            <ln n="18">One skip ahead of my doom</ln>
+            <ln n="19">Next time gonna use a nom de plume</ln>
+            <ln n="20">One jump ahead of the hitmen</ln>
+            <ln n="21">One hit ahead of the flock</ln>
+            <ln n="22">I think I'll take a stroll around the block</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="23"><char ref="#Crowd">Crowd</char> Stop, thief! Vandal! Abu! Scandal!</ln>
+            <ln n="24"><char ref="#Aladdin">Aladdin</char> Let's not be too hasty</ln>
+            <ln n="25"><char ref="#Lady">Lady</char> Still I think he's rather tasty</ln>
+            <ln n="26"><char ref="#Aladdin">Aladdin</char> Gotta eat to live, gotta steal to
+                eat</ln>
+            <ln n="27">Otherwise we'd get along</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="28"><char ref="#Aladdin">Aladdin</char> One jump ahead of the hoofbeats</ln>
+            <ln n="29">One hop ahead of the hump</ln>
+            <ln n="30">One trick ahead of disaster</ln>
+            <ln n="31">They're quick, but I'm much faster</ln>
+            <ln n="32">Here goes, better throw my hand in</ln>
+            <ln n="33">Wish me happy landin'</ln>
+            <ln n="34">All I gotta do is jump</ln>
+        </lg>
+    </song>
+</xml>

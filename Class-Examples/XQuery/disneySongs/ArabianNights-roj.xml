@@ -1,0 +1,45 @@
+<?xml-model href="RelaxNg/Aladdin.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <metadata>
+        <title>Arabian Nights</title>
+        <origin>Lyrics from <movie>Aladdin: The Return of Jafar</movie></origin>
+        <author>Music and lyrics by <composer ref="Menken">Alan Menken</composer> and <composer
+                ref="Ashman">Howard Ashman</composer></author>
+        <perform>Performed by <voiceActor ref="Hannan" role="Peddler">Brian
+            Hannan</voiceActor></perform>
+    </metadata>
+
+    <song>
+        <lg n="1">
+            <ln n="1">Arabian nights</ln>
+            <ln n="2">Follow me to a place where incredible feats</ln>
+            <ln n="3">Are routine every hour or so</ln>
+            <ln n="4">Where enchantment runs rampant</ln>
+            <ln n="5">Yes, wild in the streets</ln>
+            <ln n="6">Open sesame, here we go</ln>
+        </lg>
+        <lg n="2">
+            <ln n="7">Arabian nights</ln>
+            <ln n="8">Like Arabian days</ln>
+            <ln n="9">They tease and excite</ln>
+            <ln n="10">Take off and take flight</ln>
+            <ln n="11">They shock and amaze</ln>
+        </lg>
+        <lg n="3">
+            <ln n="12">Arabian nights</ln>
+            <ln n="13">Like Arabian days</ln>
+            <ln n="14">More often than not</ln>
+            <ln n="15">Are hotter than hot</ln>
+            <ln n="16">In a lot of good ways</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="17">Pack your shield, pack your sword</ln>
+            <ln n="18">You won't ever get bored</ln>
+            <ln n="19">Though get beaten or gored you might</ln>
+            <ln n="20">Come on down, stop on by</ln>
+            <ln n="21">Hop a carpet and fly</ln>
+            <ln n="22">To another Arabian night</ln>
+        </lg>
+    </song>
+</xml>

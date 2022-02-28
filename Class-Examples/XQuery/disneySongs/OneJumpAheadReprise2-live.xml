@@ -1,0 +1,26 @@
+<?xml-model href="RelaxNg/Aladdin.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<xml>
+    <metadata>
+        <title> One Jump Ahead (Reprise 2)</title>
+        <origin>Lyrics from <movie>Aladdin (Live-Action)</movie></origin>
+        <author>Music by <composer ref="#Menken">Alan Menken</composer> Lyrics by <lyricist ref="#Pasek">Benj Pasek</lyricist> and <lyricist ref="#Paul">Justin Paul</lyricist></author>
+        <perform>Performed by <voiceActor ref="#Massoud" role="#Aladdin">Mena Massoud</voiceActor> as Aladdin</perform>
+    </metadata>
+
+    <song>
+        <lg n="1">
+            <ln n="1"> Riffraff! Street rat! Would they think that</ln>
+            <ln n="2">If they look much closer</ln>
+            <ln n="3">Still, I can't play a prince here</ln>
+            <ln n="4">No, siree</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="1">Gotta tell the truth</ln>
+            <ln n="2">I can't pretend</ln>
+            <ln n="3">Even if it means this dream will end</ln>
+            <ln n="4">Even if she walks away from me</ln>
+        </lg>
+    </song>
+</xml>

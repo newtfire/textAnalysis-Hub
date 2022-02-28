@@ -1,0 +1,30 @@
+<?xml-model href="RelaxNg/Aladdin.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <metadata>
+        <title>Prince Ali (Reprise)</title>
+        <origin>Lyrics from <movie>Aladdin</movie></origin>
+        <author>Music and lyrics by <composer ref="Menken">Alan Menken</composer> and <composer
+                ref="Rice">Tim Rice</composer></author>
+        <perform> Performed by <voiceActor ref="Freeman" role="Jafar">Jonathan Freeman</voiceActor>
+            as Jafar</perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"> Jafar, Jasmine </ln>
+            <ln n="2"> Prince Ali, yes it is he, but not as you know him </ln>
+            <ln n="3"> Read my lips and come to grips with reality </ln>
+            <ln n="4"> Yes, meet a blast from your past </ln>
+            <ln n="5"> Whose lies were too good to last </ln>
+            <ln n="6"> Say hello to your precious Prince Ali! </ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="7"> So Ali turns out to be merely Aladdin </ln>
+            <ln n="8"> Just a con, need I go on, take it from me </ln>
+            <ln n="9"> His personality flaws give me adequate cause </ln>
+            <ln n="10"> To send him packing on a one-way trip so his prospects take a terminal dip </ln>
+            <ln n="11"> His assets frozen, the venue chosen is in the ends of the Earth </ln>
+            <ln n="12"> Salaam, ex-prince Ali! </ln>
+        </lg>
+    </song>
+</xml>

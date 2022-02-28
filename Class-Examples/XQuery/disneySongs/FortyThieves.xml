@@ -1,0 +1,77 @@
+<?xml-model href="RelaxNg/Aladdin.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <metadata>
+        <title>Welcome to the Forty Thieves</title>
+        <origin>Lyrics from <movie>Aladdin and the King of Thieves</movie></origin>
+        <author>Composed by <composer ref="Peterson">Randy Peterson</composer> and <composer
+                ref="Quinn">Kevin Quinn</composer></author>
+        <perform>
+            <voiceActor ref="null" role="null"> null</voiceActor>
+        </perform>
+    </metadata>
+
+    <song>
+        <lg n="1">
+            <ln n="1">Cassim, Aladdin</ln>
+            <ln n="2"><char ref="Thieves">Thieves</char> Congratulations, bub, you've joined the
+                club</ln>
+            <ln n="3">And everybody here agrees</ln>
+            <ln n="4">We got the finest blend of nearly-honest men</ln>
+            <ln n="5">Welcome to the forty thieves!</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="6">A fraternity of thugs that you can trust</ln>
+            <ln n="7">There's nothing up our eighty sleeves</ln>
+            <ln n="8">Got lotsa grub to share</ln>
+            <ln n="9">Pull up an easy chair</ln>
+            <ln n="10">Welcome to the forty thieves!</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="11">Now you get to lie and cheat</ln>
+            <ln n="12">Never have to brush your teeth</ln>
+            <ln n="13">But we always aim to please</ln>
+            <ln n="14">Care for one another</ln>
+            <ln n="15">You'll never miss your mother</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="16"><char ref="Iago">Iago</char> Oh, I love you guys</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="17"><char ref="Thieves">Thieves</char> Schemin' up a scam</ln>
+            <ln n="18">Out on the lam</ln>
+            <ln n="19">Takin' whatever we please</ln>
+            <ln n="20">And if you like to lurk</ln>
+            <ln n="21">You're gonna love this work</ln>
+            <ln n="22">Welcome to the forty thieves!</ln>
+            <ln n="23">Welcome to the forty thieves!</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="25"><char ref="Cassim">Cassim</char> Together we're the perfect team</ln>
+            <ln n="26">Larceny is in the genes</ln>
+            <ln n="27">Dare to share the family dream</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="28"><char ref="Iago">Iago</char> Live a life of leisure</ln>
+            <ln n="29">Countin' all your treasure</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="30"><char ref="Thieves">Thieves</char> As an honorary member of the gang</ln>
+            <ln n="31">That no one alive ever leaves</ln>
+            <ln n="32">Ya gotta snatch and sneak</ln>
+            <ln n="33">Or else your future's bleak</ln>
+            <ln n="34">We got a lifetime contract that you're bound to keep</ln>
+            <ln n="35">You wanna save your skin</ln>
+            <ln n="36">You better fit right in</ln>
+            <ln n="37">Wel-wel-welcome to the</ln>
+            <ln n="38">Wel-wel-welcome to the</ln>
+            <ln n="39">Forty thieves!</ln>
+        </lg>
+    </song>
+</xml>
