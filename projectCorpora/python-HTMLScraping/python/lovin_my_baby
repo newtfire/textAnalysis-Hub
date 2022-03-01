@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- START: Catman header -->
+
+<script type="text/javascript">
+    var cm_role = "live";
+    var cm_host = "tripod.lycos.com";
+    var cm_taxid = "/membererror";
+</script> 
+<script type="text/javascript" src="https://scripts.lycos.com/catman/init.js"></script>
+<script type="text/javascript">
+    var objAdMgr = new AdManager();
+    var strProdSetName = objAdMgr.chooseProductSet();
+    objAdMgr.renderHeader();
+</script>
+
+<!-- END: Catman header -->
+<title>Create a Website | Tripod Web Hosting </title>
+<link href="https://ly.lygo.net/ly/tpSite/css/tpStyle.css" rel="stylesheet" type="text/css">
+<link href="https://ly.lygo.net/ly/tpSite/css/errorStyle.css" rel="stylesheet" type="text/css" />
+<!--[if IE]>
+  <script src="https://ly.lygo.net/ly/js/html5.js"></script>
+<![endif]-->
+<script src="https://ly.lygo.net/ly/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="https://ly.lygo.net/ly/tpSite/js/liverail.js"></script>
+<script type="text/javascript">
+  var ydsParams = { 'property':'Tripod','ip':'209.202.244.9','ua':'python-requests/2.25.1','ref':'(none)','al':'(none)','ur':'https://blueslyrics.tripod.com/lyrics/jonny_lang/lovin_my_baby','url':'https://blueslyrics.tripod.com/lyrics/jonny_lang/lovin_my_baby','xfip':'184.56.119.45' };
+</script>
+<style>
+</style> 
+</head>
+<body>
+<section id="topBar" class="">
+	<img src="https://ly.lygo.net/ly/tpSite/images/smWhTripodLogo.png" alt="Tripod Logo" class="errorLogo"><span class="login"><a href="https://registration.lycos.com/login.php?m_CBURL=http%3A%2F%2Fwww.tripod.lycos.com%2Fbin%2Fmembership%2Fgateway%3Fr%3D&m_E=hiwufrLn2wkHLRTzVjCB4w%3D%3D&m_PR=26">Login</a> | <a href="https://www.tripod.lycos.com/pricing/">Signup</a></span>
+</section>
+<section id="content" class="container">
+		<div class="txt_center" style="margin-bottom:40px">
+    	<img src="https://members.tripod.com/adm/ot_e404.gif?foof=yay" style="height:1px; width:1px" />
+    		<!--leaderboard-->
+    			<script type="text/javascript">
+if (objAdMgr.isSlotAvailable("leaderboard")) {
+	objAdMgr.renderSlot("leaderboard")
+}
+</script>
+<noscript>
+ <!-- BEGIN STANDARD TAG - 728 x 90 - Lycos - Tripod Fallthrough - DO NOT MODIFY -->
+ <iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90" src="http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=728x90&section=209094"></iframe>
+ <!-- END TAG -->
+</noscript>
+
+   		 <!--leaderboard end-->
+		</div>
+	<div class="errorMessage">
+		<h1 class="head404">404 Error</h1>
+		<h2 class="subhead404">Page Not Found</h2>
+		<div class="action404">
+      
+		</div>
+	</div>
+	
+	<div class="errorAds">
+   
+    <article class="mainArticle boxSize">
+        <h3>
+            We couldn't find the page you requested.<br />
+            Please check the URL and try again.
+        </h3>
+
+        <div id="video-wrapper">
+            <div id="video-ad"></div>     
+        </div>
+
+        <a href="https://www.tripod.com/" class="tripod errorCall pad emphBlock mb15">
+            <span><strong>Tripod.com</strong> <br /> Create a website for your business, interests and hobbies on Tripod!</span>
+        </a>
+
+        <a href="http://shopping.lycos.com/" class="shopping errorCall pad emphBlock mb15">
+            <span><strong>Lycos Shopping</strong> <br />The best online shopping deals, coupons &amp; exclusive close out sales at bargain prices.</span>
+        </a>
+
+        <a href="https://www.lycos.com/" title="Lycos.com" class="classifieds errorCall pad emphBlock">
+            <span><strong>Lycos.com</strong> <br /> Search the web, read the news, check your mail and more!</span>
+        </a>
+    </article>
+    
+		<div class="ad a300">
+		  	<div class="float_right" id="errorRight"> 
+    		  	<script type="text/javascript">
+if (objAdMgr.isSlotAvailable("messagingunit")) {
+	objAdMgr.renderSlot("messagingunit")
+}
+</script>
+<noscript>
+ <!-- BEGIN STANDARD TAG - 300 x 250 - Lycos - Tripod: Tripod - JS Disabled Fallthrough - DO NOT MODIFY -->
+ <iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="300" height="250" src="http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=300x250&section=209094"></iframe>
+ <!-- END TAG -->
+</noscript>
+
+     			  <!--// #include virtual="/insrt/catman/messagingunit2.insrt" //-->
+            <script type="text/javascript">
+if (objAdMgr.isSlotAvailable("slider")) {
+	objAdMgr.renderSlot("slider")
+}
+</script>
+<noscript>
+ <!-- BEGIN STANDARD TAG - 300 x 250 - Lycos - Tripod: Tripod - JS Disabled Fallthrough - DO NOT MODIFY -->
+ <iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="300" height="250" src="http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=300x250&section=209094"></iframe>
+ <!-- END TAG -->
+</noscript>
+
+			  </div>
+   	</div>
+    <div id="companion"></div>
+	</div>
+</section>
+<script type="text/javascript">
+if (objAdMgr.isSlotAvailable("footer")) {
+        objAdMgr.renderSlot("footer")
+}
+</script>
+
+<script type="text/javascript">
+$( '.ad.yahoo' ).hide();
+$( '.mainArticle' ).show();
+initializeVideoAd(); 
+</script>
+</body>
+</html>
