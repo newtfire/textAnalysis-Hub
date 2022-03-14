@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>Prince Ali (Sultan Reprise)</title>
+        <origin><movie>Aladdin (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer><lyricist ref="#Beguelin">Chad
+                Beguelin</lyricist></author>
+        <perform><voiceActor ref="#Davis" role="#Sultan">Clifton Davis</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Sultan">SULTAN</char> Hail! Your attention I pray</ln>
+            <ln n="2">Oh, ye people of Agrabah!</ln>
+            <ln n="3">This is our lucky day!</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="4"><char ref="#Sultan">SULTAN</char> (spoken):</ln>
+            <ln n="5">My noble subjects, Princess Jasmine has chosen Prince Ali to be her husband
+                and our next Sultan!</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="6"><char ref="#Sultan">SULTAN</char></ln>
+            <ln n="7">Go, cry from the highest mountain tops</ln>
+            <ln n="8">Rejoice, raise your voice</ln>
+            <ln n="9">Pull out all the stops!</ln>
+            <ln n="10">At last, we've a prince who should be glorified!</ln>
+            <ln n="11">Ring bells, throw rice</ln>
+            <ln n="12">Bang drums, bang them twice!</ln>
+            <ln n="13">Ali's gonna wed his bride...!</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="14"><char ref="#Ensemble">ENSEMBLE</char>&gt;</ln>
+            <ln n="15">Prince Ali, yes it is he</ln>
+            <ln n="16">Ali Ababwa</ln>
+            <ln n="17">Favourite son, second to none</ln>
+            <ln n="18">Obviously</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="19"><char ref="#Sultan">SULTAN</char></ln>
+            <ln n="20">Who made Her Majesty swoon</ln>
+            <ln n="21">Who had her changing her tune</ln>
+            <ln n="22">And not a moment too soon</ln>
+            <ln n="23"><char ref="#Ensemble">ENSEMBLE</char>&gt;</ln>
+            <ln n="24">He's Prince Ali!</ln>
+        </lg>
+    </song>
+</xml>

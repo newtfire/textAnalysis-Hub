@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>Friend Like Me(Animated)</title>
+        <origin>Lyrics from <movie>Aladdin</movie></origin>
+        <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <composer ref="#Ashman">Howard Ashman</composer></author>
+        <perform>Performed by <voiceActor ref="#Williams" role="#Genie">Robin Williams</voiceActor>
+            as Genie</perform>
+    </metadata>
+
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Genie">Genie:</char> Well, Ali Baba had them forty thieves</ln>
+            <ln n="2">Scheherazade had a thousand tales</ln>
+            <ln n="3">But, master, you're in luck 'cause up your sleeves</ln>
+            <ln n="4">You got a brand of magic never fails</ln>
+            <ln n="5">You got some power in your corner now</ln>
+            <ln n="6">Some heavy ammunition in your camp</ln>
+            <ln n="7">You got some punch, pizazz, yahoo and how</ln>
+            <ln n="8">See all you gotta do is rub that lamp</ln>
+            <ln n="9">And I'll say</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="10">Mr. <char ref="#Aladdin">Aladdin</char>, sir</ln>
+            <ln n="11">What will your pleasure be?</ln>
+            <ln n="12">Let me take your order</ln>
+            <ln n="13">Jot it down</ln>
+            <ln n="14">You ain't never had a friend like me</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="15">Life is your restaurant</ln>
+            <ln n="16">And I'm your maitre d'</ln>
+            <ln n="17">Come on whisper what it is you want</ln>
+            <ln n="18">You ain't never had a friend like me </ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="18">Yes sir, we pride ourselves on service</ln>
+            <ln n="19">You're the boss</ln>
+            <ln n="20">The king, the shah</ln>
+            <ln n="21">Say what you wish</ln>
+            <ln n="22">It's yours! True dish</ln>
+            <ln n="23">How about a little more baklava?</ln>
+            <ln n="24">Have some of column "A"</ln>
+            <ln n="25">Try all of column "B"</ln>
+            <ln n="26">I'm in the mood to help you, dude</ln>
+            <ln n="27">You ain't never had a friend like me</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="28">Can your friends do this</ln>
+            <ln n="29">Can your friends do that</ln>
+            <ln n="30">Can your friends pull this out their little hat</ln>
+            <ln n="31">Can your friends go, poof</ln>
+            <ln n="32">Hey, looky here</ln>
+            <ln n="33">Can your friends go, Abracadabra, let her rip</ln>
+            <ln n="34">And then make the sucker disappear</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="35">So don't you sit there slack-jawed, buggy-eyed</ln>
+            <ln n="36">I'm here to answer all your midnight prayers</ln>
+            <ln n="37">You got me bona fide certified</ln>
+            <ln n="38">You got a genie for your charge d'affaires</ln>
+            <ln n="39">I got a powerful urge to help you out</ln>
+            <ln n="40">So what's your wish? I really wanna know</ln>
+            <ln n="41">You got a list that's three miles long, no doubt</ln>
+            <ln n="42">Well, all you gotta do is rub like so</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="43">Mr. <char ref="#Aladdin">Aladdin</char>, sir, have a wish or two or three</ln>
+            <ln n="44">I'm on the job, you big nabob</ln>
+            <ln n="45">You ain't never had a friend, never had a friend</ln>
+            <ln n="46">You ain't never had a friend, never had a friend</ln>
+            <ln n="47">You ain't never had a friend like me</ln>
+            <ln n="48">You ain't never had a friend like me!</ln>
+        </lg>
+    </song>
+</xml>

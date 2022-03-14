@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>Transformation</title>
+        <origin>
+            <movie>Beauty and the Beast (Broadway)</movie>
+        </origin>
+        <author>
+            <composer ref="#Menken">Alan Menken</composer>
+            <lyricist ref="#Rice">Tim Rice</lyricist>
+        </author>
+        <perform>
+            <voiceActor ref="#Egan" role="#Belle">Susan Egan</voiceActor>
+            <voiceActor role="#Beast" ref="#Mann">Terence Mann</voiceActor>
+        </perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1">
+                <char ref="#Beast">Beast</char>
+            </ln>
+            <ln n="2">You came back</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="3">
+                <char ref="#Belle">Belle</char>
+            </ln>
+            <ln n="4">If only I'd come here sooner</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="5">
+                <char ref="#Beast">Beast</char>
+            </ln>
+            <ln n="6">Maybe it's better this way</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="7">
+                <char ref="#Belle">Belle</char>
+            </ln>
+            <ln n="8">No! Don't talk like that</ln>
+            <ln n="9">We're together now. Everything will be fine</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="10">
+                <char ref="#Beast">Beast</char>
+            </ln>
+            <ln n="11">At least I get to see you one last time</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="12">
+                <char ref="#Belle">Belle</char>
+            </ln>
+            <ln n="13">We are home</ln>
+            <ln n="14">We are where we shall be forever</ln>
+            <ln n="15">Trust in me</ln>
+            <ln n="16">For you know I won't run away</ln>
+            <ln n="17">From today</ln>
+            <ln n="18">This is all that I need</ln>
+            <ln n="19">And all that I need to say is...</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="20">Don't you know how you've changed me</ln>
+            <ln n="21">Strange how I fin'lly see</ln>
+            <ln n="22">I found home</ln>
+            <ln n="23">You're my home</ln>
+            <ln n="24">Stay with me</ln>
+            <ln n="25">No! No, please! Don't leave me! I love you</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="26">
+                <char ref="#Prince">Prince</char>
+            </ln>
+            <ln n="27">Belle, look into my eyes!</ln>
+            <ln n="28">Belle, don't you recognize</ln>
+            <ln n="29">The beast within the man</ln>
+            <ln n="30">Who's here before you?</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="31">
+                <char ref="#Belle">Belle</char>
+            </ln>
+            <ln n="32">It is you!</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="33">
+                <char ref="#Both">Both</char>
+            </ln>
+            <ln n="34">Two lives have begun now</ln>
+            <ln n="35">Two hearts become one now</ln>
+            <ln n="36">One passion, one dream</ln>
+            <ln n="37">One thing forever true</ln>
+            <ln n="38">I love you!</ln>
+        </lg>
+    </song>
+</xml>

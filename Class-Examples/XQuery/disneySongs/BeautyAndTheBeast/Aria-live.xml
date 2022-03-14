@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+<metadata>
+<title>Aria</title>
+    <origin>Music from <movie>Beauty and the Beast (Live-Action)</movie></origin>
+<author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+<perform>Performed by <voiceActor ref="#McDonald" role="#Wardrobe">Audra McDonald</voiceActor></perform>
+</metadata>
+
+<song>
+<lg n="1">
+    <ln n="1"><char ref="#Wardrobe">Wardrobe:</char> Oh, how divine</ln>
+    <ln n="2">Glamour, music and magic combine</ln>
+    <ln n="3">See the maidens so anxious to shine</ln>
+    <ln n="4">Look for a sign that enhances chances</ln>
+    <ln n="5">She'll be his special one</ln>
+</lg>
+
+<lg n="2">
+    <ln n="6">What a display</ln>
+    <ln n="7">What a breathtaking, thrilling array</ln>
+    <ln n="8">Every prince, every dog has his day</ln>
+    <ln n="9">Let us sing with passion, gusto, fit to bust</ln>
+    <ln n="10">Oh, not a care in the world!</ln>
+</lg>
+</song>
+</xml>

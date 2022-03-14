@@ -1,0 +1,156 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/disneySongs/BeautyAndTheBeast" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:24:18.654Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Me.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:18.655Z" modified="2021-12-30T05:24:18.655Z" filename="Me.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HowDoesAMomentLastForever-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:18.72Z" modified="2021-12-30T05:24:18.72Z" filename="HowDoesAMomentLastForever-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="CutAboveRest.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:18.784Z" modified="2021-12-30T05:24:18.784Z" filename="CutAboveRest.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SomethingThere-Broadway.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:18.849Z" modified="2021-12-30T05:24:18.849Z" filename="SomethingThere-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="NoMatterWhat.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:18.914Z" modified="2021-12-30T05:24:18.914Z" filename="NoMatterWhat.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="MaisonDeLunes.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:18.974Z" modified="2021-12-30T05:24:18.973Z" filename="MaisonDeLunes.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BeautyAndTheBeast-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:19.101Z" modified="2021-12-30T05:24:19.101Z" filename="BeautyAndTheBeast-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="DontFallInLove.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:19.163Z" modified="2021-12-30T05:24:19.163Z" filename="DontFallInLove.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TheMobSong-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:19.223Z" modified="2021-12-30T05:24:19.223Z" filename="TheMobSong-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SomethingThere-animated.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:19.285Z" modified="2021-12-30T05:24:19.285Z" filename="SomethingThere-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Belle-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:19.347Z" modified="2021-12-30T05:24:19.347Z" filename="Belle-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BeautyAndTheBeast(Finale)-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:19.412Z" modified="2021-12-30T05:24:19.412Z" filename="BeautyAndTheBeast(Finale)-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HumanAgain-animated.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:19.471Z" modified="2021-12-30T05:24:19.471Z" filename="HumanAgain-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AChangeInMe.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:19.535Z" modified="2021-12-30T05:24:19.534Z" filename="AChangeInMe.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Gaston(Reprise)-animated.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:19.596Z" modified="2021-12-30T05:24:19.596Z" filename="Gaston(Reprise)-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Belle-animated.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:19.683Z" modified="2021-12-30T05:24:19.683Z" filename="Belle-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Gaston-Broadway.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:19.748Z" modified="2021-12-30T05:24:19.748Z" filename="Gaston-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Belle(Reprise)-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:19.814Z" modified="2021-12-30T05:24:19.814Z" filename="Belle(Reprise)-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Gaston-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:19.881Z" modified="2021-12-30T05:24:19.881Z" filename="Gaston-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Home.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:19.946Z" modified="2021-12-30T05:24:19.946Z" filename="Home.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SomethingThere-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:20.009Z" modified="2021-12-30T05:24:20.009Z" filename="SomethingThere-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Transformation.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:20.077Z" modified="2021-12-30T05:24:20.077Z" filename="Transformation.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HumanAgain-Broadway.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:20.14Z" modified="2021-12-30T05:24:20.14Z" filename="HumanAgain-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AsLongAsThere'sChristmas.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:20.212Z" modified="2021-12-30T05:24:20.212Z" filename="AsLongAsThere'sChristmas.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HowLongMustThisGoOn.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:20.283Z" modified="2021-12-30T05:24:20.283Z" filename="HowLongMustThisGoOn.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Gaston(Reprise)-Broadway.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:20.345Z" modified="2021-12-30T05:24:20.345Z" filename="Gaston(Reprise)-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Belle-Broadway.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:20.408Z" modified="2021-12-30T05:24:20.408Z" filename="Belle-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HowDoesAMomentLastForever(MusicBox)-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:20.478Z" modified="2021-12-30T05:24:20.478Z" filename="HowDoesAMomentLastForever(MusicBox)-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Gaston-animated.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:20.541Z" modified="2021-12-30T05:24:20.541Z" filename="Gaston-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BeautyandtheBeast-Broadway.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:20.67Z" modified="2021-12-30T05:24:20.67Z" filename="BeautyandtheBeast-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Belle(Reprise)-Broadway.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:20.731Z" modified="2021-12-30T05:24:20.731Z" filename="Belle(Reprise)-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HowDoesAMomentLastForever(Montmartre)-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:20.791Z" modified="2021-12-30T05:24:20.791Z" filename="HowDoesAMomentLastForever(Montmartre)-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="DaysInTheSun-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:20.852Z" modified="2021-12-30T05:24:20.852Z" filename="DaysInTheSun-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Stories.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:20.916Z" modified="2021-12-30T05:24:20.916Z" filename="Stories.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="NoMatterWhat(Reprise).xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:20.979Z" modified="2021-12-30T05:24:20.979Z" filename="NoMatterWhat(Reprise).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Belle(Reprise)-animated.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:21.043Z" modified="2021-12-30T05:24:21.043Z" filename="Belle(Reprise)-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Home(Reprise).xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:21.106Z" modified="2021-12-30T05:24:21.105Z" filename="Home(Reprise).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Aria-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:21.164Z" modified="2021-12-30T05:24:21.164Z" filename="Aria-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ListenwithOurHearts.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:21.227Z" modified="2021-12-30T05:24:21.227Z" filename="ListenwithOurHearts.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ALittleThought.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:21.297Z" modified="2021-12-30T05:24:21.297Z" filename="ALittleThought.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="IfICantLoveHer(Reprise).xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:21.361Z" modified="2021-12-30T05:24:21.361Z" filename="IfICantLoveHer(Reprise).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BeautyAndTheBeast-animated.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:21.422Z" modified="2021-12-30T05:24:21.422Z" filename="BeautyAndTheBeast-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BeOurGuest-animated.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:21.486Z" modified="2021-12-30T05:24:21.486Z" filename="BeOurGuest-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TheMobSong-animated.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:21.551Z" modified="2021-12-30T05:24:21.551Z" filename="TheMobSong-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BeOurGuest-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:21.615Z" modified="2021-12-30T05:24:21.615Z" filename="BeOurGuest-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="IfICantLoveHer.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:21.677Z" modified="2021-12-30T05:24:21.677Z" filename="IfICantLoveHer.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AsLongAsThere'sChristmas(reprise).xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:21.738Z" modified="2021-12-30T05:24:21.738Z" filename="AsLongAsThere'sChristmas(reprise).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Evermore-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:21.797Z" modified="2021-12-30T05:24:21.797Z" filename="Evermore-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="TheMobSong-Broadway.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:22.869Z" modified="2021-12-30T05:24:22.869Z" filename="TheMobSong-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BeOurGuest-Broadway.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:22.943Z" modified="2021-12-30T05:24:22.943Z" filename="BeOurGuest-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name=".DS_Store" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:19.034Z" modified="2021-12-30T05:24:19.034Z" filename=".DS_Store" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

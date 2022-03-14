@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>Belle</title>
+        <origin><movie>Beauty and the Beast (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer>
+            <lyricist ref="#Ashman">Howard Ashman</lyricist></author>
+        <perform><voiceActor role="#Bimbettes" ref="#Shannon">Sarah Solie Shannon</voiceActor>
+            <voiceActor role="#Bimbettes" ref="#Price">Paige Price</voiceActor>
+            <voiceActor role="#Bimbettes" ref="#Talcott">Linda Talcott</voiceActor>
+            <voiceActor ref="#Moses" role="#Gaston">Burke Moses</voiceActor>
+            <voiceActor ref="#Egan" role="#Belle">Susan Egan</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Belle">BELLE</char></ln>
+            <ln n="2">Little town, it's a quiet village</ln>
+            <ln n="3">Every day, like the one before</ln>
+            <ln n="4">Little town, full of little people</ln>
+            <ln n="5">Waking up to say</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="6"><char ref="#Townsfolk">TOWNSFOLK</char></ln>
+            <ln n="7">Bonjour!</ln>
+            <ln n="8">Bonjour!</ln>
+            <ln n="9">Bonjour! Bonjour! Bonjour!</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="10"><char ref="#Belle">BELLE</char></ln>
+            <ln n="11">There goes the baker with his tray, like always</ln>
+            <ln n="12">The same old bread and rolls to sell</ln>
+            <ln n="13">Every morning just the same</ln>
+            <ln n="14">Since the morning that we came</ln>
+            <ln n="15">To this poor provincial town</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="16"><char ref="#Baker">BAKER, spoken</char></ln>
+            <ln n="17">Good morning, Belle!</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="18"><char ref="#Belle">BELLE, spoken</char></ln>
+            <ln n="19">Oh, good morning, Monsieur</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="20"><char ref="#Baker">BAKER, spoken</char></ln>
+            <ln n="21">And where are you off to today?</ln>
+            <ln n="22"><char ref="#Belle">BELLE, spoken</char></ln>
+            <ln n="23">The bookshop</ln>
+            <ln n="24">I just finished the mot wonderful story</ln>
+            <ln n="25">About a beanstalk and an ogre and a—</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="26"><char ref="#Baker">BAKER, spoken</char></ln>
+            <ln n="27">That's nice. Marie! The baguettes! Hurry up!</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="28"><char ref="#Townsfolk">TOWNSFOLK</char></ln>
+            <ln n="29">Look there she goes, that girl is strange, no question</ln>
+            <ln n="30">Dazed and distracted, can't you tell?</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="31"><char ref="#Woman">WOMAN</char></ln>
+            <ln n="32">Never part of any crowd</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="33"><char ref="#Man">MAN</char></ln>
+            <ln n="34">'Cause her head's upon some cloud</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="35"><char ref="#Townsfolk">TOWNSFOLK</char></ln>
+            <ln n="36">No denying she's a funny girl that Belle</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="37"><char ref="#Man1">MAN 1</char></ln>
+            <ln n="38">Bonjour!</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="39"><char ref="#Woman1">WOMAN 1</char></ln>
+            <ln n="40">Good day!</ln>
+            <ln n="41"><char ref="#Man1">MAN 1</char></ln>
+            <ln n="42">How is your family?</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="43"><char ref="#Woman2">WOMAN 2</char></ln>
+            <ln n="44">Bonjour!</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="45"><char ref="#Man2">MAN 2</char></ln>
+            <ln n="46">Good day!</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="47"><char ref="#Woman2">WOMAN 2</char></ln>
+            <ln n="48">How is your wife?</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="49"><char ref="#Woman3">WOMAN 3</char></ln>
+            <ln n="50">I need six eggs!</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="51"><char ref="#Woman4">WOMAN 4</char></ln>
+            <ln n="52">That's too expensive!</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="53"><char ref="#Belle">BELLE</char></ln>
+            <ln n="54">There must be more than this provincial life</ln>
+        </lg>
+
+        <lg n="20">
+            <ln n="55"><char ref="#Bookseller">BOOKSELLER, spoken</char></ln>
+            <ln n="56">Ah, Belle</ln>
+        </lg>
+
+        <lg n="21">
+            <ln n="57"><char ref="#Belle">BELLE, spoken</char></ln>
+            <ln n="58">Good morning! I've come to return the book I borrowed</ln>
+            <ln n="59"><char ref="#Bookseller">BOOKSELLER, spoken</char></ln>
+            <ln n="60">Finished already?</ln>
+        </lg>
+
+        <lg n="22">
+            <ln n="61"><char ref="#Belle">BELLE, spoken</char></ln>
+            <ln n="62">Oh, I couldn't put it down. Have you got anything new?</ln>
+        </lg>
+
+        <lg n="23">
+            <ln n="63"><char ref="#Bookseller">BOOKSELLER, spoken</char></ln>
+            <ln n="64">Not since yesterday</ln>
+        </lg>
+
+        <lg n="24">
+            <ln n="65"><char ref="#Belle">BELLE, spoken</char></ln>
+            <ln n="66">That's alright. I'll borrow this one</ln>
+        </lg>
+
+        <lg n="25">
+            <ln n="67"><char ref="#Bookseller">BOOKSELLER, spoken</char></ln>
+            <ln n="68">That one? But you've read it twice!</ln>
+        </lg>
+
+        <lg n="26">
+            <ln n="69"><char ref="#Belle">BELLE, spoken</char></ln>
+            <ln n="70">Well, it's my favorite! Far off places, daring sword fights, magic spells, a prince
+                in disguise</ln>
+        </lg>
+
+        <lg n="27">
+            <ln n="71"><char ref="#Bookseller">BOOKSELLER, spoken</char></ln>
+            <ln n="72">If you like it all that much, it's yours</ln>
+        </lg>
+
+        <lg n="28">
+            <ln n="73"><char ref="#Belle">BELLE, spoken</char></ln>
+            <ln n="74">But sir!</ln>
+        </lg>
+
+        <lg n="29">
+            <ln n="75"><char ref="#Bookseller">BOOKSELLER, spoken</char></ln>
+            <ln n="76">I insist!</ln>
+        </lg>
+
+        <lg n="30">
+            <ln n="77"><char ref="#Belle">BELLE, spoken</char></ln>
+            <ln n="78">Thank you, thank you very much!</ln>
+        </lg>
+
+        <lg n="31">
+            <ln n="79"><char ref="#Townsfolk">TOWNSFOLK</char></ln>
+            <ln n="80">Look there she goes, the girl is so peculiar</ln>
+            <ln n="81">I wonder if she's feeling well</ln>
+            <ln n="82">With a dreamy, far-off look</ln>
+            <ln n="83">And her nose stuck in a book</ln>
+            <ln n="84">What a puzzle to the rest of us is Belle</ln>
+        </lg>
+
+        <lg n="32">
+            <ln n="85"><char ref="#Belle">BELLE</char></ln>
+            <ln n="86">Oh, isn't this amazing?</ln>
+            <ln n="87">It's my favorite part because—you'll see</ln>
+            <ln n="88">Here's where she meets Prince Charming</ln>
+            <ln n="89">But she won't discover that it's him 'til Chapter Three!</ln>
+        </lg>
+
+        <lg n="33">
+            <ln n="90"><char ref="#Woman">WOMAN</char></ln>
+            <ln n="91">Now it's no wonder that her name means "Beauty"</ln>
+            <ln n="92">Her looks have got no parallel</ln>
+        </lg>
+
+        <lg n="34">
+            <ln n="93"><char ref="#Shopkeeper">SHOPKEEPER</char></ln>
+            <ln n="94">But behind that fair facade</ln>
+            <ln n="95">I'm afraid she's rather odd</ln>
+        </lg>
+
+        <lg n="35">
+            <ln n="96"><char ref="#Man">MAN</char></ln>
+            <ln n="97">Very different from the rest of us</ln>
+        </lg>
+
+        <lg n="36">
+            <ln n="98"><char ref="#Townsfolk">TOWNSFOLK</char></ln>
+            <ln n="99">She's nothing like the rest of us</ln>
+            <ln n="100">Yes, different from the rest of us is Belle!</ln>
+        </lg>
+
+        <lg n="37">
+            <ln n="101"><char ref="#Lefou">LEFOU, spoken</char></ln>
+            <ln n="102">I got it, Gaston! Aw... Wow! You didn't miss a shot, Gaston! You're the greatest
+                hunter in the whole world!</ln>
+        </lg>
+
+        <lg n="38">
+            <ln n="103"><char ref="#Gaston">GASTON, spoken</char></ln>
+            <ln n="104">I know</ln>
+        </lg>
+
+        <lg n="39">
+            <ln n="105"><char ref="#Lefou">LEFOU, spoken</char></ln>
+            <ln n="106">No beast alive stands a chance against you</ln>
+            <ln n="107">And no girl, for that matter</ln>
+        </lg>
+
+        <lg n="40">
+            <ln n="108"><char ref="#Gaston">GASTON, spoken</char></ln>
+            <ln n="109">It's true, LeFou. And I've got my sights set on that one</ln>
+        </lg>
+
+        <lg n="41">
+            <ln n="110"><char ref="#Lefou">LEFOU, spoken</char></ln>
+            <ln n="111">The inventor's daughter?</ln>
+        </lg>
+
+        <lg n="42">
+            <ln n="112"><char ref="#Gaston">GASTON, spoken</char></ln>
+            <ln n="113">She's the one—the lucky girl</ln>
+            <ln n="114">I'm going to marry</ln>
+        </lg>
+
+        <lg n="43">
+            <ln n="115"><char ref="#Lefou">LEFOU, spoken</char></ln>
+            <ln n="116">But she's—</ln>
+        </lg>
+
+        <lg n="44">
+            <ln n="117"><char ref="#Gaston">GASTON, spoken</char></ln>
+            <ln n="118">The most beautiful girl in town</ln>
+        </lg>
+
+        <lg n="45">
+            <ln n="119"><char ref="#Lefou">LEFOU, spoken</char></ln>
+            <ln n="120">I know but—</ln>
+        </lg>
+
+        <lg n="46">
+            <ln n="121"><char ref="#Gaston">GASTON, spoken</char></ln>
+            <ln n="122">That makes her the best</ln>
+            <ln n="123">And don't I deserve the best?</ln>
+        </lg>
+
+        <lg n="47">
+            <ln n="124"><char ref="#Lefou">LEFOU, spoken</char></ln>
+            <ln n="125">Of course you do!</ln>
+        </lg>
+
+        <lg n="48">
+            <ln n="126"><char ref="#Gaston">GASTON</char></ln>
+            <ln n="127">Right from the moment when I met her, saw her</ln>
+            <ln n="128">I said, "She's gorgeous," and I fell</ln>
+            <ln n="129">Here in town there's only she</ln>
+            <ln n="130">Who is beautiful as me</ln>
+            <ln n="131">So I'm making plans to woo and marry Belle</ln>
+        </lg>
+
+        <lg n="49">
+            <ln n="132"><char ref="#Bimbettes">Bimbettes</char></ln>
+            <ln n="133">Look there he goes</ln>
+            <ln n="134">Isn't he dreamy?</ln>
+            <ln n="135">Monsieur Gaston</ln>
+            <ln n="136">Oh, he's so cute!</ln>
+            <ln n="137">Be still my heart</ln>
+            <ln n="138">I'm hardly breathing</ln>
+            <ln n="139">He's such a tall, dark, strong and handsome brute!</ln>
+        </lg>
+
+        <lg n="50">
+            <ln n="140"><char ref="#Woman">WOMAN</char></ln>
+            <ln n="141">Bonjour</ln>
+        </lg>
+
+        <lg n="51">
+            <ln n="142"><char ref="#Gaston">GASTON</char></ln>
+            <ln n="143">Pardon</ln>
+        </lg>
+
+        <lg n="52">
+            <ln n="144"><char ref="#Belle">BELLE</char></ln>
+            <ln n="145">Good day</ln>
+        </lg>
+
+        <lg n="53">
+            <ln n="146"><char ref="#Woman">WOMAN</char></ln>
+            <ln n="147">Mais oui!</ln>
+        </lg>
+
+        <lg n="54">
+            <ln n="148"><char ref="#Woman">WOMAN</char></ln>
+            <ln n="149">You call this bacon?</ln>
+        </lg>
+
+        <lg n="55">
+            <ln n="150"><char ref="#Woman">WOMAN</char></ln>
+            <ln n="151">What lovely grapes</ln>
+        </lg>
+
+        <lg n="56">
+            <ln n="152"><char ref="#Man">MAN</char></ln>
+            <ln n="153">Some cheese</ln>
+        </lg>
+
+        <lg n="57">
+            <ln n="154"><char ref="#Woman">WOMAN</char></ln>
+            <ln n="155">Ten yards!</ln>
+        </lg>
+
+        <lg n="58">
+            <ln n="156"><char ref="#Man">MAN</char></ln>
+            <ln n="157">One pound</ln>
+        </lg>
+
+        <lg n="59">
+            <ln n="158"><char ref="#Gaston">GASTON</char></ln>
+            <ln n="159">'Scuse me!</ln>
+        </lg>
+
+        <lg n="60">
+            <ln n="160"><char ref="#CheeseMerchant">CHEESE MERCHANT</char></ln>
+            <ln n="161">I'll get the knife</ln>
+        </lg>
+
+        <lg n="61">
+            <ln n="162"><char ref="#Gaston">GASTON</char></ln>
+            <ln n="163">Please let me through</ln>
+        </lg>
+
+        <lg n="62">
+            <ln n="164"><char ref="#Woman">WOMAN</char></ln>
+            <ln n="165">This bread—</ln>
+        </lg>
+
+        <lg n="63">
+            <ln n="166"><char ref="#Woman">WOMAN</char></ln>
+            <ln n="167">Those fish—</ln>
+        </lg>
+
+        <lg n="64">
+            <ln n="168"><char ref="#Woman">WOMAN</char></ln>
+            <ln n="169">It's stale!</ln>
+        </lg>
+
+        <lg n="65">
+            <ln n="170"><char ref="#Woman">WOMAN</char></ln>
+            <ln n="171">They smell!</ln>
+        </lg>
+
+        <lg n="66">
+            <ln n="172"><char ref="#Man">MAN</char></ln>
+            <ln n="173">Madame's mistaken</ln>
+        </lg>
+
+        <lg n="67">
+            <ln n="174"><char ref="#Woman">WOMAN</char></ln>
+            <ln n="175">Well maybe so</ln>
+        </lg>
+
+        <lg n="68">
+            <ln n="176"><char ref="#Townsfolk">TOWNSFOLK</char></ln>
+            <ln n="177">Good morning! Oh, good morning!</ln>
+        </lg>
+
+        <lg n="69">
+            <ln n="178"><char ref="#Belle">BELLE</char></ln>
+            <ln n="179">There must be more than this provincial life!</ln>
+        </lg>
+
+        <lg n="70">
+            <ln n="180"><char ref="#Gaston">GASTON</char></ln>
+            <ln n="181">Just watch, I'm going to make Belle my wife!</ln>
+        </lg>
+
+        <lg n="71">
+            <ln n="182"><char ref="#Townsfolk">TOWNSFOLK</char></ln>
+            <ln n="183">Look there she goes</ln>
+            <ln n="184">The girl is strange but special</ln>
+            <ln n="185">A most peculiar mademoiselle!</ln>
+        </lg>
+
+        <lg n="72">
+            <ln n="186"><char ref="#Woman">WOMAN</char></ln>
+            <ln n="187">It's a pity and a sin</ln>
+        </lg>
+
+        <lg n="73">
+            <ln n="188"><char ref="#Man">MAN</char></ln>
+            <ln n="189">She doesn't quite fit in</ln>
+        </lg>
+
+        <lg n="74">
+            <ln n="190"><char ref="#Townsfolk">TOWNSFOLK</char></ln>
+            <ln n="191">'Cause she really is a funny girl</ln>
+            <ln n="192">A beauty but a funny girl</ln>
+            <ln n="193">She really is a funny girl</ln>
+            <ln n="194">That Belle!</ln>
+        </lg>
+    </song>
+</xml>

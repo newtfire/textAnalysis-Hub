@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>
+    <title>Evermore</title>
+    <origin>Music from <movie>Beauty and the Beast (Live-Action)</movie></origin>
+    <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+    <perform>Performed by <voiceActor ref="#Stevens" role="#Beast">Dan Stevens</voiceActor> as the Beast</perform>
+</metadata>
+    
+<song>    
+<lg n="1">
+    <ln n="1"><char ref="#Beast">Beast:</char> I was the one who had it all</ln>
+    <ln n="2">I was the master of my fate</ln>
+    <ln n="3">I never needed anybody in my life</ln>
+    <ln n="4">I learned the truth too late</ln>
+</lg>
+
+<lg n="2">
+    <ln n="5">I'll never shake away the pain</ln>
+    <ln n="6">I close my eyes, but she's still there</ln>
+    <ln n="7">I let her steal into my melancholy heart</ln>
+    <ln n="8">It's more than I can bear</ln>
+</lg>
+
+<lg n="3">
+    <ln n="9">Now I know she'll never leave me</ln>
+    <ln n="10">Even as she runs away</ln>
+    <ln n="11">She will still torment me, calm me, hurt me</ln>
+    <ln n="12">Move me, come what may</ln>
+</lg>
+
+<lg n="4">
+    <ln n="13">Wasting in my lonely tower</ln>
+    <ln n="14">Waiting by an open door</ln>
+    <ln n="15">I'll fool myself she'll walk right in</ln>
+    <ln n="16">And be with me for evermore</ln>
+</lg>
+
+<lg n="5">
+    <ln n="17">I rage against the trials of love</ln>
+    <ln n="18">I curse the fading of the light</ln>
+    <ln n="19">Though she's already flown so far beyond my reach</ln>
+    <ln n="20">She's never out of sight</ln>
+</lg>
+
+<lg n="6">
+    <ln n="21">Now I know she'll never leave me</ln>
+    <ln n="22">Even as she fades from view</ln>
+    <ln n="23">She will still inpire me, be a part of</ln>
+    <ln n="24">Everything I do</ln>
+</lg>
+
+<lg n="7">
+    <ln n="25">Wasting in my lonely tower</ln>
+    <ln n="26">Waiting by an open door</ln>
+    <ln n="27">I'll fool myself she'll walk right in</ln>
+    <ln n="28">And as the long, long nights begin</ln>
+    <ln n="29">I'll think of all that might have been</ln>
+    <ln n="30">Waiting here for evermore!</ln>
+</lg>
+</song>
+</xml>

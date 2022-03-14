@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>Diamond in the Rough</title>
+        <origin><movie>Aladdin (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer><lyricist ref="#Beguelin">Chad
+                Beguelin</lyricist></author>
+        <perform><voiceActor ref="#Rivera" role="#Iago">Don Darryl Rivera</voiceActor>
+            <voiceActor ref="#Freeman" role="#Jafar">Jonathan Freeman</voiceActor>
+            <voiceActor role="#Aladdin" ref="#Jacobs">Adam Jacobs</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Jafar">JAFAR</char> You're the one that I need</ln>
+            <ln n="2">You're nimble, stealthy, skilled</ln>
+            <ln n="3">Do you want to continue abusing those skills</ln>
+            <ln n="4">Stealing bits of bread and worthless baubles</ln>
+            <ln n="5">Or do you want to make a name for yourself</ln>
+            <ln n="6">And do something that would make any mother proud</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="7">You have the profile of a prince</ln>
+            <ln n="8">With a physique that matches</ln>
+            <ln n="9">Beneath the dirt and patches</ln>
+            <ln n="10">You are a diamond in the rough</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="11">I say we work together since</ln>
+            <ln n="12">You're braver then we two are</ln>
+            <ln n="13">We're just as shocked as you are</ln>
+            <ln n="14">That you're a diamond in the rough</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="15"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="16">Hey, I'm no diamond in the rough</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="17"><char ref="#Jafar">JAFAR</char></ln>
+            <ln n="18">Under the filth and the fleas there are gifts that you've been
+                neglecting</ln>
+            <ln n="19">And truth be told you are not quite the guy that we were expecting</ln>
+            <ln n="20">And though you might need finesse, and perhaps some disinfecting</ln>
+            <ln n="21">You'll be the one who succeeds when the lamp of their needs collecting</ln>
+            <ln n="22"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="23">Uh, I dunno guys, I've got a funny feeling about this. I better just be on my
+                way</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="24"><char ref="#Jafar">JAFAR</char></ln>
+            <ln n="25">Take one step and die you brainless miscreant!</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="26"><char ref="#Iago">IAGO</char></ln>
+            <ln n="27">Happy place!</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="28"><char ref="#Jafar">JAFAR</char></ln>
+            <ln n="29">Apologies</ln>
+            <ln n="30">What I meant to say is</ln>
+            <ln n="31">You just don't know how swell you are</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="32"><char ref="#Iago">IAGO</char></ln>
+            <ln n="33">You just don't know how swell you are!</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="34"><char ref="#Jafar">JAFAR</char></ln>
+            <ln n="35">So far the only hitch is</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="36"><char ref="#Iago">IAGO</char></ln>
+            <ln n="37">There's just an itty bitty hitch</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="38"><char ref="#Jafar">JAFAR</char></ln>
+            <ln n="39">You're an embarrassment of riches</ln>
+            <ln n="40"><char ref="#Iago">IAGO</char></ln>
+            <ln n="41">Embarrassing too true!</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="42"><char ref="#Jafar">JAFAR</char></ln>
+            <ln n="43">You are the diamond in the rough</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="44"><char ref="#Iago">IAGO</char></ln>
+            <ln n="45">Let's all rejoice the spooky voice said you're the diamond in the</ln>
+            <ln n="46">Rooooooough!</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="47"><char ref="#Jafar">JAFAR</char></ln>
+            <ln n="48">Look here's the diamond in the</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="49"><char ref="#Iago">IAGO</char></ln>
+            <ln n="50">Three cheers, the diamond in the</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="51"><char ref="#Jafar-Iago">JAFAR &amp; IAGO</char></ln>
+            <ln n="52">We found the diamond in the rough!</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="53"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="54">You better find somebody else!</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="55"><char ref="#Jafar">JAFAR</char></ln>
+            <ln n="56">There is nobody else</ln>
+        </lg>
+
+        <lg n="20">
+            <ln n="57"><char ref="#Iago">IAGO</char></ln>
+            <ln n="58">Talk about the girl</ln>
+            <ln n="59"><char ref="#Jafar">JAFAR</char></ln>
+            <ln n="60">Oh</ln>
+            <ln n="61">Then, of course there's Princess Jasmine</ln>
+            <ln n="62">It's clear she took a shine to you</ln>
+            <ln n="63">But, let me be frank</ln>
+            <ln n="64">With no cash in the bank</ln>
+            <ln n="65">You'll never win her heart</ln>
+            <ln n="66">It just tears me apart</ln>
+            <ln n="67">To see her slip right through your fingers</ln>
+        </lg>
+
+        <lg n="21">
+            <ln n="68"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="69">Which way is this cave of yours?</ln>
+        </lg>
+
+        <lg n="22">
+            <ln n="70"><char ref="#Jafar">JAFAR</char></ln>
+            <ln n="71">That a boy!</ln>
+            <ln n="72">Go</ln>
+            <ln n="73">Through!</ln>
+            <ln n="74">You</ln>
+            <ln n="75">Might be a bum</ln>
+            <ln n="76">But you're one</ln>
+            <ln n="77">Of noble spirit</ln>
+        </lg>
+
+        <lg n="23">
+            <ln n="78"><char ref="#Iago">IAGO</char></ln>
+            <ln n="79">It's just a cave that might eat you alive</ln>
+            <ln n="80">No need to fear it!</ln>
+        </lg>
+
+        <lg n="24">
+            <ln n="81"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="82">Well it's a risk that I might have to take</ln>
+        </lg>
+
+        <lg n="25">
+            <ln n="83"><char ref="#Jafar-Iago">JAFAR &amp; IAGO</char></ln>
+            <ln n="84">We're glad to hear it</ln>
+        </lg>
+
+        <lg n="26">
+            <ln n="85"><char ref="#Jafar">JAFAR</char></ln>
+            <ln n="86">So please no missteps or blunders</ln>
+        </lg>
+
+        <lg n="27">
+            <ln n="87"><char ref="#Iago">IAGO</char></ln>
+            <ln n="88">Cue the Cave of Wonders!</ln>
+        </lg>
+
+        <lg n="28">
+            <ln n="89"><char ref="#Jafar-Iago">JAFAR &amp; IAGO</char></ln>
+            <ln n="90">We've waited long enough</ln>
+        </lg>
+
+        <lg n="29">
+            <ln n="91"><char ref="#Cave">CAVE OF WONDERS</char></ln>
+            <ln n="92">Who disturbs my slumber</ln>
+        </lg>
+
+        <lg n="30">
+            <ln n="93"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="94">Uh, it is I, Aladdin</ln>
+        </lg>
+
+        <lg n="31">
+            <ln n="95"><char ref="#Cave">CAVE OF WONDERS</char></ln>
+            <ln n="96">You are the diamond in the rough. The one whose worth lies deep within. You
+                may enter</ln>
+        </lg>
+
+        <lg n="32">
+            <ln n="97"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="98">I don't believe it. My mother always said if I only applied myself - If I
+                only believed!</ln>
+        </lg>
+
+        <lg n="33">
+            <ln n="99"><char ref="#Jafar">JAFAR</char></ln>
+            <ln n="100">We don't have time for self-discovery! Fetch me the lamp. Now!</ln>
+        </lg>
+
+        <lg n="34">
+            <ln n="101"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="102">Wish me luck!</ln>
+        </lg>
+
+        <lg n="35">
+            <ln n="103"><char ref="#Jafar">JAFAR</char></ln>
+            <ln n="104">Luck!</ln>
+            <ln n="105">Goodbye you diamond in the</ln>
+        </lg>
+
+        <lg n="36">
+            <ln n="106"><char ref="#Iago">IAGO</char></ln>
+            <ln n="107">Please try you diamond in the</ln>
+        </lg>
+
+        <lg n="37">
+            <ln n="108"><char ref="#Jafar-Iago">JAFAR &amp; IAGO</char></ln>
+            <ln n="109">Don't die you diamond in the rough</ln>
+        </lg>
+
+        <lg n="38">
+            <ln n="110"><char ref="#Jafar">JAFAR</char></ln>
+            <ln n="111">At last!</ln>
+        </lg>
+    </song>
+</xml>

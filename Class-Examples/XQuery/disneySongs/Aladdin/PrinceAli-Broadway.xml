@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>Prince Ali</title>
+        <origin><movie>Aladdin (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer><lyricist ref="#Ashman">Howard
+                Ashman</lyricist></author>
+        <perform><voiceActor ref="#ONeill" role="#Kassim">Brandon O'Neill</voiceActor>
+            <voiceActor role="#Omar" ref="#Schwartz">Jonathan Schwartz</voiceActor>
+            <voiceActor role="#Babkak" ref="#Gonzales">Brian Gonzales</voiceActor>
+            <voiceActor role="#Genie" ref="#Iglehart">James Monroe Iglehart</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Kassim">KASSIM</char> Hail, your attention I crave</ln>
+            <ln n="2">Oh ye people of Agrabah</ln>
+            <ln n="3">This is your lucky day</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="4"><char ref="#Omar">OMAR</char></ln>
+            <ln n="5">Hail, high and low, great and small</ln>
+            <ln n="6">Lucky people of Agrabah</ln>
+            <ln n="7">Someone's coming to call</ln>
+            <ln n="8">Take it away Babkak</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="9"><char ref="#Babkak">BABKAK</char></ln>
+            <ln n="10">Someone who tamed the Cyclops</ln>
+            <ln n="11">Then fought forty thieves single hand</ln>
+            <ln n="12">He's richer than Croesus</ln>
+            <ln n="13">He goes where he pleases</ln>
+            <ln n="14">And this time he's chosen your land</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="15"><char ref="#BOK">BABKAK, OMAR AND KASSIM</char></ln>
+            <ln n="16">So here he is now with his band</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="17"><char ref="#Ensemble">ENSEMBLE</char>&gt;</ln>
+            <ln n="18">Make way for Prince Ali</ln>
+            <ln n="19">Say hey! Hey! Hey!</ln>
+            <ln n="20">For Prince Ali</ln>
+            <ln n="21">Say hey!</ln>
+            <ln n="22"><char ref="#Genie">GENIE</char></ln>
+            <ln n="23">Hey! Clear the way in the old bazaar</ln>
+            <ln n="24">Hey you! Let us through!</ln>
+            <ln n="25">It's a bright new star! Oh</ln>
+            <ln n="26">Come! Be the first on your block</ln>
+            <ln n="27">To meet his eye!</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="28">Make way</ln>
+            <ln n="29">Here he comes!</ln>
+            <ln n="30">Ring bells! Bang the drums!</ln>
+            <ln n="31">Are you gonna love this guy!</ln>
+            <ln n="32">Make Way! (Make Way!)</ln>
+            <ln n="33">Make Way! (Make Way!)</ln>
+            <ln n="34">Make Way!</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="35">Prince Ali! Fabulous he!</ln>
+            <ln n="36">Ali Ababwa</ln>
+            <ln n="37">Genuflect, show some respect</ln>
+            <ln n="38">Down on one knee!</ln>
+            <ln n="39">Now, try your best to stay calm</ln>
+            <ln n="40">Brush up your Sunday salaam</ln>
+            <ln n="41">Then come and meet his spectacular coterie</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="42">Prince Ali!</ln>
+            <ln n="43">Mighty is he!</ln>
+            <ln n="44">Ali Ababwa</ln>
+            <ln n="45">Strong as ten regular men, definitely!</ln>
+            <ln n="46">He once slew seventy Turks</ln>
+            <ln n="47">Mustaches, sabres, real jerks!</ln>
+            <ln n="48">Who gave those bad guys the works?</ln>
+            <ln n="49"><char ref="#Ensemble">ENSEMBLE</char>&gt;</ln>
+            <ln n="50">Why, Prince Ali</ln>
+            <ln n="51">Prince, Prince Ali</ln>
+            <ln n="52">Prince Ali</ln>
+            <ln n="53">Prince, Prince Ali</ln>
+            <ln n="54">Prince Ali</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="55"><char ref="#Woman">WOMAN</char></ln>
+            <ln n="56">He's got seventy-five golden camels</ln>
+            <ln n="57">Purple peacocks</ln>
+            <ln n="58">He's got fifty-three</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="59"><char ref="#Genie">GENIE</char></ln>
+            <ln n="60">When it comes to exotic-type mammals</ln>
+            <ln n="61">Has he got a zoo?</ln>
+            <ln n="62">I'm telling you</ln>
+            <ln n="63">It's a world-class menagerie</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="64">Wow!</ln>
+            <ln n="65">Prince Ali! Wonderful he</ln>
+            <ln n="66">Ali Ababwa</ln>
+            <ln n="67">He's essayed quite a parade</ln>
+            <ln n="68">For you to see</ln>
+            <ln n="69">So get on out in that street</ln>
+            <ln n="70">Got someone I wantcha to meet</ln>
+            <ln n="71">Come on, start kissing the feet</ln>
+            <ln n="72">Of Prince Ali!</ln>
+            <ln n="73">Sing hey, hey!</ln>
+            <ln n="74">Hey, hey!</ln>
+            <ln n="75">Hey to Prince Ali</ln>
+            <ln n="76">Sing hey, hey!</ln>
+            <ln n="77">Hey, hey!</ln>
+            <ln n="78">Hey to Prince Ali</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="79">Sounding good fellas</ln>
+            <ln n="80">Hit me one more time</ln>
+            <ln n="81">Over the top</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="82">There's no question this Ali's impressive</ln>
+            <ln n="83">Though his entourage may be excessive</ln>
+            <ln n="84">All those elephants at once can quite unnerve one</ln>
+            <ln n="85">Still, the guy gives a parade new meaning</ln>
+            <ln n="86">And the sight of all those peacocks preening</ln>
+            <ln n="87">He's a prince without a peer</ln>
+            <ln n="88">And we deserve one!</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="89">There's no question this Ali's alluring</ln>
+            <ln n="90">Never ordinary!</ln>
+            <ln n="91">Never boring!</ln>
+            <ln n="92">Everything about the man just plain impresses</ln>
+            <ln n="93">He's a winner, he's a whizz</ln>
+            <ln n="94">A Wonder!</ln>
+            <ln n="95">He's about to pull my heart asunder</ln>
+            <ln n="96">And I absolutely love the way he dresses</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="97">He's got ninety-five white Persian monkeys</ln>
+            <ln n="98">(He's got the monkey's, lets see the monkeys)</ln>
+            <ln n="99">And to view them he charges no fee</ln>
+            <ln n="100">(He's generous, so generous)</ln>
+            <ln n="101">He's got slaves, he's got servants and flunkies</ln>
+            <ln n="102">(Proud to work for him)</ln>
+            <ln n="103">They bow to his whim</ln>
+            <ln n="104">(Love serving him)</ln>
+            <ln n="105">They're just lousy with loyalty to Ali!</ln>
+            <ln n="106">Prince Ali!</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="107">Prince Ali!</ln>
+            <ln n="108">Amorous he!</ln>
+            <ln n="109">Ali Ababwa</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="110">Heard your Princess was a sight</ln>
+            <ln n="111">Lovely to see</ln>
+            <ln n="112">And that, good people, is why</ln>
+            <ln n="113">He got dolled up and dropped by</ln>
+            <ln n="114">With sixty elephants, llama's galore</ln>
+            <ln n="115">With his bears and lions</ln>
+            <ln n="116">A brass band and more</ln>
+            <ln n="117">With his forty fakirs</ln>
+            <ln n="118">His cooks, his bakers</ln>
+            <ln n="119">His birds that warble on key</ln>
+            <ln n="120">Make way for Prince Ali! (Prince Ali)</ln>
+            <ln n="121">Say hey to Prince Ali! (Prince Ali)</ln>
+            <ln n="122">Say hey, hey, hey to Prince Ali!</ln>
+        </lg>
+    </song>
+</xml>

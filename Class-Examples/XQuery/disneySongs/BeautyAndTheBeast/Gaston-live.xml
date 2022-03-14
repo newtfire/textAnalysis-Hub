@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>
+    <title>Gaston</title>
+    <origin>Music from <movie>Beauty and the Beast (Live-Action)</movie></origin>
+    <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+    <perform>Performed by <voiceActor ref="#Gad" role="#Lefou">Josh Gad</voiceActor>, <voiceActor ref="#Evans" role="#Gaston">Luke Evans</voiceActor> and chorus</perform>
+</metadata>
+    
+<song>
+<lg n="1">
+    <ln n="1"><char ref="#Lefou">Lefou:</char> Gosh, it disturbs me to see you, Gaston</ln>
+    <ln n="2">Looking so down in the dumps</ln>
+    <ln n="3">Every guy here'd love to be you, Gaston</ln>
+    <ln n="4">Even when taking your lumps</ln>
+</lg>
+
+<lg n="2">
+    <ln n="5">There's no man in town as admired as you</ln>
+    <ln n="6">You're everyone's favorite guy</ln>
+    <ln n="7">Everyone's awed and inspired by you</ln>
+    <ln n="8">And it's not very hard to see why</ln>
+</lg>
+
+<lg n="3">
+    <ln n="9">No one's slick as Gaston</ln>
+    <ln n="10">No one's quick as Gaston</ln>
+    <ln n="11">No one's neck's as incredibly thick as Gaston</ln>
+    <ln n="12">For there's no man in town half as manly</ln>
+</lg>
+    
+<lg n="4">
+    <ln n="13"><char ref="#Bimbettes">Bimbettes:</char> Perfect, a pure paragon</ln>
+</lg>
+
+<lg n="5">
+    <ln n="14"><char ref="#Lefou">Lefou:</char> You can ask any Tom, Dick or Stanley</ln>
+    <ln n="15">And they'll tell you whose team they'd prefer to be on</ln>
+</lg>
+
+<lg n="6">
+    <ln n="16">Who plays darts like Gaston</ln>
+    <ln n="17">Who breaks hearts like Gaston</ln>
+    <ln n="18">Who's much more than the sum of his parts, like Gaston</ln>
+</lg>
+
+<lg n="7">
+    <ln n="19"><char ref="#Gaston">Gaston:</char> As a specimen, yes, I'm intimidating</ln>
+</lg>
+
+<lg n="8">
+    <ln n="20"><char ref="#Townies">Townies:</char> My, what a guy, that Gaston</ln>
+</lg>
+
+<lg n="9">
+    <ln n="21"><char ref="#Gaston">Gaston:</char> I needed encouragement; thank you, Lefou</ln>
+</lg>
+
+<lg n="10">
+    <ln n="22"><char ref="#Lefou">Lefou:</char> Well, there's no one as easy to bolster as you</ln>
+</lg>
+
+<lg n="11">
+    <ln n="23"><char ref="#Townies">Townies:</char> No one fights like Gaston</ln>
+    <ln n="24">Douses lights like Gaston</ln>
+</lg>
+
+<lg n="12">
+    <ln n="25"><char ref="#Lefou">Lefou:</char> In a wrestling match nobody bites like Gaston</ln>
+</lg>
+
+<lg n="13">
+    <ln n="26"><char ref="#Gaston">Gaston:</char> When I hunt I sneak up with my quiver</ln>
+    <ln n="27">And beasts of the field say a prayer</ln>
+    <ln n="28">First I carefully aim for the liver</ln>
+    <ln n="29">Then I shoot from behind</ln>
+</lg>
+
+<lg n="14">
+    <ln n="30"><char ref="#Lefou">Lefou:</char> Is that fair?</ln>
+</lg>
+
+<lg n="15">
+    <ln n="31"><char ref="#Gaston">Gaston:</char> I don't care</ln>
+</lg>
+
+<lg n="16">
+    <ln n="32"><char ref="#Townies">Townies:</char> No one hits like Gaston</ln>
+    <ln n="33">Matches wits like Gaston</ln>
+</lg>
+
+<lg n="17">
+    <ln n="34"><char ref="#Lefou">Lefou:</char> In a spitting match, nobody spits like Gaston</ln>
+</lg>
+
+<lg n="18">
+    <ln n="35"><char ref="#Gaston">Gaston:</char> I'm especially good at expectorating</ln>
+</lg>
+
+<lg n="19">
+    <ln n="36"><char ref="#Townies">Townies:</char> Ten points for Gaston!</ln>
+</lg>
+
+<lg n="20">
+    <ln n="37"><char ref="#Gaston">Gaston:</char> When I was a lad I ate four dozen eggs</ln>
+    <ln n="38">Every morning to help me get large</ln>
+    <ln n="39">And now that I'm grown I eat five dozen eggs</ln>
+    <ln n="40">So I'm roughly the size of a barge</ln>
+</lg>
+
+<lg n="21">
+    <ln n="41"><char ref="#Lefou">Lefou:</char> Who has brains like Gaston</ln>
+    <ln n="42">Entertains like Gaston</ln>
+</lg>
+
+<lg n="22">
+    <ln n="43"><char ref="#Gaston">Gaston:</char> Who can make up these endless refrains, like Gaston</ln>
+    <ln n="44">I use antlers in all of my decorating</ln>
+</lg>
+
+<lg n="23">
+    <ln n="45"><char ref="#Townies">Townies:</char> Say it again</ln>
+    <ln n="46">Who's a man among men?</ln>
+    <ln n="47">Who's a super success?</ln>
+    <ln n="48">Don't you know? Can't you guess?</ln>
+    <ln n="49">Ask his fans and his five hangers-on</ln>
+    <ln n="50">There's just one guy in town</ln>
+    <ln n="51">Who's got all of it down</ln>
+</lg>
+
+<lg n="24">
+    <ln n="52"><char ref="#Lefou">Lefou:</char> And his name's G-A-S-T -</ln>
+    <ln n="53">I believe there's another T</ln>
+    <ln n="54">It just occurred to me that I'm illiterate</ln>
+    <ln n="55">And I've never actually had to spell it out loud before</ln>
+</lg>
+
+<lg n="25">
+    <ln n="56"><char ref="#Townies">Townies:</char> Gaston!</ln>
+</lg>
+</song>
+</xml>

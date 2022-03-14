@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>Maison De Lunes</title>
+        <origin><movie>Beauty and the Beast (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer>
+            <lyricist ref="#Rice">Tim Rice</lyricist></author>
+        <perform><voiceActor ref="#Moses" role="#Gaston">Burke Moses</voiceActor>
+            <voiceActor ref="#Raskin" role="#Lefou">Kenny Raskin</voiceActor>
+            <voiceActor role="#DArque" ref="#Stanley">Gordon Stanley</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="2">When a man like me is thwarted</ln>
+            <ln n="3">And denied his honeymoon</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="4"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="5">When the pretty thing he's courted</ln>
+            <ln n="6">Refuses to swoon</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="7"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="8">Then the time has come for a murky plan</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="9"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="10">For which he turns to a murky man</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="11"><char ref="#All">All</char></ln>
+            <ln n="12">To find that fiend where better than</ln>
+            <ln n="13">At the Maison des Lunes?</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="14"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="15">You'll be strapping up an inmate</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="16"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="17">Very tightly</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="18"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="19">Very soon</ln>
+            <ln n="20">But we won't bring him in late</ln>
+            <ln n="21"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="22">Your check-in time's noon</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="23"><char ref="#DAqrque">D'Arque</char></ln>
+            <ln n="24">How sad Maurice is not too well</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="25"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="26">Prepare a five-star padded cell!</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="27"><char ref="#All">All</char></ln>
+            <ln n="28">And book him in for a long, long spell</ln>
+            <ln n="29">At the Maison des Lunes</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="30"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="31">Do I make myself entirely clear?</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="32"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="33">It's the simplest deal of your whole foul career</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="34"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="35">Put Maurice away and she'll be here in moments</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="36"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="37">In a dreadful state</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="38"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="39">She'll capitulate to me</ln>
+            <ln n="40"><char ref="#DAqrque">D'Arque</char></ln>
+            <ln n="41">Oh! Oh! Oh, I love incarceration</ln>
+            <ln n="42">I could lock up a platoon</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="43"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="44">We'll apply your inclination</ln>
+            <ln n="45">To a mad old buffon</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="46"><char ref="#GastonLefou">Gaston &amp; Lefou</char></ln>
+            <ln n="47">Then wave one bachelor goodbye</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="48"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="49">She'll be my bride</ln>
+        </lg>
+
+        <lg n="20">
+            <ln n="50"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="51">She'd rather die</ln>
+            <ln n="52">Than have her daddy ossify</ln>
+        </lg>
+
+        <lg n="21">
+            <ln n="53"><char ref="#DAqrque">D'Arque</char></ln>
+            <ln n="54">The time's opportune</ln>
+        </lg>
+
+        <lg n="22">
+            <ln n="55"><char ref="#All">All</char></ln>
+            <ln n="56">So book the church, raise glasses high</ln>
+            <ln n="57">To the Maison des Lunes!</ln>
+
+
+
+
+        </lg>
+    </song>
+</xml>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>    
+    <title>How Does a Moment Last Forever</title>
+    <origin>Music from <movie>Beauty and the Beast (Live-Action)</movie></origin>
+    <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+    <perform>Performed by <voiceActor ref="#Dion" role="#Singer">Celine Dion</voiceActor></perform>
+</metadata>
+    
+<song>    
+<lg n="1">
+    <ln n="1">How does a moment last forever</ln>
+    <ln n="2">How can a story never die</ln>
+    <ln n="3">It is love we must hold onto</ln>
+    <ln n="4">Never easy, but we try</ln>
+</lg>
+
+<lg n="2">
+    <ln n="5">Sometimes our happiness is captured</ln>
+    <ln n="6">Somehow our time and place stand still</ln>
+    <ln n="7">Love lives on inside our hearts</ln>
+    <ln n="8">And always will</ln>
+</lg>
+
+<lg n="3">
+    <ln n="9">Minutes turn to hours</ln>
+    <ln n="10">Days to years, then gone</ln>
+    <ln n="11">But when all else has been forgotten</ln>
+    <ln n="12">Still our song lives on</ln>
+</lg>
+
+<lg n="4">
+    <ln n="13">Maybe some moments weren't so perfect</ln>
+    <ln n="14">Maybe some memories not so sweet</ln>
+    <ln n="15">But we have to know some bad times</ln>
+    <ln n="16">For our lives are incomplete</ln>
+</lg>
+
+<lg n="5">
+    <ln n="17">Then when the shadows overtake us</ln>
+    <ln n="18">Just when we feel all hope is gone</ln>
+    <ln n="19">We'll hear our song, and know once more</ln>
+    <ln n="20">Our love lives on</ln>
+</lg>
+
+<lg n="6">
+    <ln n="21">How does a moment last forever</ln>
+    <ln n="22">How does our happiness endure</ln>
+    <ln n="23">Through the darkest of our troubles</ln>
+    <ln n="24">Love is beauty, love is pure</ln>
+</lg>
+
+<lg n="7">
+    <ln n="25">Love pays no mind to desolation</ln>
+    <ln n="26">It flows like a river through the soul</ln>
+    <ln n="27">Protects, perceives and perseveres</ln>
+    <ln n="28">And makes us whole</ln>
+</lg>
+    
+<lg n="8">
+    <ln n="29">Minutes turn to hours</ln>
+    <ln n="30">Days to years, then gone</ln>
+    <ln n="31">But when all else has been forgotten</ln>
+    <ln n="32">Still our song lives on</ln>
+</lg>
+
+<lg n="9">
+    <ln n="33">How does a moment last forever</ln>
+    <ln n="34">When our song lives on</ln>
+</lg>
+</song>
+</xml>

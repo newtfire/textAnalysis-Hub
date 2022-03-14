@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>Me</title>
+        <origin><movie>Beauty and the Beast (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer>
+            <lyricist ref="#Rice">Tim Rice</lyricist></author>
+        <perform><voiceActor ref="#Moses" role="#Gaston">Burke Moses</voiceActor>
+            <voiceActor ref="#Egan" role="#Belle">Susan Egan</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Gaston">GASTON</char></ln>
+            <ln n="2">You've been dreaming, just one dream</ln>
+            <ln n="3">Nearly all your life</ln>
+            <ln n="4">Hoping, scheming, just one theme:</ln>
+            <ln n="5">Will you be a wife?</ln>
+            <ln n="6">Will you be some he-man's property?</ln>
+            <ln n="7">Good news!</ln>
+            <ln n="8">That he-man's me!</ln>
+            <ln n="9">This equation, girl plus man</ln>
+            <ln n="10">Doesn't help just you</ln>
+            <ln n="11">On occasion, women can</ln>
+            <ln n="12">Have their uses too</ln>
+            <ln n="13">Mainly to extend the family tree</ln>
+            <ln n="14">Pumpkin, extend with me!</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="15">We'll be raising sons galore</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="16"><char ref="#Belle">BELLE</char></ln>
+            <ln n="17">Inconceivable!</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="18"><char ref="#Gaston">GASTON</char></ln>
+            <ln n="19">Each built six foot four!</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="20"><char ref="#Belle">BELLE</char></ln>
+            <ln n="21">Unbelievable!</ln>
+            <ln n="22"><char ref="#Gaston">GASTON</char></ln>
+            <ln n="23">Each stuffed with ev'ry Gaston gene!</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="24"><char ref="#Belle">BELLE</char></ln>
+            <ln n="25">I'm not hearing this!</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="26"><char ref="#Gaston">GASTON</char></ln>
+            <ln n="27">You'll be keeping house with pride!</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="28"><char ref="#Belle">BELLE</char></ln>
+            <ln n="29">Just incredible!</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="30"><char ref="#Gaston">GASTON</char></ln>
+            <ln n="31">Oh so gratified</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="32"><char ref="#Belle">BELLE</char></ln>
+            <ln n="33">So unweddable!</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="34"><char ref="#Gaston">GASTON</char></ln>
+            <ln n="35">That you are a part of this idyllic scene</ln>
+            <ln n="36">(spoken)</ln>
+            <ln n="37">Picture this: A rustic hunting lodge, my latest kill roasting over the fire, my
+                little wife massaging my feet, while the little</ln>
+            <ln n="38">Ones play on the floor with the dogs. We'll have six or seven!</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="39"><char ref="#Belle">BELLE, spoken</char></ln>
+            <ln n="40">Dogs?</ln>
+            <ln n="41"><char ref="#Gaston">GASTON, spoken</char></ln>
+            <ln n="42">No, Belle!</ln>
+            <ln n="43">Strapping boys...like me!</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="44"><char ref="#Belle">BELLE, spoken</char></ln>
+            <ln n="45">Imagine that!</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="46"><char ref="#Gaston">GASTON</char></ln>
+            <ln n="47">I can see that we will share</ln>
+            <ln n="48">All that love implies</ln>
+            <ln n="49">We shall be a perfect pair</ln>
+            <ln n="50">Rather like my thighs</ln>
+            <ln n="51">You are face to face with destiny!</ln>
+            <ln n="52">All roads lead to...</ln>
+            <ln n="53">The best things in life are...</ln>
+            <ln n="54">All's well that ends with me!</ln>
+            <ln n="55">Escape me?</ln>
+            <ln n="56">There's no way</ln>
+            <ln n="57">Certain as "Do, Re,"</ln>
+            <ln n="58">Belle, when you marry....</ln>
+            <ln n="59">(spoken)</ln>
+            <ln n="60">So Belle, what would it be?</ln>
+            <ln n="61">Is it "yes", or is it "oh, yes"?</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="62"><char ref="#Belle">BELLE, spoken</char></ln>
+            <ln n="63">I...I just don't deserve you!</ln>
+            <ln n="64"><char ref="#Gaston">GASTON, spoken</char></ln>
+            <ln n="65">Who does?</ln>
+            <ln n="66">(sung)</ln>
+            <ln n="67">Me!</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="68"><char ref="#Belle">BELLE, spoken</char></ln>
+            <ln n="69">But thanks for asking</ln>
+        </lg>
+    </song>
+</xml>

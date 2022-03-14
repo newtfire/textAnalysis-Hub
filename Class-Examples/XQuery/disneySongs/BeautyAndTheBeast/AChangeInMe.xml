@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>A Change in Me</title>
+        <origin>
+            <movie>Beauty and the Beast (Broadway)</movie>
+        </origin>
+        <author><composer ref="#Menken">Alan Menken</composer><lyricist ref="#Rice">Tim
+                Rice</lyricist></author>
+        <perform><voiceActor ref="#Egan" role="#Belle">Susan Egan</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1">There’s been a change in me</ln>
+            <ln n="2">A kind of moving on</ln>
+            <ln n="3">Though what I used to be</ln>
+            <ln n="4">I still depend upon</ln>
+            <ln n="5">For now I realize</ln>
+            <ln n="6">That good can come from bad</ln>
+            <ln n="7">That may not make me wise</ln>
+            <ln n="8">But oh it makes me glad</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="9">And I-- I never thought I’d leave behind</ln>
+            <ln n="10">My childhood dreams</ln>
+            <ln n="11">But I don’t mind</ln>
+            <ln n="12">For now I love the world I see</ln>
+            <ln n="13">No change of heart a change in me.</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="14">For in my dark despair</ln>
+            <ln n="15">I've slowly understood</ln>
+            <ln n="16">My perfect world out there</ln>
+            <ln n="17">Had disappeared for good</ln>
+            <ln n="18">But in it’s place I feel</ln>
+            <ln n="19">A truer life begin</ln>
+            <ln n="20">And it’s so good and real</ln>
+            <ln n="21">It must come from within</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="22">And I-- I never thought I’d leave behind</ln>
+            <ln n="23">My childhood dreams but I don’t mind</ln>
+            <ln n="24">I’m where and who I want to be</ln>
+            <ln n="25">No change of heart</ln>
+            <ln n="26">A change in me</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="27">No change of heart</ln>
+            <ln n="28">A change in me</ln>
+        </lg>
+    </song>
+</xml>

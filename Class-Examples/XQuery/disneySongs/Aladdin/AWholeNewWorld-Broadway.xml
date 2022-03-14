@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>A Whole New World</title>
+        <origin><movie>Aladdin (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer><lyricist ref="#Rice">Tim
+                Rice</lyricist></author>
+        <perform><voiceActor ref="#Reed" role="#Jasmine">Courtney Reed</voiceActor>
+            <voiceActor role="#Aladdin" ref="#Jacobs">Adam Jacobs</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Aladdin">ALADDIN</char> You must feel trapped inside these
+                walls</ln>
+            <ln n="2">We'll run away, just you and me</ln>
+            <ln n="3">Why not escape as evening falls?</ln>
+            <ln n="4">There's a whole world you've yet to see</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="5"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="6">If I go with you, will it be safe?</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="7"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="8">Sure, do you trust me?</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="9"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="10">What did you just say?</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="11"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="12">Do you trust me?</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="13"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="14">I'm not sure why, but yes</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="15"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="16">I can show you the world</ln>
+            <ln n="17">Shining, shimmering, splendid</ln>
+            <ln n="18">Tell me, princess, now when did</ln>
+            <ln n="19">You last let your heart decide?</ln>
+            <ln n="20">I can open your eyes</ln>
+            <ln n="21">Take you wonder by wonder</ln>
+            <ln n="22">Over, sideways and under</ln>
+            <ln n="23">On a magic carpet ride</ln>
+            <ln n="24">A whole new world</ln>
+            <ln n="25">A new fantastic point of view</ln>
+            <ln n="26">No one to tell us no</ln>
+            <ln n="27">Or where to go</ln>
+            <ln n="28">Or say we're only dreaming</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="29"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="30">A whole new world</ln>
+            <ln n="31">A dazzling place I never knew</ln>
+            <ln n="32">But when I'm way up here</ln>
+            <ln n="33">It's crystal clear</ln>
+            <ln n="34">That now I'm in a whole new world with you</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="35"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="36">Now I'm in a whole new world with you</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="37"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="38">Unbelievable sights</ln>
+            <ln n="39">Indescribable feeling</ln>
+            <ln n="40">Soaring, tumbling, freewheeling</ln>
+            <ln n="41">Through an endless diamond sky</ln>
+            <ln n="42">A whole new world</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="43"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="44">Don't you dare close your eyes</ln>
+            <ln n="45"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="46">A hundred thousand things to see</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="47"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="48">Hold your breath, it gets better</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="49"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="50">I'm like a shooting star</ln>
+            <ln n="51">I've come so far</ln>
+            <ln n="52">I can't go back to where I used to be</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="53"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="54">A whole new world</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="55"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="56">Every turn a surprise</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="57"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="58">With new horizons to pursue</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="59"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="60">Every moment, red-letter</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="61"><char ref="#Both">BOTH</char></ln>
+            <ln n="62">I'll chase them anywhere</ln>
+            <ln n="63">There's time to spare</ln>
+            <ln n="64">Let me share this whole new world with you</ln>
+            <ln n="65"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="66">A whole new world</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="67"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="68">Don't you dare close your eyes</ln>
+        </lg>
+
+        <lg n="20">
+            <ln n="69"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="70">A hundred thousand things to see</ln>
+        </lg>
+
+        <lg n="21">
+            <ln n="71"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="72">Hold your breath, it gets better</ln>
+        </lg>
+
+        <lg n="22">
+            <ln n="73"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="74">I'm like a shooting star</ln>
+            <ln n="75">I've come so far</ln>
+            <ln n="76">I can't go back to where I used to be</ln>
+        </lg>
+
+        <lg n="23">
+            <ln n="77"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="78">A whole new world</ln>
+        </lg>
+
+        <lg n="24">
+            <ln n="79"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="80">Every turn a surprise</ln>
+        </lg>
+
+        <lg n="25">
+            <ln n="81"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="82">With new horizons to pursue</ln>
+        </lg>
+
+        <lg n="26">
+            <ln n="83"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="84">Every moment gets better</ln>
+        </lg>
+
+        <lg n="27">
+            <ln n="85"><char ref="#Both">BOTH</char></ln>
+            <ln n="86">I'll chase them anywhere</ln>
+            <ln n="87">There's time to spare</ln>
+            <ln n="88">Let me share this whole new world with you</ln>
+        </lg>
+
+        <lg n="28">
+            <ln n="89"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="90">A whole new world</ln>
+        </lg>
+
+        <lg n="29">
+            <ln n="91"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="92">A whole new world</ln>
+        </lg>
+
+        <lg n="30">
+            <ln n="93"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="94">That's where we'll be</ln>
+        </lg>
+
+        <lg n="31">
+            <ln n="95"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="96">That's where we'll be</ln>
+        </lg>
+
+        <lg n="32">
+            <ln n="97"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="98">A thrilling chase</ln>
+        </lg>
+
+        <lg n="33">
+            <ln n="99"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="100">A wondrous place</ln>
+        </lg>
+
+        <lg n="34">
+            <ln n="101"><char ref="#Both">BOTH</char></ln>
+            <ln n="102">For you and me</ln>
+        </lg>
+    </song>
+</xml>

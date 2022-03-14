@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>No Matter What (Reprise)</title>
+        <origin><movie>Beauty and the Beast (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer>
+            <lyricist ref="#Rice">Tim Rice</lyricist></author>
+        <perform><voiceActor ref="#Bosley" role="#Maurice">Tom Bosley</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg>
+            <ln><char ref="#Maurice">MAURICE</char></ln>
+            <ln>First prize is nearly mine</ln>
+            <ln>It's quite my best invention</ln>
+            <ln>So simple, yet complex;</ln>
+            <ln>So massive, yet so small</ln>
+            <ln>This triumph of design</ln>
+            <ln>Will be my old-age pension</ln>
+            <ln>That is, provided I can find the fair at all</ln>
+            <ln>I must have missed a sign</ln>
+            <ln>I should have paid attention</ln>
+            <ln>Drat!</ln>
+            <ln>That's not a nightingale, and not a mating call</ln>
+            <ln>Wolves!</ln>
+        </lg>
+    </song>
+</xml>

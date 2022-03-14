@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>You're Only Second Rate(1994)</title>
+        <origin>Lyrics from <movie>Aladdin: The Return of Jafar</movie></origin>
+        <author>Lyrics and music by <composer ref="#Petersen">Randy Petersen</composer> and
+                <composer ref="#Quinn">Kevin Quinn</composer></author>
+        <perform>Performed by <voiceActor ref="#Freeman" role="#Jafar">Jonathan
+                Freeman</voiceActor> as Jafar</perform>
+        <source>https://www.disneyclips.com/lyrics/lyricsjafar2.html</source>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Jafar">Jafar:</char> I must admit, your parlor tricks are amusing</ln>
+            <ln n="2">I bet you've got a bunny under your hat </ln>
+            <ln n="3">Now here's your chance to get the best of me</ln>
+            <ln n="4">Hope your hand is hot</ln>
+            <ln n="5">C'mon, clown, let's see what you've got</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="6">You try to slam me with your hardest stuff</ln>
+            <ln n="7">But your double whammy isn't up to snuff</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="8">I'll set the record straight</ln>
+            <ln n="9">You're simply out of date</ln>
+            <ln n="10">You're only second rate!</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="11">You think your cat's a meanie, but your tiger's tame</ln>
+            <ln n="12">You've got a lot to learn about the genie game</ln>
+            <ln n="13">So for your education I'll reiterate</ln>
+            <ln n="14">You're only second rate!</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="15">Men cower at the power in my pinky</ln>
+            <ln n="16">My thumb is number one on every list</ln>
+            <ln n="17">But if you're not convinced that I'm invincible</ln>
+            <ln n="18">Put me to the test</ln>
+            <ln n="19">I'd love to lay this rivalry to rest</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="20">Go ahead and zap me with the big surprise</ln>
+            <ln n="21">Snap me in a trap, cut me down to size</ln>
+            <ln n="22">I'll make a great escape</ln>
+            <ln n="23">It's just a piece of cake</ln>
+            <ln n="24">You're only second rate!</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="25">You know, your hocus-pocus isn't tough enough</ln>
+            <ln n="26">And your mumbo-jumbo doesn't measure up</ln>
+            <ln n="27">Let me pontificate upon your sorry state</ln>
+            <ln n="28">You're only second rate!</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="29">Zaba-caba-dabra!</ln>
+            <ln n="30">Granny's gonna grab ya!</ln>
+            <ln n="31">Alakazam-da-mus</ln>
+            <ln n="32">And this thing's bigger than the both of us</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="33">So spare me your tremendous scare</ln>
+            <ln n="34">You look horrendous in your underwear</ln>
+            <ln n="35">And I can hardly wait to discombobulate</ln>
+            <ln n="36">I'll send ya back and packing in a shipping crate</ln>
+            <ln n="37">You'd make a better living with a spinning plate</ln>
+            <ln n="38">You're only second rate!</ln>
+        </lg>
+    </song>
+</xml>

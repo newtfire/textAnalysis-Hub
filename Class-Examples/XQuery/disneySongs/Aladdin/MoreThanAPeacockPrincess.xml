@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>
+<title>More Than a Peacock Princess</title>
+<origin>Lyrics from <movie>Disney Princess Enchanted Tales: Follow Your Dreams</movie></origin>
+<author>Words and Music by <composer ref="#Powers">Amy Powers</composer> and <composer ref="#DeSalvo">Russ DeSalvo</composer></author>
+<perform>Performed by <voiceActor ref="#Salonga" role="#Jasmine">Lea Salonga</voiceActor> and <voiceActor ref="#Gottfried" role="#Iago">Gilbert Gottfried</voiceActor></perform>
+</metadata>
+    
+<song>    
+<lg n="1">
+    <ln n="1"><char ref="#Jasmine">Jasmine:</char> Another satin gown</ln>
+    <ln n="2">Another rose bouquet</ln>
+    <ln n="3">Another king, another ring, another boring day</ln>
+    <ln n="4">I'm gonna sound the call</ln>
+    <ln n="5">From Mecca to Siam</ln>
+    <ln n="6">I'm more than a peacock princess</ln>
+    <ln n="7">I am!</ln>
+</lg>
+
+<lg n="2">
+    <ln n="8"><char ref="#Iago">Iago:</char> Yeah, right!</ln>
+    <ln n="9"><char ref="#Jasmine">Jasmine:</char> I am!</ln>
+    <ln n="8"><char ref="#Iago">Iago:</char> Not quite!</ln>
+</lg>
+
+<lg n="3">
+    <ln n="9"><char ref="#Jasmine">Jasmine:</char> I smile and I wave</ln>
+    <ln n="10">I wave and then I smile</ln>
+    <ln n="11">I sit on one more camel's hump</ln>
+    <ln n="13">For one more bumpy mile</ln>
+    <ln n="14">I'm not just one more silk</ln>
+    <ln n="15">In Daddy's caravan</ln>
+    <ln n="16">I'm more than a peacock princess</ln>
+    <ln n="17">I am</ln>
+</lg>
+
+<lg n="4">
+    <ln n="18"><char ref="#Iago">Iago:</char> I believe she is</ln>
+</lg>
+
+<lg n="5">
+    <ln n="19"><char ref="#Jasmine">Jasmine:</char> I can find a cure</ln>
+    <ln n="20">I can help the poor</ln>
+    <ln n="21">I could soar if they'd give me half a chance</ln>
+    <ln n="22">When will they get a clue?</ln>
+    <ln n="23">There's so much that I can do</ln>
+</lg>
+
+<lg n="6">
+    <ln n="24"><char ref="#Iago">Iago:</char> You can knock 'em flat</ln>
+    <ln n="25"><char ref="#Jasmine">Jasmine:</char> Be a diplomat</ln>
+    <ln n="26"><char ref="#Iago">Iago:</char> It's apparent the girl's got talent</ln>
+</lg>
+
+<lg n="7">
+    <ln n="27"><char ref="#Jasmine">Jasmine:</char> Send the Sultan</ln>
+    <ln n="28">A royal telegram</ln>
+    <ln n="29">I'm more than a peacock princess</ln>
+</lg>
+
+<lg n="8">
+    <ln n="30"><char ref="#Iago">Iago:</char>You're more than a peacock princess</ln>
+    <ln n="31"><char ref="#Jasmine">Jasmine</char> &amp; <char ref="#Iago">Iago</char> I'm/You're more than a peacock princess</ln>
+    <ln n="32"><char ref="#Jasmine">Jasmine:</char> I am</ln>
+    <ln n="33"><char ref="#Iago">Iago:</char> You are</ln>
+    <ln n="34"><char ref="#Jasmine">Jasmine:</char> By far</ln>
+    <ln n="35"><char ref="#Iago">Iago:</char> A star</ln>
+    <ln n="36"><char ref="#Jasmine">Jasmine:</char> I am</ln>
+</lg>
+</song>
+</xml>

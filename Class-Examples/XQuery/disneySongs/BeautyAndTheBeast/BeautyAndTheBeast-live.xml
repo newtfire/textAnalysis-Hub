@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>
+    <title>Beauty and the Beast</title>
+    <origin>Music from <movie>Beauty and the Beast (Live-Action)</movie></origin>
+    <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+    <perform>Performed by <voiceActor ref="#Grande" role="#Singer">Ariana Grande</voiceActor> and <voiceActor ref="#Legend" role="#Singer">John Legend</voiceActor></perform>
+</metadata>
+
+<song>
+<lg n="1">
+    <ln n="1">Tale as old as time</ln>
+    <ln n="2">True as it can be</ln>
+    <ln n="3">Barely even friends</ln>
+    <ln n="4">Then somebody bends</ln>
+    <ln n="5">Unexpectedly</ln>
+</lg>
+
+<lg n="2">
+    <ln n="6">Just a little change</ln>
+    <ln n="7">Small to say the least</ln>
+    <ln n="8">Both a little scared</ln>
+    <ln n="9">Neither one prepared</ln>
+    <ln n="10">Beauty and the Beast</ln>
+</lg>
+
+<lg n="3">
+    <ln n="11">Ever just the same</ln>
+    <ln n="12">Ever a surprise</ln>
+    <ln n="13">Ever as before</ln>
+    <ln n="14">And ever just as sure</ln>
+    <ln n="15">As the sun will rise</ln>
+</lg>
+
+<lg n="4">
+    <ln n="16">Ever just the same</ln>
+    <ln n="17">And ever a surprise, yeah</ln>
+    <ln n="18">Ever as before</ln>
+    <ln n="19">And ever just as sure</ln>
+    <ln n="20">As the sun will rise</ln>
+    <ln n="21">Oh! Oh! Oh, oh!</ln>
+</lg>
+
+<lg n="5">
+    <ln n="22">Tale as old as time</ln>
+    <ln n="23">Tune as old as song</ln>
+    <ln n="24">Bittersweet and strange</ln>
+    <ln n="25">Finding you can change</ln>
+    <ln n="26">Learning you were wrong</ln>
+</lg>
+
+<lg n="6">
+    <ln n="27">Certain as the sun</ln>
+    <ln n="28">(Certain as the sun)</ln>
+    <ln n="29">Rising in the east</ln>
+    <ln n="30">Tale as old as time</ln>
+    <ln n="31">Song as old as rhyme</ln>
+    <ln n="32">Beauty and the Beast</ln>
+</lg>
+
+<lg n="7">
+    <ln n="33">Tale as old as time</ln>
+    <ln n="34">Song as old as rhyme</ln>
+    <ln n="35">Beauty and the Beast</ln>
+    <ln n="36">Beauty and the Beast</ln>
+</lg>
+</song>
+</xml>

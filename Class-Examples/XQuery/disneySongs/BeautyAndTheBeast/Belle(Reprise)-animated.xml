@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata><title>Belle (Reprise)</title>
+<origin>Lyrics from <movie>Beauty and the Beast</movie></origin>
+<author>Music and Lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Ashman">Howard Ashman</lyricist></author>
+<perform>Performed by <voiceActor ref="#O'Hara" role="#Belle">Paige O'Hara</voiceActor> as Belle</perform>
+    </metadata>
+
+<song>
+<lg n="1">    
+    <ln n="1"><char ref="#Belle">Belle:</char> Madame Gaston</ln>
+    <ln n="2">Can't you just see it</ln>
+    <ln n="3">Madame Gaston, his little wife</ln>
+    <ln n="4">No sir, not me</ln>
+    <ln n="5">I guarantee it</ln>
+    <ln n="6">I want so much more than this provincial life</ln>
+</lg>
+
+<lg n="2"> 
+    <ln n="7">I want adventure in the great wide somewhere</ln>
+    <ln n="8">I want it more than I can tell</ln>
+    <ln n="9">And for once it might be grand</ln>
+    <ln n="10">To have someone understand</ln>
+    <ln n="11">I want so much more than they've got planned</ln>
+</lg>
+</song>
+</xml>

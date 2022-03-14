@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>
+<title>How Does a Moment Last Forever (Montmartre)</title>
+    <origin>Music from <movie>Beauty and the Beast (Live-Action)</movie></origin>
+<author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+<perform>Performed by <voiceActor ref="#Watson" role="#Belle">Emma Watson</voiceActor> as Belle</perform>
+    </metadata>
+
+<song>
+   <lg n="1">
+       <ln n="1"><char ref="#Belle">Belle:</char> This is the Paris of my childhood</ln>
+       <ln n="2">These were the borders of my life</ln>
+       <ln n="3">In this crumbling, dusty attic</ln>
+       <ln n="4">Where an artist loved his wife</ln>
+</lg>
+<lg n="2">
+    <ln n="5">Easy to remember</ln>
+    <ln n="6">Harder to move on</ln>
+    <ln n="7">Knowing the Paris of my childhood</ln>
+    <ln n="8">Is gone</ln>
+</lg>
+</song>
+</xml>

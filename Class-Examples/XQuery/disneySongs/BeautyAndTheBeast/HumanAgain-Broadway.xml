@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>Human Again</title>
+        <origin><movie>Beauty and the Beast (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer>
+            <lyricist ref="#Rice">Tim Rice</lyricist></author>
+        <perform><voiceActor ref="#Beach" role="#Lumiere">Gary Beach</voiceActor>
+            <voiceActor ref="#Mann" role="#Beast">Terrence Mann</voiceActor>
+            <voiceActor role="#Belle" ref="#Egan">Susan Egan</voiceActor>
+            <voiceActor ref="#Fowler" role="#MrsPotts">Beth Fowler</voiceActor>
+            <voiceActor role="#Cogsworth" ref="#Lamberts"> Heath Lamberts</voiceActor>
+            <voiceActor role="#Babette" ref="#Logan">Stacey Logan</voiceActor>
+            <voiceActor role="#Chip" ref="#Press">Brian Press</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Lumiere">LUMIÈRE, spoken</char></ln>
+            <ln n="2">Ha ha, oui, my friends, the day we have waited for may be at hand.​</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="3"><char ref="#MrsPotts">MRS. POTTS, spoken</char></ln>
+            <ln n="4">Oh, if only that were true, Lumiere.​</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="5"><char ref="#Lumiere">LUMIÈRE, spoken</char></ln>
+            <ln n="6">Aah, human again.​</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="7"><char ref="#MrsPotts">MRS. POTTS, spoken</char></ln>
+            <ln n="8">Human again.​</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="9"><char ref="#Lumiere">LUMIÈRE, spoken</char></ln>
+            <ln n="10">Yes, think what that means.​</ln>
+        </lg>
+        <lg n="6">
+            <ln n="11">I'll be cooking again, be good-looking again</ln>
+            <ln n="12">With a mademoiselle on each arm</ln>
+            <ln n="13">When I'm human again, only human again</ln>
+            <ln n="14">Poised and polished and gleaming with charm</ln>
+            <ln n="15">I'll be courting again, chic and sporting again</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="16"><char ref="#MrsPotts">MRS. POTTS</char></ln>
+            <ln n="17">Which should cause several husbands alarm!</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="18"><char ref="#Chip">CHIP</char></ln>
+            <ln n="19">I'll hop down off the shelf</ln>
+            <ln n="20"><char ref="#Lumiere-MrsPotts">LUMIÈRE &amp; MRS. POTTS</char></ln>
+            <ln n="21">And tout de suite be myself</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="22"><char ref="#Chip">CHIP</char></ln>
+            <ln n="23">I can't wait to be human again</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="24"><char ref="#MrsPotts-Chorus">MRS. POTTS &amp; Chorus</char></ln>
+            <ln n="25">When we're human again, only human again</ln>
+            <ln n="26">When we're knickknacks and whatnot's no more</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="27"><char ref="#Chip">CHIP</char></ln>
+            <ln n="28">Little push, little shove</ln>
+            <ln n="29">They could, whoosh, fall in love</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="30"><char ref="#Madame">MADAME DE LA GRANDE BOUCHE</char></ln>
+            <ln n="31">Ah chérie, won't it all be top-drawer?</ln>
+            <ln n="32">I'll wear lipstick and rouge and I won't be so huge</ln>
+            <ln n="33">Why, I'll easily fit through that door</ln>
+            <ln n="34">I'll exude savior-faire, I'll wear gowns, I'll have hair</ln>
+            <ln n="35">It's my prayer to be human again</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="36"><char ref="#Cogsworth">COGSWORTH</char></ln>
+            <ln n="37">When I'm human again, only human again</ln>
+            <ln n="38">When the world once more starts making sense</ln>
+            <ln n="39">I'll unwind for a change</ln>
+            <ln n="40"><char ref="#Lumiere">LUMIÈRE, spoken</char></ln>
+            <ln n="41">Really? That'd be strange</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="42"><char ref="#Cogsworth">COGSWORTH, spoken</char></ln>
+            <ln n="43">Can I help it if I'm t-t-tense?</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="44">In a shack by the sea, I'll sit back sipping tea</ln>
+            <ln n="45">Let my early retirement commence</ln>
+            <ln n="46">Far from fools made of wax, I'll get down to brass tacks and relax</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="47"><char ref="#">COMPANY</char></ln>
+            <ln n="48">When I'm human again</ln>
+            <ln n="49">So sweep the dust from the floor</ln>
+            <ln n="50">Let's let some light in the room</ln>
+            <ln n="51">I can feel, I can tell</ln>
+            <ln n="52">Someone might break the spell any day now</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="53"><char ref="#Lumiere">LUMIÈRE</char></ln>
+            <ln n="54">Shine up the brass on the door</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="55"><char ref="#">FEATHERDUSTER</char></ln>
+            <ln n="56">Alert the dustpail and broom</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="57"><char ref="#">COMPANY</char></ln>
+            <ln n="58">If it all goes as planned</ln>
+            <ln n="59">Our time may be at hand any day now</ln>
+            <ln n="60">Open the shutters and let in some air</ln>
+            <ln n="61"><char ref="#MrsPotts">MRS. POTTS</char></ln>
+            <ln n="62">Put these here and put those over there</ln>
+        </lg>
+
+        <lg n="20">
+            <ln n="63"><char ref="#">COMPANY</char></ln>
+            <ln n="64">Sweep up the years of sadness and tears</ln>
+            <ln n="65">And throw them away</ln>
+        </lg>
+
+        <lg n="21">
+            <ln n="66"><char ref="#Belle">BELLE, spoken</char></ln>
+            <ln n="67">When Guinevere heard that Arthur was slain</ln>
+            <ln n="68">She stole away to a convent</ln>
+            <ln n="69">And no one could ever make her smile again</ln>
+            <ln n="70">The end</ln>
+        </lg>
+
+        <lg n="22">
+            <ln n="71"><char ref="#">BEAST, spoken</char></ln>
+            <ln n="72">What a beautiful story!</ln>
+        </lg>
+
+        <lg n="23">
+            <ln n="73"><char ref="#Belle">BELLE, spoken</char></ln>
+            <ln n="74">Oh, I knew you would like it.​</ln>
+            <ln n="75">I would like to ask you for something.​</ln>
+        </lg>
+
+        <lg n="24">
+            <ln n="76"><char ref="#">BEAST, spoken</char></ln>
+            <ln n="77">What's that?</ln>
+        </lg>
+
+        <lg n="25">
+            <ln n="78"><char ref="#Belle">BELLE, spoken</char></ln>
+            <ln n="79">A second chance.​</ln>
+            <ln n="80">Would you have dinner with me tonight?</ln>
+        </lg>
+
+        <lg n="26">
+            <ln n="81"><char ref="#">BEAST, spoken</char></ln>
+            <ln n="82">Dinner? Me? With you?</ln>
+            <ln n="83">Well, that would be, I mean—oh, yes!</ln>
+        </lg>
+
+        <lg n="27">
+            <ln n="84"><char ref="#">COMPANY</char></ln>
+            <ln n="85">When we're human again, only human again</ln>
+            <ln n="86">When the girl finally sets us all free</ln>
+            <ln n="87">Cheeks a-bloomin' again, we're assumin' again</ln>
+            <ln n="88">We'll resume our long lost joie de vivre</ln>
+        </lg>
+
+        <lg n="28">
+            <ln n="89">We'll be playin' again, holiday'n again</ln>
+            <ln n="90">And we're prayin' it's ASAP</ln>
+            <ln n="91">When we cast off this pall</ln>
+            <ln n="92">We'll stand straight, we'll walk tall</ln>
+            <ln n="93">When we're all that we were</ln>
+            <ln n="94">Thanks to him, thanks to her</ln>
+            <ln n="95">Coming closer and closer and closer</ln>
+            <ln n="96">Closer and closer and—</ln>
+        </lg>
+
+        <lg n="29">
+            <ln n="97">We'll be dancing again, we'll be twirling again</ln>
+            <ln n="98">We'll be whirling around with such ease</ln>
+            <ln n="99">When we're human again, only human again</ln>
+            <ln n="100">We'll go waltzing those old one-two-three's</ln>
+            <ln n="101">We'll be floating again, we'll be gliding again</ln>
+            <ln n="102">Stepping, striding, as fine as you please</ln>
+            <ln n="103">Like a real human does, I'll be all that I was</ln>
+            <ln n="104">On that glorious morn' when we're finally reborn</ln>
+            <ln n="105">And we're all of us human again!</ln>
+        </lg>
+    </song>
+</xml>

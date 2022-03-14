@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>
+<title>The Mob Song</title>
+    <origin>Music from <movie>Beauty and the Beast (Live-Action)</movie></origin>
+<author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+<perform>Performed by <voiceActor ref="#Evans" role="#Gaston">Luke Evans</voiceActor>, <voiceActor ref="#Gad" role="#Lefou">Josh Gad</voiceActor> and chorus, with <voiceActor ref="#Thompson" role="#Potts">Emma Thompson</voiceActor>, <voiceActor ref="#McKellen" role="#Cogsworth">Ian McKellen</voiceActor>, <voiceActor ref="#Tucci" role="#Cadenza">Stanley Tucci</voiceActor>, <voiceActor ref="#Mack" role="#Chip">Nathan Mack</voiceActor>, <voiceActor ref="#Mbatha-Raw" role="#Fifi">Gugu Mbatha-Raw</voiceActor> and <voiceActor ref="#McGregor" role="#Lumiere">Ewan McGregor</voiceActor></perform>
+</metadata>
+    
+<song>    
+<lg n="1">
+    <ln n="1"><char ref="#Townies">Townies:</char> We're not safe until he's dead</ln>
+    <ln n="2">He'll come stalking us at night</ln>
+    <ln n="3">Set to sacrifice our children to his monstrous appetite</ln>
+    <ln n="4">He'll wreak havoc on our village if we let him wander free</ln>
+</lg>
+    
+<lg n="2">
+    <ln n="5"><char ref="#Gaston">Gaston:</char> So it's time to take some action, boys</ln>
+    <ln n="6">It's time to follow me</ln>
+</lg>
+
+<lg n="3">
+    <ln n="7">Through the mist, through the wood</ln>
+    <ln n="8">Through the darkness and the shadows</ln>
+    <ln n="9">It's a nightmare, but it's one exciting ride</ln>
+    <ln n="10">Say a prayer, then we're there</ln>
+    <ln n="11">At the drawbridge of a castle</ln>
+    <ln n="12">And there's something truly terrible inside</ln>
+</lg>
+
+<lg n="4">
+    <ln n="13">It's a beast; he's got fangs, razor-sharp ones</ln>
+    <ln n="14">Massive paws, killer claws for the feast</ln>
+    <ln n="15">Hear him roar, see him foam</ln>
+    <ln n="16">But we're not coming home</ln>
+    <ln n="17">Till he's dead, good and dead!</ln>
+    <ln n="18">Kill the Beast!</ln>
+</lg>
+
+<lg n="5">
+    <ln n="19"><char ref="#Townies">Townies:</char> Light your torch, mount your horse</ln>
+</lg>
+
+<lg n="6">
+    <ln n="20"><char ref="#Gaston">Gaston:</char> Screw your courage to the sticking place</ln>
+</lg>
+
+<lg n="7">
+    <ln n="21"><char ref="#Townies">Townies:</char> We're counting on Gaston to lead the way</ln>
+</lg>
+
+<lg n="8">
+    <ln n="22"><char ref="#Gaston">Gaston:</char> Call it war, call it threat</ln>
+    <ln n="23">You can bet they all will follow</ln>
+    <ln n="24">For in times like this they'll do just as I say</ln>
+</lg>
+
+<lg n="9">
+    <ln n="25"><char ref="#Lefou">Lefou:</char> There's a beast running wild, there's no question</ln>
+    <ln n="26">But I fear the wrong monster's released</ln>
+</lg>
+
+<lg n="10">
+    <ln n="27"><char ref="#Townies">Townies:</char> Sally forth! Tally ho!</ln>
+    <ln n="28">Grab your sword, grab your bow</ln>
+    <ln n="29">Praise the Lord, and here we go</ln>
+</lg>
+
+<lg n="11">
+    <ln n="30"><char ref="#Castleware">Castleware:</char> Hearts ablaze, banners high</ln>
+    <ln n="31">We go marching into battle</ln>
+    <ln n="32">Unafraid, although the danger's just increased</ln>
+</lg>
+
+<lg n="12">
+    <ln n="33"><char ref="#Townies">Townies:</char> Raise the flag, sing the song!</ln>
+    <ln n="34">Here we come, we're fifty strong</ln>
+    <ln n="35">And fifty Frenchmen can't be wrong</ln>
+    <ln n="36">Let's kill the Beast!</ln>
+</lg>
+</song>
+</xml>

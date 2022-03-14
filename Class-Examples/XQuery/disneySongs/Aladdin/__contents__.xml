@@ -1,0 +1,135 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/disneySongs/Aladdin" version="1" owner="admin" group="dba" mode="755" created="2021-12-30T05:24:15.696Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="DiamondintheRough.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:15.697Z" modified="2021-12-30T05:24:15.697Z" filename="DiamondintheRough.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PrinceAli-Reprise.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:15.779Z" modified="2021-12-30T05:24:15.779Z" filename="PrinceAli-Reprise.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ArabianNights-Broadway.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:15.842Z" modified="2021-12-30T05:24:15.842Z" filename="ArabianNights-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FatherAndSon.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:15.905Z" modified="2021-12-30T05:24:15.905Z" filename="FatherAndSon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="BOAS.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:15.971Z" modified="2021-12-30T05:24:15.971Z" filename="BOAS.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ArabianNights-Animated.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:16.109Z" modified="2021-12-30T05:24:16.109Z" filename="ArabianNights-Animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OneJumpAheadReprise-animated.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:16.172Z" modified="2021-12-30T05:24:16.172Z" filename="OneJumpAheadReprise-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="I'veGotMyEyesOnYou.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:16.239Z" modified="2021-12-30T05:24:16.239Z" filename="I'veGotMyEyesOnYou.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FortyThieves.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:16.303Z" modified="2021-12-30T05:24:16.302Z" filename="FortyThieves.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AWholeNewWorld-animated.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:16.374Z" modified="2021-12-30T05:24:16.374Z" filename="AWholeNewWorld-animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ProudofYourBoy.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:16.44Z" modified="2021-12-30T05:24:16.44Z" filename="ProudofYourBoy.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AMillionMilesAway.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:16.501Z" modified="2021-12-30T05:24:16.501Z" filename="AMillionMilesAway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ArabianNights-roj.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:16.567Z" modified="2021-12-30T05:24:16.567Z" filename="ArabianNights-roj.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PrinceAli-Live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:16.628Z" modified="2021-12-30T05:24:16.628Z" filename="PrinceAli-Live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ArabianNights-Live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:16.698Z" modified="2021-12-30T05:24:16.698Z" filename="ArabianNights-Live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AWholeNewWorld-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:16.769Z" modified="2021-12-30T05:24:16.769Z" filename="AWholeNewWorld-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="SomebodyGotYourBack.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:16.845Z" modified="2021-12-30T05:24:16.845Z" filename="SomebodyGotYourBack.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ThesePalaceWalls.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:16.912Z" modified="2021-12-30T05:24:16.912Z" filename="ThesePalaceWalls.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OneJumpAhead(Reprise)-Broadway.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:16.978Z" modified="2021-12-30T05:24:16.978Z" filename="OneJumpAhead(Reprise)-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OneJumpAheadReprise1-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:17.041Z" modified="2021-12-30T05:24:17.041Z" filename="OneJumpAheadReprise1-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FriendLikeMe(animated).xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:17.102Z" modified="2021-12-30T05:24:17.102Z" filename="FriendLikeMe(animated).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AWholeNewWorld-Broadway.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:17.168Z" modified="2021-12-30T05:24:17.168Z" filename="AWholeNewWorld-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Speechless(Full)(liveaction).xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:17.308Z" modified="2021-12-30T05:24:17.308Z" filename="Speechless(Full)(liveaction).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FriendLikeMe-Broadway.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:17.376Z" modified="2021-12-30T05:24:17.376Z" filename="FriendLikeMe-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PartyinAgrabah.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:17.44Z" modified="2021-12-30T05:24:17.44Z" filename="PartyinAgrabah.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PrinceAli-Animated.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:17.504Z" modified="2021-12-30T05:24:17.504Z" filename="PrinceAli-Animated.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OneJumpAhead-Broadway.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:17.566Z" modified="2021-12-30T05:24:17.566Z" filename="OneJumpAhead-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OneJumpAhead-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:17.633Z" modified="2021-12-30T05:24:17.633Z" filename="OneJumpAhead-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="HighAdventure.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:17.7Z" modified="2021-12-30T05:24:17.7Z" filename="HighAdventure.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OutofThinAir.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:17.764Z" modified="2021-12-30T05:24:17.764Z" filename="OutofThinAir.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PrinceAli(JafarReprise).xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:17.826Z" modified="2021-12-30T05:24:17.826Z" filename="PrinceAli(JafarReprise).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ImLookingOutForMe(1994).xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:17.887Z" modified="2021-12-30T05:24:17.887Z" filename="ImLookingOutForMe(1994).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PrinceAli-Broadway.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:17.95Z" modified="2021-12-30T05:24:17.95Z" filename="PrinceAli-Broadway.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="PrinceAli(SultanReprise).xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:18.018Z" modified="2021-12-30T05:24:18.018Z" filename="PrinceAli(SultanReprise).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ProudofYourBoy(Reprise).xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:18.08Z" modified="2021-12-30T05:24:18.08Z" filename="ProudofYourBoy(Reprise).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="NothingInTheWorld(QuiteLikeAFriend)(1994).xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:18.142Z" modified="2021-12-30T05:24:18.142Z" filename="NothingInTheWorld(QuiteLikeAFriend)(1994).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OneJumpAheadReprise2-live.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:18.216Z" modified="2021-12-30T05:24:18.216Z" filename="OneJumpAheadReprise2-live.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="YoureOnlySecondRate(1994).xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:18.276Z" modified="2021-12-30T05:24:18.276Z" filename="YoureOnlySecondRate(1994).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="AreYouInOrOut.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:18.342Z" modified="2021-12-30T05:24:18.342Z" filename="AreYouInOrOut.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="MoreThanAPeacockPrincess.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:18.404Z" modified="2021-12-30T05:24:18.404Z" filename="MoreThanAPeacockPrincess.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ForgetAboutLove.xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:18.467Z" modified="2021-12-30T05:24:18.467Z" filename="ForgetAboutLove.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="OneJumpAhead(animated).xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:18.532Z" modified="2021-12-30T05:24:18.532Z" filename="OneJumpAhead(animated).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FriendLikeMe(liveaction).xml" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:18.592Z" modified="2021-12-30T05:24:18.592Z" filename="FriendLikeMe(liveaction).xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name=".DS_Store" skip="no" owner="admin" group="dba" mode="644" created="2021-12-30T05:24:16.037Z" modified="2021-12-30T05:24:16.037Z" filename=".DS_Store" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

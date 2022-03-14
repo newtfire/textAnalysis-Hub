@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>Nothing In The World (Quite Like A Friend)(1994)</title>
+        <origin> Lyrics from <movie>Aladdin: The Return of Jafar</movie></origin>
+        <author>Lyrics and music by <composer ref="#Gonyea">Dale Gonyea</composer> and <composer ref="#MSilversher">Michael Silversher</composer></author>
+        <perform>Performed by <voiceActor ref="#Callaway" role="#Jasmine">Liz Callaway</voiceActor>,
+                <voiceActor ref="#Castellaneta" role="#Genie">Dan Castellaneta</voiceActor> and
+                <voiceActor ref="#Kane" role="#Aladdin">Brad Kane</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Genie">Genie:</char> I parachuted down into the Taj Mahal </ln>
+            <ln n="2">I rollerbladed all along the great Great Wall!</ln>
+            <ln n="3">I even made the famous Leaning Tower fall</ln>
+            <ln n="4">But who was with me through it all?</ln>
+            <ln n="5">Nobody!</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="6">The Moscow Circus hired me to fly trapeze</ln>
+            <ln n="7">On Mount Olympus won a race with Hercules</ln>
+            <ln n="8">It's easy when you're chased by killer bees</ln>
+            <ln n="9">Who said "gesundheit" when I sneezed</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="10">So now I'm home</ln>
+            <ln n="11">Home again with you</ln>
+            <ln n="12">You chase the clouds away</ln>
+            <ln n="13">Whenever I am blue</ln>
+            <ln n="14">(You're always blue)</ln>
+            <ln n="15">And the pyramids I highly recommend</ln>
+            <ln n="16">There is nothing in the world quite like a friend</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="17">Slept like a babe in Bombay on a bed of nails</ln>
+            <ln n="18">Moroccans loved my daring dance of seven veils</ln>
+            <ln n="19">I single-handedly I even saved the whales</ln>
+            <ln n="20">No one was there to hear my tales!</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="21">In Acapulco joined a Mariachi band</ln>
+            <ln n="22">I rode the ragin' rapids down the Rio Grande</ln>
+            <ln n="23">Flew in an air balloon, but when I tried to land</ln>
+            <ln n="24">Nobody laughed, or lent a hand</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="25">Without you, the Amazon is just a trickle</ln>
+            <ln n="26">Without you, the Sahara's not so hot</ln>
+            <ln n="27">Without you, Niagara Falls is just a leaky faucet</ln>
+            <ln n="28">And the QEII is just some yacht</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="29">Now that I'm home</ln>
+            <ln n="30">Home again it's clear</ln>
+            <ln n="31">All I ever wanted </ln>
+            <ln n="32">Seems to be right here </ln>
+            <ln n="33">I've traveled east and west</ln>
+            <ln n="34">And now I'm back again</ln>
+            <ln n="35">And there's nothing in the world quite like a friend </ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="36"><char ref="#Aladdin">Aladdin:</char> There's nothing in the world</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="37"><char ref="#Jasmine">Jasmine:</char> Nothing in the whole wide world</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="38"><char ref="#Aladdin">Aladdin,</char> <char ref="#Genie">Genie,</char> and <char ref="#Jasmine">Jasmine:</char> There is nothing in the world quite like a
+                friend</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="39"><char ref="#Genie">Genie:</char>Nothin' in the whole wide world!</ln>
+        </lg>
+    </song>
+</xml>

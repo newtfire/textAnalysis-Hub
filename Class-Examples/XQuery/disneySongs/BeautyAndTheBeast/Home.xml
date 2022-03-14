@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>Home</title>
+        <origin>
+            <movie> Beauty and the Beast (Broadway)</movie>
+        </origin>
+        <author><composer ref="#Menken">Alan Menken</composer><composer ref="#Botnick">Bruce
+                Botnick</composer><lyricist ref="#Rice">Tim Rice</lyricist></author>
+        <perform>
+            <voiceActor ref="#Egan" role="#Belle">Susan Egan</voiceActor>
+        </perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1">Yes, I made the choice</ln>
+            <ln n="2">For Papa, I will stay</ln>
+            <ln n="3">But I don't deserve to lose my freedom in this way</ln>
+            <ln n="4">You monster!</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="5">If you think that what you've done is right</ln>
+            <ln n="6">Well then, you're a fool</ln>
+            <ln n="7">Think again</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="8">Is this home?</ln>
+            <ln n="9">Is this where I should learn to be happy?</ln>
+            <ln n="10">Never dreamed</ln>
+            <ln n="11">That a home could be dark and cold</ln>
+            <ln n="12">I was told</ln>
+            <ln n="13">Every day in my childhood</ln>
+            <ln n="14">Even when we grow old</ln>
+            <ln n="15">"Home will be where the heart is"</ln>
+            <ln n="16">Never were words so true</ln>
+            <ln n="17">My heart's far, far away</ln>
+            <ln n="18">Home is too</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="19">Is this home?</ln>
+            <ln n="20">Is this what I must learn to believe in?</ln>
+            <ln n="21">Try to find something good</ln>
+            <ln n="22">In this tragic place</ln>
+            <ln n="23">Just in case</ln>
+            <ln n="24">I should stay here forever</ln>
+            <ln n="25">Held in this empty space</ln>
+            <ln n="26">Oh, but that won't be easy</ln>
+            <ln n="27">I know the reason why</ln>
+            <ln n="28">My heart's far, far away</ln>
+            <ln n="29">Home's a lie</ln>
+            <ln n="30">What I'd give</ln>
+            <ln n="31">To return</ln>
+            <ln n="32">To the life that I knew lately</ln>
+            <ln n="33">But I know</ln>
+            <ln n="34">That I can't</ln>
+            <ln n="35">Solve my problems going back</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="36">Is this home?</ln>
+            <ln n="37">Am I here for a day or forever?</ln>
+            <ln n="38">Shut away</ln>
+            <ln n="39">From the world until who knows when</ln>
+            <ln n="40">Oh, but then</ln>
+            <ln n="41">As my life has been altered once</ln>
+            <ln n="42">It can change again</ln>
+            <ln n="43">Build higher walls around me</ln>
+            <ln n="44">Change every lock and key</ln>
+            <ln n="45">Nothing lasts</ln>
+            <ln n="46">Nothing holds all of me</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="47">My heart's far, far away</ln>
+            <ln n="48">Home and free</ln>
+        </lg>
+    </song>
+</xml>

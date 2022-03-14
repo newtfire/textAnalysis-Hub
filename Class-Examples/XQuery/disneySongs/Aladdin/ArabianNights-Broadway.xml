@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>Arabian Nights</title>
+        <origin><movie>Aladdin (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer><lyricist ref="#Rice">Tim
+                Rice</lyricist><lyricist ref="#Ashman">Howard Ashman</lyricist></author>
+        <perform><voiceActor ref="#Iglehart" role="#Genie">James Monroe
+            Iglehart</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Genie">GENIE</char></ln>
+            <ln n="2">(Spoken)</ln>
+            <ln n="3">Salām, and good evening to you worthy friends. Welcome to the fabled city of
+                Agrabah. City of flying carpets, soaring heroes, famous love ballads and more glitz
+                and glamour than any other fictional city in the world</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="4">(Sung)</ln>
+            <ln n="5">Oh I come from a land, from a faraway place</ln>
+            <ln n="6">Where the caravan camels roam</ln>
+            <ln n="7">Where it's flat and immense</ln>
+            <ln n="8">And the heat is intense</ln>
+            <ln n="9">It's barbaric, but hey, it's home</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="10">When the winds from the East</ln>
+            <ln n="11">And the suns from the West</ln>
+            <ln n="12">And the sand in the glass is right</ln>
+            <ln n="13">Come on down, stop on by</ln>
+            <ln n="14">Hop a carpet and fly</ln>
+            <ln n="15">To another Arabian night</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="16">(Spoken)</ln>
+            <ln n="17">And of course, you know what Agrabah's famous for? This magical lamp. Don't
+                be fooled by its "commonplace" appearance, like so many things, it is not what's on
+                the outside but what's on the inside that counts. Woah, got a little deep there for
+                a second. This lamp put Agrabah on the map. You've never been? Well... we can fix
+                that!</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="18">(Sung)</ln>
+            <ln n="19">Follow me to a place</ln>
+            <ln n="20">Where incredible feats</ln>
+            <ln n="21">Are routine every hour or so</ln>
+            <ln n="22">Where enchantment runs rampant</ln>
+            <ln n="23">It's wild in the streets</ln>
+            <ln n="24">Open Sesame, here we go</ln>
+            <ln n="25">See the dervishes dance</ln>
+            <ln n="26">In ridiculous pants</ln>
+            <ln n="27">Then romance to your heart's delight</ln>
+            <ln n="28">Come on down</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="29"><char ref="#Genie-Company">GENIE &amp; COMPANY</char></ln>
+            <ln n="30">Come on in</ln>
+            <ln n="31">Let the magic begin</ln>
+            <ln n="32">It's another Arabian Night</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="33">Arabian Nights...</ln>
+            <ln n="34">Like Arabian Days...</ln>
+            <ln n="35">More often than not</ln>
+            <ln n="36">Are hotter than hot</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="37"><char ref="#Genie">GENIE</char></ln>
+            <ln n="38">In a lot of good ways</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="39"><char ref="#Genie-Company">GENIE &amp; COMPANY</char></ln>
+            <ln n="40">Arabian Nights...</ln>
+            <ln n="41">'Neath Arabian moons...</ln>
+            <ln n="42">A fool off his guard</ln>
+            <ln n="43">Could fall and fall hard</ln>
+            <ln n="44">Out there on the dunes</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="45"><char ref="#Company">COMPANY</char>&gt;</ln>
+            <ln n="46">In that magical place</ln>
+            <ln n="47">In that mystical land</ln>
+            <ln n="48">There's a Genie inside every jar</ln>
+            <ln n="49">He'll do all your bidding</ln>
+            <ln n="50">Your wish, his command</ln>
+            <ln n="51"><char ref="#Genie">GENIE</char></ln>
+            <ln n="52">It's demeaning, but hey there you are</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="53"><char ref="#Company">COMPANY</char>&gt;</ln>
+            <ln n="54">Unbelievable, yes</ln>
+            <ln n="55">An unethical mess</ln>
+            <ln n="56">Nonetheless, no one's very contrived</ln>
+            <ln n="57">You come here and you've</ln>
+            <ln n="58">Come to a land where any mountain can move</ln>
+            <ln n="59">A land of high intrigue with tricky logistics</ln>
+            <ln n="60">By prophets and Mystics</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="61"><char ref="#Genie">GENIE</char></ln>
+            <ln n="62">And I've got statistics to prove</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="63"><char ref="#Company">COMPANY</char>&gt;</ln>
+            <ln n="64">Arabian Nights</ln>
+            <ln n="65">Arabian Nights</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="66"><char ref="#Genie">GENIE, spoken</char></ln>
+            <ln n="67">Agrabah</ln>
+            <ln n="68">Come for the hummus</ln>
+            <ln n="69">Stay for the floor-show</ln>
+            <ln n="70">Even the poor people</ln>
+            <ln n="71">Look fabulous!</ln>
+            <ln n="72">And everyone here has a minor in dance</ln>
+            <ln n="73">And now, for the softer side of Agrabah</ln>
+            <ln n="74"><char ref="#Company">COMPANY</char>&gt;</ln>
+            <ln n="75">Arabian Nights...</ln>
+            <ln n="76">Arabian Nights</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="77"><char ref="#Genie">GENIE</char></ln>
+            <ln n="78">And of course, you must watch</ln>
+            <ln n="79">Your step here in Agrabah</ln>
+            <ln n="80">For danger lurks around</ln>
+            <ln n="81">Every corner and ugly bad guys too</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="82"><char ref="#Company">COMPANY</char>&gt;</ln>
+            <ln n="83">Arabian Nights</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="84"><char ref="#Genie">GENIE</char></ln>
+            <ln n="85">It's a city where a penniless nobody</ln>
+            <ln n="86">Can turn out to be...</ln>
+            <ln n="87">A noble somebody</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="88"><char ref="#Company">COMPANY</char></ln>
+            <ln n="89">Arabian Nights</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="90"><char ref="#Genie">GENIE</char></ln>
+            <ln n="91">It's a place where a princess</ln>
+            <ln n="92">Would give up her crown for true love</ln>
+            <ln n="93">But her father, the Sultan, is a stickler</ln>
+            <ln n="94">For the Ancient ways</ln>
+        </lg>
+
+        <lg n="20">
+            <ln n="95">And our hero's pals are as</ln>
+            <ln n="96">Thick as thieves</ln>
+            <ln n="97">"Adorable"... but thieves</ln>
+            <ln n="98">Oh, and did I mention...</ln>
+            <ln n="99">Everybody sings</ln>
+        </lg>
+
+        <lg n="21">
+            <ln n="100"><char ref="#Genie-Company">GENIE &amp; COMPANY</char></ln>
+            <ln n="101">Arabian Nights</ln>
+            <ln n="102">Like Arabian Days</ln>
+            <ln n="103">More often than not</ln>
+            <ln n="104">Are hotter than hot</ln>
+            <ln n="105">In a lot of good ways</ln>
+        </lg>
+
+        <lg n="22">
+            <ln n="106">Arabian Nights</ln>
+            <ln n="107">'Neath Arabian moons</ln>
+            <ln n="108">A fool off his guard</ln>
+            <ln n="109">Could fall and fall hard</ln>
+            <ln n="110">Out there on the dunes</ln>
+        </lg>
+
+        <lg n="23">
+            <ln n="111"><char ref="#Company">COMPANY</char></ln>
+            <ln n="112">Arabian Nights...</ln>
+            <ln n="113">Arabian Nights...</ln>
+            <ln n="114">Arabian Nights...</ln>
+            <ln n="115">Arabian Nights...</ln>
+            <ln n="116">Arabian Nights...</ln>
+        </lg>
+    </song>
+</xml>
