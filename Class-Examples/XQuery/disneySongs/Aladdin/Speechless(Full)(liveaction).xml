@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata><title>Speechless (Full-live)</title>
+<origin>Lyrics from <movie>Aladdin (Live-Action)</movie></origin>
+<author>Music by <composer ref="#Menken">Alan Menken</composer>; lyrics by <composer ref="#Pasek">Benj Pasek</composer> and <composer ref="#Paul">Justin Paul</composer></author>
+<perform>Performed by <voiceActor ref="#Scott" role="#Jasmine">Naomi Scott</voiceActor> as Jasmine</perform></metadata>
+
+<song><lg n="1"><ln n="1"><char ref="#Jasmine">Jasmine:</char> Here comes a wave meant to wash me away</ln>
+<ln n="2">A tide that is taking me under</ln>
+<ln n="3">Swallowing sand, left with nothing to say</ln>
+<ln n="4">My voice drowned out in the thunder</ln></lg>
+
+<lg n="2"><ln n="5">But I won't cry</ln>
+<ln n="6">And I won't start to crumble</ln>
+<ln n="7">Whenever they try to shut me or cut me down</ln></lg>
+
+<lg n="3"><ln n="8">I won't be silenced</ln>
+<ln n="9">You can't keep me quiet</ln>
+<ln n="10">Won't tremble when you try it</ln>
+<ln n="11">All I know is I won't go speechless</ln>
+<ln n="12">'Cause I'll breathe when they try to suffocate me</ln>
+<ln n="13">Don't you underestimate me</ln>
+<ln n="14">'Cause I know that I won't go speechless</ln></lg>
+
+<lg n="4"><ln n="15">Written in stone, every rule, every word</ln>
+<ln n="16">Centuries old and unbending</ln>
+<ln n="17">Stay in your place, better seen and not heard</ln>
+<ln n="18">Well, now that story's ending</ln></lg>
+
+<lg n="5"><ln n="19">'Cause I, I cannot start to crumble</ln>
+<ln n="20">So come on and try</ln>
+<ln n="21">Try to shut me and cut me down</ln></lg>
+
+<lg n="6"><ln n="22">I won't be silenced</ln>
+<ln n="23">You can't keep me quiet</ln>
+<ln n="24">Won't tremble when you try it</ln>
+<ln n="25">All I know is I won't go speechless</ln>
+<ln n="26">Speechless!</ln></lg>
+
+<lg n="7"><ln n="27">Let the storm in</ln>
+<ln n="28">I cannot be broken</ln>
+<ln n="29">No, I won't live unspoken</ln>
+<ln n="30">'Cause I know that I won't go speechless</ln></lg>
+
+<lg n="8"><ln n="31">Try to lock me in this cage</ln>
+<ln n="32">I won't just lay me down and die</ln>
+<ln n="33">I will take these broken wings</ln>
+<ln n="34">And watch me burn across the sky</ln>
+<ln n="35">Hear the echo saying</ln></lg>
+
+<lg n="9"><ln n="36">I won't be silenced</ln>
+<ln n="37">Though you wanna see me tremble when you try it</ln>
+<ln n="38">All I know is I won't go speechless</ln>
+<ln n="39">Speechless!</ln>
+<ln n="40">'Cause I'll breathe when they try to suffocate me</ln>
+<ln n="41">Don't you underestimate me</ln>
+<ln n="42">'Cause I know that I won't go speechless</ln>
+<ln n="43">All I know is I won't go speechless</ln>
+<ln n="44">Speechless!</ln></lg></song></xml>

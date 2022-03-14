@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>Beauty and the Beast</title>
+        <origin><movie>Beauty and the Beast (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer>
+            <lyricist ref="#Ashman">Howard Ashman</lyricist></author>
+        <perform><voiceActor ref="#Fowler" role="#MrsPotts">Beth Fowler</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#MrsPotts">Mrs. Potts</char></ln>
+            <ln n="2">Tale as old as time</ln>
+            <ln n="3">True as it can be</ln>
+            <ln n="4">Barely even friends</ln>
+            <ln n="5">Then somebody bends</ln>
+            <ln n="6">Unexpectedly</ln>
+            <ln n="7">Just a little change</ln>
+            <ln n="8">Small to say the least</ln>
+            <ln n="9">Both a little scared</ln>
+            <ln n="10">Neither one prepared</ln>
+            <ln n="11">Beauty and the Beast</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="12"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="13">Dance with me?</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="14"><char ref="#Beast">Beast, spoken</char></ln>
+            <ln n="15">No, I...</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="16"><char ref="#Lumiere-Cogsworth">Lumiere &amp;amp; Cogsworth,
+                spoken</char></ln>
+            <ln n="17">Dance with her!</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="18"><char ref="#MrsPotts">Mrs. Potts</char></ln>
+            <ln n="19">Ever just the same</ln>
+            <ln n="20">Ever a surprise</ln>
+            <ln n="21">Ever as before</ln>
+            <ln n="22">And ever just as sure</ln>
+            <ln n="23">As the sun will rise</ln>
+            <ln n="24">Tale as old as time</ln>
+            <ln n="25">Tune as old as song</ln>
+            <ln n="26">Bittersweet and strange</ln>
+            <ln n="27">Finding you can change</ln>
+            <ln n="28">Learning you were wrong</ln>
+            <ln n="29">Certain as the sun</ln>
+            <ln n="30">Rising in the east</ln>
+            <ln n="31">Tale as old as time</ln>
+            <ln n="32">Song as old as rhyme</ln>
+            <ln n="33">Beauty and the Beast</ln>
+            <ln n="34">Tale as old as time</ln>
+            <ln n="35">Song as old as rhyme</ln>
+            <ln n="36">Beauty and the Beast</ln>
+            <ln n="37">(spoken)</ln>
+            <ln n="38">Off to the cupboard with you now, Chip</ln>
+            <ln n="39">It's past your bedtime. Good night, love.​</ln>
+        </lg>
+    </song>
+</xml>

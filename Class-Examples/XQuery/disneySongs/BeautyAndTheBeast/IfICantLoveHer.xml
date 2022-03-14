@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>If I Can't Love Her</title>
+        <origin><movie>Beauty and the Beast (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer>
+            <lyricist ref="#Rice">Tim Rice</lyricist></author>
+        <perform><voiceActor ref="#Mann" role="#Beast">Terrence Mann</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Beast">BEAST</char></ln>
+            <ln n="2">And in my twisted face</ln>
+            <ln n="3">There's not the slightest trace</ln>
+            <ln n="4">Of anything that even hints of kindness</ln>
+            <ln n="5">And from my tortured shape</ln>
+            <ln n="6">No comfort, no escape</ln>
+            <ln n="7">I see, but deep within is utter blindness</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="8">Hopeless</ln>
+            <ln n="9">As my dream dies</ln>
+            <ln n="10">As the time flies</ln>
+            <ln n="11">Love, a lost illusion</ln>
+            <ln n="12">Helpless</ln>
+            <ln n="13">Unforgiven</ln>
+            <ln n="14">Cold and driven</ln>
+            <ln n="15">To this sad conclusion</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="16">No beauty could move me</ln>
+            <ln n="17">No goodness improve me</ln>
+            <ln n="18">No power on earth</ln>
+            <ln n="19">If I can't love her</ln>
+            <ln n="20">No passion could reach me</ln>
+            <ln n="21">No lesson could teach me</ln>
+            <ln n="22">How I could have loved her</ln>
+            <ln n="23">And make her love me too</ln>
+            <ln n="24">If I can't love her, then who?</ln>
+            <ln n="25">Long ago I should have seen</ln>
+            <ln n="26">All the things I could have been</ln>
+            <ln n="27">Careless and unthinking, I moved onward</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="28">No pain could be deeper</ln>
+            <ln n="29">No life could be cheaper</ln>
+            <ln n="30">No point anymore</ln>
+            <ln n="31">If I can't love her</ln>
+            <ln n="32">No spirit could win me</ln>
+            <ln n="33">No hope left within me</ln>
+            <ln n="34">Hope I could have loved her</ln>
+            <ln n="35">And that she'd set me free</ln>
+            <ln n="36">But it's not to be</ln>
+            <ln n="37">If I can't love her</ln>
+            <ln n="38">Let the world be done with me</ln>
+        </lg>
+    </song>
+</xml>

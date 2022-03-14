@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>
+    <title>Don't Fall in Love</title>
+    <origin>Lyrics from <movie>Beauty and the Beast: The Enchanted Christmas</movie></origin>
+    <author>Written by <composer ref="#Portman">Rachel Portman</composer> and <composer ref="#Black">Don Black</composer></author>
+    <perform>Performed by <voiceActor ref="#Curry" role="#Forte">Tim Curry</voiceActor> as Forte</perform>
+    <source>https://www.disneyclips.com/lyrics/lyricsch3.html</source>
+    <source>https://www.imdb.com/title/tt0118692/fullcredits?ref_=tt_ov_wr_sm</source>
+    <length>2:20</length>
+    <timeStamp start="43:29" end="45:49"/>
+</metadata>
+
+<song> <!--43:29 - 02:20-->
+<lg n="1">
+    <ln n="1"><char ref="#Forte">Forte:</char> The quickest way to break your heart</ln>
+    <ln n="2">Make you depressed and ill</ln>
+    <ln n="3">Is to get tangled up inside</ln>
+    <ln n="4">The side effects could kill</ln>
+</lg>
+    
+<lg n="2">
+    <ln n="5">All passion is a waste of time</ln>
+    <ln n="6">A deadly game pour vous</ln>
+    <ln n="7">I am your friend, your cher ami</ln>
+    <ln n="8">I wouldn't lie to you</ln>
+</lg>
+
+<lg n="3">
+    <ln n="9">If you must love someone, may I suggest</ln>
+    <ln n="10">You love yourself! Just think it through</ln>
+    <ln n="11">You'll never leave and you will find</ln>
+    <ln n="12">You'll get more rest</ln>
+    <ln n="13">You'll always feel as good as new</ln>
+    <ln n="14">Your freedom is the most</ln>
+    <ln n="15">Important thing, my friend</ln>
+</lg>
+
+<lg n="4">
+    <ln n="16">You must be strong, you mustn't bend</ln>
+    <ln n="17">Don't talk for hours</ln>
+    <ln n="18">Don't send flowers</ln>
+    <ln n="19">Don't write poems</ln>
+    <ln n="20">Don't sing songs and dance</ln>
+    <ln n="21">Beneath the stars</ln>
+    <ln n="22">That shine above</ln>
+    <ln n="23">Don't fall in love</ln>
+</lg>
+
+<lg n="5">
+    <ln n="24">As soon as your heart rules your head</ln>
+    <ln n="25">Your life is not your own</ln>
+    <ln n="26">It's hell when someone's always there</ln>
+    <ln n="27">It's bliss to be alone</ln>
+    <ln n="28">And love of any kind is bad</ln>
+    <ln n="29">A dog, a child, a cat</ln>
+    <ln n="30">They take up so much precious time</ln>
+    <ln n="31">Now where's the sense in that?</ln>
+</lg>
+
+<lg n="6">
+    <ln n="32">Love takes the wildest heart and makes it tame</ln>
+    <ln n="33">If you're turned on, then just turn off</ln>
+    <ln n="34">Emotions are a thing all great men overcame</ln>
+    <ln n="35">Please, don't make this grande catastrophe</ln>
+    <ln n="36">Don't get attached to anyone or anything</ln>
+    <ln n="37">There's nothing worse than things that cling</ln>
+</lg>
+
+<lg n="7">
+    <ln n="38">You'll go to pot</ln>
+    <ln n="39">You'll turn to drink</ln>
+    <ln n="40">You'll never rest</ln>
+    <ln n="41">You'll end up mad and</ln>
+    <ln n="42">Looking like some</ln>
+    <ln n="43">Poor demented dove</ln>
+    <ln n="44">Don't fall in love</ln>
+    <ln n="45">Don't fall in love</ln>
+</lg>
+</song>
+</xml>

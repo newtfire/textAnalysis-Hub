@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>Babkak, Omar, Aladdin, Kassim</title>
+        <origin><movie>Aladdin (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer><lyricist ref="#Ashman">Howard
+                Ashman</lyricist></author>
+        <perform><voiceActor ref="#ONeill" role="#Kassim">Brandon O'Neill</voiceActor>
+            <voiceActor role="#Omar" ref="#Schwartz">Jonathan Schwartz</voiceActor>
+            <voiceActor role="#Babkak" ref="#Gonzales">Brian Gonzales</voiceActor>
+            <voiceActor role="#Aladdin" ref="#Jacobs">Adam Jacobs</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1">
+                <char ref="#Kassim">KASSIM</char></ln>
+            <ln n="2">Good pals, blood brothers</ln>
+            <ln n="3">Me and three others</ln>
+            <ln n="4">Babkak, Omar, Aladdin, Kassim</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="5"><char ref="#BOAS">BABKAK, OMAR, ALADDIN, KASSIM</char></ln>
+            <ln n="6">Four friends, none closer</ln>
+            <ln n="7">Get mad? Heck no, sir!</ln>
+            <ln n="8">Not us, four-strong, a permanent team</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="9">Four guys out poundin' the pavements of Agrabah</ln>
+            <ln n="10">Poor guys with one Arabian dream</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="11">To stay this lazy</ln>
+            <ln n="12">And play like crazy</ln>
+            <ln n="13">Babkak, Omar, Aladdin, Kassim</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="14">True friends, no phonies</ln>
+            <ln n="15">Me and my cronies</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="16"><char ref="#Ensemble">ENSEMBLE</char>&gt;</ln>
+            <ln n="17">Babkak, Omar, Aladdin, Kassim</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="18"><char ref="#BOAS">BABKAK, OMAR, ALADDIN, KASSIM</char></ln>
+            <ln n="19">Four bums, none better</ln>
+            <ln n="20">Not one go-getter</ln>
+            <ln n="21"><char ref="#Kassim">KASSIM</char></ln>
+            <ln n="22">Unmotivated in the extreme</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="23"><char ref="#Babkak">BABKAK</char></ln>
+            <ln n="24">Folks say, "Hey, go earn a living in Agrabah!”</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="25"><char ref="#Omar">OMAR</char></ln>
+            <ln n="26">“Grow up, go earn the city's esteem!"</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="27"><char ref="#BOAS">BABKAK, OMAR, ALADDIN, KASSIM</char></ln>
+            <ln n="28">We say, "Tough noogie!</ln>
+            <ln n="29">No way! Let's boogie!"</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="30"><char ref="#Ensemble">ENSEMBLE</char>&gt;</ln>
+            <ln n="31">Babkak, Omar, Aladdin, Kassim</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="32"><char ref="#BOK">BABKAK, OMAR, KASSIM</char></ln>
+            <ln n="33">Four guys out passing the turban in Agrabah</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="34"><char ref="#Ensemble">ENSEMBLE</char>&gt;</ln>
+            <ln n="35">For letting off some musical steam</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="36"><char ref="#BOAS">BABKAK, OMAR, ALADDIN, KASSIM</char></ln>
+            <ln n="37">That's our finale</ln>
+            <ln n="38">'Kay guys, let's blow this alley</ln>
+            <ln n="39"><char ref="#All">ALL</char></ln>
+            <ln n="40">Babkak, Omar, Aladdin and</ln>
+            <ln n="41">Howzat so far, not bad'n it's</ln>
+            <ln n="42">Eight eyes with one impertinent gleam</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="43">Babkak, Omar, Aladdin, Kassim</ln>
+            <ln n="44">Babkak, Omar, Aladdin, Kassim</ln>
+        </lg>
+    </song>
+</xml>

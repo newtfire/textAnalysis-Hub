@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>
+<title>I've Got My Eyes On You</title>
+<origin>Lyrics from <movie>Disney Princess Enchanted Tales: Follow Your Dreams</movie></origin>
+<author>Words and Music by <composer ref="#Powers">Amy Powers</composer> and <composer ref="#DeSalvo">Russ DeSalvo</composer></author>
+<perform>Performed by <voiceActor ref="#Salonga" role="#Jasmine">Lea Salonga</voiceActor></perform>
+</metadata>
+
+<song>
+<lg n="1">
+    <ln n="1"><char ref="#Jasmine">Jasmine:</char> I know you're scared</ln>
+    <ln n="2">and I know what you've been through</ln>
+    <ln n="3">Look in my eyes</ln>
+    <ln n="4">Can't you see I'm frightened too?</ln>
+</lg>
+
+<lg n="2">
+    <ln n="5">So let's take one step at a time</ln>
+    <ln n="6">I won't give up</ln>
+    <ln n="7">That's one thing I swear will be true</ln>
+    <ln n="8">For it's said to be wise:</ln>
+    <ln n="9">"Keep your eyes on the prize"</ln>
+    <ln n="10">and I've got my eyes on you</ln>
+</lg>
+
+<lg n="3">
+    <ln n="11">It's hard to trust</ln>
+    <ln n="12">When you've been misunderstood</ln>
+    <ln n="13">It's starting now</ln>
+    <ln n="14">We'll be treated like we should</ln>
+</lg>
+
+<lg n="4">
+    <ln n="15">So let's take this ride till it's true</ln>
+    <ln n="16">I won't give up</ln>
+    <ln n="17">That's one thing I swear will be true</ln>
+    <ln n="18">And I won't give in</ln>
+    <ln n="19">I'm stronger than they ever knew</ln>
+    <ln n="20">Don't try to run</ln>
+    <ln n="21">'Cause I'll just be there when you do</ln>
+    <ln n="22">For it's said to be wise:</ln>
+    <ln n="23">"Keep your eyes on the prize"</ln>
+    <ln n="24">And I've got my eyes on you</ln>
+</lg>
+
+<lg n="5">
+    <ln n="25">I won't give up</ln>
+    <ln n="26">That's one thing I swear will be true</ln>
+    <ln n="27">For it's said to be wise:</ln>
+    <ln n="28">"Keep your eyes on the prize"</ln>
+    <ln n="29">And I've got my eyes on you</ln>
+</lg>
+</song>
+</xml>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>If I Can't Love Her (Reprise)</title>
+        <origin><movie>Beauty and the Beast (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer>
+            <lyricist ref="#Rice">Tim Rice</lyricist></author>
+        <perform><voiceActor ref="#Mann" role="#Beast">Terrence Mann</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Beast">Beast</char></ln>
+            <ln n="2">No spell has been broken</ln>
+            <ln n="3">No words have been spoken</ln>
+            <ln n="4">No point anymore if she can't love me</ln>
+            <ln n="5">No hope she would do so</ln>
+            <ln n="6">No dream to pursue, so</ln>
+            <ln n="7">I looked to myself, despise all the things I see</ln>
+            <ln n="8">For I know that she</ln>
+            <ln n="9">Cannot set me free</ln>
+            <ln n="10">Let the world be done with me</ln>
+        </lg>
+    </song>
+</xml>

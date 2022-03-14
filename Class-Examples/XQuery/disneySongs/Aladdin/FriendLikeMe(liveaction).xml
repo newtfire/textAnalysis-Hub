@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml><metadata><title>Friend Like Me(Live Action)</title>
+<origin>Lyrics from <movie>Aladdin (Live-Action)</movie></origin>
+<author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <composer ref="#Ashman">Howard Ashman</composer></author>
+<perform>Performed by <voiceActor ref="#Smith" role="#Genie">Will Smith</voiceActor> as Genie</perform></metadata>
+
+<song><lg n="1"><ln n="1"><char ref="#Genie">Genie:</char> Here I go, woo!</ln>
+<ln n="2">Back up!</ln>
+<ln n="3">Watch out!</ln>
+<ln n="4">You done wound me up</ln>
+<ln n="5">'Bout to show you what I'm working with</ln></lg>
+
+<lg n="2"><ln n="6">Well, Ali Baba, he had them forty thieves</ln>
+<ln n="7">Scheherazade had a thousand tales</ln>
+<ln n="8">But, master, you're in luck because up your sleeves</ln>
+<ln n="9">You got a brand of magic never fails</ln>
+<ln n="10">You got some power in your corner now</ln>
+<ln n="11">Heavy ammunition in your camp</ln>
+<ln n="12">You got some punch, pizazz, yahoo and how</ln>
+<ln n="13">All you gotta do is rub that lamp</ln>
+<ln n="14">And then I'll say</ln></lg>
+
+<lg n="3"><ln n="15">Mr. - (man, what's your name)</ln>
+<ln n="16">Whatever, what will your pleasure be</ln>
+<ln n="17">Let me take your order</ln>
+<ln n="18">I'll jot it down</ln>
+<ln n="19">You ain't never had a friend like me</ln></lg>
+
+<lg n="4"><ln n="20">Life is your restaurant</ln>
+<ln n="21">And I'm your maitre d'</ln>
+<ln n="22">Come whisper to me whatever it is you want</ln>
+<ln n="23">You ain't never had a friend like me</ln></lg>
+
+<lg n="5"><ln n="24">We pride ourselves on service</ln>
+<ln n="25">You the boss</ln>
+<ln n="26">The king, the shah</ln>
+<ln n="27">Say what you wish</ln>
+<ln n="28">It's yours! True dish</ln>
+<ln n="29">How about a little more baklava?</ln>
+<ln n="30">Have some of column "A"</ln>
+<ln n="31">Try all of column "B"</ln>
+<ln n="32">I'm in the mood to help you, dude</ln>
+<ln n="33">You ain't never had a friend like me</ln></lg>
+
+<lg n="6"><ln n="34">Oh, it's the big part</ln>
+<ln n="35">Watch out, it's the big part, oh</ln></lg>
+
+<lg n="7"><ln n="36">Can your friends do this?</ln>
+<ln n="37">Can your friends do that?</ln>
+<ln n="38">Can your friends pull this outta of their little hat?</ln>
+<ln n="39">Can your friends go -</ln></lg>
+
+<lg n="8"><ln n="40">I'm the genie of the lamp</ln>
+<ln n="41">I can sing, rap, dance if you give me a chance, oh</ln></lg>
+
+<lg n="9"><ln n="42">Don't sit there buggy-eyed</ln>
+<ln n="43">I'm here to answer all your midday prayers</ln>
+<ln n="44">You got me bona fide certified</ln>
+<ln n="45">Got a genie for your charge d'affaires</ln>
+<ln n="46">I got a powerful urge to help you out</ln>
+<ln n="47">So what's your wish? I really wanna know</ln>
+<ln n="48">You got a list that's three miles long, no doubt</ln>
+<ln n="49">All you gotta do is rub like so</ln></lg>
+
+<lg n="10"><ln n="50">Mr. <char ref="#Aladdin">(Aladdin)</char>, yes, one wish or two or three</ln>
+<ln n="51">Well, I'm on the job, you big nabob</ln>
+<ln n="52">You ain't never had a friend, never had a friend</ln>
+<ln n="53">You ain't never had a friend, never had a friend</ln>
+<ln n="54">You ain't never (ever)</ln>
+<ln n="55">Had a (had a)</ln>
+<ln n="56">Friend (friend)</ln>
+<ln n="57">Like (like) me</ln></lg>
+
+<lg n="11"><ln n="58">You ain't never had a friend like me</ln></lg></song></xml>

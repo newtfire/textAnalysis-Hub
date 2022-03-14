@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>Something There</title>
+        <origin><movie>Beauty and the Beast (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer>
+            <lyricist ref="#Ashman">Howard Ashman</lyricist></author>
+        <perform><voiceActor ref="#Egan" role="#Belle">Susan Egan</voiceActor>
+            <voiceActor ref="#Beach" role="#Lumiere">Gary Beach</voiceActor>
+            <voiceActor ref="#Mann" role="#Beast">Terrence Mann</voiceActor>
+            <voiceActor ref="#Fowler" role="#MrsPotts">Beth Fowler</voiceActor>
+            <voiceActor role="#Cogsworth" ref="#Lamberts"> Heath Lamberts</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Belle">Belle</char></ln>
+            <ln n="2">There's something sweet</ln>
+            <ln n="3">And almost kind</ln>
+            <ln n="4">But he was mean and he was coarse and unrefined</ln>
+            <ln n="5">But now he's dear, and so unsure</ln>
+            <ln n="6">I wonder why I didn't see it there before</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="7"><char ref="#Madame">Madame de la Grande Bouche, spoken</char></ln>
+            <ln n="8">Come along dearie</ln>
+            <ln n="9">Let's get you off those wet things</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="10"><char ref="#Beast">Beast</char></ln>
+            <ln n="11">She glanced this way</ln>
+            <ln n="12">I thought I saw</ln>
+            <ln n="13">And when we touched she didn't shudder at my paw</ln>
+            <ln n="14">No it can't be, I'll just ignore</ln>
+            <ln n="15">But then she's never looked at me that way before</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="16">(spoken) Belle, I have something to show you</ln>
+            <ln n="17">But first, you have to close your eyes</ln>
+            <ln n="18">It's a surprise!</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="19"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="20">May I open them?</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="21"><char ref="#Beast">Beast, spoken</char></ln>
+            <ln n="22">Alright, alright. Now!</ln>
+            <ln n="23"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="24">I can't believe it!</ln>
+            <ln n="25">I've never seen so many books in my whole life!</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="26"><char ref="#Beast">Beast, spoken</char></ln>
+            <ln n="27">You like it?</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="28"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="29">It's wonderful!</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="30"><char ref="#Beast">Beast, spoken</char></ln>
+            <ln n="31">It's yours!</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="32"><char ref="#Belle">Belle</char></ln>
+            <ln n="33">New and a bit alarming</ln>
+            <ln n="34">Who'd have ever thought that this could be?</ln>
+            <ln n="35">True that he's no Prince Charming</ln>
+            <ln n="36">But there's something in him that I simply didn't see</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="37">(spoken)</ln>
+            <ln n="38">Oh, this is one of my favorites!</ln>
+            <ln n="39">It's "King Arthur."</ln>
+            <ln n="40">Have you ever read it?</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="41"><char ref="#Beast">Beast, spoken</char></ln>
+            <ln n="42">No</ln>
+            <ln n="43"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="44">You don't know what you're missing</ln>
+            <ln n="45">I'd love to read this again</ln>
+            <ln n="46">Wait...you can read this first</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="47"><char ref="#Beast">Beast, spoken</char></ln>
+            <ln n="48">No, that's alright</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="49"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="50">No, really, you read it</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="51"><char ref="#Beast">Beast, spoken</char></ln>
+            <ln n="52">Oh, no, you...</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="53"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="54">No, you</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="55"><char ref="#Beast">Beast, spoken</char></ln>
+            <ln n="56">No! I can't...</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="57"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="58">You never learned to read?</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="59"><char ref="#Beast">Beast, spoken</char></ln>
+            <ln n="60">Only a little, and long ago</ln>
+            <ln n="61"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="62">Well, it just so happens that this is the perfect book to read aloud. Come here, sit
+                by me</ln>
+        </lg>
+
+        <lg n="20">
+            <ln n="63"><char ref="#Lumiere">Lumiere</char></ln>
+            <ln n="64">Well, who'd have thought?</ln>
+        </lg>
+
+        <lg n="21">
+            <ln n="65"><char ref="#MrsPotts">Mrs. Potts</char></ln>
+            <ln n="66">Well, bless my soul</ln>
+        </lg>
+
+        <lg n="22">
+            <ln n="67"><char ref="#Cogsworth">Cogsworth</char></ln>
+            <ln n="68">Well, who'd have known?</ln>
+        </lg>
+
+        <lg n="23">
+            <ln n="69"><char ref="#MrsPotts">Mrs. Potts</char></ln>
+            <ln n="70">Well, who indeed?</ln>
+        </lg>
+
+        <lg n="24">
+            <ln n="71"><char ref="#Lumiere">Lumiere</char></ln>
+            <ln n="72">And who'd have guessed they'd come together on their own?</ln>
+        </lg>
+
+        <lg n="25">
+            <ln n="73"><char ref="#MrsPotts">Mrs. Potts</char></ln>
+            <ln n="74">It's so peculiar</ln>
+        </lg>
+
+        <lg n="26">
+            <ln n="75"><char ref="#All">All</char></ln>
+            <ln n="76">We'll wait and see</ln>
+            <ln n="77">A few days more</ln>
+            <ln n="78">There may be something there that wasn't there before</ln>
+        </lg>
+
+        <lg n="27">
+            <ln n="79"><char ref="#Cogsworth">Cogsworth</char></ln>
+            <ln n="80">Perhaps there's something there</ln>
+            <ln n="81">That wasn't there before</ln>
+        </lg>
+
+        <lg n="28">
+            <ln n="82"><char ref="#Chip">Chip, spoken</char></ln>
+            <ln n="83">What?</ln>
+        </lg>
+
+        <lg n="29">
+            <ln n="84"><char ref="#MrsPotts">Mrs. Potts</char></ln>
+            <ln n="85">There may be something there that wasn't there before</ln>
+        </lg>
+
+        <lg n="30">
+            <ln n="86"><char ref="#Chip">Chip, spoken</char></ln>
+            <ln n="87">What's there, Mama?</ln>
+        </lg>
+
+        <lg n="31">
+            <ln n="88"><char ref="#MrsPotts">Mrs. Potts, spoken</char></ln>
+            <ln n="89">Ssh. I'll tell you when you're older</ln>
+            <ln n="90">Come along now. Let's give them some privacy...</ln>
+        </lg>
+
+        <lg n="32">
+            <ln n="91"><char ref="#Chip">Chip, spoken</char></ln>
+            <ln n="92">Mama?</ln>
+        </lg>
+
+        <lg n="33">
+            <ln n="93"><char ref="#MrsPotts">Mrs. Potts, spoken</char></ln>
+            <ln n="94">Yes, Chip</ln>
+        </lg>
+
+        <lg n="34">
+            <ln n="95"><char ref="#Chip">Chip, spoken</char></ln>
+            <ln n="96">Will I ever get to be a boy again?</ln>
+        </lg>
+
+        <lg n="35">
+            <ln n="97"><char ref="#MrsPotts">Mrs. Potts, spoken</char></ln>
+            <ln n="98">I hope so</ln>
+        </lg>
+
+        <lg n="36">
+            <ln n="99"><char ref="#Chip">Chip, spoken</char></ln>
+            <ln n="100">When will I know?</ln>
+        </lg>
+
+        <lg n="37">
+            <ln n="101"><char ref="#MrsPotts">Mrs. Potts, spoken</char></ln>
+            <ln n="102">Soon. If it's to be. It will be very soon now. Come along, son</ln>
+        </lg>
+
+        <lg n="38">
+            <ln n="103"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="104">Knowing now, that this was indeed the legendary sword called "Excalibur," Arthur
+                tried to pull it from the stone. He tried</ln>
+            <ln n="105">Once to no avail. He tried a second time, but still, he could not pull it out. Then,
+                for the third time, Arthur drew forth the</ln>
+            <ln n="106">Sword...</ln>
+        </lg>
+
+        <lg n="39">
+            <ln n="107"><char ref="#Beast">Beast, spoken</char></ln>
+            <ln n="108">So that must mean he's the king!</ln>
+        </lg>
+
+        <lg n="40">
+            <ln n="109"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="110">Wait and see</ln>
+        </lg>
+
+        <lg n="41">
+            <ln n="111"><char ref="#Beast">Beast, spoken</char></ln>
+            <ln n="112">I never knew books could do that</ln>
+        </lg>
+
+        <lg n="42">
+            <ln n="113"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="114">Do what?</ln>
+        </lg>
+
+        <lg n="43">
+            <ln n="115"><char ref="#Beast">Beast, spoken</char></ln>
+            <ln n="116">Take me away from this place, make me forget for a little while</ln>
+        </lg>
+
+        <lg n="44">
+            <ln n="117"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="118">Forget?</ln>
+        </lg>
+
+        <lg n="45">
+            <ln n="119"><char ref="#Beast">Beast, spoken</char></ln>
+            <ln n="120">Who I...What I am...</ln>
+        </lg>
+
+        <lg n="46">
+            <ln n="121"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="122">We have something in common, you know</ln>
+        </lg>
+
+        <lg n="47">
+            <ln n="123"><char ref="#Beast">Beast, spoken</char></ln>
+            <ln n="124">What is that?</ln>
+        </lg>
+
+        <lg n="48">
+            <ln n="125"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="126">In the town where I come from, the people think I'm odd</ln>
+        </lg>
+
+        <lg n="49">
+            <ln n="127"><char ref="#Beast">Beast, spoken</char></ln>
+            <ln n="128">You?</ln>
+        </lg>
+
+        <lg n="50">
+            <ln n="129"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="130">So, I know how it feels to be...different. And I know how lonely that can be</ln>
+            <ln n="131">For the third time, Arthur drew forth the sword, and there arose from the people a
+                great shout. Arthur is king</ln>
+        </lg>
+
+        <lg n="51">
+            <ln n="132"><char ref="#Beast">Beast, spoken</char></ln>
+            <ln n="133">I told you so...</ln>
+        </lg>
+    </song>
+</xml>

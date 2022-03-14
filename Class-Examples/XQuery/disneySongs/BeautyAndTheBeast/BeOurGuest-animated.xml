@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata><title>Be Our Guest</title>
+<origin>Lyrics from <movie>Beauty and the Beast</movie></origin>
+<author>Music and Lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Ashman">Howard Ashman</lyricist></author>
+<perform>Performed by <voiceActor ref="#Orbach" role="#Lumiere">Jerry Orbach</voiceActor>, <voiceActor ref="#Lansbury" role="#Potts">Angela Lansbury</voiceActor> and chorus</perform>
+</metadata>
+
+<song>
+<lg n="1">
+    <ln n="1"><char ref="#Lumiere">Lumiere:</char> Be our guest</ln>
+    <ln n="2">Be our guest</ln>
+    <ln n="3">Put our service to the test</ln>
+    <ln n="4">Tie your napkin round your neck, cherie</ln>
+    <ln n="5">And we provide the rest</ln></lg>
+
+<lg n="2">
+    <ln n="6">Soupe du jour</ln>
+    <ln n="7">Hot hors d'oeuvres</ln>
+    <ln n="8">Why, we only live to serve</ln>
+    <ln n="9">Try the grey stuff, it's delicious</ln>
+    <ln n="10">Don't believe me, ask the dishes</ln>
+</lg>
+
+<lg n="3">
+    <ln n="11">They can sing</ln>
+    <ln n="12">They can dance</ln>
+    <ln n="13">After all, miss, this is France</ln>
+    <ln n="14">And a dinner here is never second best</ln>
+</lg>
+
+<lg n="4">
+    <ln n="15">Go on, unfold your menu</ln>
+    <ln n="16">Take a glance and then</ln>
+    <ln n="17">You'll be our guest</ln>
+    <ln n="18">Oui, our guest</ln>
+    <ln n="19">Be our guest</ln>
+</lg>
+
+<lg n="5">
+    <ln n="20"><char ref="#Castleware">Castleware:</char> Beef ragout</ln>
+    <ln n="21">Cheese soufflé</ln>
+    <ln n="22">Pie and pudding en flambé</ln>
+</lg>
+
+<lg n="6">
+    <ln n="23"><char ref="#Lumiere">Lumiere:</char> We'll prepare and serve with flair</ln>
+    <ln n="24">A culinary cabaret</ln>
+</lg>
+
+<lg n="7">
+    <ln n="25">You're alone</ln>
+    <ln n="26">And you're scared</ln>
+    <ln n="27">But the banquet's all prepared</ln>
+    <ln n="28">No one's gloomy or complaining</ln>
+    <ln n="29">While the flatware's entertaining</ln>
+</lg>
+
+<lg n="8">
+    <ln n="30">We tell jokes</ln>
+    <ln n="31">I do tricks</ln>
+    <ln n="32">With my fellow candlesticks</ln>
+</lg>
+
+<lg n="9">
+    <ln n="33"><char ref="#Castleware:">Beer Mugs:</char> But it's all in perfect taste, that you can bet</ln>
+</lg>
+
+<lg n="10">
+    <ln n="34"><char ref="#Castleware">Castleware:</char> Come on and lift your glass</ln>
+    <ln n="35">You've won your own free pass</ln>
+    <ln n="36">To be our guest</ln>
+</lg>
+
+<lg n="11">
+    <ln n="37"><char ref="#Lumiere">Lumiere:</char> If you're stressed</ln>
+    <ln n="38">It's fine dining we suggest</ln>
+</lg>
+
+<lg n="12">
+    <ln n="39"><char ref="#Castleware">Castleware:</char> Be our guest</ln>
+    <ln n="40">Be our guest</ln>
+    <ln n="41">Be our guest</ln>
+</lg>
+
+<lg n="13">
+    <ln n="42"><char ref="#Lumiere">Lumiere:</char> Life is so unnerving</ln>
+    <ln n="43">For a servant who's not serving</ln>
+    <ln n="44">He's not whole without a soul to wait upon</ln>
+    <ln n="45">Ah, those good old days when we were useful</ln>
+    <ln n="46">Suddenly, those good old days are gone</ln>
+</lg>
+
+<lg n="14">
+    <ln n="47">Ten years we've been rusting</ln>
+    <ln n="48">Needing so much more than dusting</ln>
+    <ln n="49">Needing exercise, a chance to use our skills</ln>
+    <ln n="50">Most days we just lay around the castle</ln>
+    <ln n="51">Flabby, fat and lazy</ln>
+    <ln n="52">You walked in and oops-a-daisy!</ln>
+</lg>
+
+<lg n="15">
+    <ln n="53"><char ref="#Potts">Mrs. Potts:</char> It's a guest!</ln>
+    <ln n="54">It's a guest!</ln>
+    <ln n="55">Sakes alive, well, I'll be blessed</ln>
+    <ln n="56">Wine's been poured, and thank the lord</ln>
+    <ln n="57">I've had the napkins freshly pressed</ln>
+</lg>
+
+<lg n="16">
+    <ln n="58">With dessert</ln>
+    <ln n="59">She'll want tea</ln>
+    <ln n="60">And, my dear, that's fine with me</ln>
+    <ln n="61">While the cups do their soft-shoeing</ln>
+    <ln n="62">I'll be bubbling, I'll be brewing</ln>
+</lg>
+
+<lg n="17">
+    <ln n="63">I'll get warm</ln>
+    <ln n="64">Piping hot</ln>
+    <ln n="65">Heaven's sake, is that a spot?</ln>
+    <ln n="66">Clean it up, we want the company impressed</ln>
+</lg>
+
+<lg n="18">
+    <ln n="67">We've got a lot to do</ln>
+    <ln n="68">Is it one lump or two?</ln>
+    <ln n="69">For you, our guest</ln>
+</lg>
+
+<lg n="19">
+    <ln n="70"><char ref="#Castleware">Castleware:</char> She's our guest</ln>
+</lg>
+
+<lg n="20">
+    <ln n="71"><char ref="#Potts">Mrs. Potts:</char> She's our guest</ln>
+</lg>
+
+<lg n="21">
+    <ln n="72"><char ref="#Castleware">Castleware:</char> She's our guest</ln>
+</lg>
+
+<lg n="22">
+    <ln n="73">Be our guest</ln>
+    <ln n="74">Be our guest</ln>
+    <ln n="75">Put our service to the test</ln>
+    <ln n="76">It's ten years since we've had anybody here</ln>
+    <ln n="77">And we're obsessed</ln>
+</lg>
+
+<lg n="23">
+    <ln n="78">With your meal</ln>
+    <ln n="79">With your ease</ln>
+    <ln n="80">Yes, indeed, we aim to please</ln>
+    <ln n="81">While the candlelight's still glowing</ln>
+    <ln n="82">Let us help you, we'll keep going</ln>
+</lg>
+
+<lg n="24">
+    <ln n="83">Course by course</ln>
+    <ln n="84">One by one</ln>
+    <ln n="85">Till you shout, "Enough, I'm done!"</ln>
+    <ln n="86">Then we'll sing you off to sleep as you digest</ln>
+</lg>
+
+<lg n="25">
+    <ln n="87">Tonight you'll prop your feet up</ln>
+    <ln n="88">But for now, let's eat up</ln>
+    <ln n="89">Be our guest</ln>
+    <ln n="90">Be our guest</ln>
+    <ln n="91">Be our guest</ln>
+    <ln n="92">Please be our guest!</ln>
+</lg>
+</song>
+</xml>

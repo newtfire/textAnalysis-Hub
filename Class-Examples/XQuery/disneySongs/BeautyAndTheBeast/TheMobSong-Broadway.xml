@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>The Mob Song</title>
+        <origin><movie>Beauty and the Beast (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer><lyricist ref="#Ashman">Howard
+                Ashman</lyricist></author>
+        <perform><voiceActor ref="#Moses" role="#Gaston">Burke Moses</voiceActor>
+            <voiceActor ref="#Raskin" role="#LeFou">Kenny Raskin</voiceActor>
+            <voiceActor role="#Belle" ref="#Egan">Susan Egan</voiceActor>
+            <voiceActor role="#Maurice" ref="#Bosley">Tom Bosley</voiceActor>
+            <voiceActor role="#DArque" ref="#Stanley">Gordon Stanley</voiceActor>
+        </perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="2">Show me the Beast!</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="3"><char ref="#Maurice">Maurice, spoken</char></ln>
+            <ln n="4">That's him! That's him!</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="5"><char ref="#Woman">Woman, spoken</char></ln>
+            <ln n="6">Is it dangerous?</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="7"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="8">Oh, no. No, he'd never hurt anyone. I know he looks</ln>
+            <ln n="9">Frightful, but he's really very gentle and kind. He's my friend</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="10"><char ref="#Gaston">Gaston, spoken</char></ln>
+            <ln n="11">If I didn't know better, I'd think you had feelings for this monster</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="12"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="13">He's no monster, Gaston. You are!</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="14"><char ref="#Gaston">Gaston, spoken</char></ln>
+            <ln n="15">She's as crazy as the old man. She says this creature is her friend</ln>
+            <ln n="16">Well, I've hunted wild beasts and I've seen what they can do</ln>
+            <ln n="17">The Beast will make off with your children!</ln>
+            <ln n="18">He'll come after them in the night</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="19"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="20">No, he will never!</ln>
+            <ln n="21"><char ref="#Gaston">Gaston, spoken</char></ln>
+            <ln n="22">Forget the old man, I say we kill the Beast!</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="23"><char ref="#Mob">Mob, spoken</char></ln>
+            <ln n="24">Kill him!</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="25"><char ref="#Man">Man</char></ln>
+            <ln n="26">We're not safe until he's dead</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="27"><char ref="#Man">Man</char></ln>
+            <ln n="28">He'll come stalking us at night</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="29"><char ref="#Woman">Woman</char></ln>
+            <ln n="30">Set to sacrifice our children to his monstrous appetite</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="31"><char ref="#DArque">D'Arque</char></ln>
+            <ln n="32">He'll wreak havoc on our village if we let him wander free</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="33"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="34">So it's time to take some action, boys</ln>
+            <ln n="35">It's time to follow me</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="36">Through the mist</ln>
+            <ln n="37">Through the woods</ln>
+            <ln n="38">Through the darkness and the shadows</ln>
+            <ln n="39">It's a nightmare but it's one exciting ride</ln>
+            <ln n="40">Say a prayer</ln>
+            <ln n="41">Then we're there</ln>
+            <ln n="42">At the drawbridge of a castle</ln>
+            <ln n="43">And there's something truly terrible inside</ln>
+            <ln n="44">It's a beast</ln>
+            <ln n="45">He's got fangs</ln>
+            <ln n="46">Razor sharp ones</ln>
+            <ln n="47">Massive paws</ln>
+            <ln n="48">Killer claws for the feast</ln>
+            <ln n="49">Hear him roar</ln>
+            <ln n="50">See him foam</ln>
+            <ln n="51">But we're not coming home</ln>
+            <ln n="52">'Til he's dead</ln>
+            <ln n="53">Good and dead!</ln>
+            <ln n="54">Kill the Beast!</ln>
+            <ln n="55"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="56">No! I won't let you do this!</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="57"><char ref="#Gaston">Gaston, spoken</char></ln>
+            <ln n="58">Try and stop us!</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="59"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="60">Papa, this is all my fault. I have to go back and warn him</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="61"><char ref="#Maurice">Maurice, spoken</char></ln>
+            <ln n="62">I'm coming with you</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="63"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="64">No!</ln>
+        </lg>
+
+        <lg n="20">
+            <ln n="65"><char ref="#Maurice">Maurice, spoken</char></ln>
+            <ln n="66">I lost you once, I won't lose you again!</ln>
+        </lg>
+
+        <lg n="21">
+            <ln n="67"><char ref="#Belle">Belle, spoken</char></ln>
+            <ln n="68">Then we'd better hurry</ln>
+        </lg>
+
+        <lg n="22">
+            <ln n="69"><char ref="#Gaston">Gaston, spoken</char></ln>
+            <ln n="70">We'll rid the village of this Beast. Who's with me?</ln>
+        </lg>
+
+        <lg n="23">
+            <ln n="71"><char ref="#Mob">Mob, spoken</char></ln>
+            <ln n="72">I am! I am! I am!</ln>
+            <ln n="73"><char ref="#Mob">Mob</char></ln>
+            <ln n="74">Light your torch</ln>
+            <ln n="75">Mount your horse!</ln>
+        </lg>
+
+        <lg n="24">
+            <ln n="76"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="77">Screw your courage to the sticking place!</ln>
+        </lg>
+
+        <lg n="25">
+            <ln n="78"><char ref="#Mob">Mob</char></ln>
+            <ln n="79">We're counting on Gaston to lead the way!</ln>
+        </lg>
+
+        <lg n="26">
+            <ln n="80">Through a mist</ln>
+            <ln n="81">Through a wood</ln>
+            <ln n="82">Where within a haunted castle</ln>
+            <ln n="83">Something's lurking that you don't see ev'ry day!</ln>
+        </lg>
+
+        <lg n="27">
+            <ln n="84">It's a beast</ln>
+            <ln n="85">One as tall as a mountain</ln>
+            <ln n="86">We won't rest</ln>
+            <ln n="87">'Til he's good and deceased</ln>
+            <ln n="88">Sally forth!</ln>
+            <ln n="89">Tally ho!</ln>
+            <ln n="90">Grab your sword!</ln>
+            <ln n="91">Grab your bow!</ln>
+            <ln n="92">Praise the Lord and here we go!</ln>
+        </lg>
+
+        <lg n="28">
+            <ln n="93">We don't like</ln>
+            <ln n="94">What we don't understand</ln>
+            <ln n="95">In fact it scares us</ln>
+            <ln n="96">And this monster is mysterious at least</ln>
+            <ln n="97">Bring your guns!</ln>
+            <ln n="98">Bring your knives!</ln>
+            <ln n="99">Save your children and your wives</ln>
+            <ln n="100">We'll save our village and our lives</ln>
+            <ln n="101">We'll kill the Beast!</ln>
+        </lg>
+
+        <lg n="29">
+            <ln n="102"><char ref="#Gaston">Gaston, spoken</char></ln>
+            <ln n="103">Cut down a tree, and make it a big one! Take whatever</ln>
+            <ln n="104">Booty you can find. But remember, the Beast is MINE!</ln>
+        </lg>
+
+        <lg n="30">
+            <ln n="105"><char ref="#Mob">Mob</char></ln>
+            <ln n="106">Hearts ablaze</ln>
+            <ln n="107">Banners high</ln>
+            <ln n="108">We go marching into battle</ln>
+            <ln n="109">Unafraid although the danger just increased</ln>
+        </lg>
+
+        <lg n="31">
+            <ln n="110">Raise the flag!</ln>
+            <ln n="111">Sing the song!</ln>
+            <ln n="112">Here we come, we're fifty strong</ln>
+            <ln n="113">And fifty Frenchmen can't be wrong</ln>
+            <ln n="114">Let's kill the Beast!</ln>
+            <ln n="115">Kill the Beast!</ln>
+            <ln n="116">Kill the Beast</ln>
+            <ln n="117">Kill the Beast!</ln>
+        </lg>
+    </song>
+</xml>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>One Jump Ahead</title>
+        <origin><movie>Aladdin (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer><lyricist ref="#Rice">Tim
+                Rice</lyricist></author>
+        <perform><voiceActor ref="#Jacobs" role="#Aladdin">Adam Jacobs</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Aladdin">ALADDIN</char> Gotta keep</ln>
+            <ln n="2">One jump ahead of the breadline</ln>
+            <ln n="3">One swing ahead of the sword</ln>
+            <ln n="4">I steal only what I can't afford</ln>
+            <ln n="5">And that's everything</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="6">One jump ahead of the lawmen</ln>
+            <ln n="7">That's all and that's no joke</ln>
+            <ln n="8">These guys don't appreciate I'm broke</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="9"><char ref="#Guards">GUARDS</char></ln>
+            <ln n="10">Riffraff</ln>
+            <ln n="11">Street rat</ln>
+            <ln n="12">Scoundrel</ln>
+            <ln n="13">Take that</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="14"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="15">Just a little snack, guys</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="16"><char ref="#Guards">GUARDS</char></ln>
+            <ln n="17">Rip him open, take it back, guys</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="18"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="19">I can take a hint, gotta face the facts</ln>
+            <ln n="20">I could use a friend or two</ln>
+            <ln n="21"><char ref="#All">ALL</char></ln>
+            <ln n="22">True</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="23"><char ref="#Ladies">LADIES</char></ln>
+            <ln n="24">Oh, it's sad, Aladdin's hit the bottom</ln>
+            <ln n="25">He's become a one man rise in crime</ln>
+            <ln n="26">I'd blame parents, except he hasn't got 'em</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="27"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="28">Gotta eat to live, gotta steal to eat</ln>
+            <ln n="29">Tell you all about it when I got the time</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="30">One jump ahead of the slowpokes</ln>
+            <ln n="31">One skip ahead of my doom</ln>
+            <ln n="32">Next time gonna use a nom de plume</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="33">One jump ahead of the hitmen</ln>
+            <ln n="34">One hit ahead of the flock</ln>
+            <ln n="35">I think I'll take a stroll around the block</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="36"><char ref="#Traders">TRADERS</char></ln>
+            <ln n="37">Stop, thief</ln>
+            <ln n="38">Vandal</ln>
+            <ln n="39">Outrage</ln>
+            <ln n="40">Scandal</ln>
+            <ln n="41"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="42">Let's not be too hasty</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="43"><char ref="#Woman">WOMAN</char></ln>
+            <ln n="44">Still I think he's rather tasty</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="45"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="46">Gotta eat to live, gotta steal to eat</ln>
+            <ln n="47">Otherwise we'd get along</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="48"><char ref="#All">ALL</char></ln>
+            <ln n="49">Wrong</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="50"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="51">One jump ahead of the hoofbeats</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="52"><char ref="#Guards">GUARDS</char></ln>
+            <ln n="53">Vandal</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="54"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="55">One hop ahead of the hump</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="56"><char ref="#Guards">GUARDS</char></ln>
+            <ln n="57">Street rat</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="58"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="59">One trick ahead of disaster</ln>
+            <ln n="60"><char ref="#Guards">GUARDS</char></ln>
+            <ln n="61">Scoundrel</ln>
+        </lg>
+
+        <lg n="20">
+            <ln n="62"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="63">They're quick, but I'm much faster</ln>
+        </lg>
+
+        <lg n="21">
+            <ln n="64"><char ref="#Guards">GUARDS</char></ln>
+            <ln n="65">Take that</ln>
+        </lg>
+
+        <lg n="22">
+            <ln n="66"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="67">Here goes, better throw my hand in</ln>
+            <ln n="68">Wish me happy landin' all I gotta do is jump</ln>
+        </lg>
+
+        <lg n="23">
+            <ln n="69"><char ref="#Guards">GUARDS</char></ln>
+            <ln n="70">Don't let him get away</ln>
+        </lg>
+
+        <lg n="24">
+            <ln n="71"><char ref="#Aladdin">ALADDIN, spoken</char></ln>
+            <ln n="72">Sometimes it's just way too easy</ln>
+        </lg>
+    </song>
+</xml>

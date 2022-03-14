@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>
+<title>As Long As There's Christmas</title>
+<origin>Lyrics from <movie>Beauty and the Beast: The Enchanted Christmas</movie></origin>
+<author>Written by <composer ref="#Portman">Rachel Portman</composer> and <composer ref="#Black">Don Black</composer></author>
+<perform>Performed by <voiceActor ref="#Keenan-Bolger" role="#Zip">Andrew Keenan-Bolger</voiceActor>, <voiceActor ref="#Lansbury" role="#Potts">Angela Lansbury</voiceActor>, <voiceActor ref="#O'Hara" role="#Belle">Paige O'Hara</voiceActor>, <voiceActor ref="#Stiers" role="#Cogswrth">David Ogden Stiers</voiceActor>, <voiceActor ref="#Orbach" role="#Lumiere">Jerry Orbach</voiceActor> and <voiceActor ref="#Peters" role="#Angelique">Bernadette Peters</voiceActor></perform>
+    <source>https://www.disneyclips.com/lyrics/lyricsch.html</source>
+    <source>https://www.imdb.com/title/tt0118692/fullcredits?ref_=tt_ov_wr_sm</source>
+    <length>3:15</length>
+    <timeStamp start="20:05" end="23:20"/>
+</metadata>
+    
+    <song>    
+<lg n="1">
+    <ln n="1"><char ref="#Belle">Belle:</char> There is more to this time of year</ln>
+    <ln n="2">Than sleigh bells and holly</ln>
+    <ln n="3">Mistletoe and snow</ln>
+    <ln n="4">Those things come and go</ln>
+    <ln n="5">Much deeper than snow</ln>
+    <ln n="6">Stronger than the strongest love we'll know</ln>
+    <ln n="7">We'll ever know</ln>
+</lg>
+
+<lg n="2">
+    <ln n="8">As long as there's Christmas I truly believe</ln>
+    <ln n="9">That hope is the greatest of the gifts we'll receive</ln>
+    <ln n="10">As long as there's Christmas we'll all be just fine</ln>
+    <ln n="11">A star shines above us lighting your</ln>
+    <ln n="12">Way and mine</ln>
+</lg>
+
+<lg n="3">
+    <ln n="13"><char ref="#Cogsworth">Cogsworth:</char> Just as long as there's Christmas</ln>
+    <ln n="14">There will be Christmas pud</ln>
+    <ln n="15">Tons of turkey</ln>
+</lg>
+
+<lg n="4">
+    <ln n="16"><char ref="#Potts">Mrs. Potts:</char> And cranb'ry sauce</ln>
+    <ln n="17">And mince pies if we're good</ln>
+</lg>
+
+<lg n="5">
+    <ln n="18"><char ref="#Lumiere">Lumiere:</char> Loads of logs on the fire</ln>
+</lg>
+
+<lg n="6">
+    <ln n="19"><char ref="#Castleware">Castleware:</char> Lots of gifts on the tree</ln>
+    <ln n="20">All wrapped up in red ribbons</ln>
+</lg>
+
+<lg n="7">
+    <ln n="21"><char ref="#Chip">Chip:</char> Wonder if there's one for me</ln>
+</lg>
+
+<lg n="8">
+    <ln n="22"><char ref="#Cogsworth">Cogsworth:</char> We're due for a party&gt;</ln>
+    <ln n="23">Where on earth do we start?</ln>
+</lg>
+
+<lg n="9">
+    <ln n="24"><char ref="#Fifi">Fifi:</char> I may wear my tiara</ln>
+    <ln n="25">You bought me in Monmartre</ln>
+</lg>
+
+<lg n="10">
+    <ln n="26"><char ref="#Cogsworth">Cogsworth:</char> All the silver will sparkle</ln>
+</lg>
+
+<lg n="11">
+    <ln n="27"><char ref="#Potts">Mrs. Potts:</char> And the china will gleam</ln>
+</lg>
+
+<lg n="12">
+    <ln n="28"><char ref="#Lumiere">Lumiere:</char> And we'll all be as shiny</ln>
+    <ln n="29">As a brand-new centime</ln>
+</lg>
+
+<lg n="13">
+    <ln n="30"><char ref="#Chip">Chip:</char> After dinner we'll play games</ln>
+</lg>
+
+<lg n="14">
+    <ln n="31"><char ref="#Potts">Mrs. Potts:</char> Till the morning breaks through</ln>
+</lg>
+
+<lg n="15">
+    <ln n="32"><char ref="#Lumiere">Lumiere:</char> Then we'll meet in the garden</ln>
+    <ln n="33">This is what we shall do</ln>
+</lg>
+
+<lg n="16">
+    <ln n="34"><char ref="#Chip">Chip:</char> We will build us a snowman</ln>
+    <ln n="35">That will reach to the sky</ln>
+</lg>
+
+<lg n="17">
+    <ln n="36"><char ref="#Belle">Belle:</char> It will stay up until July</ln>
+</lg>
+
+<lg n="18">
+    <ln n="37"><char ref="#Belle">Belle</char> &amp; <char ref="#Castleware">Castleware:</char> As long as there's Christmas I truly believe</ln>
+    <ln n="38">That hope is the greatest of the gifts we'll receive</ln>
+    <ln n="39">As long as there's Christmas we'll all be just fine</ln>
+</lg>
+
+<lg n="19">
+    <ln n="40"><char ref="#Belle">Belle:</char> There'll always be Christmas</ln>
+    <ln n="41">So there always will be a time</ln>
+    <ln n="42">When the world is filled with peace and love</ln>
+</lg>
+</song>
+</xml>

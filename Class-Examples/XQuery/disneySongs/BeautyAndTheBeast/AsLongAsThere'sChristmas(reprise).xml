@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>
+    <title>As Long As There's Christmas (Reprise)</title>
+    <origin>Lyrics from <movie>Beauty and the Beast: The Enchanted Christmas</movie></origin>
+    <author>Written by <composer ref="#Portman">Rachel Portman</composer> and <composer ref="#Black">Don Black</composer></author>
+    <perform>Performed by <voiceActor ref="#O'Hara" role="#Belle">Paige O'Hara</voiceActor> as Belle and <voiceActor ref="#Peters" role="#Angelique">Bernadette Peters</voiceActor> as Angelique</perform>
+    <source>https://www.disneyclips.com/lyrics/lyricsch5.html</source>
+    <source>https://www.imdb.com/title/tt0118692/fullcredits?ref_=tt_ov_wr_sm</source>
+    <length>1:36</length>
+    <timeStamp start="53:38" end="55:14"/>
+</metadata>
+    
+    <song>
+<lg n="1">
+    <ln n="1"><char ref="#Angelique">Angelique:</char> When I felt lost and lonely</ln>
+    <ln n="2">Not a dream in my head</ln>
+    <ln n="3">Your words lifted my spirits</ln>
+    <ln n="4">I remember what you said</ln>
+</lg>
+
+<lg n="2">
+   <ln n="5"><char ref="#Angelique">Angelique:</char> As long as there's Christmas I truly believe</ln>
+</lg>
+
+<lg n="3">
+    <ln n="6"><char ref="#Angelique">Angelique</char> &amp; <char ref="#Belle">Belle:</char> That hope is the greatest of the gifts we'll receive</ln>
+    <ln n="7">As long as our guiding star shines above</ln>
+</lg>
+
+<lg n="4">
+    <ln n="8"><char ref="#Angelique">Angelique:</char> There will always be Christmas</ln>
+</lg>
+
+<lg n="5">
+    <ln n="9"><char ref="#Belle">Belle:</char> So there always will be a time</ln>
+    <ln n="10">When the world is filled with peace and love</ln>
+</lg>
+</song>
+</xml>

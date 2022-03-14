@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata><title>I'm Looking Out For Me(1994)</title>
+<origin>Lyrics from <movie>Aladdin: The Return of Jafar</movie></origin>
+<author>Lyrics and music by <composer ref="#Petersen">Randy Petersen</composer> and <composer ref="#Quinn">Kevin Quinn</composer></author>
+<perform>Performed by <voiceActor ref="#Gottfried" role="#Iago">Gilbert Gottfried</voiceActor> as Iago</perform></metadata>
+
+<song><lg n="1"><ln n="1"><char ref="#Iago">Iago:</char> That's it!</ln>
+<ln n="2">I've had it! </ln>
+<ln n="3">I hate to be dramatic</ln>
+<ln n="4">But it's time for me to fly the coop</ln>
+<ln n="5">Terrific!</ln>
+<ln n="6">Fine!</ln>
+<ln n="7">I'm drawin' the line</ln>
+<ln n="8">Before I wind up in a parrot soup!</ln></lg>
+
+<lg n="2"><ln n="9">I was a fool to let you run the show</ln> 
+<ln n="10">I'm cuttin' ya loose, pal!</ln>
+<ln n="11">Look out below!</ln>
+<ln n="12">Arrividerci!</ln>
+<ln n="13">C'est la vie!</ln>
+<ln n="14">Hope all goes well!</ln>
+<ln n="15">I'm lookin' out for me!</ln></lg>
+
+<lg n="3"><ln n="16">Okay! I'm little</ln>
+<ln n="17">Been playin' second fiddle</ln>
+<ln n="18">And I don't get no respect</ln>
+<ln n="19">I turn the other cheek</ln>
+<ln n="20">But this busted beak</ln>
+<ln n="21">Is the only thanks that I get!</ln></lg>
+
+<lg n="4"><ln n="22">I never found a friend that I can trust</ln>
+<ln n="23">They promise caviar</ln>
+<ln n="24">And leave me eatin' dust!</ln>
+<ln n="25">That's some reward for loyalty</ln>
+<ln n="26">From here on in</ln>
+<ln n="27">I'm lookin' out for me!</ln></lg>
+
+<lg n="5"><ln n="28">Oh, I don't need nobody else</ln>
+<ln n="29">I'll never fail</ln>
+<ln n="30">I'll cover my own tail</ln>
+<ln n="31">I can take care of myself!</ln></lg>
+
+<lg n="6"><ln n="32">You know, it just don't pay</ln>
+<ln n="33">To give a hoot</ln>
+<ln n="34">I'm givin' all my heart</ln>
+<ln n="35">What do I get?</ln>
+<ln n="36">The boot!</ln>
+<ln n="37">I'm through wit' dat</ln>
+<ln n="38">I'm flappin' free</ln>
+<ln n="39">From here on in</ln>
+<ln n="40">I'm lookin' out for me!</ln></lg></song></xml>

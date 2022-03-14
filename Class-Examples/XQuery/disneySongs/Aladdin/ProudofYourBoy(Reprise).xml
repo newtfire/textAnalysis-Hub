@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>Proud of Your Boy (Reprise)</title>
+        <origin><movie>Aladdin (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer><lyricist ref="#Beguelin">Chad
+                Beguelin</lyricist></author>
+        <perform><voiceActor ref="#Jacobs" role="#Aladdin">Adam Jacobs</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Aladdin">ALADDIN</char> Tell the truth, lose the princess</ln>
+            <ln n="2">Keep the princess, live a lie</ln>
+            <ln n="3">I know that I was a louse and a loafer</ln>
+            <ln n="4">You won't get a fight, I agree</ln>
+            <ln n="5">I was a goldbrick, a goof-off, no good</ln>
+            <ln n="6">So, how did this happen to me?</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="7">Proud of your boy</ln>
+            <ln n="8">I hope you're proud of your boy</ln>
+            <ln n="9">Cause I don't feel any taller or smarter</ln>
+            <ln n="10">Or handsome or wise</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="11">And now, I know what I have to do</ln>
+            <ln n="12">How can I be a prince when it isn't true?</ln>
+            <ln n="13">So, I will try to try hard to make you</ln>
+            <ln n="14">Proud of Your Boy</ln>
+        </lg>
+    </song>
+</xml>

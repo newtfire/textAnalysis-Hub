@@ -1,0 +1,5 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/disneySongs" version="1" owner="wdjacca" group="dba" mode="775" created="2021-12-30T05:24:15.696Z">
+    <acl entries="0" version="1"/>
+    <subcollection name="Aladdin" filename="Aladdin"/>
+    <subcollection name="BeautyAndTheBeast" filename="BeautyAndTheBeast"/>
+</collection>

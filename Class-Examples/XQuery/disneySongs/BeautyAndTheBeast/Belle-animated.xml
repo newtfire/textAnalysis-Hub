@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>
+    <title>Belle</title>
+    <origin>Lyrics from <movie>Beauty and the Beast</movie></origin>
+    <author>Music and Lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Ashman">Howard Ashman</lyricist></author>
+<perform>Performed by <voiceActor ref="#O'Hara" role="#Belle">Paige O'Hara</voiceActor>, <voiceActor ref="#White" role="#Gaston">Richard White</voiceActor>, <voiceActor ref="#Murphy" role="#baker">Alec Murphy</voiceActor>, <voiceActor ref="#Bergman" role="#Bimbettes">Mary Kay Bergman</voiceActor>, <voiceActor ref="#Soucie" role="#Bimbettes">Kath Soucie</voiceActor> and chorus</perform>
+</metadata>
+    
+<song>
+<lg n="1">
+    <ln n="1"><char ref="#Belle">Belle:</char> Little town</ln>
+    <ln n="2">It's a quiet village</ln>
+    <ln n="3">Every day</ln>
+    <ln n="4">Like the one before</ln>
+    <ln n="5">Little town full of little people</ln>
+    <ln n="6">Waking up to say</ln>
+    <ln n="7"><char ref="#Townies">Townies:</char> Bonjour! Bonjour!</ln>
+    <ln n="7">Bonjour! Bonjour! Bonjour!</ln>
+</lg>
+
+<lg n="2">
+    <ln n="8"><char ref="#Belle">Belle:</char> There goes the baker with his tray like always</ln>
+    <ln n="9">The same old bread and rolls to sell</ln>
+    <ln n="10">Every morning just the same</ln>
+    <ln n="11">Since the morning that we came</ln>
+    <ln n="12">To this poor provincial town</ln>
+</lg>
+
+<lg n="3">
+    <ln n="13"><char ref="#Townies">Townies:</char> Look, there she goes, the girl is strange, no question</ln>
+    <ln n="14">Dazed and distracted, can't you tell?</ln>
+    <ln n="15">Never part of any crowd</ln>
+    <ln n="16">'Cause her head's up on some cloud</ln>
+    <ln n="17">No denying she's a funny girl, that Belle</ln>
+</lg>
+
+<lg n="4">
+    <ln n="18">Bonjour</ln>
+    <ln n="19">Good day</ln>
+    <ln n="20">How is your family?</ln>
+    <ln n="21">Bonjour</ln>
+    <ln n="22">Good day</ln>
+    <ln n="23">How is your wife?</ln>
+    <ln n="24">I need six eggs</ln>
+    <ln n="25">That's too expensive</ln>
+    <ln n="26"><char ref="#Belle">Belle:</char> There must be more than this provincial life</ln>
+</lg>
+
+<lg n="5">
+    <ln n="27"><char ref="#Townies">Townies:</char> Look, there she goes</ln>
+    <ln n="28">That girl is so peculiar</ln>
+    <ln n="29">I wonder if she's feeling well</ln>
+    <ln n="30">With a dreamy, far-off look</ln>
+    <ln n="31">And her nose stuck in a book</ln>
+    <ln n="32">What a puzzle to the rest of us is Belle</ln>
+</lg>
+
+<lg n="6">
+    <ln n="33"><char ref="#Belle">Belle:</char> Oh, isn't this amazing?</ln>
+    <ln n="34">It's my favorite part because...you'll see</ln>
+    <ln n="35">Here's where she meets Prince Charming</ln>
+    <ln n="36">But she won't discover that it's him till chapter three</ln>
+</lg>
+
+<lg n="7">
+    <ln n="37"><char ref="#Townies">Townies:</char> Now, it's no wonder that her name means "beauty"</ln>
+    <ln n="38">Her looks have got no parallel</ln>
+    <ln n="39">But behind that fair facade</ln>
+    <ln n="40">I'm afraid she's rather odd</ln>
+    <ln n="41">Very different from the rest of us</ln>
+    <ln n="42">She's nothing like the rest of us</ln>
+    <ln n="43">Yes, different from the rest of us is Belle</ln>
+</lg>
+
+<lg n="8">
+    <ln n="44"><char ref="#Gaston">Gaston:</char> Right from the moment when I met her, saw her</ln>
+    <ln n="45">I said she's gorgeous and I fell</ln>
+    <ln n="46">Here in town there's only she</ln>
+    <ln n="47">Who is beautiful as me</ln>
+    <ln n="48">So I'm making plans to woo and marry Belle</ln>
+</lg>
+
+<lg n="9">
+    <ln n="49"><char ref="#Bimbettes">Bimbettes:</char> Look, there he goes</ln>
+    <ln n="50">Isn't he dreamy?</ln>
+    <ln n="51">Monsieur Gaston</ln>
+    <ln n="52">Oh, he's so cute</ln>
+    <ln n="53">Be still, my heart</ln>
+    <ln n="54">I'm hardly breathing</ln>
+    <ln n="55">He's such a tall, dark, strong and handsome brute</ln>
+</lg>
+
+<lg n="10">
+    <ln n="56"><char ref="#Townies">Townies:</char> Bonjour</ln>
+    <ln n="57"><char ref="#Gaston">Gaston:</char> Pardon</ln>
+    <ln n="58"><char ref="#Townies">Townies:</char> Good day</ln>
+    <ln n="59">Mais oui</ln>
+    <ln n="60">You call this bacon?</ln>
+    <ln n="61">What lovely grapes</ln>
+    <ln n="62">Some cheese...</ln>
+    <ln n="63">Ten yards</ln>
+    <ln n="64">One pound</ln>
+    <ln n="65"><char ref="#Gaston">Gaston:</char> 'Scuse me</ln>
+    <ln n="66"><char ref="#Townies">Townies:</char> I'll get the knife</ln>
+    <ln n="67"><char ref="#Gaston">Gaston:</char> Please let me through!</ln>
+    <ln n="68"><char ref="#Townies">Townies:</char> This bread</ln>
+    <ln n="69">Those fish</ln>
+    <ln n="70">It's stale</ln>
+    <ln n="71">They smell</ln>
+    <ln n="72">Madame's mistaken</ln>
+</lg>
+
+<lg n="11">
+    <ln n="73"><char ref="#Belle">Belle:</char> There must be more than this provincial life</ln>
+    <ln n="74"><char ref="#Gaston">Gaston:</char> Just watch, I'm going to make Belle my wife!</ln>
+</lg>
+
+<lg n="12">
+    <ln n="75"><char ref="#Townies">Townies:</char> Look, there she goes, a girl who's strange but special</ln>
+    <ln n="76">A most peculiar mademoiselle</ln>
+    <ln n="77">It's a pity and a sin</ln>
+    <ln n="78">She doesn't quite fit in</ln>
+    <ln n="79">'Cause she really is a funny girl</ln>
+    <ln n="80">A beauty but a funny girl</ln>
+    <ln n="81">She really is a funny girl, that Belle!</ln>
+</lg>
+</song>
+</xml>

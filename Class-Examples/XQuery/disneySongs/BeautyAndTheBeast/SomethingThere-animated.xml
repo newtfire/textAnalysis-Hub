@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>
+<title>Something There</title>
+<origin>Lyrics from <movie>Beauty and the Beast</movie></origin>
+<author>Music and Lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Ashman">Howard Ashman</lyricist></author>
+<perform>Performed by <voiceActor ref="#O'Hara" role="#Belle">Paige O'Hara</voiceActor>, <voiceActor ref="#Benson" role="#Beast">Robby Benson</voiceActor>, <voiceActor ref="#Lansbury" role="#Potts">Angela Lansbury</voiceActor>, <voiceActor ref="#Orbach" role="#Lumiere">Jerry Orbach</voiceActor> and <voiceActor ref="#Stiers" role="#Cogsworth">David Ogden Stiers</voiceActor></perform>
+</metadata>
+
+<song>
+<lg n="1">
+    <ln n="1"><char ref="#Belle">Belle:</char> There's something sweet and almost kind</ln>
+    <ln n="2">But he was mean, and he was coarse and unrefined</ln>
+    <ln n="3">And now he's dear and so unsure</ln>
+    <ln n="4">I wonder why I didn't see it there before</ln>
+</lg>
+
+<lg n="2">
+    <ln n="5"><char ref="#Beast">Beast:</char> She glanced this way, I thought I saw</ln>
+    <ln n="6">And when we touched she didn't shudder at my paw</ln>
+    <ln n="7">No it can't be, I'll just ignore</ln>
+    <ln n="8">But then she's never looked at me that way before</ln>
+</lg>
+
+<lg n="3">
+    <ln n="9"><char ref="#Belle">Belle:</char> New and a bit alarming</ln>
+    <ln n="10">Who'd have ever thought that this could be?</ln>
+    <ln n="11">True that he's no Prince Charming</ln>
+    <ln n="12">But there's something in him that I simply didn't see</ln>
+</lg>
+
+<lg n="4">
+    <ln n="13"><char ref="#Castleware">Castleware:</char> Well, who'd have thought?</ln>
+    <ln n="14">Well, bless my soul</ln>
+    <ln n="15">Well, who'd have known?</ln>
+    <ln n="16">Well, who indeed?</ln>
+    <ln n="17">And who'd have guessed they'd come together on their own?</ln>
+    <ln n="18">It's so peculiar</ln>
+</lg>
+    
+<lg n="5">
+    <ln n="19">Wait and see a few days more</ln>
+    <ln n="20">There may be something there that wasn't there before</ln>
+    <ln n="21">There may be something there that wasn't there before</ln>
+    <ln n="22">There may be something there that wasn't there before</ln>
+</lg>
+</song>
+</xml>

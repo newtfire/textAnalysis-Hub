@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>How Long Must This Go On</title>
+        <origin><movie>Beauty and the Beast (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer>
+            <lyricist ref="#Rice">Tim Rice</lyricist></author>
+        <perform><voiceActor ref="#Mann" role="#Beast">Terrence Mann</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Beast">BEAST</char></ln>
+            <ln n="2">How long must this go on?</ln>
+            <ln n="3">This cruel trick of fate?</ln>
+            <ln n="4">I simply made one careless wrong decision</ln>
+            <ln n="5">And then that witch was gone</ln>
+            <ln n="6">And left me in this state</ln>
+            <ln n="7">An object of revulsion and derision</ln>
+            <ln n="8">Hated</ln>
+            <ln n="9">Is there no one?</ln>
+            <ln n="10">Who can show me</ln>
+            <ln n="11">How to win the world's forgiveness?</ln>
+        </lg>
+    </song>
+</xml>

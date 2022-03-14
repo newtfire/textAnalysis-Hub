@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+<metadata>
+    <title>Something There</title>
+    <origin>Lyrics from <movie>Beauty and the Beast (Live-Action)</movie></origin>
+    <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+    <perform>Performed by <voiceActor ref="#Watson" role="#Belle">Emma Watson</voiceActor></perform>
+</metadata>
+
+<song>
+<lg n="1">
+    <ln n="1"><char ref="#Belle">Belle:</char> There's something sweet, and almost kind</ln>
+    <ln n="2">But he was mean and he was coarse and unrefined</ln>
+    <ln n="3">And now he's dear, and so unsure</ln>
+    <ln n="4">I wonder why I didn't see it there before</ln>
+</lg>
+
+<lg n="2">
+    <ln n="5"><char ref="#Beast">Beast:</char> She glanced this way, I thought I saw</ln>
+    <ln n="6">And when we touched, she didn't shudder at my paw</ln>
+    <ln n="7">No, it can't be, I'll just ignore</ln>
+    <ln n="8">But then, she's never looked at me that way before</ln>
+</lg>
+
+<lg n="3">
+    <ln n="9"><char ref="#Belle">Belle:</char> New, and a bit alarming</ln>
+    <ln n="10">Who'd have ever thought that this could be?</ln>
+    <ln n="11">True, that he's no Prince Charming</ln>
+    <ln n="12">But there's something in him that I simply didn't see</ln>
+</lg>
+
+<lg n="4"><ln n="13"><char ref="#Fifi">Fifi:</char> Well, who'd have thought?</ln></lg>
+
+<lg n="5"><ln n="14"><char ref="#Potts">Mrs. Potts:</char> Well, bless my soul!</ln></lg>
+
+<lg n="6"><ln n="15"><char ref="#Cogsworth">Cogsworth:</char> Well, who'd have known?</ln></lg>
+
+
+<lg n="7">
+    <ln n="16"><char ref="#Lumiere">Lumiere:</char> Well, who indeed? And who'd have guessed</ln>
+    <ln n="17">They'd come together on their own?</ln>
+</lg>
+
+<lg n="8"><ln n="18"><char ref="#Potts">Mrs. Potts:</char> It's so peculiar! Wait and see!</ln></lg>
+
+<lg n="9">
+    <ln n="19"><char ref="#Castleware">Castleware:</char> We'll wait and see, a few days more</ln>
+    <ln n="20">There may be something there that wasn't there before</ln>
+</lg>
+
+<lg n="10">
+    <ln n="21"><char ref="#Cogsworth">Cogsworth:</char> And here's a thought</ln>
+    <ln n="22">Perhaps there's something there that wasn't there before</ln>
+</lg>
+
+<lg n="11"><ln n="23"><char ref="#Chip">Chip:</char> What, Mama?</ln></lg>
+
+<lg n="12"><ln n="24"><char ref="#Potts">Mrs. Potts:</char> There may be something there that wasn't there before</ln></lg>
+
+<lg n="13"><ln n="25"><char ref="#Chip">Chip:</char> What is it? What's there?</ln></lg>
+
+<lg n="14"><ln n="26"><char ref="#Potts">Mrs. Potts:</char> I'll tell you when you're older</ln></lg>
+
+<lg n="15"><ln n="27"><char ref="#Chip">Chip:</char> Okay, I'm older!</ln></lg>
+
+<lg n="16"><ln n="28"><char ref="#Potts">Mrs. Potts:</char> Chip! Oh, you are a...</ln></lg>
+</song>
+</xml>

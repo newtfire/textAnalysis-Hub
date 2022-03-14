@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>Home (Reprise)</title>
+        <origin>
+            <movie> Beauty and the Beast (Broadway) </movie>
+        </origin>
+        <author><composer ref="#Menken">Alan Menken</composer><composer ref="#Botnick">Bruce
+                Botnick</composer><lyricist ref="#Rice">Tim Rice</lyricist></author>
+        <perform>
+            <voiceActor ref="#Fowler" role="#Mrs.Potts">Beth Fowler</voiceActor>
+        </perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1">Cheer up, child</ln>
+            <ln n="2">It will turn out alright in the end, you'll see</ln>
+            <ln n="3">I hope that we'll be friends</ln>
+            <ln n="4">Though I don't know you well</ln>
+            <ln n="5">If anyone can make</ln>
+            <ln n="6">The most of living here</ln>
+            <ln n="7">Then, Belle, it's you</ln>
+            <ln n="8">And who knows?</ln>
+            <ln n="9">You may find home here, too!</ln>
+        </lg>
+    </song>
+</xml>

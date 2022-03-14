@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>High Adventure</title>
+        <origin><movie>Aladdin (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer><lyricist ref="#Ashman">Howard
+                Ashman</lyricist></author>
+        <perform><voiceActor ref="#ONeill" role="#Kassim">Brandon O'Neill</voiceActor>
+            <voiceActor role="#Omar" ref="#Schwartz">Jonathan Schwartz</voiceActor>
+            <voiceActor role="#Babkak" ref="#Gonzales">Brian Gonzales</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Omar">OMAR</char> (spoken): What are we going to do? Storm the
+                palace?</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="2"><char ref="#Kassim">KASSIM</char> (spoken):</ln>
+            <ln n="3">Yes! Storm the palace!</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="4"><char ref="#Omar">OMAR</char> (spoken):</ln>
+            <ln n="5">Wait, I didn't mean that!</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="6"><char ref="#Babkak">BABKAK</char> (spoken):</ln>
+            <ln n="7">That's the spirit!</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="8"><char ref="#Kassim">KASSIM</char> (spoken):</ln>
+            <ln n="9">Who's up for a little high adventure? Okay first things first, we're going to
+                need weapons</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="10"><char ref="#Omar">OMAR</char> (spoken):</ln>
+            <ln n="11">Weapons!? Oh geez, couldn't we just, uh, send a strongly worded letter?</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="12"><char ref="#Babkak">BABKAK</char></ln>
+            <ln n="13">Seriously?</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="14"><char ref="#Kassim">KASSIM</char></ln>
+            <ln n="15">Maybe I can convince these guys to work out a trade</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="16"><char ref="#Babkak">BABKAK</char></ln>
+            <ln n="17">Convince those guys, my lord and master</ln>
+            <ln n="18">(That's what I'm doing Babkak)</ln>
+            <ln n="19">Well, do it faster, let's be gone</ln>
+            <ln n="20"><char ref="#Kassim">KASSIM</char></ln>
+            <ln n="21">Everyone choose a weapon</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="22"><char ref="#Omar">OMAR</char></ln>
+            <ln n="23">Oh I should really be going</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="24"><char ref="#Babkak">BABKAK</char></ln>
+            <ln n="25">In wasting time we court disaster</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="26"><char ref="#">BABKAK &amp; KASSIM</char></ln>
+            <ln n="27">Pick up that sword and strap it on</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="28"><char ref="#Omar">OMAR</char></ln>
+            <ln n="29">See I hate weapons because--</ln>
+            <ln n="30">This thing is awesome!</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="31"><char ref="#Kassim">KASSIM</char></ln>
+            <ln n="32">Fate blows her kiss</ln>
+            <ln n="33">Chills your heart</ln>
+            <ln n="34">Takes your hand</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="35"><char ref="#Babkak">BABKAK</char></ln>
+            <ln n="36">Fate feels like this</ln>
+            <ln n="37">Play your part</ln>
+            <ln n="38">This was planned</ln>
+            <ln n="39"><char ref="#All">ALL</char></ln>
+            <ln n="40">And lo, before you know</ln>
+            <ln n="41">You grab your horse, you grab your gear</ln>
+            <ln n="42">Your moment's now, your moment's here</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="43">It's time for high, high, high adventure</ln>
+            <ln n="44">You're off and riding, sabre flashing</ln>
+            <ln n="45">Your banner high, your molars gnashing</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="46">You feel so dashing on a high, high, high adventure</ln>
+            <ln n="47">Get set to give some guy a thrashing</ln>
+            <ln n="48">'Cause high adventure's in the air</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="49">To the palace!</ln>
+            <ln n="50">To the palace!</ln>
+            <ln n="51">To the palace!</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="52"><char ref="#Kassim">KASSIM</char></ln>
+            <ln n="53">There's high adventure in the air, guys</ln>
+            <ln n="54">Someone's out there, guys, someone bad</ln>
+        </lg>
+
+        <lg n="20">
+            <ln n="55"><char ref="#Omar">OMAR</char></ln>
+            <ln n="56">Are we there yet?</ln>
+            <ln n="57">(No!)</ln>
+            <ln n="58">Are we there yet?</ln>
+            <ln n="59">(No!)</ln>
+            <ln n="60">Are we there yet?</ln>
+            <ln n="61">(We're not moving!)</ln>
+            <ln n="62">He's got a damsel in despair, guys</ln>
+            <ln n="63">Heck, that's not fair, guys, and I'm mad</ln>
+            <ln n="64">(Hit it Omar, yeah)</ln>
+        </lg>
+
+        <lg n="21">
+            <ln n="65"><char ref="#Babkak">BABKAK</char></ln>
+            <ln n="66">Fate blows her kiss</ln>
+            <ln n="67">Winks her eye</ln>
+            <ln n="68">Plots her scheme</ln>
+        </lg>
+
+        <lg n="22">
+            <ln n="69"><char ref="#All">ALL</char></ln>
+            <ln n="70">Plots it for Babkak, Omar, and Kassim</ln>
+        </lg>
+
+        <lg n="23">
+            <ln n="71">And so</ln>
+            <ln n="72">We three will go</ln>
+            <ln n="73">Until it's through</ln>
+            <ln n="74">Until it ends</ln>
+            <ln n="75">Here comes Aladdin's only friends</ln>
+            <ln n="76">Off on a high, high, high adventure</ln>
+        </lg>
+
+        <lg n="24">
+            <ln n="77">To confrontations so exciting</ln>
+            <ln n="78">They're playing music while we're fighting</ln>
+            <ln n="79">Sctatching and biting on a</ln>
+            <ln n="80">High, high, high adventure</ln>
+            <ln n="81">Feel that adrenaline igniting</ln>
+            <ln n="82">'Cause high adventure's in the air</ln>
+        </lg>
+
+        <lg n="25">
+            <ln n="83"><char ref="#">WOMEN</char></ln>
+            <ln n="84">Hi</ln>
+            <ln n="85">Hi</ln>
+            <ln n="86">Hi</ln>
+        </lg>
+
+        <lg n="26">
+            <ln n="87"><char ref="#All">ALL</char></ln>
+            <ln n="88">Adventure!</ln>
+            <ln n="89">Heigh-ho, the stallions are stampeding</ln>
+            <ln n="90">With Allah's wisdom ever leading</ln>
+            <ln n="91">(My finger's bleeding!) Well, that's</ln>
+            <ln n="92">High, high, high adventure</ln>
+            <ln n="93">What we've collectively been needing</ln>
+            <ln n="94">Is high adventure in the air</ln>
+        </lg>
+
+        <lg n="27">
+            <ln n="95">Hark! Something calls like a dream from afar</ln>
+            <ln n="96">Calls out to Babkak, Kassim and Omar</ln>
+            <ln n="97">It's - wait! - the voice of fate</ln>
+            <ln n="98">It calls to me, it calls to you</ln>
+            <ln n="99">And to Aladdin's motley crew</ln>
+            <ln n="100">It's time for high, high, high adventure</ln>
+        </lg>
+
+        <lg n="28">
+            <ln n="101">Danger to danger we go flying</ln>
+            <ln n="102">Completely unafraid of dying</ln>
+            <ln n="103">Omar, stop crying, this is</ln>
+            <ln n="104">High, high, high adventure</ln>
+        </lg>
+
+        <lg n="29">
+            <ln n="105">There's no ignoring or denying</ln>
+            <ln n="106">The kind of thrills that it's supplying</ln>
+            <ln n="107">And the effect's electrifying</ln>
+            <ln n="108">When high adventure's in the air</ln>
+        </lg>
+    </song>
+</xml>

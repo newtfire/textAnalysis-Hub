@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>
+    <title>How Does a Moment Last Forever (Music Box)</title>
+    <origin>Music from <movie>Beauty and the Beast (Live-Action)</movie></origin>
+    <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+    <perform>Performed by <voiceActor ref="#Kline" role="#Maurice">Kevin Kline</voiceActor> as Maurice</perform>
+</metadata>
+
+<song>
+<lg n="1">
+    <ln n="1"><char ref="#Maurice">Maurice:</char> How does a moment last forever</ln>
+    <ln n="2">How can a story never die</ln>
+    <ln n="3">It is love we must hold onto</ln>
+    <ln n="4">Never easy, but we try</ln>
+</lg>
+
+<lg n="2">
+    <ln n="5">Sometimes our happiness is captured</ln>
+    <ln n="6">Somehow our time and place stand still</ln>
+    <ln n="7">Love lives on inside our hearts</ln>
+    <ln n="8">And always will</ln>
+</lg>
+</song>
+</xml>

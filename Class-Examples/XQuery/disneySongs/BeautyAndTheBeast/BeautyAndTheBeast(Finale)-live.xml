@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>Beauty and the Beast (Finale)</title>
+        <origin>Music from <movie>Beauty and the Beast (Live-Action)</movie></origin>
+<author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+<perform>Performed by <voiceActor ref="#McDonald" role="#Wardrobe">Audra McDonald</voiceActor>, <voiceActor ref="#Thompson" role="#Potts">Emma Thompson</voiceActor> and Chorus</perform>
+    </metadata>
+
+<song>
+<lg n="1">
+    <ln n="1"><char>Wardrobe</char> and <char ref="#Potts">Mrs. Potts:</char> Winter turns to Spring</ln>
+    <ln n="2">Famine turns to feast</ln>
+    <ln n="3">Nature points the way</ln>
+    <ln n="4">Nothing left to say</ln>
+    <ln n="5">Beauty and the Beast</ln>
+</lg>
+
+<lg n="2">
+    <ln n="6">Certain as the sun</ln>
+    <ln n="7">Rising in the East</ln>
+    <ln n="8">Tale as old as time</ln>
+    <ln n="9">Song as old as rhyme</ln>
+    <ln n="10">Beauty and the Beast</ln>
+</lg>
+
+<lg n="3">
+    <ln n="11">Tale as old time</ln>
+    <ln n="12">Song as old as rhyme</ln>
+    <ln n="13">Beauty and the Beast</ln>
+</lg>
+</song>
+</xml>

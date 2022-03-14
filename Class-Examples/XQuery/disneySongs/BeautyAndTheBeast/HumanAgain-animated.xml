@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>
+<title>Human Again</title>
+<origin>Lyrics from <movie>Beauty and the Beast</movie></origin>
+<author>Music and Lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Ashman">Howard Ashman</lyricist></author>
+    <perform>Performed by <voiceActor ref="#Lansbury" role="#Potts">Angela Lansbury</voiceActor>, <voiceActor ref="#Orbach" role="#Lumiere">Jerry Orbach</voiceActor>, <voiceActor ref="#Stiers" role="#Cogsworth">David Ogden Stiers</voiceActor>, <voiceActor ref="#Worley" role="#Wardrobe">Jo Anne Worley</voiceActor> and chorus</perform>
+</metadata>
+
+<song>
+<lg n="1">
+    <ln n="1"><char ref="#Lumiere">Lumiere:</char> I'll be cooking again</ln>
+    <ln n="2">Be good-looking again</ln>
+    <ln n="3">With a mademoiselle on each arm</ln>
+</lg>
+
+<lg n="2">
+    <ln n="4">When I'm human again</ln>
+    <ln n="5">Only human again</ln>
+    <ln n="6">Poised and polished and gleaming with charm</ln>
+</lg>
+
+<lg n="3">
+    <ln n="7">I'll be courting again</ln>
+    <ln n="8">Chic and sporting again</ln>
+</lg>
+
+<lg n="4">
+    <ln n="9"><char ref="#Potts">Mrs. Potts:</char> Which should cause several husbands alarm</ln>
+</lg>
+
+<lg n="5">
+    <ln n="10"><char ref="#Lumiere">Lumiere:</char> I'll hop down off this shelf</ln>
+    <ln n="11">And tout de suite be myself</ln>
+    <ln n="12">I can't wait to be human again</ln>
+</lg>
+
+<lg n="6">
+    <ln n="13"><char ref="#Castleware">Castleware:</char> When we're human again</ln>
+    <ln n="14">Only human again</ln>
+    <ln n="15">When we're knickknacks and whatnots no more</ln>
+</lg>
+
+<lg n="7">
+    <ln n="16">When we're human again</ln>
+    <ln n="17">Good and human again</ln>
+</lg>
+
+<lg n="8">
+    <ln n="18"><char ref="#Wardrobe">Wardrobe:</char> Oh, cherie, won't it all be top drawer?</ln>
+    <ln n="19">I'll wear lipstick and rouge</ln>
+    <ln n="20">And I won't be so huge</ln>
+    <ln n="21">Why, I'll easily fit through that door</ln>
+</lg>
+
+<lg n="9">
+    <ln n="22">I'll exude savoir-faire</ln>
+    <ln n="23">I'll wear gowns; I'll have hair</ln>
+    <ln n="24">It's my prayer to be human again</ln>
+</lg>
+
+<lg n="10">
+    <ln n="25"><char ref="#Cogsworth">Cogsworth</char> &amp; <char ref="#Potts">Mrs. Potts:</char> When we're human again</ln>
+    <ln n="26">Only human again</ln>
+    <ln n="27">When the world once more starts making sense</ln>
+</lg>
+
+<lg n="11">
+    <ln n="28"><char ref="#Cogsworth">Cogsworth:</char> I'll unwind, for a change</ln>
+</lg>
+
+<lg n="12">
+    <ln n="29"><char ref="#Lumiere">Lumiere:</char> Really? That'd be strange</ln>
+</lg>
+
+<lg n="13">
+    <ln n="30"><char ref="#Cogsworth">Cogsworth:</char> Can I help it if I'm t-t-tense?</ln>
+    <ln n="31">In a shack by the sea</ln>
+    <ln n="32">I'll sit back sipping tea</ln>
+    <ln n="33">Let my early retirement commence</ln>
+</lg>
+
+<lg n="14">
+    <ln n="34">Far from fools made of wax</ln>
+    <ln n="35">I'll get down to brass tacks and relax</ln>
+</lg>
+
+<lg n="15">
+    <ln n="36"><char ref="#Castleware">Castleware:</char> When I'm human again</ln>
+</lg>
+
+<lg n="16">
+    <ln n="37">So sweep the dust from the floor</ln>
+    <ln n="38">Let's let some light in the room</ln>
+    <ln n="39">I can feel, I can tell</ln>
+    <ln n="40">Someone might break the spell</ln>
+    <ln n="41">Any day now</ln>
+</lg>
+
+<lg n="17">
+    <ln n="42">Shine up the brass on the door</ln>
+    <ln n="43">Alert the dust pail and broom</ln>
+    <ln n="44">If it all goes as planned</ln>
+    <ln n="45">Our time may be at hand</ln>
+    <ln n="46">Any day now</ln>
+</lg>
+
+<lg n="18">
+    <ln n="47">Open the shutters</ln>
+    <ln n="48">And let in some air</ln>
+</lg>
+
+<lg n="19">
+    <ln n="49"><char ref="#Potts">Mrs. Potts:</char> Put these here</ln>
+    <ln n="50">And put those over there</ln>
+</lg>
+
+<lg n="20">
+    <ln n="51"><char ref="#Castleware">Castleware:</char> Sweep up the years</ln>
+    <ln n="52">The sadness and tears</ln>
+    <ln n="53">And throw them away</ln>
+</lg>
+
+<lg n="21">
+    <ln n="54">We'll be human again</ln>
+    <ln n="55">Only human again</ln>
+    <ln n="56">When the girl finally sets us all free</ln>
+</lg>
+
+<lg n="22">
+    <ln n="57">Cheeks a-blooming again</ln>
+    <ln n="58">We're assuming again</ln>
+    <ln n="59">We'll resume our long-lost joie de vivre</ln>
+</lg>
+    
+<lg n="23">
+    <ln n="60">We'll be playing again</ln>
+    <ln n="61">Holidaying again</ln>
+    <ln n="62">And we're praying it's ASAP</ln>
+</lg>
+
+<lg n="24">
+    <ln n="63">We will push</ln>
+    <ln n="64">We will shove</ln>
+    <ln n="65">They will both fall in love</ln>
+    <ln n="66">And we'll finally be human again</ln>
+</lg>
+    
+<lg n="25">
+    <ln n="67">We'll be dancing again</ln>
+    <ln n="68">We'll be twirling again</ln>
+    <ln n="69">We'll be whirling around with such ease</ln>
+</lg>
+
+<lg n="26">
+    <ln n="70">When we're human again</ln>
+    <ln n="71">Only human again</ln>
+    <ln n="72">We'll go waltzing those old one-two-threes</ln>
+</lg>
+    
+<lg n="27">
+    <ln n="73">We'll be floating again</ln>
+    <ln n="74">We'll be gliding again</ln>
+    <ln n="75">Stepping, striding, as fine as you please</ln>
+</lg>
+
+<lg n="28">
+    <ln n="76">Like a real human does</ln>
+    <ln n="77">I'll be all that I was</ln>
+    <ln n="78">On that glorious morn</ln>
+    <ln n="79">When we're finally reborn</ln>
+    <ln n="80">And we're all human again!</ln>
+</lg>
+</song>
+</xml>
