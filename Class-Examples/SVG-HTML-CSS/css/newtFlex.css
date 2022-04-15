@@ -4,12 +4,15 @@ color:black;
 }
 /* Below we isolate <section id="top"> using CSS's shorthand. There's a longhand way to refer to elements and their attributes that also works, like this: section[id="top"] */
 /* The CSS rules below control the section overview box with the newt tank. */
-section#overview {color:maroon; display: flex; justify-content:flex-start; flex-direction:row;}
-section#overview p {flex:1;}
+section#overview {color:maroon;}
+
 /* Here I'm creating a box to contain the image and I'll control its dimensions with flex. It is kind of a picture frame that can scale without distorting my image. */
-section#overview div#newt-size {flex:3;}
+div#newt-size {display:flex;}
 /* Now, I'm setting a specific size for the image sitting inside its special div box: */
-div#newt-size img {width:400px;}
+div#newt-size figure#newt {flex:1;}
+div#newt-size figure#newt img {width:100%; max-width:500px;}
+div#newt-size figure#kpopBarIMG {flex:2;}
+div#newt-size figure#kpopBarSVG {flex:2;}
 
 /* The next CSS rules control my <section id="main"> and set up a list */
 section#main {display:flex; justify-content:flex-start; flex-direction:row;}
