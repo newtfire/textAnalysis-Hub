@@ -1,4 +1,4 @@
-# Python Natural Language Processing Exercise 2
+# Python Natural Language Processing Exercise: Graphing Output
 
 This exercise is designed to build on [our Python NLP Exercise 1](https://github.com/newtfire/textAnalysis-Hub/blob/main/python-nlp-exercise1.md), which asked you to work with some text you pulled via XQuery from your semester project files, and prepare a workspace in your personal GitHub repo for doing NLP processing work with Python. You may continue with the same text, or pull more text or a different selection of text for this round. Just make sure when you submit your work for the assignment that you send the current text file you're exploring with Python.
 
