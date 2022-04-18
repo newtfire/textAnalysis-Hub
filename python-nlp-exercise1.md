@@ -29,7 +29,7 @@ return $songs, "&#10;");
 let $filename := "disneySongLyrics.txt"
 let $doc-db-uri := xmldb:store("/db/2021-ClassExamples/", $filename, $ThisFileContent, "text/plain")
 return $doc-db-uri 
-(: View this text file at http://newtfire.org:8338/exist/rest/db/2021-ClassExamples/disneySongLyrics.txt  :)
+(: View this text file at http://exist.newtfire.org/exist/rest/db/2021-ClassExamples/disneySongLyrics.txt  :)
 ```
 
 ## Stage 2: Make a directory for your Python experiments in your personal GitHub repo
