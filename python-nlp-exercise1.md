@@ -96,6 +96,6 @@ nlp = spacy.load('en_core_web_sm')
 * Process your project text with the `nlp()` function, and use spaCy's tokenization algorithm to explore one of the linguistics annotations features documented there. You can also try adapting and building on the code we shared from class for this. 
 * Our goal is to get you up and running with writing some natural language processing code in Python and see some results printed to your console. Use the `print()` commands we've been using to view whether your for loops and variables are working. Write comments in your code if you get stuck. 
 * Save your code, add, commit, and push it to your personal GitHub repo. And file your Python code and its text file on Canvas for this homework assignment. 
-* When you've completed this, you're ready to move on to [our Python NLP Exercise 2](python-nlp-exercise2.md).
+* When you've completed this, you're ready to move on to our Python NLP Exercise 2 (posted on Canvas), and [our Python Graph Visualizing exercise](python-nlp-exercise2.md).
 
 
