@@ -8,8 +8,8 @@ import spacy
 nlp = spacy.cli.download("en_core_web_sm")
 nlp = spacy.load('en_core_web_sm')
 
-grimmRB = open('grimmRobberBridegroom.txt', 'r')
-words = grimmRB.read()
+avatarSpeeches = open('avatarSpeeches.txt', 'r')
+words = avatarSpeeches.read()
 wordstrings = str(words)
 print(wordstrings)
 
@@ -19,10 +19,10 @@ print(wordstrings)
 #     print(count, ": ", w)
 
 # start playing with spaCy and nlp:
-grimmWords = nlp(wordstrings)
-for token in grimmWords:
-     # if not token.is_punct:
-    print(token.text, "---->", token.pos_, ":::::", token.lemma_)
+avatarWords = nlp(wordstrings)
+for token in avatarWords:
+    if not token.is_punct:
+        print(token.text, "---->", token.pos_, ":::::", token.lemma_)
 
 # On windows ctrl / comments out blocks.
 # On mac command / comments out blocks

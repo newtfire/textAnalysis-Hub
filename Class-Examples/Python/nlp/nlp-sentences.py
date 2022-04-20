@@ -5,29 +5,40 @@ nlp = spacy.load('en_core_web_sm')
 grimm = open('grimm.txt', 'r')
 grimmDoc = grimm.read()
 grimmNLP = nlp(grimmDoc)
-maxVal = 0
-for sentence in grimmNLP.sents:
-    print(sentence.text)
-    length = len(sentence.text)
-    print(length)
-    if length > maxVal: maxVal = length
 
-# for sentence in grimmNLP.sents:
-#     length = len(sentence.text)
-#     if length == maxVal:
-#         print(sentence)
-#         print(length)
+def sentenceLengths(sentences):
+    lengths = []
+    for s in sentences:
+        length = len(s.text)
+        lengths.append(length)
+    return sorted(lengths)
+
+
+grimmLengths = sentenceLengths(grimmNLP.sents)
+print(grimmLengths)
+maxVal = max(sentenceLengths(grimmNLP.sents))
+minVal = min(sentenceLengths(grimmNLP.sents))
+print('The shortest sentence is ' + str(minVal) + ' characters long.')
+print('The longest sentence is ' + str(maxVal) + ' characters long.')
+
+for sentence in grimmNLP.sents:
+#    print(sentence.text)
+    length = len(sentence.text)
+    if length == minVal:
+        print("The shortest sentence is: " + sentence.text)
+    if len(sentence.text) == maxVal:
+        print('The longest sentence is: ' + sentence.text + ' :' + str(maxVal) + 'characters')
 
 def cardinalcollector(nlpDoc):
     cardinals = []
     for entity in grimmNLP.ents:
-        if entity.label_ == "TIME":
+        if entity.label_ == "CARDINAL":
             print(entity.text, entity.label_, spacy.explain(entity.label_))
             cardinals.append(entity.text)
     return cardinals
 
 listCardinals = cardinalcollector(grimmNLP)
-# print(listCardinals)
+print(listCardinals)
 cardinal_freq = Counter(listCardinals)
 topTen = cardinal_freq.most_common(10)
 print(topTen)
