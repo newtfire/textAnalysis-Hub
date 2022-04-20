@@ -5,6 +5,7 @@ nlp = spacy.load('en_core_web_sm')
 grimm = open('grimm.txt', 'r')
 grimmDoc = grimm.read()
 grimmNLP = nlp(grimmDoc)
+grimmmSentences = grimmNLP.sents
 
 def sentenceLengths(sentences):
     lengths = []
@@ -14,10 +15,10 @@ def sentenceLengths(sentences):
     return sorted(lengths)
 
 
-grimmLengths = sentenceLengths(grimmNLP.sents)
-print(grimmLengths)
-maxVal = max(sentenceLengths(grimmNLP.sents))
-minVal = min(sentenceLengths(grimmNLP.sents))
+grimmLengths = sentenceLengths(grimmmSentences)
+# print(grimmLengths)
+maxVal = max(grimmLengths)
+minVal = min(grimmLengths)
 print('The shortest sentence is ' + str(minVal) + ' characters long.')
 print('The longest sentence is ' + str(maxVal) + ' characters long.')
 

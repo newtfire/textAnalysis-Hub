@@ -21,7 +21,7 @@ print(wordstrings)
 # start playing with spaCy and nlp:
 avatarWords = nlp(wordstrings)
 for token in avatarWords:
-    if not token.is_punct:
+    if token.pos_ == "VERB":
         print(token.text, "---->", token.pos_, ":::::", token.lemma_)
 
 # On windows ctrl / comments out blocks.
