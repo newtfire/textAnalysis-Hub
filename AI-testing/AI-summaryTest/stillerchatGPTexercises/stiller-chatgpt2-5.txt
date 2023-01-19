@@ -1,0 +1,15 @@
+That is a cat
+
+You are correct, my apologies. Here's an ASCII art of a frog instead:
+
+ /          \
+// \
+// \
+// \
+// \
+\ //
+\ //
+\ //
+\ //
+\ /
+'--------'

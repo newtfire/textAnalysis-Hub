@@ -1,0 +1,16 @@
+Can you try again?
+
+Sure, here's another ASCII frog:
+
+  _____     _____
+(_____)   (_____)
+    /      \
+  _/        \_
+ /            \
+|              |
+|              |
+ \            /
+  \_        _/
+    \      /
+  (_____) (_____)
+I hope this one is more to your liking!
