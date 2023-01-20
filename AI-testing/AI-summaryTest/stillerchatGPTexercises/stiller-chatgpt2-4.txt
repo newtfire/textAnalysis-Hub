@@ -1,0 +1,7 @@
+Can you make ASCII art of a frog?
+
+Sure! Here's an ASCII art of a frog:
+
+  /\_/\
+ ( o.o )
+  > ^ <
