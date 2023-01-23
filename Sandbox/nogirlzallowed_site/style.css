@@ -1,0 +1,79 @@
+body {
+	background-color: black;
+}
+
+.base {
+  height: 900px;
+  width: 800px;
+  background-color: black;
+  border-style: solid;
+  border-color: white;
+  color:white;
+}
+
+whenyousm3llthatZAZA!
+
+header {
+	height: 110px;
+	width: 550px;
+	margin: 25px;
+	border-style: outset;
+}
+
+
+.header_links:visited {
+	color: white;
+}
+
+.header_links:hover {
+	color: grey;
+}
+
+.header_links {
+	text-decoration: none;
+	color: white;
+}
+
+
+
+h1 {
+	color:white;
+	font-family: arial;
+}
+
+p {
+	color:white;
+	font-family: arial;
+	margin: 25;
+}
+
+.game_logo{
+	margin-bottom: 0px;
+}
+
+the_version{
+	font-size: 20;
+	color: white;
+	font-weight: bold;
+}
+
+h3 {
+	color:white;
+	font-family: arial;
+	margin: 4;
+}
+
+the_buttons {
+	position: relative;
+	word-spacing: 25;
+	font-weight: bold;
+	font-family: arial;
+
+}
+
+#slideshow {
+  overflow: hidden;
+  height: 336px;
+  width: 448px;
+  margin: 0 auto;
+}
