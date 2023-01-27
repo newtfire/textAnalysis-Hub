@@ -78,6 +78,7 @@ These should now run successfully, and you'll see spacy installing.
 * Open and read your text file drawn from your project
 * Check to make sure your Pycharm configuration is working (Pycharm will help with this as you press the green arrow to run your code)
 * Convert the document to a string
+* Review operations you can do on strings from the Introduction to Python tutorial you just completed and practice a little with printing interesting things. 
 * At the top of the file, import the spacy module as shown in my sample code (let's make sure Pycharm imports this)
 * For the first time, add this line to important space's core English linguistics stats package: 
 ```
