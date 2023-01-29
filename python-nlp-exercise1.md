@@ -80,7 +80,7 @@ These should now run successfully, and you'll see spacy installing.
 * Convert the document to a string
 * Review operations you can do on strings from the Introduction to Python tutorial you just completed and practice a little with printing interesting things. 
 * At the top of the file, import the spacy module [as shown in my sample code](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/Python/nlp/nlp1.py) (let's make sure Pycharm imports this)
-* For the first time, add this line to important space's core English linguistics stats package: 
+* For the first time, add this line to import space's core English linguistics stats package: 
 ```
 nlp = spacy.cli.download("en_core_web_sm")
 ```
