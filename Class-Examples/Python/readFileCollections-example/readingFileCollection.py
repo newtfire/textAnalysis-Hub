@@ -8,6 +8,7 @@ nlp = spacy.load('en_core_web_md')
 # There are _sm, _md, and _lg models built into spaCy. Each takes up more space than the others, but
 # contains more data so may be more accurate/precise. Let's just start small with _sm.
 import numpy as np
+# not sure I'm reallly using numpy
 import os
 
 ##############################
