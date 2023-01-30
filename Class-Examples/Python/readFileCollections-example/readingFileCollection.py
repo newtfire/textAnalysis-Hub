@@ -1,8 +1,21 @@
 # Our challenge: read in multiple text files from a directory:
 # Our resource: The Python os module + a handy code example:
 #  https://www.geeksforgeeks.org/how-to-read-multiple-text-files-from-folder-in-python/
-
+import spacy
+# nlp = spacy.cli.download("en_core_web_md")
+nlp = spacy.load('en_core_web_md')
+# ABOUT WHAT SPACY SHOULD LOAD: Some tutorials direct us to en_core_web_md
+# There are _sm, _md, and _lg models built into spaCy. Each takes up more space than the others, but
+# contains more data so may be more accurate/precise. Let's just start small with _sm.
+import numpy as np
 import os
+
+##############################
+# OBJECTIVE: Find out which words in my document are most similar to a particular word of interest
+# How to find this using spaCy similarity vectors?
+
+# Helpful: https://stackoverflow.com/questions/55921104/spacy-similarity-warning-evaluating-doc-similarity-based-on-empty-vectors
+##############################
 
 # ebb: The os module comes with python so you probably don't have to install it.
 # Just add the import line
@@ -23,18 +36,40 @@ print("inside this directory are the following files AND directories: " + str(in
 CollPath = os.path.join(workingDir, 'textCollection')
 print(CollPath)
 
-
 def readTextFiles(filepath):
     with open(filepath, 'r', encoding='utf8') as f:
         readFile = f.read()
-        print(readFile)
+        # print(readFile)
         stringFile = str(readFile)
         lengthFile = len(readFile)
         print(lengthFile)
-
-
 # ebb: add that utf8 encoding argument to the open() function to ensure that reading works on everyone's systems
 # this all succeeds if you see the text of your files printed in the console.
+        tokens = nlp(stringFile)
+        # playing with vectors here
+        vectors = tokens.vector
+        # word3vector = tokens[3].vector
+        # print(word3vector)
+        # for token in tokens:
+            # print(token.text)
+            # if token.text == 'public':
+            #     print("found public! ")
+            # print(token.text, token.vector_norm)
+            # if token.text == "public":
+            #     print (token.text + " found!")
+        wordOfInterest = nlp(u'panic')
+        # print(wordOfInterest, ': ', wordOfInterest.vector_norm)
+        highSimilarityDict = {}
+        # I want to sort the highSimilarityDictionary, but sorting is a little tricky because we need to isolate the value
+        # not the key. See https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/ for example of how to do it.
+        for token in tokens:
+            if(token and token.vector_norm):
+                if token not in highSimilarityDict.keys():
+                    if wordOfInterest.similarity(token) > .3:
+                        highSimilarityDict[token]=wordOfInterest.similarity(token)
+                        # print(token.text, "about this much similar to", wordOfInterest, ": ", wordOfInterest.similarity(token))
+        print("This is a dictionary of words most similar to the word " + wordOfInterest.text + " in this file.")
+        print(highSimilarityDict)
 
 
 for file in os.listdir(CollPath):
