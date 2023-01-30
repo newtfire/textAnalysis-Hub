@@ -14,7 +14,8 @@ import os
 # OBJECTIVE: Find out which words in my document are most similar to a particular word of interest
 # How to find this using spaCy similarity vectors?
 
-# Helpful: https://stackoverflow.com/questions/55921104/spacy-similarity-warning-evaluating-doc-similarity-based-on-empty-vectors
+# Helpful resource for spaCy similarity calculation based on a selected word:
+# https://stackoverflow.com/questions/55921104/spacy-similarity-warning-evaluating-doc-similarity-based-on-empty-vectors
 ##############################
 
 # ebb: The os module comes with python so you probably don't have to install it.
@@ -60,8 +61,10 @@ def readTextFiles(filepath):
         wordOfInterest = nlp(u'panic')
         # print(wordOfInterest, ': ', wordOfInterest.vector_norm)
         highSimilarityDict = {}
-        # I want to sort the highSimilarityDictionary, but sorting is a little tricky because we need to isolate the value
+        # ebb: I want to sort the highSimilarityDictionary, but sorting is a little tricky because we need to isolate the value
         # not the key. See https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/ for example of how to do it.
+        # NOTE: after you sort, your results won't be a dictionary any more, so you should read the WHOLE tutorial to see
+        # how to convert this back into a dictionary again and do that in your code here.
         for token in tokens:
             if(token and token.vector_norm):
                 if token not in highSimilarityDict.keys():
