@@ -24,6 +24,7 @@ In it, save some "plain" text files, saved with the `.txt` extension, containing
 ## Installing spaCy
 Since this is (very likely) the first time you've worked with spaCy, you will need to install it before it can be available to work with in your Python program. 
 
+* **NOTE: spaCy requires a 64-bit Python installation, version 3.6 or higher.** 
 * To install spaCy, on Windows, use the Git Bash Shell, and on Mac or Linux, use your Terminal. 
 * We will work with **pip**, the Python default package manager that came with your Python installation. (You can read [more about pip here](https://realpython.com/what-is-pip/) which shows you how to access it and more about its various commands and Python package management generally.)
 * Following [spaCy's instructions](https://spacy.io/usage#installation) for intallation, you will need to enter these commands in your Git Bash Shell (Windows) or Terminal (Mac / Linux):
