@@ -8,7 +8,7 @@ nlp = spacy.load('en_core_web_md')
 # There are _sm, _md, and _lg models built into spaCy. Each takes up more space than the others, but
 # contains more data so may be more accurate/precise. Let's just start small with _sm.
 import numpy as np
-# not sure I'm reallly using numpy
+# not sure I'm really using numpy
 import os
 
 ##############################
@@ -61,19 +61,33 @@ def readTextFiles(filepath):
             #     print (token.text + " found!")
         wordOfInterest = nlp(u'panic')
         # print(wordOfInterest, ': ', wordOfInterest.vector_norm)
+        # Open an empty dictionary to populate with the for loop over the tokens:
         highSimilarityDict = {}
-        # ebb: I want to sort the highSimilarityDictionary, but sorting is a little tricky because we need to isolate the value
-        # not the key. See https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/ for example of how to do it.
-        # NOTE: after you sort, your results won't be a dictionary any more, so you should read the WHOLE tutorial to see
-        # how to convert this back into a dictionary again and do that in your code here.
         for token in tokens:
             if(token and token.vector_norm):
                 if token not in highSimilarityDict.keys():
                     if wordOfInterest.similarity(token) > .3:
-                        highSimilarityDict[token]=wordOfInterest.similarity(token)
+                        highSimilarityDict[token] = wordOfInterest.similarity(token)
                         # print(token.text, "about this much similar to", wordOfInterest, ": ", wordOfInterest.similarity(token))
         print("This is a dictionary of words most similar to the word " + wordOfInterest.text + " in this file.")
-        print(highSimilarityDict)
+        # print(highSimilarityDict)
+        # ebb: I notice that there are duplicates in my highSimilarityDict dictionary. Let's remove them.
+        # I'm fixing that with help from the last example on this handy page:
+        # https://tutorial.eyehunts.com/python/python-remove-duplicates-from-dictionary-example-code/
+        highSimilarityReduced = {}
+        for key, value in highSimilarityDict.items():
+            if value not in highSimilarityReduced.values():
+                highSimilarityReduced[key] = value
+        print(removedDups)
+        print(len(removedDups.items()), " vs ", len(highSimilarityDict.items()))
+
+        # ebb: For this next part, it's your turn to write some modifying code.
+        # We should sort the highSimilarityReduced dictionary by values from high to low,
+        # but sorting is a little tricky because we need to isolate the **value**
+        # not the key. See https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/ for example of how to do it.
+        # NOTE: After you sort, your results won't be a dictionary any more, so you should read the WHOLE tutorial to see
+        # how to convert this back into a dictionary again and do that in your code here.
+
 
 
 for file in os.listdir(CollPath):
