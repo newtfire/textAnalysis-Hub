@@ -2,13 +2,16 @@
 # Our resource: The Python os module + a handy code example:
 #  https://www.geeksforgeeks.org/how-to-read-multiple-text-files-from-folder-in-python/
 import spacy
-# nlp = spacy.cli.download("en_core_web_md")
+nlp = spacy.cli.download("en_core_web_md")
 nlp = spacy.load('en_core_web_md')
+# AFTER THE FIRST DOWNLOAD, COMMENT OUT the spacy.cli.download(...) variable.
+# Your spaCy language model will already be stored in your Python environment.
 # ABOUT WHAT SPACY SHOULD LOAD: Some tutorials direct us to en_core_web_md
 # There are _sm, _md, and _lg models built into spaCy. Each takes up more space than the others, but
-# contains more data so may be more accurate/precise. Let's just start small with _sm.
-import numpy as np
-# not sure I'm really using numpy
+# contains more data so may be more accurate/precise.
+# If we try the sm model, we're told that it does not have word vectors loaded, so it uses tagger, parser and NER (named
+# entity recognition to calculate similarity instead. Better to switch to the md model--but worth comparing results!
+
 import os
 
 ##############################
@@ -50,29 +53,26 @@ def readTextFiles(filepath):
         tokens = nlp(stringFile)
         # playing with vectors here
         vectors = tokens.vector
-        # word3vector = tokens[3].vector
-        # print(word3vector)
-        # for token in tokens:
-            # print(token.text)
-            # if token.text == 'public':
-            #     print("found public! ")
-            # print(token.text, token.vector_norm)
-            # if token.text == "public":
-            #     print (token.text + " found!")
+
         wordOfInterest = nlp(u'panic')
         # print(wordOfInterest, ': ', wordOfInterest.vector_norm)
-        # Open an empty dictionary to populate with the for loop over the tokens:
+
+        # Now, let's open an empty dictionary! We'll fill it up with the for loop just after it.
+        # The for-loop goes over each token and gets its values
         highSimilarityDict = {}
         for token in tokens:
             if(token and token.vector_norm):
-                if token not in highSimilarityDict.keys():
-                    if wordOfInterest.similarity(token) > .3:
-                        highSimilarityDict[token] = wordOfInterest.similarity(token)
+                # if token not in highSimilarityDict.keys(): # Alas, this did not work to remove duplicates from my dictionary. :-(
+                if wordOfInterest.similarity(token) > .3:
+                    highSimilarityDict[token] = wordOfInterest.similarity(token)
+                    # The line above creates the structure for each entry in my dictionary.
                         # print(token.text, "about this much similar to", wordOfInterest, ": ", wordOfInterest.similarity(token))
         print("This is a dictionary of words most similar to the word " + wordOfInterest.text + " in this file.")
         # print(highSimilarityDict)
-        # ebb: I notice that there are duplicates in my highSimilarityDict dictionary. Let's remove them.
-        # I'm fixing that with help from the last example on this handy page:
+
+        # ebb: When I printed the highSimilarityDict, I noticed that there are duplicate entries.
+        # I tried a couple of strategies to remove them. One is commented-out above.
+        # The strategy below actually worked, and I based it on this example:
         # https://tutorial.eyehunts.com/python/python-remove-duplicates-from-dictionary-example-code/
         highSimilarityReduced = {}
         for key, value in highSimilarityDict.items():
@@ -81,12 +81,14 @@ def readTextFiles(filepath):
         print(highSimilarityReduced)
         print(len(highSimilarityReduced.items()), " vs ", len(highSimilarityDict.items()))
 
-        # ebb: For this next part, it's your turn to write some modifying code.
+        # ebb: For this next part, it's YOUR TURN to write some modifying code.
         # We should sort the highSimilarityReduced dictionary by values from high to low,
         # but sorting is a little tricky because we need to isolate the **value**
-        # not the key. See https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/ for example of how to do it.
-        # NOTE: After you sort, your results won't be a dictionary any more, so you should read the WHOLE tutorial to see
-        # how to convert this back into a dictionary again and do that in your code here.
+        # not the key.
+        # HOW TO DO IT? SEE https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/
+        # NOTE: After you sort, your results won't be a dictionary any more!
+        # So you should read the WHOLE tutorial to see how to convert this back into a dictionary again
+        # and do that in your code here.
 
 # ebb: This controls our file handling as a for loop over the directory:
 for file in os.listdir(CollPath):
