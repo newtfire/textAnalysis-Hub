@@ -11,8 +11,9 @@ nlp = spacy.load('en_core_web_md')
 # contains more data so may be more accurate/precise.
 # If we try the sm model, we're told that it does not have word vectors loaded, so it uses tagger, parser and NER (named
 # entity recognition to calculate similarity instead. Better to switch to the md model--but worth comparing results!
-
 import os
+# What is os? This is a library that allows Python to read your operating system (os).
+# This will let Python read and interpret file paths on your local computer.
 
 ##############################
 # OBJECTIVE: Find out which words in my document are most similar to a particular word of interest
