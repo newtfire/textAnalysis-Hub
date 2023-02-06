@@ -16,11 +16,15 @@ def get_tales():
     soup = bs4.BeautifulSoup(r.content, 'html.parser')
 
     # find all links on web-page
-    for h in soup.findAll('li'):
-        link = h.find('a')
+    for item in soup.findAll('li'):
+        link = item.find('a')
         href = archive_url + link['href']
         download_links(href)
-
+    print("All tales downloaded!")
+    # ebb: After class I realized the print line indicating
+    # all files downloaded needed to go after THIS loop finished.
+    # Do you see why it makes sense and works here?
+    # Hint: it has to do with when we call the function download_links(href)
 def download_links(href):
     # obtain filename by splitting url and getting last string
     file_name = href.split('/')[-1]
@@ -41,8 +45,10 @@ def download_links(href):
             if chunk:
                 f.write(chunk)
                 print("Downloaded " + file_name)
+
     return
-print ("All tales downloaded!")
+
+
 
 
 
