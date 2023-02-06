@@ -2,7 +2,7 @@
 # Our resource: The Python os module + a handy code example:
 #  https://www.geeksforgeeks.org/how-to-read-multiple-text-files-from-folder-in-python/
 import spacy
-nlp = spacy.cli.download("en_core_web_md")
+#nlp = spacy.cli.download("en_core_web_md")
 nlp = spacy.load('en_core_web_md')
 # AFTER THE FIRST DOWNLOAD, COMMENT OUT the spacy.cli.download(...) variable.
 # Your spaCy language model will already be stored in your Python environment.
