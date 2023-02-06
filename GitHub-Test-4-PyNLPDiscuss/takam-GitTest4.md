@@ -6,3 +6,7 @@
 - As for examples of this, I think music lyrics benefit the most, and classmates usually like to incorporate their music into a project they can be attached to, so I think using resources such as [genius.com](genius.com) Links to an external site.for music would be beneficial. Alternatively, using scripts for tv and movies could also be fun, and these can be found on sites like [This](https://tvshowtranscripts.ourboard.org/). 
 
 ![genius logo](https://upload.wikimedia.org/wikipedia/commons/5/51/Genius-logo.png)
+
+<code att="cool">
+<head>This is a line of code (I think)</head>
+    </code>
