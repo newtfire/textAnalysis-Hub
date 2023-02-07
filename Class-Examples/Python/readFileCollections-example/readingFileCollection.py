@@ -82,6 +82,7 @@ def readTextFiles(filepath):
         # Then convert it back to a dictionary again with dict().
         # And then, in that stage, sort the dictionary, too. Either of these would be a little less code than
         # the method we used here.
+        # See handy article: https://careerkarma.com/blog/python-remove-duplicates-from-list/ 
 
         highSimilarityReduced = {}
         for key, value in highSimilarityDict.items():
