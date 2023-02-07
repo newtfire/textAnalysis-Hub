@@ -1,4 +1,5 @@
-# 2021-03-03 ebb: I'm adapting a script for downloading videos from GeeksforGeeks.org: https://www.geeksforgeeks.org/downloading-files-web-using-python/
+# 2021-03-03 ebb: I'm adapting a script for downloading videos
+# from GeeksforGeeks.org: https://www.geeksforgeeks.org/downloading-files-web-using-python/
 # ebb: Before beginning, go out to your shell (Git Bash or Terminal) and enter:
 # pip install BeautifulSoup4
 import bs4
@@ -49,7 +50,8 @@ def download_links(href):
     return
 
 # ebb: Basically the line below initiates the whole program, sets it in motion.
-# On the line if __name__ == "__main__": , see: https://medium.com/@j.yanming/debugging-from-main-to-main-in-python-fe2a9784b36
+# On the line if __name__ == "__main__": ,
+# see: https://medium.com/@j.yanming/debugging-from-main-to-main-in-python-fe2a9784b36
 if __name__ == "__main__":
 
     # getting all links to files

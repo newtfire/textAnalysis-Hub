@@ -1,4 +1,5 @@
-# 2021-03-03 ebb: I adapted a script for downloading videos from GeeksforGeeks.org: https://www.geeksforgeeks.org/downloading-files-web-using-python/
+# 2021-03-03 ebb: I adapted a script for downloading videos from GeeksforGeeks.org:
+# https://www.geeksforgeeks.org/downloading-files-web-using-python/
 # Before beginning, you will need to do some pip installs at the command line:
 # go out to your shell (Git Bash or Terminal) and enter:
 # pip install BeautifulSoup4
@@ -60,7 +61,8 @@ def download_links(hrefs):
     return
 
 # ebb: Basically the line below initiates the whole program, sets it in motion.
-# On the line if __name__ == "__main__": , see: https://medium.com/@j.yanming/debugging-from-main-to-main-in-python-fe2a9784b36
+# On the line if __name__ == "__main__": ,
+# see: https://medium.com/@j.yanming/debugging-from-main-to-main-in-python-fe2a9784b36
 if __name__ == "__main__":
     # getting all link to radio play files
     get_radioplays = get_radioplays()
