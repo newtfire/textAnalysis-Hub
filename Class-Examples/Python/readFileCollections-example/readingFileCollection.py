@@ -76,8 +76,12 @@ def readTextFiles(filepath):
         # The strategy below actually worked, and I based it on this example:
         # https://tutorial.eyehunts.com/python/python-remove-duplicates-from-dictionary-example-code/
         # UPDATE 2023-02-07:
-        # We could also remove duplicates just be converting the dictionary to a set()
-        # And then, in that stage, sort the dictionary, too.
+        # Here are two MUCH simpler ways to remove duplicates. The first one is designed for dictionaries:
+        # 1. Use the dict.fromkeys() method, which would make a new dictionary using the distinct key values.
+        # 2. Or, convert the dictionary to a set() which is a structure containing only unique items.
+        # Then convert it back to a dictionary again with dict().
+        # And then, in that stage, sort the dictionary, too. Either of these would be a little less code than
+        # the method we used here.
 
         highSimilarityReduced = {}
         for key, value in highSimilarityDict.items():
