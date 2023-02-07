@@ -75,6 +75,10 @@ def readTextFiles(filepath):
         # I tried a couple of strategies to remove them. One is commented-out above.
         # The strategy below actually worked, and I based it on this example:
         # https://tutorial.eyehunts.com/python/python-remove-duplicates-from-dictionary-example-code/
+        # UPDATE 2023-02-07:
+        # We could also remove duplicates just be converting the dictionary to a set()
+        # And then, in that stage, sort the dictionary, too.
+
         highSimilarityReduced = {}
         for key, value in highSimilarityDict.items():
             if value not in highSimilarityReduced.values():
