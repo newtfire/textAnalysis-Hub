@@ -68,7 +68,7 @@ for file in os.listdir(grimmTalesPath):
 cleaned_docs = [clean_doc(doc) for doc in allDocs]
 id2word = corpora.Dictionary(cleaned_docs)
 
-# print(id2word[250])
+# print(id2word[260])
 corpus = [id2word.doc2bow(cleaned_doc) for cleaned_doc in cleaned_docs]
 # print(corpus)
 
@@ -79,12 +79,31 @@ corpus = [id2word.doc2bow(cleaned_doc) for cleaned_doc in cleaned_docs]
 
 # TOPIC MODELING with LDA
 
-lda_model = LdaModel(corpus=corpus, id2word=id2word, num_topics=500)
+lda_model = LdaModel(corpus=corpus, id2word=id2word, num_topics=20)
+# Suggestion: Try 10 - 50 topics and vary in 5s
 topics = lda_model.get_document_topics(corpus)
-print(len(topics))
+print(f"{len(topics)=}")
+# ebb: len(topics) appears to be the number of documents. There are
+# 209 documents in the Grimm collection.
+print(f"{topics[208]=}")
+# These are probably the topics in document 209. Remember why?
+# Notice our format string: called "f-printing":
+# This comes out:
+# topics[208]=[(20, 0.11845379), (66, 0.015097282), (74, 0.118847124), (76, 0.31761664), (82, 0.42932528)]
+# Topics is a dictionary with the keys as the document numbers and values are the
+# list of topics for that document. The topics are tuples: Topic number, weight of topic.
+# HEY, don't we want to sort these by weight?
+sorted_topics = sorted(topics[208], key=lambda x: x[1], reverse=True)
+# This says, sort the topics, and the sort key is x, and then you'll get the second member
+print(f"{sorted_topics=}")
+# every time we run this, we get a different random assortment of topics present in the document we chose.
 
-for topic in topics[2][:3]:
+
+for topic in topics[208][:10]:
+    # This asks for up to 10 topics in document 209. It'll be fine if 10 topic clusters aren't really available there.
     terms = lda_model.get_topic_terms(topic[0], 20)
+    # topic[0] is not the same as topics. (topics are documents). topic is an actual topic.
+    # topic[0] is probably the heaviest weighted "top" topic.
     print(topic)
     for num in terms:
          num = num[0]

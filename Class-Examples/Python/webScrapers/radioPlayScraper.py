@@ -5,7 +5,6 @@
 
 import bs4
 import requests
-# ebb: will lxml do just as well if not better?
 
 archive_url = "https://emruf.webs.com/"
 # Sadly, this site no longer exists. But I'm glad I was able to pull the
@@ -60,9 +59,9 @@ def download_links(hrefs):
         print("downloaded " + file_name)
     return
 
-# ebb: On the line if __name__ == "__main__": , see: https://medium.com/@j.yanming/debugging-from-main-to-main-in-python-fe2a9784b36
+# ebb: Basically the line below initiates the whole program, sets it in motion.
+# On the line if __name__ == "__main__": , see: https://medium.com/@j.yanming/debugging-from-main-to-main-in-python-fe2a9784b36
 if __name__ == "__main__":
-
     # getting all link to radio play files
     get_radioplays = get_radioplays()
 

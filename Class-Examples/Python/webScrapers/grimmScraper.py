@@ -4,8 +4,8 @@
 import bs4
 import requests
 import os
-# ebb: will lxml do just as well if not better?
 
+# ebb: This variable stores the website address that you want to scrape.
 archive_url = "https://www.cs.cmu.edu/~spok/grimmtmp/"
 
 def get_tales():
@@ -48,12 +48,8 @@ def download_links(href):
 
     return
 
-
-
-
-
-
-# ebb: On the line if __name__ == "__main__": , see: https://medium.com/@j.yanming/debugging-from-main-to-main-in-python-fe2a9784b36
+# ebb: Basically the line below initiates the whole program, sets it in motion.
+# On the line if __name__ == "__main__": , see: https://medium.com/@j.yanming/debugging-from-main-to-main-in-python-fe2a9784b36
 if __name__ == "__main__":
 
     # getting all links to files
