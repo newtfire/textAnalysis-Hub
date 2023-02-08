@@ -1,4 +1,9 @@
 # ####################################################
+# INTRODUCTION TO LDA TOPIC MODELING
+# ebb: This introductory Python script is designed to read a collection of 209 text files
+# each one holding a tale in the Grimm's Fairy Tales collection. We'll explore topic modeling
+# the collection, to see if we can "distant read" topics based on clusters of frequently repeated words.
+#######################################################
 # PIP INSTALLS TO MAKE FOR NLTK LDA TOPIC MODELING
 # In your Git Bash or Terminal, start with the following installs to your Python environment:
 # pip install gensim
@@ -16,6 +21,8 @@ from gensim.models import LdaModel
 import pyLDAvis.gensim_models
 import os
 
+# ############ STOP WORDS AND PUNCTUATION CUSTOMIZED HERE ###################
+# First, we pull in the nltk library's standard stop word list for English.
 stop_words = stopwords.words('english')
 # print(stop_words)
 print(f"{stop_words=}")
@@ -38,7 +45,7 @@ print(f"{string.punctuation=}")
 # stop_words.extend(newStopWords)
 # print("UPDATED: " + f"{stop_words=}")
 # REMEMBER TO CHANGE YOUR EXTENDED STOP WORD LIST FOR NEW COLLECTIONS!
-
+# ##################################################################
 
 # Set up to read our file directory ###
 workingDir = os.getcwd()
