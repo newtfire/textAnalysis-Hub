@@ -98,6 +98,16 @@ corpus = [id2word.doc2bow(cleaned_doc) for cleaned_doc in cleaned_docs]
 #     print(f"{num}\t{id2word[num]}")
 
 # TOPIC MODELING with LDA ########################
+# ebb: Here in the next line, we set the parameters for LDA topic modeling.
+# This is sometimes compared to rolling dice, because we start the process by
+# predicting the number of topics we expect to see in the results.
+# You can take this backwards and forwards and see how it affects the distribution and
+# assignment of topics in the corpus. The num_topics is the parameter you keep adjusting.
+# In this assignment I'd like you to:
+#   * Try a few different num_topics and notice how that changes
+# your results. Find a number you think works well for showing topics in this corpus.
+#   * Also, I'd like you to experiment with adjusting the stop_words list (above) when you see a lot
+# of the same words repeating across topics.
 lda_model = LdaModel(corpus=corpus, id2word=id2word, num_topics=20)
 # Suggestion: Try 10 - 50 topics and vary in 5s
 topics = lda_model.get_document_topics(corpus)
@@ -130,9 +140,13 @@ for topic in topics[208][:10]:
          print(num, id2word[num])
     print()
 
-# Visualizing the models: not working
+# ###### VISUALIZING THE TOPIC MODELS ####################
+# ebb: We're using the pyLDAvis (python LDA topic modeling vis) library to output an HTML file
+# that shows an interactive visualization. It will output an HTML file in your working directory.
+# You want to go and open that file in a web browser to view the model and adjust it.
+# Then come back to this script and experiment with adding stop words and adjusting the number of
+# topics to model.
 vis = pyLDAvis.gensim_models.prepare(lda_model, corpus, id2word, mds="mmds", R=30)
-# vis = pyLDAvis.show(vis)
 pyLDAvis.save_html(vis, 'topicModel_Visualization.html')
 
 
