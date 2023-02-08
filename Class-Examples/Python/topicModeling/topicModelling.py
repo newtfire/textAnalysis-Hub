@@ -1,9 +1,11 @@
-# PIP INSTALLS TO MAKE FOR NLTK LDA TOPIC MODELING #################
+# ####################################################
+# PIP INSTALLS TO MAKE FOR NLTK LDA TOPIC MODELING
 # In your Git Bash or Terminal, start with the following installs to your Python environment:
 # pip install gensim
 # pip install pyldavis
 # pip install nltk
 # pip install ipython
+# ####################################################
 import pandas as pd
 import nltk
 nltk.download('stopwords')
