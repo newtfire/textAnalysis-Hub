@@ -18,8 +18,6 @@ def get_linkContents():
     # download_toFile function to be output to a new file
     linkText = []
     for item in soup.findAll('a'):
-        # link = item.find('a')
-        # href = archive_url + item['href']
         print(f"{item.text}")
         # item.text returns just the text inside the element.
         # For this, we just want to output ONE file with all the text we scraped
