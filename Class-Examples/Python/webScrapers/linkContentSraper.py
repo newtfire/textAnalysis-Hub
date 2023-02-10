@@ -41,6 +41,7 @@ def download_toFile(linkText):
     # but here we have simply scraped a list of strings.
         for item in linkText:
             f.write(item + '\n')
+            # the '\n' adds a return character so each piece of text goes on its own line. 
             print("Downloaded " + item)
 
     return
