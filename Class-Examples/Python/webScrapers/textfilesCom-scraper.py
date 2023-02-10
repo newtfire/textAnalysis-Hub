@@ -20,11 +20,12 @@ def get_files():
 
     # find all links on web-page
     # soup.find('ul', {'class': 'my_class'})
-    for item in soup.select('TD[ALIGN="TOP"]'):
+    for item in soup.select('TD[ALIGN=TOP]'):
         # ebb: Here I'm using soup.select, which uses CSS selectors and makes something
         # that looks like XPath to select all the <TD ALIGN="TOP"> elements in my source file.
         link = item.find('a')
         href = archive_url + link['href']
+        print(f"{href=}")
         download_links(href)
     print("All tales downloaded!")
     # ebb: After class I realized the print line indicating

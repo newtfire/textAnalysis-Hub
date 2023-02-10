@@ -43,7 +43,7 @@ print(f"{string.punctuation=}")
 # You can extend it to add a list of new stopwords with:
 # newStopWords = ["said", "one", "go", "went", "came"]
 # stop_words.extend(newStopWords)
-# print("UPDATED: " + f"{stop_words=}")
+print("UPDATED: " + f"{stop_words=}")
 # REMEMBER TO CHANGE YOUR EXTENDED STOP WORD LIST FOR NEW COLLECTIONS!
 # ##################################################################
 
@@ -86,6 +86,11 @@ for file in os.listdir(grimmTalesPath):
 
 # PREPARING THE CORPUS FOR TOPIC MODELING ########################
 cleaned_docs = [clean_doc(doc) for doc in allDocs]
+# ebb: We used this code to help us locate buggy text files. It will stop on files that can't be processed due to weird non-Unicode characters.
+# cleaned_docs = []
+# for doc in allDocs:
+#     print("This doc is going to the cleaners: " + f"{doc=}")
+#     clean_doc(doc)
 id2word = corpora.Dictionary(cleaned_docs)
 
 # print(id2word[260])
@@ -108,7 +113,7 @@ corpus = [id2word.doc2bow(cleaned_doc) for cleaned_doc in cleaned_docs]
 # your results. Find a number you think works well for showing topics in this corpus.
 #   * Also, I'd like you to experiment with adjusting the stop_words list (above) when you see a lot
 # of the same words repeating across topics.
-lda_model = LdaModel(corpus=corpus, id2word=id2word, num_topics=20)
+lda_model = LdaModel(corpus=corpus, id2word=id2word, num_topics=25)
 # Suggestion: Try 10 - 50 topics and vary in 5s
 topics = lda_model.get_document_topics(corpus)
 print(f"{len(topics)=}")
@@ -130,22 +135,25 @@ print(f"{sorted_topics=}")
 
 # ebb: So, let's see what's in a topic:
 for topic in topics[208][:10]:
+    print(f"{topic=}")
+    # if topic[1] > .5:
     # This asks for up to 10 topics in document 209. It'll be fine if 10 topic clusters aren't really available there.
     terms = lda_model.get_topic_terms(topic[0], 20)
     # topic[0] is not the same as topics. (topics are documents). topic is an actual topic.
     # topic[0] is probably the heaviest weighted "top" topic.
-    print(topic)
     for num in terms:
-         num = num[0]
-         print(num, id2word[num])
+        num = num[0]
+        print(num, id2word[num])
     print()
 
 # ###### VISUALIZING THE TOPIC MODELS ####################
 # ebb: We're using the pyLDAvis (python LDA topic modeling vis) library to output an HTML file
 # that shows an interactive visualization. It will output an HTML file in your working directory.
 # You want to go and open that file in a web browser to view the model and adjust it.
-# Then come back to this script and experiment with adding stop words and adjusting the number of
-# topics to model.
+# HOW TO READ THE LDA Visualization:
+# See https://we1s.ucsb.edu/research/we1s-tools-and-software/topic-model-observatory/tmo-guide/tmo-guide-pyldavis/
+# As you inspect the visualization, you should come back to this script and
+# experiment with adding stop words and adjusting the number of topics to model.
 vis = pyLDAvis.gensim_models.prepare(lda_model, corpus, id2word, mds="mmds", R=30)
 pyLDAvis.save_html(vis, 'topicModel_Visualization.html')
 
