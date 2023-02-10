@@ -1,0 +1,24 @@
+
+newtFire
+Elisa Beshero-Bondar
+Categorized index of tutorials on markup technologies
+Student projects arranged chronologically
+Introduction to Digital Humanities 
+Text Encoding 
+Text Analysis 
+DH Project Development 
+Digital Studies Certificate
+Pitt-Greensburg
+UPG Digital Humanities Coding Courses: 
+Coding and Digital Archives
+Coding and Data Visualization
+Nineteenth-Century British Literature 
+Science Fiction 
+Fantasy and Romance 
+XPath for Processing XML and Managing Projects 
+Cooking with Emily Dickinson and Frankenstein: TEI as a Learning Process
+Digital Mitford Coding School Resources 
+Exploring the Digital Humanities for Teachers of English:
+
+
+Powered by firebellies
