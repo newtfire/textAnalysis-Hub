@@ -18,6 +18,7 @@ from nltk.corpus import stopwords
 import string
 import gensim.corpora as corpora
 from gensim.models import LdaModel
+from gensim.models import Phrases
 import pyLDAvis.gensim_models
 import os
 
@@ -41,8 +42,8 @@ print(f"{string.punctuation=}")
 # so you can just append a new value to the list like this:
 # stop_words = stop_words.append('said')
 # You can extend it to add a list of new stopwords with:
-# newStopWords = ["said", "one", "go", "went", "came"]
-# stop_words.extend(newStopWords)
+newStopWords = ["said", "one", "go", "went", "came", "like", "one"]
+stop_words.extend(newStopWords)
 print("UPDATED: " + f"{stop_words=}")
 # REMEMBER TO CHANGE YOUR EXTENDED STOP WORD LIST FOR NEW COLLECTIONS!
 # ##################################################################
@@ -86,6 +87,17 @@ for file in os.listdir(grimmTalesPath):
 
 # PREPARING THE CORPUS FOR TOPIC MODELING ########################
 cleaned_docs = [clean_doc(doc) for doc in allDocs]
+# Add bigrams and trigrams to docs (only ones that appear 20 times or more).
+print(cleaned_docs)
+bigram = Phrases(cleaned_docs, min_count=20)
+for idx in range(len(cleaned_docs)):
+    for token in bigram[cleaned_docs[idx]]:
+        if '_' in token:
+            # Token is a bigram, add to document.
+            cleaned_docs[idx].append(token)
+
+print(cleaned_docs)
+
 # ebb: We used this code to help us locate buggy text files. It will stop on files that can't be processed due to weird non-Unicode characters.
 # cleaned_docs = []
 # for doc in allDocs:
@@ -113,7 +125,7 @@ corpus = [id2word.doc2bow(cleaned_doc) for cleaned_doc in cleaned_docs]
 # your results. Find a number you think works well for showing topics in this corpus.
 #   * Also, I'd like you to experiment with adjusting the stop_words list (above) when you see a lot
 # of the same words repeating across topics.
-lda_model = LdaModel(corpus=corpus, id2word=id2word, num_topics=25)
+lda_model = LdaModel(corpus=corpus, id2word=id2word, num_topics=30)
 # Suggestion: Try 10 - 50 topics and vary in 5s
 topics = lda_model.get_document_topics(corpus)
 print(f"{len(topics)=}")
@@ -138,7 +150,7 @@ for topic in topics[208][:10]:
     print(f"{topic=}")
     # if topic[1] > .5:
     # This asks for up to 10 topics in document 209. It'll be fine if 10 topic clusters aren't really available there.
-    terms = lda_model.get_topic_terms(topic[0], 20)
+    terms = lda_model.get_topic_terms(topic[0], 15)
     # topic[0] is not the same as topics. (topics are documents). topic is an actual topic.
     # topic[0] is probably the heaviest weighted "top" topic.
     for num in terms:
