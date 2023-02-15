@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
     <date>August 23.</date>
-    <context>It rained very hard in Newfoundland <timeRange from="12am" to="6am">from midnight until
+    <context loc="NF">It rained very hard in Newfoundland <timeRange from="12am" to="6am">from midnight until
             six A.M.</timeRange></context>
     <message>
         <info send="NF" receive="VAL"><sender>Newfoundland</sender> to
@@ -25,5 +25,5 @@
         <trans>All right. Send much faster.</trans>
         <trans>Understand, faster.</trans>
     </message>
-    <context>Testing nearly the whole of the day at Valentia.</context>
+    <context loc="VAL">Testing nearly the whole of the day at Valentia.</context>
 </xml>
