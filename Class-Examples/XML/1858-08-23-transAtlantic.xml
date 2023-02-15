@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <date>August 23.</date>
+    <context>It rained very hard in Newfoundland <timeRange from="12am" to="6am">from midnight until
+            six A.M.</timeRange></context>
+    <message>
+        <info send="NF" receive="VAL"><sender>Newfoundland</sender> to
+            <receiver>Valentia</receiver>.</info>
+        <trans>Your currents very irregular. Repeat.</trans>
+    </message>
+    <message>
+        <info send="VAL" receive="NF">Valentia to Newfoundland.</info>
+        <trans>Signals weak. Will you take message from Lord Mayor?</trans>
+    </message>
+    <message>
+        <info send="NF" receive="VAL">Newfoundland to Valentia</info>. <trans>Yes; send little
+            faster and better.</trans>
+    </message>
+    <message>
+        <info send="VAL" receive="NF">Valentia to Newfoundland.</info>
+        <trans>Give <signal>understand</signal> every twenty words.</trans>
+    </message>
+    <message>
+        <info send="NF" receive="VAL">Newfoundland to Valentia.</info>
+        <trans>All right. Send much faster.</trans>
+        <trans>Understand, faster.</trans>
+    </message>
+    <context>Testing nearly the whole of the day at Valentia.</context>
+</xml>
