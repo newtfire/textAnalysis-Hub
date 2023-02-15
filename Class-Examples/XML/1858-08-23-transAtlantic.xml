@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
     <date>August 23.</date>
-    <context loc="NF">It rained very hard in Newfoundland <timeRange from="12am" to="6am">from midnight until
-            six A.M.</timeRange></context>
+    <context loc="NF">It rained very hard in Newfoundland <timeRange from="12am" to="6am">from
+            midnight until six A.M.</timeRange></context>
     <message>
         <info send="NF" receive="VAL"><sender>Newfoundland</sender> to
             <receiver>Valentia</receiver>.</info>
@@ -13,8 +13,8 @@
         <trans>Signals weak. Will you take message from Lord Mayor?</trans>
     </message>
     <message>
-        <info send="NF" receive="VAL">Newfoundland to Valentia</info>. <trans>Yes; send little
-            faster and better.</trans>
+        <info send="NF" receive="VAL">Newfoundland to Valentia.</info>
+        <trans>Yes; send little faster and better.</trans>
     </message>
     <message>
         <info send="VAL" receive="NF">Valentia to Newfoundland.</info>
