@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <!-- We messed with this to talk about escape characters: 5 &lt; 4 -->
+    <step n="1">For the simplest of all <kind name="slime">slime recipes</kind>, all you need is cornstarch.</step>
+    <step n="2">Just dump some into a bowl,</step>
+    <step n="3">add some water,</step>
+    <step n="4">&amp; start mixing.</step>
+    <step n="5">Keep adding water until it reaches the consistency you want <suggestion>(a good place to
+            start is 2 parts cornstarch to 1 part water).</suggestion></step>
+    <step n="6">
+        <suggestion>You can also add food coloring to make it look more legit.</suggestion>
+    </step>
+    <!--This is an XML comment! We wrapped this in a root element -->
+</root>
