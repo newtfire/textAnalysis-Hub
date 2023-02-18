@@ -1,0 +1,18 @@
+start = root
+root = element root {Name, History, Prep, storage, Servings, Ingredients, Directions}
+
+Name = element Name {text}
+History = element History {text}
+Prep = element Prep {text}
+storage = element storage {text}
+Servings = element Servings {text}
+Ingredients = element Ingredients {text, ing+ }
+ing = element ing {text}
+
+Directions = element Directions {text, Step+}
+
+Step = element Step {num, text}
+num = attribute num {xsd:integer}
+
+
+

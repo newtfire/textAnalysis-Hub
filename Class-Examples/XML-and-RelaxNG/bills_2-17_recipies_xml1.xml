@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipies>
+    <recipe>
+        <food name="Country Loaf (Pain de Campagne)">Country Loaf (Pain de Campagne)</food>
+                <ref author="Deb Lindsey" outlet="The Washington Post">Deb Lindsey for The Washington Post</ref>
+                <date>SEP 10, 2014</date>
+            <desc><backstory>Washington author Sam Fromartz has been making sourdough variations of this yeast bread for years. Here, he adds fermented cider for flavor. A mild beer may be substituted; an IPA would be too bitter. The loaf is sized to last a few days.</backstory>
+
+            The optional <ingred name="water"><measurement tbsp="1">tablespoon</measurement> of water</ingred> is to compensate for the variable absorption of the rye and whole-wheat flours.</desc>
+
+            <items>You'll need a 
+                <item name="colander">colander</item>, a 
+                <item name="pastry cloth">pastry cloth</item> or 
+                <item name="dish towel" state="clean">clean dish towel</item> and a 
+                <item name="cast-iron" state="covered">covered cast-iron</item> or 
+                <item name="cast-iron pot" state="enameled">enameled cast-iron pot</item>.
+            </items>
+
+            <before>Make Ahead: The <ingred name="dough">dough</ingred> needs <rests restNum="4" minutes="20">four 20-minute rests</rests>, plus an <refrigerate refrigerate="yes" hourMin="8" hourMax="24">8-to-24-hour stay in the refrigerator</refrigerate> and a final <rise hours="1" minutes="30">1 1/2-hour rise</rise>.</before>
+
+Storage Notes: <storage>Store the cooled <food name="Country Loaf (Pain de Campagne)">loaf</food> in a <place name="paper bag" days="1">paper bag for a day</place>, and store in a <place name="plastic bag" days="a few">plastic bag for a few days after that</place>. <refrigerate refrigerate="no">Do not refrigerate</refrigerate>.</storage>
+
+SERVINGS:
+<servings>
+    Tested size: <servingSize min="10" max="12">10-12</servingSize> servings; makes one <measurement oz="11">11-ounce</measurement> loaf 10 to 12 slices
+</servings>
+
+INGREDIENTS
+<ingredients>
+    <ingred name="white bread flour">
+        <measurement C="1 1/4" g="160">1 1/4 cups (160 grams)</measurement> 
+        white bread flour, plus more for dusting
+    </ingred>
+    <ingred name="stone-ground whole-wheat flour">
+        <measurement C="1/4" g="38">1/4 cup (38 grams)</measurement> 
+        stone-ground whole-wheat flour
+    </ingred>
+    <ingred name="stone-ground whole rye flour">
+        <measurement C="1/4" g="32">1/4 cup (32 grams)</measurement> 
+        stone-ground whole rye flour
+    </ingred>
+    <ingred name="bread machine yeast + bread machine yeast">
+        <measurement tsp="1/2">1/2 teaspoon</measurement>
+        instant yeast or bread machine yeast
+    </ingred>
+    <ingred name="table salt">
+        <measurement tsp="1">1 teaspoon</measurement>
+        table salt
+    </ingred>
+    <ingred name="cider" state="dry, fermented">
+        <measurement C="1/4" g="55">1/4 cup (55 grams)</measurement>
+        dry fermented cider (may substitute <substituteName name="pilsener beer">Pilsener beer</substituteName>; see headnote)
+    </ingred>
+    <ingred name="water" state="lukewarm">
+        <measurement C="1/2" g="120">1/2 cup (120 grams)</measurement>
+        lukewarm water
+        (<temp degF="80">80 degrees</temp>)
+        <optional>plus an optional <measurement tbsp="1">1 tablespoon</measurement></optional>
+    </ingred>
+</ingredients>
+    
+DIRECTIONS
+<directions>
+    
+    <direction num="1">Whisk together the <ingred name="white bread flour + stone-ground whole-wheat flour + stone-ground whole rye flour">flours</ingred>, <ingred name="bread machine yeast + bread machine yeast">yeast</ingred> and <ingred name="table salt">salt</ingred> in a <item name="mixing bowl">mixing bowl</item>.</direction>
+
+    <direction num="2">Combine the <ingred name="cider" state="dry, fermented">cider</ingred> and <ingred name="water" state="lukewarm">water</ingred> in a <item name="liquid measuring cup">liquid measuring cup</item></direction>
+
+    <direction num="3" minutes="1">Add the <ingred name="cider + water">liquid</ingred> to the <ingred name="white bread flour + stone-ground whole-wheat flour + stone-ground whole rye flour">flour mixture</ingred>; use a <item name="spatula">spatula</item> or <item name="bench scraper">bench scraper</item> or your <item name="kneading hand" state="moistened">hand moistened with water</item> to blend them for about a minute. The <ingred name="dough" state="shaggy, yet cohesive">dough</ingred> should be shaggy yet cohesive.</direction>
+
+    <direction num="4">Cover the <item name="mixing bowl">bowl</item> with a <item name="dish towel">towel</item>;</direction>
+
+<direction num="5">Let the <ingred name="dough">dough</ingred> <rests minutes="20">rest for 20 minutes.</rests></direction>
+
+<direction num="6">Moisten your <item name="kneading hand" state="moistebed">kneading hand</item>.</direction>
+
+    <direction num="optional">If the <ingred name="dough" state="stiff">dough</ingred> seems stiff, add the optional <measurement tbsp="1">tablespoon</measurement> of <ingred>water</ingred>. </direction>
+
+    <direction num="7" minMinutes="1" maxMinutes="2" repeat="a dozen" way="clockwise">Stretch one edge of the <ingred name="dough">dough</ingred> (still in the <item name="mixing bowl">bowl</item>), then press it into the center of the <item name="mixing bowl">bowl</item>. Repeat this about a dozen times, moving clockwise to catch all sides of the <ingred name="dough">dough</ingred>. (This should take 1 or 2 minutes.)</direction>
+
+    <direction num="8">Turn the <ingred name="dough">dough</ingred> over so the seams are on the bottom.</direction>
+
+<direction num="9">Cover and let <rests minutes="20">rest for 20 minutes</rests>.</direction>
+
+<direction num="10" repeat="2" way="clockwise">Repeat the clockwise stretching and folding two more times, with <rests minutes="20" restNum="2">20-minute rests after each</rests>.</direction>
+
+    <direction num="11">Cover and <refrigerate refrigerate="yes" hourMin="8" hourMax="24">refrigerate at least 8 hours and up to 24 hours</refrigerate>. The <ingred name="dough" state="doubled">dough</ingred> should have doubled. If it hasn't, leave it on the counter until it does.</direction>
+
+    <direction num="12">Lightly <ingred name="white bread flour">flour</ingred> a <place name="work surface" state="floured">work surface</place>.</direction>
+
+    <direction num="13">Use a <item name="pastry cloth">pastry cloth</item> or clean <item name="dish towel" state="clean">dish towel</item> to line a round <item name="colander">colander</item>.</direction> 
+
+    <direction num="14">Dust the <item name="pastry cloth">cloth</item> with <ingred name="white bread flour">flour</ingred>.</direction>
+
+    <direction num="15">Transfer the <ingred name="dough">dough</ingred> to the floured <place name="work surface" state="floured">work surface</place>.</direction>
+
+<direction num="16">Fold the edges toward the center to create a round shape, turning it over so the seams are on the bottom.</direction>
+
+<direction num="17">Let it <rests minutes="5">rest for 5 minutes</rests>.</direction>
+
+    <direction num="18">Transfer to the <item name="colander">colander</item>, seam side up.</direction>
+
+    <direction num="19">Cover with a <item name="dish towel">towel</item> and let the <ingred name="dough">dough</ingred> <rise hours="1" minutes="30">rise for 1 1/2 hours</rise>.</direction>
+
+    <direction num="20"><before minutes="30">Thirty minutes before baking, place a <item name="cast-iron" lid="on">cast-iron Dutch oven</item> (lid on) or <item name="cast-iron pot" state="enameled" lid="on">enameled cast-iron pot</item> with a lid (on) in the <item name="oven">oven</item>.</before></direction>
+
+<direction num="21">Preheat to <temp degF="475">475 degrees</temp>.</direction>
+
+    <direction num="22">Carefully remove the <item name="cast-iron pot">hot pot</item> from the <item name="oven">oven</item>.</direction>
+
+    <direction num="23">Turn the <ingred name="dough">dough</ingred> out onto the <place name="work surface">counter</place> so the seams are on the bottom. </direction>
+
+    <direction num="24">Use <item name="kitchen scissors">kitchen scissors</item> to make <snips num="8" pattern="spoke">8 snips on the top of the <ingred name="dough">dough</ingred> in an evenly spaced spoke pattern, each about <measurement inches="1/4">1/4-inch deep</measurement></snips>.</direction>
+
+    <direction num="25">Lift the <ingred name="dough">dough</ingred> and carefully drop it into the <item name="cast-iron pot" lid="off">hot pot</item>.</direction>
+
+    <direction num="25">Immediately cover with the <item name="cast-iron pot" lid="off">hot lid</item>.</direction>
+
+<direction num="26" minutes="30">Bake for 30 minutes</direction>
+    
+<direction num="27">Reduce the heat to <temp degF="450">450 degrees</temp>.</direction>
+
+    <direction num="28" minMinutes="8" maxMinutes="10">Uncover and bake for 8 to 10 minutes or until the <food name="Country Loaf (Pain de Campagne)" part="crust" state="dark brown">crust</food> is dark brown. Try to minimize the amount of time the <item name="oven" door="open">oven door</item> is open.</direction>
+
+    <desc>The <food name="Country Loaf (Pain de Campagne)">bread</food> is done when its <temp degF="205" state="internal">internal temperature registers 205 degrees</temp> on an <item name="instand-read thermometer">instant-read thermometer</item> and the <food name="Country Loaf (Pain de Campagne)">loaf</food> sounds hollow when knocked on the underside.</desc>
+
+    <direction num="29"><before>Transfer the <food name="Country Loaf (Pain de Campagne)">loaf</food> to a <item name="wire rack">wire rack</item> to <rests hours="1">cool for at least 1 hour</rests></before> before cutting.</direction>
+
+</directions>
+
+    </recipe>
+</recipies>
