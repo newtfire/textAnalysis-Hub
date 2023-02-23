@@ -15,6 +15,6 @@
      * Projects must contain reflection on the research questions, to what extent they were answered, and what questions cannot fully be resolved.
      
 * Projects must credit and acknowledge the distinct work of each team member.
-*
+* See the Newtfire website guidelines for projects for [details on website expectations](https://newtfire.org/courses/tutorials/projectGuide.html).
 
     
