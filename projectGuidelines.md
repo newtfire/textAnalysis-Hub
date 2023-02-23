@@ -1,6 +1,6 @@
 ## Guidelines for Semester Projects in DIGIT 210
 
-* Projects must explore a research question (or a cluster or related research questions) about a collection of texts
+* Projects must explore a research question (or a cluster or related research questions) about a collection of texts.
      * Articulate those research question(s) on your GitHub repo and your project website.
      * A key aspect of each project is curation,cleaning, and maintaining a document collection for analysis.
      * Projects will involve working with texts in multiple formats, from so-called "plain" text to markup structures.
