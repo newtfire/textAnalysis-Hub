@@ -41,11 +41,11 @@ Experiment with find and replace operations that help convert your documents to 
      * Do you want to keep the timestamp information or alter it for XML storage? 
      * What kinds of information is stored in literal square brackets `[ ]`? Remember, to search for square brackets, parentheses, or curly braces with regular expressions you must escape them, like this `\[` and `\]` sp regex searches for them as literal characters, not as regex reserved symbols. 
      * What is `{\an8}` used for in the Bojack documents? (I tried Google searching this and learned some things about subtitle cues.) Is it significant? If so, preserve it in markup. Example: 
+
 ```
      {\an8}You {\an8}You get that? Long face.
      
-     Horses have long faces.
-```   
+     Horses have long faces.```   
 
      * In the Bojack scripts, what cues do you see for changes of speaker? In the Bojack script, we can sometimes see a quick conversational exchange between characters stored inside a single set of `<p>` tags. Do you ever see character names identified? Come up with a way to search and replace these that nests speaker information inside a speech element of some kind / in some way that's useful for storing related information together. (Can you store the speaker name in a attribute value, or as a nested element inside a speech?) 
      
