@@ -15,4 +15,17 @@ What should we do about these 77 items, if this were a real project?
 Time: 
 Work up from `\d`. Observe the pattern. Can you catch the possibility of A.M. or P.M.? 
 
+Try: `\d+:\d{2}(\s*[AP]\.\s*M\.)?` 
+
+But notice: 3 a. m.
+
+Try: `\d+\s*[ap]\.\s*m\.`
+(catches 10 more)
+
+
+Dates:
+Try `\d+[ sth]+[A-Z]\w+1` 
+(catches 187 dates) 
+
+
 
