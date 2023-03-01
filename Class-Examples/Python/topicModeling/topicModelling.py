@@ -18,6 +18,7 @@ from nltk.corpus import stopwords
 import string
 import gensim.corpora as corpora
 from gensim.models import LdaModel
+# The next line is to help with making bigrams and trigrams and other ngrams
 from gensim.models import Phrases
 import pyLDAvis.gensim_models
 import os
