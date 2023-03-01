@@ -18,9 +18,47 @@ Try out a Find in the window for a pattern you know you will see in your collect
 
 ### Your Assignment
 
-For this assignment, you may work with a collection of Bojack Horseman files I have scraped from their source at <https://queerworm.github.io/transcripts/>, or you may work with a collection of files that you have collected for your project.
+For this assignment, you may work with a directory of Bojack Horseman HTML files I have scraped from their source at <https://queerworm.github.io/transcripts/>, or you may work with a collection of files that you have collected for your project.
 
-Your task is analyze your documents carefully and first make a plan for the information structure you wish to create with them for XML. If it helps to work over one or two representative files first with the original Find /Replace window, do that. 
+Your task is analyze your documents carefully and first make a plan for the information structure you wish to create with them for XML. You may wish to work over one or two representative files first with the original Find /Replace window first to assist with your preliminary document analysis. 
+
+The Bojack Horseman scripts are in our class textAnalysis-Hub (main branch) at [textAnalysis-Hub/Class-Examples/Regex/bojack/](https://github.com/newtfire/textAnalysis-Hub/tree/main/Class-Examples/Regex/bojack). Do a `git pull` to pick those up and transfer them to your own workspace for this assignment. Note that these are HTML files. (Previously we've been working with "plain text" files for regex, but if your files are in HTML format, you can easily work with them to convert them to informational XML for analysis, just by making use of the tags you see and converting them as needed.
+
+1. Save an **extra copy** of your collection directory that you don't do regex operations over in case you need to start over. Open a text or markdown "step file" for this assignment (and/or for your project), and start by identifying patterns that matter and kinds of information you're seeing. For example, in the Bojack Horseman files, we see:
+
+```
+<i>♪ ♪</i
+```
+is a pattern for indicating music playing. 
+
+If working with Bojack Horseman, try looking at 104.html for some representative patterns. Jot these down.
+
+2. Remove extra hard returns and spacing and do some basic clean-up as needed. And inspect your documents carefully: Do you find sections in the documents you can partially remove and simplify (such as HTML headings)? Remember, our goal isn't to display your source documents but to create information resources out of them. So for Bojack, perhaps you want to keep the `<title>` element and its contents but remove the extra HTML head element info, the docType declaration, and change the root element to XML. 
+
+Experiment with find and replace operations that help convert your documents to informational XML and record your steps.
+
+3. If working with the Bojack Horseman files, what different kinds of information can you find marked, and what patterns are used (building on our music passage)? Consider:
+     * Do you want to keep the timestamp information or alter it for XML storage? 
+     * What kinds of information is stored in literal square brackets `[ ]`? Remember, to search for square brackets, parentheses, or curly braces with regular expressions you must escape them, like this `\[` and `\]` sp regex searches for them as literal characters, not as regex reserved symbols. 
+     * What is `{\an8}` used for in the Bojack documents? (I tried Google searching this and learned some things about subtitle cues.) Is it significant? If so, preserve it in markup. Example: 
+```
+     {\an8}You {\an8}You get that? Long face.
+     
+     Horses have long faces.
+```   
+
+     * In the Bojack scripts, what cues do you see for changes of speaker? In the Bojack script, we can sometimes see a quick conversational exchange between characters stored inside a single set of `<p>` tags. Do you ever see character names identified? Come up with a way to search and replace these that nests speaker information inside a speech element of some kind / in some way that's useful for storing related information together. (Can you store the speaker name in a attribute value, or as a nested element inside a speech?) 
+     
+4. As you do Find/Replace in Files, oXygen will want you to indicate whether you want to store backup files. Don't worry about this (see step 1). Perform your search and replace operations on the collection, and record your steps in your step file. Push your converted files to your personal (or project) GitHub repo (check with your team about this if working on team files). Convert your collection to well-formed XML that stores relevant information about your documents in XML elements.  
+
+  **What to submit on Canvas**: Your step file, and link to your new autotagged collection in your GitHub repo. 
+
+
+
+
+
+
+
 
 
 
