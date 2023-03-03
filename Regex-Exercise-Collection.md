@@ -64,7 +64,7 @@ In the Bojack scripts, what cues do you see for changes of speaker? In the Bojac
 
 That is a Linux-style shell command for renaming files, and it uses a for-loop like what you’ve seen in Python.
     
- 6. Push your altered file directory and your markdwon file to your repo. **What to submit on Canvas**: Your step file, and link to your new autotagged collection in your GitHub repo. 
+ 6. Push your altered file directory and your markdown file to your repo. **What to submit on Canvas**: Your step file, and link to your new autotagged collection in your GitHub repo. 
 
 
 
