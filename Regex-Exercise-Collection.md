@@ -54,7 +54,17 @@ In the Bojack scripts, what cues do you see for changes of speaker? In the Bojac
      
 4. As you do Find/Replace in Files, oXygen will want you to indicate whether you want to store backup files. Don't worry about this (see step 1). Perform your search and replace operations on the collection, and record your steps in your step file. Push your converted files to your personal (or project) GitHub repo (check with your team about this if working on team files). Convert your collection to well-formed XML that stores relevant information about your documents in XML elements.  
 
-  **What to submit on Canvas**: Your step file, and link to your new autotagged collection in your GitHub repo. 
+
+5. You will not be able to save the files to .xml as you convert them because Find/Replace in Files does not work the same way as simple Find/Replace in one file alone. How do you change the file extensions for all the files in the directory? There are lots of ways to do this depending on your operating system, but here is one that works the same way for Mac or Linux Terminal and Windows (Git Bash Shell).
+* Open your Git Bash / Terminal shell and navigate to the file directory, and then give this command:
+
+```
+        for f in *.html; do mv $f `basename $f .html`.xml; done;
+```
+
+That is a Linux-style shell command for renaming files, and it uses a for-loop like what you’ve seen in Python.
+    
+ 6. Push your altered file directory and your markdwon file to your repo. **What to submit on Canvas**: Your step file, and link to your new autotagged collection in your GitHub repo. 
 
 
 
