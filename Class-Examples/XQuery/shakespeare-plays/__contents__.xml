@@ -1,0 +1,132 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shakespeare/data" version="1" owner="admin" group="dba" mode="755" created="2022-02-25T03:09:37.706Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="kij.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:09:43.901Z" modified="2022-02-25T03:09:43.901Z" filename="kij.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="work-types.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:09:43.457Z" modified="2022-02-25T03:09:43.457Z" filename="work-types.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ven.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:09:42.559Z" modified="2022-02-25T03:09:42.559Z" filename="ven.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tim.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:09:40.263Z" modified="2022-02-25T03:09:40.263Z" filename="tim.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mem.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:09:37.708Z" modified="2022-02-25T03:09:37.708Z" filename="mem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tem.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:09:45.9Z" modified="2022-02-25T03:09:45.9Z" filename="tem.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tgv.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:09:47.352Z" modified="2022-02-25T03:09:47.352Z" filename="tgv.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="juc.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:09:48.966Z" modified="2022-02-25T03:09:48.966Z" filename="juc.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="kil.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:09:51.089Z" modified="2022-02-25T03:09:51.089Z" filename="kil.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="son.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:09:53.244Z" modified="2022-02-25T03:09:53.244Z" filename="son.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ayl.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:09:54.343Z" modified="2022-02-25T03:09:54.343Z" filename="ayl.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="roj.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:09:56.207Z" modified="2022-02-25T03:09:56.207Z" filename="roj.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="win.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:09:58.428Z" modified="2022-02-25T03:09:58.428Z" filename="win.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cym.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:00.643Z" modified="2022-02-25T03:10:00.643Z" filename="cym.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="aww.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:04.671Z" modified="2022-02-25T03:10:04.671Z" filename="aww.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="cor.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:07.905Z" modified="2022-02-25T03:10:07.905Z" filename="cor.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ant.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:10.768Z" modified="2022-02-25T03:10:10.768Z" filename="ant.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="twn.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:13.333Z" modified="2022-02-25T03:10:13.333Z" filename="twn.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mac.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:14.894Z" modified="2022-02-25T03:10:14.894Z" filename="mac.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="rap.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:16.651Z" modified="2022-02-25T03:10:16.651Z" filename="rap.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="he8.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:18.134Z" modified="2022-02-25T03:10:18.134Z" filename="he8.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="he5.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:20.306Z" modified="2022-02-25T03:10:20.306Z" filename="he5.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1h4.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:22.381Z" modified="2022-02-25T03:10:22.381Z" filename="1h4.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tam.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:24.406Z" modified="2022-02-25T03:10:24.406Z" filename="tam.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="3h6.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:26.463Z" modified="2022-02-25T03:10:26.463Z" filename="3h6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="man.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:28.711Z" modified="2022-02-25T03:10:28.711Z" filename="man.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="1h6.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:30.334Z" modified="2022-02-25T03:10:30.334Z" filename="1h6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mww.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:32.441Z" modified="2022-02-25T03:10:32.441Z" filename="mww.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="com.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:34.3Z" modified="2022-02-25T03:10:34.3Z" filename="com.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mnd.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:35.725Z" modified="2022-02-25T03:10:35.725Z" filename="mnd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="oth.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:37.553Z" modified="2022-02-25T03:10:37.553Z" filename="oth.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tro.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:40.21Z" modified="2022-02-25T03:10:40.21Z" filename="tro.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2h4.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:42.784Z" modified="2022-02-25T03:10:42.784Z" filename="2h4.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="2h6.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:44.946Z" modified="2022-02-25T03:10:44.946Z" filename="2h6.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="tit.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:47.199Z" modified="2022-02-25T03:10:47.199Z" filename="tit.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ri3.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:49.198Z" modified="2022-02-25T03:10:49.198Z" filename="ri3.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lov.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:51.669Z" modified="2022-02-25T03:10:51.669Z" filename="lov.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="pht.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:52.053Z" modified="2022-02-25T03:10:52.053Z" filename="pht.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="per.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:52.463Z" modified="2022-02-25T03:10:52.463Z" filename="per.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lll.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:54.631Z" modified="2022-02-25T03:10:54.631Z" filename="lll.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ri2.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:56.944Z" modified="2022-02-25T03:10:56.944Z" filename="ri2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ham.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:10:59.103Z" modified="2022-02-25T03:10:59.103Z" filename="ham.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="mev.xml" skip="no" owner="admin" group="dba" mode="755" created="2022-02-25T03:11:02.248Z" modified="2022-02-25T03:11:02.248Z" filename="mev.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>
