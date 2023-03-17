@@ -10,7 +10,7 @@ Here are [eXist-dB's official installation instructions](https://exist-db.org/ex
 * About 200 Mb of disk space
 * At least 512 Mb of available memory
 
-Here are our instructions, as of 2021-03-27, for installing and working with eXist-dB locally. 
+Here are our instructions, as of 2021-03-27 (reviewed 2023-03-17), for installing and working with eXist-dB locally. 
 
 * To install eXist-dB, start on their [Download page](http://exist-db.org/exist/apps/homepage/index.html), and click the button for the Latest Stable Release.
 * On the new page that opens, scroll down to the section titled Downloads. This links four different kinds of download files, for different kinds of computers and installation environments (ranging from Linux, to Mac, to Windows).  
