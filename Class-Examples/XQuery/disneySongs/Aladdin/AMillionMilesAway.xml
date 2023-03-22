@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>A Million Miles Aways</title>
+        <origin><movie>Aladdin (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer><lyricist ref="#Beguelin">Chad
+                Beguelin</lyricist></author>
+        <perform><voiceActor ref="#Reed" role="#Jasmine">Courtney Reed</voiceActor>
+            <voiceActor role="#Aladdin" ref="#Jacobs">Adam Jacobs</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Aladdin">ALADDIN</char> (spoken): Have you ever imagined what it
+                would be like to take off? Never look back?</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="2"><char ref="#Jasmine">JASMINE</char> (spoken):</ln>
+            <ln n="3">Only every hour of every day</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="4"><char ref="#Aladdin">ALADDIN</char> (spoken):</ln>
+            <ln n="5">What's stopping us?</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="6"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="7">We'll join a caravan tonight</ln>
+            <ln n="8">Count on the stars to be our guides</ln>
+            <ln n="9">We'll simply vanish out of sight</ln>
+            <ln n="10">Go where the desert road decides</ln>
+            <ln n="11">There won't be any obligations</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="12"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="13">Or fathers to obey</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="14"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="15">Cause we'll be a million miles away</ln>
+            <ln n="16">Leave everything behind</ln>
+            <ln n="17">When you choose to lose yourself</ln>
+            <ln n="18">Who knows what you might find</ln>
+            <ln n="19">And once the journey's done</ln>
+            <ln n="20">You'll have some faith in me</ln>
+            <ln n="21">After a million miles or so</ln>
+            <ln n="22">We might feel like we're free</ln>
+            <ln n="23"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="24">Maybe we'll travel on the sea</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="25"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="26">I'll tend the sails and you can steer</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="27"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="28">Watch the waves roll on endlessly</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="29"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="30">And the horizon disappear</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="31"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="32">We'll leave all thoughts about the future 'till some future day</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="33"><char ref="#Both">BOTH</char></ln>
+            <ln n="34">Cause we'll be a million miles away</ln>
+            <ln n="35">Leave everything behind</ln>
+            <ln n="36">When you choose to lose yourself</ln>
+            <ln n="37">Who knows what you might find</ln>
+            <ln n="38">And once the journey's done</ln>
+            <ln n="39">It won't seem quite so far</ln>
+            <ln n="40">After a million miles or so</ln>
+            <ln n="41">We'll find out who we are</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="42"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="43">Follow wherever the wind starts blowing</ln>
+            <ln n="44"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="45">A million miles away</ln>
+            <ln n="46">The kind of life people dream of knowing</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="47"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="48">A million miles away</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="49"><char ref="#Both">BOTH</char></ln>
+            <ln n="50">We'll never turn back we'll just keep on going</ln>
+            <ln n="51">Vanishing from the view</ln>
+            <ln n="52">Becoming someone new</ln>
+            <ln n="53">We'll be a million miles away</ln>
+            <ln n="54">Leave everything behind</ln>
+            <ln n="55">When you choose to lose yourself</ln>
+            <ln n="56">Who knows what you might find</ln>
+            <ln n="57">And once the journey's done</ln>
+            <ln n="58">We'll have no need to roam</ln>
+            <ln n="59">After a million miles or so</ln>
+            <ln n="60">We might find out we're home</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="61">After a million miles or so</ln>
+            <ln n="62">We might find out we're home</ln>
+        </lg>
+    </song>
+</xml>

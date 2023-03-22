@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+<metadata>    
+    <title>Belle (Reprise)</title>
+    <origin>Music from <movie>Beauty and the Beast (Live-Action)</movie></origin>
+    <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+    <perform>Performed by <voiceActor ref="#Watson" role="#Belle">Emma Watson</voiceActor></perform>
+</metadata>
+
+<song>
+    <lg n="1"><ln n="1"><char ref="#Belle">Belle, spoken:</char>Can you imagine? Me, the wife of that boorish, brainless...</ln></lg>
+
+    <lg n="2">
+        <ln n="2"><char ref="#Belle">Belle, sung:</char>Madame Gaston</ln>
+        <ln n="3">Can't you just see it?</ln>
+        <ln n="4">Madame Gaston</ln>
+        <ln n="5">His little wife, ugh</ln>
+    </lg>
+
+<lg n="3">
+    <ln n="6">No, sir! Not me!</ln>
+    <ln n="7">I guarantee it</ln>
+    <ln n="8">I want much more than this provincial life!</ln>
+</lg>
+
+<lg n="4">
+    <ln n="9">I want adventure in the great wide somewhere</ln>
+    <ln n="10">I want it more than I can tell</ln>
+    <ln n="11">And for once it might be grand</ln>
+    <ln n="12">To have someone understand</ln>
+    <ln n="13">I want so much more than they've got planned...</ln>
+</lg>
+</song>
+</xml>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>A Little Thought</title>
+        <origin><movie>Beauty and the Beast: Belle's Magical World</movie></origin>
+        <author><composer ref="#Cohen">Harvey Cohen</composer></author>
+        <perform>Performed by <voiceActor ref="#OHara" role="#Belle">Paige
+            O'Hara</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1">Did you ever wonder what it's like</ln>
+            <ln n="2">To wonder from a different point of view?</ln>
+            <ln n="3">To try and see life differently</ln>
+            <ln n="4">While doing what somebody else might do?</ln>
+            <ln n="5">Imagine seeing through a set of different eyes</ln>
+            <ln n="6">You just might be surprised</ln>
+            <ln n="7">You just might realize</ln>
+            <ln n="8">That somebody might be wondering</ln>
+            <ln n="9">And wonder what it's like to be like you</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="10">A little thought</ln>
+            <ln n="11">A little care</ln>
+            <ln n="12">A little "when you ever need me, I'll be there"</ln>
+            <ln n="13">A little give</ln>
+            <ln n="14">A little take</ln>
+            <ln n="15">A little "it's ok to make a small mistake"</ln>
+            <ln n="16">A little time</ln>
+            <ln n="17">A little space</ln>
+            <ln n="18">A little chance to help somebody find their place</ln>
+            <ln n="19">It isn't much, but it means a lot</ln>
+            <ln n="20">It's not a little thing to have a little thought</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="21">A little thought</ln>
+            <ln n="22">A little care</ln>
+            <ln n="23">A little "when you ever need me, I'll be there"</ln>
+            <ln n="24">A little give</ln>
+            <ln n="25">A little take</ln>
+            <ln n="26">A little "it's ok to make a small mistake"</ln>
+            <ln n="27">A little time</ln>
+            <ln n="28">A little space</ln>
+            <ln n="29">A little chance to help somebody find their place</ln>
+            <ln n="30">It isn't much, but it means a lot</ln>
+            <ln n="31">It's not a little thing to have a little thought.</ln>
+        </lg>
+    </song>
+</xml>

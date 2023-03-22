@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>Friend Like Me</title>
+        <origin><movie>Aladdin (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer><lyricist ref="#Ashman">Howard
+                Ashman</lyricist></author>
+        <perform><voiceActor ref="#Jacobs" role="#Aladdin">Adam Jacobs</voiceActor>
+            <voiceActor role="#Genie" ref="#Iglehart">James Monroe Iglehart</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Genie">GENIE</char> (Scat fill) Can you give me a
+                "bada-yada-yada"?</ln>
+            <ln n="2">(Aladdin repeat)</ln>
+            <ln n="3">Good! Scotty-wop</ln>
+            <ln n="4">(Aladdin repeat)</ln>
+            <ln n="5">Everybody! Bibbidi-Bobbidi-Boo</ln>
+            <ln n="6">(Audience repeat)</ln>
+            <ln n="7">(Scat fill) Hit it!</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="8">Wah-wah-wah! (Oh my!)</ln>
+            <ln n="9">Wah-wah-wah! (Oh no!)</ln>
+            <ln n="10">Wah-wah wah!</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="11">Well Ali Baba had them forty thieves</ln>
+            <ln n="12">Scheherazade had a thousand tales</ln>
+            <ln n="13">But master you in luck 'cause up your sleeves</ln>
+            <ln n="14">You got a brand of magic never fails</ln>
+            <ln n="15">You got some power in your corner now</ln>
+            <ln n="16">Some heavy ammunition in your camp</ln>
+            <ln n="17">You got some punch, pizzazz, yahoo and how</ln>
+            <ln n="18">See all you gotta do is rub that lamp</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="19">And I'll say:</ln>
+            <ln n="20">Mister Aladdin, sir</ln>
+            <ln n="21">What will your pleasure be?</ln>
+            <ln n="22">Let me take your order</ln>
+            <ln n="23">Jot it down</ln>
+            <ln n="24">You ain't never had a friend like me</ln>
+            <ln n="25">No no no</ln>
+            <ln n="26">Life is your restaurant</ln>
+            <ln n="27">And I'm your maitre d'</ln>
+            <ln n="28">C'mon whisper what it is you want</ln>
+            <ln n="29">You ain't never had a friend like me</ln>
+            <ln n="30">Yes sir</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="31">We pride ourselves on service</ln>
+            <ln n="32">You're the boss</ln>
+            <ln n="33">The king, the shah</ln>
+            <ln n="34">Say what you wish</ln>
+            <ln n="35">It's yours! True dish</ln>
+            <ln n="36">How about a little more Baklava?</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="37">There it is</ln>
+            <ln n="38">C'mon fellas, help me out</ln>
+            <ln n="39">Have some of column "A"</ln>
+            <ln n="40">Try all of column "B"</ln>
+            <ln n="41">I'm in the mood to help you dude</ln>
+            <ln n="42">You ain't never had a friend like me</ln>
+            <ln n="43">Now watch me sell it</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="44">Wah-wah-wah! (Oh my!)</ln>
+            <ln n="45">Wah-wah-wah! (Oh no!)</ln>
+            <ln n="46">Wah-wah wah!</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="47">Can your friends do this?</ln>
+            <ln n="48">Can your friends do that?</ln>
+            <ln n="49">Can your friends pull this out their little hat?</ln>
+            <ln n="50">Can your friends go, poof?</ln>
+            <ln n="51">Well, looky here</ln>
+            <ln n="52">Can your friends go, Abracadabra, let 'er rip</ln>
+            <ln n="53">And then make the sucker disappear?</ln>
+            <ln n="54">So doncha sit there slack jawed, buggy eyed</ln>
+            <ln n="55">I'm here to answer all your midday prayers</ln>
+            <ln n="56">You got me bona fide, certified</ln>
+            <ln n="57">You got a genie for your chare d'affaires</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="58">I got a powerful urge to help you out</ln>
+            <ln n="59">So what-cha wish? I really wanna know</ln>
+            <ln n="60">You got a list that's three miles long, no doubt</ln>
+            <ln n="61">Well, all you gotta do is rub like so</ln>
+            <ln n="62">C'mon, yes</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="63">Mister Aladdin, sir, have a wish or two or three</ln>
+            <ln n="64">I'm on the job, you big nabob</ln>
+            <ln n="65">You ain't never had a friend like me</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="66">Can your friends do this?</ln>
+            <ln n="67">No really, can they?</ln>
+            <ln n="68">You're welcome</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="69">Or maybe, our lucky contestant</ln>
+            <ln n="70">Would like to wish for a talent of fame</ln>
+            <ln n="71">Welcome to, Dancing With The Scimitars</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="72">Grab Aladdin by the hand</ln>
+            <ln n="73">Swing him 'round 'till he can't stand</ln>
+            <ln n="74">Chicken in the baskets</ln>
+            <ln n="75">Barrel in a tree</ln>
+            <ln n="76">Never had a friend like me</ln>
+            <ln n="77">I would like to bring the house down a little bit</ln>
+            <ln n="78">Sing a few old classics</ln>
+            <ln n="79">Couple of favourites of mine</ln>
+            <ln n="80">I'll get back to you in a second</ln>
+            <ln n="81">Thank you!</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="82">Tale as old as time</ln>
+            <ln n="83">True as it can be</ln>
+            <ln n="84">Barely even friends</ln>
+            <ln n="85">Beauty and the...</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="86">Look at this stuff</ln>
+            <ln n="87">Isn't it neat?</ln>
+            <ln n="88">Wouldn't you think my collections complete?</ln>
+            <ln n="89">Wouldn't you think I'm the genie who has everything?</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="90">Babadabop bop</ln>
+            <ln n="91">Badop bop ba-dop</ln>
+            <ln n="92">Babadabop bop</ln>
+            <ln n="93">Badop bop bop</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="94">And you'll never hear the wolf cry</ln>
+            <ln n="95">To the blue corn moon</ln>
+            <ln n="96">For whether we are white or copper skinned</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="97">I want adventure in the great wide</ln>
+            <ln n="98">Ever just the same</ln>
+            <ln n="99">Ever a surprise</ln>
+            <ln n="100">Though he's sitting here</ln>
+            <ln n="101">Watch Al disappear</ln>
+            <ln n="102">Right before your eyes</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="103">Yes!</ln>
+        </lg>
+
+        <lg n="20">
+            <ln n="104">Can your friends do this?</ln>
+            <ln n="105">Can your friends do that?</ln>
+            <ln n="106">Can your friends do tap?</ln>
+        </lg>
+
+        <lg n="21">
+            <ln n="107">Can your friends do this?</ln>
+            <ln n="108">Can your friends do that?</ln>
+            <ln n="109">Can your friends go, Abracadabra, let 'er rip</ln>
+        </lg>
+
+        <lg n="22">
+            <ln n="110">Gimme a doggy bag, I'm takin' it home</ln>
+        </lg>
+
+        <lg n="23">
+            <ln n="111">Mister Aladdin, sir, have a wish or two or three</ln>
+            <ln n="112">I'm on the job, you big nabob</ln>
+            <ln n="113">You ain't never had a friend, never had a friend</ln>
+            <ln n="114">You ain't never had a friend, never had a friend</ln>
+            <ln n="115">You ain't never had a friend like me</ln>
+            <ln n="116">You ain't never had a friend like me</ln>
+        </lg>
+    </song>
+</xml>

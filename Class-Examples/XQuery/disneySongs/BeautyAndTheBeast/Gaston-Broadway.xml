@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>Gaston</title>
+        <origin><movie>Beauty and the Beast (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer>
+            <lyricist ref="#Rice">Tim Rice</lyricist></author>
+        <perform><voiceActor ref="#Moses" role="#Gaston">Burke Moses</voiceActor>
+            <voiceActor ref="#Raskin" role="#LeFou">Kenny Raskin</voiceActor>
+            <voiceActor role="#Bimbettes" ref="#Shannon">Sarah Solie Shannon</voiceActor>
+            <voiceActor role="#Bimbettes" ref="#Price">Paige Price</voiceActor>
+            <voiceActor role="#Bimbettes" ref="#Talcott">Linda Talcott</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Gaston">Gaston, spoken</char></ln>
+            <ln n="2">Who does she think she is?</ln>
+            <ln n="3">That girl has tangled with the wrong man!</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="4"><char ref="#Lefou">Lefou, spoken</char></ln>
+            <ln n="5">Darn right!</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="6"><char ref="#Gaston">Gaston, spoken</char></ln>
+            <ln n="7">No one says "no" to Gaston!</ln>
+            <ln n="8">Dismissed! Rejected!</ln>
+            <ln n="9">Publicly humiliated! Why, it's more than I can bear!</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="10"><char ref="#Lefou">Lefou, spoken</char></ln>
+            <ln n="11">More beer?</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="12"><char ref="#Gaston">Gaston, spoken</char></ln>
+            <ln n="13">What for? Nothing helps. I'm disgraced</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="14"><char ref="#Lefou">Lefou, spoken</char></ln>
+            <ln n="15">Who, you? Never! Gaston, you've got to pull yourself together</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="16">Gosh it disturbs me to see you, Gaston</ln>
+            <ln n="17">Looking so down in the dumps</ln>
+            <ln n="18">Ev'ry guy here'd love to be you, Gaston</ln>
+            <ln n="19">Even when taking your lumps</ln>
+            <ln n="20">There's no man in town as admired as you</ln>
+            <ln n="21">You're ev'ryone's favorite guy</ln>
+            <ln n="22">Ev'ryone's awed and inspired by you</ln>
+            <ln n="23">And it's not very hard to see why</ln>
+            <ln n="24">No one's slick as Gaston</ln>
+            <ln n="25">No one's quick as Gaston</ln>
+            <ln n="26">No one's neck's as incredibly thick as Gaston's</ln>
+            <ln n="27">For there's no man in town half as manly</ln>
+            <ln n="28">Perfect, a pure paragon!</ln>
+            <ln n="29">You can ask any Tom, Dick or Stanley</ln>
+            <ln n="30">And they'll tell you whose team they prefer to be on</ln>
+            <ln n="31"><char ref="#Lefou-Chorus">Lefou &amp; Chorus</char></ln>
+            <ln n="32">No one's been like Gaston</ln>
+            <ln n="33">A king pin like Gaston</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="34"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="35">No one's got a swell cleft in his chin like Gaston</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="36"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="37">As a specimen, yes, I'm intimidating</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="38"><char ref="#Chorus">Chorus</char></ln>
+            <ln n="39">My what a guy, that Gaston!</ln>
+            <ln n="40">Give five "hurrahs!"</ln>
+            <ln n="41">Give twelve "hip-hips!"</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="42"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="43">Gaston is the best</ln>
+            <ln n="44">And the rest is all drips</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="45"><char ref="#Chorus">Chorus</char></ln>
+            <ln n="46">No one fights like Gaston</ln>
+            <ln n="47">Douses lights like Gaston</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="48"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="49">In a wrestling match nobody bites like Gaston</ln>
+            <ln n="50"><char ref="#Bimbettes">Bimbettes</char></ln>
+            <ln n="51">For there's no one as burly and brawny</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="52"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="53">As you see, I've got biceps to spare</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="54"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="55">Not a bit of him's scraggly or scrawny</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="56"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="57">That's right!</ln>
+            <ln n="58">And every last inch of me's covered with hair</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="59"><char ref="#Chorus">Chorus</char></ln>
+            <ln n="60">No one hits like Gaston</ln>
+            <ln n="61">Matches wits like Gaston</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="62"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="63">In a spitting match, nobody spits like Gaston</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="64"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="65">I'm especially good at expectorating</ln>
+            <ln n="66">Ptooie!</ln>
+        </lg>
+
+        <lg n="20">
+            <ln n="67"><char ref="#Chorus">Chorus</char></ln>
+            <ln n="68">Ten points for Gaston!</ln>
+            <ln n="69"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="70">When I was a lad I ate four dozen eggs</ln>
+            <ln n="71">Ev'ry morning to help me get large</ln>
+            <ln n="72">And now that I'm grown I eat five dozen eggs</ln>
+            <ln n="73">So I'm roughly the size of a barge!</ln>
+        </lg>
+
+        <lg n="21">
+            <ln n="74"><char ref="#Chorus">Chorus</char></ln>
+            <ln n="75">Oh, ahhh, wow!</ln>
+            <ln n="76">My what a guy, that Gaston!</ln>
+            <ln n="77">No one shoots like Gaston</ln>
+            <ln n="78">Makes those beauts like Gaston</ln>
+        </lg>
+
+        <lg n="22">
+            <ln n="79"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="80">Then goes tromping around wearing boots like Gaston</ln>
+        </lg>
+
+        <lg n="23">
+            <ln n="81"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="82">I use antlers in all of my decorating</ln>
+        </lg>
+
+        <lg n="24">
+            <ln n="83"><char ref="#Chorus">Chorus</char></ln>
+            <ln n="84">My what a guy</ln>
+            <ln n="85">Gaston!</ln>
+        </lg>
+    </song>
+</xml>

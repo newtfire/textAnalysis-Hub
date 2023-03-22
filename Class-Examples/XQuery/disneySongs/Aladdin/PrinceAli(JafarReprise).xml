@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>Prince Ali (Jafar Reprise)</title>
+        <origin><movie>Aladdin (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer><lyricist ref="#Rice">Tim
+                Rice</lyricist></author>
+        <perform><voiceActor ref="#Freeman" role="#Jafar">Jonathan Freeman</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Genie">GENIE</char> As a teenie Genie</ln>
+            <ln n="2">I would dare to dream</ln>
+            <ln n="3">I'd be given freedom free and clear</ln>
+            <ln n="4">So forgive me if I sing</ln>
+            <ln n="5">Or make a whole big thing</ln>
+            <ln n="6">But I just can't maintain my cool veneer</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="7">You don't mind if I squeal, do you?</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="8"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="9">Be my guest!</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="10"><char ref="#Genie">GENIE</char></ln>
+            <ln n="11">Oooooh! I can't believe this is actually happening!</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="12"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="13">You save me</ln>
+            <ln n="14">Then I'll save you</ln>
+            <ln n="15">I won't bail a 23 Skidoo</ln>
+            <ln n="16">Say ain't it great to know somebody's got your back</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="17"><char ref="#Genie">GENIE</char></ln>
+            <ln n="18">I'll free you in one second</ln>
+            <ln n="19">I wanna sing this one little verse</ln>
+            <ln n="20">That I owe you</ln>
+            <ln n="21">That you owe me</ln>
+            <ln n="22">Means we're Ollie Ollie Oxen Free!</ln>
+            <ln n="23">Say ain't it great to know that somebody's got your back!</ln>
+            <ln n="24"><char ref="#Both">BOTH</char></ln>
+            <ln n="25">Ooooooh!</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="26"><char ref="#Genie">GENIE</char></ln>
+            <ln n="27">I always knew that I could trust you kid</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="28"><char ref="#Both">BOTH</char></ln>
+            <ln n="29">Ooooooh!</ln>
+            <ln n="30">It's quid pro-quo then it's quo-pro-quid!</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="31"><char ref="#Genie">GENIE</char></ln>
+            <ln n="32">I knew you'd see that fair is fair</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="33"><char ref="#Aladdin">ALADDIN</char></ln>
+            <ln n="34">Cross my heart and double pinky swear</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="35"><char ref="#Both">BOTH</char></ln>
+            <ln n="36">Say ain't it great to know that somebody's got your back</ln>
+            <ln n="37">Say ain't it great to know that somebody's got your back!</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="38"><char ref="#Genie">GENIE</char></ln>
+            <ln n="39">No, after you</ln>
+            <ln n="40">Sure I'll take it</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="41"><char ref="#BOK">BABKAK, OMAR, KASSIM</char></ln>
+            <ln n="42">Hello?</ln>
+            <ln n="43"><char ref="#BOAS">BABKAK, OMAR, ALADDIN, KASSIM</char></ln>
+            <ln n="44">Alright!</ln>
+            <ln n="45">Ooooooh!</ln>
+            <ln n="46">Without Genie, we don't stand a chance!</ln>
+            <ln n="47">Ooooooh!</ln>
+            <ln n="48">This is the start of a fine bromance!</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="49">Our bond will last like Mutt and Jeff's</ln>
+            <ln n="50">OMG the guys are BFFs!</ln>
+            <ln n="51">Say ain't it great to know that somebody's got your back!</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="52">It's give and take!</ln>
+            <ln n="53">It's tit for tat!</ln>
+            <ln n="54">We gonna divvy things up</ln>
+            <ln n="55">I down with that</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="56"><char ref="#Genie">GENIE</char></ln>
+            <ln n="57">Because kaboom kablam</ln>
+            <ln n="58">Comes easily</ln>
+            <ln n="59">It's part of Genie Genie-ology!</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="60"><char ref="#BOAS">BABKAK, OMAR, ALADDIN, KASSIM</char></ln>
+            <ln n="61">We don't do tricks</ln>
+            <ln n="62">Like Genies do</ln>
+            <ln n="63">But we got your back</ln>
+            <ln n="64">And sing back up too!</ln>
+            <ln n="65">Sayin' ain't it great to know that somebody's got your</ln>
+            <ln n="66">Ain't it great to know that somebody's got your</ln>
+            <ln n="67">Ain't it great to know that somebody's got your</ln>
+            <ln n="68">Baaaack!</ln>
+            <ln n="69"><char ref="#All">ALL</char></ln>
+            <ln n="70">Got your back</ln>
+        </lg>
+    </song>
+</xml>

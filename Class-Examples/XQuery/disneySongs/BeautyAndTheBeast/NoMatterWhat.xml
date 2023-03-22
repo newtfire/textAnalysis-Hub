@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>No Matter What</title>
+        <origin>
+            <movie>Beauty and the Beast (Broadway)</movie>
+        </origin>
+        <author><composer ref="#Menken">Alan Menken</composer><composer ref="#Botnick">Bruce
+                Botnick</composer><lyricist ref="#Rice">Tim Rice</lyricist></author>
+        <perform>
+            <voiceActor ref="#Egan" role="#Belle">Susan Egan</voiceActor>
+            <voiceActor ref="#Bosley" role="#Maurice">Tom Bosley</voiceActor>
+        </perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#belle">BELLE, spoken</char></ln>
+            <ln n="2">Papa, do you think I'm...odd?</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="3"><char ref="#maurice">MAURICE, spoken</char></ln>
+            <ln n="4">My daughter odd?</ln>
+            <ln n="5">Where did you get an idea like that?</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="6"><char ref="#belle">BELLE, spoken</char></ln>
+            <ln n="7">I don't know</ln>
+            <ln n="8">It's just that, well, people talk</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="9"><char ref="#maurice">MAURICE, spoken</char></ln>
+            <ln n="10">They talk about me, too</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="11">No, we're not odd, its true</ln>
+            <ln n="12">No fam'ly could be saner</ln>
+            <ln n="13">Except one uncle who...well, maybe let that pass</ln>
+            <ln n="14">In all you say or do</ln>
+            <ln n="15">You couldn't make it plainer</ln>
+            <ln n="16">You are your mother's daughter; therefore you are class</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="17"><char ref="#belle">BELLE</char></ln>
+            <ln n="18">So I should just accept</ln>
+            <ln n="19">I'm simply not like them</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="20"><char ref="#maurice">MAURICE</char></ln>
+            <ln n="21">They are the common herd</ln>
+            <ln n="22">And you could take my word</ln>
+            <ln n="23">You are unique, creme de la creme</ln>
+            <ln n="24">No matter what you do</ln>
+            <ln n="25">I'm on your side</ln>
+            <ln n="26">And if my point of view Is somewhat misty-eyed</ln>
+            <ln n="27">There's nothing clearer in my life</ln>
+            <ln n="28">Than what I wish and feel for you</ln>
+            <ln n="29">And that's a lot</ln>
+            <ln n="30">No matter what</ln>
+            <ln n="31"><char ref="#belle">BELLE</char></ln>
+            <ln n="32">No matter what they say</ln>
+            <ln n="33">You make me proud I love the funny way</ln>
+            <ln n="34">You stand out from the crowd</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="35"><char ref="#maurice">MAURICE</char></ln>
+            <ln n="36">It's my intention my invention</ln>
+            <ln n="37">Shows the world out there one day</ln>
+            <ln n="38">Just what we've got</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="39"><char ref="#belle">BELLE</char></ln>
+            <ln n="40">No matter what</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="41"><char ref="#maurice">MAURICE</char></ln>
+            <ln n="42">Now some may say all fathers just exaggerate</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="43"><char ref="#belle">BELLE</char></ln>
+            <ln n="44">That every daughter's great?</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="45"><char ref="#maurice">MAURICE</char></ln>
+            <ln n="46">You are!</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="47"><char ref="#belle">BELLE</char></ln>
+            <ln n="48">And every daughter tends to say her father's tops</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="49"><char ref="#maurice">MAURICE</char></ln>
+            <ln n="50">She pulls out all the stops</ln>
+            <ln n="51">To praise him</ln>
+            <ln n="52"><char ref="#both">BOTH</char></ln>
+            <ln n="53">And quite rightly!</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="54"><char ref="#maurice">MAURICE</char></ln>
+            <ln n="55">No matter what the pain</ln>
+            <ln n="56">We've come this far I pray that you remain</ln>
+            <ln n="57">Exactly as you are</ln>
+            <ln n="58">This really is a case of father knowing best</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="59"><char ref="#belle">BELLE</char></ln>
+            <ln n="60">And daughter too!</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="61"><char ref="#maurice">MAURICE</char></ln>
+            <ln n="62">You're never strange</ln>
+        </lg>
+
+        <lg n="18">
+            <ln n="63"><char ref="#belle">BELLE</char></ln>
+            <ln n="64">Don't ever change</ln>
+        </lg>
+
+        <lg n="19">
+            <ln n="65"><char ref="#both">BOTH</char></ln>
+            <ln n="66">You’re all I've got</ln>
+            <ln n="67">No matter what</ln>
+        </lg>
+    </song>
+</xml>

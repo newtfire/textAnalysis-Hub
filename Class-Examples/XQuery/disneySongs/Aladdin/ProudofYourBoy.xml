@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>Proud of Your Boy</title>
+        <origin><movie>Aladdin (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer><lyricist ref="#Ashman">Howard
+                Ashman</lyricist></author>
+        <perform><voiceActor ref="#Jacobs" role="#Aladdin">Adam Jacobs</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Aladdin">ALADDIN</char> (Spoken)</ln>
+            <ln n="2">I'm going to become somebody. I don't know how exactly, but I am. I have to...
+                somehow</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="3">(Sung)</ln>
+            <ln n="4">Proud of your boy</ln>
+            <ln n="5">I'll make you proud of your boy</ln>
+            <ln n="6">Believe me, bad as I've been, Ma</ln>
+            <ln n="7">You're in for a pleasant surprise</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="8">I've wasted time</ln>
+            <ln n="9">I've wasted me</ln>
+            <ln n="10">So say I'm slow for my age</ln>
+            <ln n="11">A late bloomer</ln>
+            <ln n="12">Okay, I agree</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="13">That I've been one rotten kid</ln>
+            <ln n="14">Some son, some pride and some joy</ln>
+            <ln n="15">But I'll get over these lousin' up</ln>
+            <ln n="16">Messin' up, screwin' up times</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="17">You'll see, Ma, now comes the better part</ln>
+            <ln n="18">Someone's gonna make good</ln>
+            <ln n="19">Cross his stupid heart</ln>
+            <ln n="20">Make good and finally make you</ln>
+            <ln n="21">Proud of your boy</ln>
+            <ln n="22">Tell me that I've been a louse and loafer</ln>
+            <ln n="23">You won't get a fight here, no ma'am</ln>
+            <ln n="24">Say I'm a goldbrick, a goof-off, no good</ln>
+            <ln n="25">But that couldn't be all that I am</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="26">Water flows under the bridge</ln>
+            <ln n="27">Let it pass, let it go</ln>
+            <ln n="28">There's no good reason that you should believe me</ln>
+            <ln n="29">Not yet, I know, but</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="30">Someday and soon</ln>
+            <ln n="31">I'll make you proud of your boy</ln>
+            <ln n="32">Though I can't make myself taller</ln>
+            <ln n="33">Or smarter or handsome or wise</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="34">I'll do my best, what else can I do?</ln>
+            <ln n="35">Since I wasn't born perfect like Dad or you</ln>
+            <ln n="36">Mom, I will try to</ln>
+            <ln n="37">Try hard to make you</ln>
+            <ln n="38">Proud of your boy</ln>
+        </lg>
+    </song>
+</xml>

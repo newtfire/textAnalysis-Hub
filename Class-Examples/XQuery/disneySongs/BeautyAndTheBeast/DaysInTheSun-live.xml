@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>
+    <title>Days in the Sun</title>
+    <origin>Music from <movie>Beauty and the Beast (Live-Action)</movie></origin>
+    <author>Music and lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Rice">Tim Rice</lyricist></author>
+    <perform>Performed by <voiceActor ref="#Watson" role="#Belle">Emma Watson</voiceActor>, <voiceActor ref="#McDonald" role="#Wardrobe">Audra McDonald</voiceActor>, <voiceActor ref="#Thompson" role="#Mrs. Potts">Emma Thompson</voiceActor>, <voiceActor ref="#Mbatha-Raw" role="#Fifi">Gugu Mbatha-Raw</voiceActor>, <voiceActor ref="#Tucci" role="#Cadenza">Stanley Tucci</voiceActor>, and <voiceActor ref="#Goodman" role="#Young Prince">Rudi Goodman</voiceActor></perform>
+</metadata>
+
+<song>
+<lg n="1">
+    <ln n="1"><char ref="#Beast">Young Prince:</char> Days in the sun</ln>
+    <ln n="2">When my life has barely begun</ln>
+    <ln n="3">Not until my whole life is done</ln>
+    <ln n="4">Will I ever leave you</ln>
+</lg>
+
+<lg n="2">
+    <ln n="5"><char ref="#Cadenza">Cadenza:</char> Will I tremble again</ln>
+    <ln n="6">To my dear one's gorgeous refrain</ln>
+</lg>
+
+<lg n="3">
+    <ln n="7"><char ref="#Lumiere">Lumiere</char> &amp; <char ref="#Fifi">Fifi:</char> Will you now forever remain</ln>
+    <ln n="8">Out of reach of my arms</ln>
+</lg>
+
+<lg n="4">
+    <ln n="9"><char ref="#Potts">Mrs. Potts:</char> Oh, those days in the sun</ln>
+    <ln n="10">What I'd give to relive just one</ln>
+    <ln n="11">Undo what's done</ln>
+    <ln n="12">And bring back the light</ln>
+</lg>
+
+<lg n="5">
+    <ln n="13"><char ref="#Wardrobe">Wardrobe:</char> Oh, I could sing</ln>
+    <ln n="14">Of the pain these dark days bring</ln>
+    <ln n="15">The spell we're under</ln>
+    <ln n="16">Still it's the wonder of us I sing of tonight</ln>
+</lg>
+
+<lg n="6">
+    <ln n="17"><char ref="#Belle">Belle:</char> How in the midst of all this sorrow</ln>
+    <ln n="18">Can so much hope and love endure</ln>
+    <ln n="19">I was innocent and certain</ln>
+    <ln n="20">Now I'm wiser but unsure</ln>
+</lg>
+
+<lg n="7">
+    <ln n="21">I can't go back into my childhood</ln>
+    <ln n="22"><char ref="#Wardrobe">Wardrobe:</char> All those precious days...</ln>
+    <ln n="23"><char ref="#Belle">Belle:</char> One that my father made secure</ln>
+    <ln n="24"><char ref="#Wardrobe">Wardrobe:</char> ...couldn't last</ln>
+</lg>
+
+<lg n="8">
+    <ln n="25"><char ref="#Belle">Belle:</char> I can feel a change in me</ln>
+    <ln n="26">I'm stronger now but still not free</ln>
+</lg>
+
+<lg n="9">
+    <ln n="27"><char ref="#Castleware">All:</char> Days in the sun</ln>
+    <ln n="28">Will return, we must believe</ln>
+    <ln n="29">As lovers do</ln>
+    <ln n="30">That days in the sun will come shining through</ln>
+</lg>
+</song>
+</xml>

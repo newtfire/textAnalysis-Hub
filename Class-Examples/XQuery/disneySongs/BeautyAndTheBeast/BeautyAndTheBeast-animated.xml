@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+<metadata><title>Beauty and the Beast</title>
+<origin>Lyrics from <movie>Beauty and the Beast</movie></origin>
+<author>Music and Lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Ashman">Howard Ashman</lyricist></author>
+<perform>Performed by <voiceActor ref="#Lansbury" role="#Potts">Angela Lansbury</voiceActor> as Mrs. Potts</perform></metadata>
+
+<song>
+<lg n="1">
+    <ln n="1"><char ref="#Potts">Mrs. Potts:</char>Tale as old as time</ln>
+    <ln n="2">True as it can be</ln>
+    <ln n="3">Barely even friends</ln>
+    <ln n="4">Then somebody bends</ln>
+    <ln n="5">Unexpectedly</ln>
+</lg>
+
+<lg n="2">
+    <ln n="6">Just a little change</ln>
+    <ln n="7">Small to say the least</ln>
+    <ln n="8">Both a little scared</ln>
+    <ln n="9">Neither one prepared</ln>
+    <ln n="10">Beauty and the Beast</ln>
+</lg>
+
+<lg n="3">
+    <ln n="11">Ever just the same</ln>
+    <ln n="12">Ever a surprise</ln>
+    <ln n="13">Ever as before</ln>
+    <ln n="14">Ever just as sure</ln>
+    <ln n="15">As the sun will rise</ln>
+</lg>
+    
+<lg n="4">
+    <ln n="16">Tale as old as time</ln>
+    <ln n="17">Tune as old as song</ln>
+    <ln n="18">Bittersweet and strange</ln>
+    <ln n="19">Finding you can change</ln>
+    <ln n="20">Learning you were wrong</ln>
+</lg>
+    
+<lg n="5">
+    <ln n="21">Certain as the sun</ln>
+    <ln n="22">Rising in the east</ln>
+    <ln n="23">Tale as old as time</ln>
+    <ln n="24">Song as old as rhyme</ln>
+    <ln n="25">Beauty and the Beast</ln>
+</lg>
+
+<lg n="6">
+    <ln n="26">Tale as old as time</ln>
+    <ln n="27">Song as old as rhyme</ln>
+    <ln n="28">Beauty and the Beast</ln>
+</lg>
+</song>
+</xml>

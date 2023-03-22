@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>Belle (Reprise)</title>
+        <origin><movie>Beauty and the Beast (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer>
+            <lyricist ref="#Ashman">Howard Ashman</lyricist></author>
+        <perform><voiceActor ref="#Egan" role="#Belle">Susan Egan</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg>
+            <ln><char ref="#Belle">BELLE, spoken</char></ln>
+            <ln>Is he gone?</ln>
+            <ln>Oh, can you imagine?</ln>
+            <ln>He asked me to marry him</ln>
+            <ln>Me, the wife of that boorish, brainless</ln>
+            <ln>(sung)</ln>
+            <ln>"Madame Gaston!"</ln>
+            <ln>Can't you just see it?</ln>
+            <ln>"Madame Gaston!"</ln>
+            <ln>His "little wife", ugh!</ln>
+            <ln>No sir! Not me! I guarantee it!</ln>
+            <ln>I want much more than this provincial life!</ln>
+            <ln>I want adventure in the great wide somewhere</ln>
+            <ln>I want it more than I can tell</ln>
+            <ln>And for once it might be grand</ln>
+            <ln>To have someone understand</ln>
+            <ln>I want so much more than they've got planned</ln>
+        </lg>
+    </song>
+</xml>

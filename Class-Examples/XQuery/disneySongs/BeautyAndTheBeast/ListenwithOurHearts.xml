@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>Listen With Our Hearts</title>
+        <origin><movie>Beauty and the Beast: Belle's Magical World</movie></origin>
+        <author><composer ref="#Cohen">Harvey Cohen</composer></author>
+        <perform>Performed by <voiceActor ref="#OHara" role="#Belle">Paige
+            O'Hara</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1">There are times I think</ln>
+            <ln n="2">That no one seems to listen</ln>
+            <ln n="3">There are times I think they listen</ln>
+            <ln n="4">But don't hear</ln>
+            <ln n="5">There are times I think they hear</ln>
+            <ln n="6">But something's missing</ln>
+            <ln n="7">The thoughts behind the words aren't clear</ln>
+            <ln n="8">So, I think they're saying</ln>
+            <ln n="9">something they're not saying</ln>
+            <ln n="10">They think I mean something</ln>
+            <ln n="11">I don't mean at all</ln>
+            <ln n="12">Do we raise our voice miscommunicating?</ln>
+            <ln n="13">Or simply say nothing at all</ln>
+            <ln n="14">Is there another way to say it</ln>
+            <ln n="15">In a way that can be heard?</ln>
+            <ln n="16">Let me see if I can put it into words</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="17">I can hear you, you can hear me</ln>
+            <ln n="18">When we listen with our hearts</ln>
+            <ln n="19">I understand you, you understand me</ln>
+            <ln n="20">That's the place where we can start</ln>
+            <ln n="21">Words of kindness and forgiveness</ln>
+            <ln n="22">Bring us closer, not apart</ln>
+            <ln n="23">When we speak our minds</ln>
+            <ln n="24">And listen with our hearts</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="25">I can hear you, you can hear me</ln>
+            <ln n="26">When we listen with our hearts</ln>
+            <ln n="27">I understand you, you understand me</ln>
+            <ln n="28">That's the place where we can start</ln>
+            <ln n="29">Words of kindness and forgiveness</ln>
+            <ln n="30">Bring us closer, not apart</ln>
+            <ln n="31">When we speak our minds</ln>
+            <ln n="32">And listen with our hearts</ln>
+            <ln n="33">And listen with our hearts.</ln>
+        </lg>
+    </song>
+</xml>

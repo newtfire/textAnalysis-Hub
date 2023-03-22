@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>A Cut Above the Rest</title>
+        <origin>Lyrics from <movie>Beauty and the Beast: The Enchanted Christmas</movie></origin>
+        <author>Written by <composer ref="#Portman">Rachel Portman</composer> and <composer ref="#Black">Don Black</composer></author>
+        <perform>Performed by <voiceActor ref="#stiers" role="#Cogsworth">David Ogden
+                Stiers</voiceActor>, <voiceActor ref="#orbach" role="#lumiere">Jerry
+                Orbach</voiceActor> and <voiceActor ref="#ohara" role="#Belle">Paige
+                O'Hara</voiceActor></perform>
+        <source>https://www.disneyclips.com/lyrics/lyricsch4.html</source>
+        <source>https://www.imdb.com/title/tt0118692/fullcredits?ref_=tt_ov_wr_sm</source>
+        <length>1:07</length>
+        <timeStamp start="" end=""/>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Lumiere">Lumiere:</char> To each his own, my friend</ln>
+            <ln n="2">You know how to get me stressed</ln>
+            <ln n="3">But when it comes to making</ln>
+            <ln n="4">Christmas special</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="5"><char ref="#Cogsworth">Cogsworth:</char> I'm a cut above the rest</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="6"><char ref="#Lumiere">Lumiere:</char> If you could see things clearly</ln>
+            <ln n="7">You would say that I've been blessed</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="8"><char ref="#Cogsworth">Cogsworth:</char> You can't hold a candle to my
+                timing</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="9"><char ref="#Lumiere">Lumiere:</char> Ahh! I'm a cut above the rest</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="10"><char ref="#Belle">Belle:</char> You belong side by side</ln>
+            <ln n="11">You should never be apart</ln>
+            <ln n="12">Cause when you're both together</ln>
+            <ln n="13">You're really twice as smart</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="14"><char ref="#Cogsworth">Cogsworth, spoken:</char> Twice as smart - she does
+                have a point</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="15"><char ref="#Lumiere">Lumiere:</char> Yes, well, two heads are better than
+                one</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="16"><char ref="#Cogsworth">Cogsworth:</char> I'd say that as a team</ln>
+            <ln n="17">We have got to be the best</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="18"><char ref="#Lumiere">Lumiere:</char> Now we've found something</ln>
+            <ln n="19">We both agree on</ln>
+            <ln n="20">We're a cut above the rest</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="21"><char ref="#Lumiere">Lumiere</char> and <char ref="#Cogsworth">Cogsworth:</char> There's no doubt that as a
+                team</ln>
+            <ln n="22">We two are the very best</ln>
+            <ln n="23">Everyone who knows us must agree</ln>
+            <ln n="24">We're a cut above the rest</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="25"><char ref="#Lumiere">Lumiere</char>, <char ref="#Cogsworth">Cogsworth:</char> and <char ref="#Belle">Belle:</char> There's not doubt that
+                as a team</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="26"><char ref="#Belle">Belle:</char> You two are the very best</ln>
+            <ln n="27">Everyone who knows you must agree</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="28"><char ref="#Lumiere">Lumiere</char> and <char ref="#Cogsworth">Cogsworth:</char> We're a cut...</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="29"><char ref="#Belle">Belle:</char> A cut above...</ln>
+            <ln n="30"><char ref="#Lumiere">Lumiere</char> and <char ref="#Cogsworth">Cogsworth:</char> Above the rest!</ln>
+        </lg>
+    </song>
+</xml>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+    <metadata>
+        <title>These Palace Walls</title>
+        <origin><movie>Aladdin (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer><lyricist ref="#Beguelin">Chad
+                Beguelin</lyricist></author>
+        <perform><voiceActor ref="#Petinaud" role="#Ensemble">Khori Michelle Petinaud</voiceActor>
+            <voiceActor role="#Ensemble" ref="#Altinay">Tia Altinay</voiceActor>
+            <voiceActor role="#Jasmine" ref="#Reed">Courtney Reed</voiceActor>
+            <voiceActor role="#Ensemble" ref="#Wallace">Marisha Wallace</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Jasmine">JASMINE</char> A princess must say this:</ln>
+            <ln n="2">"A princess must marry a total stranger", it's absurd!</ln>
+            <ln n="3">Suitors talk of love but it's an act</ln>
+            <ln n="4">Merely meant to throw me</ln>
+            <ln n="5">How could someone love me when in fact</ln>
+            <ln n="6">They don't know me</ln>
+            <ln n="7">They want my royal treasure</ln>
+            <ln n="8">When all is said and done</ln>
+            <ln n="9">It's time for a desperate measure</ln>
+            <ln n="10">So I wonder</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="11">Why shouldn't I fly so far from here?</ln>
+            <ln n="12">I know the girl I might become here</ln>
+            <ln n="13">Sad and confined and always locked behind these palace walls!</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="14"><char ref="#Attendant1">ATTENDANT #1, spoken</char></ln>
+            <ln n="15">I don't know princess, for someone like you the outside world might be kind
+                of overwhelming</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="16"><char ref="#Jasmine">JASMINE, spoken</char></ln>
+            <ln n="17">Is that a promise?</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="18"><char ref="#Attendant2">ATTENDANT #2, spoken</char></ln>
+            <ln n="19">I think it would do her some good</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="20"><char ref="#Jasmine">JASMINE, spoken</char></ln>
+            <ln n="21">You do?</ln>
+            <ln n="22"><char ref="#">ATTENDANT #2, spoken</char></ln>
+            <ln n="23">Honey I've never seen somebody who needed to get out more</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="24"><char ref="#Attendants">ATTENDANTS</char></ln>
+            <ln n="25">Told to show devotion everyday</ln>
+            <ln n="26">And not second guess it</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="27"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="28">If a new emotion comes my way</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="29"><char ref="#Attendants">ATTENDANTS</char></ln>
+            <ln n="30">You suppress it</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="31"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="32">What would be your suggestion?</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="33"><char ref="#Attendants">ATTENDANTS</char></ln>
+            <ln n="34">Stand on your own two feet</ln>
+            <ln n="35">And ask why a certain question keeps repeating</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="36"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="37">Why shouldn't I fly so far from here?</ln>
+            <ln n="38">I know the girl I might become here</ln>
+            <ln n="39">Follow your heart or you might end up cold and callous</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="40"><char ref="#All">ALL</char></ln>
+            <ln n="41">Love comes to those who go and find it</ln>
+            <ln n="42">If you've a dream then stand behind it</ln>
+            <ln n="43"><char ref="#Jasmine">JASMINE</char></ln>
+            <ln n="44">Maybe there's more beyond these palace walls</ln>
+            <ln n="45">What if I dared</ln>
+            <ln n="46">What if I tried</ln>
+            <ln n="47">Am I prepared for what's outside</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="48">Why shouldn't I fly so far from here?</ln>
+            <ln n="49">Something awaits beyond these palace walls</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="50"><char ref="#All">ALL</char></ln>
+            <ln n="51">Something waits beyond these palace walls</ln>
+        </lg>
+    </song>
+</xml>

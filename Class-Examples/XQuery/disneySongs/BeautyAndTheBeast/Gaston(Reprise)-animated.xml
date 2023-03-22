@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>
+<title>Gaston (Reprise)</title>
+<origin>Lyrics from <movie>Beauty and the Beast</movie></origin>
+<author>Music and Lyrics by <composer ref="#Menken">Alan Menken</composer> and <lyricist ref="#Ashman">Howard Ashman</lyricist></author>
+<perform>Performed by <voiceActor ref="#White" role="#Gaston">Richard White</voiceActor>, <voiceActor ref="#Corti" role="#Lefou">Jesse Corti</voiceActor> and chorus</perform>
+</metadata>
+    
+<song>
+<lg n="1">
+    <ln n="1"><char ref="#Gaston">Gaston:</char> Lefou, I'm afraid I've been thinking</ln>
+</lg>
+
+<lg n="2">
+    <ln n="2"><char ref="#Lefou">Lefou:</char> A dangerous pastime</ln>
+</lg>
+
+<lg n="3">
+    <ln n="3"><char ref="#Gaston">Gaston:</char> I know</ln>
+    <ln n="4">But that wacky old coot is Belle's father</ln>
+    <ln n="5">And his sanity's only so-so</ln>
+    <ln n="6">Now the wheels in my head have been turning</ln>
+    <ln n="7">Since I looked at that loony old man</ln>
+    <ln n="8">See, I promised myself I'd be married to Belle</ln>
+    <ln n="9">And right now I'm evolving a plan</ln>
+</lg>
+
+<lg n="4">
+    <ln n="10"><char ref="#Gaston">Gaston</char> &amp; <char ref="#Lefou">Lefou:</char> No one plots like Gaston</ln>
+</lg>
+
+<lg n="5">
+    <ln n="11"><char ref="#Gaston">Gaston:</char> Takes cheap shots like Gaston</ln>
+</lg>
+
+<lg n="6">
+    <ln n="12"><char ref="#Lefou">Lefou:</char> Likes to persecute harmless crackpots like Gaston</ln>
+</lg>
+
+<lg n="7">
+    <ln n="13"><char ref="#Townies">Townies:</char> For his marriage we soon will be celebrating</ln>
+    <ln n="14">My, what a guy</ln>
+    <ln n="15">Gaston!</ln>
+</lg>
+</song>
+</xml>

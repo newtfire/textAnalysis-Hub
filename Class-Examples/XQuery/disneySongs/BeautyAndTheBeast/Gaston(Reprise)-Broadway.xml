@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><xml>
+    <metadata>
+        <title>Gaston (Reprise) </title>
+        <origin><movie>Beauty and the Beast (Broadway)</movie></origin>
+        <author><composer ref="#Menken">Alan Menken</composer>
+            <lyricist ref="#Rice">Tim Rice</lyricist><lyricist ref="#Ashman">Howard
+                Ashman</lyricist></author>
+        <perform><voiceActor ref="#Moses" role="#Gaston">Burke Moses</voiceActor>
+            <voiceActor ref="#Raskin" role="#LeFou">Kenny Raskin</voiceActor></perform>
+    </metadata>
+    <song>
+        <lg n="1">
+            <ln n="1"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="2">Crazy old Maurice, hmmm?</ln>
+            <ln n="3">Crazy old Maurice...</ln>
+            <ln n="4">LeFou, I'm afraid I've been thinking</ln>
+        </lg>
+
+        <lg n="2">
+            <ln n="5"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="6">A dangerous pastime</ln>
+        </lg>
+
+        <lg n="3">
+            <ln n="7"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="8">I know</ln>
+            <ln n="9">But that wacky old coot is Belle's father</ln>
+            <ln n="10">And his sanity's only "so-so"</ln>
+            <ln n="11">Now the wheels in my head have been turning</ln>
+            <ln n="12">Since I looked at that loony, old man</ln>
+            <ln n="13">See, I've promised myself I'd be married to Belle</ln>
+            <ln n="14">And right now I'm evolving a plan</ln>
+        </lg>
+
+        <lg n="4">
+            <ln n="15"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="16">If I . . . (whisper)</ln>
+        </lg>
+
+        <lg n="5">
+            <ln n="17"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="18">Yes?</ln>
+        </lg>
+
+        <lg n="6">
+            <ln n="19"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="20">Then we . . . (whisper)</ln>
+            <ln n="21"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="22">No! Would she .</ln>
+        </lg>
+
+        <lg n="7">
+            <ln n="23"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="24">(whisper) Guess!</ln>
+        </lg>
+
+        <lg n="8">
+            <ln n="25"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="26">Now I get it!</ln>
+        </lg>
+
+        <lg n="9">
+            <ln n="27"><char ref="#">Both</char></ln>
+            <ln n="28">Let's go! No one plots like Gaston</ln>
+        </lg>
+
+        <lg n="10">
+            <ln n="29"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="30">Takes cheap shots like Gaston</ln>
+        </lg>
+
+        <lg n="11">
+            <ln n="31"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="32">Plans to persecute harmless crackpots like Gaston</ln>
+        </lg>
+
+        <lg n="12">
+            <ln n="33"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="34">Yes, I'm endlessly, wildly resourceful</ln>
+        </lg>
+
+        <lg n="13">
+            <ln n="35"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="36">As down to the depths you descend</ln>
+        </lg>
+
+        <lg n="14">
+            <ln n="37"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="38">I won't even be mildly remorseful</ln>
+            <ln n="39"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="40">Just as long as I (you) get what I (you) want in the end</ln>
+        </lg>
+
+        <lg n="15">
+            <ln n="41"><char ref="#Gaston">Gaston</char></ln>
+            <ln n="42">Who has brains like Gaston?</ln>
+        </lg>
+
+        <lg n="16">
+            <ln n="43"><char ref="#Lefou">Lefou</char></ln>
+            <ln n="44">Entertains like Gaston?</ln>
+        </lg>
+
+        <lg n="17">
+            <ln n="45"><char ref="#">Both</char></ln>
+            <ln n="46">Who can make up these endless refrains like Gaston?</ln>
+            <ln n="47">And his marriage we soon will be celebrating</ln>
+            <ln n="48">My, what a guy</ln>
+            <ln n="49">Gaston!</ln>
+        </lg>
+    </song>
+</xml>

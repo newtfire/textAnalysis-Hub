@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNg/disneySongs.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../RelaxNg/disneySongs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><xml>
+<metadata>
+    <title>Stories</title>
+    <origin>Lyrics from <movie>Beauty and the Beast: The Enchanted Christmas</movie></origin>
+    <author>Written by <composer ref="#Portman">Rachel Portman</composer> and <composer ref="#Black">Don Black</composer></author>
+    <perform>Performed by <voiceActor ref="#O'Hara" role="#Belle">Paige O'Hara</voiceActor> as Belle</perform>
+    <source>https://www.disneyclips.com/lyrics/lyricsch2.html</source>
+    <source>https://www.imdb.com/title/tt0118692/fullcredits?ref_=tt_ov_wr_sm</source>
+    <length>2:23</length>
+    <timeStamp start="11:50" end="14:13"/>
+</metadata>
+
+<song> <!--11:50 - 02:23-->
+<lg n="1">
+    <ln n="1"><char ref="#Belle">Belle:</char> When I get to know him</ln>
+    <ln n="2">We'll find more things to say</ln>
+    <ln n="3">One day I will reach him</ln>
+    <ln n="4">There has to be a way</ln>
+</lg>
+
+<lg n="2">
+    <ln n="5">Everyone needs someone</ln>
+    <ln n="6">He must need someone, too</ln>
+    <ln n="7">When I get to know him better</ln>
+    <ln n="8">Here's what I will do</ln>
+</lg>
+
+<lg n="3">
+    <ln n="9">I'll read him stories</ln>
+    <ln n="10">From picture books</ln>
+    <ln n="11">All filled with wonder</ln>
+    <ln n="12">Magic worlds where</ln>
+    <ln n="13">The impossible</ln>
+    <ln n="14">Becomes the everyday</ln>
+</lg>
+
+<lg n="4">
+    <ln n="15">We'll find a mountaintop</ln>
+    <ln n="16">And some moonbeams</ln>
+    <ln n="17">To sit under</ln>
+    <ln n="18">I'll lead because I know the way</ln>
+</lg>
+
+<lg n="5">
+    <ln n="19">So much to discover</ln>
+    <ln n="20">I do it all the time</ln>
+    <ln n="21">I could live inside bright pages</ln>
+    <ln n="22">Where the words all rhyme</ln>
+</lg>
+
+<lg n="6">
+    <ln n="23">We will slay the dragons</ln>
+    <ln n="24">That still follow him around</ln>
+    <ln n="25">And he'll smile, yes he'll smile</ln>
+    <ln n="26">As his dreams leave the ground</ln>
+</lg>
+
+<lg n="7">
+    <ln n="27">Stories and stories</ln>
+    <ln n="28">'Bout mermaids, kings</ln>
+    <ln n="29">And sunken treasure&gt;</ln>
+    <ln n="30">Magic worlds where the impossible</ln>
+    <ln n="31">Becomes the everyday</ln>
+</lg>
+
+<lg n="8">
+    <ln n="32">I know a tiny place</ln>
+    <ln n="33">Just a dot, too small to measure</ln>
+    <ln n="34">I'll take him there</ln>
+    <ln n="35">I know the way</ln>
+</lg>
+
+<lg n="9">
+    <ln n="36">Stories 'bout heroes</ln>
+    <ln n="37">Who overcame their deepest sorrow</ln>
+    <ln n="38">They'll put hope into his heart again</ln>
+    <ln n="39">He'll cherish every day</ln>
+</lg>
+
+<lg n="10">
+    <ln n="40">He'll find a better world</ln>
+    <ln n="41">And the strength to face tomorrow</ln>
+    <ln n="42">I'm sure that when he knows the way</ln>
+    <ln n="43">He'll want to stay</ln>
+</lg>
+</song>
+</xml>
