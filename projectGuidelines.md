@@ -7,7 +7,7 @@
      * Research methods involve a combination of document analysis, structured markup, and natural language processing over structures and semi-structured text.
 
 * Projects will have a public-facing web presence via the project GitHub repo.
-     * Project sites must acknowledge, document, and link to the sources of their documents a
+     * Project sites must acknowledge, document, and link to the sources of their documents.
      * Projects may prepare their own reading views of their curated texts when these are in the public domain or not protected by copyright.
      
 * Project sites must visualize and discuss their document data.
