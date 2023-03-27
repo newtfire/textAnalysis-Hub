@@ -1,0 +1,1784 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e" class="pygal-chart" viewBox="0 0 800 600">
+    <!--Generated with pygal 2.4.0 (lxml) ©Kozea 2012-2016 on 2021-04-16-->
+    <!--http://pygal.org-->
+    <!--http://github.com/Kozea/pygal-->
+    <defs>
+        <style type="text/css">#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e{-webkit-user-select:none;-webkit-font-smoothing:antialiased;font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .title{font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;font-size:16px}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .legends .legend text{font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;font-size:14px}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis text{font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;font-size:10px}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis text.major{font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;font-size:10px}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay text.value{font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;font-size:16px}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay text.label{font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;font-size:10px}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .tooltip{font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;font-size:14px}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e text.no_data{font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;font-size:64px}
+#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e{background-color:rgba(249,249,249,1)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e path,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e line,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e rect,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e circle{-webkit-transition:150ms;-moz-transition:150ms;transition:150ms}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .graph &gt; .background{fill:rgba(249,249,249,1)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .plot &gt; .background{fill:rgba(255,255,255,1)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .graph{fill:rgba(0,0,0,.87)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e text.no_data{fill:rgba(0,0,0,1)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .title{fill:rgba(0,0,0,1)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .legends .legend text{fill:rgba(0,0,0,.87)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .legends .legend:hover text{fill:rgba(0,0,0,1)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis .line{stroke:rgba(0,0,0,1)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis .guide.line{stroke:rgba(0,0,0,.54)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis .major.line{stroke:rgba(0,0,0,.87)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis text.major{fill:rgba(0,0,0,1)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis.y .guides:hover .guide.line,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .line-graph .axis.x .guides:hover .guide.line,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .stackedline-graph .axis.x .guides:hover .guide.line,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .xy-graph .axis.x .guides:hover .guide.line{stroke:rgba(0,0,0,1)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis .guides:hover text{fill:rgba(0,0,0,1)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .reactive{fill-opacity:.7;stroke-opacity:.8}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .ci{stroke:rgba(0,0,0,.87)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .reactive.active,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .active .reactive{fill-opacity:.8;stroke-opacity:.9;stroke-width:4}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .ci .reactive.active{stroke-width:1.5}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .series text{fill:rgba(0,0,0,1)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .tooltip rect{fill:rgba(255,255,255,1);stroke:rgba(0,0,0,1);-webkit-transition:opacity 150ms;-moz-transition:opacity 150ms;transition:opacity 150ms}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .tooltip .label{fill:rgba(0,0,0,.87)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .tooltip .label{fill:rgba(0,0,0,.87)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .tooltip .legend{font-size:.8em;fill:rgba(0,0,0,.54)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .tooltip .x_label{font-size:.6em;fill:rgba(0,0,0,1)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .tooltip .xlink{font-size:.5em;text-decoration:underline}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .tooltip .value{font-size:1.5em}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .bound{font-size:.5em}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .max-value{font-size:.75em;fill:rgba(0,0,0,.54)}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .map-element{fill:rgba(255,255,255,1);stroke:rgba(0,0,0,.54) !important}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .map-element .reactive{fill-opacity:inherit;stroke-opacity:inherit}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-0,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-0 a:visited{stroke:#f44336;fill:#f44336}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-1,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-1 a:visited{stroke:#3f51b5;fill:#3f51b5}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-2,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-2 a:visited{stroke:#009688;fill:#009688}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-3,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-3 a:visited{stroke:#ffc107;fill:#ffc107}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-4,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-4 a:visited{stroke:#ff5722;fill:#ff5722}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-5,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-5 a:visited{stroke:#9c27b0;fill:#9c27b0}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-6,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-6 a:visited{stroke:#03a9f4;fill:#03a9f4}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-7,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-7 a:visited{stroke:#8bc34a;fill:#8bc34a}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-8,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-8 a:visited{stroke:#ff9800;fill:#ff9800}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-9,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-9 a:visited{stroke:#e91e63;fill:#e91e63}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-10,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-10 a:visited{stroke:#2196f3;fill:#2196f3}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-11,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-11 a:visited{stroke:#4caf50;fill:#4caf50}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-12,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-12 a:visited{stroke:#ffeb3b;fill:#ffeb3b}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-13,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-13 a:visited{stroke:#673ab7;fill:#673ab7}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-14,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-14 a:visited{stroke:#00bcd4;fill:#00bcd4}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-15,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-15 a:visited{stroke:#cddc39;fill:#cddc39}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-16,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-16 a:visited{stroke:#9e9e9e;fill:#9e9e9e}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-17,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-17 a:visited{stroke:#607d8b;fill:#607d8b}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-18,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-18 a:visited{stroke:#f21e0e;fill:#f21e0e}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-19,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-19 a:visited{stroke:#344396;fill:#344396}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-20,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-20 a:visited{stroke:#006c62;fill:#006c62}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-21,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-21 a:visited{stroke:#dca500;fill:#dca500}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-22,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-22 a:visited{stroke:#f73b00;fill:#f73b00}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-23,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-23 a:visited{stroke:#7d1f8e;fill:#7d1f8e}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-24,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-24 a:visited{stroke:#028cca;fill:#028cca}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-25,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-25 a:visited{stroke:#76aa38;fill:#76aa38}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-26,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-26 a:visited{stroke:#d57f00;fill:#d57f00}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-27,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-27 a:visited{stroke:#c91451;fill:#c91451}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-28,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-28 a:visited{stroke:#0c81de;fill:#0c81de}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-29,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-29 a:visited{stroke:#3f9243;fill:#3f9243}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-30,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-30 a:visited{stroke:#ffe711;fill:#ffe711}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-31,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-31 a:visited{stroke:#553097;fill:#553097}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-32,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-32 a:visited{stroke:#0097aa;fill:#0097aa}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-33,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-33 a:visited{stroke:#b9c823;fill:#b9c823}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-34,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-34 a:visited{stroke:#898989;fill:#898989}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-35,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-35 a:visited{stroke:#4f6772;fill:#4f6772}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-36,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-36 a:visited{stroke:#cb180b;fill:#cb180b}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-37,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-37 a:visited{stroke:#293577;fill:#293577}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-38,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-38 a:visited{stroke:#00423c;fill:#00423c}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-39,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-39 a:visited{stroke:#b28500;fill:#b28500}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-40,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-40 a:visited{stroke:#cd3100;fill:#cd3100}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-41,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-41 a:visited{stroke:#5f186b;fill:#5f186b}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-42,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-42 a:visited{stroke:#026fa1;fill:#026fa1}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-43,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-43 a:visited{stroke:#608b2e;fill:#608b2e}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-44,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-44 a:visited{stroke:#ab6600;fill:#ab6600}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-45,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-45 a:visited{stroke:#a31042;fill:#a31042}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-46,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-46 a:visited{stroke:#0a6ab6;fill:#0a6ab6}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-47,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-47 a:visited{stroke:#337435;fill:#337435}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-48,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-48 a:visited{stroke:#e6ce00;fill:#e6ce00}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-49,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-49 a:visited{stroke:#432677;fill:#432677}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-50,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-50 a:visited{stroke:#007180;fill:#007180}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-51,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-51 a:visited{stroke:#97a41d;fill:#97a41d}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-52,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-52 a:visited{stroke:#747474;fill:#747474}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-53,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-53 a:visited{stroke:#3e5059;fill:#3e5059}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-54,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-54 a:visited{stroke:#a31309;fill:#a31309}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-55,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-55 a:visited{stroke:#1e2757;fill:#1e2757}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-56,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-56 a:visited{stroke:#001816;fill:#001816}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-57,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-57 a:visited{stroke:#886600;fill:#886600}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-58,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-58 a:visited{stroke:#a32700;fill:#a32700}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-59,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-59 a:visited{stroke:#401049;fill:#401049}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-60,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-60 a:visited{stroke:#015377;fill:#015377}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-61,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-61 a:visited{stroke:#4a6b24;fill:#4a6b24}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-62,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-62 a:visited{stroke:#814d00;fill:#814d00}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-63,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-63 a:visited{stroke:#7d0c32;fill:#7d0c32}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-64,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-64 a:visited{stroke:#08538e;fill:#08538e}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-65,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-65 a:visited{stroke:#265728;fill:#265728}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-66,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-66 a:visited{stroke:#bca900;fill:#bca900}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-67,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-67 a:visited{stroke:#311c57;fill:#311c57}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-68,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-68 a:visited{stroke:#004c56;fill:#004c56}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-69,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-69 a:visited{stroke:#768017;fill:#768017}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-70,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-70 a:visited{stroke:#5f5f5f;fill:#5f5f5f}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-71,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-71 a:visited{stroke:#2c3a40;fill:#2c3a40}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-72,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-72 a:visited{stroke:#7b0f07;fill:#7b0f07}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-73,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-73 a:visited{stroke:#141938;fill:#141938}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-74,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-74 a:visited{stroke:#000000;fill:#000000}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-75,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-75 a:visited{stroke:#5e4600;fill:#5e4600}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-76,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-76 a:visited{stroke:#791d00;fill:#791d00}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-77,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-77 a:visited{stroke:#220826;fill:#220826}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-78,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-78 a:visited{stroke:#01364e;fill:#01364e}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-79,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-79 a:visited{stroke:#344c19;fill:#344c19}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-80,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-80 a:visited{stroke:#573400;fill:#573400}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-81,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-81 a:visited{stroke:#560823;fill:#560823}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-82,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-82 a:visited{stroke:#063b66;fill:#063b66}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-83,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-83 a:visited{stroke:#193a1a;fill:#193a1a}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-84,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-84 a:visited{stroke:#928300;fill:#928300}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-85,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-85 a:visited{stroke:#1f1137;fill:#1f1137}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-86,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-86 a:visited{stroke:#00272c;fill:#00272c}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-87,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-87 a:visited{stroke:#555c10;fill:#555c10}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-88,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .color-88 a:visited{stroke:#4a4a4a;fill:#4a4a4a}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-0 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-1 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-2 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-3 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-4 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-5 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-6 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-7 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-8 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-9 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-10 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-11 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-12 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-13 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-14 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-15 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-16 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-17 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-18 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-19 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-20 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-21 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-22 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-23 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-24 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-25 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-26 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-27 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-28 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-29 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-30 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-31 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-32 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-33 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-34 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-35 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-36 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-37 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-38 text{fill:white}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-39 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-40 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-41 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-42 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-43 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-44 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-45 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-46 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-47 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-48 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-49 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-50 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-51 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-52 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-53 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-54 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-55 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-56 text{fill:white}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-57 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-58 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-59 text{fill:white}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-60 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-61 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-62 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-63 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-64 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-65 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-66 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-67 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-68 text{fill:white}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-69 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-70 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-71 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-72 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-73 text{fill:white}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-74 text{fill:white}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-75 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-76 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-77 text{fill:white}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-78 text{fill:white}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-79 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-80 text{fill:white}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-81 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-82 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-83 text{fill:white}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-84 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-85 text{fill:white}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-86 text{fill:white}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-87 text{fill:black}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .text-overlay .color-88 text{fill:black}
+#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e text.no_data{text-anchor:middle}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .guide.line{fill:none}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .centered{text-anchor:middle}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .title{text-anchor:middle}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .legends .legend text{fill-opacity:1}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis.x text{text-anchor:middle}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis.x:not(.web) text[transform]{text-anchor:start}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis.x:not(.web) text[transform].backwards{text-anchor:end}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis.y text{text-anchor:end}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis.y text[transform].backwards{text-anchor:start}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis.y2 text{text-anchor:start}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis.y2 text[transform].backwards{text-anchor:end}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis .guide.line{stroke-dasharray:4,4}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis .major.guide.line{stroke-dasharray:6,6}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .horizontal .axis.y .guide.line,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .horizontal .axis.y2 .guide.line,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .vertical .axis.x .guide.line{opacity:0}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .horizontal .axis.always_show .guide.line,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .vertical .axis.always_show .guide.line{opacity:1 !important}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis.y .guides:hover .guide.line,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis.y2 .guides:hover .guide.line,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis.x .guides:hover .guide.line{opacity:1}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .axis .guides:hover text{opacity:1}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .nofill{fill:none}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .subtle-fill{fill-opacity:.2}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .dot{stroke-width:1px;fill-opacity:1}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .dot.active{stroke-width:5px}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .dot.negative{fill:transparent}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e text,#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e tspan{stroke:none !important}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .series text.active{opacity:1}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .tooltip rect{fill-opacity:.95;stroke-width:.5}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .tooltip text{fill-opacity:1}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .showable{visibility:hidden}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .showable.shown{visibility:visible}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .gauge-background{fill:rgba(229,229,229,1);stroke:none}#chart-6980e811-c135-4872-9e90-ccf1fdd6eb9e .bg-lines{stroke:rgba(249,249,249,1);stroke-width:2px}</style>
+        <script type="text/javascript">window.pygal = window.pygal || {};window.pygal.config =
+            window.pygal.config || {};window.pygal.config['6980e811-c135-4872-9e90-ccf1fdd6eb9e'] =
+            {"allow_interruptions": false, "box_mode": "extremes", "classes": ["pygal-chart"],
+            "css": ["file://style.css", "file://graph.css"], "defs": [], "disable_xml_declaration":
+            false, "dots_size": 2.5, "dynamic_print_values": false, "explicit_size": false, "fill":
+            false, "force_uri_protocol": "https", "formatter": null, "half_pie": false, "height":
+            600, "include_x_axis": false, "inner_radius": 0, "interpolate": null,
+            "interpolation_parameters": {}, "interpolation_precision": 250, "inverse_y_axis": false,
+            "js": ["//kozea.github.io/pygal.js/2.0.x/pygal-tooltips.min.js"], "legend_at_bottom":
+            false, "legend_at_bottom_columns": null, "legend_box_size": 12, "logarithmic": false,
+            "margin": 20, "margin_bottom": null, "margin_left": null, "margin_right": null,
+            "margin_top": null, "max_scale": 16, "min_scale": 4, "missing_value_fill_truncation":
+            "x", "no_data_text": "No data", "no_prefix": false, "order_min": null, "pretty_print":
+            false, "print_labels": false, "print_values": false, "print_values_position": "center",
+            "print_zeroes": true, "range": null, "rounded_bars": null, "secondary_range": null,
+            "show_dots": true, "show_legend": true, "show_minor_x_labels": true,
+            "show_minor_y_labels": true, "show_only_major_dots": false, "show_x_guides": false,
+            "show_x_labels": true, "show_y_guides": true, "show_y_labels": true, "spacing": 10,
+            "stack_from_top": false, "strict": false, "stroke": true, "stroke_style": null, "style":
+            {"background": "rgba(249, 249, 249, 1)", "ci_colors": [], "colors": ["#F44336",
+            "#3F51B5", "#009688", "#FFC107", "#FF5722", "#9C27B0", "#03A9F4", "#8BC34A", "#FF9800",
+            "#E91E63", "#2196F3", "#4CAF50", "#FFEB3B", "#673AB7", "#00BCD4", "#CDDC39", "#9E9E9E",
+            "#607D8B"], "font_family": "Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+            "foreground": "rgba(0, 0, 0, .87)", "foreground_strong": "rgba(0, 0, 0, 1)",
+            "foreground_subtle": "rgba(0, 0, 0, .54)", "guide_stroke_dasharray": "4,4",
+            "label_font_family": "Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+            "label_font_size": 10, "legend_font_family": "Consolas, \"Liberation Mono\", Menlo,
+            Courier, monospace", "legend_font_size": 14, "major_guide_stroke_dasharray": "6,6",
+            "major_label_font_family": "Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+            "major_label_font_size": 10, "no_data_font_family": "Consolas, \"Liberation Mono\",
+            Menlo, Courier, monospace", "no_data_font_size": 64, "opacity": ".7", "opacity_hover":
+            ".8", "plot_background": "rgba(255, 255, 255, 1)", "stroke_opacity": ".8",
+            "stroke_opacity_hover": ".9", "title_font_family": "Consolas, \"Liberation Mono\",
+            Menlo, Courier, monospace", "title_font_size": 16, "tooltip_font_family": "Consolas,
+            \"Liberation Mono\", Menlo, Courier, monospace", "tooltip_font_size": 14, "transition":
+            "150ms", "value_background": "rgba(229, 229, 229, 1)", "value_colors": [],
+            "value_font_family": "Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+            "value_font_size": 16, "value_label_font_family": "Consolas, \"Liberation Mono\", Menlo,
+            Courier, monospace", "value_label_font_size": 10}, "title": "All Places in Blues
+            Collection", "tooltip_border_radius": 0, "tooltip_fancy_mode": true, "truncate_label":
+            null, "truncate_legend": null, "width": 800, "x_label_rotation": 0, "x_labels": null,
+            "x_labels_major": null, "x_labels_major_count": null, "x_labels_major_every": null,
+            "x_title": null, "xrange": null, "y_label_rotation": 0, "y_labels": null,
+            "y_labels_major": null, "y_labels_major_count": null, "y_labels_major_every": null,
+            "y_title": null, "zero": 0, "legends": ["Chicago", "Texas", "New Orleans", "Tennessee",
+            "Kansas City", "Mississippi", "San Francisco", "LA", "California", "Dallas", "Florida",
+            "Corrina", "Arkansas", "China", "Memphis", "Chickasaw", "England", "Louisiana",
+            "Mexico", "Spain", "Hollywood", "Caldonia", "St Louis", "Natchez Mississippi", "South
+            Carolina", "New York City", "Gainesville", "Jackson Park", "Vicksburg", "Vietnam",
+            "Korea", "Cairo", "Pittsburgh", "Washington", "Atlanta", "Alabama", "Birmingham",
+            "Tokyo", "Ohio", "New York", "Moscow", "Cuba", "Memphis Slim", "Aberdeen", "Belle
+            Louise", "Tillie", "San Antonio", "Jacksonville", "Tupelo Mississippi", "the Empire
+            State", "Collin", "break", "Sugar", "ZZ", "Houston", "Hopin", "Missouri", "Kentucky",
+            "Los Angeles", "Georgia", "Paris", "Lucille", "Oklahoma", "Panama", "San Salvador",
+            "Peru", "Vegas", "Manos", "Cincinnati", "Mississip", "Canada", "Toronto", "Russia",
+            "Denmark", "Jaspar", "Illinois", "Yeeeaah", "the Hawaiian Islands", "Ethiopia", "the
+            Windy City", "Audience", "Jackson Tennessee", "Jackson", "Beale", "Bessie", "Rome",
+            "Berlin", "Stockholm", "Oakland"]}</script>
+        <script type="text/javascript"
+            xlink:href="https://kozea.github.io/pygal.js/2.0.x/pygal-tooltips.min.js"/>
+    </defs>
+    <title>All Places in Blues Collection</title>
+    <g class="graph bar-graph vertical">
+        <rect x="0" y="0" width="800" height="600" class="background"/>
+        <g transform="translate(190, 46)" class="plot">
+            <rect x="0" y="0" width="590.0" height="534" class="background"/>
+            <g class="axis y always_show">
+                <g class="guides">
+                    <path d="M0.000000 523.730769 h590.000000" class="axis major line"/>
+                    <text x="-5" y="527.2307692307693" class="major">0</text>
+                    <title>0</title>
+                </g>
+                <g class="guides">
+                    <path d="M0.000000 490.604218 h590.000000" class="guide line"/>
+                    <text x="-5" y="494.1042183622829" class="">2</text>
+                    <title>2</title>
+                </g>
+                <g class="guides">
+                    <path d="M0.000000 457.477667 h590.000000" class="guide line"/>
+                    <text x="-5" y="460.9776674937965" class="">4</text>
+                    <title>4</title>
+                </g>
+                <g class="guides">
+                    <path d="M0.000000 424.351117 h590.000000" class="guide line"/>
+                    <text x="-5" y="427.85111662531017" class="">6</text>
+                    <title>6</title>
+                </g>
+                <g class="guides">
+                    <path d="M0.000000 391.224566 h590.000000" class="guide line"/>
+                    <text x="-5" y="394.72456575682384" class="">8</text>
+                    <title>8</title>
+                </g>
+                <g class="guides">
+                    <path d="M0.000000 358.098015 h590.000000" class="major guide line"/>
+                    <text x="-5" y="361.5980148883375" class="major">10</text>
+                    <title>10</title>
+                </g>
+                <g class="guides">
+                    <path d="M0.000000 324.971464 h590.000000" class="guide line"/>
+                    <text x="-5" y="328.47146401985117" class="">12</text>
+                    <title>12</title>
+                </g>
+                <g class="guides">
+                    <path d="M0.000000 291.844913 h590.000000" class="guide line"/>
+                    <text x="-5" y="295.3449131513648" class="">14</text>
+                    <title>14</title>
+                </g>
+                <g class="guides">
+                    <path d="M0.000000 258.718362 h590.000000" class="guide line"/>
+                    <text x="-5" y="262.21836228287845" class="">16</text>
+                    <title>16</title>
+                </g>
+                <g class="guides">
+                    <path d="M0.000000 225.591811 h590.000000" class="guide line"/>
+                    <text x="-5" y="229.09181141439205" class="">18</text>
+                    <title>18</title>
+                </g>
+                <g class="guides">
+                    <path d="M0.000000 192.465261 h590.000000" class="major guide line"/>
+                    <text x="-5" y="195.96526054590572" class="major">20</text>
+                    <title>20</title>
+                </g>
+                <g class="guides">
+                    <path d="M0.000000 159.338710 h590.000000" class="guide line"/>
+                    <text x="-5" y="162.8387096774194" class="">22</text>
+                    <title>22</title>
+                </g>
+                <g class="guides">
+                    <path d="M0.000000 126.212159 h590.000000" class="guide line"/>
+                    <text x="-5" y="129.71215880893305" class="">24</text>
+                    <title>24</title>
+                </g>
+                <g class="guides">
+                    <path d="M0.000000 93.085608 h590.000000" class="guide line"/>
+                    <text x="-5" y="96.58560794044666" class="">26</text>
+                    <title>26</title>
+                </g>
+                <g class="guides">
+                    <path d="M0.000000 59.959057 h590.000000" class="guide line"/>
+                    <text x="-5" y="63.45905707196033" class="">28</text>
+                    <title>28</title>
+                </g>
+                <g class="guides">
+                    <path d="M0.000000 26.832506 h590.000000" class="major guide line"/>
+                    <text x="-5" y="30.332506203473997" class="major">30</text>
+                    <title>30</title>
+                </g>
+            </g>
+            <g class="series serie-0 color-0">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="45.72117545375972" y="10.269230769230717" rx="0" ry="0"
+                            width="4.936214347450302" height="513.4615384615386"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">31</desc>
+                        <desc class="x centered">48.18928262748487</desc>
+                        <desc class="y centered">267.0</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-1 color-1">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="51.3305099394987" y="26.832506203473997" rx="0" ry="0"
+                            width="4.936214347450302" height="496.8982630272953"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">30</desc>
+                        <desc class="x centered">53.79861711322385</desc>
+                        <desc class="y centered">275.2816377171216</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-2 color-2">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="56.93984442523768" y="93.08560794044666" rx="0" ry="0"
+                            width="4.936214347450302" height="430.6451612903226"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">26</desc>
+                        <desc class="x centered">59.40795159896283</desc>
+                        <desc class="y centered">308.40818858560795</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-3 color-3">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="62.54917891097666" y="242.15508684863528" rx="0" ry="0"
+                            width="4.936214347450302" height="281.575682382134"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">17</desc>
+                        <desc class="x centered">65.01728608470181</desc>
+                        <desc class="y centered">382.9429280397023</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-4 color-4">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="68.15851339671563" y="275.2816377171216" rx="0" ry="0"
+                            width="4.936214347450302" height="248.44913151364767"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">15</desc>
+                        <desc class="x centered">70.62662057044078</desc>
+                        <desc class="y centered">399.50620347394545</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-5 color-5">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="73.76784788245462" y="358.0980148883375" rx="0" ry="0"
+                            width="4.936214347450302" height="165.63275434243178"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">10</desc>
+                        <desc class="x centered">76.23595505617976</desc>
+                        <desc class="y centered">440.9143920595534</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-6 color-6">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="79.3771823681936" y="374.66129032258067" rx="0" ry="0"
+                            width="4.936214347450302" height="149.06947890818861"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">9</desc>
+                        <desc class="x centered">81.84528954191875</desc>
+                        <desc class="y centered">449.196029776675</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-7 color-7">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="84.98651685393257" y="391.22456575682384" rx="0" ry="0"
+                            width="4.936214347450302" height="132.50620347394545"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">8</desc>
+                        <desc class="x centered">87.45462402765772</desc>
+                        <desc class="y centered">457.47766749379656</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-8 color-8">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="90.59585133967155" y="391.22456575682384" rx="0" ry="0"
+                            width="4.936214347450302" height="132.50620347394545"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">8</desc>
+                        <desc class="x centered">93.0639585133967</desc>
+                        <desc class="y centered">457.47766749379656</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-9 color-9">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="96.20518582541054" y="407.787841191067" rx="0" ry="0"
+                            width="4.936214347450302" height="115.94292803970228"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">7</desc>
+                        <desc class="x centered">98.67329299913568</desc>
+                        <desc class="y centered">465.7593052109181</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-10 color-10">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="101.81452031114951" y="407.787841191067" rx="0" ry="0"
+                            width="4.936214347450302" height="115.94292803970228"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">7</desc>
+                        <desc class="x centered">104.28262748487465</desc>
+                        <desc class="y centered">465.7593052109181</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-11 color-11">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="107.42385479688849" y="407.787841191067" rx="0" ry="0"
+                            width="4.936214347450302" height="115.94292803970228"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">7</desc>
+                        <desc class="x centered">109.89196197061364</desc>
+                        <desc class="y centered">465.7593052109181</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-12 color-12">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="113.03318928262748" y="424.35111662531017" rx="0" ry="0"
+                            width="4.936214347450302" height="99.37965260545911"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">6</desc>
+                        <desc class="x centered">115.50129645635262</desc>
+                        <desc class="y centered">474.0409429280397</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-13 color-13">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="118.64252376836644" y="424.35111662531017" rx="0" ry="0"
+                            width="4.936214347450302" height="99.37965260545911"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">6</desc>
+                        <desc class="x centered">121.11063094209159</desc>
+                        <desc class="y centered">474.0409429280397</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-14 color-14">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="124.25185825410544" y="424.35111662531017" rx="0" ry="0"
+                            width="4.936214347450302" height="99.37965260545911"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">6</desc>
+                        <desc class="x centered">126.71996542783059</desc>
+                        <desc class="y centered">474.0409429280397</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-15 color-15">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="129.8611927398444" y="424.35111662531017" rx="0" ry="0"
+                            width="4.936214347450302" height="99.37965260545911"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">6</desc>
+                        <desc class="x centered">132.32929991356954</desc>
+                        <desc class="y centered">474.0409429280397</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-16 color-16">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="135.47052722558337" y="440.9143920595534" rx="0" ry="0"
+                            width="4.936214347450302" height="82.81637717121589"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">5</desc>
+                        <desc class="x centered">137.9386343993085</desc>
+                        <desc class="y centered">482.32258064516134</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-17 color-17">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="141.07986171132237" y="440.9143920595534" rx="0" ry="0"
+                            width="4.936214347450302" height="82.81637717121589"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">5</desc>
+                        <desc class="x centered">143.5479688850475</desc>
+                        <desc class="y centered">482.32258064516134</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-18 color-18">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="146.68919619706134" y="440.9143920595534" rx="0" ry="0"
+                            width="4.936214347450302" height="82.81637717121589"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">5</desc>
+                        <desc class="x centered">149.15730337078648</desc>
+                        <desc class="y centered">482.32258064516134</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-19 color-19">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="152.2985306828003" y="457.4776674937965" rx="0" ry="0"
+                            width="4.936214347450302" height="66.25310173697278"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">4</desc>
+                        <desc class="x centered">154.76663785652545</desc>
+                        <desc class="y centered">490.6042183622829</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-20 color-20">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="157.9078651685393" y="457.4776674937965" rx="0" ry="0"
+                            width="4.936214347450302" height="66.25310173697278"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">4</desc>
+                        <desc class="x centered">160.37597234226445</desc>
+                        <desc class="y centered">490.6042183622829</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-21 color-21">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="163.51719965427827" y="457.4776674937965" rx="0" ry="0"
+                            width="4.936214347450302" height="66.25310173697278"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">4</desc>
+                        <desc class="x centered">165.98530682800342</desc>
+                        <desc class="y centered">490.6042183622829</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-22 color-22">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="169.12653414001724" y="474.0409429280397" rx="0" ry="0"
+                            width="4.936214347450302" height="49.68982630272956"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">3</desc>
+                        <desc class="x centered">171.5946413137424</desc>
+                        <desc class="y centered">498.8858560794045</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-23 color-23">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="174.73586862575624" y="474.0409429280397" rx="0" ry="0"
+                            width="4.936214347450302" height="49.68982630272956"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">3</desc>
+                        <desc class="x centered">177.20397579948138</desc>
+                        <desc class="y centered">498.8858560794045</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-24 color-24">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="180.3452031114952" y="474.0409429280397" rx="0" ry="0"
+                            width="4.936214347450302" height="49.68982630272956"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">3</desc>
+                        <desc class="x centered">182.81331028522035</desc>
+                        <desc class="y centered">498.8858560794045</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-25 color-25">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="185.9545375972342" y="474.0409429280397" rx="0" ry="0"
+                            width="4.936214347450302" height="49.68982630272956"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">3</desc>
+                        <desc class="x centered">188.42264477095935</desc>
+                        <desc class="y centered">498.8858560794045</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-26 color-26">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="191.56387208297318" y="474.0409429280397" rx="0" ry="0"
+                            width="4.936214347450302" height="49.68982630272956"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">3</desc>
+                        <desc class="x centered">194.03197925669832</desc>
+                        <desc class="y centered">498.8858560794045</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-27 color-27">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="197.17320656871215" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">199.6413137424373</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-28 color-28">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="202.78254105445114" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">205.2506482281763</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-29 color-29">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="208.3918755401901" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">210.85998271391526</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-30 color-30">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="214.00121002592908" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">216.46931719965423</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-31 color-31">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="219.61054451166808" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">222.07865168539323</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-32 color-32">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="225.21987899740705" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">227.6879861711322</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-33 color-33">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="230.82921348314602" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">233.29732065687116</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-34 color-34">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="236.43854796888502" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">238.90665514261016</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-35 color-35">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="242.047882454624" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">244.51598962834913</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-36 color-36">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="247.65721694036296" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">250.1253241140881</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-37 color-37">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="253.26655142610196" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">255.7346585998271</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-38 color-38">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="258.87588591184095" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">261.3439930855661</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-39 color-39">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="264.4852203975799" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">266.95332757130507</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-40 color-40">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="270.0945548833189" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">272.56266205704407</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-41 color-41">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="275.7038893690579" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">278.17199654278306</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-42 color-42">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="281.31322385479683" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">283.781331028522</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-43 color-43">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="286.92255834053583" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">289.390665514261</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-44 color-44">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="292.5318928262748" y="490.6042183622829" rx="0" ry="0"
+                            width="4.936214347450302" height="33.12655086848639"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">2</desc>
+                        <desc class="x centered">295.0</desc>
+                        <desc class="y centered">507.16749379652606</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-45 color-45">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="298.14122731201377" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">300.60933448573894</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-46 color-46">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="303.75056179775277" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">306.21866897147794</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-47 color-47">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="309.35989628349176" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">311.82800345721694</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-48 color-48">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="314.9692307692307" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">317.4373379429559</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-49 color-49">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="320.5785652549697" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">323.0466724286949</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-50 color-50">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="326.1878997407087" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">328.6560069144339</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-51 color-51">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="331.79723422644764" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">334.2653414001728</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-52 color-52">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="337.40656871218664" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">339.8746758859118</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-53 color-53">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="343.01590319792564" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">345.4840103716508</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-54 color-54">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="348.6252376836646" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">351.09334485738975</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-55 color-55">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="354.2345721694036" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">356.70267934312875</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-56 color-56">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="359.8439066551426" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">362.31201382886775</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-57 color-57">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="365.4532411408815" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">367.9213483146067</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-58 color-58">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="371.0625756266205" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">373.5306828003457</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-59 color-59">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="376.6719101123595" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">379.1400172860847</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-60 color-60">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="382.28124459809845" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">384.7493517718236</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-61 color-61">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="387.89057908383745" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">390.3586862575626</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-62 color-62">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="393.49991356957645" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">395.9680207433016</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-63 color-63">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="399.1092480553154" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">401.57735522904056</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-64 color-64">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="404.7185825410544" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">407.18668971477956</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-65 color-65">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="410.3279170267934" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">412.79602420051856</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-66 color-66">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="415.9372515125323" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">418.4053586862575</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-67 color-67">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="421.5465859982713" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">424.0146931719965</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-68 color-68">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="427.1559204840103" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">429.6240276577355</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-69 color-69">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="432.76525496974926" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">435.23336214347444</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-70 color-70">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="438.37458945548826" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">440.84269662921344</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-71 color-71">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="443.98392394122726" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">446.45203111495243</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-72 color-72">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="449.5932584269662" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">452.0613656006914</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-73 color-73">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="455.2025929127052" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">457.6707000864304</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-74 color-74">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="460.8119273984442" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">463.28003457216937</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-75 color-75">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="466.42126188418314" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">468.8893690579083</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-76 color-76">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="472.03059636992214" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">474.4987035436473</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-77 color-77">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="477.63993085566113" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">480.1080380293863</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-78 color-78">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="483.2492653414001" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">485.71737251512525</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-79 color-79">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="488.8585998271391" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">491.32670700086425</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-80 color-80">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="494.46793431287807" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">496.93604148660324</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-81 color-81">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="500.077268798617" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">502.5453759723422</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-82 color-82">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="505.686603284356" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">508.1547104580812</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-83 color-83">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="511.295937770095" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">513.7640449438202</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-84 color-84">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="516.9052722558339" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">519.373379429559</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-85 color-85">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="522.514606741573" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">524.9827139152981</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-86 color-86">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="528.1239412273119" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">530.592048401037</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-87 color-87">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="533.7332757130508" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">536.201382886776</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+            <g class="series serie-88 color-88">
+                <g class="bars">
+                    <g class="bar">
+                        <rect x="539.3426101987899" y="507.16749379652606" rx="0" ry="0"
+                            width="4.936214347450302" height="16.563275434243224"
+                            class="rect reactive tooltip-trigger"/>
+                        <desc class="value">1</desc>
+                        <desc class="x centered">541.810717372515</desc>
+                        <desc class="y centered">515.4491315136477</desc>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g class="titles">
+            <text x="400.0" y="26" class="title plot_title">All Places in Blues Collection</text>
+        </g>
+        <g transform="translate(190, 46)" class="plot overlay">
+            <g class="series serie-0 color-0"/>
+            <g class="series serie-1 color-1"/>
+            <g class="series serie-2 color-2"/>
+            <g class="series serie-3 color-3"/>
+            <g class="series serie-4 color-4"/>
+            <g class="series serie-5 color-5"/>
+            <g class="series serie-6 color-6"/>
+            <g class="series serie-7 color-7"/>
+            <g class="series serie-8 color-8"/>
+            <g class="series serie-9 color-9"/>
+            <g class="series serie-10 color-10"/>
+            <g class="series serie-11 color-11"/>
+            <g class="series serie-12 color-12"/>
+            <g class="series serie-13 color-13"/>
+            <g class="series serie-14 color-14"/>
+            <g class="series serie-15 color-15"/>
+            <g class="series serie-16 color-16"/>
+            <g class="series serie-17 color-17"/>
+            <g class="series serie-18 color-18"/>
+            <g class="series serie-19 color-19"/>
+            <g class="series serie-20 color-20"/>
+            <g class="series serie-21 color-21"/>
+            <g class="series serie-22 color-22"/>
+            <g class="series serie-23 color-23"/>
+            <g class="series serie-24 color-24"/>
+            <g class="series serie-25 color-25"/>
+            <g class="series serie-26 color-26"/>
+            <g class="series serie-27 color-27"/>
+            <g class="series serie-28 color-28"/>
+            <g class="series serie-29 color-29"/>
+            <g class="series serie-30 color-30"/>
+            <g class="series serie-31 color-31"/>
+            <g class="series serie-32 color-32"/>
+            <g class="series serie-33 color-33"/>
+            <g class="series serie-34 color-34"/>
+            <g class="series serie-35 color-35"/>
+            <g class="series serie-36 color-36"/>
+            <g class="series serie-37 color-37"/>
+            <g class="series serie-38 color-38"/>
+            <g class="series serie-39 color-39"/>
+            <g class="series serie-40 color-40"/>
+            <g class="series serie-41 color-41"/>
+            <g class="series serie-42 color-42"/>
+            <g class="series serie-43 color-43"/>
+            <g class="series serie-44 color-44"/>
+            <g class="series serie-45 color-45"/>
+            <g class="series serie-46 color-46"/>
+            <g class="series serie-47 color-47"/>
+            <g class="series serie-48 color-48"/>
+            <g class="series serie-49 color-49"/>
+            <g class="series serie-50 color-50"/>
+            <g class="series serie-51 color-51"/>
+            <g class="series serie-52 color-52"/>
+            <g class="series serie-53 color-53"/>
+            <g class="series serie-54 color-54"/>
+            <g class="series serie-55 color-55"/>
+            <g class="series serie-56 color-56"/>
+            <g class="series serie-57 color-57"/>
+            <g class="series serie-58 color-58"/>
+            <g class="series serie-59 color-59"/>
+            <g class="series serie-60 color-60"/>
+            <g class="series serie-61 color-61"/>
+            <g class="series serie-62 color-62"/>
+            <g class="series serie-63 color-63"/>
+            <g class="series serie-64 color-64"/>
+            <g class="series serie-65 color-65"/>
+            <g class="series serie-66 color-66"/>
+            <g class="series serie-67 color-67"/>
+            <g class="series serie-68 color-68"/>
+            <g class="series serie-69 color-69"/>
+            <g class="series serie-70 color-70"/>
+            <g class="series serie-71 color-71"/>
+            <g class="series serie-72 color-72"/>
+            <g class="series serie-73 color-73"/>
+            <g class="series serie-74 color-74"/>
+            <g class="series serie-75 color-75"/>
+            <g class="series serie-76 color-76"/>
+            <g class="series serie-77 color-77"/>
+            <g class="series serie-78 color-78"/>
+            <g class="series serie-79 color-79"/>
+            <g class="series serie-80 color-80"/>
+            <g class="series serie-81 color-81"/>
+            <g class="series serie-82 color-82"/>
+            <g class="series serie-83 color-83"/>
+            <g class="series serie-84 color-84"/>
+            <g class="series serie-85 color-85"/>
+            <g class="series serie-86 color-86"/>
+            <g class="series serie-87 color-87"/>
+            <g class="series serie-88 color-88"/>
+        </g>
+        <g transform="translate(190, 46)" class="plot text-overlay">
+            <g class="series serie-0 color-0"/>
+            <g class="series serie-1 color-1"/>
+            <g class="series serie-2 color-2"/>
+            <g class="series serie-3 color-3"/>
+            <g class="series serie-4 color-4"/>
+            <g class="series serie-5 color-5"/>
+            <g class="series serie-6 color-6"/>
+            <g class="series serie-7 color-7"/>
+            <g class="series serie-8 color-8"/>
+            <g class="series serie-9 color-9"/>
+            <g class="series serie-10 color-10"/>
+            <g class="series serie-11 color-11"/>
+            <g class="series serie-12 color-12"/>
+            <g class="series serie-13 color-13"/>
+            <g class="series serie-14 color-14"/>
+            <g class="series serie-15 color-15"/>
+            <g class="series serie-16 color-16"/>
+            <g class="series serie-17 color-17"/>
+            <g class="series serie-18 color-18"/>
+            <g class="series serie-19 color-19"/>
+            <g class="series serie-20 color-20"/>
+            <g class="series serie-21 color-21"/>
+            <g class="series serie-22 color-22"/>
+            <g class="series serie-23 color-23"/>
+            <g class="series serie-24 color-24"/>
+            <g class="series serie-25 color-25"/>
+            <g class="series serie-26 color-26"/>
+            <g class="series serie-27 color-27"/>
+            <g class="series serie-28 color-28"/>
+            <g class="series serie-29 color-29"/>
+            <g class="series serie-30 color-30"/>
+            <g class="series serie-31 color-31"/>
+            <g class="series serie-32 color-32"/>
+            <g class="series serie-33 color-33"/>
+            <g class="series serie-34 color-34"/>
+            <g class="series serie-35 color-35"/>
+            <g class="series serie-36 color-36"/>
+            <g class="series serie-37 color-37"/>
+            <g class="series serie-38 color-38"/>
+            <g class="series serie-39 color-39"/>
+            <g class="series serie-40 color-40"/>
+            <g class="series serie-41 color-41"/>
+            <g class="series serie-42 color-42"/>
+            <g class="series serie-43 color-43"/>
+            <g class="series serie-44 color-44"/>
+            <g class="series serie-45 color-45"/>
+            <g class="series serie-46 color-46"/>
+            <g class="series serie-47 color-47"/>
+            <g class="series serie-48 color-48"/>
+            <g class="series serie-49 color-49"/>
+            <g class="series serie-50 color-50"/>
+            <g class="series serie-51 color-51"/>
+            <g class="series serie-52 color-52"/>
+            <g class="series serie-53 color-53"/>
+            <g class="series serie-54 color-54"/>
+            <g class="series serie-55 color-55"/>
+            <g class="series serie-56 color-56"/>
+            <g class="series serie-57 color-57"/>
+            <g class="series serie-58 color-58"/>
+            <g class="series serie-59 color-59"/>
+            <g class="series serie-60 color-60"/>
+            <g class="series serie-61 color-61"/>
+            <g class="series serie-62 color-62"/>
+            <g class="series serie-63 color-63"/>
+            <g class="series serie-64 color-64"/>
+            <g class="series serie-65 color-65"/>
+            <g class="series serie-66 color-66"/>
+            <g class="series serie-67 color-67"/>
+            <g class="series serie-68 color-68"/>
+            <g class="series serie-69 color-69"/>
+            <g class="series serie-70 color-70"/>
+            <g class="series serie-71 color-71"/>
+            <g class="series serie-72 color-72"/>
+            <g class="series serie-73 color-73"/>
+            <g class="series serie-74 color-74"/>
+            <g class="series serie-75 color-75"/>
+            <g class="series serie-76 color-76"/>
+            <g class="series serie-77 color-77"/>
+            <g class="series serie-78 color-78"/>
+            <g class="series serie-79 color-79"/>
+            <g class="series serie-80 color-80"/>
+            <g class="series serie-81 color-81"/>
+            <g class="series serie-82 color-82"/>
+            <g class="series serie-83 color-83"/>
+            <g class="series serie-84 color-84"/>
+            <g class="series serie-85 color-85"/>
+            <g class="series serie-86 color-86"/>
+            <g class="series serie-87 color-87"/>
+            <g class="series serie-88 color-88"/>
+        </g>
+        <g transform="translate(190, 46)" class="plot tooltip-overlay">
+            <g transform="translate(0 0)" style="opacity: 0" class="tooltip">
+                <rect rx="0" ry="0" width="0" height="0" class="tooltip-box"/>
+                <g class="text"/>
+            </g>
+        </g>
+        <g transform="translate(10, 56)" class="legends">
+            <g id="activate-serie-0" class="legend reactive activate-serie">
+                <rect x="0.0" y="1.0" width="12" height="12" class="color-0 reactive"/>
+                <text x="17.0" y="11.2">Chicago</text>
+            </g>
+            <g id="activate-serie-1" class="legend reactive activate-serie">
+                <rect x="0.0" y="22.0" width="12" height="12" class="color-1 reactive"/>
+                <text x="17.0" y="32.2">Texas</text>
+            </g>
+            <g id="activate-serie-2" class="legend reactive activate-serie">
+                <rect x="0.0" y="43.0" width="12" height="12" class="color-2 reactive"/>
+                <text x="17.0" y="53.2">New Orleans</text>
+            </g>
+            <g id="activate-serie-3" class="legend reactive activate-serie">
+                <rect x="0.0" y="64.0" width="12" height="12" class="color-3 reactive"/>
+                <text x="17.0" y="74.2">Tennessee</text>
+            </g>
+            <g id="activate-serie-4" class="legend reactive activate-serie">
+                <rect x="0.0" y="85.0" width="12" height="12" class="color-4 reactive"/>
+                <text x="17.0" y="95.2">Kansas City</text>
+            </g>
+            <g id="activate-serie-5" class="legend reactive activate-serie">
+                <rect x="0.0" y="106.0" width="12" height="12" class="color-5 reactive"/>
+                <text x="17.0" y="116.2">Mississippi</text>
+            </g>
+            <g id="activate-serie-6" class="legend reactive activate-serie">
+                <rect x="0.0" y="127.0" width="12" height="12" class="color-6 reactive"/>
+                <text x="17.0" y="137.2">San Francisco</text>
+            </g>
+            <g id="activate-serie-7" class="legend reactive activate-serie">
+                <rect x="0.0" y="148.0" width="12" height="12" class="color-7 reactive"/>
+                <text x="17.0" y="158.2">LA</text>
+            </g>
+            <g id="activate-serie-8" class="legend reactive activate-serie">
+                <rect x="0.0" y="169.0" width="12" height="12" class="color-8 reactive"/>
+                <text x="17.0" y="179.2">California</text>
+            </g>
+            <g id="activate-serie-9" class="legend reactive activate-serie">
+                <rect x="0.0" y="190.0" width="12" height="12" class="color-9 reactive"/>
+                <text x="17.0" y="200.2">Dallas</text>
+            </g>
+            <g id="activate-serie-10" class="legend reactive activate-serie">
+                <rect x="0.0" y="211.0" width="12" height="12" class="color-10 reactive"/>
+                <text x="17.0" y="221.2">Florida</text>
+            </g>
+            <g id="activate-serie-11" class="legend reactive activate-serie">
+                <rect x="0.0" y="232.0" width="12" height="12" class="color-11 reactive"/>
+                <text x="17.0" y="242.2">Corrina</text>
+            </g>
+            <g id="activate-serie-12" class="legend reactive activate-serie">
+                <rect x="0.0" y="253.0" width="12" height="12" class="color-12 reactive"/>
+                <text x="17.0" y="263.2">Arkansas</text>
+            </g>
+            <g id="activate-serie-13" class="legend reactive activate-serie">
+                <rect x="0.0" y="274.0" width="12" height="12" class="color-13 reactive"/>
+                <text x="17.0" y="284.2">China</text>
+            </g>
+            <g id="activate-serie-14" class="legend reactive activate-serie">
+                <rect x="0.0" y="295.0" width="12" height="12" class="color-14 reactive"/>
+                <text x="17.0" y="305.2">Memphis</text>
+            </g>
+            <g id="activate-serie-15" class="legend reactive activate-serie">
+                <rect x="0.0" y="316.0" width="12" height="12" class="color-15 reactive"/>
+                <text x="17.0" y="326.2">Chickasaw</text>
+            </g>
+            <g id="activate-serie-16" class="legend reactive activate-serie">
+                <rect x="0.0" y="337.0" width="12" height="12" class="color-16 reactive"/>
+                <text x="17.0" y="347.2">England</text>
+            </g>
+            <g id="activate-serie-17" class="legend reactive activate-serie">
+                <rect x="0.0" y="358.0" width="12" height="12" class="color-17 reactive"/>
+                <text x="17.0" y="368.2">Louisiana</text>
+            </g>
+            <g id="activate-serie-18" class="legend reactive activate-serie">
+                <rect x="0.0" y="379.0" width="12" height="12" class="color-18 reactive"/>
+                <text x="17.0" y="389.2">Mexico</text>
+            </g>
+            <g id="activate-serie-19" class="legend reactive activate-serie">
+                <rect x="0.0" y="400.0" width="12" height="12" class="color-19 reactive"/>
+                <text x="17.0" y="410.2">Spain</text>
+            </g>
+            <g id="activate-serie-20" class="legend reactive activate-serie">
+                <rect x="0.0" y="421.0" width="12" height="12" class="color-20 reactive"/>
+                <text x="17.0" y="431.2">Hollywood</text>
+            </g>
+            <g id="activate-serie-21" class="legend reactive activate-serie">
+                <rect x="0.0" y="442.0" width="12" height="12" class="color-21 reactive"/>
+                <text x="17.0" y="452.2">Caldonia</text>
+            </g>
+            <g id="activate-serie-22" class="legend reactive activate-serie">
+                <rect x="0.0" y="463.0" width="12" height="12" class="color-22 reactive"/>
+                <text x="17.0" y="473.2">St Louis</text>
+            </g>
+            <g id="activate-serie-23" class="legend reactive activate-serie">
+                <rect x="0.0" y="484.0" width="12" height="12" class="color-23 reactive"/>
+                <text x="17.0" y="494.2">Natchez Missis…</text>
+                <title>Natchez Mississippi</title>
+            </g>
+            <g id="activate-serie-24" class="legend reactive activate-serie">
+                <rect x="0.0" y="505.0" width="12" height="12" class="color-24 reactive"/>
+                <text x="17.0" y="515.2">South Carolina</text>
+            </g>
+            <g id="activate-serie-25" class="legend reactive activate-serie">
+                <rect x="0.0" y="526.0" width="12" height="12" class="color-25 reactive"/>
+                <text x="17.0" y="536.2">New York City</text>
+            </g>
+            <g id="activate-serie-26" class="legend reactive activate-serie">
+                <rect x="0.0" y="547.0" width="12" height="12" class="color-26 reactive"/>
+                <text x="17.0" y="557.2">Gainesville</text>
+            </g>
+            <g id="activate-serie-27" class="legend reactive activate-serie">
+                <rect x="0.0" y="568.0" width="12" height="12" class="color-27 reactive"/>
+                <text x="17.0" y="578.2">Jackson Park</text>
+            </g>
+            <g id="activate-serie-28" class="legend reactive activate-serie">
+                <rect x="0.0" y="589.0" width="12" height="12" class="color-28 reactive"/>
+                <text x="17.0" y="599.2">Vicksburg</text>
+            </g>
+            <g id="activate-serie-29" class="legend reactive activate-serie">
+                <rect x="0.0" y="610.0" width="12" height="12" class="color-29 reactive"/>
+                <text x="17.0" y="620.2">Vietnam</text>
+            </g>
+            <g id="activate-serie-30" class="legend reactive activate-serie">
+                <rect x="0.0" y="631.0" width="12" height="12" class="color-30 reactive"/>
+                <text x="17.0" y="641.2">Korea</text>
+            </g>
+            <g id="activate-serie-31" class="legend reactive activate-serie">
+                <rect x="0.0" y="652.0" width="12" height="12" class="color-31 reactive"/>
+                <text x="17.0" y="662.2">Cairo</text>
+            </g>
+            <g id="activate-serie-32" class="legend reactive activate-serie">
+                <rect x="0.0" y="673.0" width="12" height="12" class="color-32 reactive"/>
+                <text x="17.0" y="683.2">Pittsburgh</text>
+            </g>
+            <g id="activate-serie-33" class="legend reactive activate-serie">
+                <rect x="0.0" y="694.0" width="12" height="12" class="color-33 reactive"/>
+                <text x="17.0" y="704.2">Washington</text>
+            </g>
+            <g id="activate-serie-34" class="legend reactive activate-serie">
+                <rect x="0.0" y="715.0" width="12" height="12" class="color-34 reactive"/>
+                <text x="17.0" y="725.2">Atlanta</text>
+            </g>
+            <g id="activate-serie-35" class="legend reactive activate-serie">
+                <rect x="0.0" y="736.0" width="12" height="12" class="color-35 reactive"/>
+                <text x="17.0" y="746.2">Alabama</text>
+            </g>
+            <g id="activate-serie-36" class="legend reactive activate-serie">
+                <rect x="0.0" y="757.0" width="12" height="12" class="color-36 reactive"/>
+                <text x="17.0" y="767.2">Birmingham</text>
+            </g>
+            <g id="activate-serie-37" class="legend reactive activate-serie">
+                <rect x="0.0" y="778.0" width="12" height="12" class="color-37 reactive"/>
+                <text x="17.0" y="788.2">Tokyo</text>
+            </g>
+            <g id="activate-serie-38" class="legend reactive activate-serie">
+                <rect x="0.0" y="799.0" width="12" height="12" class="color-38 reactive"/>
+                <text x="17.0" y="809.2">Ohio</text>
+            </g>
+            <g id="activate-serie-39" class="legend reactive activate-serie">
+                <rect x="0.0" y="820.0" width="12" height="12" class="color-39 reactive"/>
+                <text x="17.0" y="830.2">New York</text>
+            </g>
+            <g id="activate-serie-40" class="legend reactive activate-serie">
+                <rect x="0.0" y="841.0" width="12" height="12" class="color-40 reactive"/>
+                <text x="17.0" y="851.2">Moscow</text>
+            </g>
+            <g id="activate-serie-41" class="legend reactive activate-serie">
+                <rect x="0.0" y="862.0" width="12" height="12" class="color-41 reactive"/>
+                <text x="17.0" y="872.2">Cuba</text>
+            </g>
+            <g id="activate-serie-42" class="legend reactive activate-serie">
+                <rect x="0.0" y="883.0" width="12" height="12" class="color-42 reactive"/>
+                <text x="17.0" y="893.2">Memphis Slim</text>
+            </g>
+            <g id="activate-serie-43" class="legend reactive activate-serie">
+                <rect x="0.0" y="904.0" width="12" height="12" class="color-43 reactive"/>
+                <text x="17.0" y="914.2">Aberdeen</text>
+            </g>
+            <g id="activate-serie-44" class="legend reactive activate-serie">
+                <rect x="0.0" y="925.0" width="12" height="12" class="color-44 reactive"/>
+                <text x="17.0" y="935.2">Belle Louise</text>
+            </g>
+            <g id="activate-serie-45" class="legend reactive activate-serie">
+                <rect x="0.0" y="946.0" width="12" height="12" class="color-45 reactive"/>
+                <text x="17.0" y="956.2">Tillie</text>
+            </g>
+            <g id="activate-serie-46" class="legend reactive activate-serie">
+                <rect x="0.0" y="967.0" width="12" height="12" class="color-46 reactive"/>
+                <text x="17.0" y="977.2">San Antonio</text>
+            </g>
+            <g id="activate-serie-47" class="legend reactive activate-serie">
+                <rect x="0.0" y="988.0" width="12" height="12" class="color-47 reactive"/>
+                <text x="17.0" y="998.2">Jacksonville</text>
+            </g>
+            <g id="activate-serie-48" class="legend reactive activate-serie">
+                <rect x="0.0" y="1009.0" width="12" height="12" class="color-48 reactive"/>
+                <text x="17.0" y="1019.2">Tupelo Mississ…</text>
+                <title>Tupelo Mississippi</title>
+            </g>
+            <g id="activate-serie-49" class="legend reactive activate-serie">
+                <rect x="0.0" y="1030.0" width="12" height="12" class="color-49 reactive"/>
+                <text x="17.0" y="1040.2">the Empire Sta…</text>
+                <title>the Empire State</title>
+            </g>
+            <g id="activate-serie-50" class="legend reactive activate-serie">
+                <rect x="0.0" y="1051.0" width="12" height="12" class="color-50 reactive"/>
+                <text x="17.0" y="1061.2">Collin</text>
+            </g>
+            <g id="activate-serie-51" class="legend reactive activate-serie">
+                <rect x="0.0" y="1072.0" width="12" height="12" class="color-51 reactive"/>
+                <text x="17.0" y="1082.2">break</text>
+            </g>
+            <g id="activate-serie-52" class="legend reactive activate-serie">
+                <rect x="0.0" y="1093.0" width="12" height="12" class="color-52 reactive"/>
+                <text x="17.0" y="1103.2">Sugar</text>
+            </g>
+            <g id="activate-serie-53" class="legend reactive activate-serie">
+                <rect x="0.0" y="1114.0" width="12" height="12" class="color-53 reactive"/>
+                <text x="17.0" y="1124.2">ZZ</text>
+            </g>
+            <g id="activate-serie-54" class="legend reactive activate-serie">
+                <rect x="0.0" y="1135.0" width="12" height="12" class="color-54 reactive"/>
+                <text x="17.0" y="1145.2">Houston</text>
+            </g>
+            <g id="activate-serie-55" class="legend reactive activate-serie">
+                <rect x="0.0" y="1156.0" width="12" height="12" class="color-55 reactive"/>
+                <text x="17.0" y="1166.2">Hopin</text>
+            </g>
+            <g id="activate-serie-56" class="legend reactive activate-serie">
+                <rect x="0.0" y="1177.0" width="12" height="12" class="color-56 reactive"/>
+                <text x="17.0" y="1187.2">Missouri</text>
+            </g>
+            <g id="activate-serie-57" class="legend reactive activate-serie">
+                <rect x="0.0" y="1198.0" width="12" height="12" class="color-57 reactive"/>
+                <text x="17.0" y="1208.2">Kentucky</text>
+            </g>
+            <g id="activate-serie-58" class="legend reactive activate-serie">
+                <rect x="0.0" y="1219.0" width="12" height="12" class="color-58 reactive"/>
+                <text x="17.0" y="1229.2">Los Angeles</text>
+            </g>
+            <g id="activate-serie-59" class="legend reactive activate-serie">
+                <rect x="0.0" y="1240.0" width="12" height="12" class="color-59 reactive"/>
+                <text x="17.0" y="1250.2">Georgia</text>
+            </g>
+            <g id="activate-serie-60" class="legend reactive activate-serie">
+                <rect x="0.0" y="1261.0" width="12" height="12" class="color-60 reactive"/>
+                <text x="17.0" y="1271.2">Paris</text>
+            </g>
+            <g id="activate-serie-61" class="legend reactive activate-serie">
+                <rect x="0.0" y="1282.0" width="12" height="12" class="color-61 reactive"/>
+                <text x="17.0" y="1292.2">Lucille</text>
+            </g>
+            <g id="activate-serie-62" class="legend reactive activate-serie">
+                <rect x="0.0" y="1303.0" width="12" height="12" class="color-62 reactive"/>
+                <text x="17.0" y="1313.2">Oklahoma</text>
+            </g>
+            <g id="activate-serie-63" class="legend reactive activate-serie">
+                <rect x="0.0" y="1324.0" width="12" height="12" class="color-63 reactive"/>
+                <text x="17.0" y="1334.2">Panama</text>
+            </g>
+            <g id="activate-serie-64" class="legend reactive activate-serie">
+                <rect x="0.0" y="1345.0" width="12" height="12" class="color-64 reactive"/>
+                <text x="17.0" y="1355.2">San Salvador</text>
+            </g>
+            <g id="activate-serie-65" class="legend reactive activate-serie">
+                <rect x="0.0" y="1366.0" width="12" height="12" class="color-65 reactive"/>
+                <text x="17.0" y="1376.2">Peru</text>
+            </g>
+            <g id="activate-serie-66" class="legend reactive activate-serie">
+                <rect x="0.0" y="1387.0" width="12" height="12" class="color-66 reactive"/>
+                <text x="17.0" y="1397.2">Vegas</text>
+            </g>
+            <g id="activate-serie-67" class="legend reactive activate-serie">
+                <rect x="0.0" y="1408.0" width="12" height="12" class="color-67 reactive"/>
+                <text x="17.0" y="1418.2">Manos</text>
+            </g>
+            <g id="activate-serie-68" class="legend reactive activate-serie">
+                <rect x="0.0" y="1429.0" width="12" height="12" class="color-68 reactive"/>
+                <text x="17.0" y="1439.2">Cincinnati</text>
+            </g>
+            <g id="activate-serie-69" class="legend reactive activate-serie">
+                <rect x="0.0" y="1450.0" width="12" height="12" class="color-69 reactive"/>
+                <text x="17.0" y="1460.2">Mississip</text>
+            </g>
+            <g id="activate-serie-70" class="legend reactive activate-serie">
+                <rect x="0.0" y="1471.0" width="12" height="12" class="color-70 reactive"/>
+                <text x="17.0" y="1481.2">Canada</text>
+            </g>
+            <g id="activate-serie-71" class="legend reactive activate-serie">
+                <rect x="0.0" y="1492.0" width="12" height="12" class="color-71 reactive"/>
+                <text x="17.0" y="1502.2">Toronto</text>
+            </g>
+            <g id="activate-serie-72" class="legend reactive activate-serie">
+                <rect x="0.0" y="1513.0" width="12" height="12" class="color-72 reactive"/>
+                <text x="17.0" y="1523.2">Russia</text>
+            </g>
+            <g id="activate-serie-73" class="legend reactive activate-serie">
+                <rect x="0.0" y="1534.0" width="12" height="12" class="color-73 reactive"/>
+                <text x="17.0" y="1544.2">Denmark</text>
+            </g>
+            <g id="activate-serie-74" class="legend reactive activate-serie">
+                <rect x="0.0" y="1555.0" width="12" height="12" class="color-74 reactive"/>
+                <text x="17.0" y="1565.2">Jaspar</text>
+            </g>
+            <g id="activate-serie-75" class="legend reactive activate-serie">
+                <rect x="0.0" y="1576.0" width="12" height="12" class="color-75 reactive"/>
+                <text x="17.0" y="1586.2">Illinois</text>
+            </g>
+            <g id="activate-serie-76" class="legend reactive activate-serie">
+                <rect x="0.0" y="1597.0" width="12" height="12" class="color-76 reactive"/>
+                <text x="17.0" y="1607.2">Yeeeaah</text>
+            </g>
+            <g id="activate-serie-77" class="legend reactive activate-serie">
+                <rect x="0.0" y="1618.0" width="12" height="12" class="color-77 reactive"/>
+                <text x="17.0" y="1628.2">the Hawaiian I…</text>
+                <title>the Hawaiian Islands</title>
+            </g>
+            <g id="activate-serie-78" class="legend reactive activate-serie">
+                <rect x="0.0" y="1639.0" width="12" height="12" class="color-78 reactive"/>
+                <text x="17.0" y="1649.2">Ethiopia</text>
+            </g>
+            <g id="activate-serie-79" class="legend reactive activate-serie">
+                <rect x="0.0" y="1660.0" width="12" height="12" class="color-79 reactive"/>
+                <text x="17.0" y="1670.2">the Windy City</text>
+            </g>
+            <g id="activate-serie-80" class="legend reactive activate-serie">
+                <rect x="0.0" y="1681.0" width="12" height="12" class="color-80 reactive"/>
+                <text x="17.0" y="1691.2">Audience</text>
+            </g>
+            <g id="activate-serie-81" class="legend reactive activate-serie">
+                <rect x="0.0" y="1702.0" width="12" height="12" class="color-81 reactive"/>
+                <text x="17.0" y="1712.2">Jackson Tennes…</text>
+                <title>Jackson Tennessee</title>
+            </g>
+            <g id="activate-serie-82" class="legend reactive activate-serie">
+                <rect x="0.0" y="1723.0" width="12" height="12" class="color-82 reactive"/>
+                <text x="17.0" y="1733.2">Jackson</text>
+            </g>
+            <g id="activate-serie-83" class="legend reactive activate-serie">
+                <rect x="0.0" y="1744.0" width="12" height="12" class="color-83 reactive"/>
+                <text x="17.0" y="1754.2">Beale</text>
+            </g>
+            <g id="activate-serie-84" class="legend reactive activate-serie">
+                <rect x="0.0" y="1765.0" width="12" height="12" class="color-84 reactive"/>
+                <text x="17.0" y="1775.2">Bessie</text>
+            </g>
+            <g id="activate-serie-85" class="legend reactive activate-serie">
+                <rect x="0.0" y="1786.0" width="12" height="12" class="color-85 reactive"/>
+                <text x="17.0" y="1796.2">Rome</text>
+            </g>
+            <g id="activate-serie-86" class="legend reactive activate-serie">
+                <rect x="0.0" y="1807.0" width="12" height="12" class="color-86 reactive"/>
+                <text x="17.0" y="1817.2">Berlin</text>
+            </g>
+            <g id="activate-serie-87" class="legend reactive activate-serie">
+                <rect x="0.0" y="1828.0" width="12" height="12" class="color-87 reactive"/>
+                <text x="17.0" y="1838.2">Stockholm</text>
+            </g>
+            <g id="activate-serie-88" class="legend reactive activate-serie">
+                <rect x="0.0" y="1849.0" width="12" height="12" class="color-88 reactive"/>
+                <text x="17.0" y="1859.2">Oakland</text>
+            </g>
+        </g>
+        <g transform="translate(790, 56)" class="legends"/>
+    </g>
+</svg>
