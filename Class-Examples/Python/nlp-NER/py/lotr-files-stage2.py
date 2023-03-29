@@ -108,6 +108,8 @@ def assembleAllNames(CollPath):
     # We need to flatten the nested list before we can properly get distinct values from it.
     # We'll use a list comprehension for that.
     flatList = [element for innerList in AllNames for element in innerList]
+    # ebb: This strange looking thing in the line above is a "list comprehension". It unpacks elements from the 3 inner lists
+    # and organizes them out on the same level.
     distinctNames = []
     for name in flatList:
         if name not in distinctNames:
