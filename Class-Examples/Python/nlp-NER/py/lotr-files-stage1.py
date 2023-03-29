@@ -5,8 +5,8 @@ import re as regex
 
 # nlp = spacy.cli.download("en_core_web_md")
 nlp = spacy.load('en_core_web_md')
-## ebb: In the line above I'm loading the large spaCy language model. You can change it to md if you want. I just had
-# the lg version on my computer. If you go with the lg,you need to uncomment the line above and import it, and it can take
+# ebb: In the line above I'm loading one of the spaCy language models: use either _md or _lg.
+# If you change versions, you need to uncomment the line above and import it, and it can take
 # a little while to finish importing.
 
 workingDir = os.getcwd()
