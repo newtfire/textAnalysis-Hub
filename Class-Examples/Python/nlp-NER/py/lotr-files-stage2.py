@@ -17,17 +17,20 @@ nlp = spacy.load('en_core_web_lg')
 # LOTR PROJECT NOTE: When I ran this with the _md language model, Frodo was being tagged as a PRODUCT.
 # The _lg model seemed more accurate (Frodo as PERSON)
 
-workingDir = os.getcwd()
-print("source-txt" + workingDir)
-
-insideDir = os.listdir(workingDir)
-print(str(insideDir))
-
-CollPath = os.path.join(workingDir, '../source-xml')
-print(CollPath)
+# workingDir = os.getcwd()
+# print("source-txt" + workingDir)
+#
+# insideDir = os.listdir(workingDir)
+# print(str(insideDir))
+#
+# CollPath = os.path.join(workingDir, '../source-xml')
+# print(CollPath)
+###############################################################################
+################################################################################
 # 1. ebb: CollPath can also simply be defined more simply as a relative path
 # defined from this Python file's location, like this, because you climb up one directory
 # and then down into your source XML files:
+##################################################################################
 CollPath = '../source-xml'
 
 
@@ -49,16 +52,18 @@ def readTextFiles(filepath):
         # That way we avoid the prologue, preface material.
         # I'm sending the whole thing to string-join() to bundle it together as one string
         # instead of a new string for every <p> element.
-        string = xpath.__str__()
-        # print(string)
+        # string = xpath.__str__()
+        string = str(xpath)
 
         # ebb: Using REGEX to remove element tags for the moment so they don't get involved in the NLP.
         # elementsRemoved = regex.sub('<.+?>', '', xpath)
         # ebb: Now I don't have to remove elements because I pulled a string value out of my XML.
         # Should we remove the single quotation marks? Not sure. If we do, uncomment the next line:
         # cleanedUp = string.replace("'", '')
+        # ebb: I noticed some sentences didn't have a space between end punctuation and the first word of the next sentence.
         cleanedUp = regex.sub("(\.)([A-Z']])", "\1 \2", string)
-        # wbb: I noticed some sentences didn't have a space between end punctuation and the first word of the next sentence.
+        # NOT REALLY DOING THIS, but just for illustration if we want to continue refining the input in multiple stages:
+        # cleanedUp = regex.sub("(\d)", "NUMBER", cleanedUp)
         # print(cleanedUp)
         tokens = nlp(cleanedUp)
         # print(tokens)
@@ -78,14 +83,22 @@ def readTextFiles(filepath):
 # 4. ebb: The function below returns a simple list of named entities.
 # But on the way, we're printing out as much we can from spaCy's classification of named entities:
 def entitycollector(tokens):
-    entities = []
-    for entity in tokens.ents:
+    with open('output.txt', 'w') as f:
+        entities = []
+        for entity in tokens.ents:
         # if entity.label_ == "NORP" or entity.label_ == "LOC" or entity.label_=="GPE":
         # ebb: The line helps experiment with different spaCy named entity classifiers, in combination if you like:
         # When using it, remember to indent the next lines for the for loop.
-        print(entity.text, entity.label_, spacy.explain(entity.label_))
-        entities.append(entity.text)
-    return entities
+            # print(entity.text, entity.label_, spacy.explain(entity.label_))
+            entityInfo = [entity.text, entity.label_, spacy.explain(entity.label_)]
+            stringify = str(entityInfo)
+            print(stringify)
+            f.write(stringify)
+            f.write('\n')
+        # PRINT TO FILE
+            entities.append(entity.text)
+        print(f"{entities=}")
+        return entities
     # ebb: Keep the return line in position at same indentation level as the definition of the entities variable.
 
 
@@ -99,7 +112,7 @@ def assembleAllNames(CollPath):
             # print(filepath)
             # print(readTextFiles(filepath))
             eachFileList = readTextFiles(filepath)
-            # print(eachFileList)
+            print(eachFileList)
             AllNames.append(eachFileList)
     # print(AllNames)
     # print(len(AllNames))
@@ -110,12 +123,13 @@ def assembleAllNames(CollPath):
     flatList = [element for innerList in AllNames for element in innerList]
     # ebb: This strange looking thing in the line above is a "list comprehension". It unpacks elements from the 3 inner lists
     # and organizes them out on the same level.
-    distinctNames = []
-    for name in flatList:
-        if name not in distinctNames:
-            distinctNames.append(name)
-    print (distinctNames)
+    distinctNames = set(flatList)
+    # ebb: Converting a list to a set() removes duplicates from the list. Yay.
+    print(f"{distinctNames=}")
     print('AllNames Count: ' + str(len(AllNames)) + ' : ' + 'Distinct Names Count: ' + str(len(distinctNames)) + ' : ' + 'flatList Count ' + str(len(flatList)))
+    with open('distNames.txt', 'w') as f:
+        f.write(str(distinctNames))
+
     return distinctNames
 
 assembleAllNames(CollPath)
