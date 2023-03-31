@@ -75,9 +75,10 @@ def readTextFiles(filepath):
 
 #########################################################################################
 # ebb: NEXT AFTER RETURNING ALL THE ENTITIES
-# Remove duplicates (get the distinct values of the list of entities (DONE! below)
-# Output this information in a useful way (TO DO)
-# Map it back into the XML files (TO DO)
+# Remove duplicates (get the distinct values of the list of entities
+# Output this information in a useful way
+# Map it back into the XML files
+# GO LOOK AT 2. and 5. below: functions involved: assemblAllNames and xmlTagger
 ##########################################################################################
 
 # 4. ebb: The function below returns a simple list of named entities.
@@ -103,7 +104,7 @@ def entitycollector(tokens):
     # ebb: Keep the return line in position at same indentation level as the definition of the entities variable.
 
 
-# 2. ebb: The for loop below is working with your CollPath, and going through each file inside,
+# 2. and 5. ebb: The for loop below is working with your CollPath, and going through each file inside,
 # and sending it up to readTextFiles, where the nlp processing will happen.
 def assembleAllNames(CollPath):
     AllNames = {}
