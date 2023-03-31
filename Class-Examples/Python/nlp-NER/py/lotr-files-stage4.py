@@ -1,4 +1,4 @@
-# STAGE 2: LET'S WORK WITH SELECT DATA FROM XML, PULLED WITH XPATH
+# STAGE 4: CAN WE MAP THE NLP LABELS INTO THE MARKUP AS ATTRIBUTE VALUES?
 # pip install saxonche
 # The library above lets you read and pull data with XPath
 import os
@@ -32,7 +32,7 @@ nlp = spacy.load('en_core_web_lg')
 # and then down into your source XML files:
 ##################################################################################
 CollPath = '../source-xml'
-
+TargetPath = '../taggedWithAtts'
 
 # 3. Here, the function imports each individual file, one at a time
 # (received from the for-loop below.
@@ -67,11 +67,11 @@ def readTextFiles(filepath):
         # print(cleanedUp)
         tokens = nlp(cleanedUp)
         # print(tokens)
-        listEntities = entitycollector(tokens)
+        dictEntities = entitycollector(tokens)
         # ebb: The line above sends our nlp tokens to the named entity collector function.
         # THIS current function will receive and print a simple form of their output in the next line.
-        # print(listEntities)
-        return(listEntities)
+        print(f"{dictEntities=}")
+        return(dictEntities)
 
 #########################################################################################
 # ebb: NEXT AFTER RETURNING ALL THE ENTITIES
@@ -84,18 +84,20 @@ def readTextFiles(filepath):
 # But on the way, we're printing out as much we can from spaCy's classification of named entities:
 def entitycollector(tokens):
     with open('output.txt', 'w') as f:
-        entities = []
-        for entity in tokens.ents:
+        entities = {}
+        for ent in sorted(tokens.ents):
         # if entity.label_ == "NORP" or entity.label_ == "LOC" or entity.label_=="GPE":
         # ebb: The line helps experiment with different spaCy named entity classifiers, in combination if you like:
         # When using it, remember to indent the next lines for the for loop.
             # print(entity.text, entity.label_, spacy.explain(entity.label_))
-            entityInfo = [entity.text, entity.label_, spacy.explain(entity.label_)]
+            entityInfo = [ent.text, ent.label_, spacy.explain(ent.label_)]
             stringify = str(entityInfo)
             print(stringify)
             f.write(stringify)
             f.write('\n')
-            entities.append(entity.text)
+        # PRINT TO FILE
+            # entities.append(entity.text)
+            entities[ent.text] = ent.label_
         print(f"{entities=}")
         return entities
     # ebb: Keep the return line in position at same indentation level as the definition of the entities variable.
@@ -104,32 +106,59 @@ def entitycollector(tokens):
 # 2. ebb: The for loop below is working with your CollPath, and going through each file inside,
 # and sending it up to readTextFiles, where the nlp processing will happen.
 def assembleAllNames(CollPath):
-    AllNames = []
+    AllNames = {}
     for file in os.listdir(CollPath):
         if file.endswith(".xml"):
             filepath = f"{CollPath}/{file}"
             # print(filepath)
             # print(readTextFiles(filepath))
-            eachFileList = readTextFiles(filepath)
-            print(eachFileList)
-            AllNames.append(eachFileList)
-    # print(AllNames)
+            eachFileDict = readTextFiles(filepath)
+            print(f"{eachFileDict=}")
+            # AllNames.append(eachFileDict)
+            AllNames.update(eachFileDict)
+    print(f"{AllNames=}")
+    AllNamesKeys = list(AllNames.keys())
+    AllNamesKeys.sort()
+    SortedDict =  {i: AllNames[i] for i in AllNamesKeys}
+    print(f"{SortedDict=}")
     # print(len(AllNames))
-    # ebb: Okay. Now let's return distinct values of this giant list!
-    # ebb: NOTE: AllNames is a list of 3 nested lists (one for each book of LOTR, or each turn of the for loop.
-    # We need to flatten the nested list before we can properly get distinct values from it.
-    # We'll use a list comprehension for that.
-    flatList = [element for innerList in AllNames for element in innerList]
-    # ebb: This strange looking thing in the line above is a "list comprehension". It unpacks elements from the 3 inner lists
-    # and organizes them out on the same level.
-    distinctNames = set(flatList)
-    # ebb: Converting a list to a set() removes duplicates from the list. Yay.
-    print(f"{distinctNames=}")
-    print('AllNames Count: ' + str(len(AllNames)) + ' : ' + 'Distinct Names Count: ' + str(len(distinctNames)) + ' : ' + 'flatList Count ' + str(len(flatList)))
-    with open('distNames.txt', 'w') as f:
-        f.write(str(distinctNames))
-    return distinctNames
+
+    # Let's write just the SORTED DICTIONARY to an output file, because we can!
+    with open('distNamesDict.txt', 'w') as f:
+        f.write(str(SortedDict))
+
+    # ebb: FINALLY, let's tag these distinct names in our source XML
+    for file in os.listdir(CollPath):
+        if file.endswith(".xml"):
+            sourcePath = f"{CollPath}/{file}"
+            eachFileData = xmlTagger(sourcePath, SortedDict)
+
+    return eachFileData
+def xmlTagger(sourcePath, SortedDict):
+    with open(sourcePath, 'r', encoding='utf8') as f:
+        readFile = f.read()
+        stringFile = str(readFile)
+
+        # ebb: Get the current filename. We need to know it to write its new output version
+        filename = os.path.basename(f.name)
+        print(f"{filename=}")
+        targetFile = f"{TargetPath}/{filename}"
+        print(f"{targetFile=}")
+
+        # ebb: Work with stringFile variable to look for matches from the distinctNames set.
+        for key, val in SortedDict.items():
+            replacement = '<name type="' + val + '">' + key + '</name>'
+            # print(f"{replacement=}")
+            stringFile = stringFile.replace(key, replacement)
+            # print(f"{stringFile=}")
+
+        # ebb: Output goes in the taggedOutput directory: ../taggedOutput
+        with open(targetFile, 'w') as f:
+            f.write(stringFile)
+
+
 
 assembleAllNames(CollPath)
+
 # ebb: The functions are all initiated here now.
 # This just delivers the collection path up to the first function in the sequence.

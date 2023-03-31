@@ -1,4 +1,5 @@
-# STAGE 2: LET'S WORK WITH SELECT DATA FROM XML, PULLED WITH XPATH
+# STAGE 3: Let's map the named entity tokens into the source files,
+# and output some text files containing the NLP data on the way.
 # pip install saxonche
 # The library above lets you read and pull data with XPath
 import os
@@ -85,7 +86,7 @@ def readTextFiles(filepath):
 def entitycollector(tokens):
     with open('output.txt', 'w') as f:
         entities = []
-        for entity in tokens.ents:
+        for entity in sorted(tokens.ents):
         # if entity.label_ == "NORP" or entity.label_ == "LOC" or entity.label_=="GPE":
         # ebb: The line helps experiment with different spaCy named entity classifiers, in combination if you like:
         # When using it, remember to indent the next lines for the for loop.
@@ -123,11 +124,11 @@ def assembleAllNames(CollPath):
     flatList = [element for innerList in AllNames for element in innerList]
     # ebb: This strange looking thing in the line above is a "list comprehension". It unpacks elements from the 3 inner lists
     # and organizes them out on the same level.
-    distinctNames = set(flatList)
-    # ebb: Converting a list to a set() removes duplicates from the list. Yay.
+    distinctNames = sorted(set(flatList))
+    # ebb: Converting a list to a set() removes duplicates from the list. Yay. Sort them to make them easier to review.
     print(f"{distinctNames=}")
     print('AllNames Count: ' + str(len(AllNames)) + ' : ' + 'Distinct Names Count: ' + str(len(distinctNames)) + ' : ' + 'flatList Count ' + str(len(flatList)))
-    # Write this to an output file:
+    # Let's write just the sorted names to an output file, because we can!
     with open('distNames.txt', 'w') as f:
         f.write(str(distinctNames))
 
@@ -142,12 +143,27 @@ def xmlTagger(sourcePath, distinctNames):
     with open(sourcePath, 'r', encoding='utf8') as f:
         readFile = f.read()
         stringFile = str(readFile)
+
         # ebb: Get the current filename. We need to know it to write its new output version
         filename = os.path.basename(f.name)
-        targetPath =
         print(f"{filename=}")
+        targetFile = f"{TargetPath}/{filename}"
+        print(f"{targetFile=}")
+
+        # ebb: Work with stringFile variable to look for matches from the distinctNames set.
+        for d in distinctNames:
+            replacement = '<name>' + d + '</name>'
+            print(f"{replacement=}")
+            stringFile = stringFile.replace(d, replacement)
+            print(f"{stringFile=}")
+
         # ebb: Output goes in the taggedOutput directory: ../taggedOutput
-        with open(, 'w') as f:
+        with open(targetFile, 'w') as f:
+            f.write(stringFile)
+
+
+
+
 
 
 
