@@ -55,11 +55,6 @@ def readTextFiles(filepath):
         # string = xpath.__str__()
         string = str(xpath)
 
-        # ebb: Using REGEX to remove element tags for the moment so they don't get involved in the NLP.
-        # elementsRemoved = regex.sub('<.+?>', '', xpath)
-        # ebb: Now I don't have to remove elements because I pulled a string value out of my XML.
-        # Should we remove the single quotation marks? Not sure. If we do, uncomment the next line:
-        # cleanedUp = string.replace("'", '')
         # ebb: I noticed some sentences didn't have a space between end punctuation and the first word of the next sentence.
         cleanedUp = regex.sub("(\.)([A-Z']])", "\1 \2", string)
         cleanedUp = regex.sub("'", ' ', cleanedUp)
