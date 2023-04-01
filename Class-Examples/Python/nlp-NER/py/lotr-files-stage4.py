@@ -62,6 +62,7 @@ def readTextFiles(filepath):
         # cleanedUp = string.replace("'", '')
         # ebb: I noticed some sentences didn't have a space between end punctuation and the first word of the next sentence.
         cleanedUp = regex.sub("(\.)([A-Z']])", "\1 \2", string)
+        cleanedUp = regex.sub("'", ' ', cleanedUp)
         # NOT REALLY DOING THIS, but just for illustration if we want to continue refining the input in multiple stages:
         # cleanedUp = regex.sub("(\d)", "NUMBER", cleanedUp)
         # print(cleanedUp)
@@ -156,8 +157,6 @@ def xmlTagger(sourcePath, SortedDict):
         # ebb: Output goes in the taggedOutput directory: ../taggedOutput
         with open(targetFile, 'w') as f:
             f.write(stringFile)
-
-
 
 assembleAllNames(CollPath)
 
