@@ -81,6 +81,9 @@ def readTextFiles(filepath):
 # But on the way, we're printing out as much we can from spaCy's classification of named entities:
 def entitycollector(tokens):
     with open('output.txt', 'w') as f:
+    # ebb: output.txt is not super useful. It will be full of repetitive information, developed and overwritten as each file in the input collection is processed.
+    # We probably don't really need to write this out as a file. I'm writing it out for illustration purposes only.
+    # The more useful output will be the result of the sorted dictionary of all the entries across the whole collection.
         entities = {}
         for ent in sorted(tokens.ents):
         # if entity.label_ == "NORP" or entity.label_ == "LOC" or entity.label_=="GPE":
@@ -88,12 +91,11 @@ def entitycollector(tokens):
         # When using it, remember to indent the next lines for the for loop.
             # print(entity.text, entity.label_, spacy.explain(entity.label_))
             entityInfo = [ent.text, ent.label_, spacy.explain(ent.label_)]
-            stringify = str(entityInfo)
+            stringify = (ent.text + ': ' + ent.label_ + ': ' + spacy.explain(ent.label_) + '\n')
+            # stringify is a string-formatted version of this designed to provide an easily readable file output.
             print(stringify)
             f.write(stringify)
             f.write('\n')
-        # PRINT TO FILE
-            # entities.append(entity.text)
             entities[ent.text] = ent.label_
         print(f"{entities=}")
         return entities
@@ -118,11 +120,10 @@ def assembleAllNames(CollPath):
     AllNamesKeys.sort()
     SortedDict =  {i: AllNames[i] for i in AllNamesKeys}
     print(f"{SortedDict=}")
-    # print(len(AllNames))
-
-    # Let's write just the SORTED DICTIONARY to an output file, because we can!
-    with open('distNamesDict.txt', 'w') as f:
-        f.write(str(SortedDict))
+    writeSortedEntries(SortedDict)
+        # ebb: I'm defining a function that will just write out these entries
+        # line by line in an output file so the sorted dictionary items are easier
+        # to read and review. The file converts the dictionary entries to strings.
 
     # ebb: FINALLY, let's tag these distinct names in our source XML
     for file in os.listdir(CollPath):
@@ -131,6 +132,11 @@ def assembleAllNames(CollPath):
             eachFileData = xmlTagger(sourcePath, SortedDict)
 
     return eachFileData
+
+def writeSortedEntries(dictionary):
+    with open('distNamesDict.txt', 'w') as f:
+        for key, value in dictionary.items():
+            f.write(key + ' : ' + value + '\n')
 def xmlTagger(sourcePath, SortedDict):
     with open(sourcePath, 'r', encoding='utf8') as f:
         readFile = f.read()
