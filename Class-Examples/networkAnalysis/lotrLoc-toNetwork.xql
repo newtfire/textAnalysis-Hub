@@ -10,7 +10,10 @@ let $chapter := $lotrLoc//chapter
 (: Okay, let's get data on which book-chapters the various names turn up in, 
  : and what kinds of names they are:)
     for $d in $distinctNames
-    let $books := $lotrLoc/xml[.//name = $d]
+    let $dType := ($lotrLoc//name[. ! normalize-space() = $d])[1]/@type ! string()
+    (:  SOURCE NODE ($d) + CATEGORY DESCRIPTOR ($dType)
+    Pick up the type from just the very first match: we need a sequence of exactly one for the string concatenation :)
+    let $books := $lotrLoc/xml[.//name ! normalize-space() = $d]
     (: We should splice the book info to the chapter info for these :)
         for $b in $books
             let $bID := $b/@xml:id ! data()
@@ -18,16 +21,17 @@ let $chapter := $lotrLoc//chapter
                 (: Now we find the connected names in each chapter :)
                 for $c in $chapters
                     let $cID := $c/heading ! replace(., 'Chapter ', 'chap') ! ($bID || '-' || .) => string-join("&#x9;")
+                    (: EDGE CONNECTOR is $cID. We can use $bID (the book title info) as an EDGE DESCRIPTOR for styling :)
                     let $connectedNames := $c[.//name ! normalize-space() = $d]//name[not(. ! normalize-space() = $d)]
                     (: This says, find the connected names in the chapter that are NOT the same as the source node:)
-                    let $connectedString := $connectedNames => distinct-values() => string-join("&#x9;")
+                    let $distinctTargets := $connectedNames => distinct-values() 
                     (: Taking distinct values to simplify the output :)
-                    (: This is a tab character that we use for a separator in preparing the network data:  "&#x9;":)
-                    return ($d ||  "&#x9;" || $cID || "&#x9;" || $connectedString), "&#10;");
+                        for $t in $distinctTargets
+                        (: This is a tab character that we use for a separator in preparing the network data:  "&#x9;":)
+            return ($d (: source :) ||  "&#x9;" || $dType (: source att :) || "&#x9;" || $cID  (: edge :)|| "&#x9;" || $bID (: edge att :) ||"&#x9;" || $t (: target :)), "&#10;");
         (: The string-join that ties the file together wraps up with a line-return at the 
         end of each row with "&#10;" You have to end the global variable with the ; (a semicolon). :)
 
-let $filename := "lotrPlaceOrgNetwork.sif"
+let $filename := "lotrPlaceOrgNetwork.tsv"
 let $doc-db-uri := xmldb:store("/db/00-students-00/sampleStudent/", $filename, $textFileContent, "text/plain")
-return $doc-db-uri  
-  (: output at :http://newtfire.org:8338/exist/rest/db/00-students-00/sampleStudent/lotrPlaceOrgNetwork.sif ) :)    
+return $doc-db-uri   
