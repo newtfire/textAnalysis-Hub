@@ -247,7 +247,6 @@ Grey Fool : ORG
 Grey Havens : GPE
 Grimbold : ORG
 Grond : GPE
-Gr� : ORG
 Guard : ORG
 Guarded City : GPE
 Hador : ORG
@@ -617,7 +616,6 @@ Wood : ORG
 Woodhall : ORG
 Woodmen : ORG
 Woody-End : FAC
-Worm : ORG
 Woses : ORG
 Wraiths : NORP
 Zirak : GPE

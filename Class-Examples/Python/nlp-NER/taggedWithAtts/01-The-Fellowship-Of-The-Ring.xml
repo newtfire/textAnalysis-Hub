@@ -1,4 +1,5 @@
-<xml>
+<xml xml:id="Fellows">
+    <title>THE FELLOWSHIP OF THE RING</title>
     <prologue>
         <p>Three Rings for the <name type="ORG">Elven</name>-kings under the sky,</p>
         <p>Seven for the <name type="ORG">Dwarf</name>-lords in their halls of stone,</p>
