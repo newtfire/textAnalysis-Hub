@@ -1,8 +1,17 @@
 xquery version "3.1";
-(: Example XQuery to output a SIF format for Cytoscape network analysis :)
-declare variable $textFileContent := string-join(
+(: Example XQuery to output TSV formatted network data for Cytoscape network analysis 
+Redoing this for running on a local computer with oXygen XML Editor
+In oXygen we don't need the complex setup to save the file, but you do still need to output a string-join to 
+bundle the text file together.
+:)
     (: For a text output, start with a half-open string-join to bundle the file together  :)
-let $lotrLoc := collection('/db/lotrLoc')
+(: This line below is for eXist-dB: :)
+(: let $lotrLoc := collection('/db/lotrLoc') :)
+(: For oXygen XML Editor and your collection files loaded nearby: make sure you add the part to filter out non-XML files from your local system.:)
+
+declare variable $textFileContent := string-join(
+let $lotrLoc := collection('taggedWithAtts/?select=*.xml')
+
 let $names := $lotrLoc//name
 let $distinctNames := $names ! normalize-space() => distinct-values() => sort()
 let $bookTitle := $lotrLoc//title
@@ -31,7 +40,5 @@ let $chapter := $lotrLoc//chapter
             return ($d (: source :) ||  "&#x9;" || $dType (: source att :) || "&#x9;" || $cID  (: edge :)|| "&#x9;" || $bID (: edge att :) ||"&#x9;" || $t (: target :)), "&#10;");
         (: The string-join that ties the file together wraps up with a line-return at the 
         end of each row with "&#10;" You have to end the global variable with the ; (a semicolon). :)
-
-let $filename := "lotrPlaceOrgNetwork.tsv"
-let $doc-db-uri := xmldb:store("/db/00-students-00/sampleStudent/", $filename, $textFileContent, "text/plain")
-return $doc-db-uri   
+ $textFileContent
+ 
