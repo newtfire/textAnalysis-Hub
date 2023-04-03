@@ -1,0 +1,1238 @@
+ADELARD TOOK : ORG
+ANGELICA : GPE
+AWAKE : ORG
+Adelard : ORG
+Aglarond : LOC
+Aiya : GPE
+Ambar : LOC
+Ambar-metta : ORG
+Amon D�n : GPE
+Anborn : GPE
+Ancalagon the Black : ORG
+Anduin : GPE
+Anduin the Great : GPE
+Anfalas : ORG
+Angband : ORG
+Angbor : ORG
+Angrenost : ORG
+Anor : GPE
+Apple : ORG
+Appledore : GPE
+Aragorn : GPE
+Arathorn : ORG
+Argonath : GPE
+Arnach : ORG
+Arnor : ORG
+Arod : GPE
+Arvedui : LOC
+BRACEGIRDLE : ORG
+BREE : GPE
+Bag End : FAC
+Bag End's : ORG
+Bagginses : ORG
+Bagshot Row : ORG
+Balrog : GPE
+Bamfurlong : GPE
+Bandobras the Bullroarer : ORG
+Barad-d : FAC
+Barad-d� : ORG
+Barad-d�r : FAC
+Barad-d�r. : GPE
+Barahir : LOC
+Baranor : GPE
+Bard the Bowman : ORG
+Bardings : ORG
+Barley : ORG
+Barliman : ORG
+Barrow : ORG
+Barrowfield : LOC
+Battle Gardens : FAC
+Battle Plain : LOC
+Bear bee-hunter : ORG
+Bearer : ORG
+Belfalas : GPE
+Beorn : ORG
+Beornings : ORG
+Beregond : LOC
+Bergil : GPE
+Berhael : GPE
+Better Smials : ORG
+Big People : ORG
+Big and Little : ORG
+Bilbo : ORG
+Birthday Party : ORG
+Black : ORG
+Black Gate : FAC
+Black Men : ORG
+Black Rider : ORG
+Black Riders : ORG
+Black Rulers : ORG
+Blackroot Vale : LOC
+Blue : ORG
+Bolgers : ORG
+Bombadil : GPE
+Bombur : ORG
+Books of Lore : ORG
+Bracegirdles : GPE
+Brand : ORG
+Brandy Hall : FAC
+Brandywine : FAC
+Brandywine Bridge : FAC
+Bree : GPE
+Bree-hill : GPE
+Brego : ORG
+Bribing Guards with Food : ORG
+Bridge : FAC
+Bridgefields : LOC
+Brockhouses : GPE
+Buckland : GPE
+Bucklebury : ORG
+Bucklebury Ferry : ORG
+Budgeford : ORG
+Burg : FAC
+Burrowses : GPE
+Bywater : GPE
+Cair Andros : GPE
+Calembel : ORG
+Calenardhon : ORG
+Caradhras : GPE
+Caras Galadhon : ORG
+Carchost : GPE
+Carn D�m : ORG
+Causeway : FAC
+Celebdil : GPE
+Celeborn : ORG
+Celebrimbor : ORG
+Celos : ORG
+Chubb : ORG
+Chubbs : ORG
+Cirith : ORG
+Cirith Gorgor : ORG
+Cirith Ungol : ORG
+Cirith UngolGollum : ORG
+Citadel : ORG
+Citadel to Gate : FAC
+City : LOC
+Combe and : ORG
+Come with me!'He : ORG
+Companions : ORG
+Company : ORG
+Conin : ORG
+Coomb : LOC
+Cormallen : GPE
+CormallenAll : ORG
+Corsairs : ORG
+Cottons : ORG
+Council : ORG
+Council of ElrondNext : ORG
+Courage : ORG
+Crickhollow : ORG
+Cross : ORG
+Curiosity : ORG
+DORA : ORG
+Daeron : ORG
+Dale : ORG
+Damrod : GPE
+Dead City : GPE
+Dead Men : ORG
+Derufin : GPE
+Dimrill : GPE
+Dior : ORG
+Dior Thingol's : ORG
+Door : ORG
+Downs : LOC
+Drogo : ORG
+Dunharrow : GPE
+Dunland : GPE
+Durthang : GPE
+Dwarf : ORG
+Dwarves : ORG
+Dwimorberg : GPE
+Earth : LOC
+East : LOC
+East An�rien : LOC
+East Osgiliath : LOC
+East Road : FAC
+East-West Road : LOC
+East-gate : LOC
+East-mountains : LOC
+Easterling : GPE
+Eastfarthing : GPE
+Eastlands : GPE
+Ecthelion : ORG
+Edoras : ORG
+Egladil : GPE
+Eilenach : GPE
+Eilenach Beacon : ORG
+Elanor : ORG
+Elbereth Gilthoniel!silivren penna m : ORG
+Eldamar : GPE
+Elendil : ORG
+Elessar : ORG
+Elf : ORG
+Elf and Dwarf : ORG
+Elfhelm : GPE
+Elfstone : ORG
+Elladan : ORG
+Elrohir : ORG
+Elrond the Halfelven : ORG
+Elven : ORG
+Elven Tirion : GPE
+ElvenhomeShe : ORG
+Elves : ORG
+Elves and Men : ORG
+Elves or Men : ORG
+Emyn Muil : ORG
+Ent : ORG
+Entish : GPE
+Entmaidens : ORG
+Entmoot : ORG
+Ents : ORG
+Entwash : GPE
+Entwood : ORG
+Envinyatar : GPE
+Eorl the Young : ORG
+Eorl the Young to Th : ORG
+Eorlingasthrough : ORG
+Ephel D�ath : FAC
+Erebor : ORG
+Ered Lithui : ORG
+Ered Nimrais : ORG
+Eregion : ORG
+Eriador : ORG
+Erkenbrand : ORG
+Ernil i : ORG
+Ernil i Pheriannath : ORG
+EruiIn : ORG
+Esgaroth : GPE
+Ethir : ORG
+Evenstar : ORG
+Exiles : ORG
+Eye : ORG
+Fair : ORG
+Fair Ithil : ORG
+Fair River-daughter!O : ORG
+Fairs of Wizards : ORG
+Fangorn : GPE
+Fangorn Forest : ORG
+Fanuidhol : GPE
+Far Harad : ORG
+Fatty Lumpkin : ORG
+FellowshipAragorn : GPE
+Ferny : GPE
+Ferry : FAC
+Field of Celebrant : FAC
+Fiery Mountain : FAC
+Fire : ORG
+Firienfeld : ORG
+Firienwood : GPE
+Firstborn : ORG
+Fissh : ORG
+Fladrif : ORG
+Foes : ORG
+Ford : ORG
+Fords : ORG
+Forest : ORG
+Forest River : LOC
+Forgoil : ORG
+Fornost : GPE
+Fornost Erain : GPE
+Forth Helmingas : GPE
+Free Peoples of the World: Elves : ORG
+Frodo : ORG
+Frodo and the Ring of Doom : ORG
+Frodo water : ORG
+Frogmorton : ORG
+G3 : ORG
+Galadhrim : ORG
+Galdor : ORG
+Gamgee : ORG
+Gandalf the White Rider : ORG
+Gap : ORG
+Gate : FAC
+Gate Erkenbrand : ORG
+Gates : ORG
+Gateway : FAC
+Giants : ORG
+Goatleaf : GPE
+Golden Perch : ORG
+Gondor : ORG
+Gorbadoc : ORG
+Gorbag : GPE
+Gram : ORG
+Great Orcs : FAC
+Great River : LOC
+Green : ORG
+Greenfields : GPE
+Greenway : FAC
+Grey : ORG
+Grey Company : ORG
+Grey Fool : ORG
+Grey Havens : GPE
+Grey HavensThe : ORG
+Grimbold : ORG
+Grond : GPE
+Gr�ma : ORG
+Gr�ma away!''You : ORG
+Guard : ORG
+Hador : ORG
+Hador the Goldenhaired : ORG
+Haldir : GPE
+Halfast : ORG
+Halflings : GPE
+Hamfast : LOC
+Hammerhand : ORG
+Harad : ORG
+Haradrim : ORG
+Hardbottle : GPE
+Harrowdale : ORG
+Harvest : ORG
+Hasufel : GPE
+Hasufel and Arod : ORG
+Haven : GPE
+Havens : GPE
+Haysend : LOC
+Healers : ORG
+Heathertoes : GPE
+Hedge : ORG
+Helm : GPE
+Hen : ORG
+Henneth Ann�n : GPE
+Herefara : GPE
+Herubrand : GPE
+Hill : ORG
+Hirgon : GPE
+Hirluin : ORG
+Hoarwell : ORG
+Hobbiton : LOC
+Hollin : GPE
+Hornblowers : ORG
+Hornburg : GPE
+Hornrock : ORG
+House : ORG
+Houses : ORG
+Hullo : ORG
+Huorn : GPE
+Huorns : GPE
+H�ma : ORG
+IShall : ORG
+Iarwain : FAC
+Imladris : GPE
+Imloth Melui : ORG
+Ioreth : ORG
+Irensaga : ORG
+IsengardSo : GPE
+Isengarders : ORG
+Isenmouthe : GPE
+Isildur : ORG
+Isildur Elendil's : GPE
+Isildur the Ruling Ring : ORG
+Ithil : ORG
+Khaz : GPE
+Khazad-d : ORG
+Khazad-d� : ORG
+Khazad-d�m : ORG
+Kibil-n : GPE
+King Brand : ORG
+King Elessar : ORG
+King Th� : FAC
+King Th�oden : ORG
+King Th�oden's : ORG
+King of Angmar : ORG
+King of Rohan : ORG
+King of the : ORG
+KingOver the city : LOC
+Lake Evendim : FAC
+Lake N : LOC
+Lamedon : ORG
+Lassemista : ORG
+Laurelind : GPE
+Leaflock : ORG
+Lebennin : ORG
+Lhaw : ORG
+Linhir : LOC
+Lockholes : GPE
+Longholes : GPE
+Lords : ORG
+Lorien : GPE
+Lossarnach : ORG
+Lost Isle : GPE
+Lotho : ORG
+Loudwater : LOC
+Lugb : GPE
+Lune : ORG
+Mablung : ORG
+Malbeth the Seer : ORG
+Mardil : GPE
+Marish : ORG
+Marshes : LOC
+Mearas : ORG
+Meduseld : GPE
+MeetingsFrodo : GPE
+Mellon : ORG
+Mellyrn : ORG
+Men : ORG
+Men against Men : ORG
+Men ago : ORG
+Men and Dwarves : ORG
+Men and Elven : ORG
+Men and Elves : ORG
+Men and Orcs : ORG
+Men call Ents : ORG
+Men of Rohan : ORG
+Men of Westernesse : ORG
+Men of old : ORG
+Men of the Ancient Houses : ORG
+Men of the West : ORG
+Meneldil : ORG
+Menelvagor : ORG
+Mercy : ORG
+Merethrond : GPE
+Meriadoc : ORG
+Middle Men : ORG
+Middle-earth : LOC
+Middle-earth Men : LOC
+Min-Rimmon : GPE
+Minas Anor : GPE
+Minas TirithPippin : ORG
+Mindolluin : GPE
+Mines : ORG
+Mirkwood : GPE
+Mirror : ORG
+Mirror of GaladrielThe : ORG
+Mirrormere : GPE
+Misty Mountains : LOC
+Mithrandir : LOC
+Moon : LOC
+Morannon : GPE
+Mordor : GPE
+Morgul Vale : GPE
+Moria : GPE
+Moria-gate : FAC
+Mortal Men : ORG
+Mount Doom : LOC
+Mount Everwhite : ORG
+Mount Mindolluin : LOC
+Mountain : LOC
+Mountain Wall : LOC
+Mountains : LOC
+Mugworts : ORG
+Mundburg : GPE
+MushroomsIn : GPE
+Narchost : GPE
+Nardol : GPE
+Nargothrond : GPE
+NargothrondAnd : ORG
+Narsil : ORG
+Narya : GPE
+Nassty : ORG
+Nasty Men : ORG
+Naur : ORG
+Necromancer : ORG
+Neldoreth : GPE
+Nen Hithoel : ORG
+New Row : ORG
+Nice : GPE
+Nimloth : ORG
+Nimrodel : GPE
+Ninnyhammers : ORG
+Nob : ORG
+Norbury : GPE
+Norland : GPE
+North : LOC
+North Downs : LOC
+North Kingdom : GPE
+North Road : FAC
+North Wind : LOC
+North end : LOC
+North to South : LOC
+North-east : LOC
+North-west : LOC
+Northerland : ORG
+Northern Men : ORG
+Northern landsArose : LOC
+Northerners : LOC
+Northlands : LOC
+Northmen : LOC
+N�menoreans : ORG
+ON PARTY : ORG
+Ohtar : LOC
+Old Gondor : GPE
+Oliphaunt : ORG
+Orc : ORG
+Orcses : GPE
+Orodruin : LOC
+Orom : ORG
+Orophin : ORG
+Orthanc the Ents : ORG
+Osgiliath : GPE
+Otho : ORG
+Outsiders : ORG
+Overlord : FAC
+PPS : ORG
+PS : ORG
+Parth Galen : FAC
+Party : ORG
+Party Business : ORG
+PastThe : ORG
+Pelargir : GPE
+Pelargir the Heir of Isildur : ORG
+Pelennor : ORG
+Peregrin : ORG
+Peregrin Took : ORG
+Pheriain : ORG
+Phial : ORG
+Plain : LOC
+Pony : ORG
+Pool Side : FAC
+Power : ORG
+Quest : ORG
+Quick Post : ORG
+Quickbeam : GPE
+Radagast : ORG
+Rammas : ORG
+Rams : ORG
+Rangers : ORG
+Rangers of Ithilien : ORG
+Rangers of the North : ORG
+Rapids : GPE
+Rath D�nen : ORG
+Rath D�nen.'You : ORG
+Rauros : GPE
+Rauros-foot : FAC
+Red Arrow : ORG
+Redhorn : GPE
+Rhosgobel : LOC
+Riddermark : ORG
+Riders : ORG
+Ring : ORG
+Ringlord : GPE
+Ringwraith : ORG
+Rivendell : GPE
+River : LOC
+Road : FAC
+RohanDusk : ORG
+RohanNow : ORG
+RohirrimIt : ORG
+Rose : FAC
+SACKVILLE : ORG
+SHIRE : ORG
+Sackville : GPE
+Sackville-Bagginses : ORG
+Saddle : ORG
+Sandyman : ORG
+Saruman : ORG
+Sauron : ORG
+Scatha the Worm : ORG
+Sea : LOC
+SeaThe : GPE
+Shadowfax : GPE
+Shagrat : ORG
+Sharp : ORG
+Shelob : FAC
+Shire : LOC
+Shirefolk : ORG
+Shiretalk : GPE
+Shore : LOC
+Shores : LOC
+Silmarils : ORG
+Silverlode : ORG
+Sinome : ORG
+Sirannon : LOC
+Skinbark : ORG
+Slinker : ORG
+Smaug : ORG
+Snowmane : LOC
+South : LOC
+South Ithilien : LOC
+South Lane : LOC
+South one : LOC
+South-gate : LOC
+South-west : LOC
+Southern Mirkwood : ORG
+Southfarthing : GPE
+Southlands : LOC
+Southron : ORG
+Southrons : ORG
+Southward : ORG
+Speech : ORG
+Staddle : ORG
+Steward : ORG
+Stewards : ORG
+Stick : FAC
+Sting : GPE
+Stinker Slinker : ORG
+Stock : ORG
+Stone : ORG
+Stone the Company : ORG
+Stonehouse : ORG
+Stonewain Valley : LOC
+Stoors : ORG
+Stormcrow : ORG
+Strange as News : ORG
+Strawheads : GPE
+Strider : ORG
+Strider and : ORG
+Strider and Merry : ORG
+Strider the Ranger : LOC
+Strong Men : ORG
+Sun : ORG
+Sunlending : GPE
+Sunset : LOC
+Swertings : GPE
+THE PRANCING PONY : ORG
+Tall Men : ORG
+Tarlang : GPE
+Taur-na-neldor!It : GPE
+Telcontar : ORG
+Thain : GPE
+Tharbad : ORG
+The Black Gate : FAC
+The Black Pits : ORG
+The Caverns of Helm's : LOC
+The Dark Tower : FAC
+The Dead awaken;for : ORG
+The East Wind : LOC
+The Eye of Barad-d� : ORG
+The Golden Hall : FAC
+The Inn of Bree : ORG
+The King Elessar : ORG
+The Land of ShadowSam : ORG
+The Lords of Gondor : ORG
+The Men of Bree : ORG
+The Men of Minas Tirith : ORG
+The Men of Westernesse : ORG
+The Men of the Mark : ORG
+The Men of the West : ORG
+The Mines of Moria : ORG
+The North Wind : LOC
+The Old Grange : ORG
+The Old Road : FAC
+The Prancing Pony : ORG
+The Red Arrow : ORG
+The Red Eye : ORG
+The Ring of Power : ORG
+The River of Gondor : LOC
+The Sackville-Bagginses : ORG
+The Taming of Sm� : ORG
+The Tower of Guard : ORG
+The Wandering Companies : ORG
+The Wild Men : ORG
+The Withywindle valley : LOC
+The eastern arch : ORG
+Thengling : GPE
+Thingol : ORG
+Third Deep : LOC
+Thistlewool : GPE
+Thorin Oakenshield?'`Quite : LOC
+Thornbushes : ORG
+Thranduil : ORG
+Three Houses of Men : ORG
+Thrice : ORG
+Thrihyrne : ORG
+Throne : ORG
+Tighfield : ORG
+Time : ORG
+Tirion the Fair : FAC
+Tirith : ORG
+Tombs : FAC
+Tookland : ORG
+Tooks : ORG
+Tower : FAC
+Tower of the Moon : FAC
+Towers : FAC
+Travellers : ORG
+Troll : ORG
+Trolls : ORG
+Tuckborough : GPE
+Tumladen : GPE
+Undergate : ORG
+Underharrow : FAC
+Underhill : ORG
+Underhills : ORG
+Und�miel : ORG
+Ungoliant : ORG
+Untidy : ORG
+Unwearied : ORG
+Valandil : GPE
+Valley : LOC
+Varda : ORG
+Variags : GPE
+Vilya : LOC
+Wandlimb : ORG
+Warden : ORG
+Wargs : FAC
+Watchers : ORG
+Water Hot : ORG
+Waymeet : FAC
+Weathertop : ORG
+Weathertop Hill : LOC
+Wellinghall : ORG
+West : LOC
+West Wind : LOC
+West the : LOC
+West-gate : LOC
+WestIt : ORG
+Westemnet : ORG
+Western Seas : LOC
+Westernesse : ORG
+Westfarthing : GPE
+Westfold : GPE
+Westfolders : ORG
+Westgate : GPE
+Westron : ORG
+Wetwang : GPE
+White Hand : ORG
+White Horse : ORG
+White Rider : ORG
+Whitfurrows : ORG
+Wild Men : ORG
+Wilderland : ORG
+Wilderness : LOC
+Windfola : ORG
+Windlord : ORG
+Withywindle : ORG
+Wizard : ORG
+Wizards : ORG
+Wold : ORG
+Wood : ORG
+Woodhall : ORG
+Woodmen : ORG
+Woody-End : FAC
+Worm : ORG
+Woses : ORG
+Yale : ORG
+Yellow : ORG
+Zirak : GPE
+`Garn!' : ORG
+`Go : ORG
+`Gollum : ORG
+`Hullo : ORG
+`Is : ORG
+`Let : ORG
+`The Company of the Ring : ORG
+`The Men of N : ORG
+`They're Elves : ORG
+`Well : ORG
+a Great Ring : FAC
+a golden cup : FAC
+a white sea : LOC
+agelong : GPE
+airet : ORG
+astir : GPE
+barrow empty!Lost : GPE
+bedewed : ORG
+bhosh skai' : ORG
+bowshot : ORG
+breek-neek : GPE
+burg : GPE
+byre : ORG
+clop-clop : ORG
+crannied : ORG
+crystal hewnUndimmed : LOC
+cypress : FAC
+dahrar boom : ORG
+dahrar boom boom : ORG
+dale : GPE
+dark and windless Mirrormere;There : ORG
+dayseast : ORG
+dell : ORG
+dong : GPE
+doorwardens : GPE
+downone : GPE
+dromunds : ORG
+earth : LOC
+elanor : ORG
+elven : ORG
+fairGo : ORG
+farWhere : ORG
+fed : ORG
+feetWill : ORG
+ford : ORG
+frozen hills : GPE
+galenas : ORG
+ghylls : ORG
+giants : ORG
+glen : LOC
+greatheart : ORG
+green pasturesin : GPE
+grey Ents : ORG
+grey east : LOC
+grey hill : ORG
+grey hills : GPE
+grey leagues : ORG
+grey palfrey : ORG
+grey stone : ORG
+grey-green bank : ORG
+gulf : LOC
+habergeon : ORG
+harry the Orcs : ORG
+herdfolk : ORG
+hill : ORG
+hillmen : ORG
+hom : GPE
+horsebreeders : ORG
+hoy : ORG
+hullo : ORG
+hythe : LOC
+ilex : GPE
+innbeneath : ORG
+intaken : ORG
+ithildin : GPE
+kingsdoom : GPE
+laita te! : ORG
+le linnathonnef aear : ORG
+le nallon : ORG
+lion ornemalin : ORG
+loremaster : ORG
+menel : ORG
+miller : ORG
+misdoubt the Elves : ORG
+misty air : ORG
+mithril : ORG
+mithril and steel : ORG
+mithril-rings : ORG
+nassty : ORG
+naur : ORG
+neek-breek : GPE
+nick : GPE
+niermi oromardi lisse-miruv : ORG
+ninnyhammer : GPE
+nuncheon : LOC
+ortan : GPE
+palan-diriel : ORG
+perian  Meriadoc : ORG
+pilgrim : ORG
+poolis wet : ORG
+rThe : GPE
+reek : GPE
+renan : GPE
+ri : GPE
+riello caita morni�i falmalinnar imb� : ORG
+risinghe : ORG
+ruffian : ORG
+runTowards : ORG
+saxifrages : ORG
+sec : ORG
+sincahonda : GPE
+skiesHe : GPE
+sleepies : GPE
+sloe : ORG
+slowcoach : GPE
+snowy mountains : LOC
+southern hill : LOC
+starIn : ORG
+swart : ORG
+the Ashen Mountains : LOC
+the Bay of Belfalas : LOC
+the Black Country : LOC
+the Black Gate : FAC
+the Black Gate of Mordor : FAC
+the Black Gates : FAC
+the Black Hand : ORG
+the Black Land : LOC
+the Black Pit : LOC
+the Black Pits : LOC
+the Black Riders : ORG
+the Black Riders!''Black Riders : LOC
+the Black Stone : ORG
+the Black Wings : ORG
+the Blue Mountains : LOC
+the Bonfire Glade : FAC
+the Bracegirdles of : GPE
+the Brandywine Bridge : FAC
+the Brandywine River : LOC
+the Brandywine below Haysend : FAC
+the Bridge : FAC
+the Bridge Inn : FAC
+the Bridge above Stock : FAC
+the Bridge of : FAC
+the Bridge of Mitheithel : FAC
+the Bridge to Bag End : FAC
+the Brown Lands : LOC
+the Bruinen of Rivendell : ORG
+the Buck Hill : FAC
+the Buckland Gate : FAC
+the Bucklebury Ferry : ORG
+the Bywater Road : FAC
+the Causeway Forts : FAC
+the Chambers of Fire : ORG
+the Citadel gate : FAC
+the Citadel of Gondor : FAC
+the Citadel-gate : FAC
+the City Gate : FAC
+the City Wall : FAC
+the City of Gondor : GPE
+the City of Minas : GPE
+the City of the : GPE
+the City of the Men of Gondor : GPE
+the City of the Trees : GPE
+the City, Merry : GPE
+the City. : GPE
+the Company Gandalf : ORG
+the Council of Elrond : ORG
+the Council of the Wise : ORG
+the Council. : ORG
+the Court of the Fountain : ORG
+the Dark Power : ORG
+the Dark Tower : FAC
+the Dark Tower of Mordor : FAC
+the Dark Tower's : FAC
+the Dead Marshes : LOC
+the Dead Men : ORG
+the Dimrill Gate : FAC
+the Dimrill Stair : ORG
+the Dominion of Men : ORG
+the Doorward of Th : GPE
+the Dwimorberg : GPE
+the D�nadan's?''It : ORG
+the Eagles of the Misty Mountains : ORG
+the Eagles of the Mountains : ORG
+the Eagles of the North : ORG
+the East Dales : LOC
+the East End : LOC
+the East Men : ORG
+the East Road : FAC
+the East Wall : FAC
+the East Wind : LOC
+the Elf-Kingdoms : ORG
+the Elven Door : FAC
+the Elves of Mirkwood : ORG
+the Emyn Muil : ORG
+the Encircling Mountains : LOC
+the Ephel D� : FAC
+the Ephel D�ath : FAC
+the Ephel D�ath and : FAC
+the Ephel D�ath and the River : FAC
+the Ephel D�ath. : FAC
+the Evening Star : ORG
+the Eye of Mordor : ORG
+the Eye of Sauron : ORG
+the Fallen King : FAC
+the Far Downs : LOC
+the Far South : LOC
+the Field of Celebrant : FAC
+the Field of Cormallen : LOC
+the Fiery Mountain : FAC
+the Fire of Doom : ORG
+the First Eastfarthing Troop : ORG
+the First Hall : FAC
+the Five Wizards : ORG
+the Gate of Gondor : FAC
+the Gate of Kings : FAC
+the Gate of Mordor : FAC
+the Gate of the City : FAC
+the Gate seven hundred feet below : FAC
+the Gladden Fields : FAC
+the Gladden River : LOC
+the Golden Hall : FAC
+the Golden House : ORG
+the Golden Wood : FAC
+the Great Eagles : ORG
+the Great Eye : ORG
+the Great Gate : FAC
+the Great Gate of the City : FAC
+the Great Gate of the Men of Gondor : FAC
+the Great Gates : FAC
+the Great Hall of Feasts : FAC
+the Great Horn : LOC
+the Great Jewel : ORG
+the Great Lands : LOC
+the Great Ring : ORG
+the Great River : LOC
+the Great River's end : LOC
+the Great Sea : LOC
+the Great Ships : ORG
+the Great Signal : ORG
+the Great Smials : LOC
+the Great Tower : FAC
+the Great Wood : FAC
+the Green Hill Country : ORG
+the Green Hills : LOC
+the Grey Company : ORG
+the Grey CompanyGandalf : ORG
+the Grey Havens : FAC
+the Grey Host : LOC
+the Grey Pilgrim : ORG
+the Grey Wood : FAC
+the Guard of Faramir, Prince of Ithilien : ORG
+the Guard of the Citadel : ORG
+the Guard of the Tower of Gondor : ORG
+the Guarded City : GPE
+the Guards of the Citadel : ORG
+the Gulf of Lune : LOC
+the Hall of Fire : ORG
+the Hall of Fire' : ORG
+the Hall of the Kings : ORG
+the Hall of the Tower : ORG
+the Hall of the White Tower : ORG
+the Haunted Mountain : LOC
+the Hay Gate : FAC
+the High City : GPE
+the High Court : ORG
+the High Elves : ORG
+the High Sea : LOC
+the Hill Road : FAC
+the Hill at Bag End : ORG
+the Hill of Erech : ORG
+the Hill of Guard : ORG
+the Hill of the Eye of the Men of N : ORG
+the Hobbiton Road : FAC
+the House of An� : ORG
+the House of Elendil : ORG
+the House of Elrond : ORG
+the House of Eorl : ORG
+the House of Eorl the Young : ORG
+the House of the Stewards : ORG
+the Houses of Healing : ORG
+the Inland Sea : LOC
+the Inn at Bree : FAC
+the Iron Crown : ORG
+the Isenmouthe twenty miles : FAC
+the Isle of : GPE
+the King Elessar : ORG
+the King of Rohan : ORG
+the Kingdom of D : GPE
+the Kings of Gondor : ORG
+the Kings of Men : ORG
+the Kings of Men to Middle-earth : ORG
+the Kings of N : ORG
+the Kings of Old : ORG
+the Lady Galadriel : ORG
+the Land of Angmar : ORG
+the Land of Gondor?'`I : ORG
+the Land of L�rien : ORG
+the Land of Mordor : ORG
+the Land of Shadow : ORG
+the Last Alliance : ORG
+the Last Alliance of Elves and Men : ORG
+the Last Bridge : FAC
+the Last Mountain : LOC
+the Lidless Eye : ORG
+the Little People : ORG
+the Lonely Mountain : LOC
+the Long Lake : LOC
+the Lords of Moria : ORG
+the Lords of Westernesse : ORG
+the Mark!''And�ril : ORG
+the Men of Bree : ORG
+the Men of Dale : ORG
+the Men of Gondor : ORG
+the Men of Harad : ORG
+the Men of Minas Tirith : ORG
+the Men of N : ORG
+the Men of Rh�n : ORG
+the Men of Rohan : ORG
+the Men of Westernesse : ORG
+the Men of old : ORG
+the Men of the City : ORG
+the Men of the Mountains : ORG
+the Men of the Sea : ORG
+the Men of the Sea � : ORG
+the Men of the West : ORG
+the Middle Peoples : ORG
+the Midgewater Marshes : LOC
+the Mines of Moria : ORG
+the Mirror of Galadriel : ORG
+the Misty Mountains : LOC
+the Morgul Pass : FAC
+the Morgul Valley : LOC
+the Mounds of Mundburg : LOC
+the Mountain of Fire : ORG
+the Mountain of Fire the One Ring : ORG
+the Mountains of Gondor : LOC
+the Mountains of Lune : LOC
+the Mountains of Mist : ORG
+the Mountains of Moria : ORG
+the Mountains of Shadow : LOC
+the Mountains of Terror : LOC
+the Nameless Pass : FAC
+the Nazg�l. : FAC
+the Nazg�l.''The : FAC
+the New Row : ORG
+the North Downs : LOC
+the North Gandalf : LOC
+the North Isildur's : LOC
+the North Kingdom : LOC
+the North March : LOC
+the North Moors : LOC
+the North Road : FAC
+the North Stair : ORG
+the North Wind : LOC
+the Northern Fences : ORG
+the Northern Lands : LOC
+the N�menoreans : ORG
+the Old Forest : ORG
+the Old Guesthouse : ORG
+the Old Mill : FAC
+the Old Road : FAC
+the One Ring : ORG
+the Orcs and Men : ORG
+the Orcs of Barad-d�r : ORG
+the Orcs of Mordor : ORG
+the Orcs of the Mountains : ORG
+the Party Field : FAC
+the Party Tree : ORG
+the Phial Frodo : ORG
+the Phial of Galadriel : ORG
+the Power in Barad-d�r : ORG
+the Power of the Black Land : ORG
+the Prince Imrahil : LOC
+the Puddifoots of Stock : ORG
+the Rath Celerdain : FAC
+the Realm of Gondor : ORG
+the Realm of Sauron : ORG
+the Red Arrow : LOC
+the Red Eye : ORG
+the Redhorn Gate : FAC
+the Ring of Isengard : ORG
+the Ring of Power : ORG
+the Ring of Rings : ORG
+the Ring's Company : ORG
+the Rings A Long : ORG
+the Rings of Power : ORG
+the Rising Moon : LOC
+the River Bruinen : FAC
+the River Hoarwell : LOC
+the River Silverlode : LOC
+the River Withywindle : LOC
+the River northward : LOC
+the Road : FAC
+the Road west : FAC
+the Ruling Ring : ORG
+the Sackville-Bagginses : ORG
+the Sammath Naur : ORG
+the Sea : LOC
+the Sea the South Wind : LOC
+the Second Gate : FAC
+the Second Hall of Old Moria : FAC
+the Secret Fire : ORG
+the Shadowy Mountains : LOC
+the Shire � : LOC
+the Shirriffs Frodo : ORG
+the Silent Street : FAC
+the Silent Watchers : ORG
+the Smiths of Eregion : ORG
+the Sons of Eorl : ORG
+the Sorceress of the Golden Wood : ORG
+the South Inc : ORG
+the South Kingdom : GPE
+the South Road : FAC
+the South the City : LOC
+the South the Haradrim : LOC
+the Southward Road : FAC
+the Stair Falls : FAC
+the Star of Elendil : ORG
+the Stonewain Valley : LOC
+the Storm of Mordor : ORG
+the Sundering Seas : LOC
+the Sundering Seas ' : LOC
+the Sunlands : GPE
+the Swanfleet river : LOC
+the Teeth of Mordor : ORG
+the Third Company : ORG
+the Third Company of the Citadel : ORG
+the Third Ring : ORG
+the Three Rings : ORG
+the Tindrock Isle : GPE
+the Tower Hall : FAC
+the Tower Hills : FAC
+the Tower of : FAC
+the Tower of Anor : ORG
+the Tower of Barad-d� : ORG
+the Tower of Ecthelion : ORG
+the Tower of Guard : ORG
+the Tower of Orthanc : ORG
+the Tower of Sorcery : ORG
+the Tower of the Moon : FAC
+the Tower of the Sun : FAC
+the Tower-gate : FAC
+the Town Hole : LOC
+the Treegarth of : ORG
+the Trees of Silver and Gold : ORG
+the Uttermost West : LOC
+the Vale of Anduin : LOC
+the Vale of Anduin the Sun : GPE
+the Valley of Living Death : LOC
+the Valley of Saruman : LOC
+the Walls of Moria : ORG
+the Warden of the Houses of Healing : ORG
+the West Road : FAC
+the West Wind : LOC
+the Western Lands : LOC
+the Western Seas : LOC
+the Westfold Vale : LOC
+the White Company : ORG
+the White Council : ORG
+the White Downs : LOC
+the White Mountains : LOC
+the White Mountains Minas Anor : LOC
+the White Tower : FAC
+the White Towers : FAC
+the White Tree : FAC
+the Wild Men : ORG
+the Wild Men of the Woods : ORG
+the Wild Wood : FAC
+the Winding Stair : ORG
+the Withywindle valley : LOC
+the Woodland Realm : LOC
+the Woody End : FAC
+the black ridge : LOC
+the black surcoats : ORG
+the brook growing strong : LOC
+the carven rim : FAC
+the crescent moon : LOC
+the dark hills : LOC
+the dark valley : LOC
+the dell of his ent-house : ORG
+the dell under Weathertop : ORG
+the downfallen West : LOC
+the east bank : GPE
+the eastern bank : GPE
+the eastward hills : LOC
+the golden boughsIn : GPE
+the golden elanor : FAC
+the golden hall : FAC
+the green bank : ORG
+the green dale : ORG
+the grey Emyn Muil : ORG
+the grey dawn : LOC
+the grey hill : FAC
+the grey hills : ORG
+the grey morning : LOC
+the grey night : LOC
+the grey sea : FAC
+the grey sea's : LOC
+the gulf of Doom : LOC
+the hillas the Sun : ORG
+the north bank : GPE
+the red fire : ORG
+the second gate : FAC
+the west bank : GPE
+the western bank : ORG
+the western bridge-end : FAC
+the western ridge : LOC
+the white bridge : ORG
+the white crescent : ORG
+the white crest : ORG
+the white feet : FAC
+the world will bewhen winter : ORG
+the writhen hills : ORG
+thinkof : GPE
+this green hill : ORG
+treesThe : ORG
+unslain of their cavalry : ORG
+vale : GPE
+vales : ORG
+vanwa : GPE
+vanwa n� : ORG
+vienyes : ORG
+wayWhere : ORG
+waylaid : ORG
+weapontake : GPE
+weskit : ORG
+wintry : GPE
+youall : ORG
+�lion nostari : ORG
+�ri oial : GPE
+�ril : ORG

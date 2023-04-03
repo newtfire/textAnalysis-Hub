@@ -1,0 +1,624 @@
+Aglarond : LOC
+Aiya : GPE
+Ambar : LOC
+Ambar- : ORG
+Amon D�n : GPE
+Anborn : GPE
+Ancalagon : ORG
+Anduin : GPE
+Anfalas : ORG
+Angband : ORG
+Angbor : ORG
+Angrenost : ORG
+Anor : GPE
+Appledore : GPE
+Argonath : GPE
+Arnach : ORG
+Arnor : ORG
+Arod : GPE
+Arvedui : LOC
+Ashen Mountains : LOC
+BRACEGIRDLE : ORG
+BREE : GPE
+Bag End : LOC
+Bagginses : ORG
+Bagshot Row : LOC
+Balrog : ORG
+Bamfurlong : GPE
+Bandobras : ORG
+Barad-d : FAC
+Barad-d� : ORG
+Barad-d�r : FAC
+Barad-d�r. : GPE
+Barahir : LOC
+Baranor : GPE
+Bardings : ORG
+Barley : ORG
+Barliman : ORG
+Barrow : ORG
+Barrowfield : LOC
+Battle Gardens : FAC
+Battle Plain : LOC
+Bear : ORG
+Bearer : ORG
+Belfalas : GPE
+Beorn : ORG
+Beornings : ORG
+Beregond : LOC
+Bergil : GPE
+Berhael : GPE
+Better Smials : ORG
+Big People : ORG
+Black : ORG
+Black Gate : FAC
+Black Men : ORG
+Black Rider : ORG
+Black Riders : ORG
+Black Rulers : ORG
+Blackroot Vale : LOC
+Blue : ORG
+Bolgers : ORG
+Bombadil : GPE
+Bombur : ORG
+Bracegirdles : GPE
+Brand : ORG
+Brandy Hall : FAC
+Brandywine : FAC
+Brandywine Bridge : FAC
+Brandywine River : LOC
+Bree : GPE
+Brego : ORG
+Bribing Guards : ORG
+Bridge : FAC
+Bridgefields : LOC
+Brockhouses : GPE
+Buckland : GPE
+Buckland Gate : FAC
+Bucklebury : ORG
+Bucklebury Ferry : ORG
+Budgeford : ORG
+Burg : FAC
+Burrowses : GPE
+Bywater : GPE
+Cair Andros : GPE
+Calembel : ORG
+Calenardhon : ORG
+Caradhras : GPE
+Caras Galadhon : ORG
+Carchost : GPE
+Carn D�m : ORG
+Causeway : FAC
+Celebdil : GPE
+Celeborn : ORG
+Celebrimbor : ORG
+Celos : ORG
+Chubb : ORG
+Chubbs : ORG
+Cirith : ORG
+Cirith Gorgor : ORG
+Cirith Ungol : ORG
+Citadel : ORG
+City : LOC
+Cleft : NORP
+Companions : ORG
+Company : ORG
+Conin : ORG
+Coomb : LOC
+Cormallen : GPE
+Corsairs : ORG
+Cottons : ORG
+Council : ORG
+Courage : ORG
+Crickhollow : ORG
+Cross : ORG
+Curiosity : ORG
+DORA : ORG
+Daeron : ORG
+Dale : ORG
+Damrod : GPE
+Dead City : GPE
+Dead Men : ORG
+Derufin : GPE
+Dervorin : NORP
+Dimrill : GPE
+Dior : ORG
+Dior Thingol's : ORG
+Door : ORG
+Downs : LOC
+Drogo : ORG
+Dunharrow : GPE
+Dunland : GPE
+Durthang : GPE
+Dusst : NORP
+Dwarf : ORG
+Dwarves : ORG
+Dwimorberg : GPE
+Earth : LOC
+East : LOC
+East An� : LOC
+East Osgiliath : LOC
+East Road : FAC
+East- : LOC
+East-West Road : LOC
+Easterling : GPE
+Eastfarthing : GPE
+Eastlands : GPE
+Ecthelion : ORG
+Edoras : ORG
+Egladil : GPE
+Eilenach : GPE
+Eilenach Beacon : ORG
+Elanor : ORG
+Elbereth Gilthoniel!silivren : ORG
+Eldamar : GPE
+Elendil : ORG
+Elessar : ORG
+Elf : ORG
+Elfhelm : GPE
+Elfstone : ORG
+Elladan : ORG
+Elrohir : ORG
+Elven : ORG
+Elven Tirion : GPE
+Elvenhome : LOC
+Elves : ORG
+Elvish : NORP
+Emyn Muil : ORG
+Ent : ORG
+Enting : NORP
+Entish : GPE
+Entmaidens : ORG
+Entmoot : ORG
+Ents : ORG
+Entwade : NORP
+Entwash : GPE
+Entwives : NORP
+Entwood : ORG
+Envinyatar : GPE
+Eorlingasthrough : ORG
+Ephel D� : FAC
+Erebor : ORG
+Erech : NORP
+Ered Lithui : ORG
+Ered Nimrais : ORG
+Eregion : ORG
+Eriador : ORG
+Erkenbrand : ORG
+Ernil i : ORG
+Ernil i Pheriannath : ORG
+Esgaroth : GPE
+Ethir : ORG
+Evenstar : ORG
+Exiles : ORG
+Eye : ORG
+Fair : ORG
+Fair Ithil : ORG
+Fair River-daughter!O : ORG
+Fangorn : GPE
+Fangorn Forest : ORG
+Fanuidhol : GPE
+Far Harad : ORG
+Fatty Lumpkin : ORG
+Ferny : GPE
+Ferry : FAC
+Field : LOC
+Fiery Mountain : FAC
+Firienfeld : LOC
+Firienwood : LOC
+Firstborn : ORG
+Fladrif : ORG
+Foes : ORG
+Folcwine : NORP
+Folde : NORP
+Foolish : NORP
+Ford : ORG
+Fords : ORG
+Forest : ORG
+Forest River : LOC
+Forgoil : ORG
+Fornost : GPE
+Fornost Erain : GPE
+Forth Helmingas : GPE
+Free Peoples : ORG
+Frogmorton : ORG
+Galadhrim : ORG
+Galdor : ORG
+Gap : ORG
+Gate : FAC
+Gate Erkenbrand : ORG
+Gates : ORG
+Gateway : FAC
+Giants : ORG
+Goatleaf : GPE
+Golden Perch : ORG
+Gondor : GPE
+Gorbadoc : ORG
+Gorbag : GPE
+Gram : ORG
+Great Orcs : FAC
+Great River : LOC
+Green : ORG
+Green Hills : GPE
+Greenfields : GPE
+Greenway : FAC
+Grey : ORG
+Grey Company : ORG
+Grey Fool : ORG
+Grey Havens : GPE
+Grimbold : ORG
+Grond : GPE
+Gr� : ORG
+Guard : ORG
+Guarded City : GPE
+Hador : ORG
+Haldir : GPE
+Halfast : ORG
+Halflings : GPE
+Hallows : NORP
+Hamfast : LOC
+Hammerhand : ORG
+Harad : ORG
+Haradrim : ORG
+Hardbottle : GPE
+Harrowdale : ORG
+Harvest : ORG
+Hasufel : GPE
+Haven : GPE
+Havens : GPE
+Haysend : LOC
+Healers : ORG
+Heathertoes : GPE
+Hedge : ORG
+Helm : GPE
+Hen : ORG
+Henneth Ann�n : GPE
+Herefara : GPE
+Herubrand : GPE
+Hill : ORG
+Hirgon : GPE
+Hirluin : ORG
+Hoarwell : ORG
+Hobbiton : LOC
+Holdwine : NORP
+Hollin : GPE
+Hornblowers : ORG
+Hornburg : GPE
+Hornrock : ORG
+House : ORG
+Houses : ORG
+Hullo : ORG
+Huorn : GPE
+Huorns : GPE
+H� : ORG
+IShall : ORG
+Iarwain : FAC
+Imladris : GPE
+Imloth Melui : ORG
+Inland Sea : LOC
+Ioreth : ORG
+Irensaga : ORG
+Isengarders : ORG
+Isenmouthe : GPE
+Isildur : ORG
+Isildur Elendil's : GPE
+Ithil : ORG
+Khaz : GPE
+Khazad-d : ORG
+Khazad-d� : ORG
+Khazad-d�m : ORG
+Kibil-n : GPE
+King Brand : ORG
+King Elessar : ORG
+King Th� : FAC
+Lake Evendim : FAC
+Lake N : LOC
+Lamedon : ORG
+Lassemista : ORG
+Laurelind : GPE
+Leaflock : ORG
+Lebennin : ORG
+Lhaw : ORG
+Linhir : LOC
+Lockholes : GPE
+Longholes : GPE
+Lords : ORG
+Lorien : GPE
+Lossarnach : ORG
+Lost Isle : GPE
+Lotho : ORG
+Loudwater : LOC
+Lugb : GPE
+Lune : ORG
+Mablung : ORG
+Mardil : GPE
+Marish : ORG
+Marshes : LOC
+Mearas : ORG
+Meduseld : GPE
+Mellon : ORG
+Mellyrn : ORG
+Men : ORG
+Meneldil : ORG
+Menelvagor : ORG
+Mercy : ORG
+Merethrond : GPE
+Middle Men : ORG
+Middle-earth : LOC
+Min-Rimmon : GPE
+Minas Anor : GPE
+Minas Tirith : GPE
+Mindolluin : GPE
+Mines : ORG
+Mirkwood : GPE
+Mirror : ORG
+Mirrormere : GPE
+Mithrandir : LOC
+Moon : LOC
+Morannon : GPE
+Mordor : GPE
+Morgul Vale : GPE
+Moria : GPE
+Moria- : FAC
+Mortal Men : ORG
+Mount Doom : LOC
+Mount Everwhite : ORG
+Mount Mindolluin : LOC
+Mountain : LOC
+Mountain Wall : LOC
+Mountains : LOC
+Mugworts : ORG
+Mundburg : GPE
+Naith : NORP
+Narchost : GPE
+Nardol : GPE
+Nargothrond : GPE
+Narsil : ORG
+Narya : GPE
+Nassty : ORG
+Nasty Men : ORG
+Naur : ORG
+Necromancer : ORG
+Neldoreth : GPE
+Nen Hithoel : ORG
+New Row : ORG
+Nice : GPE
+Nimloth : ORG
+Nimrodel : GPE
+Ninnyhammers : ORG
+Nob : ORG
+Noman : NORP
+Norbury : GPE
+Norland : GPE
+North : LOC
+North Downs : LOC
+North Isildur's : GPE
+North Kingdom : GPE
+North Road : FAC
+North Wind : LOC
+North- : LOC
+Northerland : ORG
+Northern Men : ORG
+Northerners : NORP
+Northlands : LOC
+Northmen : LOC
+N� : ORG
+Ohtar : LOC
+Oliphaunt : ORG
+Orald : NORP
+Orc : ORG
+Orcses : GPE
+Orodruin : LOC
+Orom : ORG
+Orophin : ORG
+Osgiliath : NORP
+Otho : ORG
+Outsiders : ORG
+Overlord : FAC
+PPS : ORG
+PS : ORG
+Parth Galen : FAC
+Pelargir : NORP
+Pelennor : ORG
+Perilously : NORP
+Pheriain : ORG
+Phial : ORG
+Plain : LOC
+Pony : ORG
+Pool Side : FAC
+Power : ORG
+Quest : ORG
+Quick Post : ORG
+Quickbeam : GPE
+Radagast : ORG
+Rammas : ORG
+Rams : ORG
+Rangers : ORG
+Rapids : GPE
+Rath D� : ORG
+Rauros : LOC
+Red Arrow : ORG
+Redhorn : GPE
+Rhosgobel : LOC
+Riddermark : ORG
+Riders : ORG
+Ringwraith : ORG
+Rivendell : GPE
+River : LOC
+Road : FAC
+Rohan : GPE
+Rohirrim : ORG
+SACKVILLE : ORG
+SHIRE : ORG
+Sackville : GPE
+Sackville-Bagginses : ORG
+Sea : LOC
+Shadowfax : GPE
+Shagrat : ORG
+Sharp : ORG
+Shelob : FAC
+Shire : LOC
+Shirefolk : ORG
+Shiretalk : GPE
+Shore : LOC
+Shores : LOC
+Silmarils : ORG
+Silverlode : ORG
+Sinome : ORG
+Sirannon : NORP
+Skinbark : ORG
+Slinker : ORG
+Smaug : ORG
+Snowmane : LOC
+South : LOC
+South Ithilien : LOC
+South Kingdom : GPE
+South Lane : LOC
+South- : LOC
+Southern : NORP
+Southern Mirkwood : ORG
+Southerner : NORP
+Southerners : NORP
+Southfarthing : GPE
+Southlands : LOC
+Southlinch : NORP
+Southron : ORG
+Southrons : ORG
+Southward : ORG
+Speech : ORG
+Springle : NORP
+Staddle : ORG
+Starkhorn : NORP
+Steward : ORG
+Stewards : ORG
+Stick : FAC
+Sting : GPE
+Stinker Slinker : ORG
+Stock : ORG
+Stone : ORG
+Stonehouse : ORG
+Stonewain Valley : LOC
+Stoors : ORG
+Stormcrow : ORG
+Strawheads : GPE
+Strider : ORG
+Strong Men : ORG
+Sun : ORG
+Sunlending : GPE
+Sunset : LOC
+Swertings : GPE
+Swish : NORP
+THE PRANCING PONY : ORG
+Tall Men : ORG
+Tarlang : GPE
+Taur- : GPE
+Tauremorna : NORP
+Telcontar : ORG
+Thain : GPE
+Tharbad : ORG
+The Black Gate : FAC
+The Black Pits : ORG
+The Caverns : LOC
+The Dark Tower : FAC
+The Dead awaken;for : ORG
+The East Wind : LOC
+The Eye : ORG
+The Golden Hall : FAC
+The Inn : ORG
+The King Elessar : ORG
+The Land : ORG
+The Lords : ORG
+The Men : ORG
+The Mines : ORG
+The North Wind : LOC
+The Old Grange : ORG
+The Old Road : FAC
+The Prancing Pony : ORG
+The Red Arrow : ORG
+The Red Eye : ORG
+The River : LOC
+The Sackville-Bagginses : ORG
+The Taming : ORG
+The Tower : ORG
+The Wandering Companies : ORG
+The Wild Men : ORG
+The Withywindle : LOC
+Thengling : GPE
+Thingol : ORG
+Third Deep : LOC
+Thistlewool : GPE
+Thornbushes : ORG
+Thranduil : ORG
+Three Houses : ORG
+Thrihyrne : ORG
+Tighfield : ORG
+Tirion : GPE
+Tobold : GPE
+Tombs : FAC
+Tookland : ORG
+Tooks : ORG
+Tower : FAC
+Tower Hills : GPE
+Towers : FAC
+Travellers : ORG
+Troll : ORG
+Trolls : ORG
+Tuckborough : GPE
+Tumladen : GPE
+Undergate : ORG
+Underharrow : FAC
+Underhill : ORG
+Underhills : ORG
+Ungoliant : ORG
+Untidy : ORG
+Unwearied : ORG
+Valandil : GPE
+Valar : NORP
+Valinorean : NORP
+Valley : LOC
+Varda : ORG
+Variags : GPE
+Vilya : LOC
+Wandlimb : ORG
+Warden : ORG
+Wargs : FAC
+Watchers : ORG
+Waymeet : FAC
+Weathertop : ORG
+Weathertop Hill : LOC
+Wellinghall : ORG
+West : LOC
+West Wind : LOC
+West- : LOC
+Westemnet : ORG
+Western : NORP
+Western Seas : LOC
+Westernesse : ORG
+Westfarthing : GPE
+Westfold : GPE
+Westfold Vale : GPE
+Westfolders : ORG
+Westgate : GPE
+Westron : ORG
+Wetwang : GPE
+White Hand : ORG
+White Horse : ORG
+White Rider : ORG
+Whitfurrows : ORG
+Wild Men : ORG
+Wilderland : ORG
+Wilderness : LOC
+Windfola : ORG
+Windlord : ORG
+Withywindle : ORG
+Wizard : ORG
+Wizards : ORG
+Wold : ORG
+Wood : ORG
+Woodhall : ORG
+Woodmen : ORG
+Woody-End : FAC
+Worm : ORG
+Woses : ORG
+Wraiths : NORP
+Zirak : GPE
+the Misty Mountains : LOC

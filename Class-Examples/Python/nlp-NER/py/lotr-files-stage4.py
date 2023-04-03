@@ -32,7 +32,7 @@ nlp = spacy.load('en_core_web_lg')
 # and then down into your source XML files:
 ##################################################################################
 CollPath = '../source-xml'
-TargetPath = '../taggedWithAtts'
+TargetPath = '../taggedWithAtts-TooMany'
 
 # 3. Here, the function imports each individual file, one at a time
 # (received from the for-loop below.
