@@ -93,7 +93,6 @@ patterns = [
     {"label": "TIME", "pattern": "Time"},
     {"label": "NULL", "pattern": "Throne"},
     {"label": "CARDINAL", "pattern": "Thrice"},
-    {"label": "CARDINAL", "pattern": "Thrice"},
     {"label": "NULL", "pattern": "Fire"},
     {"label": "NULL", "pattern": "Fissh"},
     {"label": "LOC", "pattern": "Firienfeld"},
