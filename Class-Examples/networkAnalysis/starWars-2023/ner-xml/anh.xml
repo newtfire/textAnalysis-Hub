@@ -1,0 +1,5882 @@
+<?xml-model href="sw_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+<title>STAR WARS Episode IV A NEW HOPE (1977)</title>
+by <writer>George Lucas</writer>
+
+
+<script>
+<subTitle epNum="4">EPISODE 4 A NEW HOPE</subTitle>
+<crawl>A long time ago, in a galaxy far, far, away...</crawl>
+
+<sd>A vast sea of stars serves as the backdrop for the main title. 
+War drums echo through the heavens as a rollup slowly crawls 
+into infinity.</sd>
+
+<crawl>     It is a period of civil war. Rebel spaceships, 
+     striking from a hidden base, have won their first 
+     victory against the evil Galactic <name type="GPE">Empire</name>.
+
+     During the battle, Rebel spies managed to steal 
+     secret plans to the <name type="GPE">Empire</name>'s ultimate weapon, the 
+     Death Star, an armored space station with enough 
+     power to destroy an entire planet.
+
+     Pursued by the <name type="GPE">Empire</name>'s sinister agents, Princess 
+     Leia races home aboard her starship, custodian of 
+     the stolen plans that can save her people and 
+     restore freedom to the galaxy...</crawl>
+
+<sd>The awesome yellow planet of Tatooine emerges from a total 
+eclipse, her two moons glowing against the darkness. A tiny 
+silver spacecraft, a Rebel Blockade Runner firing lasers 
+from the back of the ship, races through space. It is pursed 
+by a giant <name type="ORG">Imperial</name> Stardestroyer. Hundreds of deadly 
+laserbolts streak from the <name type="ORG">Imperial</name> Stardestroyer, causing 
+the main solar fin of the Rebel craft to disintegrate.</sd>
+
+<setting>INT. REBEL BLOCKADE RUNNER - MAIN PASSAGEWAY</setting>
+
+<sd>An explosion rocks the ship as two robots, <name type="GPE">Artoo</name>-Detoo (R2-
+D2) and See-<name type="ORG">Threepio</name> (C-3PO) struggle to make their way 
+through the shaking, bouncing passageway. Both robots are 
+old and battered. <name type="GPE">Artoo</name> is a short, claw-armed tripod. His 
+face is a mass of computer lights surrounding a radar eye. 
+<name type="ORG">Threepio</name>, on the other hand, is a tall, slender robot of 
+human proportions. He has a gleaming bronze-like metallic 
+surface of an Art Deco design.</sd>
+
+<sd>Another blast shakes them as they struggle along their way.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>Rebel troopers rush past the robots and take up positions in 
+the main passageway. They aim their weapons toward the door.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>The little R2 unit makes a series of electronic sounds that 
+only another robot could understand.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> continues making beeping sounds. Tension mounts as 
+loud metallic latches clank and the scream of heavy equipment 
+are heard moving around the outside hull of the ship.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<setting>EXT. SPACECRAFT IN SPACE</setting>
+
+<sd>The <name type="ORG">Imperial</name> craft has easily overtaken the Rebel Blockade 
+Runner. The smaller Rebel ship is being drawn into the 
+underside dock of the giant <name type="ORG">Imperial</name> starship.</sd>
+
+<setting>INT. REBEL BLOCKADE RUNNER</setting>
+
+<sd>The nervous Rebel troopers aim their weapons. Suddenly a 
+tremendous blast opens up a hole in the main passageway and 
+a score of fearsome armored spacesuited stormtroopers make 
+their way into the smoke-filled corridor.</sd>
+
+<sd>In a few minutes the entire passageway is ablaze with 
+laserfire. The deadly bolts ricochet in wild random patterns 
+creating huge explosions. Stormtroopers scatter and duck 
+behind storage lockers. Laserbolts hit several Rebel soldiers 
+who scream and stagger through the smoke, holding shattered 
+arms and faces.</sd>
+
+<sd>An explosion hits near the robots.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> counters with an angry rebuttal as the battle rages 
+around the two hapless robots.</sd>
+
+<setting>EXT. TATOOINE - DESERT WASTELAND - DAY</setting>
+
+<sd>A death-white wasteland stretches from horizon to horizon. 
+The tremendous heat of two huge twin suns settle on a lone 
+figure, Luke Skywalker, a farm boy with heroic aspirations 
+who looks much younger than his eighteen years. His shaggy 
+hair and baggy tunic give him the air of a simple but lovable 
+lad with a prize-winning smile.</sd>
+
+<sd>A light wind whips at him as he adjusts several valves on a 
+large battered moisture vaporator which sticks out of the 
+desert floor much like an oil pipe with valves. He is aided 
+by a beatup tread-robot with six claw arms. The little robot 
+appears to be barely functioning and moves with jerky motions.  
+A bright sparkle in the morning sky catches Luke's eye and 
+he instinctively grabs a pair of electrobinoculars from his 
+utility belt. He stands transfixed for a few moments studying 
+the heavens, then dashed toward his dented, crudely repaired 
+Landspeeder (an auto-like transport that travels a few feet 
+above the ground on a magnetic-field). He motions for the 
+tiny robot to follow him.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>The robot scoots around in a tight circle, stops short, and 
+smoke begins to pour out of every joint. Luke throws his 
+arms up in disgust. Exasperated, the young farm boy jumps 
+into his Landspeeder leaving the smoldering robot to hum 
+madly.</sd>
+
+<setting>INT. REBEL BLOCKADE RUNNER - MAIN HALLWAY</setting>
+
+<sd>The awesome, seven-foot-tall Dark Lord of the Sith makes his 
+way into the blinding light of the main passageway. This is 
+Darth Vader, right hand of the Emperor. His face is obscured 
+by his flowing black robes and grotesque breath mask, which 
+stands out next to the fascist white armored suits of the 
+<name type="ORG">Imperial</name> stormtroopers. Everyone instinctively backs away 
+from the imposing warrior and a deathly quiet sweeps through 
+the Rebel troops. Several of the Rebel troops break and run 
+in a frenzied panic.</sd>
+
+<setting>INT. REBEL BLOCKADE RUNNER</setting>
+
+<sd>A woman's hand puts a card into an opening in <name type="GPE">Artoo</name>'s dome.  
+<name type="GPE">Artoo</name> makes beeping sounds.</sd>
+
+<setting>INT. REBEL BLOCKADE RUNNER</setting>
+
+<sd><name type="ORG">Threepio</name> stands in a hallway, somewhat bewildered. <name type="GPE">Artoo</name> is 
+nowhere in sight. The pitiful screams of the doomed Rebel 
+soldiers can be heard in the distance.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>A familiar clanking sound attacks <name type="ORG">Threepio</name>'s attention and 
+he spots little <name type="GPE">Artoo</name> at the end of the hallway in a smoke-
+filled alcove. A beautiful young girl (about sixteen years 
+old) stands in front of <name type="GPE">Artoo</name>. Surreal and out of place, 
+dreamlike and half hidden in the smoke, she finishes adjusting 
+something on <name type="GPE">Artoo</name>'s computer face, then watches as the little 
+robot joins his companion.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>Stormtroopers can be heard battling in the distance.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> scoots past his bronze friend and races down the 
+subhallway. <name type="ORG">Threepio</name> chases after him.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> responds with electronic beeps.</sd>
+
+<setting>INT. REBEL BLOCKADE RUNNER - CORRIDOR</setting>
+
+<sd>The evil Darth Vader stands amid the broken and twisted bodies 
+of his foes. He grabs a wounded Rebel Officer by the neck as 
+an <name type="ORG">Imperial</name> Officer rushes up to the Dark Lord.</sd>
+
+<speaker>IMPERIAL OFFICER</speaker>
+
+<sd>Vader squeezes the neck of the Rebel Officer, who struggles 
+in vain.</sd>
+
+<speaker>VADER</speaker>
+
+<sd>Vader lifts the Rebel off his feet by his throat.</sd>
+
+<speaker>VADER</speaker>
+
+<speaker>REBEL OFFICER</speaker>
+
+<speaker>VADER</speaker>
+
+<sd>The Rebel refuses to speak but eventually cries out as the 
+Dark Lord begins to squeeze the officer's throat, creating a 
+gruesome snapping and choking, until the soldier goes limp. 
+Vader tosses the dead soldier against the wall and turns to 
+his troops.</sd>
+
+<speaker>VADER</speaker>
+
+<sd>The stormtroopers scurry into the subhallways.</sd>
+
+<setting>INT. REBEL BLOCKADE RUNNER - SUBHALLWAY</setting>
+
+<sd>The lovely young girl huddles in a small alcove as the 
+stormtroopers search through the ship. She is Princess Leia 
+Organa, a member of the <name type="ORG">Alderaan</name> <name type="ORG">Senate</name>. The fear in her 
+eyes slowly gives way to anger as the muted crushing sounds 
+of the approaching stormtroopers grow louder. One of the 
+troopers spots her.</sd>
+
+<speaker>TROOPER</speaker>
+
+<sd>Leia steps from her hiding place and blasts a trooper with 
+her laser pistol. She starts to run but is felled by a 
+paralyzing ray. The troopers inspect her inert body.</sd>
+
+<speaker>TROOPER</speaker>
+
+<setting>INT. REBEL BLOCKADE RUNNER - SUBHALLWAY</setting>
+
+<sd><name type="GPE">Artoo</name> stops before the small hatch of an emergency lifepod. 
+He snaps the seal on the main latch and a red warning light 
+begins to flash. The stubby astro-robot works his way into 
+the cramped four-man pod.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> beeps something to him.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> whistles something at his reluctant friend regarding 
+the mission he is about to perform.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> isn't happy with <name type="ORG">Threepio</name>'s stubbornness, and he beeps 
+and twangs angrily.</sd>
+
+<sd>A new explosion, this time very close, sends dust and debris 
+through the narrow subhallway. Flames lick at <name type="ORG">Threepio</name> and, 
+after a flurry of electronic swearing from <name type="GPE">Artoo</name>, the lanky 
+robot jumps into the lifepod.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<setting>INT. IMPERIAL STARDESTROYER</setting>
+
+<sd>On the main viewscreen, the lifepod carrying the two terrified 
+robots speeds away from the stricken Rebel spacecraft.</sd>
+
+<speaker>CHIEF PILOT</speaker>
+
+<speaker>CAPTAIN</speaker>
+
+<setting>INT. LIFEPOD</setting>
+
+<sd><name type="GPE">Artoo</name> and <name type="ORG">Threepio</name> look out at the receding <name type="ORG">Imperial</name> starship.  
+Stars circle as the pod rotates through the galaxy.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> beeps an assuring response.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<setting>EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY</setting>
+
+<sd>Heat waves radiate from the dozen or so bleached white 
+buildings. Luke pilots his Landspeeder through the dusty 
+empty street of the tiny settlement. An old woman runs to 
+get out of the way of the speeding vehicle, shaking her fist 
+at Luke as he flies past.</sd>
+
+<speaker>WOMAN</speaker>
+
+<setting>INT. POWER STATION - DAY</setting>
+
+<sd>Luke bursts into the power station, waking The Fixer, a rugged 
+mechanic and Camie, a sexy, disheveled girl who has been 
+asleep in his lap. They grumbled as he races through the 
+office, yelling wildly.</sd>
+
+<speaker>FIXER</speaker>
+
+<speaker>CAMIE</speaker>
+
+<sd>Luke bounces into a small room behind the office where Deak 
+and Windy, two tough boys about the same age as Luke, are 
+playing a computer pool-like game with Biggs, a burly, 
+handsome boy a few years older than the rest. His flashy 
+city attire is a sharp contrast to the loose-fitting tunics 
+of the farm boys. A robot repairs some equipment in the 
+background.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke's surprise at the appearance of Biggs gives way to great 
+joy and emotion. They give each other a great bear hug.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>BIGGS</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Biggs has an air of cool that seems slightly phony.</sd>
+
+<speaker>BIGGS</speaker>
+
+<sd>Everyone laughs. The dazzling spectacle of his dashing friend 
+is almost too much for Luke, but suddenly he snaps out of 
+it.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>DEAK</speaker>
+
+<setting>EXT. TATOOINE - ANCHORHEAD - SETTLEMENT - POWER STATION - </setting>
+DAY
+
+<sd>The group stumbles out into the stifling desert sun. Camie 
+and The Fixer complain and are forced to shade their eyes. 
+Luke has his binoculars out scanning the heavens.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>Biggs takes the binoculars from Luke as the others strain to 
+see something with the naked eye. Through the binoculars 
+Biggs sees two small silver specks.</sd>
+
+<speaker>BIGGS</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Camie grabs the binoculars away banging them against the 
+building in the process. Luke grabs them.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>CAMIE</speaker>
+
+<sd>The Fixer gives Luke a hard look and the young farm boy shrugs 
+his shoulders in resignation.</sd>
+
+<speaker>FIXER</speaker>
+
+<sd>Luke agrees, although it's obvious he isn't sure why. The 
+group stumbles back into the power station, grumbling about 
+Luke's ineptitude.</sd>
+
+<setting>INT. REBEL BLOCKADE RUNNER - HALLWAY</setting>
+
+<sd>Princess Leia is led down a low-ceilinged hallway by a squad 
+of armored stormtroopers. Her hands are bound and she is 
+brutally shoved when she is unable to keep up with the briskly 
+marching troops. They stop in a smoky hallway as Darth Vader 
+emerges from the shadows. The sinister Dark Lord stares hard 
+at the frail young senator, but she doesn't move.</sd>
+
+<speaker>LEIA</speaker>
+
+<speaker>VADER</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>VADER</speaker>
+
+<sd>Leia is marched away down the hallway and into the smoldering 
+hole blasted in the side of the ship. An <name type="ORG">Imperial</name> Commander 
+turns to Vader.</sd>
+
+<speaker>COMMANDER</speaker>
+
+<speaker>VADER</speaker>
+
+<speaker>COMMANDER</speaker>
+
+<speaker>VADER</speaker>
+
+<sd>Another <name type="ORG">Imperial</name> Officer approaches Vader and the Commander. 
+They stop and snap to attention.</sd>
+
+<speaker>SECOND OFFICER</speaker>
+
+<sd>Vader turns to the Commander.</sd>
+
+<speaker>VADER</speaker>
+
+<speaker>COMMANDER</speaker>
+
+<setting>EXT. SPACE</setting>
+
+<sd>The <name type="ORG">Imperial</name> Stardestroyer comes over the surface of the 
+planet Tatooine.</sd>
+
+<setting>EXT. TATOOINE - DESERT</setting>
+
+<sd>Jundland, or "No Man's Land", where the rugged desert <name type="ORG">mesa</name>s 
+meet the foreboding dune sea. The two helpless astro-droids 
+kick up clouds of sand as they leave the lifepod and clumsily 
+work their way across the desert wasteland. The lifepod in 
+the distance rests half buried in the sand.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> answers with beeping sounds.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> continues to respond with beeping sounds.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>Suddenly <name type="GPE">Artoo</name> whistles, makes a sharp right turn and starts 
+off in the direction of the rocky desert <name type="ORG">mesa</name>s. <name type="ORG">Threepio</name> 
+stops and yells at him.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>A stream of electronic noises pours forth from the small 
+robot.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> counters with a long whistle.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> continues to make beeping sounds.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> continues to make beeping sounds.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="ORG">Threepio</name> gives the little robot a kick and starts off in the 
+direction of the vast dune sea.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name>'s reply is a rather rude sound. He turns and trudges 
+off in the direction of the towering <name type="ORG">mesa</name>s.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> beeps to himself as he makes his way toward the distant 
+mountains.</sd>
+
+<setting>EXT. TATOOINE - DUNE SEA</setting>
+
+<sd><name type="ORG">Threepio</name>, hot and tired, struggles up over the ridge of a 
+dune; only to find more dunes, which seem to go on for endless 
+miles.  He looks back in the direction of the now distant 
+rock <name type="ORG">mesa</name>s.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>In a huff of anger and frustration, <name type="ORG">Threepio</name> knocks the sand 
+from his joints. His plight seems hopeless, when a glint of 
+reflected light in the distance reveals an object moving 
+towards him.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>The bronze android waves frantically and yells at the 
+approaching transport.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<setting>EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY</setting>
+
+<sd>Luke and Biggs are walking and drinking a malt brew. Fixer 
+and the others can be heard working inside.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>BIGGS</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BIGGS</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Biggs looks around then leans close to Luke.</sd>
+
+<speaker>BIGGS</speaker>
+
+<sd>Luke's eyes are wide with Biggs' seriousness and loyalty.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>BIGGS</speaker>
+
+<sd>Luke, amazed and stunned, is almost speechless.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>BIGGS</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Biggs shakes his head angrily and then continues.</sd>
+
+<speaker>BIGGS</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BIGGS</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BIGGS</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BIGGS</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BIGGS</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BIGGS</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BIGGS</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BIGGS</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BIGGS</speaker>
+
+<sd>Biggs turns away from his old friend and heads towards the 
+power station.</sd>
+
+<setting>EXT. TATOOINE - ROCK CANYON - SUNSET</setting>
+
+<sd>The gargantuan rock formations are shrouded in a strange 
+foreboding mist and the onimous sounds of unearthly creatures 
+fill the air. <name type="GPE">Artoo</name> moves cautiously through the creepy rock 
+canyon, inadvertently making a loud clicking noise as he 
+goes. He hears a distant, hard, metallic sound and stops for 
+a moment. Convinced he is alone, he continues on his way.</sd>
+
+<sd>In the distance, a pebble tumbles down the steep canyon wall 
+and a small dark figure darts into the shadows. A little 
+further up the canyon a slight flicker of light reveals a 
+pair of eyes in the dark recesses only a few feet from the 
+narrow path.</sd>
+
+<sd>The unsuspecting robot waddles along the rugged trail until 
+suddenly, out of nowhere, a powerful magnetic ray shoots out 
+of the rocks and engulfs him in an eerie glow. He manages 
+one short electronic squeak before he topples over onto his 
+back. His bright computer lights flicker off, then on, then 
+off again. Out of the rocks scurry three Jawas, no taller 
+than <name type="GPE">Artoo</name>. They holster strange and complex weapons as they 
+cautiously approach the robot. They wear grubby cloaks and 
+their faces are shrouded so only their glowing eyes can be 
+seen. They hiss and make odd guttural sounds as they heave 
+the heavy robot onto their shoulders and carry him off down 
+the trail.</sd>
+
+<setting>EXT. TATOOINE - ROCK CANYON - SANDCRAWLER - SUNSET</setting>
+
+<sd>The eight Jawas carry <name type="GPE">Artoo</name> out of the canyon to a huge tank-
+like vehicle the size of a four-story house. They weld a 
+small disk on the side of <name type="GPE">Artoo</name> and then put him under a 
+large tube on the side of the vehicle and the little robot 
+is sucked into the giant machine.</sd>
+
+<sd>The filthy little Jawas scurry like rats up small ladders 
+and enter the main cabin of the behemoth transport.</sd>
+
+<setting>INT. SANDCRAWLER - HOLD AREA</setting>
+
+<sd>It is dim inside the hold area of the Sandcrawler. <name type="GPE">Artoo</name> 
+switches on a small floodlight on his forehead and stumbles 
+around the scrap heap. The narrow beam swings across rusty 
+metal rocket parts and an array of grotesquely twisted and 
+maimed astro-robots. He lets out a pathetic electronic whimper 
+and stumbles off toward what appears to be a door at the end 
+of the chamber.</sd>
+
+<setting>INT. SANDCRAWLER - PRISON AREA</setting>
+
+<sd><name type="GPE">Artoo</name> enters a wide room with a four-foot ceiling. In the 
+middle of the scrap heap sit a dozen or so robots of various 
+shapes and sizes. Some are engaged in electronic conversation, 
+while others simply mill about. A voice of recognition calls 
+out from the gloom.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>A battered <name type="ORG">Threepio</name> scrambles up to <name type="GPE">Artoo</name> and embraces him.</sd>
+
+<setting>EXT. TATOOINE - ROCK CANYON - SANDCRAWLER - SUNSET</setting>
+
+<sd>The enormous Sandcrawler lumbers off toward the magnificent 
+twin suns, which are slowly setting over a distant mountain 
+ridge.</sd>
+
+<setting>EXT. TATOOINE - DESERT - DAY</setting>
+
+<sd>Four <name type="ORG">Imperial</name> stormtroopers mill about in front of the half-
+buried lifepod that brought <name type="GPE">Artoo</name> and <name type="ORG">Threepio</name> to Tatooine. 
+A trooper yells to an officer some distance away.</sd>
+
+<speaker>FIRST TROOPER</speaker>
+
+<sd>A second trooper picks a small bit of metal out of the sand 
+and gives it to the first trooper.</sd>
+
+<speaker>SECOND TROOPER</speaker>
+
+<setting>EXT. TATOOINE - DUNES</setting>
+
+<sd>The Sandcrawler moves slowly down a great sand dune.</sd>
+
+<setting>INT. SANDCRAWLER</setting>
+
+<sd><name type="ORG">Threepio</name> and <name type="GPE">Artoo</name> noisily bounce along inside the cramped 
+prison chamber. <name type="GPE">Artoo</name> appears to be shut off.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>Suddenly the shaking and bouncing of the Sandcrawler stops, 
+creating quite a commotion among the mechanical men.  
+<name type="ORG">Threepio</name>'s fist bangs the head of <name type="GPE">Artoo</name> whose computer lights 
+pop on as he begins beeping. At the far end of the long 
+chamber a hatch opens, filling the chamber with blinding 
+white light. a dozen or so Jawas make their way through the 
+odd assortment of robots.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>A Jawa starts moving toward them.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> responds, making beeping sounds.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<setting>EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON</setting>
+
+<sd>The Jawas mutter gibberish as they busily line up their 
+battered captives, including <name type="GPE">Artoo</name> and <name type="ORG">Threepio</name>, in front of 
+the enormous Sandcrawler, which is parked beside a small 
+homestead consisting of three large holes in the ground 
+surrounded by several tall moisture vaporators and one small 
+adobe block house.</sd>
+
+<sd>The Jawas scurry around fussing over the robots, straightening 
+them up or brushing some dust from a dented metallic elbow. 
+The shrouded little creatures smell horribly, attracting 
+small insects to the dark areas when their mouths and nostrils 
+should be.</sd>
+
+<sd>Out of the shadows of a dingy side-building limps Owen Lars, 
+a large burly man in his mid-fifties. His reddish eyes are 
+sunken in a dust-covered face. As the farmer carefully 
+inspects each robot, he is closely followed by his slump- 
+shouldered nephew, Luke Skywalker. One of the vile little 
+Jawas walks ahead of the farmer spouting an animated sales 
+pitch in a queer, unintelligible language.</sd>
+
+<sd>A voice calls out from one of the huge holes that form the 
+homestead. Luke goes over to the edge and sees his Aunt Beru 
+standing in the main courtyard.</sd>
+
+<speaker>BERU</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke returns to his uncle as they look over the equipment 
+for sale with the Jawa leader.</sd>
+
+<speaker>OWEN</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>OWEN</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>OWEN</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>OWEN</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>OWEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>OWEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>As the Jawas start to lead the three remaining robots back 
+into the Sandcrawler, <name type="GPE">Artoo</name> lets out a pathetic little beep 
+and starts after his old friend <name type="ORG">Threepio</name>. He is restrained 
+by a slimy Jawa, who zaps him with a control box.</sd>
+
+<sd>Owen is negotiating with the head Jawa. Luke and the two 
+robots start off for the garage when a plate pops off the 
+head of the red astro-droid's head plate and it sparks wildly.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>OWEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>OWEN</speaker>
+
+<sd>The Jawa goes into a loud spiel. Meanwhile, <name type="GPE">Artoo</name> has sneaked 
+out of line and is moving up and down trying to attract 
+attention. He lets out with a low whistle. <name type="ORG">Threepio</name> taps 
+Luke on the shoulder.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>OWEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>OWEN</speaker>
+
+<sd>With a little reluctance the scruffy dwarf trades the damaged 
+astro-droid for <name type="GPE">Artoo</name>.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<sd>Owen pays off the whining Jawa as Luke and the two robots 
+trudge off toward a grimy homestead entry.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<setting>INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON</setting>
+
+<sd>The garage is cluttered and worn, but a friendly peaceful 
+atmosphere permeates the low grey chamber. <name type="ORG">Threepio</name> lowers 
+himself into a large tub filled with warm oil. Near the 
+battered Landspeeder little <name type="GPE">Artoo</name> rests on a large battery 
+with a cord to his face.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> beeps a muffled reply. Luke seems to be lost in thought 
+as he runs his hand over the damaged fin of a small two-man 
+Skyhopper spaceship resting in a low hangar off the garage. 
+Finally Luke's frustrations get the better of him and he 
+slams a wrench across the workbench.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<sd>Luke glances at the battered robot. A bit of his anger drains 
+and a tiny smile creeps across his face.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd><name type="GPE">Artoo</name> beeps in response. Luke unplugs <name type="GPE">Artoo</name> and begins to 
+scrape several connectors on the robot's head with a chrome 
+pick. <name type="ORG">Threepio</name> climbs out of the oil tub and begins wiping 
+oil from his bronze body.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<sd>Luke struggles to remove a small metal fragment from <name type="GPE">Artoo</name>'s 
+neck joint. He uses a larger pick.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>The fragment breaks loose with a snap, sending Luke tumbling 
+head over heels. He sits up and sees a twelve-inch three-
+dimensional hologram of Leia Organa, the Rebel senator, being 
+projected from the face of little <name type="GPE">Artoo</name>. The image is a 
+rainbow of colors as it flickers and jiggles in the dimly 
+lit garage. Luke's mouth hangs open in awe.</sd>
+
+<speaker>LEIA</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd><name type="GPE">Artoo</name> looks around and sheepishly beeps an answer for <name type="ORG">Threepio</name> 
+to translate. Leia continues to repeat the sentence fragment 
+over and over.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> whistles his surprise as he pretends to just notice 
+the hologram. He looks around and sheepishly beeps an answer 
+for <name type="ORG">Threepio</name> to translate. Leia continues to repeat the 
+sentence fragment over and over.</sd>
+
+<speaker>LEIA</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<sd>Luke becomes intrigued by the beautiful girl.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke reaches out for <name type="GPE">Artoo</name> but he lets out several frantic 
+squeaks and a whistle.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> whistles and beeps a long message to <name type="ORG">Threepio</name>.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke's gazes at the beautiful young princess for a few 
+moments.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd><name type="GPE">Artoo</name> beeps something to <name type="ORG">Threepio</name>.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>Luke looks longingly at the lovely, little princess and hasn't 
+really heard what <name type="ORG">Threepio</name> has been saying.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke takes a wedged bar and pops the restraining bolt off 
+<name type="GPE">Artoo</name>'s side.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>The princess immediately disappears...</sd>
+
+<speaker>LUKE</speaker>
+
+<sd><name type="GPE">Artoo</name> beeps an innocent reply as <name type="ORG">Threepio</name> sits up in 
+embarrassment.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>A women's voice calls out from another room.</sd>
+
+<speaker>AUNT BERU</speaker>
+
+<sd>Luke stands up and shakes his head at the malfunctioning 
+robot.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<sd>Luke tosses <name type="GPE">Artoo</name>'s restraining bolt on the workbench and 
+hurries out of the room.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> beeps in response.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> beeps.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<setting>INT. LARS HOMESTEAD - DINING AREA</setting>
+
+<sd>Luke's Aunt Beru, a warm, motherly woman, fills a pitcher 
+with blue fluid from a refrigerated container in the well-
+used kitchen. She puts the pitcher on a tray with some bowls 
+of food and starts for the dining area.</sd>
+
+<sd>Luke sits with his Uncle Owen before a table covered with 
+steaming bowls of food as Aunt Beru carries in a bowl of red 
+grain.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>OWEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Owen is greatly alarmed at the mention of his name, but 
+manages to control himself.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>Owen breaks loose with a fit of uncontrolled anger.</sd>
+
+<speaker>OWEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>OWEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>OWEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Owen's face becomes a scowl, although he tries to suppress 
+it.</sd>
+
+<speaker>OWEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>OWEN</speaker>
+
+<sd>Luke continues to toy with his food, not looking at his uncle.</sd>
+
+<speaker>OWEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>OWEN</speaker>
+
+<sd>Luke pushes his half-eaten plate of food aside and stands.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>AUNT BERU</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Resigned to his fate, Luke paddles out of the room. Owen 
+mechanically finishes his dinner.</sd>
+
+<speaker>AUNT BERU</speaker>
+
+<speaker>OWEN</speaker>
+
+<speaker>AUNT BERU</speaker>
+
+<speaker>OWEN</speaker>
+
+<setting>EXT. TATOOINE - LARS HOMESTEAD</setting>
+
+<sd>The giant twin suns of Tatooine slowly disappear behind a 
+distant dune range. Luke stands watching them for a few 
+moments, then reluctantly enters the doomed entrance to the 
+homestead.</sd>
+
+<setting>INT. LARS HOMESTEAD - GARAGE</setting>
+
+<sd>Luke enters the garage to discover the robots nowhere in 
+sight. He takes a small control box from his utility belt 
+similar to the one the Jawas were carrying. He activates the 
+box, which creates a low hum, and <name type="ORG">Threepio</name>, letting out a 
+short yell, pops up from behind the Skyhopper spaceship.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd><name type="ORG">Threepio</name> stumbles forward, but <name type="GPE">Artoo</name> is still nowhere in 
+sight.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke races out of the garage followed by <name type="ORG">Threepio</name>.</sd>
+
+<setting>EXT. TATOOINE - LARS HOMESTEAD</setting>
+
+<sd>Luke rushes out of the small doomed entry to the homestead 
+and searches the darkening horizon for the small triped astro-
+robot. <name type="ORG">Threepio</name> struggles out of the homestead and on the 
+salt flat as Luke scans the landscape with his 
+electrobinoculars.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Owen yells up from the homestead plaza.</sd>
+
+<speaker>OWEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>He takes one final look across the dim horizon.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<setting>INT. LARS HOMESTEAD - PLAZA</setting>
+
+<sd>Morning slowly creeps into the sparse but sparkling oasis of 
+the open courtyard. The idyll is broken be the yelling of 
+Uncle Owen, his voice echoing throughout the homestead.</sd>
+
+<speaker>OWEN</speaker>
+
+<setting>INT. LARS HOMESTEAD - KITCHEN</setting>
+
+<sd>The interior of the kitchen is a worm glow as Aunt Beru 
+prepares the morning breakfast. Owen enters in a huff.</sd>
+
+<speaker>OWEN</speaker>
+
+<speaker>AUNT BERU</speaker>
+
+<speaker>OWEN</speaker>
+
+<speaker>AUNT BERU</speaker>
+
+<speaker>OWEN</speaker>
+
+<setting>EXT. TATOOINE - DESERT WASTELAND - LUKE'S SPEEDER - DAY</setting>
+
+<sd>The rock and sand of the desert floor are a blur as <name type="ORG">Threepio</name> 
+pilots the sleek Landspeeder gracefully across the vast 
+wasteland.</sd>
+
+<setting>INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING -</setting>
+DAY
+
+<sd>Luke leans over the back of the speeder and adjusts something 
+in the motor compartment.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd><name type="ORG">Threepio</name> signals that is fine and Luke turns back into the 
+wind-whipped cockpit and pops the canopy shut.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<setting>EXT. TATOOINE - ROCK MESA - DUNE SEA - COASTLINE - DAY</setting>
+
+<sd>From high on a rock <name type="ORG">mesa</name>, the tiny Landspeeder can be seen 
+gliding across the desert floor. Suddenly in the foreground 
+two weather-beaten Sandpeople shrouded in their grimy desert 
+cloaks peer over the edge of the rock <name type="ORG">mesa</name>. One of the 
+marginally human creatures raises a long ominous laser rifle 
+and points it at the speeder but the second creature grabs 
+the gun before it can be fired.</sd>
+
+<sd>The Sandpeople, or Tusken Raiders as they're sometimes called, 
+speak in a coarse barbaric language as they get into an 
+animated argument. The second Tusken Raider seems to get in 
+the final word and the nomads scurry over the rocky terrain.</sd>
+
+<setting>EXT. TATOOINE - ROCK MESA - CANYON</setting>
+
+<sd>The Tusken Raider approaches two large <name type="ORG">Banthas</name> standing tied 
+to a rock. The monstrous, bear-like creatures are as large 
+as elephants, with huge red eyes, tremendous looped horns, 
+and long, furry, dinosaur-like tails. The Tusken Raiders 
+mount saddles strapped to the huge creatures' shaggy backs 
+and ride off down the rugged bluff.</sd>
+
+<setting>EXT. TATOOINE - ROCK CANYON - FLOOR</setting>
+
+<sd>The speeder is parked on the floor of a massive canyon. Luke, 
+with his long laser rifle slung over his shoulder, stands 
+before little <name type="GPE">Artoo</name>.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>The little droid whistles a feeble reply, as <name type="ORG">Threepio</name> poses 
+menacingly behind the little runaway.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Suddenly the little robot jumps to life with a mass of frantic 
+whistles and screams.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<sd>Luke swings his rifle into position and looks to the south.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>EXT. TATOOINE - ROCK CANYON - RIDGE - DAY</setting>
+
+<sd>Luke carefully makes his way to the top of a rock ridge and 
+scans the canyon with his electrobinoculars. He spots the 
+two riderless <name type="ORG">Banthas</name>. <name type="ORG">Threepio</name> struggles up behind the young 
+adventurer.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke watches the distant Tusken Raider through his 
+electrobinoculars. Suddenly something huge moves in front of 
+his field of view. Before Luke or <name type="ORG">Threepio</name> can react, a large, 
+gruesome Tusken Raider looms over them. <name type="ORG">Threepio</name> is startled 
+and backs away, right off the side if the cliff. He can be 
+heard for several moments as he clangs, bangs and rattles 
+down the side of the mountain.</sd>
+
+<sd>The towering creature brings down his curved, double-pointed 
+gaderffii -- the dreaded axe blade that has struck terror in 
+the heart of the local settlers. But Luke manages to block 
+the blow with his laser rifle, which is smashed to pieces. 
+The terrified farm boy scrambles backward until he is forced 
+to the edge of a deep crevice. The sinister Raider stands 
+over him with his weapon raised and lets out a horrible 
+shrieking laugh.</sd>
+
+<setting>EXT. TATOOINE - ROCK CANYON - FLOOR - DAY</setting>
+
+<sd><name type="GPE">Artoo</name> forces himself into the shadows of a small alcove in 
+the rocks as the vicious Sandpeople walk past carrying the 
+inert Luke Skywalker, who is dropped in a heap before the 
+speeder.  The Sandpeople ransack the speeder, throwing parts 
+and supplies in all directions. Suddenly they stop. Then 
+everything is quiet for a few moments. A great howling moan 
+is heard echoing throughout the canyon which sends the 
+Sandpeople fleeing in terror.</sd>
+
+<sd><name type="GPE">Artoo</name> moves even tighter into the shadows as the slight 
+swishing sound that frightened off the Sandpeople grows even 
+closer, until a shabby old desert-rat-of-a-man appears and 
+leans over Luke. His ancient leathery face, cracked and 
+weathered by exotic climates is set off by dark, penetrating 
+eyes and a scraggly white beard. Ben <name type="ORG">Kenobi</name> squints his eyes 
+as he scrutinizes the unconscious farm boy. <name type="GPE">Artoo</name> makes a 
+slight sound and Ben turns and looks right at him.</sd>
+
+<speaker>BEN</speaker>
+
+<sd><name type="GPE">Artoo</name> waddles over to were Luke lies crumpled in a heap and 
+begins to whistle and beep his concern. Ben puts his hand on 
+Luke's forehead and he begins to come around.</sd>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Ben ponders this for a moment, scratching his scruffy beard.</sd>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<sd>He suddenly looks up at the overhanging cliffs.</sd>
+
+<speaker>BEN</speaker>
+
+<sd>Luke sits up and rubs his head. <name type="GPE">Artoo</name> lets out a pathetic 
+beep causing Luke to remember something. He looks around.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>EXT. TATOOINE - SAND PIT - ROCK MESA - DAY</setting>
+
+<sd>Little <name type="GPE">Artoo</name> stands at the edge of a large sand pit and begins 
+to chatter away in electronic whistles and beeps. Luke and 
+Ben stand over a very dented and tangled <name type="ORG">Threepio</name> lying half 
+buried in the sand. One of his arms has broken off.</sd>
+
+<sd>Luke tries to revive the inert robot by shaking him and then 
+flips a hidden switch on his back several times until finally 
+the mechanical man's systems turn on.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> makes a beeping sound.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke and Ben help the battered robot to his feet. Little 
+<name type="GPE">Artoo</name> watches from the top of the pit. Ben glances around 
+suspiciously. Sensing something, he stands up and sniffs the 
+air.</sd>
+
+<speaker>BEN</speaker>
+
+<setting>INT. KENOBI'S DWELLING</setting>
+
+<sd>The small, spartan hovel is cluttered with desert junk but 
+still manages to radiate an air of time-worn comfort and 
+security. Luke is in one corner repairing <name type="ORG">Threepio</name>'s arm, as 
+old Ben sits thinking.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<sd>Ben gets up and goes to a chest where he rummages around.  
+As Luke finishes repairing <name type="ORG">Threepio</name> and starts to fit the 
+restraining bolt back on, <name type="ORG">Threepio</name> looks at him nervously.  
+Luke thinks about the bolt for a moment then puts it on the 
+table. Ben shuffles up and presents Luke with a short handle 
+with several electronic gadgets attached to it.</sd>
+
+<speaker>BEN</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Ben hands Luke the saber.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<sd>Luke pushes a button on the handle. A long beam shoots out 
+about four feet and flickers there. The light plays across 
+the ceiling.</sd>
+
+<speaker>BEN</speaker>
+
+<sd>Luke hasn't really been listening.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<sd><name type="GPE">Artoo</name> makes beeping sounds.</sd>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke is cut short as the recorded image of the beautiful 
+young Rebel princess is projected from <name type="GPE">Artoo</name>'s face.</sd>
+
+<speaker>BEN</speaker>
+
+<sd>Luke stops his work as the lovely girl's image flickers before 
+his eyes.</sd>
+
+<speaker>LEIA</speaker>
+
+<sd>There is a little static and the transmission is cut short.  
+Old Ben leans back and scratches his head. He silently puffs 
+on a tarnished chrome water pipe. Luke has stars in his eyes.</sd>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<setting>EXT. SPACE.</setting>
+
+<sd>An <name type="ORG">Imperial</name> Stardestroyer heads toward the evil planet-like 
+battle station: <name type="ORG">the Death Star</name>!</sd>
+
+<setting>INT. DEATH STAR - CONFERENCE ROOM</setting>
+
+<sd>Eight <name type="ORG">Imperial</name> senators and generals sit around a black 
+conference table. <name type="ORG">Imperial</name> stormtroopers stand guard around 
+the room. Commander Tagge, a young, slimy-looking general, 
+is speaking.</sd>
+
+<speaker>TAGGE</speaker>
+
+<sd>The bitter Admiral Motti twists nervously in his chair.</sd>
+
+<speaker>MOTTI</speaker>
+
+<speaker>TAGGE</speaker>
+
+<sd>Suddenly all heads turn as Commander Tagge's speech is cut 
+short and the Grand Moff Tarkin, governor of the <name type="ORG">Imperial</name> 
+outland regions, enters. He is followed by his powerful ally, 
+The Sith Lord, Darth Vader. All of the generals stand and 
+bow before the thin, evil-looking governor as he takes his 
+place at the head of the table. The Dark Lord stands behind 
+him.</sd>
+
+<speaker>TARKIN</speaker>
+
+<speaker>TAGGE</speaker>
+
+<speaker>TARKIN</speaker>
+
+<speaker>TAGGE</speaker>
+
+<speaker>VADER</speaker>
+
+<speaker>MOTTI</speaker>
+
+<speaker>VADER</speaker>
+
+<speaker>MOTTI</speaker>
+
+<sd>Suddenly Motti chokes and starts to turn blue under Vader's 
+spell.</sd>
+
+<speaker>VADER</speaker>
+
+<speaker>TARKIN</speaker>
+
+<speaker>VADER</speaker>
+
+<speaker>TARKIN</speaker>
+
+<setting>EXT. TATOOINE - WASTELAND</setting>
+
+<sd>The speeder stops before what remains of the huge Jawas 
+Sandcrawler. Luke and Ben walk among the smoldering rubble 
+and scattered bodies.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>Ben is crouching in the sand studying the tracks.</sd>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke looks back at the speeder where <name type="GPE">Artoo</name> and <name type="ORG">Threepio</name> are 
+inspecting the dead Jawas, and put two and two together.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke reaches a sudden horrible realization, then races for 
+the speeder and jumps it.</sd>
+
+<speaker>BEN</speaker>
+
+<sd>Luke races off leaving Ben and the two robots alone with the 
+burning Sandcrawler.</sd>
+
+<setting>EXT. TATOOINE - WASTELAND</setting>
+
+<sd>Luke races across the wasteland in his battered Landspeeder.</sd>
+
+<setting>EXT. TATOOINE - LARS HOMESTEAD</setting>
+
+<sd>The speeder roars up to the burning homestead. Luke jumps 
+out and runs to the smoking holes that were once his home. 
+Debris is scattered everywhere and it looks as if a great 
+battle has taken place.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke stumbles around in a daze looking for his aunt and uncle. 
+Suddenly he comes upon their smoldering remains. He is 
+stunned, and cannot speak. Hate replaces fear and a new 
+resolve comes over him.</sd>
+
+<setting>EXT. SPACE</setting>
+
+<sd><name type="ORG">Imperial</name> <name type="ORG">TIE</name> fighter races toward <name type="ORG">the Death Star</name>.</sd>
+
+<setting>INT. DEATH STAR - DETENTION CORRIDOR</setting>
+
+<sd>Two stormtroopers open an electronic cell door and allow 
+several <name type="ORG">Imperial</name> guards to enter. Princess Leia's face is 
+filled with defiance, which slowly gives way to fear as a 
+giant black torture robot enters, followed by Darth Vader.</sd>
+
+<speaker>VADER</speaker>
+
+<sd>The torture robot gives off a steady beeping sound as it 
+approaches Princess Leia and extends one of its mechanical 
+arms bearing a large hypodermic needle. The door slides shut 
+and the long cell block hallway appears peaceful. The muffled 
+screams of the Rebel princess are barely heard.</sd>
+
+<setting>EXT. TATOOINE - WASTELAND</setting>
+
+<sd>There is a large bonfire of Jawa bodies blazing in front of 
+the Sandcrawler as Ben and the robots finish burning the 
+dead.  Luke drives up in the speeder and Ben walks over to 
+him.</sd>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<setting>EXT. TATOOINE - WASTELAND</setting>
+
+<sd>The Landspeeder with Luke, <name type="GPE">Artoo</name>, <name type="ORG">Threepio</name>, and Ben in it 
+zooms across the desert. The speeder stops on a bluff 
+overlooking the spaceport at Mos Eisley. It is a haphazard 
+array of low, grey, concrete structures and semi-domes. A 
+harsh gale blows across the stark canyon floor. Luke adjusts 
+his goggles and walks to the edge of the craggy bluff where 
+Ben is standing.</sd>
+
+<speaker>BEN</speaker>
+
+<sd>Ben looks over at Luke, who gives the old <name type="ORG">Jedi</name> a determined 
+smile.</sd>
+
+<setting>EXT. TATOOINE - MOS EISLEY - STREET</setting>
+
+<sd>The speeder is stopped on a crowded street by several combat-
+hardend stormtroopers who look over the two robots. A Trooper 
+questions Luke.</sd>
+
+<speaker>TROOPER</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>TROOPER</speaker>
+
+<sd>Luke becomes very nervous as he fumbles to find his ID while 
+Ben speaks to the Trooper in a very controlled voice.</sd>
+
+<speaker>BEN</speaker>
+
+<speaker>TROOPER</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>TROOPER</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>TROOPER</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>TROOPER</speaker>
+
+<setting>EXT. TATOOINE - MOS EISLEY - STREET</setting>
+
+<sd>The speeder pulls up in front of a rundown blockhouse cantina 
+on the outskirts of the spaceport. Various strange forms of 
+transport, including several unusual beasts of burden, are 
+parked outside the bar. A Jawa runs up and begins to fondle 
+the speeder.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>As Luke gets out of the speeder he tries to shoo the Jawa 
+away.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<setting>INT. TATOOINE - MOS EISLEY - CANTINA</setting>
+
+<sd>The young adventurer and his two mechanical servants follow 
+Ben <name type="ORG">Kenobi</name> into the smoke-filled cantina. The murky, moldy 
+den is filled with a startling array of weird and exotic 
+alien creatures and monsters at the long metallic bar. At 
+first the sight is horrifying. One-eyed, thousand-eyed, slimy, 
+furry, scaly, tentacled, and clawed creatures huddle over 
+drinks. Ben moves to an empty spot at the bar near a group 
+of repulsive but human scum. A huge, rough-looking Bartender 
+stops Luke and the robots.</sd>
+
+<speaker>BARTENDER</speaker>
+
+<sd>Luke still recovering from the shock of seeing so many 
+outlandish creatures, doesn't quite catch the bartender's 
+drift.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>BARTENDER</speaker>
+
+<sd>Luke looks at old Ben, who is busy talking to one of the 
+Galactic pirates. He notices several of the gruesome creatures 
+along the bar are giving him a very unfriendly glare.</sd>
+
+<sd>Luke pats <name type="ORG">Threepio</name> on the shoulder.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="ORG">Threepio</name> and his stubby partner go outside and most of the 
+creatures at the bar go back to their drinks.</sd>
+
+<sd>Ben is standing next to Chewbacca, an eight-foot-tall savage-
+looking creature resembling a huge grey bushbaby monkey with 
+fierce baboon-like fangs. His large blue eyes dominate a fur-
+covered face and soften his otherwise awesome appearance.  
+Over his matted, furry body he wears two chrome bandoliers, 
+and little else. He is a two-hundred-year-old <name type="NORP">Wookiee</name> and a 
+sight to behold.</sd>
+
+<sd>Ben speaks to the <name type="NORP">Wookiee</name>, pointing to Luke several times 
+during his conversation and the huge creature suddenly lets 
+out a horrifying laugh. Luke is more than a little bit 
+disconcerted and pretends not to hear the conversation between 
+Ben and the giant <name type="NORP">Wookiee</name>.</sd>
+
+<sd>Luke is terrified but tries not to show it. He quietly sips 
+his drink, looking over the crowd for a more sympathetic ear 
+or whatever.</sd>
+
+<sd>A large, multiple-eyed Creature gives Luke a rough shove.</sd>
+
+<speaker>CREATURE</speaker>
+
+<sd>The hideous freak is obviously drunk. Luke tries to ignore 
+the creature and turns back on his drink. A short, grubby 
+Human and an even smaller rodent-like beast join the 
+belligerent monstrosity.</sd>
+
+<speaker>HUMAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HUMAN</speaker>
+
+<sd>The big creature is getting agitated and yells out some 
+unintelligible gibberish at the now rather nervous, young 
+adventurer.</sd>
+
+<speaker>HUMAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HUMAN</speaker>
+
+<sd>The rodent lets out a loud grunt and everything at the bar 
+moves away. Luke tries to remain cool but it isn't easy. His 
+three adversaries ready their weapons. Old Ben moves in behind 
+Luke.</sd>
+
+<speaker>BEN</speaker>
+
+<sd>A powerful blow from the unpleasant creature sends the young 
+would-be <name type="ORG">Jedi</name> sailing across the room, crashing through tables 
+and breaking a large jug filled with a foul-looking liquid. 
+With a blood curdling shriek, the monster draws a wicked 
+chrome laser pistol from his belt and levels it at old Ben. 
+The bartender panics.</sd>
+
+<speaker>BARTENDER</speaker>
+
+<sd>With astounding agility old Ben's laser sword sparks to life 
+and in a flash an arm lies on the floor. The rodent is cut 
+in two and the giant multiple-eyed creature lies doubled, 
+cut from chin to groin. Ben carefully and precisely turns 
+off his laser sword and replaces it on his utility belt. 
+Luke, shaking and totally amazed at the old man's abilities, 
+attempts to stand. The entire fight has lasted only a matter 
+of seconds. The cantina goes back to normal, although Ben is 
+given a respectable amount of room at the bar. Luke, rubbing 
+his bruised head, approaches the old man with new awe. Ben 
+points the the <name type="NORP">Wookiee</name>.</sd>
+
+<speaker>BEN</speaker>
+
+<setting>EXT. TATOOINE - MOS EISLEY - STREET</setting>
+
+<sd><name type="ORG">Threepio</name> paces in front of the cantina as <name type="GPE">Artoo</name> carries on 
+an electronic conversation with another little red astro-
+droid. A creature comes out of the cantina and approaches 
+two stormtroopers in the street.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<setting>INT. TATOOINE - MOS EISLEY - CANTINA</setting>
+
+<sd>Strange creatures play exotic big band music on odd-looking 
+instruments as Luke, still giddy, downs a fresh drink and 
+follows Ben and Chewbacca to a booth where <name type="NORP">Han</name> Solo is 
+sitting. <name type="NORP">Han</name> is a tough, roguish starpilot about thirty years 
+old. A mercenary on a starship, he is simple, sentimental, 
+and cocksure.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>Ben reacts to Solo's stupid attempt to impress them with 
+obvious misinformation.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>HAN</speaker>
+
+<sd><name type="NORP">Han</name> ponders this for a few moments.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>Ben and Luke turn around to see four <name type="ORG">Imperial</name> stormtroopers 
+looking at the dead bodies and asking the bartenders some 
+questions. The bartender points to the booth.</sd>
+
+<speaker>TROOPER</speaker>
+
+<sd>The stormtroopers look over at the booth but Luke and Ben 
+are gone. The bartender shrugs his shoulders in puzzlement.</sd>
+
+<speaker>HAN</speaker>
+
+<setting>EXT. TATOOINE - MOS EISLEY - STREET</setting>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. MOS EISLEY - CANTINA</setting>
+
+<sd>As <name type="NORP">Han</name> is about to leave, Greedo, a slimy green-faced alien 
+with a short trunk-nose, pokes a gun in his side. The creature 
+speaks in a foreign tongue translated into English subtitles.</sd>
+
+<speaker>GREEDO</speaker>
+
+<speaker>HAN</speaker>
+
+<sd><name type="NORP">Han</name> sits down and the alien sits across from him holding the 
+gun on him.</sd>
+
+<speaker>GREEDO</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>GREEDO</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>GREEDO</speaker>
+
+<speaker>HAN</speaker>
+
+<sd><name type="NORP">Han</name> Solo slowly reaches for his gun under the table.</sd>
+
+<speaker>GREEDO</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>GREEDO</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>Suddenly the slimy alien disappears in a blinding flash of 
+light. <name type="NORP">Han</name> pulls his smoking gun from beneath the table as 
+the other patron look on in bemused amazement. <name type="NORP">Han</name> gets up 
+and starts out of the cantina, flipping the bartender some 
+coins as he leaves.</sd>
+
+<speaker>HAN</speaker>
+
+<setting>EXT. SPACE</setting>
+
+<sd>Several <name type="ORG">TIE</name> fighters approach <name type="ORG">the Death Star</name>.</sd>
+
+<setting>INT. DEATH STAR - CONTROL ROOM</setting>
+
+<speaker>VADER</speaker>
+
+<sd>An <name type="ORG">Imperial</name> Officer interrupts the meeting.</sd>
+
+<speaker>IMPERIAL OFFICER</speaker>
+
+<speaker>TARKIN</speaker>
+
+<speaker>VADER</speaker>
+
+<speaker>TARKIN</speaker>
+
+<speaker>TROOPER</speaker>
+
+<setting>EXT. TATOOINE - MOS EISLEY - STREET</setting>
+
+<sd>Four heavily-armed stormtroopers move menacingly along a 
+narrow slum alleyway crowed with darkly clad creatures hawking 
+exotic goods in the dingy little stalls. Men, monsters, and 
+robots crouch in the waste-filled doorways, whispering and 
+hiding from the hot winds.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>One of the troopers checks a tightly locked door and moves 
+on down the alleyway. The door slides open a crack and 
+<name type="ORG">Threepio</name> peeks out. <name type="GPE">Artoo</name> is barely visible in the background.</sd>
+
+<speaker>TROOPER</speaker>
+
+<sd>The door opens, <name type="ORG">Threepio</name> moves into the doorway.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> makes beeping sounds.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<setting>EXT. TATOOINE - MOS EISLEY - STREET - ALLEYWAY - USED </setting>
+SPEEDER LOT
+
+<sd>Ben and Luke are standing in a sleazy used speeder lot, 
+talking with a tall, grotesque, insect-like used speeder 
+dealer. Strange exotic bodies and spindly-legged beasts pass 
+by as the insect concludes the sale by giving Luke some coins.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<sd>Ben and Luke leave the speeder lot and walk down the dusty 
+alleyway past a small robot herding a bunch of anteater-like 
+creatures. Luke turns and gives one last forlorn look at his 
+faithful speeder as he rounds a corner. A darkly clad creature 
+moves out of the shadows as they pass and watches them as 
+they disappear down another alley.</sd>
+
+<speaker>BEN</speaker>
+
+<setting>INT. DOCKING BAY 94 - DAY</setting>
+
+<sd>Jabba the <name type="ORG">Hut</name> and a half-dozen grisly alien pirates and purple 
+creatures stand in the middle of the docking bay. Jabba is 
+the grossest of the slavering hulks and his scarred face is 
+a grim testimonial to his prowess as a vicious killer. He is 
+a fat, slug-like creature with eyes on extended feelers and 
+a huge ugly mouth.</sd>
+
+<speaker>JABBA</speaker>
+
+<sd>A voice from directly behind the pirates startles them and 
+they turn around to see <name type="NORP">Han</name> Solo and the giant <name type="NORP">Wookiee</name>, 
+Chewbacca, standing behind them with no weapons in sight.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>JABBA</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>JABBA</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>JABBA</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>JABBA</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>JABBA</speaker>
+
+<speaker>HAN</speaker>
+
+<setting>EXT. DOCKING PORT ENTRY - ALLEYWAY</setting>
+
+<sd>Chewbacca waits restlessly at the entrance to Docking Bay 
+94.  Ben, Luke, and the robots make their way up the street.  
+Chewbacca jabbers excitedly and signals for them to hurry. 
+The darkly clad creature has followed them from the speeder 
+lot.  He stops in a nearby doorway and speaks into a small 
+transmitter.</sd>
+
+<setting>INT. MOS EISLEY SPACEPORT - DOCKING BAY 94</setting>
+
+<sd>Chewbacca leads the group into a giant dirt pit that is 
+Docking Bay 94. Resting in the middle of the huge hole is a 
+large, round, beat-up, pieced-together hunk of junk that 
+could only loosely be called a starship.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>The tall figure of <name type="NORP">Han</name> Solo comes down the boarding ramp.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>Luke scratches his head. It's obvious he isn't sure about 
+all this. Chewbacca rushes up the ramp and urges the others 
+to follow.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>The group rushes up the gang plank, passing a grinning <name type="NORP">Han</name> 
+Solo.</sd>
+
+<setting>INT. MILLENNIUM FALCON</setting>
+
+<sd>Chewbacca settles into the pilot's chair and starts the mighty 
+engines of the starship.</sd>
+
+<setting>INT. MOS EISLEY SPACEPORT - DOCKING BAY 94</setting>
+
+<sd>Luke, Ben, <name type="ORG">Threepio</name>, and <name type="GPE">Artoo</name> move toward the Millennium 
+<name type="ORG">Falcon</name> passing Solo.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<setting>EXT. TATOOINE - MOS EISLEY - STREET</setting>
+
+<sd>Eight <name type="ORG">Imperial</name> stormtroopers rush up to the darkly clad 
+creature.</sd>
+
+<speaker>TROOPER</speaker>
+
+<sd>The darkly clad creature points to the door of the docking 
+bay.</sd>
+
+<speaker>TROOPER</speaker>
+
+<setting>INT. MOS EISLEY SPACEPORT - DOCKING BAY 94]</setting>
+
+<sd>The troops hold their guns at the ready and charge down the 
+docking bay entrance.</sd>
+
+<speaker>TROOPER</speaker>
+
+<sd><name type="NORP">Han</name> Solo looks up and sees the <name type="ORG">Imperial</name> stormtroopers rushing 
+into the docking bay. Several of the troopers fire at <name type="NORP">Han</name> as 
+he ducks into the spaceship.</sd>
+
+<speaker>TROOPER</speaker>
+
+<sd><name type="NORP">Han</name> draws his laser pistol and pops off a couple of shots 
+which force the stormtroopers to dive for safety. The 
+pirateship engines whine as <name type="NORP">Han</name> hits the release button that 
+slams the overhead entry shut.</sd>
+
+<setting>INT. MILLENNIUM FALCON</setting>
+
+<speaker>HAN</speaker>
+
+<sd>The group straps in for take off.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<setting>EXT. TATOOINE - MOS EISLEY - STREETS</setting>
+
+<sd>The half-dozen stormtroopers at a check point hear the general 
+alarm and look to the sky as the huge starship rises above 
+the dingy slum dwellings and quickly disappears into the 
+morning sky.</sd>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd><name type="NORP">Han</name> climbs into the pilot's chair next to Chewbacca, who 
+chatters away as he points to something on the radar scope.</sd>
+
+<setting>EXT. SPACE - PLANET TATOOINE</setting>
+
+<sd>The Corellian pirateship zooms from Tatooine into space.</sd>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd><name type="NORP">Han</name> frantically types information into the ship's computer.  
+Little <name type="GPE">Artoo</name> appears momentarily at the cockpit doorway, 
+makes a few beeping remarks, then scurries away.</sd>
+
+<speaker>HAN</speaker>
+
+<setting>EXT. SPACE - PLANET TATOOINE</setting>
+
+<sd>The Millennium <name type="ORG">Falcon</name> pirateship races away from the yellow 
+planet, Tatooine. It is followed by two huge <name type="ORG">Imperial</name> 
+stardestroyers.</sd>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd>Over the shoulders of Chewbacca and <name type="NORP">Han</name>, we can see the galaxy 
+spread before them. Luke and Ben make their way into the 
+cramped cockpit where <name type="NORP">Han</name> continues his calculation.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<setting>EXT. SPACE - PLANET TATOOINE</setting>
+
+<sd><name type="ORG">Imperial</name> cruisers fire at the pirateship.</sd>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd>The ship shudders as an explosion flashes outside the window.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>The ship begins to rock violently as lasers hit it.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>The ship is now constantly battered with laserfire as a red 
+warning light begins to flash.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>The galaxy brightens and they move faster, almost as if 
+crashing a barrier. Stars become streaks as the pirateship 
+makes the jump to hyperspace.</sd>
+
+<setting>EXT. SPACE</setting>
+
+<sd>The Millennium <name type="ORG">Falcon</name> zooms into infinity in less than a 
+second.</sd>
+
+<setting>EXT. DEATH STAR</setting>
+
+<sd><name type="ORG">Alderaan</name> looms behind <name type="ORG">the Death Star</name> battlestation.</sd>
+
+<setting>INT. DEATH STAR - CONTROL ROOM</setting>
+
+<sd>Admiral Motti enters the quiet control room and bows before 
+Governor Tarkin, who stands before the huge wall screen 
+displaying a small green planet.</sd>
+
+<speaker>MOTTI</speaker>
+
+<sd>Vader and two stormtroopers enter with Princess Leia. Her 
+hands are bound.</sd>
+
+<speaker>LEIA</speaker>
+
+<speaker>TARKIN</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>TARKIN</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>TARKIN</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>TARKIN</speaker>
+
+<sd>Tarkin waves menacingly toward Leia.</sd>
+
+<speaker>TARKIN</speaker>
+
+<sd>Leia overhears an intercom voice announcing the approach to 
+<name type="ORG">Alderaan</name>.</sd>
+
+<speaker>LEIA</speaker>
+
+<sd>Leia lowers her head.</sd>
+
+<speaker>LEIA</speaker>
+
+<speaker>TARKIN</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>TARKIN</speaker>
+
+<speaker>LEIA</speaker>
+
+<setting>INT. DEATH STAR - BLAST CHAMBER</setting>
+
+<speaker>VADER</speaker>
+
+<sd>A button is pressed which switches on a panel of lights. A 
+hooded <name type="ORG">Imperial</name> soldier reaches overhead and pulls a lever.  
+Another lever is pulled. Vader reaches for still another 
+lever and a bank of lights on a panel and wall light up. A 
+huge beam of light emanates from within a cone-shaped area 
+and converges into a single laser beam out toward <name type="ORG">Alderaan</name>. 
+The small green planet of <name type="ORG">Alderaan</name> is blown into space dust.</sd>
+
+<setting>INT. MILLENNIUM FALCON - CENTRAL HOLD AREA</setting>
+
+<sd>Ben watches Luke practice the lightsaber with a small "seeker" 
+robot. Ben suddenly turns away and sits down. He falters, 
+seems almost faint.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<sd>Ben rubs his forehead. He seems to drift into a trance. Then 
+he fixes his gaze on Luke.</sd>
+
+<speaker>BEN</speaker>
+
+<sd><name type="NORP">Han</name> Solo enters the room.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>Luke is once again practicing with the lightsaber.</sd>
+
+<speaker>HAN</speaker>
+
+<sd><name type="ORG">Threepio</name> watches Chewbacca and <name type="GPE">Artoo</name> who are engrossed in a 
+game in which three-dimensional holographic figures move 
+along a chess-type board.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>Chewbacca and the two robots sit around the lighted table 
+covered with small holographic monsters. Each side of the 
+table has a small computer monitor embedded in it. Chewbacca 
+seems very pleased with himself as he rests his lanky fur- 
+covered arms over his head.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> immediately reaches up and taps the computer with his 
+stubby claw hand, causing one of the holographic creatures 
+to walk to the new square. A sudden frown crosses Chewbacca's 
+face and he begins yelling gibberish at the tiny robot. 
+<name type="ORG">Threepio</name> intercedes on behalf of his small companion and 
+begins to argue with the huge <name type="NORP">Wookiee</name>.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<sd>Luke stands in the middle of the small hold area; he seems 
+frozen in place. A humming lightsaber is held high over his 
+head. Ben watches him from the corner, studying his movements.  
+<name type="NORP">Han</name> watches with a bit of smugness.</sd>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<sd>Suspended at eye level, about ten feet in front of Luke, a 
+"seeker", a chrome baseball-like robot covered with antennae, 
+hovers slowly in a wide arc. The ball floats to one side of 
+the youth then the other. Suddenly it makes a lightning-swift 
+lunge and stops within a few feet of Luke's face. Luke doesn't 
+move and the ball backs off. It slowly moves behind the boy, 
+then makes another quick lunge, this time emitting a blood 
+red laser beam as it attacks. It hits Luke in the leg causing 
+him to tumble over. <name type="NORP">Han</name> lets loose with a burst of laughter.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>Ben smiles quietly.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>BEN</speaker>
+
+<sd>Ben places a large helmet on Luke's head which covers his 
+eyes.</sd>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<sd><name type="NORP">Han</name> skeptically shakes his head as Ben throws the seeker 
+into the air. The ball shoots straight up in the air, then 
+drops like a rock. Luke swings the lightsaber around blindly 
+missing the seeker, which fires off a laserbolt which hits 
+Luke square on the seat of the pants. He lets out a painful 
+yell and attempts to hit the seeker.</sd>
+
+<speaker>BEN</speaker>
+
+<sd>Luke stands in one place, seemingly frozen. The seeker makes 
+a dive at Luke and, incredibly, he managed to deflect the 
+bolt. The ball ceases fire and moves back to its original 
+position.</sd>
+
+<speaker>BEN</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>Solo notices a small light flashing on the far side of the 
+control panel.</sd>
+
+<speaker>HAN</speaker>
+
+<sd><name type="NORP">Han</name> and Chewbacca head back to the cockpit.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<setting>INT. DEATH STAR - CONFERENCE ROOM</setting>
+
+<sd><name type="ORG">Imperial</name> Officer Cass stands before Governor Tarkin and the 
+evil Dark Lord Darth Vader.</sd>
+
+<speaker>TARKIN</speaker>
+
+<speaker>OFFICER CASS</speaker>
+
+<speaker>TARKIN</speaker>
+
+<speaker>VADER</speaker>
+
+<speaker>TARKIN</speaker>
+
+<setting>EXT. HYPERSPACE</setting>
+
+<sd>The pirateship is just coming out of hyperspace; a strange 
+surreal light show surrounds the ship.</sd>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
+
+<speaker>HAN</speaker>
+
+<sd><name type="NORP">Han</name> pulls back on a control lever. Outside the cockpit window 
+stars begin streaking past, seem to decrease in speed, then 
+stop. Suddenly the starship begins to shudder and violently 
+shake about. Asteroids begin to race toward them, battering 
+the sides of the ship.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>The <name type="NORP">Wookiee</name> flips off several controls and seems very cool 
+in the emergency. Luke makes his way into the bouncing 
+cockpit.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Ben moves into the cockpit behind Luke as the ship begins to 
+settle down.</sd>
+
+<speaker>BEN</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>A signal starts flashing on the control panel and a muffled 
+alarm starts humming.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<sd>Chewbacca barks his concern. A huge explosion bursts outside 
+the cockpit window, shaking the ship violently. A tiny, finned 
+<name type="ORG">Imperial</name> <name type="ORG">TIE</name> fighter races past the cockpit window.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>HAN</speaker>
+
+<setting>EXT. SPACE</setting>
+
+<sd>The fighter races past the Corellian pirateship.</sd>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>HAN</speaker>
+
+<setting>EXT. SPACE</setting>
+
+<sd>The pirateship zooms over the camera and away into the 
+vastness of space after the <name type="ORG">Imperial</name> <name type="ORG">TIE</name> fighter.</sd>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd>The tension mounts as the pirateship gains on the tiny 
+fighter. In the distance, one of the stars becomes brighter 
+until it is obvious that the <name type="ORG">TIE</name> ship is heading for it. Ben 
+stands behind Chewbacca.</sd>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<setting>EXT. SPACE</setting>
+
+<sd>The <name type="ORG">TIE</name> fighter is losing ground to the larger pirateship as 
+they race toward camera and disappear over head.</sd>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd>The distant star can be distinguished as a small moon or 
+planet.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>The small moon begins to take on the appearance of a monstrous 
+spherical battle station.</sd>
+
+<speaker>BEN</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>The pirateship shudders and the <name type="ORG">TIE</name> fighter accelerates away 
+toward the gargantuan battle station.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>Ben <name type="ORG">Kenobi</name> puts a hand on his shoulder.</sd>
+
+<speaker>BEN</speaker>
+
+<setting>INT. MILLENNIUM FALCON - DEATH STAR</setting>
+
+<sd>As the battered pirate starship is towed closer to the awesome 
+metal moon, the immense size of the massive battle station 
+becomes staggering. Running along the equator of the gigantic 
+sphere is a mile-high band of huge docking ports into which 
+the helpless pirateship is dragged.</sd>
+
+<setting>EXT. DEATH STAR - HUGE PORT DOORS</setting>
+
+<sd>The helpless Millennium <name type="ORG">Falcon</name> is pulled past a docking port 
+control room and huge laser turret cannons.</sd>
+
+<sd>VOICE OVER DEATH STAR INTERCOM</sd>
+
+<sd>Clear Bay twenty-three-seven. We are opening the magnetic 
+field.</sd>
+
+<setting>INT. DEATH STAR - DOCKING BAY 2037</setting>
+
+<sd>The pirateship is pulled in through port doors of the Death 
+Star, coming to rest in a huge hangar. Thirty stormtroopers 
+stand at attention in a central assembly area.</sd>
+
+<speaker>OFFICER</speaker>
+
+<setting>INT. DEATH STAR - HALLWAY</setting>
+
+<sd>Stormtroopers run to their posts.</sd>
+
+<setting>INT. DEATH STAR - HANGAR 2037</setting>
+
+<sd>A line of stormtroopers march toward the pirateship in 
+readiness to board it, while other troopers stand with weapons 
+ready to fire.</sd>
+
+<speaker>OFFICER</speaker>
+
+<setting>INT. DEATH STAR - CONFERENCE ROOM</setting>
+
+<sd>Tarkin pushes a button and responds to the intercom buzz.</sd>
+
+<speaker>TARKIN</speaker>
+
+<speaker>VOICE</speaker>
+
+<speaker>VADER</speaker>
+
+<setting>INT. DEATH STAR - DOCKING BAY 2037</setting>
+
+<sd>Vader and a commander approach the troops as an Officer and 
+several heavily armed troops exit the spacecraft.</sd>
+
+<speaker>VOICE</speaker>
+
+<speaker>OFFICER</speaker>
+
+<speaker>VADER</speaker>
+
+<speaker>OFFICER</speaker>
+
+<speaker>VADER</speaker>
+
+<speaker>OFFICER</speaker>
+
+<speaker>VADER</speaker>
+
+<sd>Vader turns quickly and exits the hangar.</sd>
+
+<speaker>OFFICER</speaker>
+
+<setting>INT. MILLENNIUM FALCON - HALLWAY</setting>
+
+<sd>A trooper runs through the hallway heading for the exit. In 
+a few moments all is quiet. The muffled sounds of a distant 
+officer giving orders finally fade. Two floor panels suddenly 
+pop up revealing <name type="NORP">Han</name> Solo and Luke. Ben <name type="ORG">Kenobi</name> sticks his 
+head out of a third locker.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>BEN</speaker>
+
+<sd><name type="NORP">Han</name> shakes his head, muttering to himself. Chewbacca agrees.</sd>
+
+<setting>INT. DEATH STAR - MAIN FORWARD BAY</setting>
+
+<sd>The crewmen carry a heavy box on board the ship, past the 
+two stormtroopers guarding either side of the ramp.</sd>
+
+<speaker>TROOPER</speaker>
+
+<sd>The crewmen enter the pirateship and a loud crashing sound 
+is followed by a voice calling to the guard below.</sd>
+
+<speaker>HAN'S VOICE</speaker>
+
+<sd>The stormtroopers enter the ship and a quick round of gunfire 
+is heard.</sd>
+
+<setting>INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE</setting>
+
+<sd>In a very small command office near the entrance to the 
+pirateship, a Gantry Officer looks out his window and notices 
+the guards are missing. He speaks into the comlink.</sd>
+
+<speaker>GANTRY OFFICER</speaker>
+
+<sd>A stormtrooper comes down the ramp of the pirateship and 
+waves to the gantry officer, pointing to his ear indicating 
+his comlink is not working. The gantry officer shakes his 
+head in disgust and heads for the door, giving his aide an 
+annoyed look.</sd>
+
+<speaker>GANTRY OFFICER</speaker>
+
+<sd>As the officer approaches the door, it slides open revealing 
+the towering Chewbacca. The gantry officer, in a momentary 
+state of shock, stumbles backward. With a bone- chilling 
+howl, the giant <name type="NORP">Wookiee</name> flattens the officer with one blow. 
+The aide immediately reaches for his pistol, but is blasted 
+by <name type="NORP">Han</name>, dressed as an <name type="ORG">Imperial</name> stormtrooper. Ben and the 
+robots enter the room quickly followed by Luke, also dressed 
+as a stormtrooper. Luke quickly removes his helmet.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<sd>Ben feeds some information into the computer and a map of 
+the city appears on the monitor. He begins to inspect it 
+carefully. <name type="ORG">Threepio</name> and <name type="GPE">Artoo</name> look over the control panel.  
+<name type="GPE">Artoo</name> finds something that makes him whistle wildly.</sd>
+
+<speaker>BEN</speaker>
+
+<sd><name type="GPE">Artoo</name> punches his claw arm into the computer socket and the 
+vast <name type="ORG">Imperial</name> brain network comes to life, feeding information 
+to the little robot. After a few moments, he beeps something.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>The computer monitor flashes readouts.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>Ben studies the data on the monitor readout.</sd>
+
+<speaker>BEN</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BEN</speaker>
+
+<sd>Ben adjusts the lightsaber on his belt and silently steps 
+out of the command office, then disappears down a long grey 
+hallway. Chewbacca barks a comment and <name type="NORP">Han</name> shakes his head 
+in agreement.</sd>
+
+<speaker>HAN</speaker>
+
+<sd><name type="NORP">Han</name> looks at Luke.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Suddenly <name type="GPE">Artoo</name> begins to whistle and beep a blue streak.  
+Luke goes over to him.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd><name type="GPE">Artoo</name> whistles a frantic reply.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Chewbacca growls.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<sd><name type="NORP">Han</name> looks at Chewie, who grunts a short grunt.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke moves toward Chewbacca with electronic cuffs.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>Chewie lets out a hideous growl.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke sheepishly hands the binders to <name type="NORP">Han</name>.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>The <name type="NORP">Wookiee</name> has a worried and frightened look on his face as 
+<name type="NORP">Han</name> binds him with the electronic cuffs.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<sd>Luke and <name type="NORP">Han</name> put on their armored stormtrooper helmets and 
+start off into the giant <name type="ORG">Imperial</name> Death Star.</sd>
+
+<setting>INT. DEATH STAR - DETENTION AREA - ELEVATOR TUBE</setting>
+
+<sd><name type="NORP">Han</name> and Luke try to look inconspicuous in their armored suits 
+as they wait for a vacuum elevator to arrive. Troops, 
+bureaucrats, and robots bustle about, ignoring the trio 
+completely. Only a few give the giant <name type="NORP">Wookiee</name> a curious 
+glance.</sd>
+
+<sd>Finally a small elevator arrives and the trio enters.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>A bureaucrat races to get aboard also, but is signaled away 
+by <name type="NORP">Han</name>. The door to the pod-like vehicle slides closed and 
+the elevator car takes off through a vacuum tube.</sd>
+
+<setting>INT. DEATH STAR - MAIN HALLWAY</setting>
+
+<sd>Several <name type="ORG">Imperial</name> officers walk through the wide main 
+passageway. They pass several stormtroopers and a robot 
+similar to <name type="ORG">Threepio</name> but with an insect face. At the far end 
+of the hallway, a passing flash of Ben <name type="ORG">Kenobi</name> appears, then 
+disappears down a small hallway. His appearance is so fleeting 
+that it is hard to tell if he is real or just an illusion. 
+No one in the hallway seems to notice him.</sd>
+
+<setting>INT. DEATH STAR - INTERIOR ELEVATOR - DETENTION SECURITY </setting>
+AREA
+
+<sd>Luke and <name type="NORP">Han</name> step forward to exit the elevator, but the door 
+slides open behind them. The giant <name type="NORP">Wookiee</name> and his two guards 
+enter the old grey security station. Guards and laser gates 
+are everywhere. <name type="NORP">Han</name> whispers to Luke under his breath.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<setting>INT. DETENTION AREA</setting>
+
+<sd>Elevator doors open. A tall, grim looking Officer approaches 
+the trio.</sd>
+
+<speaker>OFFICER</speaker>
+
+<sd>Chewie growls a bit at the remark but <name type="NORP">Han</name> nudges him to shut 
+up.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>OFFICER</speaker>
+
+<sd>The officer goes back to his console and begins to punch in 
+the information. There are only three other troopers in the 
+area. Luke and <name type="NORP">Han</name> survey the situation, checking all of the 
+alarms, laser gates, and camera eyes. <name type="NORP">Han</name> unfastens one of 
+Chewbacca's electronic cuffs and shrugs to Luke.</sd>
+
+<sd>Suddenly Chewbacca throws up his hands and lets out with one 
+of his ear-piercing howls. He grabs <name type="NORP">Han</name>'s laser rifle.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>The startled guards are momentarily dumbfounded. Luke and 
+<name type="NORP">Han</name> have already pulled out their laser pistols and are 
+blasting away at the terrifying <name type="NORP">Wookiee</name>. Their barrage of 
+laserfire misses Chewbacca, but hits the camera eyes, laser 
+gate controls, and the <name type="ORG">Imperial</name> guards. The officer is the 
+last of the guards to fall under the laserfire just as he is 
+about to push the alarm system. <name type="NORP">Han</name> rushes to the comlink 
+system, which is screeching questions about what is going 
+on.  He quickly checks the computer readout.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>Luke races down one of the cell corridors. <name type="NORP">Han</name> speaks into 
+the buzzing comlink.</sd>
+
+<speaker>HAN</speaker>
+
+		<setting>INTERCOM VOICE</setting>
+		   What happened?
+
+<speaker>HAN</speaker>
+
+		<setting>INTERCOM VOICE</setting>
+		   We're sending a squad up.
+
+<speaker>HAN</speaker>
+
+		<setting>INTERCOM VOICE</setting>
+		   Who is this? What's your operating 
+		   number?
+
+<sd><name type="NORP">Han</name> blasts the comlink and it explodes.</sd>
+
+<speaker>HAN</speaker>
+
+<setting>INT. DEATH STAR - CELL ROW</setting>
+
+<sd>Luke stops in front of one of the cells and blasts the door 
+away with a laser pistol. When the smoke clears, Luke sees 
+the dazzling young princess-senator. She had been sleeping 
+and is now looking at him with an uncomprehending look on 
+her face. Luke is stunned by her incredible beauty and stands 
+staring at her with his mouth hanging open.</sd>
+
+<speaker>LEIA</speaker>
+
+<sd>Luke takes off his helmet, coming out of it.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. DEATH STAR - CONFERENCE ROOM</setting>
+
+<sd>Darth Vader paces the room as Governor Tarkin sits at the 
+far end of the conference table.</sd>
+
+<speaker>VADER</speaker>
+
+<speaker>TARKIN</speaker>
+
+<speaker>VADER</speaker>
+
+<speaker>TARKIN</speaker>
+
+<speaker>VADER</speaker>
+
+<speaker>TARKIN</speaker>
+
+<sd>There is a quiet buzz on the comlink.</sd>
+
+<speaker>TARKIN</speaker>
+
+		<setting>INTERCOM VOICE</setting>
+		   Governor Tarkin, we have an emergency 
+		   alert in detention block A A-twenty-
+		   three.
+
+<speaker>TARKIN</speaker>
+
+<speaker>VADER</speaker>
+
+<speaker>TARKIN</speaker>
+
+<speaker>VADER</speaker>
+
+<setting>INT. DEATH STAR - DETENTION AREA - HALLWAY</setting>
+
+<sd>An ominous buzzing sound is heard on the other side of the 
+elevator door.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>Chewbacca responds with a growling noise.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>A series of explosions knock a hole in the elevator door 
+through which several <name type="ORG">Imperial</name> troops begin to emerge.</sd>
+
+<sd><name type="NORP">Han</name> and Chewie fire laser pistols at them through the smoke 
+and flame. They turn and run down the cell hallway, meeting 
+up with Luke and Leia rushing toward them.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>Luke takes a small comlink transmitter from his belt as they 
+continue to exchange fire with stormtroopers making their 
+way down the corridor.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. DEATH STAR - MAIN BAY GANTRY - CONTROL TOWER</setting>
+
+<sd><name type="ORG">Threepio</name> paces the control center as little <name type="GPE">Artoo</name> beeps and 
+whistles a blue streak. <name type="ORG">Threepio</name> yells into the small comlink 
+transmitter.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>Someone begins banging on the door.</sd>
+
+<speaker>TROOPER VOICE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<setting>INT. DEATH STAR - DETENTION CORRIDOR</setting>
+
+<sd>Luke and Leia crouch together in an alcove for protection as 
+they continue to exchange fire with troops. <name type="NORP">Han</name> and Chewbacca 
+are barely able to keep the stormtroopers at bay at the far 
+and of the hallway. The laserfire is very intense, and smoke 
+fills the narrow cell corridor.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>Luke manages a sheepish grin and shrugs his shoulders.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>The princess grabs Luke's gun and fires at a small grate in 
+the wall next to <name type="NORP">Han</name>, almost frying him.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LEIA</speaker>
+
+<sd>She jumps through the narrow opening as <name type="NORP">Han</name> and Chewbacca 
+look on in amazement. Chewbacca sniffs the garbage chute and 
+says something.</sd>
+
+<speaker>HAN</speaker>
+
+<sd><name type="NORP">Han</name> gives him a kick and the <name type="NORP">Wookiee</name> disappears into the 
+tiny opening. Luke and <name type="NORP">Han</name> continue firing as they work their 
+way toward the opening.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>Luke ducks laserfire as he jumps into the darkness. <name type="NORP">Han</name> fires 
+off a couple of quick blasts creating a smokey cover, then 
+slides into the chute himself and is gone.</sd>
+
+<setting>INT. DEATH STAR - GARBAGE ROOM</setting>
+
+<sd><name type="NORP">Han</name> tumbles into the large room filled with garbage and muck.  
+Luke is already stumbling around looking for an exit. He 
+finds a small hatchway and struggles to get it open. It won't 
+budge.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd><name type="NORP">Han</name> draws his laser pistol and fires at the hatch. The 
+laserbolt ricochets wildly around the small metal room.  
+Everyone dives for cover in the garbage as the bolt explodes 
+almost on top of them. Leia climbs out of the garbage with a 
+rather grim look on her face.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LEIA</speaker>
+
+<sd>A loud, horrible, inhuman moan works its way up from the 
+murky depths. Chewbacca lets out a terrified howl and begins 
+to back away. <name type="NORP">Han</name> and Luke stand fast with their laser pistols 
+drawn. The <name type="NORP">Wookiee</name> is cowering near one of the walls.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Suddenly Luke is yanked under the garbage.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>Solo tries to get to Luke. Luke surfaces with a gasp of air 
+and thrashing of limbs. A membrane tentacle is wrapped around 
+his throat.</sd>
+
+<speaker>LEIA</speaker>
+
+<sd>Leia extends a long pipe toward him.</sd>
+
+<speaker>LEIA</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Solo fires his gun downward. Luke is pulled back into the 
+muck by the slimy tentacle.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>Suddenly the walls of the garbage receptacle shudder and 
+move in a couple of inches. Then everything is deathly quiet.  
+<name type="NORP">Han</name> and Leia give each other a worried look as Chewbacca 
+howls in the corner. With a rush of bubbles and muck Luke 
+suddenly bobs to the surface.</sd>
+
+<speaker>LEIA</speaker>
+
+<sd>Luke seems to be released by the thing.</sd>
+
+<speaker>LEIA</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>Before anyone can say anything the walls begin to rumble and 
+edge toward the <name type="ORG">Rebels</name>.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>LEIA</speaker>
+
+<sd>They place poles and long metal beams between the closing 
+walls, but they are simply snapped and bent as the giant 
+trashmasher rumbles on. The situation doesn't look too good.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke pulls out his comlink.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. DEATH STAR - MAIN GANTRY - COMMAND OFFICE</setting>
+
+<sd>A soft buzzer and the muted voice of Luke calling out for 
+See-<name type="ORG">Threepio</name> can be heard on <name type="ORG">Threepio</name>'s hand comlink, which 
+is sitting on the deserted computer console. <name type="GPE">Artoo</name> and 
+<name type="ORG">Threepio</name> are nowhere in sight. Suddenly there is a great 
+explosion and the door of the control tower flies across the 
+floor. Four armed stormtroopers enter the chamber.</sd>
+
+<speaker>FIRST TROOPER</speaker>
+
+<sd>A trooper pushes a button and the supply cabinet door slides 
+open. See-<name type="ORG">Threepio</name> and <name type="GPE">Artoo</name>-Detoo are inside. <name type="GPE">Artoo</name> follows 
+his bronze companion out into the office.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>FIRST OFFICER</speaker>
+
+<sd>The troops hustle off down the hallway, leaving a guard to 
+watch over the command office.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd>The guard aims a blaster at them.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>TROOPER</speaker>
+
+<sd>The guard nods and <name type="ORG">Threepio</name>, with little <name type="GPE">Artoo</name> in tow, hurries 
+out the door.</sd>
+
+<setting>INT. DEATH STAR - GARBAGE ROOM</setting>
+
+<sd>As the walls rumble closed, the room gets smaller and smaller.  
+Chewie is whining and trying to hold a wall back with his 
+giant paws.</sd>
+
+<sd><name type="NORP">Han</name> is leaning back against the other wall. Garbage is 
+snapping and popping. Luke is trying to reach <name type="ORG">Threepio</name>.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd><name type="NORP">Han</name> and Leia try to brace the contracting walls with a pole. 
+Leia begins to sink into the trash.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL</setting>
+
+<speaker>THREEPIO</speaker>
+
+<sd>Little <name type="GPE">Artoo</name> carefully plugs his claw arm into a new wall 
+socket and a complex array of electronic sounds spew from 
+the tiny robot.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<setting>INT. DEATH STAR - GARBAGE ROOM</setting>
+
+<sd>The walls are only feet apart. Leia and <name type="NORP">Han</name> are braced against 
+the walls. The princess is frightened. They look at each 
+other. Leia reaches out and takes <name type="NORP">Han</name>'s hand and she holds 
+it tightly. She's terrified and suddenly groans as she feels 
+the first crushing pressure against her body.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LEIA</speaker>
+
+<setting>INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL</setting>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> frantically beeps something to See-<name type="ORG">Threepio</name>.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<setting>INT. DEATH STAR - GARBAGE ROOM</setting>
+
+<sd>Meanwhile, Luke is lying on his side, trying to keep his 
+head above the rising ooze. Luke's comlink begins to buzz 
+and he rips it off his belt.</sd>
+
+<setting>INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL</setting>
+
+<sd>Muffled sounds of Luke's voice over the comlink can be heard, 
+but not distinctly.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<setting>INT. DEATH STAR - GARBAGE ROOM</setting>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL</setting>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. DEATH STAR - GARBAGE ROOM</setting>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL</setting>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="ORG">Threepio</name> holds his head in agony as he hears the incredible 
+screaming and hollering from Luke's comlink.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. DEATH STAR - GARBAGE ROOM</setting>
+
+<sd>The screaming and hollering is the sound of joyous relief. 
+The walls have stopped moving. <name type="NORP">Han</name>, Chewie and Leia embrace 
+in the background.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke moves to the pressure sensitive hatch, looking for a 
+number.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL</setting>
+
+<speaker>HAN</speaker>
+
+<setting>INT. DEATH STAR - TRACTOR BEAM - POWER GENERATOR TRENCH</setting>
+
+<sd>Ben enters a humming service trench that powers the huge 
+tractor beam. The trench seems to be a hundred miles deep. 
+The clacking sound of huge switching devices can be heard. 
+The old <name type="ORG">Jedi</name> edges his his way along a narrow ledge leading 
+to a control panel that connects two large cables. He 
+carefully makes several adjustments in the computer terminal, 
+and several lights on the board go from red to blue.</sd>
+
+<setting>INT. DEATH STAR - UNUSED HALLWAY</setting>
+
+<sd>The group exits the garbage room into a dusty, unused hallway.  
+<name type="NORP">Han</name> and Luke remove the trooper suits and strap on the blaster 
+belts.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>Luke smiles and scratches his head as he takes a blaster 
+from Solo.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>Chewie begins growling and points to the hatch to the garbage 
+room, as he runs away and then stops howling.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>The Dia Nogu bangs against the hatch and a long, slimy 
+tentacle works its way out of the doorway searching for a 
+victim. <name type="NORP">Han</name> aims his pistol.</sd>
+
+<speaker>LEIA</speaker>
+
+<sd><name type="NORP">Han</name> fires at the doorway. The noise of the blast echoes 
+relentlessly throughout the empty passageway. Luke simply 
+shakes his head in disgust.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>Chewie shakes his head "no."</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LEIA</speaker>
+
+<sd><name type="NORP">Han</name> is stunned at the command of the petite young girl.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LEIA</speaker>
+
+<sd><name type="NORP">Han</name> watches her start away. He looks at Luke.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>They follow her, moving swiftly down the deserted corridor.</sd>
+
+<setting>INT. DEATH STAR - POWER TRENCH</setting>
+
+<sd>Suddenly a door behind Ben slides open and a detachment of 
+stormtroopers marches to the power trench. Ben instantly 
+slips into the shadows as an Officer moves to within a few 
+feet of him.</sd>
+
+<speaker>OFFICER</speaker>
+
+<speaker>FIRST TROOPER</speaker>
+
+<sd>All but two of the stormtroopers leave.</sd>
+
+<speaker>FIRST TROOPER</speaker>
+
+<speaker>SECOND TROOPER</speaker>
+
+<sd>Ben moves around the tractor beam, watching the stormtroopers 
+as they turn their backs to him. Ben gestures with his hand 
+toward them, as the troops think they hear something in the 
+other hallway. With the help of the <name type="ORG">Force</name>, Ben deftly slips 
+past the troopers and into the main hallway.</sd>
+
+<speaker>SECOND TROOPER</speaker>
+
+<speaker>FIRST TROOPER</speaker>
+
+<setting>INT. DEATH STAR - HALLWAY</setting>
+
+<sd>Luke, <name type="NORP">Han</name>, Chewbacca, and Leia run down an empty hallway and 
+stop before a bay window overlooking the pirateship. Troopers 
+are milling about the ship. Luke takes out his pocket comlink.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd><name type="NORP">Han</name> is watching the dozen or so troops moving in and out of 
+the pirateship. Leia moves towards <name type="NORP">Han</name>, touches his arm and 
+points out the window to the ship.</sd>
+
+<speaker>LEIA</speaker>
+
+<speaker>HAN</speaker>
+
+<sd><name type="NORP">Han</name> gives her a dirty look, and they start off down the 
+hallway. They round a corner and run right into twenty 
+<name type="ORG">Imperial</name> stormtroopers heading toward them. Both groups are 
+taken by surprise and stop in their tracks.</sd>
+
+<speaker>FIRST TROOPER</speaker>
+
+<sd>Before even thinking, <name type="NORP">Han</name> draws his laser pistol and charges 
+the troops, firing. His blaster knocks one of the 
+stormtroopers into the air. Chewie follows his captain down 
+the corridor, stepping over the fallen trooper on the floor.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd><name type="NORP">Han</name> has already rounded a corner and does not hear.</sd>
+
+<speaker>LEIA</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke is furious but doesn't have time to think about it for 
+muted alarms begin to go off down on the hangar deck. Luke 
+and Leia start off toward the starship hangar.</sd>
+
+<setting>INT. DEATH STAR - SUBHALLWAY</setting>
+
+<sd><name type="NORP">Han</name> chases the stormtroopers down a long subhallway. He is 
+yelling and brandishing his laser pistol. The troops reach a 
+dead end and are forced to turn and fight. <name type="NORP">Han</name> stops a few 
+feet from them and assumes a defensive position. The troops 
+begin to raise their laser guns. Soon all ten troopers are 
+moving into an attack position in front of the lone 
+starpirate. <name type="NORP">Han</name>'s determined look begins to fade as the troops 
+begin to advance. Solo jumps backward as they fire at him.</sd>
+
+<setting>INT. DEATH STAR - SUBHALLWAY</setting>
+
+<sd>Chewbacca runs down the subhallway in a last-ditch attempt 
+to save his bold captain. Suddenly he hears the firing of 
+laser guns and yelling. Around the corner shoots <name type="NORP">Han</name>, pirate 
+extraordinaire, running for his life, followed by a host of 
+furious stormtroopers. Chewbacca turns and starts running 
+the other way also.</sd>
+
+<setting>INT. DEATH STAR - SUBHALLWAY</setting>
+
+<sd>Luke fires his laser pistol wildly as he and Leia rush down 
+a narrow subhallway, chased by several stormtroopers. They 
+quickly reach the end of the subhallway and race through an 
+open hatchway.</sd>
+
+<setting>INT. DEATH STAR - CENTRAL CORE SHAFT</setting>
+
+<sd>Luke and Leia race through the hatch onto a narrow bridge 
+that spans a huge, deep shaft that seems to go into infinity. 
+The bridge has been retracted into the wall of the shaft, 
+and Luke almost rushes into the abyss. He loses his balance 
+off the end of the bridge as Leia, behind him, takes hold of 
+his arm and pulls him back.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>Blasts from the stormtroopers' laser guns explode nearby 
+reminding them of the oncoming danger. Luke fires back at 
+the advancing troops. Leia reaches over and hits a switch 
+that pops the hatch door shut with a resounding boom, leaving 
+them precariously perched on a short piece of bridge overhang.  
+Laserfire from the troopers continues to hit the steel door.</sd>
+
+<speaker>LEIA</speaker>
+
+<sd>Luke blasts the controls with his laser pistol.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke looks at the blasted bridge control while the 
+stormtroopers on the opposite side of the door begin making 
+ominous drilling and pounding sounds.</sd>
+
+<speaker>LEIA</speaker>
+
+<sd>Luke notices something on his stormtrooper belt, when 
+laserfire hits the wall behind him. Luke aims his laser pistol 
+at a stormtrooper perched on a higher bridge overhang across 
+the abyss from them. They exchange fire. Two more troops 
+appear on another overhang, also firing. A trooper is hit, 
+and grabs at his chest.</sd>
+
+<sd>Another trooper standing on the bridge overhang is hit by 
+Luke's laserfire, and plummets down the shaft. Troopers move 
+back off the bridge; Luke hands the gun to Leia.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke pulls a thin nylon cable from his trooper utility belt. 
+It has a grappler hook on it. A trooper appears on a bridge 
+overhang and fires at Luke and Leia. As Luke works with the 
+rope, Leia returns the laser volley. Another trooper appears 
+and fires at them, as Leia returns his fire as well.  
+Suddenly, the hatch door begins to open, revealing the feet 
+of more troops.</sd>
+
+<speaker>LEIA</speaker>
+
+<sd>Leia hits one of the stormtroopers on the bridge above, and 
+he falls into the abyss. Luke tosses the rope across the 
+gorge and it wraps itself around an outcropping of pipes. He 
+tugs on the rope to make sure it is secure, then grabs the 
+princess in his arms. Leia looks at Luke, then kisses him 
+quickly on the lips. Luke is very surprised.</sd>
+
+<speaker>LEIA</speaker>
+
+<sd>Luke pushes off and they swing across the treacherous abyss 
+to the corresponding hatchway on the opposite side. Just as 
+Luke and Leia reach the far side of the canyon, the 
+stormtroopers break through the hatch and begin to fire at 
+the escaping duo. Luke returns the fire before ducking into 
+the tiny subhallway.</sd>
+
+<setting>INT. DEATH STAR - NARROW PASSAGEWAY</setting>
+
+<sd>Ben hides in the shadows of the narrow passageway as several 
+stormtroopers rush past him in the main hallway. He checks 
+to make sure they're gone, then runs down the hallway in the 
+opposite direction. Darth Vader appears at the far end of 
+the hallway and starts after the old <name type="ORG">Jedi</name>.</sd>
+
+<setting>INT. DEATH STAR - MAIN FORWARD BAY</setting>
+
+<sd><name type="ORG">Threepio</name> looks around at the troops milling about the 
+pirateship entry ramp.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name>, plugged into the computer socket, turns his dome left 
+and right, beeping a response.</sd>
+
+<setting>INT. DEATH STAR - CORRIDOR - BLAST SHIELDS DOOR</setting>
+
+<sd><name type="NORP">Han</name> and Chewbacca run down a long corridor with several 
+troopers hot on their trail.</sd>
+
+<speaker>TROOPER</speaker>
+
+<sd>At the end of the hallway, blast doors begin to close in 
+front of them. The young starpilot and his furry companion 
+race past the huge doors just as they are closing, and manage 
+to get off a couple off laserblasts at the pursuing troops 
+before the doors slam shut.</sd>
+
+<speaker>TROOPER</speaker>
+
+<setting>INT. DEATH STAR - HALLWAY LEADING TO MAIN FORWARD BAY</setting>
+
+<sd>Ben hurries along one of the tunnels leading to the hangar 
+where the pirateship waits. Just before he reaches the hangar, 
+Darth Vader steps into view at the end of the tunnel, not 
+ten feet away. Vader lights his saber. Ben also ignites his 
+and steps slowly forward.</sd>
+
+<speaker>VADER</speaker>
+
+<sd>Ben <name type="ORG">Kenobi</name> moves with elegant ease into a classical offensive 
+position. The fearsome Dark Knight takes a defensive stance.</sd>
+
+<speaker>VADER</speaker>
+
+<speaker>BEN</speaker>
+
+<sd>The two Galactic warriors stand perfectly still for a few 
+moments, sizing each other up and waiting for the right 
+moment. Ben seems to be under increasing pressure and strain, 
+as if an invisible weight were being placed upon him. He 
+shakes his head and, blinking, tries to clear his eyes.</sd>
+
+<sd>Ben makes a sudden lunge at the huge warrior but is checked 
+by a lightning movement of The Sith. A masterful slash stroke 
+by Vader is blocked by the old <name type="ORG">Jedi</name>. Another of the <name type="ORG">Jedi</name>'s 
+blows is blocked, then countered. Ben moves around the Dark 
+Lord and starts backing into the massive starship hangar. 
+The two powerful warriors stand motionless for a few moments 
+with laser swords locked in mid-air, creating a low buzzing 
+sound.</sd>
+
+<speaker>VADER</speaker>
+
+<speaker>BEN</speaker>
+
+<sd>Their lightsabers continue to meet in combat.</sd>
+
+<setting>INT. DEATH STAR - MAIN FORWARD BAY</setting>
+
+<sd><name type="NORP">Han</name> Solo and Chewbacca, their weapons in hand, lean back 
+against the wall surveying the forward bay, watching the 
+<name type="ORG">Imperial</name> stormtroopers make their rounds of the hangar.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>Chewbacca growls a reply, as Luke and the princess join them.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<setting>INT. DEATH STAR - HALLWAY</setting>
+
+<sd>Vader and Ben <name type="ORG">Kenobi</name> continue their powerful duel. As they 
+hit their lightsabers together, lightning flashes on impact. 
+Troopers look on in interest as the old <name type="ORG">Jedi</name> and Dark Lord 
+of The Sith fight. Suddenly Luke spots the battle from his 
+group's vantage point.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke, Leia, <name type="NORP">Han</name>, and Chewie look up and see Ben and Vader 
+emerging from the hallways on the far side of the docking 
+bay.</sd>
+
+<setting>INT. DEATH STAR - DOCKING BAY</setting>
+
+<sd><name type="ORG">Threepio</name> and <name type="GPE">Artoo</name>-Detoo are in the center of <name type="ORG">the Death Star</name>'s 
+<name type="ORG">Imperial</name> docking bay.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="ORG">Threepio</name> ducks out of sight as the seven stormtroopers who 
+were guarding the starship rush past them heading towards 
+Ben and The Sith Knight. He pulls on <name type="GPE">Artoo</name>.</sd>
+
+<setting>INT. DEATH STAR - HALLWAY</setting>
+
+<sd>Solo, Chewie, Luke, and Leia tensely watch the duel. The 
+troops rush toward the battling knights.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>They start for the Millennium <name type="ORG">Falcon</name>. Ben sees the troops 
+charging toward him and realizes that he is trapped. Vader 
+takes advantage of Ben's momentary distraction and brings 
+his mighty lightsaber down on the old man. Ben manages to 
+deflect the blow and swiftly turns around.</sd>
+
+<sd>The old <name type="ORG">Jedi</name> Knight looks over his shoulder at Luke, lifts 
+his sword from Vader's then watches his opponent with a serene 
+look on his face.</sd>
+
+<sd>Vader brings his sword down, cutting old Ben in half. Ben's 
+cloak falls to the floor in two parts, but Ben is not in it.  
+Vader is puzzled at Ben's disappearance and pokes at the 
+empty cloak. As the guards are distracted, the adventurers 
+and the robots reach the starship. Luke sees Ben cut in two 
+and starts for him. Aghast, he yells out.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>The stormtroopers turn toward Luke and begin firing at him.  
+The robots are already moving up the ramp into the Millennium 
+<name type="ORG">Falcon</name>, while Luke, transfixed by anger and awe, returns 
+their fire. Solo joins in the laserfire. Vader looks up and 
+advances toward them, as one of his troopers is struck down.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>Luke fires his pistol at the door control panel, and it 
+explodes. The door begins to slide shut. Three troopers charge 
+forward firing laser bolts, as the door slides to a close 
+behind them, shutting Vader and the other troops out of the 
+docking bay. A stormtrooper lies dead at the feet of his 
+onrushing compatriots. Luke starts for the advancing troops, 
+as Solo and Leia move up the ramp into the pirateship. He 
+fires, hitting a stormtrooper, who crumbles to the floor.</sd>
+
+<speaker>BEN'S VOICE</speaker>
+
+<sd>Luke looks around to see where the voice came from. He turns 
+toward the pirateship, ducking <name type="ORG">Imperial</name> gunfire from the 
+troopers and races into the ship.</sd>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd><name type="NORP">Han</name> pulls back on the controls and the ship begins to move. 
+The dull thud of laser bolts bouncing off the outside of the 
+ship as Chewie adjusts his controls.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>Chewbacca growls in agreement.</sd>
+
+<setting>EXT. MILLENNIUM FALCON</setting>
+
+<sd>The Millennium <name type="ORG">Falcon</name> powers away from <name type="ORG">the Death Star</name> docking 
+bay, makes a spectacular turn and disappears into the vastness 
+of space.</sd>
+
+<setting>INT. MILLENNIUM FALCON - CENTRAL HOLD AREA</setting>
+
+<sd>Luke, saddened by the loss of Obi-Wan <name type="ORG">Kenobi</name>, stares off 
+blankly as the robots look on. Leia puts a blanket around 
+him protectively, and Luke turns and looks up at her. She 
+sits down beside him.</sd>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd>Solo spots approaching enemy ships.</sd>
+
+<speaker>HAN</speaker>
+
+<setting>INT. MILLENNIUM FALCON - CENTRAL HOLD AREA</setting>
+
+<sd>Luke looks downward sadly, shaking his head back and forth, 
+as the princess smiles comfortingly at him.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd><name type="GPE">Artoo</name>-Detoo beeps a reply.</sd>
+
+<speaker>LEIA</speaker>
+
+<sd><name type="NORP">Han</name> rushes into the hold area where Luke is sitting with the 
+princess.</sd>
+
+<speaker>HAN</speaker>
+
+<setting>INT. MILLENNIUM FALCON - GUNPORTS - COCKPIT</setting>
+
+<sd>Solo climbs into his attack position in the topside gunport.</sd>
+
+<setting>INT. MILLENNIUM FALCON - HOLD AREA</setting>
+
+<sd>Luke gets up and moves out toward the gunports as Leia heads 
+for the cockpit.</sd>
+
+<setting>INT. MILLENNIUM FALCON - GUNPORTS - COCKPIT</setting>
+
+<sd>Luke climbs down the ladder into the gunport cockpit, settling 
+into one of the two main laser cannons mounted in large 
+rotating turrets on either side of the ship.</sd>
+
+<setting>INT. MILLENNIUM FALCON - SOLO'S GUNPORT</setting>
+
+<sd><name type="NORP">Han</name> adjusts his headset as he sits before the controls of 
+his laser cannon, then speaks into the attached microphone.</sd>
+
+<speaker>HAN</speaker>
+
+<setting>INT. MILLENNIUM FALCON - GUNPORTS - COCKPIT</setting>
+
+<sd>Chewbacca and Princess Leia search the heavens for attacking 
+<name type="ORG">TIE</name> fighters. The <name type="NORP">Wookiee</name> pulls back on the speed controls 
+as the ship bounces slightly.</sd>
+
+<setting>INT. MILLENNIUM FALCON - SOLO'S GUNPORT - COCKPIT</setting>
+
+<sd>Computer graphic readouts form on Solo's target screen, as 
+<name type="NORP">Han</name> reaches for controls.</sd>
+
+<setting>INT. MILLENNIUM FALCON - GUNPORT - COCKPIT</setting>
+
+<sd>Luke sits in readiness for the attack, his hand on the laser 
+cannon's control button.</sd>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT.</setting>
+
+<sd>Chewbacca spots the enemy ships and barks.</sd>
+
+<speaker>LEIA</speaker>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT - POV (POINT OF VIEW) - </setting>
+SPACE
+
+<sd>The <name type="ORG">Imperial</name> <name type="ORG">TIE</name> fighters move towards the Millennium <name type="ORG">Falcon</name>, 
+one each veering off to the left and right of the pirateship.</sd>
+
+<setting>INT. <name type="ORG">TIE</name> FIGHTER - COCKPIT</setting>
+
+<sd>The stars whip past behind the <name type="ORG">Imperial</name> pilot as he adjusts 
+his maneuvering joy stick.</sd>
+
+<setting>EXT. MILLENNIUM FALCON - IN SPACE</setting>
+
+<sd>The <name type="ORG">TIE</name> fighter races past the <name type="ORG">Falcon</name>, firing laser beams as 
+it passes.</sd>
+
+<setting>INT. MILLENNIUM FALCON - HOLD AREA</setting>
+
+<sd><name type="ORG">Threepio</name> is seated in the hold area, next to <name type="GPE">Artoo</name>-Detoo. 
+The pirateship bounces and vibrates as the power goes out in 
+the room and then comes back on.</sd>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT - GUNPORTS</setting>
+
+<sd>A <name type="ORG">TIE</name> fighter maneuvers in front of <name type="NORP">Han</name>, who follows it and 
+fires at it with the laser cannon. Luke does likewise, as 
+the fighter streaks into view. The ship has suffered a minor 
+hit, and bounces slightly.</sd>
+
+<setting>EXT. SPACE</setting>
+
+<sd>Two <name type="ORG">TIE</name> fighters dive down toward the pirateship.</sd>
+
+<setting>INT. MILLENNIUM FALCON - GUNPORTS</setting>
+
+<sd>Luke fires at an unseen fighter.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>EXT. SPACE - MILLENNIUM FALCON/<name type="ORG">TIE</name> FIGHTERS</setting>
+
+<sd>Pan with pirateship as two <name type="ORG">TIE</name> fighters charge through the 
+background. Laserbolts streak from all the craft.</sd>
+
+<setting>INT. MILLENNIUM FALCON - CHEWBACCA</setting>
+
+<sd>The ship shudders as a laserbolt hits very close to the 
+cockpit. The <name type="NORP">Wookiee</name> chatters something to Leia.</sd>
+
+<setting>EXT. <name type="ORG">TIE</name> FIGHTER - SPACE</setting>
+
+<sd>Full shot of a <name type="ORG">TIE</name> fighter as it moves fast through the frame, 
+firing on the pirate starship.</sd>
+
+<setting>EXT. SPACE - <name type="ORG">TIE</name> FIGHTERS</setting>
+
+<sd>The two <name type="ORG">TIE</name> fighters fire a barrage of laserbeams at the 
+pirateship.</sd>
+
+<setting>INT. MILLENNIUM FALCON - MAIN PASSAGEWAY</setting>
+
+<sd>A laserbolt streaks into the side of the pirateship. The 
+ship lurches violently, throwing poor <name type="ORG">Threepio</name> into a cabinet 
+fill of small computer chips.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT - GUNPORTS</setting>
+
+<sd>Leia watches the computer readout as Chewbacca manipulates 
+the ship's controls.</sd>
+
+<speaker>LEIA</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>An enemy laserbolt hits the pirateship's control panel, 
+causing it to blow out in a shower of sparks.</sd>
+
+<speaker>HAN</speaker>
+
+<sd><name type="GPE">Artoo</name>-Detoo advances toward the smoking sparking control 
+panel, dousing the inferno by spraying it with fire retardant 
+beeping all the while.</sd>
+
+<setting>INT. MILLENNIUM FALCON - GUNPORT</setting>
+
+<sd>Luke swivels in his gun mount, following the <name type="ORG">TIE</name> fighter 
+with his laser cannon.</sd>
+
+<setting>INT. MILLENNIUM FALCON - GUNPORT</setting>
+
+<sd>Solo aims his laser cannon at the enemy fighter.</sd>
+
+<setting>EXT. SPACE</setting>
+
+<sd>A <name type="ORG">TIE</name> fighter streaks in front of the starship.</sd>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd>Leia watches the <name type="ORG">TIE</name> fighter ship fly over.</sd>
+
+<setting>EXT. SPACE</setting>
+
+<sd>A <name type="ORG">TIE</name> fighter heads right for the pirateship, then zooms 
+overhead.</sd>
+
+<setting>INT. MILLENNIUM FALCON - GUNPORTS</setting>
+
+<sd>Luke follows the <name type="ORG">TIE</name> fighter across his field of view, firing 
+laserbeams from his cannon.</sd>
+
+<setting>EXT. <name type="ORG">TIE</name> FIGHTER</setting>
+
+<sd>A <name type="ORG">TIE</name> fighter dives past the pirateship.</sd>
+
+<setting>INT. MILLENNIUM FALCON - GUNPORTS</setting>
+
+<sd>Luke fires at a <name type="ORG">TIE</name> fighter. At his port, <name type="NORP">Han</name> follows a 
+fighter in his sights, releasing a blast of laserfire. He 
+connects, and the fighter explodes into fiery dust. <name type="NORP">Han</name> laughs 
+victoriously.</sd>
+
+<setting>EXT. SPACE</setting>
+
+<sd>Two <name type="ORG">TIE</name> fighters move toward and over the Millennium <name type="ORG">Falcon</name>, 
+unleashing a barrage of laserbolts at the ship.</sd>
+
+<setting>INT. MILLENNIUM FALCON - GUNPORTS</setting>
+
+<sd>Another <name type="ORG">TIE</name> fighter moves in on the pirateship and Luke, 
+smiling, fires the laser cannon at it, scoring a spectacular 
+direct hit.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd><name type="NORP">Han</name> turns and gives Luke a victory wave which Luke gleefully 
+returns.</sd>
+
+<speaker>HAN</speaker>
+
+<sd><name type="NORP">Han</name> turns back to his laser cannon.</sd>
+
+<setting>EXT. SPACE</setting>
+
+<sd>Two more <name type="ORG">TIE</name> fighters cross in front of the pirateship.</sd>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd>While Chewbacca manipulates the controls, Leia turns, looking 
+over her shoulder out the ports.</sd>
+
+<speaker>LEIA</speaker>
+
+<setting>EXT. SPACE</setting>
+
+<sd>A <name type="ORG">TIE</name> fighter moves up over the pirateship, firing laserblasts 
+at it.</sd>
+
+<setting>INT. MILLENNIUM FALCON - GUNPORTS</setting>
+
+<sd>Luke and <name type="NORP">Han</name> look into their respective projected target 
+screens. An <name type="ORG">Imperial</name> fighter crosses Solo's port, and <name type="NORP">Han</name> 
+swivels in his chair, following it with blasts from his laser 
+cannon. Another fighter crosses Luke's port, and he reacts 
+in a like manner, the glow of his target screen lighting his 
+face.</sd>
+
+<setting>EXT. SPACE</setting>
+
+<sd>The <name type="ORG">TIE</name> fighter zooms toward the pirateship, firing 
+destructive blasts at it.</sd>
+
+<setting>INT. MILLENNIUM FALCON - GUNPORTS</setting>
+
+<sd>Luke fires a laserblast at the approaching enemy fighter, 
+and it bursts into a spectacular explosion. Luke's projected 
+screen gives a readout of the hit. The pirateship bounces 
+slightly as it is struck by the enemy fire.</sd>
+
+<setting>EXT. SPACE - <name type="ORG">TIE</name> FIGHTER</setting>
+
+<sd>The last of the attacking <name type="ORG">Imperial</name> <name type="ORG">TIE</name> fighters looms in, 
+firing upon the <name type="ORG">Falcon</name>.</sd>
+
+<setting>INT. MILLENNIUM FALCON - GUNPORT</setting>
+
+<sd>Solo swivels behind his cannon, his aim describing the arc 
+of the <name type="ORG">TIE</name> fighter. The fighter comes closer, firing at the 
+pirateship, but a well-aimed blast from Solo's laser cannon 
+hits the attacker, which blows up in a small atomic shower 
+of burning fragments.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>The princess jumps up and gives Chewie a congratulatory hug.</sd>
+
+<speaker>LEIA</speaker>
+
+<setting>INT. MILLENNIUM FALCON - PASSAGEWAY</setting>
+
+<sd><name type="ORG">Threepio</name> lies on the floor of the ship, completely tangled 
+in the smoking, sparking wires.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> turns his dome from side to side, beeping in response.</sd>
+
+<setting>EXT. SPACE - MILLENNIUM FALCON</setting>
+
+<sd>The victorious Millennium <name type="ORG">Falcon</name> moves off majestically 
+through space.</sd>
+
+<setting>INT. DEATH STAR - CONTROL ROOM</setting>
+
+<sd>Darth Vader strides into the control room, where Tarkin is 
+watching the huge view screen. A sea of stars is before him.</sd>
+
+<speaker>TARKIN</speaker>
+
+<speaker>VADER</speaker>
+
+<speaker>TARKIN</speaker>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd><name type="NORP">Han</name>, removes his gloves and smiling, is at the controls of 
+the ship. Chewie moves into the aft section to check the 
+damage. Leia is seated near <name type="NORP">Han</name>.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>Frustrated, Leia shakes her head.</sd>
+
+<speaker>LEIA</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LEIA</speaker>
+
+<sd>She angrily turns, and as she starts out of the cockpit, 
+passes Luke coming in.</sd>
+
+<speaker>LEIA</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke, shaking his head, sits in the copilot seat. He and <name type="NORP">Han</name> 
+stare out at the vast blackness of space.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke says it with finality and looks away. <name type="NORP">Han</name> smiles at 
+young Luke's jealousy.</sd>
+
+<setting>EXT. SPACE AROUND FOURTH MOON OF YAVIN</setting>
+
+<sd>The battered pirateship drifts into orbit around the planet 
+Yavin and proceeds to one of its tiny green moons.</sd>
+
+<setting>EXT. FOURTH MOON OF YAVIN</setting>
+
+<sd>The pirateship soars over the dense jungle.</sd>
+
+<setting>EXT. MASSASSI OUTPOST</setting>
+
+<sd>An alert guard, his laser gun in hand, scans the countryside.  
+He sets the gun down and looks toward the temple, barely 
+visible in the foliage.</sd>
+
+<setting>EXT. MASSASSI OUTPOST - JUNGLE TEMPLE</setting>
+
+<sd>Rotting in a forest of gargantuan trees, an ancient temple 
+lies shrouded in an eerie mist. The air is heavy with the 
+fantastic cries of unimaginable creatures. <name type="NORP">Han</name>, Luke and the 
+others are greeted by the Rebel troops.</sd>
+
+<sd>Luke and the group ride into the massive temple on an armored 
+military speeder.</sd>
+
+<setting>INT. MASSASSI - MAIN HANGAR DECK</setting>
+
+<sd>The military speeder stops in a huge spaceship hangar, set 
+up in the interior of the crumbling temple. Willard, the 
+commander of the Rebel forces, rushes up to the group and 
+gives Leia a big hug. Every one is pleased to see her.</sd>
+
+<speaker>WILLARD</speaker>
+
+<sd>Willard composes himself, steps back and bows formally.</sd>
+
+<speaker>WILLARD</speaker>
+
+<speaker>LEIA</speaker>
+
+<setting>EXT. SPACE</setting>
+
+<sd>The surface of <name type="ORG">the Death Star</name> ominously approaches the red 
+planet Yavin.</sd>
+
+<setting>INT. DEATH STAR - CONTROL ROOM</setting>
+
+<sd>Grand Moff Tarkin and Lord Vader are interrupted in their 
+discussion by the buzz of the comlink. Tarkin moves to answer 
+the call.</sd>
+
+<speaker>TARKIN</speaker>
+
+<sd>DEATH STAR INTERCOM VOICE</sd>
+
+<sd>We are approaching the planet Yavin. The Rebel base is on a 
+moon on the far side. We are preparing to orbit the planet.</sd>
+
+<setting>EXT. YAVIN - JUNGLE</setting>
+
+<sd>A lone guard stands in a tower high above the Yavin landscape, 
+surveying the countryside. A mist hangs over the jungle of 
+twisted green.</sd>
+
+<setting>INT. MASSASSI - WAR ROOM BRIEFING AREA</setting>
+
+<sd>Dodonna stands before a large electronic wall display. Leia 
+and several other senators are to one side of the giant 
+readout. The low-ceilinged room is filled with starpilots, 
+navigators, and a sprinkling of R2-type robots. Everyone is 
+listening intently to what Dodonna is saying. <name type="NORP">Han</name> and 
+Chewbacca are standing near the back.</sd>
+
+<speaker>DODONNA</speaker>
+
+<sd><name type="ORG">Gold Leader</name>, a rough looking man in his early thirties, stands 
+and addresses Dodonna.</sd>
+
+<speaker>GOLD LEADER</speaker>
+
+<speaker>DODONNA</speaker>
+
+<sd><name type="GPE">Artoo</name>-Detoo stands next to a similar robot, makes beeping 
+sounds, and turns his head from right to left.</sd>
+
+<speaker>DODONNA</speaker>
+
+<sd>A murmer of disbelief runs through the room.</sd>
+
+<speaker>DODONNA</speaker>
+
+<sd>Luke is sitting next to Wedge <name type="GPE">Antilles</name>, a hotshot pilot about 
+sixteen years old.</sd>
+
+<speaker>WEDGE</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>DODONNA</speaker>
+
+<sd>The group rises and begins to leave.</sd>
+
+<setting>EXT. SPACE</setting>
+
+<sd>The Death Star begins to move around the planet toward the 
+tiny green moon.</sd>
+
+<setting>INT. DEATH STAR</setting>
+
+<sd>Tarkin and Vader watch the computer projected screen with 
+interest, as a circle of lights intertwines around one another 
+on the screen showing it's position in relation to Yavin and 
+the forth moon.</sd>
+
+<sd>DEATH STAR INTERCOM VOICE</sd>
+
+<sd>Orbiting the planet at maximum velocity. The moon with the 
+Rebel base will be in range in thirty minutes.</sd>
+
+<speaker>VADER</speaker>
+
+<setting>INT. MASSASSI OUTPOST - MAIN HANGAR DECK</setting>
+
+<sd>Luke, <name type="ORG">Threepio</name> and little <name type="GPE">Artoo</name> enter the huge spaceship 
+hangar and hurry along a long line of gleaming spacefighters.  
+Flight crews rush around loading last-minute armaments and 
+unlocking power couplings. In an area isolated from this 
+activity Luke finds <name type="NORP">Han</name> and Chewbacca loading small boxes 
+onto an armored speeder.</sd>
+
+<speaker>MAN'S VOICE</speaker>
+
+<sd><name type="NORP">Han</name> is deliberately ignoring the activity of the fighter 
+pilots' preparation. Luke is quite saddened at the sight of 
+his friend's departure.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Luke goes off and <name type="NORP">Han</name> hesitates, then calls to him.</sd>
+
+<speaker>HAN</speaker>
+
+<sd>Luke turns and sees <name type="NORP">Han</name> wink at him. Luke lifts his hand in 
+a small wave and then goes off.</sd>
+
+<sd><name type="NORP">Han</name> turns to Chewie who growls at his captain,</sd>
+
+<speaker>HAN</speaker>
+
+<setting>INT. MAIN HANGAR DECK - LUKE'S SHIP</setting>
+
+<sd>Luke, Leia, and Dodonna meet under a huge space fighter.</sd>
+
+<speaker>LEIA</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>LEIA</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>Leia gives Luke a little kiss, turns, and goes off. As Luke 
+heads for his ship, another pilot rushes up to him and grabs 
+his arm.</sd>
+
+<speaker>BIGGS</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd><name type="ORG">Red Leader</name>, a rugged handsome man in his forties, comes up 
+behind Luke and Biggs. He has the confident smile of a born 
+leader.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<speaker>BIGGS</speaker>
+
+<sd><name type="ORG">Red Leader</name> pats Luke on the back as they stop in front of 
+his fighter.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd><name type="ORG">Red Leader</name> hurries to his own ship.</sd>
+
+<speaker>BIGGS</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>BIGGS</speaker>
+
+<sd>Luke laughs and shakes his head in agreement. He heads for 
+his ship.</sd>
+
+<sd>As Luke begins to climb up the ladder into his sleek, deadly 
+spaceship, the crew chief, who is working on the craft, points 
+to little <name type="GPE">Artoo</name>, who is being hoisted into a socket on the 
+back of the fighter.</sd>
+
+<speaker>CHIEF</speaker>
+
+<speaker>LUKE</speaker>
+
+<sd>The crewmen lower <name type="GPE">Artoo</name>-Detoo into the craft. Now a part of 
+the exterior shell of the starship, the little droid beeps 
+that he is fine.</sd>
+
+<sd>Luke climbs up into the cockpit of his fighter and puts an 
+his helmet. <name type="ORG">Threepio</name> looks on from the floor of the massive 
+hangar as the crewmen secure his little electronic partner 
+into Luke's X-wing. It's an emotional-filled moment as <name type="GPE">Artoo</name> 
+beeps good-bye.</sd>
+
+<speaker>CHIEF</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> beeps in agreement.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<sd><name type="GPE">Artoo</name> whistles his reply.</sd>
+
+<sd>All final preparations are made for the approaching battle.  
+The hangar is buzzing with the last minute activity as the 
+pilots and crewmen alike make their final adjustments. The 
+hum of activity is occasionally trespassed by the distorted 
+voice of the loudspeaker issuing commands. Coupling hoses 
+are disconnected from the ships as they are fueled. Cockpit 
+shields roll smoothly into place over each pilot. A signalman, 
+holding red guiding lights, directs the ships. Luke, a trace 
+of a smile gracing his lips, peers about through his goggles.</sd>
+
+<speaker>BEN'S VOICE</speaker>
+
+<sd>Luke is confused at the voice and taps his headphones.</sd>
+
+<setting>EXT. MASSASSI OUTPOST - JUNGLE</setting>
+
+<sd>All that can be seen of the fortress is a lone guard standing 
+on a small pedestal jutting out above the dense jungle. The 
+muted gruesome crying sounds that naturally permeate this 
+eerie purgatory are overwhelmed by the thundering din of ion 
+rockets as four silver starships catapult from the foliage 
+in a tight formation and disappears into the morning cloud 
+cover.</sd>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<sd>The princess, <name type="ORG">Threepio</name>, and a field commander sit quietly 
+before the giant display showing the planet Yavin and its 
+four moons. The red dot that represents <name type="ORG">the Death Star</name> moves 
+ever closer to the system. A series of green dots appear 
+around the fourth moon. A din of indistinct chatter fills 
+the war room.</sd>
+
+<speaker>MASSASSI INTERCOM VOICE</speaker>
+
+<setting>EXT. SPACE</setting>
+
+<sd>The Death Star slowly moves behind the massive yellow surface 
+of Yavin in the foreground, as many X-wing fighters flying 
+in formation zoom toward us and out of the frame.</sd>
+
+<setting>EXT. SPACE - ANOTHER ANGLE</setting>
+
+<sd>Light from a distant sun creates an eerie atmospheric glow 
+around a huge planet, Yavin. Rebel fighters flying in 
+formation settle ominously in the foreground and very slowly 
+pull away.</sd>
+
+<setting>INT. RED LEADER STARSHIP - COCKPIT</setting>
+
+<sd><name type="ORG">Red Leader</name> lowers his visor and adjusts his gun sights, 
+looking to each side at his wing men.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<setting>INT. ANOTHER COCKPIT</setting>
+
+<sd>One of the Rebel fighters checks in through his mike.</sd>
+
+<speaker>RED TEN</speaker>
+
+<setting>INT. BIGGS' COCKPIT</setting>
+
+<sd>Biggs checks his fighter's controls, alert and ready for 
+combat.</sd>
+
+<speaker>RED SEVEN</speaker>
+
+<speaker>BIGGS</speaker>
+
+<setting>INT. PORKINS' COCKPIT</setting>
+
+<speaker>PORKINS</speaker>
+
+<speaker>RED NINE</speaker>
+
+<setting>INT. WEDGE'S FIGHTER - COCKPIT</setting>
+
+<speaker>WEDGE</speaker>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<speaker>RED ELEVEN</speaker>
+
+<speaker>LUKE</speaker>
+
+<setting>EXT. LUKE'S X-WING FIGHTER</setting>
+
+<sd><name type="GPE">Artoo</name>-Detoo, in position outside of the fighter, turns his 
+head from side to side and makes beeping sounds.</sd>
+
+<setting>INT. RED LEADER'S FIGHTER - COCKPIT</setting>
+
+<speaker>RED LEADER</speaker>
+
+<setting>EXT. SPACE</setting>
+
+<sd>The group of X-wing fighters move in formation toward the 
+Death Star, unfolding the wings and locking them in the "X" 
+position.</sd>
+
+<setting>INT. BIGGS' COCKPIT</setting>
+
+<speaker>READ LEADER</speaker>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<speaker>RED LEADER</speaker>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke adjusts his controls as he concentrates on the 
+approaching Death Star. The ship begins to be buffeted 
+slightly.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<setting>INT. ANOTHER COCKPIT</setting>
+
+<speaker>RED LEADER</speaker>
+
+<setting>EXT. SPACE</setting>
+
+<sd>The fighters, now X-shaped darts, move in formation. The 
+Death Star now appears to be a small moon growing rapidly in 
+size as the Rebel fighters approach. Complex patterns on the 
+metallic surface begin to become visible. A large dish antenna 
+is built into the surface on one side.</sd>
+
+<setting>INT. WEDGE'S COCKPIT</setting>
+
+<sd>Wedge is amazed and slightly frightened at the awesome 
+spectacle.</sd>
+
+<speaker>WEDGE</speaker>
+
+<speaker>RED LEADER</speaker>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<speaker>RED LEADER</speaker>
+
+<setting>EXT. SPACE</setting>
+
+<sd>As the fighters move closer to <name type="ORG">the Death Star</name>, the awesome 
+size of the gargantuan <name type="ORG">Imperial</name> fortress is revealed. Half 
+of the deadly space station is in shadow and this area 
+sparkles with thousands of small lights running in thin lines 
+and occasionally grouped in large clusters; somewhat like a 
+city at night as seen from a weather satellite.</sd>
+
+<setting>INT. GOLD LEADER'S COCKPIT</setting>
+
+<speaker>GOLD LEADER</speaker>
+
+<speaker>RED LEADER</speaker>
+
+<speaker>GOLD LEADER</speaker>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<sd><name type="ORG">Red Leader</name> looks around at his wingmen; <name type="ORG">the Death Star</name> looming 
+in from behind. Two Y-wing fighters bob back and forth in 
+the background. He moves his computer targeting device into 
+position.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<setting>EXT. SPACE</setting>
+
+<sd>Two squads of Rebel fighters peel off. The X-wings dive 
+towards <name type="ORG">the Death Star</name> surface. A thousand lights glow across 
+the dark grey expanse of the huge station.</sd>
+
+<setting>INT. DEATH STAR</setting>
+
+<sd>Alarm sirens scream as soldiers scramble to large turbo- 
+powered laser gun emplacements. Electronic drivers rotate 
+the huge guns into position as crew adjust their targeting 
+devices.</sd>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>Laserbolts streak through the star-filled night. The Rebel X-
+wing fighters move in toward the <name type="ORG">Imperial</name> base, as the Death 
+Star aims its massive laser guns at the Rebel forces and 
+fires.</sd>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<sd>Princess Leia listens to the battle over the intercom.  
+<name type="ORG">Threepio</name> is at her side.</sd>
+
+<speaker>WEDGE</speaker>
+
+<speaker>RED LEADER</speaker>
+
+<setting>EXT. SPACE</setting>
+
+<sd>An X-wing zooms across the surface of <name type="ORG">the Death Star</name>.</sd>
+
+<setting>INT. DEATH STAR</setting>
+
+<sd>Technical crews scurry here and there loading last-minute 
+armaments and unlocking power cables.</sd>
+
+<setting>INT. WEDGE'S COCKPIT</setting>
+
+<sd>Wedge maneuvers his fighter toward the menacing Death Star.</sd>
+
+<setting>EXT. SPACE</setting>
+
+<sd>X-wings continue in their attack course on <name type="ORG">the Death Star</name>.</sd>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke nosedives radically, starting his attack on the monstrous 
+fortress. The Death Star surface streaks past the cockpit 
+window.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>EXT. SPACE</setting>
+
+<sd>Luke's X-wing races toward <name type="ORG">the Death Star</name>. Laserbolts streak 
+from Luke's weapons, creating a huge fireball explosion on 
+the dim surface.</sd>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Terror crosses Luke's face as he realizes he won't be able 
+to pull out in time to avoid the fireball.</sd>
+
+<speaker>BIGGS</speaker>
+
+<setting>EXT. SURFACE OF DEATH STAR</setting>
+
+<sd>Luke's ship emerges from the fireball, with the leading edges 
+of his wings slightly scorched.</sd>
+
+<setting>INT. BIGGS' COCKPIT</setting>
+
+<speaker>BIGGS</speaker>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke adjusts his controls and breathes a sigh of relief. 
+Flak bursts outside the cockpit window.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Rebel fighters continue to strafe <name type="ORG">the Death Star</name>'s surface 
+with laserbolts.</sd>
+
+<setting>INT. DEATH STAR</setting>
+
+<sd>Walls buckle and cave in. Troops and equipment are blown in 
+all directions. Stormtroopers stagger out of the rubble.  
+Standing in the middle of the chaos, a vision of calm and 
+foreboding, is Darth Vader. One of his <name type="ORG">Astro</name>-Officers rushes 
+up to him.</sd>
+
+<speaker>ASTRO-OFFICER</speaker>
+
+<speaker>VADER</speaker>
+
+<setting>INT. DEATH STAR</setting>
+
+<sd>Smoke belches from the giant laser guns as they wind up their 
+turbine generators to create sufficient power. The crew rushes 
+about preparing for another blast. Even the troopers head 
+gear is not adequate to protect them from the overwhelming 
+noise of the monstrous weapon. One troopers bangs his helmet 
+with his hand in an attempt to stop the ringing.</sd>
+
+<setting>INT. READ LEADER'S X-WING FIGHTER - COCKPIT - TRAVELING</setting>
+
+<sd><name type="ORG">Red Leader</name> flies through a heavy hail of flak.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<setting>INT. LUKE'S X-WING - COCKPIT - TRAVELING</setting>
+
+<sd>The <name type="ORG">Red Leader</name>'s X-wing flies past Luke as he puts his nose 
+down and starts his attack dive.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>RED LEADER</speaker>
+
+<speaker>LUKE</speaker>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Luke flings his X-wing into a twisting dive across the horizon 
+and down onto the dim grey surface.</sd>
+
+<setting>EXT. LUKE'S X-WING TRAVELING</setting>
+
+<sd>A shot hurls from Luke's guns. Laserbolts streak toward the 
+onrushing Death Star surface. Several small radar emplacements 
+erupt in flame. Laserfire erupts from a protruding tower on 
+the surface.</sd>
+
+<setting>INT. LUKE'S X-WING - COCKPIT - TRAVELING</setting>
+
+<sd>The blurry Death Star surface races past the cockpit window 
+as a big smile sweeps across Luke's face at the success of 
+his run. Flak thunders on all sides of him.</sd>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>The Death Star superstructure races past Luke as he maneuvers 
+his craft through a wall of laserfire and peels away from 
+the surface towards the heavens.</sd>
+
+<setting>INT. DEATH STAR</setting>
+
+<sd>The thunder and smoke of the big guns reverberate throughout 
+the massive structure. Many soldiers rush about in the smoke 
+and chaos, silhouetted by the almost continual flash of 
+explosions.</sd>
+
+<setting>INT. BIGGS' COCKPIT - TRAVELING</setting>
+
+<sd>Biggs dives through a forest of radar domes, antennae, and 
+gun towers as he shoots low across <name type="ORG">the Death Star</name> surface. A 
+dense barrage of laserfire streaks by on all sides.</sd>
+
+<setting>INT. DEATH STAR</setting>
+
+<sd><name type="ORG">Imperial</name> star pilots dash in unison to a line of small 
+auxiliary hatches that lead to <name type="ORG">Imperial</name> <name type="ORG">TIE</name> fighters.</sd>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<sd>Princess Leia, surrounded by her generals and aides, paces 
+nervously before a lighted computer table. On all sides 
+technicians work in front of many lighted glass walls. Dodonna 
+watches quietly from one corner. One of the officers working 
+over a screen speaks into his headset.</sd>
+
+<speaker>CONTROL OFFICER</speaker>
+
+<setting>INT. LUKE'S X-WING - COCKPIT - TRAVELING</setting>
+
+<sd>Luke looks around to see if he can spot the approaching 
+<name type="ORG">Imperial</name> fighters.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. RED LEADER'S X-WING - COCKPIT - TRAVELING</setting>
+
+<sd>The Death Star's surface sweeps past as <name type="ORG">Red Leader</name> searches 
+the sky for the <name type="ORG">Imperial</name> fighters. Flak pounds at his ship.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Silhouetted against the rim lights of <name type="ORG">the Death Star</name> horizon, 
+four ferocious <name type="ORG">Imperial</name> <name type="ORG">TIE</name> ships dive on the Rebel fighters.  
+Two of the <name type="ORG">TIE</name> fighters peel off and drop out of frame. Pan 
+with the remaining two <name type="ORG">TIE</name> ships.</sd>
+
+<setting>INT. BIGGS' COCKPIT - TRAVELING</setting>
+
+<sd>Biggs panics when he discovers a <name type="ORG">TIE</name> ship on his tail. The 
+horizon in the background twists around as he peels off, 
+hoping to lose the <name type="ORG">Imperial</name> fighter.</sd>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<speaker>RED LEADER</speaker>
+
+<speaker>BIGGS</speaker>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>Biggs zooms off the surface and into space, closely followed 
+by an <name type="ORG">Imperial</name> <name type="ORG">TIE</name> fighter. The <name type="ORG">TIE</name> ship fires several 
+laserbolts at Biggs, but misses.</sd>
+
+<setting>INT. BIGGS' COCKPIT - TRAVELING</setting>
+
+<sd>Biggs see the <name type="ORG">TIE</name> ship behind him and swings around, trying 
+to avoid him.</sd>
+
+<speaker>BIGGS</speaker>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>Biggs, flying at high altitude, peels off and dives toward 
+<name type="ORG">the Death Star</name> surface, but he is unable to lose the <name type="ORG">TIE</name> 
+fighter, who sticks close to his tail.</sd>
+
+<setting>INT. X-WING FIGHTER - COCKPIT - TRAVELING</setting>
+
+<sd>Luke is flying upside down. He rotates his ship around to 
+normal attitude as he comes out of his dive.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>Biggs and the tailing <name type="ORG">TIE</name> ship dive for the surface, now 
+followed by a fast-gaining Luke. After Biggs dives out of 
+sight, Luke chases the <name type="ORG">Imperial</name> fighter.</sd>
+
+<setting>EXT. SURFACE AROUND THE DEATH STAR</setting>
+
+<sd>In the foreground, the <name type="ORG">Imperial</name> fighter races across the 
+Death Star's surface, closely followed by Luke in the 
+background.</sd>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT - TRAVELING</setting>
+
+<sd>There is a shot from Luke's X-wing of the <name type="ORG">TIE</name> ship exploding 
+in a mass of flames.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. DEATH STAR</setting>
+
+<sd>Darth Vader strides purposefully down a Death Star corridor, 
+flanked by <name type="ORG">Imperial</name> stormtroopers.</sd>
+
+<speaker>VADER</speaker>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<sd>A concerned Princess Leia, <name type="ORG">Threepio</name>, Dodonna, and other 
+officers of the Rebellion stand around the huge round readout 
+screen, listening to the ship-to-ship communication on the 
+room's loudspeaker.</sd>
+
+<speaker>BIGGS</speaker>
+
+<speaker>WEDGE</speaker>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<speaker>WEDGE</speaker>
+
+<setting>EXT. SPACE</setting>
+
+<sd>Luke's ship soars away from <name type="ORG">the Death Star</name>'s surface as he 
+spots the tailing <name type="ORG">TIE</name> fighter.</sd>
+
+<setting>INT. <name type="ORG">TIE</name> FIGHTER'S COCKPIT</setting>
+
+<sd>The <name type="ORG">TIE</name> pilot takes aim at Luke's X-wing.</sd>
+
+<setting>EXT. SPACE</setting>
+
+<sd>The <name type="ORG">Imperial</name> <name type="ORG">TIE</name> fighter pilot scores a hit on Luke's ship.  
+Fire breaks out on the right side of the X-wing.</sd>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke looks out of his cockpit at the flames on his ship.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>EXT. LUKE'S X-WING FIGHTER</setting>
+
+<sd>Smoke pours out from behind <name type="GPE">Artoo</name>-Detoo.</sd>
+
+<speaker>LUKE'S VOICE</speaker>
+
+<sd>Green laserfire moves past the beeping little robot as his 
+head turns.</sd>
+
+<setting>INT. LUKE'S X-WING - COCKPIT</setting>
+
+<sd>Luke nervously works his controls.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<sd>In the war room, Leia stands frozen as she listens and worries 
+about Luke.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<speaker>RED TEN</speaker>
+
+<setting>INT. LUKE'S X-WING - COCKPIT</setting>
+
+<sd>Luke spots the <name type="ORG">TIE</name> fighter behind him and soars away from 
+<name type="ORG">the Death Star</name> surface.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Luke's ship soars closer to the surface of <name type="ORG">the Death Star</name>, 
+an <name type="ORG">Imperial</name> <name type="ORG">TIE</name> fighter closing in on him in hot pursuit.</sd>
+
+<setting>INT. WEDGE'S COCKPIT</setting>
+
+<sd>The Death Star whips below Wedge.</sd>
+
+<speaker>WEDGE</speaker>
+
+<setting>INT. LUKE'S X-WING - COCKPIT</setting>
+
+<speaker>WEDGE</speaker>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Wedge dives across the horizon toward Luke and the <name type="ORG">TIE</name> 
+fighter.</sd>
+
+<setting>INT. WEDGE'S COCKPIT</setting>
+
+<sd>Wedge moves his X-wing in rapidly.</sd>
+
+<setting>INT. LUKE'S X-WING - COCKPIT</setting>
+
+<sd>Luke reacts frantically.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. <name type="ORG">TIE</name> FIGHTER - COCKPIT</setting>
+
+<sd>The fighter pilot watches Wedge's X-wing approach. Another X-
+wing joins him, and both unleash a volley of laserfire on 
+the <name type="ORG">Imperial</name> fighter.</sd>
+
+<setting>EXT. SPACE</setting>
+
+<sd>The <name type="ORG">TIE</name> fighter explodes, filling the screen with white light.  
+Luke's ship can be seen far in the distance.</sd>
+
+<setting>INT. LUKE'S X-WING - COCKPIT</setting>
+
+<sd>Luke looks about in relief.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<sd>Leia, <name type="ORG">Threepio</name>, Dodonna and other Rebel officers are listening 
+to the Rebel Fighter's radio transmissions over the war room 
+intercom.</sd>
+
+<speaker>BIGGS</speaker>
+
+<speaker>GOLD LEADER</speaker>
+
+<setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
+
+<sd><name type="ORG">Gold Leader</name> peels off and starts toward the long trenches at 
+<name type="ORG">the Death Star</name> surface pole.</sd>
+
+<speaker>GOLD LEADER</speaker>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>Three Y-wing fighters of the Gold group dive out of the stars 
+toward <name type="ORG">the Death Star</name> surface.</sd>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<sd>Leia and the others are grouped around the screen, as 
+technicians move about attending to their duties.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>Three <name type="ORG">Imperial</name> <name type="ORG">TIE</name> ships in precise formation dive toward 
+<name type="ORG">the Death Star</name> surface.</sd>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Darth Vader calmly adjusts his control stick as the stars 
+whip past in the window above his head.</sd>
+
+<speaker>VADER</speaker>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<sd>Technicians are seated at the computer readout table.</sd>
+
+<speaker>GOLD LEADER</speaker>
+
+<setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
+
+<speaker>GOLD LEADER</speaker>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd><name type="ORG">Gold Leader</name> approaches the surface and pulls out to skim the 
+surface of the huge station. The ship moves into a deep 
+trench, firing laserbolts. The surface streaks past as 
+laserfire is returned by <name type="ORG">the Death Star</name>.</sd>
+
+<setting>INT. GOLD FIVE'S Y-WING - COCKPIT - TRAVELING</setting>
+
+<sd>Gold Five is a pilot in his early fifties with a very battered 
+helmet that looks like it's been through many battles. He 
+looks around to see if enemy ships are near. His fighter is 
+buffeted by <name type="ORG">Imperial</name> flak.</sd>
+
+<setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
+
+<sd><name type="ORG">Gold Leader</name> races down the enormous trench that leads to the 
+exhaust port. Laserbolts blast toward him in increasing 
+numbers, occasionally exploding near the ship causing it to 
+bounce about.</sd>
+
+<speaker>GOLD LEADER</speaker>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Three Y-wing skim <name type="ORG">the Death Star</name> surface deep in the trench, 
+as laserbolts streak past on all sides.</sd>
+
+<setting>EXT. DEATH STAR SURFACE - GUN EMPLACEMENTS</setting>
+
+<sd>An exterior surface gun blazes away at the oncoming Rebel 
+fighters.</sd>
+
+<setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
+
+<speaker>GOLD LEADER</speaker>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<speaker>GOLD FIVE</speaker>
+
+<sd>Leia, <name type="ORG">Threepio</name>, and the technicians view the projected target 
+screen, as red and blue target lights glow. The red target 
+near the center blinks on and off.</sd>
+
+<speaker>MASSASSI INTERCOM VOICE</speaker>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>The three Y-wing fighters race toward camera and zoom overhead 
+through a hail of laserfire.</sd>
+
+<setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
+
+<sd><name type="ORG">Gold Leader</name> pulls his computer targeting device down in front 
+of his eye. Laserbolts continue to batter the Rebel craft.</sd>
+
+<speaker>GOLD LEADER</speaker>
+
+<setting>INT. GOLD TWO'S Y-WING - COCKPIT</setting>
+
+<sd>Gold Two, a younger pilot about Luke's age, pulls down his 
+targeting eye viewer and adjusts it. His ship shudders under 
+intense laser barrage.</sd>
+
+<speaker>GOLD TWO</speaker>
+
+<sd>As the fighters begin to approach the target area, suddenly 
+all the laserfire stops. An eerie clam clings over the trench 
+as the surface whips past in a blur.</sd>
+
+<speaker>GOLD TWO</speaker>
+
+<setting>EXT. GOLD FIVE'S COCKPIT</setting>
+
+<sd>Gold Five looks behind him.</sd>
+
+<speaker>GOLD FIVE</speaker>
+
+<setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
+
+<speaker>GOLD LEADER</speaker>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>Three <name type="ORG">Imperial</name> <name type="ORG">TIE</name> ships, Darth Vader in the center flanked 
+by two wingmen, dive in precise formation almost vertically 
+toward <name type="ORG">the Death Star</name> surface.</sd>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Darth Vader calmly adjusts his control stick as the stars 
+zoom by.</sd>
+
+<speaker>VADER</speaker>
+
+<speaker>WINGMAN'S VOICE</speaker>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>Three <name type="ORG">TIE</name> fighters zoom across the surface of <name type="ORG">the Death Star</name>.</sd>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader lines up Gold Two in his targeting computer. Vader's 
+hands grip the control stick as he presses the button.</sd>
+
+<setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
+
+<sd>The cockpit explodes around Gold Two. His head falls forward.</sd>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>As Gold Two's ship explodes, debris is flung out into space.</sd>
+
+<setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
+
+<sd><name type="ORG">Gold Leader</name> looks over his shoulder at the scene.</sd>
+
+<setting>EXT. DEATH STAR TRENCH</setting>
+
+<sd>The three <name type="ORG">TIE</name> fighters race along in the trench in a tight 
+formation.</sd>
+
+<setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
+
+<sd><name type="ORG">Gold Leader</name> panics.</sd>
+
+<speaker>GOLD LEADER</speaker>
+
+<setting>INT. GOLD FIVE'S Y-WING - COCKPIT</setting>
+
+<sd>Gold Five, the old veteran, trys to calm <name type="ORG">Gold Leader</name>.</sd>
+
+<speaker>GOLD FIVE</speaker>
+
+<setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
+
+<sd>The Death Star races by outside the cockpit window as he 
+adjusts his targeting device.</sd>
+
+<speaker>GOLD LEADER</speaker>
+
+<setting>INT. GOLD FIVE'S Y-WING - COCKPIT</setting>
+
+<sd>The older pilot remains calm.</sd>
+
+<speaker>GOLD FIVE</speaker>
+
+<setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
+
+<sd>Now he's really panicked.</sd>
+
+<speaker>GOLD LEADER</speaker>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader calmly adjusts his targeting computer and pushes the 
+fire button.</sd>
+
+<setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
+
+<sd><name type="ORG">Gold Leader</name>'s ship is hit by Vader's laser.</sd>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd><name type="ORG">Gold Leader</name> explodes in a ball of flames, throwing debris in 
+all directions.</sd>
+
+<setting>INT. GOLD FIVE'S Y-WING - COCKPIT</setting>
+
+<sd>Gold Five moves in on the exhaust port.</sd>
+
+<speaker>GOLD FIVE</speaker>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke looks over his shoulder at the action outside of his 
+cockpit.</sd>
+
+<speaker>GOLD FIVE</speaker>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<speaker>RED LEADER</speaker>
+
+<setting>INT. GOLD FIVE'S Y-WING - COCKPIT</setting>
+
+<speaker>GOLD FIVE</speaker>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>One of the engines explodes on Gold Five's Y-wing fighter, 
+blazing out of control. He dives past the horizon toward the 
+Death Star's surface, passing a <name type="ORG">TIE</name> fighter during his 
+descent. Gold Five, a veteran of countless campaigns, spins 
+toward his death.</sd>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke looks nervously about him at the explosive battle.</sd>
+
+<setting>INT. DEATH STAR - CONTROL ROOM</setting>
+
+<sd>Grant Moff Tarkin and a Chief Officer stand in the Death 
+Star's control room.</sd>
+
+<speaker>OFFICER</speaker>
+
+<speaker>TARKIN</speaker>
+
+<sd>Tarkin turns to the computer readout screen. Flames move 
+around the green disk at the center of the screen, as numbers 
+read across the bottom.</sd>
+
+<speaker>VOICE</speaker>
+
+<setting>INT. READ LEADER'S COCKPIT</setting>
+
+<sd><name type="ORG">Red Leader</name> looks over at his wingmen.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<sd>Dodonna moves to the intercom as he fiddles with the computer 
+keys.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<speaker>WEDGE</speaker>
+
+<speaker>BIGGS</speaker>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<speaker>DODONNA</speaker>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<speaker>RED LEADER'S VOICE</speaker>
+
+<sd>Luke nods his head.</sd>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>The X-wing fighters of Luke, Biggs, and Wedge fly in formation 
+high above <name type="ORG">the Death Star</name>'s surface.</sd>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke peers out from his cockpit.</sd>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Two X-wings move across the surface of <name type="ORG">the Death Star</name>. Red 
+Leader's X-wing drops down to the surface leading to the 
+exhaust port.</sd>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<sd><name type="ORG">Red Leader</name> looks around to watch for the <name type="ORG">TIE</name> fighters. He 
+begins to perspire.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<setting>EXT. SPACE</setting>
+
+<sd><name type="ORG">Red Leader</name> roams down the trench of <name type="ORG">the Death Star</name> as lasers 
+streak across the black heavens.</sd>
+
+<setting>EXT. DEATH STAR SURFACE - GUN EMPLACEMENTS</setting>
+
+<sd>A huge remote-control laser cannon fires at the approaching 
+Rebel fighters.</sd>
+
+<setting>EXT. DEATH STAR TRENCH</setting>
+
+<sd>The Rebel fighters evade the <name type="ORG">Imperial</name> laser blasts.</sd>
+
+<setting>INT. RED TEN'S COCKPIT</setting>
+
+<sd>Red Ten looks around for the <name type="ORG">Imperial</name> fighters.</sd>
+
+<speaker>RED TEN</speaker>
+
+<setting>EXT. DEATH STAR TRENCH</setting>
+
+<sd>From the cockpits of the Rebel pilots, the surface of the 
+Death Star streaks by, with <name type="ORG">Imperial</name> laserfire shooting toward 
+them.</sd>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<speaker>RED LEADER</speaker>
+
+<setting>INT. RED TEN'S COCKPIT</setting>
+
+<speaker>RED TEN</speaker>
+
+<setting>EXT. SPACE - DEATH STAR TRENCH</setting>
+
+<sd>Three X-wing fighters move in formation down <name type="ORG">the Death Star</name> 
+trench.</sd>
+
+<speaker>RED TEN'S VOICE</speaker>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke looks down at <name type="ORG">the Death Star</name> surface below.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. RED TEN'S COCKPIT</setting>
+
+<sd>Red Ten looks up and sees the <name type="ORG">Imperial</name> fighters.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>RED TEN</speaker>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Three <name type="ORG">TIE</name> fighters, Vader flanked by two wingmen, dive in a 
+tight formation. The sun reflects off their dominate solar 
+fins as they loop toward <name type="ORG">the Death Star</name>'s surface.</sd>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<sd><name type="ORG">Red Leader</name> pulls his targeting device in front of his eyes 
+and makes several adjustments.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd><name type="ORG">Red Leader</name>'s X-wing moves up <name type="ORG">the Death Star</name> trench.</sd>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<speaker>RED LEADER</speaker>
+
+<sd><name type="ORG">Red Leader</name> looks at his computer target readout screen. He 
+then looks into his targeting device.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader adjusts his control lever and dives on the X-wing 
+fighters.</sd>
+
+<speaker>VADER</speaker>
+
+<setting>EXT. DEATH STAR TRENCH</setting>
+
+<sd>The three <name type="ORG">TIE</name> fighters move in formation across the Death 
+Star surface.</sd>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<sd><name type="ORG">Red Leader</name> lines up his target on the targeting device cross 
+hairs.</sd>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Vader and his wingmen zoom down the trench.</sd>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader rapidly approaches the two X-wings of Red Ten and Red 
+Twelve. Vader's laser cannon flashes below the view of the 
+front porthole. the X-wings show in the center of Vader's 
+computer screen.</sd>
+
+<setting>EXT. SPACE</setting>
+
+<sd>Red Twelve's X-wing fighter is hit by Vader's laserfire, and 
+it explodes into flames against the trench.</sd>
+
+<setting>INT. RED TEN'S COCKPIT</setting>
+
+<sd>Red Ten works at his controls furiously, trying to avoid 
+Vader's fighter behind him.</sd>
+
+<sd>RED TEN: You'd better let her loose.</sd>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<sd><name type="ORG">Red Leader</name> is concentrating on his targeting device.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<setting>INT. RED TEN'S COCKPIT.</setting>
+
+<sd>Red Ten panics.</sd>
+
+<speaker>RED TEN</speaker>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Vader and his wingmen whip through the trench in pursuit of 
+the Rebel fighters.</sd>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader cooly pushes the fire button on his control stick.</sd>
+
+<setting>INT. RED TEN'S COCKPIT</setting>
+
+<sd>Darth Vader's well-aimed laserfire proves to be unavoidable, 
+and strikes Red Ten's ship. Red Ten screams in anguish and 
+pain.</sd>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>Red Ten's ship explodes and bursts into flames.</sd>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<sd>Grimly, <name type="ORG">Red Leader</name> takes careful aim and watches his computer 
+targeting device, which shows the target lined up in the 
+cross hairs, and fires.</sd>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<speaker>RED LEADER</speaker>
+
+<setting>INT. DEATH STAR</setting>
+
+<sd>An armed <name type="ORG">Imperial</name> stormtrooper is knocked to the floor from 
+the attack explosion. Other troopers scurrying about the 
+corridors are knocked against the wall and lose their balance.</sd>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<sd>Leia and the others stare at the computer screen.</sd>
+
+<speaker>RED NINE'S VOICE</speaker>
+
+<speaker>RED LEADER</speaker>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<sd><name type="ORG">Red Leader</name> looks back at the receding Death Star. Tiny 
+explosions are visible in the distance.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR - <name type="ORG">TIE</name> FIGHTER</setting>
+
+<sd>Darth Vader peels off in pursuit as <name type="ORG">Red Leader</name>'s X-wing passes 
+<name type="ORG">the Death Star</name> horizon.</sd>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader swings his ship around for the next kill.</sd>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke tries to spot <name type="ORG">Red Leader</name>. He looks down at the Death 
+Star surface.</sd>
+
+<speaker>LUKE</speaker>
+
+<speaker>RED LEADER</speaker>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<sd>A wary <name type="ORG">Red Leader</name> looks about nervously.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke looks excitedly toward <name type="ORG">Red Leader</name>'s X-wing.</sd>
+
+<speaker>RED LEADER</speaker>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader's gloved hands make contact with the control sticks, 
+and he presses their firing buttons.</sd>
+
+<setting>INT. RED LEADER'S COCKPIT</setting>
+
+<sd><name type="ORG">Red Leader</name> fights to gain control of his ship.</sd>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>Laserbolts are flung from Vader's <name type="ORG">TIE</name> fighter, connecting 
+with <name type="ORG">Red Leader</name>'s Rebel X-wing fighter. <name type="ORG">Red Leader</name> buys it, 
+creating a tremendous explosion far below. He screams and is 
+destroyed.</sd>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke looks out the window of his X-wing at the explosion far 
+below. For the first time, he feels the helplessness of his 
+situation.</sd>
+
+<setting>INT. DEATH STAR</setting>
+
+<sd>Grand Moff Tarkin casts a sinister eye at the computer screen.</sd>
+
+<speaker>DEATH STAR INTERCOM VOICE</speaker>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<sd>Dodonna and Princess Leia, with <name type="ORG">Threepio</name> beside them, listen 
+intently to the talk between the pilots. The room is grim 
+after <name type="ORG">Red Leader</name>'s death. Princess Leia nervously paces the 
+room.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. WEDGE'S COCKPIT</setting>
+
+<sd>The horizon twists as Wedge begins to pull out.</sd>
+
+<speaker>WEDGE</speaker>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>The two X-wings peel off against a background of stars and 
+dive toward <name type="ORG">the Death Star</name>.</sd>
+
+<setting>INT. BIGGS' COCKPIT</setting>
+
+<speaker>BIGGS</speaker>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<speaker>LUKE</speaker>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>The three X-wings move in, unleashing a barrage of laserfire.  
+Laserbolts are returned from <name type="ORG">the Death Star</name>.</sd>
+
+<setting>INT. BIGGS' COCKPIT</setting>
+
+<sd>Luke's lifelong friend struggles with his controls.</sd>
+
+<speaker>BIGGS</speaker>
+
+<setting>INT. LUKE'S COCKPIT</setting>
+
+<sd>Flak and laserbolts flash outside Luke's cockpit window.</sd>
+
+<speaker>WEDGE</speaker>
+
+<setting>EXT. DEATH STAR - GUN EMPLACEMENTS</setting>
+
+<sd>The Death Star laser cannon slowly rotates as it shoots 
+laserbolts.</sd>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke looks around for the <name type="ORG">Imperial</name> <name type="ORG">TIE</name> fighters. He thinks 
+for a moment and then moves his targeting device into 
+position.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. WEDGE'S COCKPIT</setting>
+
+<sd>Wedge looks excitedly about for any sign of the <name type="ORG">TIE</name> fighters.</sd>
+
+<speaker>WEDGE</speaker>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<speaker>LUKE</speaker>
+
+<setting>EXT. DEATH STAR SURFACE</setting>
+
+<sd>Luke's X-wing streaks through the trench, firing lasers.</sd>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke breaks into a nervous sweat as the laserfire is returned, 
+knicking one of his wings close to the engine.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>EXT. LUKE'S X-WING FIGHTER</setting>
+
+<sd><name type="GPE">Artoo</name> works to repair the damages. The canyon wall rushes by 
+in the background, making his delicate task seem even more 
+precarious.</sd>
+
+<setting>EXT. DEATH STAR</setting>
+
+<sd>Two laser cannons are firing on the Rebel fighters.</sd>
+
+<setting>INT. WEDGE'S COCKPIT</setting>
+
+<sd>Wedge looks up and sees the <name type="ORG">TIE</name> ships.</sd>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke's targeting device marks off the distance to the target.</sd>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>Vader and his wingmen zoom closer.</sd>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader adjusts his controls and fires laserbolts at two X-
+wings flying down the trench. He scores a direct hit on Wedge.</sd>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<sd>Leia and the others are grouped around the computer board.</sd>
+
+<speaker>WEDGE</speaker>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. WEDGE'S COCKPIT</setting>
+
+<speaker>WEDGE</speaker>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>Wedge pulls his crippled X-wing back away from the battle.</sd>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader watches the escape but issues a command to his wingmen.</sd>
+
+<speaker>VADER</speaker>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>Luke's X-wing speeds down the trench; the three <name type="ORG">TIE</name> fighters, 
+still in perfect unbroken formation, tail close behind.</sd>
+
+<setting>INT. BIGGS' COCKPIT</setting>
+
+<sd>Biggs looks around at the <name type="ORG">TIE</name> fighters. He is worried.</sd>
+
+<speaker>BIGGS</speaker>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>The three <name type="ORG">TIE</name> fighters move ever closer, closing in on Luke 
+and Biggs.</sd>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke looks back anxiously at little <name type="GPE">Artoo</name>.</sd>
+
+<speaker>LUKE</speaker>
+
+<setting>EXT. LUKE'S X-WING FIGHTER</setting>
+
+<sd>Ignoring the bumpy ride, flak, and lasers, a beeping <name type="GPE">Artoo</name>-
+Detoo struggles to increase the power, his dome turning from 
+side to side.</sd>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>Stealthily, the <name type="ORG">TIE</name> formation creeps closer.</sd>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader adjusts his control stick.</sd>
+
+<setting>INT. BIGGS' COCKPIT</setting>
+
+<sd>Biggs looks around at the <name type="ORG">TIE</name> fighters.</sd>
+
+<setting>INT. LUKE'S X-WING FIGHTER</setting>
+
+<sd>Luke looks into his targeting device. He moves it away for a 
+moment and ponders its use. He looks back into the computer 
+targeter.</sd>
+
+<speaker>BIGGS</speaker>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>Vader and his wingmen race through <name type="ORG">the Death Star</name> trench.  
+Biggs moves in to cover for Luke, but Vader gains on him.</sd>
+
+<setting>INT. BIGGS' COCKPIT</setting>
+
+<sd>Biggs sees the <name type="ORG">TIE</name> fighter aiming at him.</sd>
+
+<speaker>BIGGS</speaker>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader squeezes the fire button on his controls.</sd>
+
+<setting>INT. BIGGS' COCKPIT</setting>
+
+<sd>Biggs' cockpit explodes around him, lighting him in red.</sd>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Biggs' ship bursts into a million flaming bits and scatters 
+across the surface.</sd>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<sd>Leia and the others stare at the computer board.</sd>
+
+<setting>INT. LUKE'S X-WING COCKPIT</setting>
+
+<sd>Luke is stunned by Biggs' death. His eyes are watering, but 
+his anger is also growing.</sd>
+
+<setting>INT. DEATH STAR - CONTROL ROOM</setting>
+
+<sd>Grand Moff Tarkin watches the projected target screen with 
+satisfaction.</sd>
+
+<speaker>DEATH STAR INTERCOM VOICE</speaker>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader takes aim on Luke and talks to the wingmen.</sd>
+
+<speaker>VADER</speaker>
+
+<setting>EXT. SURFACE OF THE DEATH STAR - LUKE'S SHIP</setting>
+
+<sd>Luke's ship streaks through the trench of <name type="ORG">the Death Star</name>.</sd>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<sd>Princess Leia returns her general's worried and doubtful 
+glances with solid, grim determination. <name type="ORG">Threepio</name> seems 
+nervous.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<setting>INT. LUKE'S X-WING - COCKPIT</setting>
+
+<sd>Luke concentrates on his targeting device.</sd>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Three <name type="ORG">TIE</name> fighters charge away down the trench toward Luke.</sd>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader's finger's curls around the control stick.</sd>
+
+<setting>INT. LUKE'S X-WING - COCKPIT</setting>
+
+<sd>Luke adjusts the lens of his targeting device.</sd>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Luke's ship charges down the trench.</sd>
+
+<setting>INT. LUKE'S X-WING - COCKPIT</setting>
+
+<sd>Luke lines up the yellow cross-hair lines of the targeting 
+device's screen. He looks into the targeting device, then 
+starts at a voice he hears.</sd>
+
+<speaker>BEN'S VOICE</speaker>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>The Death Star trench zooms by.</sd>
+
+<setting>INT. LUKE'S X-WING - COCKPIT</setting>
+
+<sd>Luke looks up, then starts to look back into the targeting 
+device. He has second thoughts.</sd>
+
+<speaker>BEN'S VOICE</speaker>
+
+<sd>A grim determination sweeps across Luke's face as he closes 
+his eyes and starts to mumble Ben's training to himself.</sd>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Luke's fighter streaks through the trench.</sd>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<speaker>VADER</speaker>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Vader follows Luke's X-wing down the trench.</sd>
+
+<setting>INT. LUKE'S X-WING - COCKPIT</setting>
+
+<sd>Luke looks to the targeting device, then away as he hears 
+Ben's voice.</sd>
+
+<speaker>BEN'S VOICE</speaker>
+
+<sd>Luke's hand reaches for the control panel and presses the 
+button. The targeting device moves away.</sd>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<sd>Leia and the others stand watching the projected screen.</sd>
+
+<speaker>BASE VOICE</speaker>
+
+<speaker>LUKE</speaker>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Luke's ship streaks ever close to the exhaust port.</sd>
+
+<setting>INT. LUKE'S X-WING - COCKPIT</setting>
+
+<sd>Luke looks at <name type="ORG">the Death Star</name> surface streaking by.</sd>
+
+<setting>EXT. LUKE'S X-WING FIGHTER</setting>
+
+<sd><name type="GPE">Artoo</name>-Detoo turns his head from side to side, beeping in 
+anticipation.</sd>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>The three <name type="ORG">TIE</name> fighters, manned by Vader and his two wingmen, 
+follow Luke's X-wing down the trench.</sd>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader maneuvers his controls as he looks at his doomed target.  
+He presses the fire buttons on his control sticks. Laserfire 
+shoots toward Luke's X-wing fighter.</sd>
+
+<setting>EXT. LUKE'S X-WING FIGHTER</setting>
+
+<sd>A large burst of Vader's laserfire engulfs <name type="GPE">Artoo</name>. The arms 
+go limp on the smoking little droid as he makes a high-pitched 
+sound.</sd>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke looks frantically back over his shoulder at <name type="GPE">Artoo</name>.</sd>
+
+<setting>EXT. LUKE'S X-WING FIGHTER</setting>
+
+<sd>Smoke billows out around little <name type="GPE">Artoo</name> and sparks begin to 
+fly.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd><name type="GPE">Artoo</name>'s beeping sounds die out.</sd>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<sd>Leia and the others stare intently at the projected screen, 
+while <name type="ORG">Threepio</name> watches the Princess. Lights representing the 
+Death Star and targets glow brightly.</sd>
+
+<speaker>MASSASSI INTERCOM VOICE</speaker>
+
+<setting>INT. DEATH STAR - CONTROL ROOM</setting>
+
+<sd>Tarkin glares at the projected target screen.</sd>
+
+<speaker>DEATH STAR INTERCOM VOICE</speaker>
+
+<speaker>TARKIN</speaker>
+
+<speaker>DEATH STAR INTERCOM VOICE</speaker>
+
+<sd>An officer reaches up and pushes buttons on the control panel, 
+as green lighted buttons turn to red.</sd>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>The three <name type="ORG">TIE</name> fighters zoom down <name type="ORG">the Death Star</name> trench in 
+pursuit of Luke, never breaking formation.</sd>
+
+<setting>INT. LUKE'S COCKPIT</setting>
+
+<sd>Luke looks anxiously at the exhaust port.</sd>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader adjusts his control sticks, checking his projected 
+targeting screen.</sd>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Luke's ship barrels down the trench.</sd>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader's targeting computer swings around into position. Vader 
+takes careful aim on Luke's X-wing fighter.</sd>
+
+<speaker>VADER</speaker>
+
+<sd>He pushes the fire buttons.</sd>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>The three <name type="ORG">TIE</name> fighters move in on Luke. As Vader's center 
+fighter unleashes a volley of laserfire, one of the <name type="ORG">TIE</name> ships 
+at his side is hit and explodes into flame. The two remaining 
+ships continue to move in.</sd>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke looks about, wondering whose laserfire destroyed Vader's 
+wingman.</sd>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader is taken by surprise, and looks out from his cockpit.</sd>
+
+<speaker>VADER</speaker>
+
+<setting>INT. DARTH VADER'S WINGMAN - COCKPIT</setting>
+
+<sd>Vader's wingman searches around him trying to locate the 
+unknown attacker.</sd>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd><name type="NORP">Han</name> and Chewbacca grin from ear to ear.</sd>
+
+<speaker>HAN</speaker>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>The Millennium <name type="ORG">Falcon</name> heads right at the two <name type="ORG">TIE</name> fighters.  
+It's a collision course.</sd>
+
+<setting>INT. WINGMAN'S COCKPIT</setting>
+
+<sd>The wingman spots the pirateship coming at him and warns the 
+Dark Lord.</sd>
+
+<speaker>WINGMAN</speaker>
+
+<setting>EXT. DEATH STAR TRENCH</setting>
+
+<sd>Vader's wingman panics at the sight of the oncoming pirate 
+starship and veers radically to one side, colliding with 
+Vader's <name type="ORG">TIE</name> fighter in the process. Vader's wingman crashes 
+into the side wall of the trench and explodes. Vader's damaged 
+ship spins out of the trench with a damaged wing.</sd>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>Vader's ship spins out of control with a bent solar fin, 
+heading for deep space.</sd>
+
+<setting>INT. DARTH VADER'S COCKPIT</setting>
+
+<sd>Vader turns round and round in circles as his ship spins 
+into space.</sd>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Solo's ship moves in toward <name type="ORG">the Death Star</name> trench.</sd>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd>Solo, smiling, speaks to Luke over his headset mike.</sd>
+
+<speaker>HAN</speaker>
+
+<setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
+
+<sd>Leia and the others listen to Solo's transmission.</sd>
+
+<speaker>HAN</speaker>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke looks up and smiles. He concentrates on the exhaust 
+port, then fires his laser torpedoes.</sd>
+
+<setting>EXT. SURFACE OF THE DEATH STAR</setting>
+
+<sd>Luke's torpedoes shoot toward the port and seems to simply 
+disappear into the surface and not explode. But the shots do 
+find their mark and have gone into the exhaust port and are 
+heading for the main reactor.</sd>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke throws his head back in relief.</sd>
+
+<setting>INT. DEATH STAR</setting>
+
+<sd>An <name type="ORG">Imperial</name> soldier runs to the control panel board and pulls 
+the attack lever as the board behind him lights up.</sd>
+
+		<setting>INTERCOM VOICE</setting>
+		   Stand by to fire at Rebel base.
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>Two X-wings, a Y-wing, and the pirateship race toward Yavin 
+in the distance.</sd>
+
+<setting>INT. DEATH STAR</setting>
+
+<sd>Several <name type="ORG">Imperial</name> soldiers, flanking a pensive Grand Moff 
+Tarkin, busily push control levers and buttons.</sd>
+
+		<setting>INTERCOM VOICE</setting>
+		   Standing by.
+
+<sd>The rumble of a distant explosion begins.</sd>
+
+<setting>EXT. SPACE AROUND THE DEATH STAR</setting>
+
+<sd>The Rebel ships race out of sight, leaving <name type="LOC">the moon</name>-like 
+Death Star alone against a blanket of stars. Several small 
+flashes appear on the surface. The Death Star bursts into a 
+supernova, creating a spectacular heavenly display.</sd>
+
+<setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
+
+<speaker>HAN</speaker>
+
+<setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
+
+<sd>Luke is at ease, and his eyes are closed.</sd>
+
+<speaker>BEN'S VOICE</speaker>
+
+<sd>The ship rocks back and forth.</sd>
+
+<setting>EXT. DARTH VADER'S <name type="ORG">TIE</name> FIGHTER</setting>
+
+<sd>Vader's ship spins off into space.</sd>
+
+<setting>EXT. SPACE</setting>
+
+<sd>The Rebel ships race toward the fourth moon of Yavin.</sd>
+
+<setting>INT. MASSASSI OUTPOST - MAIN HANGAR</setting>
+
+<sd>Luke climbs out of his starship fighter and is cheered by a 
+throng of ground crew and pilots. Luke climbs down the ladder 
+as they all welcome him with laughter, cheers, and shouting. 
+Princess Leia rushes toward him.</sd>
+
+<speaker>LEIA</speaker>
+
+<sd>She throws her arms around Luke and hugs him as they dance 
+around in a circle. Solo runs in toward Luke and they embrace 
+one another, slapping each other on the back.</sd>
+
+<speaker>HAN</speaker>
+
+<speaker>LUKE</speaker>
+
+<speaker>HAN</speaker>
+
+<sd>Luke and <name type="NORP">Han</name> look at one another, as Solo playfully shoves 
+at Luke's face. Leia moves in between them.</sd>
+
+<speaker>LEIA</speaker>
+
+<sd>Luke looks toward the ship.</sd>
+
+<speaker>LUKE</speaker>
+
+<sd>The fried little <name type="GPE">Artoo</name>-Detoo is lifted off the back of the 
+fighter and carried off under the worried eyes of <name type="ORG">Threepio</name>.</sd>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>TECHNICIAN</speaker>
+
+<speaker>THREEPIO</speaker>
+
+<speaker>LUKE</speaker>
+
+<setting>INT. MASSASSI OUTPOST - MAIN THRONE ROOM</setting>
+
+<sd>Luke, <name type="NORP">Han</name>, and Chewbacca enter the huge ruins of the main 
+temple. Hundreds of troops are lined up in neat rows. Banners 
+are flying and at the far end stands a vision in white, the 
+beautiful young Senator Leia. Luke and the others solemnly 
+march up the long aisle and kneel before Senator Leia. From 
+one side of the temple marches a shined-up and fully repaired 
+<name type="GPE">Artoo</name>-Detoo. He waddles up to the group and stands next to 
+an equally pristine <name type="ORG">Threepio</name>, who is rather awestruck by the 
+whole event. Chewbacca is confused. Dodonna and several other 
+dignitaries sit on the left of the Princess Leia. Leia is 
+dressed in a long white dress and is staggeringly beautiful.  
+She rises and places a gold medallion around <name type="NORP">Han</name>'s neck. He 
+winks at her. She then repeats the ceremony with Luke, who 
+is moved by the event. They turn and face the assembled 
+troops, who all bow before them. Chewbacca growls and <name type="GPE">Artoo</name> 
+beeps with happiness.</sd>
+
+<sd>FADE OUT:</sd>
+
+<sd>END CREDITS OVER STARS</sd>
+
+<sd>THE END</sd>
+</script>
+</root>

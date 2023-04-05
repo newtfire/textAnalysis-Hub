@@ -1,0 +1,4655 @@
+<?xml-model href="sw_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+ <title>Star Wars: Episode VI - Return of the <name type="ORG">Jedi</name> (1983)</title>
+by <writer>Lawrence Kasdan &amp; George Lucas</writer>
+
+
+<script>The boundless heavens serve as a back-drop for the MAIN TITLE, followed 
+by a ROLL-UP, which crawls into infinity.
+
+<subTitle epNum="6">EPISODE 6 RETURN OF THE JEDI</subTitle>
+
+<crawl>Luke Skywalker has returned to his home planet of Tatooine in an 
+attempt to rescue his friend <name type="NORP">Han</name> Solo from the clutches of the vile 
+gangster Jabba the <name type="ORG">Hut</name>t. Little does Luke know that the GALACTIC EMPIRE 
+has secretly begun construction on a new armored space station even 
+more powerful than the first dreaded Death Star. When completed, this 
+ultimate weapon will spell certain doom for the small band of <name type="ORG">Rebels</name> 
+struggling to restore freedom to the galaxy...</crawl>
+
+<sd>PAN DOWN to reveal a monstrous half-completed Death Star, its massive 
+superstructure curling away from the completed section like the arms of 
+a giant octopus. Beyond, in benevolent contrast, floats the small, 
+green moon of ENDOR.</sd>
+
+<sd>An <name type="ORG">Imperial</name> <name type="ORG">Star Destroyer</name> moves overhead toward the massive armored 
+space station, followed by two zipping <name type="ORG">TIE</name> fighters. A small <name type="ORG">Imperial</name> 
+shuttle rockets from the main bay of the ship and hustles toward the 
+Death Star.</sd>
+
+<setting>2    INT IMPERIAL SHUTTLE - COCKPIT </setting>
+The shuttle captain makes contact with <name type="ORG">the Death Star</name>.
+
+<sp><speaker>SHUTTLE CAPTAIN</speaker>
+Command station, this is <name type="FAC">ST 321</name>. Code Clearance Blue. We're starting 
+our approach. Deactivate the security shield.</sp>
+
+<sp><speaker>DEATH STAR CONTROLLER	(filtered VO)</speaker>
+The security deflector shield will be deactivated when we have 
+confirmation of your code transmission. Stand by... You are clear to 
+proceed.</sp>
+
+<sp><speaker>SHUTTLE CAPTAIN</speaker>
+We're starting our approach.</sp>
+
+<setting>3    INT DEATH STAR - CONTROL ROOM</setting>
+
+<sd>Operators move about among the control panels. A SHIELD OPERATOR hits 
+switches beside a large screen, on which is a display of the Death 
+Star, <name type="LOC">the moon</name> Endor, and a bright web delineating the invisible 
+deflector shield.</sd>
+
+<sd>A control officer rushes over to the shield operator.</sd>
+
+<sp><speaker>OFFICER</speaker>
+Inform the commander that Lord Vader's shuttle has arrived.</sp>
+
+<sp><speaker>OPERATOR</speaker>
+Yes, sir.</sp>
+
+<sd>The control officer moves to a view port and watches as the <name type="ORG">Imperial</name> 
+shuttle lands in the massive docking bay. A squad of <name type="ORG">Imperial</name> 
+stormtroopers moves into formation before the craft.</sd>
+
+<setting>4    INT DEATH STAR - MAIN DOCKING BAY</setting>
+
+<sd>The DEATH STAR COMMANDER, MOFF JERJERROD, a tall, confident technocrat, 
+strides through the assembled troops to the base of the shuttle ramp. 
+The troops snap to attention; many are uneasy about the new arrival. 
+But <name type="ORG">the Death Star</name> commander stands arrogantly tall.</sd>
+
+<sd>The exit hatch of the shuttle opens with a WHOOSH, revealing only 
+darkness. Then, heavy FOOTSTEPS AND MECHANICAL BREATHING. From this 
+black void appears DARTH VADER, LORD OF THE SITH. Vader looks over the 
+assemblage as he walks down the ramp.</sd>
+
+<sp><speaker>JERJERROD</speaker>
+Lord Vader, this is an unexpected pleasure. We're honored by your 
+presence.</sp>
+
+<sp><speaker>VADER</speaker>
+You may dispense with the pleasantries, Commander. I'm here to put you 
+back on
+schedule.</sp>
+
+<sd>The commander turns ashen and begins to shake.</sd>
+
+<sp><speaker>JERJERROD</speaker>
+I assure you, Lord Vader, my men are working as fast as they can.</sp>
+
+<sp><speaker>VADER</speaker>
+Perhaps I can find new ways to motivate them.</sp>
+
+<sp><speaker>JERJERROD</speaker>
+I tell you, this station will be operational as planned.</sp>
+
+<sp><speaker>VADER</speaker>
+The Emperor does not share your optimistic appraisal of the situation.</sp>
+
+<sp><speaker>JERJERROD</speaker>
+But he asks the impossible. I need more men.</sp>
+
+<sp><speaker>VADER</speaker>
+Then perhaps you can tell him when he arrives.</sp>
+
+<sp><speaker>JERJERROD	 (aghast)</speaker>
+The Emperor's coming here?</sp>
+
+<sp><speaker>VADER</speaker>
+That is correct, Commander. And he is most displeased with your 
+apparent lack of progress.</sp>
+
+<sp><speaker>JERJERROD</speaker>
+We shall double our efforts.</sp>
+
+<sp><speaker>VADER</speaker>
+I hope so, Commander, for your sake. The Emperor is not as forgiving as 
+I am.</sp>
+
+<setting>5    EXT ROAD TO JABBA'S PALACE - TATOOINE</setting>
+
+<sd>A lonely, windswept road meanders through the desolate Tatooine 
+terrain. We HEAR a familiar BEEPING and a distinctive reply before 
+catching sight of <name type="ORG">ARTOO</name>-DETOO and SEE-THREEPIO, making their way along 
+the road toward the ominous palace of Jabba the <name type="ORG">Hut</name>t.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Of course I'm worried. And you should be, too. <name type="GPE">Lando</name> Calrissian and 
+poor Chewbacca never returned from this awful place.</sp>
+
+<sd><name type="GPE">Artoo</name> whistles timidly.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Don't be so sure. If I told you half the things I've heard about this 
+Jabba the <name type="ORG">Hut</name>t, you'd probably short-circuit.</sp>
+
+<sd>The two droids fearfully approach the massive gate to the palace.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+<name type="GPE">Artoo</name>, are you sure this is the right place? I better knock, I suppose.</sp>
+
+<setting>6    EXT JABBA'S PALACE - GATE </setting>
+
+<sd><name type="ORG">Threepio</name> looks around for some kind of signaling device, then timidly 
+knocks on the iron door.</sd>
+
+<sp><speaker>THREEPIO	 (instantly) </speaker>
+There doesn't seem to be anyone there. Let's go back and tell Master 
+Luke.</sp>
+
+<sd>A small hatch in the middle of the door opens and a spidery mechanical 
+arm, with a large electronic eyeball on the end, pops out and inspects 
+the two droids.</sd>
+
+<sp><speaker>STRANGE VOICE</speaker>
+Tee chuta hhat yudd!</sp>
+
+<sp><speaker>THREEPIO</speaker>
+Goodness gracious me!</sp>
+
+ <name type="ORG">Threepio</name> points to <name type="GPE">Artoo</name>, then to himself.
+
+<sp><speaker>THREEPIO</speaker>
+<name type="GPE">Artoo</name> Detoowha bo Seethreepiowha ey toota odd mischka Jabba du <name type="ORG">Hut</name>t.</sp>
+
+<sd>The eye looks from one robot to the other, there is a laugh then the 
+eye zips back into the door. The hatch slams shut. <name type="GPE">Artoo</name> beeps his 
+concern.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+I don't think they're going to let us in, <name type="GPE">Artoo</name>. We'd better go.</sp>
+
+<sd><name type="GPE">Artoo</name> beeps his reluctance as <name type="ORG">Threepio</name> turns to leave. Suddenly the 
+massive door starts to rise with a horrific metallic SCREECH. The 
+robots turn back and face an endless black cavity. The droids look at 
+one another, afraid to enter.</sd>
+
+<sd><name type="GPE">Artoo</name> starts forward into the gloom. <name type="ORG">Threepio</name> rushes after his stubby 
+companion. The door lowers noisily behind them.</sd>
+
+<sp><speaker>THREEPIO </speaker>
+<name type="GPE">Artoo</name>, wait. Oh, dear! <name type="GPE">Artoo</name>. <name type="GPE">Artoo</name>, I really don't think we should 
+rush into all this.</sp>
+
+<sd><name type="GPE">Artoo</name> continues down the corridor, with <name type="ORG">Threepio</name> following.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Oh, <name type="GPE">Artoo</name>!  <name type="GPE">Artoo</name>, wait for me!</sp>
+
+<setting>7    INT JABBA'S PALACE - HALLWAY</setting>
+
+<sd>The door slams shut with a loud crash that echoes throughout the dark 
+passageway. The frightened robots are met by two giant, green GAMORREAN 
+GUARDS, who fall in behind them. <name type="ORG">Threepio</name> glances quickly back at the 
+two lumbering brutes, then back to <name type="GPE">Artoo</name>. One guard grunts an order. 
+<name type="GPE">Artoo</name> beeps nervously.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Just you deliver Master Luke's message and get us out of here. Oh my! 
+Oh! Oh, no.</sp>
+
+<sd>Walking toward them out of the darkness is BIB FORTUNA, a humanlike 
+alien with long tentacles protruding from his skull.</sd>
+
+<sp><speaker>BIB</speaker>
+Die Wanna Wanga!</sp>
+
+<sp><speaker>THREEPIO</speaker>
+Oh, my! Die Wanna Wauaga. We -- we bring a message to your master, 
+Jabba the <name type="ORG">Hut</name>t.</sp>
+
+<sd><name type="GPE">Artoo</name> lets out a series of quick beeps.</sd>
+
+<sp><speaker>THREEPIO	 (cont)</speaker>
+...and a gift.
+(thinks a moment, then to <name type="GPE">Artoo</name>)
+Gift, what gift?</sp>
+
+<sd>Bib shakes his head negatively.</sd>
+
+<sp><speaker>BIB</speaker>
+Nee Jabba no badda. Me chaade su goodie.</sp>
+
+<sd>Bib holds out his hand toward <name type="GPE">Artoo</name> and the tiny droid backs up a bit, 
+letting out a protesting array of squeaks. <name type="ORG">Threepio</name> turns to the 
+strange-looking alien.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+He says that our instructions are to give it only to Jabba himself.</sp>
+
+<sd>Bib thinks about this for a moment.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+I'm terribly sorry. I'm afraid he's ever so stubborn about these sort 
+of things.</sp>
+
+<sd>Bib gestures for the droids to follow.</sd>
+
+<sp><speaker>BIB</speaker>
+Nudd Chaa.</sp>
+
+<sd>The droids follow the tall, tentacled alien into the darkness, trailed 
+by the two guards.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+<name type="GPE">Artoo</name>, I have a bad feeling about this.</sp>
+
+<setting>8    INT JABBA'S THRONE ROOM</setting>
+
+<sd>The throne room is filled with the vilest, most grotesque CREATURES 
+ever conceived in the universe. <name type="GPE">Artoo</name> and <name type="ORG">Threepio</name> seem very small as 
+they pause in the doorway to the dimly lit chamber. Light shafts 
+partially illuminate the drunken courtiers as Bib Fortuna crosses the 
+room to the platform upon which rests the leader of this nauseating 
+crowd: JABBA THE HUTT. The monarch of the galactic underworld is a 
+repulsive blob of bloated fat with a maniacal grin. Chained to the 
+horrible creature is the beautiful alien female dancer named OOLA. At 
+the foot of the dais sits an obnoxious birdlike creature, SALACIOUS 
+CRUMB. Bib whispers something in the slobbering degenerate's ear. Jabba 
+laughs horribly, at the two terrified droids before him. <name type="ORG">Threepio</name> bows 
+politely.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Good morning.</sp>
+
+<sp><speaker>JABBA</speaker>
+Bo Shuda!</sp>
+
+<sd>The robots jump forward to stand before the repulsive, loose-skinned 
+villain.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+The message, <name type="GPE">Artoo</name>, the message.</sp>
+
+<sd><name type="GPE">Artoo</name> whistles, and a beam of light projects from his domed head, 
+creating a hologram of LUKE on the floor. The image grows to over ten 
+feet tall, and the young <name type="ORG">Jedi</name> towers over the space gangsters.</sd>
+
+<sp><speaker>LUKE</speaker>
+Greetings, Exalted One. Allow me to introduce myself. I am Luke 
+Skywalker, <name type="ORG">Jedi</name> Knight and friend to Captain Solo. I know that you are 
+powerful, mighty Jabba, and that your anger with Solo must be equally 
+powerful. I seek an audience with Your Greatness to bargain for Solo's 
+life. 
+(Jabba's crowd laughs) 
+With your wisdom, I'm sure that we can work out an arrangement which 
+will be mutually beneficial and enable us to avoid any unpleasant 
+confrontation. As a token of my goodwill, I present to you a gift: 
+these two droids.</sp>
+
+<sd><name type="ORG">Threepio</name> is startled by this announcement.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+What did he say?</sp>
+
+<sp><speaker>LUKE	 (cont)</speaker>
+... Both are hardworking and will serve you well.</sp>
+
+<sp><speaker>THREEPIO</speaker>
+This can't be! <name type="GPE">Artoo</name>, you're playing the wrong message.</sp>
+
+<sd>Luke's hologram disappears.</sd>
+
+<sd>Jabba laughs while Bib speaks to him in <name type="ORG">Hut</name>tese.</sd>
+
+<sp><speaker>JABBA	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
+There will be no bargain.</sp>
+
+<sp><speaker>THREEPIO</speaker>
+We're doomed.</sp>
+
+<sp><speaker>JABBA	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
+I will not give up my favorite decoration. I like Captain Solo where he 
+is.</sp>
+
+<sd>Jabba laughs hideously and looks toward an alcove beside the throne. 
+<name type="NORP">Han</name>ging high, flat against the wall, exactly as we saw him last, is a 
+carbonized HAN SOLO.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+<name type="GPE">Artoo</name>, look! Captain Solo. And he's still frozen in carbonite.</sp>
+
+<setting>9    INT DUNGEON CORRIDOR </setting>
+
+<sd>One of Jabba's Gamorrean guards marches <name type="GPE">Artoo</name> and <name type="ORG">Threepio</name> down a dank, 
+shadowy passageway lined with holding cells. The cries of unspeakable 
+creatures bounce off the cold stone walls. Occasionally a repulsive arm 
+or tentacle grabs through the bars at the hapless droids. <name type="GPE">Artoo</name> beeps 
+pitifully.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+What could possibly have come over Master Luke. Is it something I did? 
+He never expressed any unhappiness with my work. Oh! Oh! Hold it! Ohh!</sp>
+
+<sd>A large tentacle wraps around <name type="ORG">Threepio</name>'s neck. He manages to break 
+free, and they move on to a door at the end of the corridor.</sd>
+
+<setting>10   INT BOILER ROOM</setting>
+
+<sd>The door slides open, revealing a room filled with steam and noisy 
+machinery. The guard motions them into the boiler room, where they are 
+met by a tall, thin humanlike robot named EV-9D9. Behind the robot can 
+be seen a torture rack pulling the legs off a screaming baby work 
+droid. A second power droid is upside down.  As smoking branding irons 
+are pressed into his feet, the stubby robot lets out an agonized 
+electronic scream. <name type="GPE">Artoo</name> and <name type="ORG">Threepio</name> cringe as the guard grunts to EV-
+9D9.</sd>
+
+<sp><speaker>NINEDENINE</speaker>
+Ah, good. New acquisitions. You are a protocol droid, are you not?</sp>
+
+<sp><speaker>THREEPIO</speaker>
+I am See-<name type="ORG">Threepio</name>, human-cy...</sp>
+
+<sp><speaker>NINEDENINE</speaker>
+Yes or no will do.</sp>
+
+<sp><speaker>THREEPIO</speaker>
+Oh. Well, yes.</sp>
+
+<sp><speaker>NINEDENINE</speaker>
+How many languages do you speak?</sp>
+
+<sp><speaker>THREEPIO</speaker>
+I am fluent in over six million forms of communication, and can 
+readily...</sp>
+
+<sp><speaker>NINEDENINE</speaker>
+Splendid! We have been without an interpreter since our master got 
+angry with our last protocol droid and disintegrated him.</sp>
+
+<sp><speaker>THREEPIO</speaker>
+Disintegrated?</sp>
+
+<sp><speaker>NINEDENINE	 (to a Gamorrean guard)</speaker>
+Guard! This protocol droid might be useful. Fit him with a restraining 
+bolt and take him back to His Excellency's main audience chamber.</sp>
+
+<sd>The guard shoves <name type="ORG">Threepio</name> toward the door.</sd>
+
+<sp><speaker>THREEPIO	 (disappearing)</speaker>
+<name type="GPE">Artoo</name>, don't leave me! Ohhh!</sp>
+
+<sd><name type="GPE">Artoo</name> lets out a plaintive cry as the door closes. Then he beeps 
+angrily.</sd>
+
+<sp><speaker>NINEDENINE</speaker>
+You're a feisty little one, but you'll soon learn some respect. I have 
+need for you on the master's Sail Barge. And I think you'll fit in 
+nicely.</sp>
+
+<sd>The poor work droid in the background lets out another tortured 
+electronic scream.</sd>
+
+<setting>11   INT JABBA'S THRONE ROOM</setting>
+
+<sd>The court of Jabba the <name type="ORG">Hut</name>t is in the midst of a drunken, raucous 
+party. Sloppy, smelly monsters cheer and make rude noises as Oola and a 
+fat female dancer perform in front of Jabba's throne.</sd>
+
+<sd>Jabba leers at the dancers and with a lustful gleam in his eye beckons 
+Oola to come and sit with him. She stops dancing and backs away, 
+shaking her head. Jabba gets angry and points to a spot next to him.</sd>
+
+<sp><speaker>JABBA</speaker>
+Da Eitha!</sp>
+
+<sd>The lovely alien shakes her head again and screams.</sd>
+
+<sp><speaker>OOLA</speaker>
+Na Chuba negatorie Na! Na! <name type="ORG">Natoota</name>...</sp>
+
+<sd>Jabba is furious and pulls her toward him, tugging on the chain.</sd>
+
+<sp><speaker>JABBA</speaker>
+Boscka!</sp>
+
+<sd>He pushes a button and, before the dancer can flee, a trap door in the 
+floor springs open and swallows her up. As the door snaps shut, a 
+muffled growl is followed by a hideous scream. Jabba and his monstrous 
+friends laugh hysterically and several revelers hurry over to watch her 
+fate through a grate.</sd>
+
+<sd><name type="ORG">Threepio</name> cringes and glances wistfully at the carbonite form of <name type="NORP">Han</name> 
+Solo, but is immediately distracted by a gunshot offscreen.�An 
+unnatural quiet sweeps the boisterous gathering. On the far side of the 
+room, the crush of debauchers moves aside to allow the approach of two 
+guards followed by BOUSHH, an oddly cloaked bounty hunter, leading his 
+captive, <name type="NORP">Han</name> Solo's copilot, CHEWBACCA THE WOOKIEE.</sd>
+
+<sd>Bib takes his place next to his disgusting master, and whispers into 
+his ear, pointing at Chewbacca and the bounty hunter. Jabba listens 
+intently, then the bounty hunter bows before the gangster and speaks a 
+greeting in a strange, electronically processed tongue (Ubese).</sd>
+
+<sp><speaker>BOUSHH	 (in Ubese subtitled)</speaker>
+I have come for the bounty on this <name type="NORP">Wookiee</name>.</sp>
+
+<sp><speaker>THREEPIO</speaker>
+Oh, no! Chewbacca!</sp>
+
+<sp><speaker>JABBA	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
+At last we have the mighty Chewbacca.</sp>
+
+<sd>Jabba lets out a loud, long, blood-curdling laugh and turns to 
+<name type="ORG">Threepio</name>, waving him closer. The reluctant droid obeys.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Oh, uh, yes, uh, I am here, Your Worshipfulness. Uh... yes!</sp>
+
+<sd>Jabba continues speaking, as <name type="ORG">Threepio</name> nervously translates. Boushh 
+listens, studying the dangerous creatures around the room. He notices 
+BOBA FETT standing near the door.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Oh. The illustrious Jabba bids you welcome and will gladly pay you the 
+reward of twenty-five thousand.</sp>
+
+<sp><speaker>BOUSHH	 (in Ubese subtitled)</speaker>
+I want fifty thousand. No less.</sp>
+
+<sd>Jabba immediately flies into a rage, knocking the golden droid off the 
+raised throne into a clattering heap on the floor. Boushh adjusts his 
+weapon as Jabba raves in <name type="ORG">Hut</name>tese and <name type="ORG">Threepio</name> struggles back onto the 
+throne. The disheveled droid tries to compose himself.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Uh, oh... but what, what did I say?
+(to Boushh)
+Uh, the mighty Jabba asks why he must pay fifty thousand.</sp>
+
+<sd>The bounty hunter holds up a small silver ball in his hand. <name type="ORG">Threepio</name> 
+looks at it, then looks at Jabba, then back to the bounty hunter. The 
+droid is very nervous and Jabba is getting very impatient.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Because he's holding a thermal detonator.</sp>
+
+<sd>The guards instantly back away, as do most of the other monsters in the 
+room. Jabba stares at the silver ball, which begins to glow in the 
+bounty hunter's hand. The room has fallen into a tense hush. Jabba 
+stares at the bounty hunter malevolently until a sly grin creeps across 
+his vast mouth and he begins to laugh.</sd>
+
+<sp><speaker>JABBA	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
+This bounty hunter is my kind of scum. Fearless and inventive.</sp>
+
+<sd>Jabba continues.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Jabba offers the sum of thirty-five. And I suggest you take it.</sp>
+
+<sd>Bib and the other monsters study the bounty hunter and wait for his 
+reaction. Boushh releases a switch on the thermal detonator and it goes 
+dead.</sd>
+
+<sp><speaker>BOUSHH</speaker>
+Zeebuss.</sp>
+
+<sp><speaker>THREEPIO</speaker>
+He agrees!</sp>
+
+<sd>The raucous crowd of monsters erupts in a symphony of cheers and 
+applause as the party returns to its full noisy pitch. Chewbacca 
+growls. As he is led away we spot LANDO CALRISSIAN, disguised as a 
+skiff guard in a partial face mask. The band starts up and dancing 
+girls take the center of the floor, to the hoots of the loudly 
+appreciative creatures.</sd>
+
+<sd>Boushh leans against a column with gunfighter cool and surveys the 
+scene, his gaze stopping only when it connects with a glare from across 
+the room. Boba Fett is watching him. Boushh shifts slightly, cradling 
+his weapon lovingly. Boba Fett shifts with equally ominous arrogance.</sd>
+
+<setting>12   INT DUNGEON CORRIDOR AND CELL</setting>
+
+<sd>Gamorrean guards lead Chewie down the same hallway we saw before. When 
+a tentacle reaches out at the <name type="NORP">Wookiee</name>, Chewie's ferocious ROAR echoes 
+against the walls and the tentacle snaps back into its cell in terror. 
+It takes all the guards to hurl Chewie roughly into a cell, slamming 
+the door behind him. Chewie lets out a pathetic howl and bangs on the 
+iron door.</sd>
+
+<setting>13   EXT JABBA'S PALACE</setting>
+
+<sd>The palace is sitting in the light of the double sunset. On the road in 
+front, a large toadlike creature flicks its tongue out for a desert 
+rodent and burps in satisfaction.</sd>
+
+<setting>14   INT JABBA'S THRONE ROOM - NIGHT</setting>
+
+<sd>Silence. The room is deserted, only the awful debris of the alien 
+celebration giving mute witness to the activity here before. Several 
+drunk creatures lie unconscious around the room, snoring loudly.</sd>
+
+<sd>A shadowy figure moves stealthily among the columns at the perimeter of 
+the room and is revealed to be Boushh, the bounty hunter. He picks his 
+way carefully through the snoring, drunken monsters.</sd>
+
+<sd><name type="NORP">Han</name> Solo, the frozen space pirate, hangs spotlighted on the wall, his 
+coffin-like case suspended by a force field. The bounty hunter 
+deactivates the force field by flipping a control switch to one side of 
+the coffin. The heavy case slowly lowers to the floor of the alcove.</sd>
+
+<sd>Boushh steps up to the case, studying <name type="NORP">Han</name>, and then turns to the 
+controls on the side of the coffin. He activates a series of switches 
+and, after one last hesitant look at <name type="NORP">Han</name>, slides the de-carbonization 
+lever. The case begins to emit a sound as the hard shell covering the 
+contours of <name type="NORP">Han</name>'s face begins to melt away. The bounty hunter watches 
+as <name type="NORP">Han</name>'s body is freed of its metallic coat and his forearms and hands, 
+previously raised in reflexive protest, drop slackly to his side. His 
+face muscles relax from their mask of horror. He appears quite dead.</sd>
+
+<sd>Boushh's ugly helmet leans close to <name type="NORP">Han</name>'s face listening for the breath 
+of life. Nothing. He waits. <name type="NORP">Han</name>'s eyes pop open with a start and he 
+begins coughing. The bounty hunter steadies the staggering newborn.</sd>
+
+<sp><speaker>BOUSHH</speaker>
+Just relax for a moment. You're free of the carbonite.</sp>
+
+<sd><name type="NORP">Han</name> touches his face with his hand and moans.</sd>
+
+<sp><speaker>BOUSHH</speaker>
+Shhh. You have hibernation sickness.</sp>
+
+<sp><speaker>HAN</speaker>
+I can't see.</sp>
+
+<sp><speaker>BOUSHH</speaker>
+Your eyesight will return in time.</sp>
+
+<sp><speaker>HAN</speaker>
+Where am I?</sp>
+
+<sp><speaker>BOUSHH</speaker>
+Jabba's palace.</sp>
+
+<sp><speaker>HAN</speaker>
+Who are you?</sp>
+
+<sd>The bounty hunter reaches up and lifts the helmet from his head, 
+revealing the beautiful face of PRINCESS LEIA.</sd>
+
+<sp><speaker>LEIA</speaker>
+Someone who loves you.</sp>
+
+<sp><speaker>HAN</speaker>
+Leia!</sp>
+
+<sp><speaker>LEIA</speaker>
+I gotta get you out of here.</sp>
+
+<sd>As Leia helps her weakened lover to stand up, the relative quiet is 
+pierced by an obscene HUTTESE CACKLE from the other side of the alcove.</sd>
+
+<sp><speaker>HAN</speaker>
+What's that? I know that laugh.</sp>
+
+<sd>The curtain on the far side of the alcove opens, revealing Jabba the 
+<name type="ORG">Hut</name>t, surrounded by Bib and other aliens. He laughs again, and his 
+gross cronies join in a cacophony of alien glee.</sd>
+
+<sp><speaker>HAN</speaker>
+Hey, Jabba. Look, Jabba, I was just on my way to pay you back, but I 
+got a little sidetracked. It's not my fault.</sp>
+
+<sd>Jabba laughs.</sd>
+
+<sp><speaker>JABBA	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
+It's too late for that, Solo. You may have been a good smuggler, but 
+now you're Bantha fodder.</sp>
+
+<sp><speaker>HAN</speaker>
+Look...</sp>
+
+<sp><speaker>JABBA	 (cont <name type="ORG">Hut</name>tese subtitled)</speaker>
+Take him away!</sp>
+
+<sd>The guards grab <name type="NORP">Han</name> and start to lead him away.</sd>
+
+<sp><speaker>HAN</speaker>
+Jabba... I'll pay you triple! You're throwing away a fortune here. 
+Don't be a fool!</sp>
+
+<sd><name type="NORP">Han</name> is dragged off, as <name type="GPE">Lando</name> quickly moves forward and attempts to lead 
+Leia away.</sd>
+
+<sp><speaker>JABBA	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
+Bring her to me.</sp>
+
+<sd>Jabba chuckles as <name type="GPE">Lando</name> and a second guard drag the beautiful young 
+princess toward him. <name type="ORG">Threepio</name> peeks from behind a monster and quickly 
+turns away in disgust.</sd>
+
+<sp><speaker>LEIA</speaker>
+We have powerful friends. You're gonna regret this...</sp>
+
+<sp><speaker>JABBA	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
+I'm sure.</sp>
+
+<sd>Inexorably her lovely face moves to within a few inches of Jabba's ugly 
+blob of a head, and Leia turns away in disgust.</sd>
+
+<sp><speaker>LEIA</speaker>
+Ugh!</sp>
+
+<sp><speaker>THREEPIO</speaker>
+Ohhh, I can't bear to watch.</sp>
+
+<setting>15   INT DUNGEON CELL</setting>
+
+<sd>The heavy metal door of the dungeon whines and slowly creaks open. A 
+guard throws the blinded star captain into the dark cell and the door 
+slams shut behind him, leaving only a thin sliver of light from a crack 
+in the door. <name type="NORP">Han</name> is trying to collect himself when suddenly a growl is 
+heard from the far side of the cell. He jumps back against the cell 
+door and listens.</sd>
+
+<sp><speaker>HAN</speaker>
+Chewie? Chewie, is that you?</sp>
+
+<sd>The shadowy figure lets out a crazy yell and races toward <name type="NORP">Han</name>, lifting 
+him off the ground with a big hug that carries them into the light, 
+revealing Chewie.</sd>
+
+<sp><speaker>HAN</speaker>
+Ah! Chew--Chewie!</sp>
+
+<sd>The giant <name type="NORP">Wookiee</name> barks with glee.</sd>
+
+<sp><speaker>HAN</speaker>
+Wait. I can't see, pal. What's goin' on?</sp>
+
+<sd>Chewie barks an excited blue streak.</sd>
+
+<sp><speaker>HAN</speaker>
+Luke? Luke's crazy. He can't even take care of himself, much less 
+rescue anybody.</sp>
+
+<sd>Chewie barks a reply.</sd>
+
+<sp><speaker>HAN</speaker>
+A...<name type="ORG">Jedi</name> Knight? I--I'm out of it for a little while, everybody gets 
+delusions of grandeur.</sp>
+
+<sd>Chewie growls insistently. He holds <name type="NORP">Han</name> to his chest and pets his head.</sd>
+
+<sp><speaker>HAN</speaker>
+I'm all right, pal. I'm all right.</sp>
+
+<setting>16   INT MAIN GATE AND HALL - JABBA'S PALACE</setting>
+
+<sd>Noisily, the main gate lifts to flood the blackness with blinding LIGHT 
+and reveal the silhouetted figure of LUKE SKYWALKER. He is clad in a 
+robe similar to Ben's and wears neither pistol nor laser sword. Luke 
+strides purposefully into the hallway. Two giant guards move to block 
+Luke's path. Luke halts.</sd>
+
+<sd>Luke raises his hand and points at the puzzled guards, who immediately 
+lower their spears and fall back. The young <name type="ORG">Jedi</name> lowers his hand and 
+moves on down the hallway.</sd>
+
+<sd>Bib Fortuna appears out of the gloom. He speaks to Luke as they 
+approach each other, but Luke doesn't stop and Bib must reverse his 
+direction and hurry alongside the young <name type="ORG">Jedi</name> in order to carry on the 
+conversation. Several other guards fall in behind them in the darkness.</sd>
+
+<sp><speaker>LUKE</speaker>
+I must speak with Jabba.</sp>
+
+<sd>Bib answers in <name type="ORG">Hut</name>tese, shaking his head in denial. Luke stops and 
+stares at Bib; he raises his hand slightly.</sd>
+
+<sp><speaker>LUKE</speaker>
+You will take me to Jabba now!</sp>
+
+<sd>Bib turns in hypnotic response to Luke's command, and Luke follows him 
+into the gloom.</sd>
+
+<sp><speaker>LUKE</speaker>
+You serve your master well.</sp>
+
+<sd>Bib responds.</sd>
+
+<sp><speaker>LUKE</speaker>
+And you will be rewarded.</sp>
+
+<setting>17   INT JABBA'S THRONE ROOM</setting>
+
+<sd>Jabba is asleep on his throne, with Leia lying in front of him. 
+Salacious sits by Jabba's tail, watching it wriggle. Leia is now 
+dressed in the skimpy costume of a dancing girl; a chain runs from a 
+manacle/necklace at her throat to her new master, Jabba the <name type="ORG">Hut</name>t. 
+<name type="ORG">Threepio</name> stands behind Jabba as Bib comes up to the gangster slug.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+At last! Master Luke's come to rescue me.</sp>
+
+<sp><speaker>BIB</speaker>
+Master.</sp>
+
+<sd>Jabba awakens with a start and Bib continues, in <name type="ORG">Hut</name>tese.</sd>
+
+<sp><speaker>BIB</speaker>
+...Luke Skywalker, <name type="ORG">Jedi</name> Knight.</sp>
+
+<sp><speaker>JABBA	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
+I told you not to admit him.</sp>
+
+<sp><speaker>LUKE</speaker>
+I must be allowed to speak.</sp>
+
+<sp><speaker>BIB	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
+He must be allowed to speak.</sp>
+
+<sd>Jabba, furious, clobbers Bib and shoves him away.</sd>
+
+<sp><speaker>JABBA	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
+You weak-minded fool! He's using an old <name type="ORG">Jedi</name> mind trick.</sp>
+
+<sd>Luke stares hard at Jabba.</sd>
+
+<sp><speaker>LUKE</speaker>
+You will bring Captain Solo and the <name type="NORP">Wookiee</name> to me.</sp>
+
+<sp><speaker>JABBA	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
+Your mind powers will not work on me, boy.</sp>
+
+<sp><speaker>LUKE</speaker>
+Nevertheless, I'm taking Captain Solo and his friends. You can either 
+profit by this... or be destroyed! It's your choice. But I warn you not 
+to underestimate my powers.</sp>
+
+<sd>Jabba's laugh is mean and loud. <name type="ORG">Threepio</name> attempts to warn Luke about 
+the pit.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Master Luke, you're standing on...</sp>
+
+<sp><speaker>JABBA	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
+There will be no bargain, young <name type="ORG">Jedi</name>. I shall enjoy watching you die.</sp>
+
+<sd>Luke reaches out, and a pistol jumps out of a guard's holster and flies 
+into Luke's hand. The bewildered guard grabs for it as Jabba raises his 
+hand.</sd>
+
+<sp><speaker>JABBA</speaker>
+Bascka!</sp>
+
+<sd>The floor suddenly drops away, sending Luke and the hapless guard into 
+the pit. The pistol goes off, blasting a hole in the ceiling. Jabba 
+laughs and his courtiers join in. Leia starts forward but is restrained 
+by a human guard-- <name type="GPE">Lando</name>, recognizable behind his mask. She looks at 
+him and he shakes his head "no."</sd>
+
+<setting>18   INT RANCOR PIT</setting>
+
+<sd>Luke and the guard have dropped twenty-five feet from a chute into the 
+dungeonlike cage. Luke gets to his feet as the guard yells hysterically 
+for help. A crowd gathers up around the edge of the pit as the door in 
+the side of the pit starts to RUMBLE open. The guard screams in panic. 
+Luke looks calmly around for a means of escape.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Oh, no! The Rancor!</sp>
+
+<sd>At the side of the pit, an iron door rumbles upward and a giant, fanged 
+RANCOR emerges. The guard runs to the side of the pit and tries 
+futilely to scramble to the top. The hideous beast closes in on him.</sd>
+
+<sd>The Rancor moves past Luke, and as the guard continues to scramble, the 
+Rancor picks him up and pops him into its slavering jaws. A few 
+screams, and the guard is swallowed with a gulp. The audience cheers 
+and laughs at the guard's fate.</sd>
+
+<sd>The monster turns and starts for Luke. The young <name type="ORG">Jedi</name> dashes away just 
+ahead of the monster's swipe at him, and picks up the long arm bone of 
+an earlier victim. The monster grabs Luke and brings him up to his 
+salivating mouth. At the last moment, Luke wedges the bone in the 
+monster's mouth and is dropped to the floor. The monster bellows in 
+rage and flails about, hitting the side of the pit, causing an 
+avalanche.</sd>
+
+<sd>The monster crushes the bone in its jaws and sees Luke, who squeezes 
+into a crevice in the pit wall. Luke looks past the monster to the 
+holding cave beyond. On the far side of the holding cave is a utility 
+door--if only he can get to it. The Rancor spots Luke and reaches into 
+the crevice for him. Luke grabs a large rock and raises it, smashing it 
+down on the Rancor's finger.</sd>
+
+19   HOLDING TUNNEL - RANCOR PIT
+
+<sd>The Rancor lets out a loud howl as Luke makes a run for the holding 
+cave. He reaches the door and pushes a button to open it. When he 
+succeeds, he sees a heavy barred gate between him and safety. Beyond 
+the gate two guards look up from their dinner. Luke turns to see the 
+monster heading for him, and pulls with all his might on the gate. The 
+guards move to the gate and start poking at the young <name type="ORG">Jedi</name> with spears, 
+laughing.</sd>
+
+<sd>Luke crouches (against the wall) as the monster starts to reach for 
+him. Suddenly he notices a main door control panel halfway up the wall. 
+As the Rancor moves in for the kill, Luke picks up a skull from the 
+cave floor and hurls it at the panel. The giant overhead door comes 
+crashing down on the beast's head, squashing it like a sledgehammer on 
+an egg.</sd>
+
+<sd>A startled gasp is heard from the stunned court. There's consternation 
+at this turn of events. Heads look to Jabba, who is actually turning 
+red with anger. Leia cannot suppress her joy. Jabba utters harsh 
+commands to his guards and they hurry off.</sd>
+
+<sp><speaker>JABBA	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
+Bring me Solo and the <name type="NORP">Wookiee</name>. They will all suffer for this outrage.</sp>
+
+<setting>21   INT RANCOR PIT</setting>
+
+<sd>The Rancor KEEPERS have come into the cage and are examining their dead 
+beast. One of them breaks down and weeps. The other glares menacingly 
+at Luke, who is unworried. Several guards rush into the holding tunnel 
+and take Luke away.</sd>
+
+<setting>22   INT THRONE ROOM</setting>
+
+<sd>The crowd of creepy courtiers parts as <name type="NORP">Han</name> and Chewie are brought into 
+the throne room, and other guards drag Luke up the steps.</sd>
+
+<sp><speaker>LUKE</speaker>
+<name type="NORP">Han</name>!</sp>
+
+<sp><speaker>HAN</speaker>
+Luke!</sp>
+
+<sp><speaker>LUKE</speaker>
+Are you all right?</sp>
+
+<sp><speaker>HAN</speaker>
+Fine. Together again, huh?</sp>
+
+<sp><speaker>LUKE</speaker>
+Wouldn't miss it.</sp>
+
+<sp><speaker>HAN</speaker>
+How are we doing?</sp>
+
+<sp><speaker>LUKE</speaker>
+The same as always.</sp>
+
+<sp><speaker>HAN</speaker>
+That bad, huh? Where's Leia?</sp>
+
+<sd>Luke looks to Leia.</sd>
+
+<sp><speaker>LEIA</speaker>
+I'm here.</sp>
+
+<sd><name type="ORG">Threepio</name> is standing behind the grotesque gangster as he strokes Leia 
+like a pet cat. Several of the guards, including <name type="GPE">Lando</name>, bring Luke from 
+the other side of the room. Boba is standing behind Jabba.</sd>
+
+<sd><name type="ORG">Threepio</name> steps forward and translates for the captives.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Oh, dear. His High Exaltedness, the great Jabba the <name type="ORG">Hut</name>t, has decreed 
+that you are to be terminated immediately.</sp>
+
+<sp><speaker>HAN</speaker>
+Good, I hate long waits.</sp>
+
+<sp><speaker>THREEPIO</speaker>
+You will therefore be taken to <name type="LOC">the Dune Sea</name> and cast into the pit of 
+<name type="LOC">Carkoon</name>, the nesting place of the all-powerful Sarlacc.</sp>
+
+<sp><speaker>HAN	 (to Luke)</speaker>
+Doesn't sound so bad.</sp>
+
+<sp><speaker>THREEPIO</speaker>
+In his belly, you will find a new definition of pain and suffering, as 
+you are slowly digested over a thousand years.</sp>
+
+<sp><speaker>HAN</speaker>
+On second thought, let's pass on that, huh?</sp>
+
+<sd>Chewie barks his agreement.</sd>
+
+<sp><speaker>LUKE</speaker>
+You should have bargained, Jabba. That's the last mistake you'll ever 
+make.</sp>
+
+<sd>Jabba cackles evilly at this.</sd>
+
+<sd>As the guards drag the prisoners from the throne room, a loud cheer 
+rises from the crowd. Leia and Chewie exchange concerned looks, but 
+Luke Skywalker, <name type="ORG">Jedi</name> warrior, cannot suppress a smile.</sd>
+
+<setting>23   EXT TATOOINE SEA - SKIFF</setting>
+
+<sd>Jabba's huge SAIL BARGE moves above the desert surface accompanied by 
+two smaller Skiffs. One of the skiffs glides close, revealing Luke, 
+<name type="NORP">Han</name>, and Chewie -- all in bonds -- surrounded by guards, one of whom is 
+<name type="GPE">Lando</name> in disguise.</sd>
+
+<sp><speaker>HAN</speaker>
+I think my eyes are getting better. Instead of a big dark blur, I see a 
+big light blur.</sp>
+
+<sp><speaker>LUKE</speaker>
+There's nothing to see. I used to live here, you know.</sp>
+
+<sp><speaker>HAN</speaker>
+You're gonna die here, you know. Convenient.</sp>
+
+<sp><speaker>LUKE</speaker>
+Just stick close to Chewie and <name type="GPE">Lando</name>. I've taken care of everything.</sp>
+
+<sp><speaker>HAN</speaker>
+Oh... great!</sp>
+
+<setting>24   INT BARGE OBSERVATION DECK</setting>
+
+<sd>Jabba the <name type="ORG">Hut</name>t rides like a sultan in the massive antigravity ship. His 
+entire retinue is with him, drinking, eating, and having a good time. 
+Leia is watching her friends in the skiff when the chain attached to 
+her neck is pulled tight and Jabba tugs the scantily clad princess to 
+him.</sd>
+
+<sp><speaker>JABBA	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
+Soon you will learn to appreciate me.</sp>
+
+<sd><name type="ORG">Threepio</name> wanders among the Sail Barge aliens, bumping into a smaller 
+droid serving drinks, spilling them all over the place. The stubby 
+droid lets out an angry series of beeps and whistles.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Oh, I'm terribly sor... <name type="GPE">Artoo</name>! What are you doing here?</sp>
+
+<sd><name type="GPE">Artoo</name> beeps a quick reply.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Well, I can see you're serving drinks, but this place is dangerous. 
+They're going to execute Master Luke and, if we're not careful, us too!</sp>
+
+<sd><name type="GPE">Artoo</name> whistles a singsong response.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Hmm.  I wish I had your confidence.</sp>
+
+<setting>25   EXT SARLACC PIT </setting>
+
+<sd>The convoy moves up over a huge sand pit. The Sail Barge stops to one 
+side of the depression, as does the escort skiff. But the prisoner's 
+skiff moves out directly over the center and hovers. At the bottom of 
+the deep cone of sand is a repulsive, mucous-lined hole, surrounded by 
+thousands of needle-sharp teeth. This is the SARLACC. A plank is 
+extended from the edge of the prisoner's skiff. Guards release Luke's 
+bonds and shove him out onto the plank above the Sarlacc's mouth.</sd>
+
+<setting>26   EXT SAIL BARGE OBSERVATION DECK</setting>
+
+<sd>Jabba and Leia are now by the rail, watching. <name type="ORG">Threepio</name> leans forward 
+and the slobbering villain mumbles something to him. As <name type="ORG">Threepio</name> steps 
+up to a comlink, Jabba raises his arm and the motley array of 
+intergalactic pirates fall silent. <name type="ORG">Threepio</name>'s voice is amplified across 
+loudspeakers.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Victims of the almighty Sarlacc: His Excellency hopes that you will die 
+honorably. But should any of you wish to beg for mercy, the great Jabba 
+the <name type="ORG">Hut</name>t will now listen to your pleas.</sp>
+
+<setting>27   EXT SKIFF</setting>
+
+<sd><name type="NORP">Han</name> steps forward arrogantly and begins to speak.</sd>
+
+<sp><speaker>HAN</speaker>
+<name type="ORG">Threepio</name>, you tell that slimy piece of... worm-ridden filth he'll get 
+no such pleasure from us. Right?</sp>
+
+<sd>Chewie growls his agreement.</sd>
+
+<sp><speaker>LUKE</speaker>
+Jabba! This is your last chance. Free us or die.</sp>
+
+<sd><name type="GPE">Lando</name> moves unobtrusively along the skiff as Luke shoots a quick look 
+of conspiracy to him.</sd>
+
+<setting>28   INT SAIL BARGE OBSERVATION DECK</setting>
+
+<sd>The assembled monsters rock with mocking laughter as <name type="GPE">Artoo</name> zips 
+unnoticed up the ramp to the upper deck. Jabba's laughter subsides as 
+he speaks into the comlink.</sd>
+
+<sp><speaker>JABBA	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
+Move him into position.</sp>
+
+<sd>Jabba makes a thumbs-down gesture. Leia looks worried.</sd>
+
+<setting>29   EXT BARGE - UPPER DECK</setting>
+
+<sd><name type="GPE">Artoo</name> appears from below and zips over to the rail facing the pit. 
+Below, in the skiff, Luke is prodded by a guard to the edge of the 
+plank over the gaping Sarlacc. Luke looks up at <name type="GPE">Artoo</name>, then gives a 
+jaunty salute: the signal the little droid has been waiting for. A flap 
+opens in <name type="GPE">Artoo</name>'s domed head.</sd>
+
+<sp><speaker>JABBA	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
+Put him in.</sp>
+
+<setting>30   EXT SKIFF - PLANK</setting>
+
+<sd>Luke is prodded and jumps off the plank to the cheers of the 
+bloodthirsty spectators. But, before anyone can even perceive what is 
+happening, he spins around and grabs the end of the plank by his 
+fingertips. The plank bends wildly from his weight and catapults him 
+skyward. In midair he does a complete flip and drops down on the end of 
+the plank in the same spot he just vacated, but facing the skiff. He 
+casually extends an open palm and -- his lightsaber, which <name type="GPE">Artoo</name> has 
+sent arcing toward him, drops into his hand.</sd>
+
+<sd>With samurai speed, Luke ignites it and attacks the guard who prodded 
+him off the plank, sending the hapless monster screaming overboard. The 
+other guards swarm toward Luke. He wades into them, lightsaber 
+flashing. <name type="GPE">Lando</name> struggles with another guard at the back of the skiff.</sd>
+
+<setting>31   EXT SARLACC PIT</setting>
+
+<sd>A bewildered guard lands in the soft, sandy slope of the pit, and 
+begins sliding. He claws desperately as a Sarlacc tentacle grabs him 
+and pulls him screaming into the viscous mouth.</sd>
+
+<setting>32   INT SAIL BARGE</setting>
+
+<sd>Jabba watches this and explodes in rage. He barks commands, and the 
+guards around him rush off to do his bidding. The scuzzy creatures 
+watching the action from the window are in an uproar.</sd>
+
+<setting>33   EXT SKIFF </setting>
+
+<sd>Luke knocks another guard off the skiff and into the waiting mouth of 
+the Sarlacc. He starts to untie Chewie's bonds.</sd>
+
+<sp><speaker>LUKE</speaker>
+Easy, Chewie.</sp>
+
+<sd>At that moment, the deck gunmen on the barge unleash a series of blasts 
+from a big cannon on the upper deck. <name type="GPE">Lando</name> is tossed from the deck of 
+the rocking skiff. He manages to grab a rope, and dangles desperately 
+above the Sarlacc pit.</sd>
+
+<sp><speaker>LANDO</speaker>
+Whoa! Whoa! Help!</sp>
+
+<setting>34   EXT UPPER DECK - SAIL BARGE</setting>
+
+<sd>With two swift strides, the dangerous Boba Fett ignites his rocket 
+pack, leaps into the air, and flies from the barge down to the skiff.</sd>
+
+<setting>35   EXT SKIFF</setting>
+
+<sd>Boba lands on the skiff and starts to aim his laser gun at Luke, who 
+has freed <name type="NORP">Han</name> and Chewie from their bonds. But before Boba can fire, 
+the young <name type="ORG">Jedi</name> spins on him, lightsaber sweeping, and hacks the bounty 
+hunter's gun in half.</sd>
+
+<sd>Immediately, the skiff takes another direct hit from the barge's deck 
+gun. Shards of skiff deck fly. Chewie and <name type="NORP">Han</name> are thrown against the 
+rail.</sd>
+
+<sp><speaker>HAN</speaker>
+Chewie, you okay? Where is he?</sp>
+
+<sd>The <name type="NORP">Wookiee</name> is wounded and he howls in pain.</sd>
+
+<sp><speaker>HAN</speaker>
+I'm okay, pal.</sp>
+
+<sd>For a moment, Luke is distracted, and in that moment, Boba fires a 
+cable out of his armored sleeve. Instantly, Luke is wrapped in a strong 
+cable, his arms pinned against his side, his sword arm free only from 
+the wrist down.  Luke bends his wrist so the lightsaber points straight 
+up to reach the wire lasso and cuts through. Luke shrugs away the cable 
+and stands free.</sd>
+
+<sd>Another blast from the Barge's deck gun hits near Boba and he is 
+knocked unconscious to the deck, next to where <name type="GPE">Lando</name> is hanging.</sd>
+
+<sp><speaker>LANDO</speaker>
+<name type="NORP">Han</name>! Chewie?</sp>
+
+<sp><speaker>HAN</speaker>
+<name type="GPE">Lando</name>!</sp>
+
+<sd>Luke is a little shaken but remains standing as a fusillade brackets 
+him. The second skiff, loaded with guards firing their weapons, moves 
+in on Luke fast. Luke leaps toward the incoming second skiff. The young 
+<name type="ORG">Jedi</name> leaps into the middle of the second skiff and begins decimating 
+the guards from their midst.</sd>
+
+<sd>Chewie, wounded, tries to lift himself as he barks directions to <name type="NORP">Han</name>, 
+guiding him toward a spear which has been dropped by one of the guards. 
+<name type="NORP">Han</name> searches the deck as Chewie barks directions; finally he grabs hold 
+of the spear.</sd>
+
+<sd>Boba Fett, badly shaken, rises from the deck. He looks over at the 
+other skiff, where Luke is whipping a mass of guards. Boba raises his 
+arm, and aims his lethal appendage.</sd>
+
+<sd>Chewie barks desperately at <name type="NORP">Han</name>.</sd>
+
+<sp><speaker>HAN</speaker>
+Boba Fett?! Boba Fett?! Where?</sp>
+
+<sd>The space pirate turns around blindly, and the long spear in his hand 
+whacks squarely in the middle of Boba's rocket pack.</sd>
+
+<sd>The impact of the swing causes the rocket pack to ignite. Boba blasts 
+off, flying over the second skiff like a missile, smashing against the 
+side of the huge Sail Barge and sliding away into the pit. He screams 
+as his armored body makes its last flight past <name type="GPE">Lando</name> and directly into 
+the mucous mouth of the Sarlacc. The Sarlacc burps. Chewie growls a 
+weak congratulations to <name type="NORP">Han</name>.</sd>
+
+<setting>36   INT SAIL BARGE</setting>
+
+<sd>Leia turns from the spectacle outside, leaps onto Jabba's throne, and 
+throws the chain that enslaves her over his head around his bulbous 
+neck. Then she dives off the other side of the throne, pulling the 
+chain violently in her grasp. Jabba's flaccid neck contracts beneath 
+the tightening chain. His huge eyes bulge from their sockets and his 
+scum-coated tongue flops out. The Exalted <name type="ORG">Hut</name>t's huge tail spasms 
+through its death throes and then slams down into final stillness. Leia 
+struggles to free herself of her bondage.</sd>
+
+<setting>37   EXT SKIFF</setting>
+
+<sd>Luke continues to destroy the aliens on the guards' skiff, as <name type="NORP">Han</name> 
+extends his spear downward to <name type="GPE">Lando</name>, who is still dangling precariously 
+from a rope on the prisoner's skiff.</sd>
+
+<sp><speaker>HAN</speaker>
+<name type="GPE">Lando</name>, grab it!</sp>
+
+<sp><speaker>LANDO</speaker>
+Lower it!</sp>
+
+<sp><speaker>HAN</speaker>
+I'm trying!</sp>
+
+<sd>A major hit from the barge deck gun knocks the skiff on its side. <name type="NORP">Han</name> 
+and almost everything else on board slides overboard. The rope breaks, 
+and <name type="GPE">Lando</name> falls to the side of the Sarlacc pit. Luckily, <name type="NORP">Han</name>'s foot 
+catches on the skiff railing and he dangles above <name type="GPE">Lando</name> and the pit. 
+The wounded <name type="NORP">Wookiee</name> holds onto the skiff for dear life as another hit 
+from the deck gun rocks the skiff violently.</sd>
+
+<sp><speaker>HAN</speaker>
+Whoa! Whoa! Grab me, Chewie! I'm slipping.</sp>
+
+<sd>Chewie grabs hold of <name type="NORP">Han</name>'s feet, holding him upside down, as <name type="NORP">Han</name> 
+extends the spear toward <name type="GPE">Lando</name>, who is clutching to the side of the 
+pit.</sd>
+
+<sp><speaker>HAN</speaker>
+Grab it! L--<name type="GPE">Lando</name>. Grab!</sp>
+
+<sd>Luke finishes off the last guard on the second skiff. He sees the deck 
+gun blasting away at his helpless companions. Luke leaps from the 
+skiff, across a chasm of air, to the sheer metallic side of the Sail 
+Barge. Barely able to get a fingerhold, he begins a painful climb up 
+the hull, when suddenly an ax smashes through a window an inch from his 
+head. With <name type="ORG">Jedi</name> agility, Luke grasps the wrist holding the ax and yanks 
+the helpless guard through the broken window and into the deadly pit.</sd>
+
+<sd>The injured Chewie is reaching over the rail for the dangling <name type="NORP">Han</name>, who 
+is in turn blindly reaching down toward the desperate <name type="GPE">Lando</name>. The Baron 
+has stopped his slippage down the sandy slope of the Sarlacc pit by 
+lying very still. Every time he tries to reach for <name type="NORP">Han</name>, the loose sand 
+moves him closer to his final reward.</sd>
+
+<sp><speaker>HAN</speaker>
+Grab it! Almost... You almost got it!</sp>
+
+<sd>Another blast hits the front of the tilted skiff, causing <name type="GPE">Lando</name> to let 
+go of the spear.</sd>
+
+<sp><speaker>LANDO</speaker>
+Hold it! Whoa!</sp>
+
+<sd>Again <name type="NORP">Han</name> extends the spear toward <name type="GPE">Lando</name>.</sd>
+
+<sp><speaker>HAN</speaker>
+Gently now. All... all right. Now easy, easy. Hold me, Chewie.</sp>
+
+<sd><name type="GPE">Lando</name> screams. One of the Sarlacc's tentacles has wrapped tightly 
+around his ankle, dragging him down the side of the pit.</sd>
+
+<sp><speaker>HAN</speaker>
+Chewie! Chewie, give me the gun. Don't move, <name type="GPE">Lando</name>.</sp>
+
+<sp><speaker>LANDO</speaker>
+No, wait! I thought you were blind!</sp>
+
+<sp><speaker>HAN</speaker>
+It's all right. Trust me. Don't move.</sp>
+
+<sp><speaker>LANDO</speaker>
+All right! A little higher! Just a little higher!</sp>
+
+<sd><name type="NORP">Han</name> adjusts his aim as <name type="GPE">Lando</name> lowers his head, and the fuzzy-eyed pirate 
+fires at the tentacle. Direct hit. The tentacle releases <name type="GPE">Lando</name>, and 
+Chewie starts to pull them on board the skiff.</sd>
+
+<sp><speaker>HAN</speaker>
+Chewie, Pull us up! Come on! Okay... up, Chewie, up!</sp>
+
+<setting>38   EXT UPPER DECK</setting>
+
+<sd>The deck gunners have Chewie and the desperate dangling human chain in 
+their gun sights when something up on deck commands their attention: 
+Luke, standing before them like a pirate king, ignites his lightsaber. 
+The deck gunners have barely reached for their pistols before the young 
+<name type="ORG">Jedi</name> has demolished them. Immediately, Luke turns to see two more 
+gunners (who have been uncovering a giant gun at the end of the barge) 
+racing for him, firing their laser pistols.</sd>
+
+<setting>39   INT SAIL BARGE - OBSERVATION DECK</setting>
+
+<sd>Leia is struggling against her chains in desperation as <name type="GPE">Artoo</name> zips 
+through the tumult of confused monsters to the rescue; the stubby 
+little droid extends a small laser gun and blasts the chain apart.</sd>
+
+<sp><speaker>LEIA</speaker>
+Come on. We gotta get out of here quick.</sp>
+
+<sd><name type="GPE">Artoo</name> and Leia race for the exit, passing <name type="ORG">Threepio</name>, who is kicking and 
+screaming as Salacious Crumb, the reptilian monkey- monster picks out 
+one of the golden droid's eyes.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Not my eyes! <name type="GPE">Artoo</name>, help! Quickly, <name type="GPE">Artoo</name>. Oh! Ohhh! You beast!</sp>
+
+<sd><name type="GPE">Artoo</name> zips over and zaps Salacious, sending him skyward with a scream, 
+crashing into the rafters as <name type="GPE">Artoo</name>, Leia, and <name type="ORG">Threepio</name> (with his eye 
+dangling from a wire) hurry off.</sd>
+
+<setting>40   EXT UPPER DECK - SAIL BARGE</setting>
+
+<sd>Luke is warding off laser blasts with his lightsaber, surrounded by 
+guards and fighting like a demon. Leia emerges onto the deck as Luke 
+turns to face another guard.</sd>
+
+<sp><speaker>LUKE	 (to Leia)</speaker>
+Get the gun! Point it at the deck!</sp>
+
+<sd>Leia turns toward the barge cannon, climbs on the platform, and swivels 
+the gun around.</sd>
+
+<sp><speaker>LUKE</speaker>
+Point it at the deck!</sp>
+
+<sd>A laser blast hits Luke's mechanical hand and he bends over in pain, 
+but manages to swing his lightsaber upward and take out the last of the 
+guards. He looks at the wounded hand, which reveals the mechanism. He 
+flexes the hand; it still works.</sd>
+
+<sd>Near the rail of the upper deck, <name type="GPE">Artoo</name> and <name type="ORG">Threepio</name> steady themselves 
+as <name type="ORG">Threepio</name> gets ready to jump. <name type="GPE">Artoo</name> beeps wildly.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+<name type="GPE">Artoo</name>, where are we going? I couldn't possibly jump.</sp>
+
+<sd><name type="GPE">Artoo</name> butts the golden droid over the edge and steps off himself, 
+tumbling toward the sand.</sd>
+
+<sd>Luke runs along the empty deck toward Leia and the barge gun, which she 
+has brought around to point down at the deck.</sd>
+
+<sp><speaker>LUKE</speaker>
+Come on!</sp>
+
+<sd>Luke has hold on one of the rigging ropes from the mast. He gathers 
+Leia in his other arm and kicks the trigger of the deck gun. The gun 
+explodes into the deck as Luke and Leia swing out toward the skiff.</sd>
+
+<setting>41   EXT SKIFF  </setting>
+
+<sd><name type="NORP">Han</name> leans panting against the rail as Chewie helps <name type="GPE">Lando</name> onto the deck. 
+Luke and Leia land on the skiff with flair.</sd>
+
+<sp><speaker>LUKE</speaker>
+Let's go! And don't forget the droids.</sp>
+
+<sp><speaker>LANDO</speaker>
+We're on our way.</sp>
+
+<sd>The Sail Barge is exploding in stages in the distance. Half of the huge 
+craft is on fire.</sd>
+
+<setting>42   EXT SAND DUNE</setting>
+
+<sd><name type="ORG">Threepio</name>'s legs stick straight up from the dune where he landed. Next 
+to it, <name type="GPE">Artoo</name>'s periscope is the only thing above the sand. The skiff 
+floats above them and two large electromagnets dangle down on a wire. 
+With a loud CLANG, both droids are pulled 
+from the sand.</sd>
+
+<setting>43   EXT DUNE SEA</setting>
+
+<sd>The little skiff skips around the burning Sail Barge, which continues 
+its chain of explosions. As the skiff sails off across the desert, the 
+barge settles to the sand and disappears in one final conflagration.</sd>
+
+<setting>44   EXT DUNE SEA - LANDING AREA</setting>
+
+<sd>A ferocious sandstorm blocks our view. Then, through the ROAR, we HEAR 
+THE VOICES of our heroes. They emerge slowly from the veil of sand, 
+pressing on against the wind. First come <name type="GPE">Artoo</name> and <name type="ORG">Threepio</name>, followed 
+by Leia guiding <name type="NORP">Han</name>, then Luke and <name type="GPE">Lando</name> come into view, each 
+supporting one side of the towering Chewbacca, who hobbles from his 
+wound.</sd>
+
+<sd>Soon, they can make out some large vague shapes in the blowing sand. It 
+is the Millennium <name type="ORG">Falcon</name> and, parked beside it, Luke's trusty X-wing 
+and a two-seated Y-wing. They must shout to be heard.</sd>
+
+<sp><speaker>HAN</speaker>
+I don't know. All I can see is a lot of blowing sand!</sp>
+
+<sp><speaker>LEIA</speaker>
+That's all any of us can see.</sp>
+
+<sp><speaker>HAN	 (blinking)</speaker>
+Then I guess I'm getting better.</sp>
+
+<sd>As soon as the group huddles under the bulk of the <name type="ORG">Falcon</name>, the wind 
+dies down to something more describable as a severe weather condition. 
+<name type="ORG">Threepio</name> hits a switch, and the gang-plank lowers with a HUM.</sd>
+
+<sp><speaker>HAN 	(turning to Luke)</speaker>
+I've got to hand it to you, kid, you were pretty good out there.</sp>
+
+<sp><speaker>LUKE	 (shrugging it off)</speaker>
+I had a lot of help. Think nothing of it.</sp>
+
+<sp><speaker>HAN</speaker>
+No, I'm thinking a lot about it. That carbon freeze was the closest 
+thing to dead there is. And it wasn't just sleepin'. It was a big wide 
+awake nothing!</sp>
+
+<sd>Luke nods, as Chewie growls affectionately at the young <name type="ORG">Jedi</name> warrior, 
+mussing his hair like a proud uncle. And Leia warmly hugs him.</sd>
+
+<sp><speaker>LUKE 	(moving to his ship)</speaker>
+I'll see you back at the fleet.</sp>
+
+<sp><speaker>HAN</speaker>
+Why don't you leave that crate and come with us?</sp>
+
+<sp><speaker>LUKE</speaker>
+I have a promise I have to keep first... to an old friend.</sp>
+
+<sd>Luke and <name type="GPE">Artoo</name> take off in their spacecraft.</sd>
+
+<sp><speaker>HAN		</speaker>
+(looking dubiously at <name type="GPE">Lando</name>, obviously remembering his friend's 
+betrayal and subsequent aide)
+Guess I owe you some thanks, too, <name type="GPE">Lando</name>.</sp>
+
+<sp><speaker>LANDO</speaker>
+Figured if I left you frozen like that you'd just give me bad luck the 
+rest of my life, so I might as well get you unfrozen sooner or later.</sp>
+
+<sp><speaker>LEIA</speaker>
+He means "You're welcome."</sp>
+
+<sp><speaker>LANDO</speaker>
+Come on, let's get off this miserable dust ball.</sp>
+
+44A  EXT SPACE ABOVE TATOOINE 
+
+<sd>The desolate yellow planet fills the screen, Luke's X-wing appears and 
+peels off to the left. A moment later, the FALCON appears as a dot and 
+grows huge, to roar directly over the CAMERA.</sd>
+
+<setting>45   INT X-WING - COCKPIT</setting>
+
+<sd>Luke is at the controls, with <name type="GPE">Artoo</name> attached behind him outside the 
+canopy. Luke speaks into his comlink to the others, in the MILLENNIUM 
+FALCON.</sd>
+
+<sp><speaker>LUKE</speaker>
+I'll meet you back at the fleet.</sp>
+
+<sp><speaker>LEIA	 (over comlink)</speaker>
+Hurry. The <name type="ORG">Alliance</name> should be assembled by now.</sp>
+
+<sp><speaker>LUKE</speaker>
+I will.</sp>
+
+<sp><speaker>HAN	 (over comlink)</speaker>
+Hey, Luke, thanks. Thanks for comin' after me. Now I owe you one.</sp>
+
+<sd>A message from <name type="GPE">Artoo</name> appears on the small monitor screen in front of 
+Luke. He smiles at the monitor and speaks to <name type="GPE">Artoo</name>, as he pulls a black 
+glove on to cover his wounded mechanical hand.</sd>
+
+<sp><speaker>LUKE</speaker>
+That's right, <name type="GPE">Artoo</name>. We're going to the <name type="FAC">Dagobah</name> system. I have a 
+promise to keep... to an old friend.</sp>
+
+<setting>46   EXT SPACE - DEATH STAR AND ENDOR</setting>
+
+<sd>A Super <name type="ORG">Star Destroyer</name> and several ships of the <name type="ORG">Imperial</name> Fleet rest in 
+space above the half-completed Death Star and its green neighbor, 
+Endor. Four squads of <name type="ORG">TIE</name> fighters escort an <name type="ORG">Imperial</name> shuttle toward 
+<name type="ORG">the Death Star</name>.</sd>
+
+<setting>47   INT DEATH STAR - CORRIDOR TO DOCKING BAY</setting>
+
+<sd>Lord Vader strides down the hallway, accompanied by a very nervous 
+Death Star commander.</sd>
+
+<setting>48   INT DOCKING BAY - DEATH STAR</setting>
+
+<sd>Thousands of <name type="ORG">Imperial</name> troops in tight formation fill the mammoth 
+docking bay. Vader and the officer walk to the landing platform, where 
+the shuttle is coming to rest.</sd>
+
+<sd>The shuttle's ramp lowers and the Emperor's Royal Guards come out and 
+create a lethal perimeter. The assembled troops move to rigid attention 
+with a momentous SNAP.</sd>
+
+<sd>Then, in the huge SILENCE which follows, the EMPEROR appears. He is a 
+rather small, shriveled old man. His bent frame slowly makes its way 
+down the ramp with the aid of a gnarled cane. He wears a hooded cloak 
+similar to the one Ben wears, except that it is black. The Emperor's 
+face is shrouded and difficult to see, except for his piercing yellow 
+eyes. Commander Jerjerrod and Darth Vader kneel to him. The <name type="ORG">Supreme</name> 
+Ruler of the galaxy beckons to the Dark Lord.</sd>
+
+<sp><speaker>EMPEROR	 (to Vader)</speaker>
+Rise, my friend.</sp>
+
+<sd>Vader rises and falls in next to the Emperor as he slowly makes his way 
+along the rows of troops. Jerjerrod and the other commanders stay 
+kneeling until the <name type="ORG">Supreme</name> Ruler and Vader, followed by several 
+<name type="ORG">Imperial</name> dignitaries, pass by; only then do they join in the 
+procession.</sd>
+
+<sp><speaker>VADER</speaker>
+The Death Star will be completed on schedule.</sp>
+
+<sp><speaker>EMPEROR</speaker>
+You have done well, Lord Vader. And now I sense you wish to continue 
+your search for young Skywalker.</sp>
+
+<sp><speaker>VADER</speaker>
+Yes, my Master.</sp>
+
+<sp><speaker>EMPEROR</speaker>
+Patience, my friend. In time he will seek you out. And when he does, 
+you must bring him
+before me. He has grown strong. Only together can we turn him to the 
+dark side of the
+<name type="ORG">Force</name>.</sp>
+
+<sp><speaker>VADER</speaker>
+As you wish.</sp>
+
+<sp><speaker>EMPEROR</speaker>
+Everything is proceeding as I have foreseen.</sp>
+
+<sd>He laughs to himself as they pass along the vast line of <name type="ORG">Imperial</name> 
+troops.</sd>
+
+<setting>49   EXT YODA'S HOUSE - DAGOBAH</setting>
+
+<sd>Once again, <name type="GPE">Artoo</name> finds himself waiting around in the damp environs of 
+the swamp planet, and he's none too happy about it. He beeps 
+disconsolately to himself and turns to look at Yoda's cottage. Warm 
+yellow light escapes the oddly shaped windows to fight the gloom.</sd>
+
+<setting>50   INT YODA'S HOUSE</setting>
+
+<sd>The tip of a walking stick taps hesitantly across the earthen floor of 
+the cottage. Our view travels up the stick to the small green hand that 
+clutches it, and then to the familiar face of YODA, THE JEDI MASTER. 
+His manner is frail, and his voice, though cheerful, seems weaker.</sd>
+
+<sp><speaker>YODA</speaker>
+Hmm. That face you make. Look I so old to young eyes?</sp>
+
+<sd>Luke is sitting in a corner of the cramped space and, indeed, his look 
+has been woeful. Caught, he tries to hide it.</sd>
+
+<sp><speaker>LUKE</speaker>
+No... of course not.</sp>
+
+<sp><speaker>YODA	 (tickled, chuckles)</speaker>
+I do, yes, I do!  Sick have I become. Old and weak. 
+(Points a crooked finger)
+When nine hundred years old you reach, look as good you will not. Hmm?</sp>
+
+<sd>Yoda chuckles at this, coughs, and hobbles over toward his bed.</sd>
+
+<sp><speaker>YODA</speaker>
+Soon will I rest. Yes, forever sleep. Earned it, I have.</sp>
+
+<sd>Yoda sits himself on his bed, with great effort.</sd>
+
+<sp><speaker>LUKE</speaker>
+Master Yoda, you can't die.</sp>
+
+<sp><speaker>YODA</speaker>
+Strong am I with the <name type="ORG">Force</name>... but not that strong! Twilight is upon me 
+and soon night must fall. That is the way of things... the way of the 
+<name type="ORG">Force</name>.</sp>
+
+<sp><speaker>LUKE</speaker>
+But I need your help. I've come back to complete the training.</sp>
+
+<sp><speaker>YODA</speaker>
+No more training do you require. Already know you that which you need.</sp>
+
+<sd>Yoda sighs, and lies back on his bed.</sd>
+
+<sp><speaker>LUKE</speaker>
+Then I am a <name type="ORG">Jedi</name>?</sp>
+
+<sp><speaker>YODA	 (shakes his head)</speaker>
+Ohhh. Not yet. One thing remains: Vader. You must confront Vader. Then, 
+only then, a <name type="ORG">Jedi</name> will you be. And confront him you will.</sp>
+
+<sd>Luke is in agony. He is silent for a long moment, screwing up his 
+courage. Finally he is able to ask.</sd>
+
+<sp><speaker>LUKE</speaker>
+Master Yoda... is Darth Vader my father?</sp>
+
+<sd>Yoda's eyes are full of weariness and compassion. An odd, sad smile 
+creases his face. He turns painfully on his side, away from Luke.</sd>
+
+<sp><speaker>YODA</speaker>
+Mmm... rest I need. Yes... rest.</sp>
+
+<sd>Luke watches him, each moment an eternity.</sd>
+
+<sp><speaker>LUKE</speaker>
+Yoda, I must know.</sp>
+
+<sp><speaker>YODA</speaker>
+Your father he is.</sp>
+
+<sd>Luke reacts as if cut.</sd>
+
+<sp><speaker>YODA</speaker>
+Told you, did he?</sp>
+
+<sp><speaker>LUKE</speaker>
+Yes.</sp>
+
+<sd>A new look of concern crosses Yoda's face.  He closes his eyes.</sd>
+
+<sp><speaker>YODA</speaker>
+Unexpected this is, and unfortunate...</sp>
+
+<sp><speaker>LUKE</speaker>
+Unfortunate that I know the truth?</sp>
+
+<sd>Yoda opens his eyes again and studies the youth.</sd>
+
+<sp><speaker>YODA		 (gathering all his strength)</speaker>
+No. Unfortunate that you rushed to face him... that incomplete was your 
+training. Not
+ready for the burden were you.</sp>
+
+<sp><speaker>LUKE</speaker>
+Well, I'm sorry.</sp>
+
+<sp><speaker>YODA</speaker>
+Remember, a <name type="ORG">Jedi</name>'s strength flows from the <name type="ORG">Force</name>.  But beware.  Anger, 
+fear, aggression.
+The dark side are they.  Once you start down the dark path, forever 
+will it dominate your
+destiny.</sp>
+
+<sd>He beckons the young <name type="ORG">Jedi</name> closer to him.</sd>
+
+<sp><speaker>YODA</speaker>
+Luke...Luke...Do not...Do not underestimate the powers of the Emperor, 
+or suffer your father's fate, you will. Luke, when gone am I
+(cough),
+the last of the <name type="ORG">Jedi</name> will you be. Luke, the <name type="ORG">Force</name> runs strong in your 
+family. Pass on what you have learned, Luke... 
+(with great effort)
+There is...another...Sky...Sky...walker.</sp>
+
+<sd>He catches his breath. A shiver runs through the ancient green 
+creature, and he dies. Luke stares at his dead master as he disappears 
+in front of his eyes.</sd>
+
+<setting>51   EXT DAGOBAH SWAMP - X-WING </setting>
+
+<sd>Luke wanders back to where his ship is sitting. <name type="GPE">Artoo</name> beeps a greeting, 
+but is ignored by his depressed master. Luke kneels down, begins to 
+help <name type="GPE">Artoo</name> with the ship, then stops and shakes his head dejectedly.</sd>
+
+<sp><speaker>LUKE</speaker>
+I can't do it, <name type="GPE">Artoo</name>. I can't go on alone.</sp>
+
+<sp><speaker>BEN	 (OS)</speaker>
+Yoda will always be with you.</sp>
+
+<sd>Luke looks up to see the shimmering image of BEN KENOBI.</sd>
+
+<sp><speaker>LUKE</speaker>
+Obi-Wan! Why didn't you tell me?</sp>
+
+<sd>The ghost of Ben <name type="ORG">Kenobi</name> approaches him through the swamp.</sd>
+
+<sp><speaker>LUKE</speaker>
+You told me Vader betrayed and murdered my father.</sp>
+
+<sp><speaker>BEN</speaker>
+You father was seduced by the dark side of the <name type="ORG">Force</name>. He ceased to be 
+<name type="GPE">Anakin</name> Skywalker
+and became Darth Vader. When that happened, the good man who was your 
+father was destroyed. So what I have told you was true... from a 
+certain point of view.</sp>
+
+<sp><speaker>LUKE	 (turning away, derisive)</speaker>
+A certain point of view!</sp>
+
+<sp><speaker>BEN</speaker>
+Luke, you're going to find that many of the truths we cling to depend 
+greatly on our own
+point of view.</sp>
+
+<sd>Luke is unresponsive. Ben studies him in silence for a moment.</sd>
+
+<sp><speaker>BEN</speaker>
+I don't blame you for being angry. If I was wrong in what I did, it 
+certainly wouldn't have been for the first time. You see, what happened 
+to your father was my fault.</sp>
+
+<sd>Ben pauses sadly.</sd>
+
+<sp><speaker>BEN</speaker>
+<name type="GPE">Anakin</name> was a good friend.</sp>
+
+<sd>Luke turns with interest at this. As Ben speaks, Luke settles on a 
+stump, mesmerized. <name type="GPE">Artoo</name> comes over to offer his comforting presence.</sd>
+
+<sp><speaker>BEN</speaker>
+When I first knew him, your father was already a great pilot. But I was 
+amazed how strongly the <name type="ORG">Force</name> was with him. I took it upon myself to 
+train him as a <name type="ORG">Jedi</name>. I thought that I could instruct him just as well 
+as Yoda. I was wrong. My pride has had terrible consequences for the 
+galaxy.</sp>
+
+<sd>Luke is entranced.</sd>
+
+<sp><speaker>LUKE</speaker>
+There's still good in him.</sp>
+
+<sp><speaker>BEN</speaker>
+I also thought he could be turned back to the good side. It couldn't be 
+done. He is more machine now than man. Twisted and evil.</sp>
+
+<sp><speaker>LUKE</speaker>
+I can't do it, Ben.</sp>
+
+<sp><speaker>BEN</speaker>
+You cannot escape your destiny.</sp>
+
+<sp><speaker>LUKE</speaker>
+I tried to stop him once. I couldn't do it.</sp>
+
+<sp><speaker>BEN</speaker>
+Vader humbled you when first you met him, Luke... but that experience 
+was part of your training. It taught you, among other things, the value 
+of patience. Had you not been so impatient to defeat Vader then, you 
+could have finished your training here with Yoda. You would have been 
+prepared.</sp>
+
+<sp><speaker>LUKE</speaker>
+But I had to help my friends.</sp>
+
+<sp><speaker>BEN	 (grinning at Luke's indignation)</speaker>
+And did you help them? It was they who had to save you. You achieved 
+little by rushing back prematurely, I fear.</sp>
+
+<sp><speaker>LUKE	 (with sadness)</speaker>
+I found out Darth Vader was my father.</sp>
+
+<sp><speaker>BEN</speaker>
+To be a <name type="ORG">Jedi</name>, Luke, you must confront and then go beyond the dark side 
+- the side your father couldn't get past. Impatience is the easiest 
+door - for you, like your father. Only, your father was seduced by what 
+he found on the other side of the door, and you have held firm. You're 
+no longer so reckless now, Luke. You are strong and patient. And now, 
+you must face Darth Vader again!</sp>
+
+<sp><speaker>LUKE</speaker>
+I can't kill my own father.</sp>
+
+<sp><speaker>BEN</speaker>
+Then the Emperor has already won. You were our only hope.</sp>
+
+<sp><speaker>LUKE</speaker>
+Yoda spoke of another.</sp>
+
+<sp><speaker>BEN</speaker>
+The other he spoke of is your twin sister.</sp>
+
+<sp><speaker>LUKE</speaker>
+But I have no sister.</sp>
+
+<sp><speaker>BEN</speaker>
+Hmm. To protect you both from the Emperor, you were hidden from your 
+father when you were born. The Emperor knew, as I did, if <name type="GPE">Anakin</name> were 
+to have any offspring, they would be a threat to him. That is the 
+reason why your sister remains safely anonymous.</sp>
+
+<sp><speaker>LUKE</speaker>
+Leia! Leia's my sister.</sp>
+
+<sp><speaker>BEN</speaker>
+Your insight serves you well. Bury your feelings deep down, Luke. They 
+do you credit.
+But they could be made to serve the Emperor.</sp>
+
+<sd>Luke looks into the distance, trying to comprehend all this.</sd>
+
+<sp><speaker>BEN	 (continuing his narrative)</speaker>
+When your father left, he didn't know your mother was pregnant. Your 
+mother and I knew he would find out eventually, but we wanted to keep 
+you both as safe as possible, for as long as possible.  So I took you 
+to live with my brother Owen on Tatooine... and your mother took Leia 
+to live as the daughter of Senator Organa, on <name type="ORG">Alderaan</name>.</sp>
+
+<sd>Luke turns, and settles near Ben to hear the tale.</sd>
+
+<sp><speaker>BEN	 (attempting to give solace with his words)</speaker>
+The Organa household was high-born and politically quite powerful in 
+that system. Leia became a princess by virtue of lineage... no one knew 
+she'd been adopted, of course. But it was a title without real power, 
+since <name type="ORG">Alderaan</name> had long been a democracy.  Even so, the family 
+continued to be politically powerful, and Leia, following in her foster 
+father's path, became a senator as well.  That's not all she became, of 
+course... she became the leader of her cell in the <name type="ORG">Alliance</name> against the 
+corrupt <name type="GPE">Empire</name>. And because she had diplomatic immunity, she was a 
+vital link for getting information to the Rebel cause.  That's what she 
+was doing when her path crossed yours... for her foster parents had 
+always told her to contact me on Tatooine, if her troubles became 
+desperate.</sp>
+
+<sd>Luke is overwhelmed by the truth, and is suddenly protective of his 
+sister.</sd>
+
+<sp><speaker>LUKE</speaker>
+But you can't let her get involved now, Ben. Vader will destroy her.</sp>
+
+<sp><speaker>BEN</speaker>
+She hasn't been trained in the ways of the <name type="ORG">Jedi</name> the way you have, 
+Luke... but the <name type="ORG">Force</name> is strong with her, as it is with all of your 
+family. There is no avoiding the battle. You must face and destroy 
+Vader!</sp>
+
+<setting>52   EXT SPACE - REBEL FLEET</setting>
+
+<sd>The vast Rebel Fleet stretches as far as the eye can see. Overhead a 
+dozen small Corellian battleships fly in formation. Fighters and 
+battlecruisers surround the largest of the Rebel Star Cruisers, the 
+HEADQUARTERS FRIGATE.</sd>
+
+<setting>53   INT HEADQUARTERS FRIGATE - MAIN BRIEFING ROOM</setting>
+
+<sd>Hundreds of Rebel commanders of all races and forms are assembled in 
+the WAR ROOM. WEDGE is among them. In the center of the room is a 
+holographic model depicting the half-completed <name type="ORG">Imperial</name> Death Star, the 
+nearby Moon of Endor, and the protecting deflector shield.</sd>
+
+<sp><speaker>MON MOTHMA, the leader of the <name type="ORG">Alliance</name>, enters the room. She is a stern </speaker>
+but beautiful woman in her fifties. Conferring with her are several 
+military leaders, including GENERAL MADINE and ADMIRAL ACKBAR (a 
+salmon-colored Mon Calamari). <name type="GPE">Lando</name> moves through the crowd until he 
+finds <name type="NORP">Han</name> and Chewie, standing next to Leia and the two droids.</sp>
+
+<sd><name type="NORP">Han</name> peers at <name type="GPE">Lando</name>'s new insignia on his chest, and is amused.</sd>
+
+<sp><speaker>HAN</speaker>
+Well, look at you, a general, huh?</sp>
+
+ LANDO
+ Oh, well, someone must have told them about my little maneuver at the 
+battle of Taanab.
+
+<sp><speaker>HAN	 (sarcastic)</speaker>
+Well, don't look at me, pal. I just said you were a fair pilot. I 
+didn't know they were
+lookin' for somebody to lead this crazy attack.</sp>
+
+<sp><speaker>LANDO	 (smiling)</speaker>
+I'm surprised they didn't ask you to do it.</sp>
+
+<sp><speaker>HAN</speaker>
+Well, who says they didn't.  But I ain't crazy. You're the respectable 
+one, remember?</sp>
+
+<sd>Mon Mothma signals for attention, and the room falls silent.</sd>
+
+<sp><speaker>MON MOTHMA</speaker>
+The Emperor has made a critical error and the time for our attack has 
+come.</sp>
+
+<sd>This causes a stir. Mon Mothma turns to a holographic model of the 
+Death Star, <name type="LOC">the Endor moon</name> and the protecting deflector shield in the 
+center of the room.</sd>
+
+<sp><speaker>MON MOTHMA</speaker>
+The data brought to us by the <name type="NORP">Bothan</name> spies pinpoints the exact location 
+of the Emperor's new battle station. We also know that the weapon 
+systems of this Death Star are not yet operational. With the <name type="ORG">Imperial</name> 
+Fleet spread throughout the galaxy in a vain effort to engage us, it is 
+relatively unprotected. But most important of all, we've learned that 
+the Emperor himself is personally overseeing the final stages of the 
+construction of this Death Star.</sp>
+
+<sd>A volley of spirited chatter erupts from the crowd. <name type="NORP">Han</name> turns to Leia 
+as Chewie barks his amazement.</sd>
+
+<sp><speaker>MON MOTHMA	 (cont)</speaker>
+Many <name type="NORP">Bothan</name>s died to bring us this information. Admiral Ackbar, please.</sp>
+
+<sd>Admiral Ackbar steps forward and points to <name type="ORG">the Death Star</name>'s force field 
+and the Moon of Endor.</sd>
+
+<sp><speaker>ACKBAR</speaker>
+You can see here <name type="ORG">the Death Star</name> orbiting the forest Moon of Endor. 
+Although the weapon
+systems on this Death Star are not yet operational, <name type="ORG">the Death Star</name> does 
+have a strong defense mechanism. It is protected by an energy shield, 
+which is generated from the nearby forest Moon of Endor. The shield 
+must be deactivated if any attack is to be attempted. Once the shield 
+is down, our cruisers will create a perimeter, while the fighters fly 
+into the superstructure and attempt to knock out the main reactor.</sp>
+
+<sd>There's a concerned murmur.</sd>
+
+<sp><speaker>ACKBAR	 (cont)</speaker>
+General Calrissian has volunteered to lead the fighter attack</sp>
+
+<sd><name type="NORP">Han</name> turns to <name type="GPE">Lando</name> with a look of respect.</sd>
+
+<sp><speaker>HAN</speaker>
+Good luck.</sp>
+
+<sd><name type="GPE">Lando</name> nods his thanks.</sd>
+
+<sp><speaker>HAN</speaker>
+You're gonna need it.</sp>
+
+<sp><speaker>ACKBAR</speaker>
+General Madine.</sp>
+
+<sd>Madine moves center stage.</sd>
+
+<sp><speaker>GENERAL MADINE</speaker>
+We have stolen a small <name type="ORG">Imperial</name> shuttle. Disguised as a cargo ship, and 
+using a secret
+<name type="ORG">Imperial</name> code, a strike team will land on <name type="LOC">the moon</name> and deactivate the 
+shield generator.</sp>
+
+<sd>The assembly begins to mumble among themselves.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Sounds dangerous.</sp>
+
+<sp><speaker>LEIA	 (to <name type="NORP">Han</name>)</speaker>
+I wonder who they found to pull that off.</sp>
+
+<sp><speaker>GENERAL MADINE</speaker>
+General Solo, is your strike team assembled?</sp>
+
+<sd>Leia, startled, looks up at <name type="NORP">Han</name>, surprise changing to admiration.</sd>
+
+<sp><speaker>HAN</speaker>
+Uh, my team's ready. I don't have a command crew for the shuttle.</sp>
+
+<sd>Chewbacca raises his hairy paw and volunteers.  <name type="NORP">Han</name> looks up at him.</sd>
+
+<sp><speaker>HAN</speaker>
+Well, it's gonna be rough, pal. I didn't want to speak for you.</sp>
+
+<sd>Chewie waves that off with a huge GROWL.</sd>
+
+<sp><speaker>HAN	 (smiles)</speaker>
+That's one.</sp>
+
+<sp><speaker>LEIA</speaker>
+Uh, General... count me in.</sp>
+
+<sp><speaker>VOICE	 (OS)</speaker>
+I'm with you, too!</sp>
+
+<sd>They turn in that direction and peer into the crowd as there are more 
+cheers. The commanders part, and there at the back stands Luke. <name type="NORP">Han</name> and 
+Leia are surprised and delighted.</sd>
+
+<sd>Leia moves to Luke and embraces him warmly. She senses a change in him 
+and looks into his eyes questioningly.</sd>
+
+<sp><speaker>LEIA</speaker>
+ What is it?</sp>
+
+<sp><speaker>LUKE	 (hesitant)</speaker>
+Ask me again sometime.</sp>
+
+<sd><name type="NORP">Han</name>, Chewie, and <name type="GPE">Lando</name> crowd around Luke as the assembly breaks up.</sd>
+
+<sp><speaker>HAN</speaker>
+Luke.</sp>
+
+<sp><speaker>LUKE</speaker>
+Hi, <name type="NORP">Han</name>... Chewie.</sp>
+
+<sd><name type="GPE">Artoo</name> beeps a singsong observation to a worried <name type="ORG">Threepio</name>.</sd>
+
+ THREEPIO
+"Exciting" is hardly the word I would use.
+
+<setting>54   INT HEADQUARTERS FRIGATE - MAIN DOCKING BAY</setting>
+
+<sd>The Millennium <name type="ORG">Falcon</name> rests beyond the stolen IMPERIAL SHUTTLE, which 
+looks anomalous among all the Rebel ships in the vast docking bay. 
+Chewie barks a final farewell to <name type="GPE">Lando</name> and leads <name type="GPE">Artoo</name> and <name type="ORG">Threepio</name> up 
+the shuttle, crowded now with the Rebel strike team loading weapons and 
+supplies. <name type="GPE">Lando</name> turns to face <name type="NORP">Han</name>. Luke and Leia have said their good-
+byes and start up the ramp.</sd>
+
+<sp><speaker>HAN</speaker>
+Look. I want you to take her. I mean it. Take her. You need all the 
+help you can get. She's
+the fastest ship in the fleet.</sp>
+
+<sp><speaker>LANDO</speaker>
+All right, old buddy. You know, I know what she means to you. I'll take 
+good care of her.
+She-she won't get a scratch. All right?</sp>
+
+<sp><speaker>HAN	 (looks at him warmly)</speaker>
+Right. I got your promise now. Not a scratch.</sp>
+
+<sp><speaker>LANDO</speaker>
+Look, would you get going, you pirate.</sp>
+
+<sd><name type="NORP">Han</name> and <name type="GPE">Lando</name> pause, then exchange salutes.</sd>
+
+<sp><speaker>LANDO</speaker>
+Good luck.</sp>
+
+<sp><speaker>HAN</speaker>
+You, too.</sp>
+
+<sd><name type="NORP">Han</name> goes up the ramp. <name type="GPE">Lando</name> watches him go and then slowly turns away.</sd>
+
+<setting>55   INT IMPERIAL SHUTTLE - COCKPIT</setting>
+
+<sd>Luke is working on a back control panel as <name type="NORP">Han</name> comes in and takes the 
+pilot's seat. Chewie, in the seat next to him, is trying to figure out 
+all the <name type="ORG">Imperial</name> controls.</sd>
+
+<sp><speaker>HAN</speaker>
+You got her warmed?</sp>
+
+<sp><speaker>LUKE</speaker>
+Yeah, she's comin' up.</sp>
+
+<sd>Chewie growls a complaint.</sd>
+
+<sp><speaker>HAN</speaker>
+No. I don't think the <name type="GPE">Empire</name> had <name type="NORP">Wookiee</name>s in mind when they designed 
+her, Chewie.</sp>
+
+<sd>Leia comes in from the hold and takes her seat near Luke.</sd>
+
+<sd>Chewie barks and hits some switches. <name type="NORP">Han</name>'s glance has stuck on 
+something out the window: the Millennium <name type="ORG">Falcon</name>. Leia nudges him 
+gently.</sd>
+
+<sp><speaker>LEIA</speaker>
+Hey, are you awake?</sp>
+
+<sp><speaker>HAN</speaker>
+Yeah, I just got a funny feeling. Like I'm not gonna see her again.</sp>
+
+<sd>Chewie, hearing this, stops his activity and looks longingly out at the 
+<name type="ORG">Falcon</name>, too. Leia puts a hand on <name type="NORP">Han</name>'s shoulder.</sd>
+
+<sp><speaker>LEIA	 (softly)</speaker>
+Come on, General, let's move.</sp>
+
+<sd><name type="NORP">Han</name> snaps back to life.</sd>
+
+<sp><speaker>HAN</speaker>
+Right. Chewie, let's see what this piece of junk can do. Ready, 
+everybody?</sp>
+
+<sp><speaker>LUKE</speaker>
+All set.</sp>
+
+<sp><speaker>THREEPIO</speaker>
+Here we go again.</sp>
+
+<sp><speaker>HAN</speaker>
+All right, hang on.</sp>
+
+<setting>56   EXT SPACE - THE REBEL FLEET</setting>
+
+<sd>The stolen <name type="ORG">Imperial</name> shuttle leaves the main docking bay of the 
+Headquarters Frigate, lowers its wings into flight position, and zooms 
+off into space.</sd>
+
+<setting>57   INT EMPEROR'S THRONE ROOM</setting>
+
+<sd>The converted control room is dimly lit, except for a pool of light at 
+the far end. There the Emperor sits in an elaborate control chair 
+before a large window which looks out across the half-completed Death 
+Star to the giant green moon of Endor.</sd>
+
+<sd>Darth Vader, standing with other members of the <name type="ORG">Imperial</name> council, 
+cautiously approaches his master. The ruler's back is to Vader. After 
+several tense moments, the Emperor's chair rotates around to face him.</sd>
+
+<sp><speaker>VADER</speaker>
+What is thy bidding, my Master?</sp>
+
+<sp><speaker>EMPEROR</speaker>
+Send the fleet to the far side of Endor. There it will stay until 
+called for.</sp>
+
+<sp><speaker>VADER</speaker>
+What of the reports of the Rebel fleet massing near Sullust?</sp>
+
+<sp><speaker>EMPEROR</speaker>
+It is of no concern. Soon the Rebellion will be crushed and young 
+Skywalker will be one of us! Your work here is finished, my friend. Go 
+out to the command ship and await my orders.</sp>
+
+<sp><speaker>VADER</speaker>
+Yes, my Master.</sp>
+
+<sd>Vader bows, then turns and exits the throne room as the Emperor walks 
+toward the waiting council members.</sd>
+
+<setting>58   EXT SPACE - DEATH STAR - MOON</setting>
+
+<sd>There is a great deal of <name type="ORG">Imperial</name> traffic in the area as construction 
+proceeds on <name type="ORG">the Death Star</name>. Transports, <name type="ORG">TIE</name> fighters, and a few Star 
+Destroyers move about. Now the huge Super <name type="ORG">Star Destroyer</name> announces 
+itself with a low roar and soon fills the frame.</sd>
+
+<setting>59   INT STOLEN IMPERIAL SHUTTLE - COCKPIT</setting>
+
+<sd><name type="NORP">Han</name> looks back at Luke and Leia as Chewie flips several switches. 
+Through the viewscreen, <name type="ORG">the Death Star</name> and the huge Super Star 
+Destroyer can be seen.</sd>
+
+<sp><speaker>HAN</speaker>
+If they don't go for this, we're gonna have to get outta here pretty 
+quick, Chewie.</sp>
+
+<sd>Chewie growls his agreement.</sd>
+
+<sp><speaker>CONTROLLER	 (over radio)</speaker>
+We have you on our screen now. Please identify.</sp>
+
+<sp><speaker>HAN</speaker>
+Shuttle Tydirium requesting deactivation of the deflector shield.</sp>
+
+<sp><speaker>CONTROLLER	 (over radio)</speaker>
+Shuttle Tydirium, transmit the clearance code for shield passage.</sp>
+
+<sp><speaker>HAN</speaker>
+Transmission commencing.</sp>
+
+<sd>Leia and Chewbacca listen tensely as the sound of a high speed 
+transmission begins.</sd>
+
+<sp><speaker>LEIA</speaker>
+Now we find out if that code is worth the price we paid.</sp>
+
+<sp><speaker>HAN</speaker>
+It'll work. It'll work.</sp>
+
+<sd>Chewie whines nervously. Luke stares at the Huge Super <name type="ORG">Star Destroyer</name> 
+that looms ever larger before them.</sd>
+
+<sp><speaker>LUKE</speaker>
+Vader's on that ship.</sp>
+
+<sp><speaker>HAN</speaker>
+Now don't get jittery, Luke. There are a lot of command ships. Keep 
+your distance though, Chewie, but don't look like you're trying to keep 
+your distance.</sp>
+
+<sd>Chewie barks a question.</sd>
+
+<sp><speaker>HAN</speaker>
+I don't know.  Fly casual.</sp>
+
+<sp><speaker>LUKE</speaker>
+I'm endangering the mission. I shouldn't have come.</sp>
+
+<sp><speaker>HAN</speaker>
+It's your imagination, kid. Come on. Let's keep a little optimism here.</sp>
+
+<sd>Chewie barks his worries as the Super <name type="ORG">Star Destroyer</name> grows larger out 
+the window.</sd>
+
+<setting>60   INT VADER'S STAR DESTROYER - BRIDGE</setting>
+
+<sd>Lord Vader stands, back to us, staring out a window at <name type="ORG">the Death Star</name>. 
+Now, some vibration felt only by him causes him to turn. After a moment 
+of stillness, he walks down the row of controllers to where ADMIRAL 
+PIETT is leaning over the tracking screen of the controller we've seen 
+earlier. Piett straightens at Vader's approach.</sd>
+
+<sp><speaker>VADER</speaker>
+Where is that shuttle going?</sp>
+
+<sp><speaker>PIETT	 (into comlink)</speaker>
+Shuttle Tydirium, what is your cargo and destination?</sp>
+
+<sp><speaker>PILOT VOICE    (HAN)   (filtered)</speaker>
+Parts and technical crew for the forest moon.</sp>
+
+<sd>The Bridge Commander looks to Vader for a reaction.</sd>
+
+<sp><speaker>VADER</speaker>
+Do they have a code clearance?</sp>
+
+<sp><speaker>PIETT</speaker>
+It's an older code, sir, but it checks out. I was about to clear them.</sp>
+
+<sd>Vader looks upward, as he senses Luke's presence.</sd>
+
+<sp><speaker>PIETT</speaker>
+Shall I hold them?</sp>
+
+<sp><speaker>VADER</speaker>
+No. Leave them to me. I will deal with them myself.</sp>
+
+<sp><speaker>PIETT	 (surprised)</speaker>
+As you wish, my lord.
+(to controller)
+Carry on.</sp>
+
+<sd>Piett nods at controller, who switches on his comlink.</sd>
+
+<setting>61   INT STOLEN IMPERIAL SHUTTLE - COCKPIT</setting>
+
+<sd>The group waits tensely.</sd>
+
+<sp><speaker>HAN</speaker>
+They're not goin' for it, Chewie.</sp>
+
+<sp><speaker>CONTROLLER	 (filtered)</speaker>
+Shuttle Tydirium, deactivation of the shield will commence immediately. 
+Follow your
+present course.</sp>
+
+<sd>Everyone breaths a sigh of relief. Everyone but Luke, who looks 
+worried. Chewie barks.</sd>
+
+<sp><speaker>HAN</speaker>
+Okay! I told you it was gonna work. No problem.</sp>
+
+<setting>62   EXT SPACE - STOLEN IMPERIAL SHUTTLE - ENDOR</setting>
+
+<sd>The stolen <name type="ORG">Imperial</name> shuttle moves off toward the green Sanctuary Moon.</sd>
+
+<setting>63   EXT FOREST LANDING SITE - ENDOR</setting>
+
+<sd>The stolen <name type="ORG">Imperial</name> shuttle sits in a clearing of <name type="LOC">the moon</name>'s dark, 
+primeval forest, dwarfed by the ancient towering trees.</sd>
+
+<sd>On an adjacent hill, the helmeted Rebel contingent makes its way up a 
+steep trail. Leia and <name type="NORP">Han</name> are slightly ahead of Chewie and Luke. The 
+troops of the strike-team squad follow, with <name type="GPE">Artoo</name> and <name type="ORG">Threepio</name> 
+bringing up the rear. <name type="GPE">Artoo</name> beeps.</sd>
+
+<sd>Up ahead, Chewie and Leia reach a crest in the hill and drop suddenly 
+to the ground, signaling the rest of the group to stop. <name type="NORP">Han</name> and Luke 
+crawl up to take a look.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Oh, I told you it was dangerous here.</sp>
+
+<sp><speaker>THEIR POV. Not far below them, two IMPERIAL SCOUTS are wandering </speaker>
+through bushes in the valley below. Their two ROCKET BIKES are parked 
+nearby.</sp>
+
+<sp><speaker>LEIA</speaker>
+Shall we try and go around?</sp>
+
+<sp><speaker>HAN</speaker>
+It'll take time. This whole party'll be for nothing if they see us.</sp>
+
+<sd>Leia motions for the squad to stay put, then she, <name type="NORP">Han</name>, Luke and Chewie 
+start quietly down.</sd>
+
+<setting>64   EXT FOREST CLEARING - CAMPSITE</setting>
+
+<sd>The four friends make their way to the edge of the clearing not far 
+from the two <name type="ORG">Imperial</name> scouts.</sd>
+
+<sp><speaker>HAN</speaker>
+Chewie and I will take care of this. You stay here.</sp>
+
+<sp><speaker>LUKE</speaker>
+Quietly, there might be more of them out there.</sp>
+
+<sp><speaker>HAN	 (grins)</speaker>
+Hey... it's me.</sp>
+
+<sd><name type="NORP">Han</name> and Chewie turn and start through the bushes toward the scouts. 
+Luke and Leia exchange smiles.</sd>
+
+<sd><name type="NORP">Han</name> sneaks up behind one of the scouts, steps on a twig and the scout 
+whirls, knocking <name type="NORP">Han</name> into a tree. The scout shouts for his companion.</sd>
+
+<sp><speaker>SCOUT #1</speaker>
+Go for help! Go!</sp>
+
+<sd>The second scout jumps on his speeder bike and takes off, but Chewie 
+gets off a shot on his crossbow laser weapon, causing the scout to 
+crash into a tree. <name type="NORP">Han</name> and Scout #1 are in a rousing fistfight.</sd>
+
+<sp><speaker>LUKE	 (sarcastic)</speaker>
+Great. Come on.</sp>
+
+<sd>Luke starts for the scuffle, followed by Leia with her laser pistol 
+drawn. As they run through the bushes, Leia stops and points to where 
+two more scouts are sitting on their speeder bikes, with an unoccupied 
+bike parked nearby.</sd>
+
+<sp><speaker>LEIA</speaker>
+Over there! Two more of them!</sp>
+
+<sp><speaker>LUKE</speaker>
+I see them. Wait, Leia!</sp>
+
+<sd>But Leia doesn't hear him and races for the remaining speeder bike. She 
+starts it up and takes off as Luke jumps on the bike behind her.</sd>
+
+<sp><speaker>LUKE	 (pointing to the controls)</speaker>
+Quick! Jam their comlink. Center switch!</sp>
+
+<sd>Luke and Leia speed into the dense foliage in hot pursuit, barely 
+avoiding two huge trees.</sd>
+
+<sp><speaker>HAN</speaker>
+Hey, wait! Ahhh!</sp>
+
+<sd>He flips the remaining scout to the ground.</sd>
+
+<setting>65   EXT FOREST - THE BIKE CHASE</setting>
+
+<sd>The two fleeing <name type="ORG">Imperial</name> scouts have a good lead as Luke and Leia 
+pursue through the giant trees at 200 miles an hour, the fire from 
+their bike's laser cannon hitting harmlessly near the moving targets.</sd>
+
+<sp><speaker>LUKE</speaker>
+Move closer!</sp>
+
+<sd>Leia guns it, closing the gap, as the two scouts recklessly veer 
+through a narrow gap in the trees. One of the bikes SCRAPES a tree, 
+slowing the scout.</sd>
+
+<sp><speaker>LUKE</speaker>
+Get alongside that one!</sp>
+
+<sd>Leia pulls her speeder bike up so close to the scout's bike that their 
+steering vanes SCRAPE noisily. Luke leaps from his bike to the back of 
+the scout's, grabs the <name type="ORG">Imperial</name> warrior around the neck, and flips him 
+off the bike, into a thick tree trunk. Luke gains control of the bike 
+and follows Leia, who has pulled ahead. They tear off after the 
+remaining scout.</sd>
+
+<sp><speaker>LUKE</speaker>
+Get him!</sp>
+
+<sd>The speeding chase passes TWO MORE IMPERIAL SCOUTS. These two swing 
+into pursuit, chasing Luke and Leia, firing away with their laser 
+cannon. The two <name type="ORG">Rebels</name> look behind them just as Luke's bike takes a 
+glancing hit.</sd>
+
+<sp><speaker>LUKE	 (indicating the one ahead)</speaker>
+Keep on that one! I'll take these two!</sp>
+
+<sd>With Leia shooting ahead, Luke suddenly slams his steering vanes into 
+the braking mode. Luke's bike is a blur to the two pursuing scouts as 
+they zip by him on either side. Luke slams his bike into forward and 
+starts firing away, having switched places with his pursuers in a 
+manner of seconds. Luke's aim is good and one scout's bike is blasted 
+out of control. It explodes against a tree trunk.</sd>
+
+<sd>The scout's cohort takes one glance back at the flash and shifts into 
+turbo drive, going even faster. Luke keeps on his tail.</sd>
+
+<sp><speaker>FAR AHEAD, Leia and the first scout are doing a highspeed slalom </speaker>
+through the death-dealing trunks. Now Leia aims her bike skyward and 
+rises out of sight.</sp>
+
+<sd>The scout turns in confusion, unable to see his pursuer. Suddenly, Leia 
+dives down upon him from above, cannon blasting. The scout's bike takes 
+a glancing hit.</sd>
+
+<sd>Leia moves in alongside him. The scout eyes her beside him, reaches 
+down, and pulls out a handgun. Before Leia can react, the scout has 
+blasted her bike, sending it out of control. Leia dives off as her bike 
+explodes against a tree. The happy scout looks back at the explosion. 
+But when he turns forward again, he is on a collision course with a 
+giant fallen tree. He hits his brakes to no avail and disappears in a 
+conflagration.</sd>
+
+<sp><speaker>ANOTHER PART OF THE FOREST: Luke and the last remaining scout continue </speaker>
+their weaving chase through the trees. Now Luke moves up close. The 
+scout responds by slamming his bike into Luke's. A fallen tree forms a 
+bridge across their path. The scout zips under. Luke goes over the top 
+and crashes his bike down on the scout's. Both riders look ahead - a 
+wide trunk looms directly in Luke's path, but the scout's bike beside 
+him makes it almost impossible for him to avoid it. Luke banks with all 
+his might, leaning almost horizontal over the scout's bike, and is able 
+to make it by, just clipping the tree. When he straightens, he and the 
+scout discover that their two bikes have locked front vanes and are 
+moving as one.</sp>
+
+<sd>Another big tree looms in Luke's path. He reacts instinctively and 
+dives off his bike. The two bikes come apart a second before Luke's 
+explodes against a tree. The scout sweeps out and circles back to find 
+Luke.</sd>
+
+<sd>Luke rises from the undergrowth as the scout bears down on him and 
+opens fire with his laser cannon. Luke ignites his laser sword and 
+begins deflecting the bolts. The scout's bike keeps coming and it 
+appears that in a second it will cut Luke in half. At the last instant, 
+Luke steps aside and chops off the bike's control vanes with one mighty 
+slash. The scout's bike begins to shudder, then, pitching and rolling, 
+it rises up to slam directly into a tree in a giant ball of fire.</sd>
+
+<setting>66   EXT SCOUT CAMPSITE - FOREST</setting>
+
+<sd><name type="NORP">Han</name>, Chewie, and the droids, along with the rest of the squad, wait 
+anxiously in the clearing. <name type="GPE">Artoo</name>'s radar screen sticks out of his domed 
+head and revolves, scanning the forest. He beeps.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Oh, General Solo, somebody's coming. Oh!</sp>
+
+<sd><name type="NORP">Han</name>, Chewie, and the rest of the squad raise their weapons.</sd>
+
+<sd>Luke steps out of the foliage to find the weapons trained on him. He's 
+too tired to care. He plops himself down on a boulder and looks around.</sd>
+
+<sp><speaker>HAN</speaker>
+Luke! Where's Leia?</sp>
+
+<sp><speaker>LUKE	 (concerned)</speaker>
+What? She didn't come back?</sp>
+
+<sp><speaker>HAN</speaker>
+I thought she was with you.</sp>
+
+<sp><speaker>LUKE</speaker>
+We got separated.</sp>
+
+<sd>Luke and <name type="NORP">Han</name> exchange a silent, grim look. Luke gets up wearily.</sd>
+
+<sp><speaker>LUKE</speaker>
+Hey, we better go look for her.</sp>
+
+<sd><name type="NORP">Han</name> nods, and signals to a Rebel officer.</sd>
+
+<sp><speaker>HAN</speaker>
+Take the squad ahead.  We'll meet at the shield generator at 0300.</sp>
+
+<sp><speaker>LUKE</speaker>
+Come on, <name type="GPE">Artoo</name>.  We'll need your scanners.</sp>
+
+<sd>Luke, Chewie, <name type="NORP">Han</name>, and the droids move off in one direction as the 
+squad proceeds in another.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Don't worry, Master Luke.  We know what to do.</sp>
+
+<sd>They move off into the woods.</sd>
+
+<sp><speaker>THREEPIO	 (to <name type="GPE">Artoo</name>)</speaker>
+And you said it was pretty here. Ugh!</sp>
+
+<setting>67   EXT FOREST CLEARING - LEIA'S CRASH SITE</setting>
+
+<sd>A strange little furry face with huge black eyes comes slowly into 
+view. The creature is an EWOK, by the name of WICKET. He seems somewhat 
+puzzled, and prods Leia with a spear. The princess groans; this 
+frightens the stubby ball of fuzz and he prods her again. Leia sits up 
+and stares at the three-foot-high Ewok. She tries to figure out where 
+she is and what has happened. Her clothes are torn; she's bruised and 
+disheveled.</sd>
+
+<sd>The Ewok jumps up and grabs a four-foot-long spear, which he holds in a 
+defensive position. Leia watches him as he circles warily and begins 
+poking her with the sharp point of the spear.</sd>
+
+<sp><speaker>LEIA</speaker>
+Cut it out!</sp>
+
+<sd>She stands up, and the Ewok quickly backs away.</sd>
+
+<sp><speaker>LEIA</speaker>
+I'm not gonna hurt you.</sp>
+
+<sd>Leia looks around at the dense forest, and at the charred remains of 
+her speeder bike, then sits down, with a sigh, on a fallen log.</sd>
+
+<sp><speaker>LEIA</speaker>
+Well, looks like I'm stuck here. Trouble is, I don't know where here 
+is.</sp>
+
+<sd>She puts her head in her hands to rub away some of the soreness from 
+her fall. She looks over at the watchful little Ewok and pats the log 
+beside her.</sd>
+
+<sp><speaker>LEIA</speaker>
+Well, maybe you can help me. Come on, sit down.</sp>
+
+<sd>Wicket holds his spear up warily and growls at her like a puppy. Leia 
+pats the log again.</sd>
+
+<sp><speaker>LEIA</speaker>
+I promise I won't hurt you. Now come here.</sp>
+
+<sd>More growls and squeaks from the little bear creature.</sd>
+
+<sp><speaker>LEIA</speaker>
+All right. You want something to eat?</sp>
+
+<sd>She takes a scrap of food out of her pocket and offers it to him. 
+Wicket takes a step backward, then cocks his head and moves cautiously 
+toward Leia, chattering in his squeaky Ewok language.</sd>
+
+<sp><speaker>LEIA</speaker>
+That's right. Come on. Hmmm?</sp>
+
+<sd>Sniffing the food curiously, the Ewok comes toward Leia and sits on the 
+log beside her. She takes off her helmet, and the little creature jumps 
+back, startled again. He runs along the log, pointing his spear at her 
+and chattering a blue streak. Leia holds out the helmet to him.</sd>
+
+<sp><speaker>LEIA</speaker>
+Look, it's a hat. It's not gonna hurt you. Look. You're a jittery 
+little thing, aren't you?</sp>
+
+<sd>Reassured, Wicket lowers his spear and climbs back on the log, coming 
+to investigate the helmet. Suddenly his ears perk up and he begins to 
+sniff the air. He looks around warily, whispering some Ewokese warning 
+to Leia.</sd>
+
+<sp><speaker>LEIA</speaker>
+What is it?</sp>
+
+<sd>Suddenly a laser bolt comes out of the foliage and explodes on the log 
+next to Leia. Leia and Wicket both roll backwards off the log, hiding 
+behind it. Leia holds her own laser gun ready, while Wicket disappears 
+underneath the log. Another shot, and still no sight of anyone in the 
+forest. Then Leia senses something and turns to find a large IMPERIAL 
+SCOUT standing over her with his weapon pointed at her head. He reaches 
+out his hand for her weapon.</sd>
+
+<sp><speaker>SCOUT #l</speaker>
+Freeze!  Come on, get up!</sp>
+
+<sd>She hands the weapon over, as a second scout emerges from the foliage 
+in front of the log.</sd>
+
+<sp><speaker>SCOUT #1</speaker>
+Go get your ride and take her back to base.</sp>
+
+<sp><speaker>SCOUT #2</speaker>
+Yes, sir.</sp>
+
+<sd>The second scout starts toward his bike, as Wicket, crouched under the 
+log, extends his spear and hits the first scout on the leg. The scout 
+jumps and lets out an exclamation, and looks down at Wicket, puzzled. 
+Leia grabs a branch and knocks him out. She dives for his laser pistol, 
+and the second scout, now on his bike, takes off. Leia fires away and 
+hits the escaping bike, causing it to crash into the first scout's 
+bike, which flies end over end and explodes. The forest is quiet once 
+more. Wicket pokes his fuzzy head up from behind the log and regards 
+Leia with�new respect. He mumbles his awe. Leia hurries over, looking 
+around all the time, and motions the chubby little creature into the 
+dense foliage.</sd>
+
+<sp><speaker>LEIA</speaker>
+Come on, let's get outta here.</sp>
+
+<sd>As they move into the foliage, Wicket takes the lead. He shrieks and 
+tugs at Leia to follow him.</sd>
+
+<setting>68   INT DEATH STAR - CORRIDOR TO EMPEROR'S TOWER</setting>
+
+<sd>Darth Vader walks down the corridor to the Emperor's Tower and private 
+elevator. The Emperor's private guard steps in Vader's path.</sd>
+
+<sp><speaker>GUARD</speaker>
+Halt! The Emperor does not wish to be disturbed at the moment.</sp>
+
+<sp><speaker>VADER        </speaker>
+(raising his gloved hand to the two guards and choking them with the 
+<name type="ORG">Force</name>)
+The Emperor will see me, now!</sp>
+
+<sp><speaker>GUARD</speaker>
+(repeating Vader's command)
+The Emperor will see you, now.</sp>
+
+<setting>69   INT EMPEROR'S TOWER - THRONE ROOM</setting>
+
+<sd>Two red <name type="ORG">Imperial</name> Guards stand watch at the elevator as the door opens 
+to reveal Vader. Vader enters the eerie, foreboding throne room. It 
+appears to be empty. His footsteps echo as he approaches the throne. He 
+waits, absolutely still. The Emperor sits with his back to the Dark 
+Lord.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+I told you to remain on the command ship.</sp>
+
+<sp><speaker>VADER</speaker>
+A small Rebel force has penetrated the shield and landed on Endor.</sp>
+
+<sp><speaker>EMPEROR	 (no surprise)</speaker>
+Yes, I know.</sp>
+
+<sp><speaker>VADER	 (after a beat)</speaker>
+My son is with them.</sp>
+
+<sp><speaker>EMPEROR	 (very cool)</speaker>
+Are you sure?</sp>
+
+<sp><speaker>VADER</speaker>
+I have felt him, my Master.</sp>
+
+<sp><speaker>EMPEROR</speaker>
+Strange, that I have not. I wonder if your feelings on this matter are 
+clear, Lord
+Vader.</sp>
+
+<sd>Vader knows what is being asked.</sd>
+
+<sp><speaker>VADER</speaker>
+They are clear, my Master.</sp>
+
+<sp><speaker>EMPEROR</speaker>
+Then you must go to <name type="LOC">the Sanctuary Moon</name> and wait for them.</sp>
+
+<sp><speaker>VADER	 (skeptical)</speaker>
+He will come to me?</sp>
+
+<sp><speaker>EMPEROR</speaker>
+I have foreseen it. His compassion for you will be his undoing. He will 
+come to you and
+then you will bring him before me.</sp>
+
+<sp><speaker>VADER	 (bows)</speaker>
+As you wish.</sp>
+
+<sd>The Dark Lord strides out of the throne room.</sd>
+
+<setting>70   EXT FOREST CLEARING - LEIA'S CRASH SITE</setting>
+
+<sd><name type="NORP">Han</name>, Luke, Chewie, and the two droids are spread out as they move 
+through the heavy foliage near the clearing where we last saw Leia. 
+Luke finds Leia's helmet, picks it up with an expression of concern.</sd>
+
+<sp><speaker>HAN	 (OS)</speaker>
+Luke! Luke!</sp>
+
+<sd>Luke runs with the helmet to where <name type="NORP">Han</name> has found the charred wreckage 
+of a speeder bike in the grass.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Oh, Master Luke.</sp>
+
+<sp><speaker>LUKE</speaker>
+There's two more wrecked speeders back there. And I found this.</sp>
+
+<sd>He tosses the helmet to <name type="NORP">Han</name>.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+I'm afraid that <name type="GPE">Artoo</name>'s sensors can find no trace of Princess Leia.</sp>
+
+<sp><speaker>HAN	 (gravely)</speaker>
+I hope she's alright.</sp>
+
+<sd>Chewbacca growls, sniffing the air, then, with a bark, pushes off 
+through the foliage.</sd>
+
+                              HAN
+What, Chewie? What? Chewie!
+
+<sd>The others rush to keep up with the giant <name type="NORP">Wookiee</name>. As he scoots along, 
+<name type="GPE">Artoo</name> whistles nervously.</sd>
+
+<setting>71   EXT FOREST - DENSE FOLIAGE</setting>
+
+<sd>The group has reached a break in the undergrowth. Chewie walks up to a 
+tall stake planted in the ground. There is a dead animal hanging from 
+it.</sd>
+
+<sp><speaker>HAN</speaker>
+Hey, I don't get it.</sp>
+
+<sd>The rest of the group joins the <name type="NORP">Wookiee</name> around the stake.</sd>
+
+<sp><speaker>HAN	 (cont)</speaker>
+Nah, it's just a dead animal, Chewie.</sp>
+
+<sd>Chewie can't resist. He reaches toward the meat.</sd>
+
+<sp><speaker>LUKE</speaker>
+Chewie, wa-wait!  Don't!</sp>
+
+<sd>Too late. The <name type="NORP">Wookiee</name> has already pulled the animal from the stake. 
+SPROOING! The group finds itself hanging upside down in an Ewok net, 
+suspended high above the clearing. <name type="GPE">Artoo</name> lets out a wild series of 
+beeps and whistles, and Chewie howls his regret. Their bodies are a 
+jumble in the net. <name type="NORP">Han</name> removes a <name type="NORP">Wookiee</name> paw from his mouth.</sd>
+
+<sp><speaker>HAN</speaker>
+Nice work. Great, Chewie! Great! Always thinking with your stomach.</sp>
+
+<sp><speaker>LUKE</speaker>
+Will you take it easy? Let's just figure out a way to get out of this 
+thing. 
+(trying to free an arm) 
+<name type="NORP">Han</name>, can you reach my lightsaber?</sp>
+
+<sp><speaker>HAN</speaker>
+Yeah, sure.</sp>
+
+<sd><name type="GPE">Artoo</name> is at the bottommost point in the net. He extends his cutting 
+appendage and begins slicing at the net. <name type="NORP">Han</name> is trying to squeeze an 
+arm past <name type="ORG">Threepio</name> to get at Luke's lightsaber. The net continues to 
+spin.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+<name type="GPE">Artoo</name>, I'm not sure that's such a good idea. It's a very long dro-o-
+op!!</sp>
+
+<sd><name type="GPE">Artoo</name> has cut through and the entire group tumbles out of the net, 
+crashing to the ground. As they regain their senses and sit up, they 
+realize they are surrounded by dozens of Ewoks, each brandishing a long 
+spear.</sd>
+
+<sp><speaker>HAN</speaker>
+Wha--?  Hey!  Point that thing someplace else.</sp>
+
+<sd><name type="NORP">Han</name> pushes the spear wielded by TEEBO out of his face and a second Ewok 
+warrior comes up to argue with Teebo. The spear returns to <name type="NORP">Han</name>'s face. 
+He grabs it angrily and starts to go for his laser pistol.</sd>
+
+<sp><speaker>HAN</speaker>
+Hey!</sp>
+
+<sp><speaker>LUKE</speaker>
+<name type="NORP">Han</name>, don't. It'll be all right.</sp>
+
+<sd>The Ewoks swarm through them and confiscate their weapons. Luke lets 
+them take his lightsaber. Chewie growls at the furry critters.</sd>
+
+<sp><speaker>LUKE</speaker>
+Chewie, give 'em your crossbow.</sp>
+
+<sd><name type="GPE">Artoo</name> and <name type="ORG">Threepio</name> are just untangling themselves. <name type="ORG">Threepio</name> gets free 
+of the net and sits up, rattled.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Oh, my head. Oh, my goodness!</sp>
+
+<sd>When the Ewoks see <name type="ORG">Threepio</name>, they let out a gasp and chatter among 
+themselves. <name type="ORG">Threepio</name> speaks to them in their native tongue. The Ewok 
+nearest him drops his spear and prostrates himself before the droid. In 
+a moment, all the Ewoks have followed suit. Chewie lets out a puzzled 
+bark. <name type="NORP">Han</name> and Luke regard the bowed creatures in wonder. The Ewoks 
+begin to chant at <name type="ORG">Threepio</name>.</sd>
+
+<sp><speaker>LUKE</speaker>
+Do you understand anything they're saying?</sp>
+
+<sp><speaker>THREEPIO</speaker>
+Oh, yes, Master Luke!  Remember that I am fluent in over six million 
+forms of
+communication.</sp>
+
+<sp><speaker>HAN</speaker>
+What are you telling them?</sp>
+
+<sp><speaker>THREEPIO</speaker>
+Hello, I think... I could be mistaken. They're using a very primitive 
+dialect.  But
+I do believe they think I am some sort of god.</sp>
+
+<sd>Chewbacca and <name type="GPE">Artoo</name> think that's very funny. <name type="NORP">Han</name> and Luke exchange 
+"what next?" looks.</sd>
+
+<sp><speaker>HAN</speaker>
+Well, why don't you use your divine influence and get us out of this?</sp>
+
+<sp><speaker>THREEPIO</speaker>
+I beg your pardon, General Solo, but that just wouldn't be proper.</sp>
+
+<sp><speaker>HAN</speaker>
+Proper?!</sp>
+
+<sp><speaker>THREEPIO</speaker>
+It's against my programming to impersonate a deity.</sp>
+
+<sd><name type="NORP">Han</name> moves toward <name type="ORG">Threepio</name> threateningly.</sd>
+
+<sp><speaker>HAN</speaker>
+Why, you--</sp>
+
+<sd>Several Ewoks' spears are thrust in <name type="NORP">Han</name>'s face at the affront to their 
+god. The Ewoks move in to protect their god and <name type="NORP">Han</name> is surrounded by a 
+menacing circle of spears, all aimed at him. He holds up his hands 
+placatingly.</sd>
+
+<sp><speaker>HAN</speaker>
+My mistake. He's an old friend of mine.</sp>
+
+<setting>72   EXT FOREST - SERIES OF SHOTS</setting>
+
+<sd>A procession of Ewoks winds through the ever-darkening forest. Their 
+prisoners - <name type="NORP">Han</name>, Luke, Chewie, and <name type="GPE">Artoo</name> - are tied to long poles and 
+wrapped in vines, cocoonlike.</sd>
+
+<sd>Each pole is carried on the shoulders of several Ewoks. Behind the 
+captives, <name type="ORG">Threepio</name> is carried on a litter, like a king, by the 
+remaining creatures.</sd>
+
+<setting>73   EXT FOREST WALKWAY - MOON FOREST</setting>
+
+<sd>The procession moves along a shaky, narrow, wooden walkway, high in the 
+giant trees. It stops at the end of the walkway, which drops off into 
+nothingness. On the other side of the abyss is a village of mud huts 
+and rickety walkways, attached to the giant trees. The lead Ewok takes 
+hold of a long vine and swings across to the village square; the other 
+Ewoks follow suit.</sd>
+
+<setting>74   EXT EWOK VILLAGE SQUARE</setting>
+
+<sd>The procession winds its way into the village square. Mother Ewoks 
+gather their babies up and scurry into their huts at the sight of the 
+newcomers. The group stops before the largest hut.</sd>
+
+<sd><name type="NORP">Han</name>, Luke, Chewie, and <name type="GPE">Artoo</name> are still bound to their poles. <name type="NORP">Han</name> is 
+placed on a spit above what looks like a barbecue pit and the others 
+are leaned against a tree nearby. <name type="ORG">Threepio</name>'s litter/throne is gently 
+placed near the pit. He watches with rapt fascination. <name type="NORP">Han</name>, Luke, and 
+Chewie are less than fascinated.</sd>
+
+<sp><speaker>HAN</speaker>
+I have a really bad feeling about this.</sp>
+
+<sd>Chewie growls his concern.</sd>
+
+<sd>Suddenly all activity stops as LOGRAY, the tribal Medicine Man, comes 
+out of the big hut. He examines the captives carefully, goes to join 
+<name type="ORG">Threepio</name>, whose throne has been placed on an elevated platform. A 
+larger, gray-haired Ewok, CHIEF CHIRPA, is examining Luke's lightsaber 
+with great curiosity.</sd>
+
+<sd>Logray speaks to <name type="ORG">Threepio</name> and the assemblage of fuzzy Ewoks, pointing 
+to the prisoners tied to the stakes. The Ewoks begin filling the pit 
+under <name type="NORP">Han</name> with firewood.</sd>
+
+<sp><speaker>HAN</speaker>
+What did he say?</sp>
+
+<sp><speaker>THREEPIO</speaker>
+I'm rather embarrassed, General Solo, but it appears you are to be the 
+main course at a
+banquet in my honor.</sp>
+
+<sd>The drums start beating, and all the furry heads turn to the large hut. 
+Leia emerges, wearing an animal-skin dress. She sees what's happening 
+at the same moment the prisoners see her.</sd>
+
+<sp><speaker>HAN and LUKE</speaker>
+Leia!</sp>
+
+<sd>As she moves toward them, the Ewoks block her way with raised spears.</sd>
+
+<sp><speaker>LEIA</speaker>
+Oh!</sp>
+
+<sp><speaker>THREEPIO</speaker>
+Your Royal Highness.</sp>
+
+<sd><name type="GPE">Artoo</name> and Chewie chime in with their welcome. Leia looks at the 
+assembled Ewoks and sighs.</sd>
+
+<sp><speaker>LEIA</speaker>
+But these are my friends. <name type="ORG">Threepio</name>, tell them they must be set free.</sp>
+
+<sd><name type="ORG">Threepio</name> talks to Chirpa and Logray, who listen and shake their heads 
+negatively. The Medicine Man gestures toward the prisoners and barks 
+some orders. Several Ewoks jump up and pile more wood on the barbecue 
+with vigor. Leia trades frantic looks with Luke and <name type="NORP">Han</name> .</sd>
+
+<sp><speaker>HAN</speaker>
+Somehow, I got the feeling that didn't help us very much.</sp>
+
+<sp><speaker>LUKE</speaker>
+<name type="ORG">Threepio</name>, tell them if they don't do as you wish, you'll become angry 
+and use your magic.</sp>
+
+<sp><speaker>THREEPIO</speaker>
+But Master Luke, what magic? I couldn't possibly --</sp>
+
+<sp><speaker>LUKE</speaker>
+Just tell them.</sp>
+
+<sd><name type="ORG">Threepio</name> speaks to the Ewoks. The Ewoks are disturbed. Logray steps 
+forward and challenges <name type="ORG">Threepio</name>. Luke closes his eyes and begins to 
+concentrate.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+You see, Master Luke; they didn't believe me. Just...</sp>
+
+<sd>Now the litter/throne, with <name type="ORG">Threepio</name> sitting upon it, rises from the 
+ground. At first <name type="ORG">Threepio</name> doesn't notice and keeps talking.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+... as I said they wouldn't. Wha-wha-what's happening! Oh! Oh, dear! 
+Oh!</sp>
+
+<sd>The Ewoks fall back in terror from the floating throne. Now <name type="ORG">Threepio</name> 
+begins to spin as though he were on a revolving stool, with <name type="ORG">Threepio</name> 
+calling out in total panic at his situation.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Put me down! He-e-elp! Master Luke! <name type="GPE">Artoo</name>! Somebody, somebody, help! 
+Master Luke, <name type="GPE">Artoo</name>! <name type="GPE">Artoo</name>, quickly! Do something, somebody! Oh! Ohhh!</sp>
+
+<sd>Chief Chirpa yells orders to the cowering Ewoks. They rush up and 
+release the bound prisoners. Luke and <name type="NORP">Han</name> enfold Leia in a group 
+embrace. Luke notices the spinning <name type="ORG">Threepio</name>, with <name type="GPE">Artoo</name> beeping up at 
+him, and slowly lowers the golden droid and the throne to the ground. 
+Logray orders the little droid cut down. <name type="GPE">Artoo</name> crashes to the ground. 
+When the Ewoks set him upright, the little droid is fighting mad. <name type="GPE">Artoo</name> 
+beeps a blue streak at the nearest Ewok, and begins pursuing him, 
+finally getting close enough to zap him with an electric charge. The 
+Ewok jumps two feet in the air and runs away, screaming. A small group 
+of Ewoks surround the giant <name type="NORP">Wookiee</name>, scratching their heads and 
+marveling at his height.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Oh, oh, oh, oh! Thank goodness.</sp>
+
+<sp><speaker>LUKE</speaker>
+Thanks, <name type="ORG">Threepio</name>.</sp>
+
+<sp><speaker>THREEPIO	 (still shaken)</speaker>
+I...I never knew I had it in me.</sp>
+
+<setting>75   INT CHIEF'S HUT - COUNCIL OF ELDERS</setting>
+
+<sd>A glowing fire dances in the center of the spartan, low-ceilinged room, 
+creating a kaleidoscope of shadows on the walls. Along one side, a 
+group of ten Ewok elders flank Chief Chirpa, who sits on his throne. 
+The <name type="ORG">Rebels</name> sit along the walls of the hut, with <name type="ORG">Threepio</name> between the 
+two groups and Wicket and Teebo off to one side.</sd>
+
+<sd><name type="ORG">Threepio</name> is in the midst of a long, animated speech in the Ewok's 
+squeaky native tongue. The Ewoks listen carefully and occasionally 
+murmur comments to each other. <name type="ORG">Threepio</name> points several times at the 
+Rebel group and pantomimes a short history of the Galactic Civil War, 
+mimicking the explosion and rocket sounds, imitating <name type="ORG">Imperial</name> walkers. 
+Throughout the long account, certain familiar names are distinguishable 
+in English: Princess Leia, <name type="GPE">Artoo</name>, Darth Vader, Death Star, <name type="ORG">Jedi</name>, Obi-
+Wan <name type="ORG">Kenobi</name>. <name type="GPE">Artoo</name> begins beeping excitedly at <name type="ORG">Threepio</name>.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Yes, <name type="GPE">Artoo</name>. I was just coming to that.</sp>
+
+<sd><name type="ORG">Threepio</name> continues with: Millennium <name type="ORG">Falcon</name>, Cloud City, Vader, <name type="NORP">Han</name> 
+Solo, carbonite, Sarlacc, bringing the history up to the present time.</sd>
+
+<sd>At the end of it, the Chief, Logray, and the elders confer, then nod in 
+agreement. The Chief stands and makes a pronouncement.</sd>
+
+<sd>The drums begin to sound, and all the Ewoks stand with a great cheer 
+and screeches.</sd>
+
+<sp><speaker>HAN</speaker>
+What's going on?</sp>
+
+<sp><speaker>LEIA</speaker>
+I don't know.</sp>
+
+<sd>Luke has been sharing the joy with smiling visage, but now something 
+passes like a dark cloud through his consciousness. The others do not 
+notice.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Wonderful! We are now a part of the tribe.</sp>
+
+<sd>Several of the little teddy bears run up and hug the <name type="ORG">Rebels</name>.</sd>
+
+<sp><speaker>HAN</speaker>
+Just what I always wanted.</sp>
+
+<sd>Chewbacca is being enthusiastically embraced by an Ewok, while Wicket 
+clings to <name type="NORP">Han</name>'s leg.</sd>
+
+<sp><speaker>HAN	 (chuckles)</speaker>
+Well, short help is better than no help at all, Chewie. 
+(to Wicket) 
+Thank you. Okay.</sp>
+
+<sp><speaker>THREEPIO</speaker>
+He says the scouts are going to show us the quickest way to the shield 
+generator.</sp>
+
+<sd>Chewie barks. Luke has drifted to the back of the hut. Now he wanders 
+outside into <name type="LOC">the moon</name>light. Leia notices and follows.</sd>
+
+<sp><speaker>HAN</speaker>
+Good. How far is it? Ask him. We need some fresh supplies, too. And try 
+and get our weapons back.</sp>
+
+<sd><name type="NORP">Han</name> pulls <name type="ORG">Threepio</name> back as he keeps trying to translate.</sd>
+
+<sp><speaker>HAN	 (cont)</speaker>
+And hurry up, will ya? I haven't got all day.</sp>
+
+<setting>76   EXT EWOK VILLAGE - NIGHT</setting>
+
+<sd>The walkway is deserted now. The windows of the little huts glow and 
+flicker from the fires inside. The sounds of the forest fill the soft 
+night air. Luke has wandered away from the Chief's hut and stands 
+staring up at <name type="ORG">the Death Star</name>. Leia finds him like that.</sd>
+
+<sp><speaker>LEIA</speaker>
+Luke, what's wrong?</sp>
+
+<sd>Luke turns and looks at her a long moment.</sd>
+
+<sp><speaker>LUKE</speaker>
+Leia... do you remember your mother? Your real mother?</sp>
+
+<sp><speaker>LEIA</speaker>
+Just a little bit. She died when I was very young.</sp>
+
+<sp><speaker>LUKE</speaker>
+What do you remember?</sp>
+
+<sp><speaker>LEIA</speaker>
+Just...images, really. Feelings.</sp>
+
+<sp><speaker>LUKE</speaker>
+Tell me.</sp>
+
+<sp><speaker>LEIA</speaker>
+(a little surprised at his insistence)
+She was very beautiful. Kind, but...sad.
+(looks up)
+Why are you asking me all this?</sp>
+
+<sd>He looks away.</sd>
+
+<sp><speaker>LUKE</speaker>
+I have no memory of my mother. I never knew her.</sp>
+
+<sp><speaker>LEIA</speaker>
+Luke, tell me. What's troubling you?</sp>
+
+<sp><speaker>LUKE</speaker>
+Vader is here...now, on this moon.</sp>
+
+<sp><speaker>LEIA	 (alarmed)</speaker>
+How do you know?</sp>
+
+<sp><speaker>LUKE</speaker>
+I felt his presence. He's come for me. He can feel when I'm near. 
+That's why I have to go.
+(facing her)
+As long as I stay, I'm endangering the group and our mission here.
+(beat)
+I have to face him.</sp>
+
+<sd>Leia is distraught, confused.</sd>
+
+<sp><speaker>LEIA</speaker>
+Why?</sp>
+
+<sd>Luke moves close and his manner is gentle. And very calm.</sd>
+
+<sp><speaker>LUKE</speaker>
+He's my father.</sp>
+
+<sp><speaker>LEIA</speaker>
+Your father?</sp>
+
+<sp><speaker>LUKE</speaker>
+There's more. It won't be easy for you to hear it, but you must. If I 
+don't make it back, you're the only hope for the <name type="ORG">Alliance</name>.</sp>
+
+<sd>Leia is very disturbed by this. She moves away, as if to deny it.</sd>
+
+<sp><speaker>LEIA</speaker>
+Luke, don't talk that way. You have a power I--I don't understand and 
+could never have.</sp>
+
+<sp><speaker>LUKE</speaker>
+You're wrong, Leia. You have that power too. In time you'll learn to 
+use it as I have. The <name type="ORG">Force</name> is strong in my family. My father has 
+it...I have it...and...my sister has it.</sp>
+
+<sd>Leia stares into his eyes. What she sees there frightens her. But she 
+doesn't draw away. She begins to understand.</sd>
+
+<sp><speaker>LUKE</speaker>
+Yes. It's you Leia.</sp>
+
+<sp><speaker>LEIA</speaker>
+I know. Somehow...I've always known.</sp>
+
+<sp><speaker>LUKE</speaker>
+Then you know why I have to face him.</sp>
+
+<sp><speaker>LEIA</speaker>
+No! Luke, run away, far away. If he can feel your presence, then leave 
+this place. I wish I could go with you.</sp>
+
+<sp><speaker>LUKE</speaker>
+No, you don't. You've always been strong.</sp>
+
+<sp><speaker>LEIA</speaker>
+But, why must you confront him?</sp>
+
+<sp><speaker>LUKE</speaker>
+Because...there is good in him. I've felt it. He won't turn me over to 
+the Emperor. I can save him. I can turn him back to the good side. I 
+have to try.</sp>
+
+<sd>They hold each other close and look at each other, brother and sister.</sd>
+
+<sd>Leia holds back her tears as Luke slowly lets her go and moves away. He 
+disappears onto the walkway that leads out of the village. Leia, bathed 
+in moonlight, watches him go as <name type="NORP">Han</name> comes out of the Chief's hut and 
+comes over to her. Leia is crying, her body trembling. He realizes only 
+now that she is crying.</sd>
+
+<sp><speaker>HAN</speaker>
+Hey, what's goin' on?</sp>
+
+<sd>Leia attempts to stifle her sobs and wipes her eyes.</sd>
+
+<sp><speaker>LEIA</speaker>
+Nothing. I - just want to be alone for a little while.</sp>
+
+<sp><speaker>HAN	 (angry)</speaker>
+Nothing?  Come on, tell me.  What's goin' on?</sp>
+
+<sd>She looks up at him, struggling to control herself.</sd>
+
+<sp><speaker>LEIA</speaker>
+I...I can't tell you.</sp>
+
+<sp><speaker>HAN	 (loses his temper)</speaker>
+Did you tell Luke? Is that who you could tell?</sp>
+
+<sp><speaker>LEIA</speaker>
+I...</sp>
+
+<sp><speaker>HAN</speaker>
+Ahhh...</sp>
+
+<sd>He starts to walk away, exasperated, then stops and walks back to her.</sd>
+
+<sp><speaker>HAN</speaker>
+I'm sorry.</sp>
+
+<sp><speaker>LEIA</speaker>
+Hold me.</sp>
+
+<sd><name type="NORP">Han</name> gathers her tightly in his protective embrace.</sd>
+
+<setting>77   EXT FOREST - IMPERIAL LANDING PLATFORM</setting>
+
+<sd>An <name type="ORG">Imperial</name> shuttle floats down from <name type="ORG">the Death Star</name> and lands 
+gracefully on the huge platform.</sd>
+
+<sd>Now, an <name type="ORG">Imperial</name> walker approaches the platform from the darkness of 
+the forest. The whole outpost - platform, walkers, military - looks 
+particularly offensive in the midst of this verdant beauty.</sd>
+
+<setting>78   EXT IMPERIAL LANDING PLATFORM - LOWER DECK</setting>
+
+<sd>Darth Vader walks down the ramp of the shuttle onto the platform, into 
+an elevator, and appears on a ramp on a lower level. He walks toward 
+another ramp exit and is met by two troopers and a commander with Luke, 
+in binders, at their center. The young <name type="ORG">Jedi</name> gazes at Vader with 
+complete calm.</sd>
+
+<sp><speaker>COMMANDER</speaker>
+This is a Rebel that surrendered to us. Although he denies it, I 
+believe there may be more of them, and I request permission to conduct 
+a further search of the area.</sp>
+
+<sd>The commander extends his hand, revealing Luke's lightsaber.</sd>
+
+<sp><speaker>COMMANDER</speaker>
+He was armed only with this.</sp>
+
+<sd>Vader looks at Luke, turns away and faces the commander, taking the 
+lightsaber from the commander's hand.</sd>
+
+<sp><speaker>VADER</speaker>
+Good work, Commander. Leave us. Conduct your search and bring his 
+companions to me.</sp>
+
+<sp><speaker>COMMANDER</speaker>
+Yes, my Lord.</sp>
+
+<sd>The officer and troops withdraw. Vader and Luke are left standing alone 
+in the oddly tranquil beauty of the place. The sounds of the forest 
+filter in upon them.</sd>
+
+<sp><speaker>VADER</speaker>
+The Emperor has been expecting you.</sp>
+
+<sp><speaker>LUKE</speaker>
+I know, father.</sp>
+
+<sp><speaker>VADER</speaker>
+So, you have accepted the truth.</sp>
+
+<sp><speaker>LURE</speaker>
+I've accepted the truth that you were once <name type="GPE">Anakin</name> Skywalker, my father.</sp>
+
+<sp><speaker>VADER	 (turning to face him)</speaker>
+That name no longer has any meaning for me.</sp>
+
+<sp><speaker>LUKE</speaker>
+It is the name of your true self. You've only forgotten. I know there 
+is good in you. The Emperor hasn't driven it from you fully. That is 
+why you couldn't destroy me. That's why you won't bring me to your 
+Emperor now.</sp>
+
+<sd>Vader looks down from Luke to the lightsaber in his own black- gloved 
+hand. He seems to ponder Luke's words.</sd>
+
+<sp><speaker>VADER	 (indicating lightsaber)</speaker>
+I see you have constructed a new lightsaber.</sp>
+
+<sd>Vader ignites the lightsaber and holds it to examine its humming, 
+brilliant blade.</sd>
+
+<sp><speaker>VADER</speaker>
+Your skills are complete. Indeed, you are powerful, as the Emperor has 
+foreseen.</sp>
+
+<sd>They stand for a moment, the Vader extinguishes the lightsaber.</sd>
+
+<sp><speaker>LUKE</speaker>
+Come with me.</sp>
+
+<sp><speaker>VADER</speaker>
+Obi-Wan once thought as you do.</sp>
+
+<sd>Luke steps close to Vader, then stops. Vader is still.</sd>
+
+<sp><speaker>VADER</speaker>
+You don't know the power of the dark side. I must obey my master.</sp>
+
+<sp><speaker>LUKE</speaker>
+I will not turn...and you'll be forced to kill me.</sp>
+
+<sp><speaker>VADER</speaker>
+If that is your destiny.</sp>
+
+<sp><speaker>LUKE</speaker>
+Search your feelings, father. You can't do this. I feel the conflict 
+within you. Let go
+of your hate.</sp>
+
+<sp><speaker>VADER</speaker>
+It is too late for me, son. The Emperor will show you the true nature 
+of the <name type="ORG">Force</name>. He is
+your master now.</sp>
+
+<sd>Vader signals to some distant stormtroopers. He and Luke stand staring 
+at one another for a long moment.</sd>
+
+<sp><speaker>LUKE</speaker>
+Then my father is truly dead.</sp>
+
+<setting>79   EXT ENDOR - RIDGE OVERLOOKING SHIELD GENERATOR</setting>
+
+<sd><name type="NORP">Han</name>, Leia, Chewbacca, the droids, Wicket, and another Ewok scout, 
+PAPLOO, hide on a ridge overlooking the massive <name type="ORG">Imperial</name> shield 
+generator. At the base of the generator is an <name type="ORG">Imperial</name> landing 
+platform. Leia studies the installation.</sd>
+
+<sp><speaker>LEIA</speaker>
+The main entrance to the control bunker's on the far side of that 
+landing platform. This
+isn't gonna be easy.</sp>
+
+<sp><speaker>HAN</speaker>
+Hey, don't worry. Chewie and me got into a lot of places more heavily 
+guarded than this.</sp>
+
+<sd>Wicket and Paploo are chattering away in Ewok language. They speak to 
+<name type="ORG">Threepio</name>.</sd>
+
+<sp><speaker>LEIA</speaker>
+What's he saying?</sp>
+
+<sp><speaker>THREEPIO</speaker>
+He says there's a secret entrance on the other side of the ridge.</sp>
+
+<setting>80   EXT SPACE - REBEL FLEET</setting>
+
+<sd>The vast fleet hangs in space near a blue planet. A giant Rebel Star 
+Cruiser is up at the front, but now the Millennium Flacon roars up to a 
+spot ahead of it, tiny in comparison.</sd>
+
+<setting>81   INT MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd><name type="GPE">Lando</name> is in the pilot seat. His alien copilot, NIEN NUNB, takes some 
+getting used to in the familiar environs of the <name type="ORG">Falcon</name>'s cockpit. <name type="GPE">Lando</name> 
+speaks into his comlink.</sd>
+
+<sp><speaker>LANDO</speaker>
+Admiral, we're in position. All fighters accounted for.</sp>
+
+<sp><speaker>ACKBAR 	(VO)</speaker>
+Proceed with the countdown. All groups assume attack coordinates.</sp>
+
+<sd><name type="GPE">Lando</name> turns to his weird copilot.</sd>
+
+<sp><speaker>LANDO</speaker>
+Don't worry, my friends are down there. They'll have that shield down 
+on time...
+(to himself) 
+or this'll be the shortest offensive of all time.</sp>
+
+<sd>The copilot flips some switches and grunts an alien comment.</sd>
+
+<sp><speaker>ACKBAR	 (VO)</speaker>
+All craft, prepare to jump to hyperspace on my mark.</sp>
+
+<sp><speaker>LANDO</speaker>
+All right. Stand by.</sp>
+
+<sd>He pulls a lever, and the stars outside begin to streak.</sd>
+
+<setting>82   EXT SPACE - REBEL FLEET</setting>
+
+<sd>We are treated to an awesome sight: first the Millennium <name type="ORG">Falcon</name>, then 
+Ackbar's Star Cruiser, then, in large segments, the huge fleet ROARS 
+INTO HYPERSPACE. And disappears.</sd>
+
+<setting>83   EXT ENDOR - RIDGE OVERLOOKING CONTROL BUNKER</setting>
+
+<sd><name type="NORP">Han</name>, Leia, Chewie, the droids, and their two Ewok guides, Wicket and 
+Paploo, have reunited with the Rebel strike squad. The entire group is 
+spread through the thick undergrowth. Below them is the BUNKER that 
+leads into the generator. Four <name type="ORG">Imperial</name> scouts, their speeder bikes 
+parked nearby, keep watch over the bunker entrance. Chewie growls an 
+observation, and Paploo chatters away to <name type="NORP">Han</name> in Ewok language.</sd>
+
+<sp><speaker>HAN</speaker>
+Back door, huh? Good idea.</sp>
+
+<sd>Wicket and Paploo continue their Ewok conversation.</sd>
+
+<sp><speaker>HAN	 (cont)</speaker>
+It's only a few guards. This shouldn't be too much trouble.</sp>
+
+<sp><speaker>LEIA</speaker>
+Well, it only takes one to sound the alarm.</sp>
+
+<sp><speaker>HAN	 (with self-confident grin)</speaker>
+Then we'll do it real quiet-like.</sp>
+
+<sd><name type="ORG">Threepio</name> explains what is going on to Wicket and Paploo. The Ewoks 
+chatter a moment between themselves. Then Paploo jumps up and scampers 
+into the underbrush.</sd>
+
+<sd><name type="ORG">Threepio</name> asks Wicket where Paploo went and is given a short reply.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Oh! Oh, my. Uh, Princess Leia!</sp>
+
+<sp><speaker>LEIA</speaker>
+Quiet.</sp>
+
+<sp><speaker>THREEPIO</speaker>
+I'm afraid our furry companion has gone and done something rather rash.</sp>
+
+<sp><speaker>LEIA</speaker>
+Oh, no.</sp>
+
+<setting>84   EXT BUNKER - ENTRANCE</setting>
+
+<sd>Paploo has slipped out of the undergrowth near where the <name type="ORG">Imperial</name> 
+scouts are lounging. He silently swings his furry ball of a body onto 
+one of the scout's speeder bikes and begins flipping switches at 
+random. Suddenly, the bike's engine fires up with a tremendous ROAR. 
+Paploo grins and continues flipping switches. The scouts leap up in 
+surprise.</sd>
+
+<setting>85   EXT RIDGE</setting>
+
+<sd><name type="NORP">Han</name>, Leia and company watch in distress. Chewie barks.</sd>
+
+<sp><speaker>HAN 	(sighs)</speaker>
+There goes our surprise attack.</sp>
+
+<setting>86   EXT BUNKER</setting>
+
+<sd>The <name type="ORG">Imperial</name> scouts race toward Paploo just as his speeder zooms into 
+motion. Paploo hangs on by his paws and shoots away into the forest.</sd>
+
+<sp><speaker>SCOUT</speaker>
+Look! Over there! Stop him!</sp>
+
+<sd>Three of the <name type="ORG">Imperial</name> scouts jump on their rocket bikes and speed away 
+in pursuit. The fourth watches them go from his post at the door.</sd>
+
+<setting>87   EXT RIDGE</setting>
+
+<sd><name type="NORP">Han</name>, Leia, and Chewie exchange delighted looks.</sd>
+
+<sp><speaker>HAN</speaker>
+Not bad for a little furball. There's only one left. You stay here. 
+We'll take care of this.</sp>
+
+<sd><name type="NORP">Han</name> and the <name type="NORP">Wookiee</name> nod at each other and slip down toward the bunker. 
+<name type="ORG">Threepio</name> moves to stand next to Wicket and <name type="GPE">Artoo</name>.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+I have decided that we shall stay here.</sp>
+
+<setting>88   EXT FOREST</setting>
+
+<sd>Paploo sails through the trees, more lucky than in control. It's scary, 
+but he loves it. When the <name type="ORG">Imperial</name> scouts pull within sight behind him 
+and begin firing laser bolts, he decides he's had enough. As he rounds 
+a tree, out of their sight, Paploo grabs a vine and swings up into the 
+trees. A moment later, the scouts tear under him in pursuit of the 
+still-flying, unoccupied bike.</sd>
+
+<setting>89   EXT BUNKER</setting>
+
+<sd><name type="NORP">Han</name> sneaks up behind the remaining <name type="ORG">Imperial</name> scout, taps him on the 
+shoulder and lets the scout chase him behind the bunker into the arms 
+of the waiting Rebel strike team. <name type="NORP">Han</name> returns to the front, and taps 
+out a pattern on the bunker door's control panel. Everyone stands out 
+of sight, police-style, as the door opens. <name type="NORP">Han</name> and Leia peek inside. No 
+sign of life. The group enters the bunker silently, leaving one lookout 
+behind.</sd>
+
+<setting>90   INT DEATH STAR - EMPEROR'S THRONE ROOM</setting>
+
+<sd>The elevator opens. Vader and Luke enter the room alone. They walk 
+across the dark space to stand before the throne, father and son side 
+by side beneath the gaze of the Emperor. Vader bows to his Master.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+Welcome, young Skywalker. I have been expecting you.</sp>
+
+<sd>Luke peers at the hooded figure defiantly. The Emperor then looks down 
+at Luke's binders.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+You no longer need those.</sp>
+
+<sd>The Emperor motions ever so slightly with his finger and Luke's binders 
+fall away, clattering to the floor. Luke looks down at his own hands, 
+free now to reach out and grab the Emperor's neck. He does nothing.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+Guards, leave us.</sp>
+
+<sd>The red-cloaked guards turn and disappear behind the elevator.</sd>
+
+<sp><speaker>EMPEROR	 (to Luke)</speaker>
+I'm looking forward to completing your training. In time you will call 
+me Master.</sp>
+
+<sp><speaker>LUKE</speaker>
+You're gravely mistaken. You won't convert me as you did my father.</sp>
+
+<sd>The Emperor gets down from his throne and walks up very close to Luke. 
+The Emperor looks into his eyes and, for the first time, Luke can 
+perceive the evil visage within the hood.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+Oh, no, my young <name type="ORG">Jedi</name>. You will find that it is you who are 
+mistaken...about a great many things.</sp>
+
+<sp><speaker>VADER</speaker>
+His lightsaber.</sp>
+
+<sd>Vader extends a gloved hand toward the Emperor, revealing Luke's 
+lightsaber. The Emperor takes it.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+Ah, yes, a <name type="ORG">Jedi</name>'s weapon. Much like your father's. By now you must know 
+your father can never be turned from the dark side. So will it be with 
+you.</sp>
+
+<sp><speaker>LUKE</speaker>
+You're wrong. Soon I'll be dead...and you with me.</sp>
+
+<sd>The Emperor laughs.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+Perhaps you refer to the imminent attack of your Rebel fleet.</sp>
+
+<sd>Luke looks up sharply.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+Yes...I assure you we are quite safe from your friends here.</sp>
+
+<sd>Vader looks at Luke.</sd>
+
+<sp><speaker>LUKE</speaker>
+Your overconfidence is your weakness.</sp>
+
+<sp><speaker>EMPEROR</speaker>
+Your faith in your friends is yours.</sp>
+
+<sp><speaker>VADER</speaker>
+It is pointless to resist, my son.</sp>
+
+<sd>The Emperor turns to face Luke.</sd>
+
+<sp><speaker>EMPEROR	 (angry)</speaker>
+Everything that has transpired has done so according to my design. 
+(indicates Endor)
+Your friends up there on <name type="LOC">the Sanctuary Moon</name>...</sp>
+
+<sd>Luke reacts. The Emperor notes it.</sd>
+
+<sp><speaker>EMPEROR	 (cont)</speaker>
+...are walking into a trap. As is your Rebel fleet! It was I who 
+allowed the <name type="ORG">Alliance</name> to know the location of the shield generator. It 
+is quite safe from your pitiful little band. An entire legion of my 
+best troops awaits them.</sp>
+
+<sd>Luke's look darts from the Emperor to Vader and, finally, to the sword 
+in the Emperor's hand.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+Oh...I'm afraid the deflector shield will be quite operational when 
+your friends arrive.</sp>
+
+<setting>91   INT BUNKER - MAIN CONTROL ROOM</setting>
+
+<sd><name type="NORP">Han</name>, Leia, Chewie, and the Rebel strike team storm through a door and 
+enter the main control room, taking all of the personnel prisoner.</sd>
+
+<sp><speaker>HAN</speaker>
+All right! Up! Move! Come on! Quickly! Quickly, Chewie.</sp>
+
+<sd>The Rebel troops herd the generator controllers away from their panels. 
+Leia glances at one of the screens on the control panel.</sd>
+
+<sp><speaker>LEIA</speaker>
+<name type="NORP">Han</name>! Hurry! The fleet will be here any moment.</sp>
+
+<sp><speaker>HAN</speaker>
+Charges!  Come on, come on!</sp>
+
+<sd>Outside, <name type="ORG">Threepio</name> watches nervously in the bushes as several more 
+controllers and stormtroopers run into the bunker, leaving guards at 
+the door.</sd>
+
+<sp><speaker>THREEPIO	 (to Wicket)</speaker>
+Oh, my! They'll be captured!</sp>
+
+<sd>Wicket chatters in Ewok language, and then takes off full steam into 
+the forest.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Wa-wait! Wait, come back! <name type="GPE">Artoo</name>, stay with me.</sp>
+
+<sd>Inside the bunker, <name type="NORP">Han</name> looks up from setting charges as an <name type="ORG">Imperial</name> 
+commander enters.</sd>
+
+<sp><speaker>COMMANDER</speaker>
+Freeze! You Rebel scum.</sp>
+
+<sd><name type="NORP">Han</name> and Leia spin, to find dozens of <name type="ORG">Imperial</name> weapons trained on them 
+and their cohorts. A poised force of <name type="ORG">Imperial</name> troops surround them. 
+Even more pour into the room, roughly disarming the Rebel contingent. 
+<name type="NORP">Han</name>, Leia, and Chewie exchange looks. They're helpless.</sd>
+
+<setting>92   EXT SPACE - ENDOR, DEATH STAR, REBEL FLEET</setting>
+
+<sd>The Death Star and its Sanctuary Moon hang distant in space as the 
+Rebel fleet comes out of hyperspace with an awesome roar. The 
+Millennium <name type="ORG">Falcon</name> and several Rebel fighters are at the front as the 
+space armada bears down on its target.</sd>
+
+<setting>93   INT MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd><name type="GPE">Lando</name> flips switches, checks his screen, and speaks into the radio.</sd>
+
+<sp><speaker>LANDO</speaker>
+All wings report in.</sp>
+
+<sp><speaker>WEDGE</speaker>
+<name type="ORG">Red Leader</name> standing by.</sp>
+
+<sp><speaker>GRAY LEADER</speaker>
+<name type="ORG">Gray</name> Leader standing by.</sp>
+
+<sp><speaker>GREEN LEADER</speaker>
+Green Leader standing by.</sp>
+
+<sp><speaker>WEDGE</speaker>
+Lock S-foils in attack positions.</sp>
+
+<setting>94   INT REBEL STAR CRUISER - BRIDGE</setting>
+
+<sd>From the bridge of the Rebel Headquarters Frigate, Admiral Ackbar 
+watches the fighters massing outside his viewscreen.</sd>
+
+<sp><speaker>ACKBAR</speaker>
+May the <name type="ORG">Force</name> be with us.</sp>
+
+<setting>95   INT MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd><name type="GPE">Lando</name> looks worriedly at his alien copilot, Nien Nunb, who points to 
+the control panel and talks to <name type="GPE">Lando</name>.</sd>
+
+<sp><speaker>LANDO</speaker>
+We've got to be able to get some kind of a reading on that shield, up 
+or down. Well, how
+could they be jamming us if they don't know if we're coming.</sp>
+
+<sd><name type="GPE">Lando</name> shoots a concerned look out at the approaching Death Star as the 
+implications of what he's just said sink in. He hits a switch on his 
+comlink.</sd>
+
+<sp><speaker>LANDO</speaker>
+Break off the attack! The shield is still up.</sp>
+
+<sp><speaker>RED LEADER	 (VO)</speaker>
+I get no reading. Are you sure?</sp>
+
+<sp><speaker>LANDO</speaker>
+Pull up! All craft pull up!</sp>
+
+<sd>The <name type="ORG">Falcon</name> turns hard to the left. Out the window the stars and the 
+Death Star move off right.</sd>
+
+<setting>96   EXT SPACE - DEATH STAR SHIELD</setting>
+
+<sd>The <name type="ORG">Falcon</name> and the fighters of Red Squad veer off desperately to avoid 
+the unseen wall.</sd>
+
+<setting>97   INT REBEL STAR CRUISER - BRIDGE</setting>
+
+<sd>Alarms are screaming and lights flashing as the huge ship changes 
+course abruptly. Other ships in the fleet shoot by outside as the 
+armada tries to halt its forward momentum.</sd>
+
+<sp><speaker>ACKBAR</speaker>
+Take evasive action! <name type="ORG">Green Group</name>, stick close to holding sector MV-7.</sp>
+
+<sd>A Mon Calamari controller turns away from his screen and calls out to 
+Ackbar, quite excited. The Admiral rushes over to the controller.</sd>
+
+<sp><speaker>CONTROLLER</speaker>
+Admiral, we have enemy ships in sector 47.</sp>
+
+<sd>On the screen can be seen <name type="LOC">the moon</name>, Death Star, and the massive 
+<name type="ORG">Imperial</name> fleet. Ackbar moves to the comlink.</sd>
+
+<sp><speaker>ACKBAR</speaker>
+It's a trap!</sp>
+
+<sp><speaker>LANDO	 (over comlink)</speaker>
+Fighters coming in.</sp>
+
+<sd>There is much excitement on the bridge as the attack begins.</sd>
+
+<sd>The Millennium <name type="ORG">Falcon</name> and several squads of Rebel fighters head into an 
+armada of <name type="ORG">TIE</name> fighters. The sky explodes as a fierce dogfight ensues in 
+and around the giant Rebel cruisers.</sd>
+
+<sp><speaker>REBEL PILOT</speaker>
+There's too many of them!</sp>
+
+<sp><speaker>LANDO</speaker>
+Accelerate to attack speed! Draw their fire away from the cruisers.</sp>
+
+<sp><speaker>WEDGE</speaker>
+Copy, <name type="ORG">Gold Leader</name>.</sp>
+
+<sd>The battle continues around the giant cruisers.</sd>
+
+<setting>98   INT DEATH STAR - EMPEROR'S THRONE ROOM</setting>
+
+<sd>Through the round window behind the Emperor's throne can be seen the 
+distant flashes of the space battle in progress.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+Come, boy. See for yourself.</sp>
+
+<sd>The Emperor is sitting in his throne, with Vader standing at his side. 
+Luke moves to look through a small section of the window.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+From here you will witness the final destruction of the <name type="ORG">Alliance</name>, and 
+the end of your insignificant Rebellion.</sp>
+
+<sd>Luke is in torment. He glances at his lightsaber sitting on the armrest 
+of the throne. The Emperor watches him and smiles, touches the 
+lightsaber.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+You want this, don't you? The hate is swelling in you now. Take your 
+<name type="ORG">Jedi</name> weapon. Use it. I am unarmed. Strike me down with it. Give in to 
+your anger. With each passing moment, you make yourself more my 
+servant.</sp>
+
+<sd>Vader watches Luke in his agony.</sd>
+
+<sp><speaker>LUKE</speaker>
+No!</sp>
+
+<sp><speaker>EMPEROR</speaker>
+It is unavoidable. It is your destiny. You, like your father, are now 
+mine!</sp>
+
+<setting>99   EXT FOREST - GENERATOR BUNKER</setting>
+
+<sd><name type="NORP">Han</name>, Leia, Chewie, and the rest of the strike team are led out of the 
+bunker by their captors. The surrounding area, deserted before, is now 
+crowded with two-legged <name type="ORG">Imperial</name> walkers and hundreds of <name type="ORG">Imperial</name> 
+troops. The situation looks hopeless.</sd>
+
+<sp><speaker>STORMTROOPER</speaker>
+All right, move it! I said move it! Go on!</sp>
+
+<sd>From the undergrowth beyond the clearing comes a wild series of beeps 
+and whistles. 
+And --</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Hello! I say, over there! Were you looking for me?</sp>
+
+<sp><speaker>BUNKER COMMANDER</speaker>
+Bring those two down here!</sp>
+
+<sp><speaker>STORMTROOPER</speaker>
+Let's go!</sp>
+
+<sd><name type="GPE">Artoo</name> and <name type="ORG">Threepio</name> are standing near one of the big trees. As six 
+<name type="ORG">Imperial</name> stormtroopers rush over to take them captive, the two droids 
+duck out of sight behind the tree.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Well, they're on their way. <name type="GPE">Artoo</name>, are you sure this was a good idea?</sp>
+
+<sp><speaker>STORMTROOPER</speaker>
+Freeze! Don't move!</sp>
+
+<sp><speaker>THREEPIO</speaker>
+We surrender.</sp>
+
+<sd>The stormtroopers come around the tree and find the two droids waiting 
+quietly to be taken. As the <name type="ORG">Imperial</name> troops move to do that, however, a 
+band of Ewoks drops down from above and overpowers them.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Ohhh! Stand back, <name type="GPE">Artoo</name>.</sp>
+
+<sd>In a nearby tree, an Ewok raises a horn to his lips and sounds the EWOK 
+ATTACK CALL. All hell breaks loose as hundreds of Ewoks throw their 
+fuzzy bodies into the fray against the assembled stormtroopers and 
+their awesome two-legged walkers. Biker scouts dart about blasting 
+Ewoks, only to be crushed by a volley of rocks tossed by Ewoks from the 
+trees above.</sd>
+
+<sd>In the confusion of the battle, <name type="NORP">Han</name> and Leia break away and dive for 
+the cover of the bunker door as explosions erupt around them. <name type="NORP">Han</name> goes 
+to the bunker door control panel.</sd>
+
+<sp><speaker>LEIA</speaker>
+The code's changed. We need <name type="GPE">Artoo</name>!</sp>
+
+<sp><speaker>HAN</speaker>
+Here's the terminal.</sp>
+
+<sp><speaker>LEIA	 (into comlink)</speaker>
+<name type="GPE">Artoo</name>, where are you? We need you at the bunker right away.</sp>
+
+<sd><name type="GPE">Artoo</name> and <name type="ORG">Threepio</name> are hiding behind a log as the battle ragesaround 
+them. Suddenly the stubby little astrodroid lets out a series of 
+whistles and shoots off across the battlefield. <name type="ORG">Threepio</name>, panicked, 
+runs after him.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Going? What do you mean, you're going. But-- but going where, <name type="GPE">Artoo</name>? 
+No, what! <name type="GPE">Artoo</name>! Oh, this is no time for heroics. Come back!</sp>
+
+<sd>Biker scouts race around and over the two droids, blasting away at the 
+little Ewoks as the furries scurry for cover.</sd>
+
+<sd>A group of Ewoks have moved a primitive catapult into position. They 
+fire off a large boulder that hits one of the walkers. The walker turns 
+and heads for the catapult, blasting away with both guns. The Ewoks 
+abandon their weapons and flee in all directions. Just as the walker 
+moves in to stomp the catapult, Ewoks drop vines restraining two huge 
+logs that swing down and smash thewalker's head flat.</sd>
+
+<sd>A line of Ewoks hang desperately to a vine that is hooked to a walker's 
+foot. As the walker moves along, the fuzzy creatures are dragged 
+behind.</sd>
+
+<sd>Two speeder bikes chase Ewoks through the underbrush. As the scouts 
+round a tree, they are knocked off their bikes by a vinetied between 
+two trees.</sd>
+
+<setting>100  EXT SPACE</setting>
+
+<sd>The <name type="ORG">Falcon</name> and other Rebel fighters are engaged in a ferocious combat 
+with <name type="ORG">Imperial</name> <name type="ORG">TIE</name> fighters, the battle raging around thecruisers of the 
+Rebel armada.</sd>
+
+<setting>101  INT MILLENNIUM FALCON - COCKPIT</setting>
+<name type="GPE">Lando</name> is in radio communication with the pilots of the other Rebel 
+squads.
+
+<sp><speaker>LANDO</speaker>
+Watch yourself, Wedge! Three from above!</sp>
+
+<sp><speaker>WEDGE</speaker>
+Red Three, <name type="ORG">Red Two</name>, pull in!</sp>
+
+<sp><speaker>RED TWO</speaker>
+Got it!</sp>
+
+<sp><speaker>RED THREE</speaker>
+Three of them coming in, twenty degrees!</sp>
+
+<sp><speaker>WEDGE</speaker>
+Cut to the left! I'll take the leader! They're heading for the medical 
+frigate.</sp>
+
+<sd><name type="GPE">Lando</name> steers the <name type="ORG">Falcon</name> through a complete flip, as his crew fires at 
+the <name type="ORG">TIE</name>s from the belly guns.</sd>
+
+<sp><speaker>NAVIGATOR</speaker>
+Pressure's steady.</sp>
+
+<sd>The copilot Nien Nunb chatters an observation.</sd>
+
+<sp><speaker>LANDO</speaker>
+Only the fighters are attacking.  I wonder what those <name type="ORG">Star Destroyer</name>s 
+are waiting for.</sp>
+
+<setting>102  EXT SPACE - IMPERIAL FLEET  </setting>
+
+<sd>The giant <name type="ORG">Imperial</name> <name type="ORG">Star Destroyer</name> waits silently some distance from the 
+battle. The Emperor's huge Super <name type="ORG">Star Destroyer</name> rests in the middle of 
+the fleet.</sd>
+
+<setting>103  INT SUPER STAR DESTROYER - BRIDGE</setting>
+
+<sd>Admiral Piett and two fleet commanders watch the battle at the huge 
+window of the Super <name type="ORG">Star Destroyer</name> bridge.</sd>
+
+<sp><speaker>COMMANDER</speaker>
+We're in attack position now, sir.</sp>
+
+<sp><speaker>PIETT</speaker>
+Hold here.</sp>
+
+<sp><speaker>COMMANDER</speaker>
+We're not going to attack?</sp>
+
+<sp><speaker>PIETT</speaker>
+I have my orders from the Emperor himself. He has something special 
+planned for them. We only need to keep them from escaping.</sp>
+
+<setting>104  INT EMPEROR'S TOWER - THRONE ROOM</setting>
+
+<sd>The Emperor, Vader, and a horrified Luke watch the aerial battle 
+fireworks out the window and on the viewscreens. Another Rebel ship 
+explodes against the protective shield.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+As you can see, my young apprentice, your friends have failed. Now 
+witness the firepower of this fully armed and operational battle 
+station.
+(into comlink)
+Fire at will, Commander.</sp>
+
+<sd>Luke, in shock, looks out across the surface of <name type="ORG">the Death Star</name> to the 
+Rebel fleet beyond.</sd>
+
+<setting>105  INT DEATH STAR - CONTROL ROOM</setting>
+
+<sd>Controllers pull back on several switches. Commander Jerjerrod stands 
+over them.</sd>
+
+<sp><speaker>JERJERROD</speaker>
+Fire!</sp>
+
+<setting>106  INT DEATH STAR - BLAST CHAMBER</setting>
+
+<sd>A button is pressed, which switches on a panel of lights. A hooded 
+<name type="ORG">Imperial</name> soldier reaches overhead and pulls a lever. A huge beam of 
+light emanates from a long shaft. Two stormtroopers stand to one side 
+at a control panel.</sd>
+
+<setting>107  EXT DEATH STAR</setting>
+
+<sd>The giant laser dish on the completed half of <name type="ORG">the Death Star</name> begins to 
+glow; Then a powerful beams shoots out toward the aerial battle.</sd>
+
+<setting>108  EXT SPACE - AIR BATTLE</setting>
+
+<sd>The air is thick with giant ships. In among them, Rebel X-wings 
+dogfight with <name type="ORG">Imperial</name> <name type="ORG">TIE</name> fighters. Now an enormous Rebel cruiser is 
+hit by <name type="ORG">the Death Star</name> beam and is blown to dust.</sd>
+
+<sd>The Millennium <name type="ORG">Falcon</name> roars over CAMERA, followed closely byseveral <name type="ORG">TIE</name> 
+fighters.</sd>
+
+<setting>109  INT MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd>The ship is buffeted by the tremendous explosion of the Rebel cruiser. 
+<name type="GPE">Lando</name> and his copilot are stunned by the sight of <name type="ORG">the Death Star</name> 
+firepower.</sd>
+
+<sp><speaker>LANDO</speaker>
+That blast came from <name type="ORG">the Death Star</name>! That thing's operational! 
+(into comlink)
+Home One, this is <name type="ORG">Gold Leader</name>.</sp>
+
+<setting>110  INT REBEL STAR CRUISER - BRIDGE</setting>
+
+<sd>Ackbar stands amid the confusion on the wide bridge and speaks into the 
+comlink.</sd>
+
+<sp><speaker>ACKBAR</speaker>
+We saw it. All craft prepare to retreat.</sp>
+
+<sp><speaker>LANDO</speaker>
+You won't get another chance at this, Admiral.</sp>
+
+<sp><speaker>ACKBAR</speaker>
+We have no choice, General Calrissian. Our cruisers can't repel 
+firepower of that magnitude.</sp>
+
+<sp><speaker>LANDO</speaker>
+<name type="NORP">Han</name> will have that shield down. We've got to give him more time.</sp>
+
+<setting>111  EXT FOREST - GENERATOR BUNKER</setting>
+
+<sd><name type="GPE">Artoo</name> and <name type="ORG">Threepio</name> make it to the door, as <name type="NORP">Han</name> and Leia provide cover 
+fire.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+We're coming!</sp>
+
+<sp><speaker>HAN</speaker>
+Come on! Come on!</sp>
+
+<sp><speaker>THREEPIO</speaker>
+Oh, <name type="GPE">Artoo</name>, hurry!</sp>
+
+<sd>The little droid moves to the terminal and plugs in his computer arm. A 
+large explosion hits near <name type="GPE">Artoo</name>, knocking him head over heels, finally 
+landing on his feet. The stubby astrodroid's head is spinning and 
+smoldering. Suddenly there is a loud SPROOING and <name type="NORP">Han</name> and Leia turn 
+around to see <name type="GPE">Artoo</name> with all his compartment doors open, and all of his 
+appendages sticking out; water and smoke spurt out of the nozzles in 
+his body. <name type="NORP">Han</name> rushes to the terminal, as <name type="ORG">Threepio</name> rushes to his wounded 
+companion.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+My goodness! <name type="GPE">Artoo</name>, why did you have to be so brave?</sp>
+
+<sp><speaker>HAN</speaker>
+Well, I suppose I could hotwire this thing.</sp>
+
+<sp><speaker>LEIA</speaker>
+I'll cover you.</sp>
+
+<sd>Ewoks in handmade, primitive hanggliders drop rocks onto the 
+stormtroopers, divebombing their deadly adversaries.  One is hit in the 
+wing with laser fire and crashes. A walker lumbers forward, shooting 
+laser blasts at frantic Ewoks running in all directions.  Two Ewoks are 
+struck down by laser blasts.  One tries to awaken his friend, then 
+realizes that he is dead.</sd>
+
+<setting>112  EXT SPACE - DEATH STAR</setting>
+
+<sd>The Rebel fleet continues to be picked off, from one side by the Death 
+Star's deadly beam, from the other by the rampaging <name type="ORG">Imperial</name> Star 
+Destroyers.</sd>
+
+<setting>113  INT MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd><name type="GPE">Lando</name> steers the <name type="ORG">Falcon</name> wildly through an obstacle course of floating 
+giants. He's been yelling into the comlink.</sd>
+
+<sp><speaker>LANDO	 (desperately)</speaker>
+Yes! I said closer! Move as close as you can and engage those Star 
+Destroyers at point-
+blank range.</sp>
+
+<sp><speaker>ACKBAR</speaker>
+At that close range, we won't last long against those <name type="ORG">Star Destroyer</name>s.</sp>
+
+<sp><speaker>LANDO</speaker>
+We'll last longer then we will against that Death Star...and we might 
+just take a few of
+them with us.</sp>
+
+<sd>The Rebel cruisers move very close to the <name type="ORG">Imperial</name> <name type="ORG">Star Destroyer</name>s and 
+begin to blast away at point-blank range. Tiny fighters race across the 
+giant surfaces, against a backdrop of laser fire.</sd>
+
+<sd>The control tower of a <name type="ORG">Star Destroyer</name> is under attack.</sd>
+
+<sp><speaker>REBEL PILOT</speaker>
+She's gonna blow!</sp>
+
+<sd>Y-WING PILOT
+I'm hit!</sd>
+
+<sd>The damaged Y-wing plummets toward the <name type="ORG">Star Destroyer</name>, and crashes into 
+the control tower, exploding.</sd>
+
+<setting>114  INT EMPEROR'S TOWER - THRONE ROOM</setting>
+
+<sd>Out of the window and on the view screens, the Rebel fleet is being 
+decimated in blinding explosions of light and debris. But in here there 
+is no sound of battle. The Emperor turns to Luke.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+Your fleet has lost. And your friends on <name type="LOC">the Endor moon</name> will not 
+survive. There is no escape, my young apprentice. The <name type="ORG">Alliance</name> will 
+die...as will your friends.</sp>
+
+<sd>Luke's eyes are full of rage. Vader watches him.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+Good. I can feel your anger. I am defenseless.  Take your weapon! 
+Strike me down with all your hatred, and your journey towards the dark 
+side will be complete.</sp>
+
+<sd>Luke can resist no longer. The lightsaber flies into his hand. He 
+ignites it in an instant and swings at the Emperor. Vader's lightsaber 
+flashes into view, blocking Luke's blow before it can reach the 
+Emperor. The two blades spark at contact. Luke turns to fight his 
+father.</sd>
+
+<setting>115  EXT FOREST</setting>
+
+<sd>The battle rages on. Stormtroopers fire on Ewoks with sophisticated 
+weapons while their furry little adversaries sneak up behind the 
+<name type="ORG">Imperial</name> troopers and bash them over the head with large clubs.</sd>
+
+<sd>A walker marches through the undergrowth blasting Ewoks as it goes. An 
+Ewok warrior gives the signal, and a pile of logs is cut loose. The 
+logs tumble under the walker's feet, causing it to slip and slide until 
+it finally topples over with a great crash.</sd>
+
+<sd>A scout bike races past and is lassoed with a heavy vine. The other end 
+of the vine is tied to a tree, and the bike swings around in ever-
+tightening circles until it runs out of rope and
+crashes into the trees with a huge explosion.</sd>
+
+<sd>Chewie swings on a vine to the roof of one of the walkers. Two Ewoks 
+cling to him. They land with a thud on the top of the lurching machine, 
+then hang on for dear life. One of the Ewoks peeks through the window.</sd>
+
+<sp><speaker>WALKER PILOT #1</speaker>
+Look!</sp>
+
+<sp><speaker>PILOT #2</speaker>
+Get him off of there!</sp>
+
+<sd>The walker pilot opens the hatch to see what's going on. He is yanked 
+out and tossed overboard before he can scream. The two Ewoks jump into 
+the cockpit and knock the second pilot unconscious. The Ewoks are 
+thrown violently as the mighty machine careens out of control. Outside, 
+Chewie is almost knocked overboard; he sticks his head into the hatch 
+with a series of angry barks. The Ewoks are too busy and frightened to 
+listen to the <name type="NORP">Wookiee</name>'s complaint. Chewie slips inside the walker.</sd>
+
+<sd>Chewbacca's walker moves through the forest, firing laser blasts at 
+unsuspecting stormtroopers, and destroying other <name type="ORG">Imperial</name> walkers. The 
+Ewoks shout and cheer as the giant machine helps turn the tide of the 
+battle in their favor.</sd>
+
+<setting>116  EXT FOREST - GENERATOR BUNKER</setting>
+
+<sd><name type="NORP">Han</name> works furiously at the control panel; wires spark as he attempts to 
+hotwire the door. He motions to Leia, who is blasting away at some 
+stormtroopers.</sd>
+
+<sp><speaker>HAN</speaker>
+I think I got it. I got it!</sp>
+
+<sd>The three wires spark as the connection is made. With a LOUD WHOOSH, a 
+second blast door crashes down in front of the first.</sd>
+
+<sd><name type="NORP">Han</name> frowns and turns back to the wires again. Leia exchanges shots with 
+stormtroopers in the bushes, then suddenly cries out in pain, her 
+shoulder hit by a laser blast.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Oh, Princess Leia, are you all right?</sp>
+
+<sp><speaker>HAN</speaker>
+Let's see.</sp>
+
+<sp><speaker>LEIA</speaker>
+It's not bad.</sp>
+
+<sp><speaker>STORMTROOPER	 (OS)</speaker>
+Freeze!</sp>
+
+<sd>They freeze.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+Oh, dear.</sp>
+
+<sp><speaker>STORMTROOPER</speaker>
+Don't move!</sp>
+
+<sd>Leia holds her laser gun ready, behind <name type="NORP">Han</name>, out of view of the two 
+stormtroopers moving toward them. <name type="NORP">Han</name> and Leia's eyes lock; the moment 
+seems suspended in time.</sd>
+
+<sp><speaker>HAN</speaker>
+I love you.</sp>
+
+<sd>Another shared look between them, as she smiles up at <name type="NORP">Han</name>.</sd>
+
+<sp><speaker>LEIA</speaker>
+I know.</sp>
+
+<sp><speaker>STORMTROOPER</speaker>
+<name type="NORP">Han</name>ds up! Stand up!</sp>
+
+<sd><name type="NORP">Han</name> stands up slowly and turns, revealing the gun in Leia's hand. She 
+disposes of the stormtroopers in a flash. As <name type="NORP">Han</name> turns back toward 
+Leia, he looks up to see a giant walker approach and stand before him, 
+its deadly weapons aimed right at him.</sd>
+
+<sp><speaker>HAN	 (to Leia)</speaker>
+Stay back.</sp>
+
+<sd>The hatch on top of the walker opens and Chewie sticks his head out and 
+barks triumphantly.</sd>
+
+<sp><speaker>HAN</speaker>
+Chewie!  Get down here!  She's wounded!  No, wait....  I got an idea.</sp>
+
+<setting>117  INT EMPEROR'S TOWER - THRONE ROOM</setting>
+
+<sd>Luke and Vader are engaged in a man-to-man duel of lightsabers even 
+more vicious then the battle on Bespin. But the young <name type="ORG">Jedi</name> has grown 
+stronger in the interim, and now the advantage shifts to him. Vader is 
+forced back, losing his balance, and is knocked down the stairs. Luke 
+stands at the top of the stairs, ready to attack.</sd>
+
+<sp><speaker>EMPEROR (laughing)</speaker>
+Good.  Use your aggressive feelings, boy!  Let the hate flow through 
+you.</sp>
+
+<sd>Luke looks momentarily toward the Emperor, then back to Vader, and 
+realizes he is using the dark side. He steps back, turns off his 
+lightsaber, and relaxes, driving the hate from his being.</sd>
+
+<sp><speaker>VADER</speaker>
+Obi-Wan has taught you well.</sp>
+
+<sp><speaker>LUKE</speaker>
+I will not fight you, father.</sp>
+
+<sd>Vader walks back up the stairs to Luke.</sd>
+
+<sp><speaker>VADER</speaker>
+You are unwise to lower your defenses.</sp>
+
+<sd>Vader attacks, forcing Luke on the defensive. The young <name type="ORG">Jedi</name> leaps in 
+an amazing reverse flip up to the safety of the catwalk overhead. Vader 
+stands below him.</sd>
+
+<sp><speaker>LUKE</speaker>
+Your thoughts betray you, father. I feel the good in you...the 
+conflict.</sp>
+
+<sp><speaker>VADER</speaker>
+There is no conflict.</sp>
+
+<sp><speaker>LUKE</speaker>
+You couldn't bring yourself to kill me before, and I don't believe 
+you'll destroy me
+now.</sp>
+
+<sp><speaker>VADER</speaker>
+You underestimate the power of the dark side. If you will not fight, 
+then you will meet
+your destiny.</sp>
+
+<sd>Vader throws the laser sword and it cuts through the supports holding 
+the catwalk, then returns to Vader's hand. Luke tumbles to the ground 
+in a shower of sparks and rolls out of sight under the Emperor's 
+platform. Vader moves to find him.</sd>
+
+<sp><speaker>EMPEROR	 (laughs)</speaker>
+Good.  Good.</sp>
+
+<setting>118  EXT SPACE - AIR BATTLE</setting>
+
+<sd>The two armadas, like their sea-bound ancestors, blast away at each 
+other in individual point-blank confrontations. A <name type="ORG">Star Destroyer</name> 
+explodes. The Rebel victor limps away, its back half alive with a 
+series of minor explosions. The Rebel cruiser manages to move in next 
+to a second <name type="ORG">Star Destroyer</name> before it explodes completely, taking the 
+<name type="ORG">Imperial</name> <name type="ORG">Star Destroyer</name> with it. The <name type="ORG">Falcon</name> and several fighters attack 
+one of the larger <name type="ORG">Imperial</name> ships.</sd>
+
+<sp><speaker>LANDO</speaker>
+Watch out. Squad at .06.</sp>
+
+<sp><speaker>REBEL PILOT</speaker>
+I'm on it, <name type="ORG">Gold Leader</name>.</sp>
+
+<sp><speaker>WEDGE</speaker>
+Good shot, <name type="ORG">Red Two</name>.</sp>
+
+<sp><speaker>LANDO</speaker>
+Now...come on, <name type="NORP">Han</name>, old buddy. Don't let me down.</sp>
+
+<setting>119  INT BUNKER - CONTROL ROOM</setting>
+
+<sd>Controllers watch the main viewscreen on which a vague figure of an 
+<name type="ORG">Imperial</name> walker pilot can be seen. There is a great deal of static and 
+interference.</sd>
+
+<sp><speaker>HAN/PILOT	 (VO)</speaker>
+It's over, Commander. The <name type="ORG">Rebels</name> have been routed. They're fleeing into 
+the woods. We
+need reinforcements to continue the pursuit.</sp>
+
+<sd>The controllers cheer.</sd>
+
+<sp><speaker>CONTROL ROOM COMMANDER</speaker>
+Send three squads to help. Open the back door.</sp>
+
+<sp><speaker>SECOND COMMANDER</speaker>
+Yes, sir.</sp>
+
+<setting>120  EXT FOREST - GENERATOR BUNKER</setting>
+
+<sd>As the door to the bunker opens and the <name type="ORG">Imperial</name> troops rush out, 
+they're surprised to find themselves surrounded by <name type="ORG">Rebels</name>, their 
+weapons pointed at them. Ewoks holding bows and arrows appear on the 
+roof of the bunker. The <name type="ORG">Imperial</name> troops throw down their guns
+as <name type="NORP">Han</name> and Chewie rush inside the bunker with explosive charges.</sd>
+
+<setting>121  INT BUNKER - CONTROL ROOM</setting>
+
+<sd><name type="NORP">Han</name>, Chewie, and several troops rush into the control room and plant 
+explosive charges on the control panels and rush out.</sd>
+
+<sp><speaker>HAN</speaker>
+Throw me another charge.</sp>
+
+<setting>122  INT EMPEROR'S TOWER - THRONE ROOM</setting>
+
+<sd>Vader stalks the low-ceilinged area on the level below the throne, 
+searching for Luke in the semi-darkness, his lightsaber held ready.</sd>
+
+<sp><speaker>VADER</speaker>
+You cannot hide forever, Luke.</sp>
+
+<sp><speaker>LUKE</speaker>
+I will not fight you.</sp>
+
+<sp><speaker>VADER</speaker>
+Give yourself to the dark side. It is the only way you can save your 
+friends. Yes, your
+thoughts betray you. Your feelings for them are strong. Especially 
+for...</sp>
+
+<sd>Vader stops and senses something. Luke shuts his eyes tightly, in 
+anguish.</sd>
+
+<sp><speaker>VADER</speaker>
+Sister! So...you have a twin sister. Your feelings have now betrayed 
+her, too. Obi-Wan
+was wise to hide her from me. Now his failure is complete. If you will 
+not turn to the dark
+side, then perhaps she will.</sp>
+
+<sp><speaker>LUKE</speaker>
+Never-r-r!</sp>
+
+<sd>Luke ignites his lightsaber and screams in anger, rushing at hisfather 
+with a frenzy we have not seen before. Sparks fly as Luke and Vader 
+fight in the cramped area. Luke's hatred forces Vader to retreat out of 
+the low area and across a bridge overlooking a vast elevator shaft. 
+Each stroke of Luke's sword drives his father further toward defeat.</sd>
+
+<sd>The Dark Lord is knocked to his knees, and as he raises his sword to 
+block another onslaught, Luke slashes Vader's right hand off at the 
+wrist, causing metal and electronic parts to fly from the mechanical 
+stump. Vader's sword clatters uselessly away, over the
+edge of the platform and into the bottomless shaft below. Luke moves 
+over Vader and holds the blade of his sword to the Dark Lord's throat. 
+The Emperor watches with uncontrollable, pleased agitation.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+Good! Your hate has made you powerful. Now, fulfill your destiny and 
+take your father's
+place at my side!</sp>
+
+<sd>Luke looks at his father's mechanical hand, then to his own mechanical, 
+black-gloved hand, and realizes how much he is becoming like his 
+father. He makes the decision for which he has spent a lifetime in 
+preparation. Luke steps back and hurls his lightsaber away.</sd>
+
+<sp><speaker>LUKE</speaker>
+Never! I'll never turn to the dark side. You've failed, Your Highness. 
+I am a <name type="ORG">Jedi</name>,
+like my father before me.</sp>
+
+<sd>The Emperor's glee turns to rage.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+So be it...<name type="ORG">Jedi</name>.</sp>
+
+<setting>123  EXT FOREST - GENERATOR BUNKER</setting>
+
+<sd><name type="NORP">Han</name> and several of the fighters run out of the bunker and race across 
+the clearing.</sd>
+
+<sp><speaker>HAN</speaker>
+Move! Move!</sp>
+
+<sd>A shock wave knocks them flat as the bunker explodes, followed by a 
+spectacular display as the huge shield-generator radar dish explodes 
+along with the bunker.</sd>
+
+<setting>124  INT REBEL STAR CRUISER - BRIDGE</setting>
+
+<sd>Ackbar, sitting in his control chair, speaks into the radio.</sd>
+
+<sp><speaker>ACKBAR</speaker>
+The shield is down! Commence attack on <name type="ORG">theDeath Star's</name> main reactor.</sp>
+
+<sp><speaker>LANDO</speaker>
+We're on our way. <name type="ORG">Red Group</name>, <name type="ORG">Gold Group</name>, all fighters follow me. 
+(laughs)
+Told you they'd do it!</sp>
+
+<sd>The <name type="ORG">Falcon</name>, followed by several smaller Rebel fighters, heads toward 
+the unfinished superstructure of <name type="ORG">the Death Star</name>.</sd>
+
+<setting>125  INT EMPEROR'S TOWER - THRONE ROOM</setting>
+
+<sd>Luke stands still, as the Emperor reaches the bottom of thestairs. The 
+Emperor's laughter has turned to anger. He raises his arms toward Luke.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+If you will not be turned, you will be destroyed.</sp>
+
+<sd>Blinding bolts of energy, evil lightning, shoot from the Emperor's 
+hands at Luke. Even in his surprise, the young <name type="ORG">Jedi</name> tries to use the 
+<name type="ORG">Force</name> to deflect them. At first he is half successful, but after a 
+moment the bolts of energy are coming with such speed and power the 
+young <name type="ORG">Jedi</name> shrinks before them, his knees buckling. The wounded Vader 
+struggles to his feet, and moves to stand at his master's side.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+Young fool...only now, at the end, do you understand.</sp>
+
+<sd>Luke is almost unconscious beneath the continuing assault of the 
+Emperor's lightning. He clutches a canister to keep from falling into 
+the bottomless shaft as the bolts tear through him.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+Your feeble skills are no match for the power of the dark side. You 
+have paid the price for
+your lack of vision.</sp>
+
+<sd>Luke writhes on the floor in unbearable pain, reaching weakly up toward 
+where Vader stands watching.</sd>
+
+<sp><speaker>LUKE	 (groans)</speaker>
+Father, please. Help me.</sp>
+
+<sd>Again Vader stands, watching Luke. He looks at his master, the Emperor, 
+then back to Luke on the floor.</sd>
+
+<sp><speaker>EMPEROR</speaker>
+Now, young Skywalker...you will die.</sp>
+
+<sd>Although it would not have seemed possible, the outpouring of bolts 
+from the Emperor's fingers actually increases in intensity, the sound 
+screaming through the room. Luke's body writhes in pain.</sd>
+
+<sd>Vader grabs the Emperor from behind, fighting for control of the robed 
+figure despite the Dark Lord's weakened body and gravely weakened arm. 
+The Emperor struggles in his embrace, his bolt-shooting hands now 
+lifted high, away from Luke. Now the white lightning arcs back to 
+strike at Vader. He stumbles with his load as the sparks rain off his 
+helmet and flow down over his black cape. He holds his evil master high 
+over his head and walks to the edge of the abyss at the central core of 
+the throne room. With one final burst of his once awesome strength, 
+Darth Vader hurls the Emperor's body into the bottomless shaft.</sd>
+
+<sd>The Emperor's body spins helplessly into the void, arcing as it falls 
+into the abyss. Finally, when the body is far down the shaft, it 
+explodes, creating a rush of air through the room.Vader's cape is 
+whipped by the wind and he staggers, and collapses toward the 
+bottomless hole. Luke crawls to his father's side and pulls him away 
+from the edge of the abyss to safety. Both the young <name type="ORG">Jedi</name> and the giant 
+warrior are too weak to move.</sd>
+
+<setting>126  EXT/INT - SPACE BATTLE - FIGHTER AND DEATH STAR</setting>
+
+<sd>Rebel fighters follow the <name type="ORG">Falcon</name> across the surface of <name type="ORG">the Death Star</name> 
+to the unfinished portion, where they dive into the superstructure of 
+the giant battle station, followed by many <name type="ORG">TIE</name> fighters.</sd>
+
+<sp><speaker>WEDGE</speaker>
+I'm going in.</sp>
+
+<sp><speaker>LANDO</speaker>
+Here goes nothing.</sp>
+
+<sd>Three X-wings lead the chase through the ever-narrowing shaft, followed 
+by the <name type="ORG">Falcon</name> and four other fighters, plus <name type="ORG">TIE</name> fighters who 
+continually fire at the <name type="ORG">Rebels</name>. Lights reflect off the pilot's faces as 
+they race through the dark shaft.</sd>
+
+<sp><speaker>LANDO</speaker>
+Now lock onto the strongest power source. It should be the power 
+generator.</sp>
+
+<sp><speaker>WEDGE</speaker>
+Form up. And stay alert. We could run out of space real fast.</sp>
+
+<sd>The fighters and the <name type="ORG">Falcon</name> race through the tunnel, still pursued by 
+the <name type="ORG">TIE</name> fighters. One of the X-wings is hit from behind and explodes.</sd>
+
+<sp><speaker>LANDO</speaker>
+Split up and head back to the surface. See if you can get a few of 
+those <name type="ORG">TIE</name> fighters to
+follow you.</sp>
+
+<sp><speaker>PILOT</speaker>
+Copy, <name type="ORG">Gold Leader</name>.</sp>
+
+<sd>The Rebel ships peel off pursued by three of the <name type="ORG">TIE</name>'s, while <name type="GPE">Lando</name> and 
+Wedge continue through the main tunnel. It narrows, and the <name type="ORG">Falcon</name> 
+scrapes the side dangerously. Two other <name type="ORG">TIE</name> fighters continue to blast 
+away at them.</sd>
+
+<sp><speaker>LANDO</speaker>
+That was too close.</sp>
+
+<sd>Nien Nunb agrees. The battle between the Rebel and <name type="ORG">Imperial</name> fleet rages 
+on. Several cruisers fire at the giant Super <name type="ORG">Star Destroyer</name>.</sd>
+
+<setting>127  INT REBEL STAR CRUISER - BRIDGE</setting>
+
+<sp><speaker>ACKBAR</speaker>
+We've got to give those fighters more time. Concentrate all fire on 
+that Super <name type="ORG">Star Destroyer</name>.</sp>
+
+<sd>X-wings pilots head across the surface of the huge battleship.</sd>
+
+<setting>128  INT VADER'S STAR DESTROYER - BRIDGE</setting>
+
+<sd>Admiral Piett and a commander stand at the window, looking out to the 
+battle. They look concerned.</sd>
+
+<sp><speaker>CONTROLLER</speaker>
+Sir, we've lost our bridge deflector shield.</sp>
+
+<sp><speaker>PIETT</speaker>
+Intensify the forward batteries. I don't want anything to get through.</sp>
+
+<sd>The commander is looking out of the window where a damaged Rebel 
+fighter is out of control and heading directly toward the bridge.</sd>
+
+<sp><speaker>PIETT</speaker>
+Intensify forward firepower!</sp>
+
+<sp><speaker>COMMANDER</speaker>
+It's too late!</sp>
+
+<sd>The Rebel pilot screams as his ship hits the <name type="ORG">Star Destroyer</name>, causing a 
+huge explosion. The giant battle ship loses control, crashes into the 
+Death Star, and explodes.</sd>
+
+<setting>129  INT REBEL STAR CRUISER - BRIDGE</setting>
+
+<sd>There is excitement on the bridge as the battle rages on all sides. 
+They cheer as the giant <name type="ORG">Star Destroyer</name> blows up.</sd>
+
+<setting>130  INT DEATH STAR - MAIN DOCKING BAY</setting>
+
+<sd>Chaos. For the first time, <name type="ORG">the Death Star</name> is rocked by explosions as 
+the Rebel fleet, no longer backed against a wall, zooms over, unloading 
+a heavy barrage. <name type="ORG">Imperial</name> troops run in all directions, confused and 
+desperate to escape.</sd>
+
+<sd>In the midst of this uproar, Luke is trying to carry the enormous 
+deadweight of his father's weakening body toward an <name type="ORG">Imperial</name> shuttle. 
+Finally, Luke collapses from the strain. The explosions grow louder as 
+Vader draws him closer.</sd>
+
+<sp><speaker>VADER	 (a whisper)</speaker>
+Luke, help me take this mask off.</sp>
+
+<sp><speaker>LURE</speaker>
+But you'll die.</sp>
+
+<sp><speaker>VADER</speaker>
+Nothing can stop that now. Just for once... let me look on you with my 
+own eyes.</sp>
+
+<sd>Slowly, hesitantly, Luke removes the mask from his father's face. There 
+beneath the scars is an elderly man. His eyes do not focus. But the 
+dying man smiles at the sight before him.</sd>
+
+<sp><speaker>ANAKIN	 (very weak)</speaker>
+Now...go, my son. Leave me.</sp>
+
+<sp><speaker>LUKE</speaker>
+No. You're coming with me. I can't leave you here. I've got to save 
+you.</sp>
+
+<sp><speaker>ANAKIN</speaker>
+You already have, Luke. You were right about me. Tell your sister...you 
+were right.</sp>
+
+<sp><speaker>LUKE</speaker>
+Father...I won't leave you.</sp>
+
+<sd>Darth Vader, <name type="GPE">Anakin</name> Skywalker...Luke's father, dies.</sd>
+
+<sd>A huge explosion rocks the docking bay. Slowly, Luke rises and, half 
+carrying, half dragging the body of his father, stumbles toward a 
+shuttle.</sd>
+
+<setting>131  EXT DEATH STAR</setting>
+
+<sd>The Millennium <name type="ORG">Falcon</name> leads a swerving bomb run through the immense 
+superstructure of the half-built Death Star. The Rebel Star Cruisers 
+outside continually bombard the huge station. And each direct hit is 
+answered by resonating, chain-reaction explosions within the station 
+itself.</sd>
+
+<setting>132  INT MILLENNIUM FALCON - COCKPIT AND GUN PORTS</setting>
+
+<sd><name type="GPE">Lando</name>'s crew fires away at the pursuing <name type="ORG">TIE</name> fighters as the dashing 
+Baron of Bespin and his alien copilot home in on the main reactor 
+shaft. It is awesome. A lone X-wing is just in front of the <name type="ORG">Falcon</name>.</sd>
+
+<sp><speaker>WEDGE</speaker>
+There it is!</sp>
+
+<sp><speaker>LANDO</speaker>
+All right, Wedge. Go for the power regulator on the north tower.</sp>
+
+<sp><speaker>WEDGE</speaker>
+Copy, <name type="ORG">Gold Leader</name>. I'm already on my way out.</sp>
+
+<sd>The X-wing heads for the top of the huge reactor and fires several 
+proton torpedoes at the power regulator, causing a series of small 
+explosions.</sd>
+
+<sd>The <name type="ORG">Falcon</name> heads for the main reactor, and when it is dangerously 
+close, <name type="GPE">Lando</name> fires the missiles, which shoot out of the <name type="ORG">Falcon</name> with a 
+powerful roar, and hit directly at the center of the main reactor.</sd>
+
+<sd>He maneuvers the <name type="ORG">Falcon</name> out of the winding superstructure just ahead of 
+the continuing chain of explosions.</sd>
+
+<setting>133  INT REBEL STAR CRUISER - BRIDGE</setting>
+
+<sd>Ackbar and other Mon Calamari lean on the railing of the bridge, 
+watching the large screen showing <name type="ORG">the Death Star</name> in the main briefing 
+room.</sd>
+
+<sp><speaker>ACKBAR</speaker>
+Move the fleet away from <name type="ORG">the Death Star</name>.</sp>
+
+<setting>134  EXT DEATH STAR</setting>
+
+<sd>An <name type="ORG">Imperial</name> shuttle, with Luke alone in the cockpit, rockets out of the 
+main docking bay as that entire section of <name type="ORG">the Death Star</name> is blown 
+away.</sd>
+
+<sd>Finally, just as it looks like the <name type="ORG">Falcon</name> will not make it, <name type="GPE">Lando</name> 
+expertly pilots the craft out of the exploding superstructure and 
+whizzes toward <name type="LOC">the Sanctuary Moon</name>, only a moment before <name type="ORG">the Death Star</name> 
+supernovas into oblivion.</sd>
+
+<setting>135  INT MILLENNIUM FALCON - COCKPIT</setting>
+
+<sd><name type="GPE">Lando</name> and Nien Nunb laugh and cheer in relief.</sd>
+
+<setting>136  EXT ENDOR FOREST</setting>
+
+<sd><name type="NORP">Han</name> and Leia, Chewie, the droids, the Rebel troops, and the Ewoks all 
+look to the sky as <name type="ORG">the Death Star</name> reveals itself in a final flash of 
+self-destruction. They all cheer.</sd>
+
+<sp><speaker>THREEPIO</speaker>
+They did it!</sp>
+
+<sd><name type="NORP">Han</name> looks town from the sky to Leia, a look of concern on his face. 
+Leia continues to look at the sky as though listening for a silent 
+voice.</sd>
+
+<sp><speaker>HAN</speaker>
+I'm sure Luke wasn't on that thing when it blew.</sp>
+
+<sp><speaker>LEIA</speaker>
+He wasn't. I can feel it.</sp>
+
+<sp><speaker>HAN</speaker>
+You love him, don't you?</sp>
+
+<sd>Leia smiles, puzzled.</sd>
+
+<sp><speaker>LEIA</speaker>
+Yes.</sp>
+
+<sp><speaker>HAN</speaker>
+All right. I understand. Fine. When he comes back, I won't get in the 
+way.</sp>
+
+<sd>She realizes his misunderstanding.</sd>
+
+<sp><speaker>LEIA</speaker>
+Oh. No, it's not like that at all. He's my brother.</sp>
+
+<sd><name type="NORP">Han</name> is stunned by this news. She smiles, and they embrace.</sd>
+
+<setting>137  EXT ENDOR FOREST - NIGHT</setting>
+
+<sd>Luke sets a torch to the logs stacked under a funeral pyre where his 
+father's body lies, again dressed in black mask and helmet. He stands, 
+watching sadly, as the flames leap higher to consume Darth Vader -- 
+<name type="GPE">Anakin</name> Skywalker.</sd>
+
+<sd>In the sky above, fireworks explode and Rebel fighters zoom above the 
+forest.</sd>
+
+<setting>138  EXT EWOK VILLAGE SQUARE - NIGHT</setting>
+
+<sd>A huge bonfire is the centerpiece of a wild celebration. <name type="ORG">Rebels</name> and 
+Ewoks rejoice in the warm glow of firelight, drums beating, singing, 
+dancing, and laughing in the communal language of victory and 
+liberation.</sd>
+
+<sd><name type="GPE">Lando</name> runs in and is enthusiastically hugged by <name type="NORP">Han</name> and Chewie. Then, 
+finally, Luke arrives and the friends rush to greet and embrace him. 
+They stand close, this hardy group, taking comfort in each other's 
+touch, together to the end.</sd>
+
+<sd><name type="ORG">Rebels</name> and Ewoks join together in dancing and celebration. The original 
+group of adventurers watch from the sidelines. Only Luke seems 
+distracted, alone in their midsts, his thoughts elsewhere.</sd>
+
+<sd>He looks off to the side and sees three shimmering, smiling figures at 
+the edge of the shadows: Ben <name type="ORG">Kenobi</name>, Yoda, and <name type="GPE">Anakin</name> Skywalker.</sd>
+
+<sd>FADE OUT</sd>
+
+<sd>END CREDITS OVER STAR FIELD</sd>
+</script>
+
+
+</root>
