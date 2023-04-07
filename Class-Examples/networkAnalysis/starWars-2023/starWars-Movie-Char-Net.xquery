@@ -19,7 +19,7 @@ let $names := $starWarsColl//name ! lower-case(.) ! normalize-space() => distinc
                                let $movies := $starWarsColl[.//speaker ! lower-case(.) ! normalize-space() = $s]
                                for $m in $movies
                                     let $mCode := $m ! base-uri() ! tokenize(., '/')[last()] ! substring-before(., '.xml')
-                                    let $concat := ($s || "&#x9;" || "SPEAKER" || $mCode || "&#x9;" || "movie")
+                                    let $concat := ($s || "&#x9;" || "SPEAKER" || "&#x9;"|| $mCode || "&#x9;" || "movie")
                                     return $concat => distinct-values()
                                
    (:  ebb: I get Java Heap space problem processing these in oXygen, so commenting out for now :)
