@@ -128,8 +128,8 @@ def readTextFiles(filepath):
         string = str(xpath)
         # ebb: Doing some regex replacements to clean up punctuation issues that are getting in the way of the NER tagger
         cleanedUp = regex.sub("_", " ", string)
-        cleanedUp = regex.sub("'([A-Z])]", " \1", cleanedUp)
-        cleanedUp = regex.sub("([.!?;'`])([A-Z'`]])", "\1 \2", cleanedUp)
+        cleanedUp = regex.sub(r"'([A-Z])]", r" \1", cleanedUp)
+        cleanedUp = regex.sub(r"([.!?;'`])([A-Z'`]])", r"\1 \2", cleanedUp)
         # send to spaCy to collect nlp data on the big string
         tokens = nlp(cleanedUp)
         # tokens = nlp.pipe(cleanedUp, disable=["tagger", "parser", "attribute_ruler", "lemmatizer"])
