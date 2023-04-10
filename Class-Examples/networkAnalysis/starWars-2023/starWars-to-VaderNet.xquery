@@ -4,7 +4,7 @@ that will interfere with XQuery:)
 
 (: Literally open a string-join around the whole FLWOR to unify it in one string and put a hard return character after each output line for the TSV :)
 let $wholeNetwork := string-join(
-    let $speakers := $starWarsColl//speaker ! lower-case(.) ! normalize-space()
+    let $speakers := $starWarsColl//speaker ! lower-case(.) ! normalize-space() => distinct-values()
 
 (: NETWORK APPROACH 1: 
 SPEAKER ------ connected by Movie ---- OTHER NAMED ENTITY -- (NER CLASSIFICATION)
