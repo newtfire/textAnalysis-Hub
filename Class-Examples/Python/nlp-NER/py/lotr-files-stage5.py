@@ -33,7 +33,7 @@ TargetPath = '../taggedWithAtts'
 #   spaCy documentation on NER Entity Ruler: https://spacy.io/usage/rule-based-matching#entityruler
 
 config = {"spans_key": None, "annotate_ents": True, "overwrite": True, "validate": True}
-ruler = nlp.add_pipe("span_ruler", before="ner", config=config)
+ruler = nlp.add_pipe("span_ruler", after="ner", config=config)
 # Notes: Mattingly has this: ruler = nlp.add_pipe("entity_ruler", after="ner", config={"validate": True})
 # But this only works when spaCy doesn't recognize a word / phrase as a named entity of any kind.
 # If it recognizes a named entity but tags it wrong, we correct it with the span_ruler, not the entity_ruler
