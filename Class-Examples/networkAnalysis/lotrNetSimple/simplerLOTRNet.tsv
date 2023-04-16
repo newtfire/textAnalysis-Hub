@@ -1,0 +1,791 @@
+MINAS TIRITH	GPE	ReturnKing	book
+MINAS TIRITH	GPE	Fellows	book
+MINAS TIRITH	GPE	TwoTow	book
+SOUTH	LOC	ReturnKing	book
+SOUTH	LOC	Fellows	book
+SOUTH	LOC	TwoTow	book
+STONE	ORG	ReturnKing	book
+STONE	ORG	Fellows	book
+STONE	ORG	TwoTow	book
+GONDOR	GPE	ReturnKing	book
+GONDOR	GPE	Fellows	book
+GONDOR	GPE	TwoTow	book
+SHADOWFAX	GPE	ReturnKing	book
+SHADOWFAX	GPE	Fellows	book
+SHADOWFAX	GPE	TwoTow	book
+AMON D�N	GPE	ReturnKing	book
+EILENACH	GPE	ReturnKing	book
+NARDOL	GPE	ReturnKing	book
+MIN-RIMMON	GPE	ReturnKing	book
+ROHAN	GPE	ReturnKing	book
+ROHAN	GPE	Fellows	book
+ROHAN	GPE	TwoTow	book
+WEST	LOC	ReturnKing	book
+WEST	LOC	Fellows	book
+WEST	LOC	TwoTow	book
+CITY	LOC	ReturnKing	book
+CITY	LOC	Fellows	book
+CITY	LOC	TwoTow	book
+NORTH	LOC	ReturnKing	book
+NORTH	LOC	Fellows	book
+NORTH	LOC	TwoTow	book
+BELFALAS	GPE	ReturnKing	book
+BELFALAS	GPE	Fellows	book
+MORDOR	GPE	ReturnKing	book
+MORDOR	GPE	Fellows	book
+MORDOR	GPE	TwoTow	book
+SHIRE	LOC	ReturnKing	book
+SHIRE	ORG	ReturnKing	book
+SHIRE	LOC	Fellows	book
+SHIRE	ORG	Fellows	book
+SHIRE	LOC	TwoTow	book
+SHIRE	ORG	TwoTow	book
+MITHRANDIR	LOC	ReturnKing	book
+MITHRANDIR	LOC	Fellows	book
+MITHRANDIR	LOC	TwoTow	book
+GATE	FAC	ReturnKing	book
+GATE	FAC	Fellows	book
+GATE	FAC	TwoTow	book
+PELENNOR	ORG	ReturnKing	book
+COURAGE	ORG	ReturnKing	book
+COURAGE	ORG	Fellows	book
+STORMCROW	ORG	ReturnKing	book
+STORMCROW	ORG	TwoTow	book
+RIDERS	ORG	ReturnKing	book
+RIDERS	ORG	Fellows	book
+RIDERS	ORG	TwoTow	book
+RAMMAS	ORG	ReturnKing	book
+ITHIL	ORG	ReturnKing	book
+ITHIL	ORG	Fellows	book
+ITHIL	ORG	TwoTow	book
+ANDUIN	GPE	ReturnKing	book
+ANDUIN	GPE	Fellows	book
+ANDUIN	GPE	TwoTow	book
+OSGILIATH	NORP	ReturnKing	book
+OSGILIATH	NORP	Fellows	book
+OSGILIATH	NORP	TwoTow	book
+LOSSARNACH	ORG	ReturnKing	book
+LEBENNIN	ORG	ReturnKing	book
+LEBENNIN	ORG	Fellows	book
+EAST	LOC	ReturnKing	book
+EAST	LOC	Fellows	book
+EAST	LOC	TwoTow	book
+RIVER	LOC	ReturnKing	book
+RIVER	LOC	Fellows	book
+RIVER	LOC	TwoTow	book
+MOUNTAIN	LOC	ReturnKing	book
+MOUNTAIN	LOC	Fellows	book
+MOUNTAIN	LOC	TwoTow	book
+ERED NIMRAIS	ORG	ReturnKing	book
+ERED NIMRAIS	ORG	Fellows	book
+ERED NIMRAIS	ORG	TwoTow	book
+MINDOLLUIN	GPE	ReturnKing	book
+MINDOLLUIN	GPE	TwoTow	book
+GUARD	ORG	ReturnKing	book
+GUARD	ORG	Fellows	book
+GUARD	ORG	TwoTow	book
+TOWER	FAC	ReturnKing	book
+TOWER	FAC	Fellows	book
+TOWER	FAC	TwoTow	book
+ECTHELION	ORG	ReturnKing	book
+MEN	ORG	ReturnKing	book
+MEN	ORG	Fellows	book
+MEN	ORG	TwoTow	book
+ROHIRRIM	ORG	ReturnKing	book
+ROHIRRIM	ORG	Fellows	book
+ROHIRRIM	ORG	TwoTow	book
+CITADEL	ORG	ReturnKing	book
+CITADEL	ORG	Fellows	book
+STEWARD	ORG	ReturnKing	book
+STEWARD	ORG	Fellows	book
+STEWARD	ORG	TwoTow	book
+HILL	ORG	ReturnKing	book
+HILL	ORG	Fellows	book
+HILL	ORG	TwoTow	book
+ELENDIL	ORG	ReturnKing	book
+ELENDIL	ORG	Fellows	book
+ELENDIL	ORG	TwoTow	book
+STRIDER	ORG	ReturnKing	book
+STRIDER	ORG	Fellows	book
+STRIDER	ORG	TwoTow	book
+ARGONATH	GPE	ReturnKing	book
+ARGONATH	GPE	Fellows	book
+ARGONATH	GPE	TwoTow	book
+HALFLINGS	GPE	ReturnKing	book
+HALFLINGS	GPE	Fellows	book
+HALFLINGS	GPE	TwoTow	book
+MARDIL	GPE	ReturnKing	book
+MARDIL	GPE	TwoTow	book
+EMYN MUIL	ORG	ReturnKing	book
+EMYN MUIL	ORG	Fellows	book
+EMYN MUIL	ORG	TwoTow	book
+RAUROS	LOC	ReturnKing	book
+RAUROS	LOC	Fellows	book
+RAUROS	LOC	TwoTow	book
+COMPANY	ORG	ReturnKing	book
+COMPANY	ORG	Fellows	book
+COMPANY	ORG	TwoTow	book
+MORIA	GPE	ReturnKing	book
+MORIA	GPE	Fellows	book
+MORIA	GPE	TwoTow	book
+ISILDUR	ORG	ReturnKing	book
+ISILDUR	ORG	Fellows	book
+ISILDUR	ORG	TwoTow	book
+SHARP	ORG	ReturnKing	book
+SHARP	ORG	Fellows	book
+BEREGOND	LOC	ReturnKing	book
+BARANOR	GPE	ReturnKing	book
+SUN	ORG	ReturnKing	book
+SUN	ORG	Fellows	book
+SUN	ORG	TwoTow	book
+GREAT RIVER	LOC	ReturnKing	book
+GREAT RIVER	LOC	Fellows	book
+GREAT RIVER	LOC	TwoTow	book
+SEA	LOC	ReturnKing	book
+SEA	LOC	Fellows	book
+SEA	LOC	TwoTow	book
+TUMLADEN	GPE	ReturnKing	book
+BLACK	ORG	ReturnKing	book
+BLACK	ORG	Fellows	book
+BLACK	ORG	TwoTow	book
+INLAND SEA	LOC	ReturnKing	book
+MIRKWOOD	GPE	ReturnKing	book
+MIRKWOOD	GPE	Fellows	book
+MIRKWOOD	GPE	TwoTow	book
+HARAD	ORG	ReturnKing	book
+HARAD	ORG	Fellows	book
+HARAD	ORG	TwoTow	book
+SPEECH	ORG	ReturnKing	book
+SPEECH	ORG	Fellows	book
+SPEECH	ORG	TwoTow	book
+ERNIL I	ORG	ReturnKing	book
+TUCKBOROUGH	GPE	ReturnKing	book
+TUCKBOROUGH	GPE	Fellows	book
+TUCKBOROUGH	GPE	TwoTow	book
+BERGIL	GPE	ReturnKing	book
+ROAD	FAC	ReturnKing	book
+ROAD	FAC	Fellows	book
+ROAD	FAC	TwoTow	book
+DERVORIN	NORP	ReturnKing	book
+DERUFIN	GPE	ReturnKing	book
+ANFALAS	ORG	ReturnKing	book
+LAMEDON	ORG	ReturnKing	book
+ETHIR	ORG	ReturnKing	book
+ETHIR	ORG	Fellows	book
+HIRLUIN	ORG	ReturnKing	book
+FAIR	ORG	ReturnKing	book
+FAIR	ORG	Fellows	book
+FAIR	ORG	TwoTow	book
+GREEN	ORG	ReturnKing	book
+GREEN	ORG	Fellows	book
+GREEN	ORG	TwoTow	book
+HULLO	ORG	ReturnKing	book
+HULLO	ORG	Fellows	book
+HULLO	ORG	TwoTow	book
+GREY	ORG	ReturnKing	book
+GREY	ORG	Fellows	book
+GREY	ORG	TwoTow	book
+PARTH GALEN	FAC	ReturnKing	book
+PARTH GALEN	FAC	Fellows	book
+PARTH GALEN	FAC	TwoTow	book
+HASUFEL	GPE	ReturnKing	book
+HASUFEL	GPE	TwoTow	book
+EDORAS	ORG	ReturnKing	book
+EDORAS	ORG	Fellows	book
+EDORAS	ORG	TwoTow	book
+DWARF	ORG	ReturnKing	book
+DWARF	ORG	Fellows	book
+DWARF	ORG	TwoTow	book
+MEDUSELD	GPE	ReturnKing	book
+MEDUSELD	GPE	TwoTow	book
+FORD	ORG	ReturnKing	book
+FORD	ORG	Fellows	book
+FORD	ORG	TwoTow	book
+ELLADAN	ORG	ReturnKing	book
+ELLADAN	ORG	Fellows	book
+ELROHIR	ORG	ReturnKing	book
+ELROHIR	ORG	Fellows	book
+RIVENDELL	GPE	ReturnKing	book
+RIVENDELL	GPE	Fellows	book
+RIVENDELL	GPE	TwoTow	book
+ELF	ORG	ReturnKing	book
+ELF	ORG	Fellows	book
+ELF	ORG	TwoTow	book
+BEAR	ORG	ReturnKing	book
+BEAR	ORG	Fellows	book
+BEAR	ORG	TwoTow	book
+HORNBURG	GPE	ReturnKing	book
+HORNBURG	GPE	TwoTow	book
+BURG	FAC	ReturnKing	book
+ELVEN	ORG	ReturnKing	book
+ELVEN	ORG	Fellows	book
+ELVEN	ORG	TwoTow	book
+WOOD	ORG	ReturnKing	book
+WOOD	ORG	Fellows	book
+WOOD	ORG	TwoTow	book
+HELM	GPE	ReturnKing	book
+HELM	GPE	TwoTow	book
+COOMB	LOC	ReturnKing	book
+COOMB	LOC	TwoTow	book
+HUORN	GPE	ReturnKing	book
+HUORN	GPE	TwoTow	book
+DUNHARROW	GPE	ReturnKing	book
+DUNHARROW	GPE	TwoTow	book
+RANGERS	ORG	ReturnKing	book
+RANGERS	ORG	Fellows	book
+RANGERS	ORG	TwoTow	book
+SNOWMANE	LOC	ReturnKing	book
+SNOWMANE	LOC	TwoTow	book
+MOON	LOC	ReturnKing	book
+MOON	LOC	Fellows	book
+MOON	LOC	TwoTow	book
+FANGORN	GPE	ReturnKing	book
+FANGORN	GPE	Fellows	book
+FANGORN	GPE	TwoTow	book
+ARVEDUI	LOC	ReturnKing	book
+FORNOST	GPE	ReturnKing	book
+FORNOST	GPE	Fellows	book
+THE TOWER	ORG	ReturnKing	book
+THE TOWER	ORG	TwoTow	book
+ERECH	NORP	ReturnKing	book
+DOOR	ORG	ReturnKing	book
+DOOR	ORG	Fellows	book
+DOOR	ORG	TwoTow	book
+N�	ORG	ReturnKing	book
+N�	ORG	Fellows	book
+N�	ORG	TwoTow	book
+LORDS	ORG	ReturnKing	book
+LORDS	ORG	Fellows	book
+LORDS	ORG	TwoTow	book
+HARROWDALE	ORG	ReturnKing	book
+HARROWDALE	ORG	Fellows	book
+HOUSE	ORG	ReturnKing	book
+HOUSE	ORG	Fellows	book
+HOUSE	ORG	TwoTow	book
+DWIMORBERG	GPE	ReturnKing	book
+ELVISH	NORP	ReturnKing	book
+ELVISH	NORP	Fellows	book
+ELVISH	NORP	TwoTow	book
+ELVES	ORG	ReturnKing	book
+ELVES	ORG	Fellows	book
+ELVES	ORG	TwoTow	book
+AROD	GPE	ReturnKing	book
+AROD	GPE	TwoTow	book
+MIDDLE-EARTH	LOC	ReturnKing	book
+MIDDLE-EARTH	LOC	Fellows	book
+MIDDLE-EARTH	LOC	TwoTow	book
+PELARGIR	NORP	ReturnKing	book
+ELESSAR	ORG	ReturnKing	book
+ELESSAR	ORG	Fellows	book
+ELESSAR	ORG	TwoTow	book
+TARLANG	GPE	ReturnKing	book
+CALEMBEL	ORG	ReturnKing	book
+STARKHORN	NORP	ReturnKing	book
+FIRIENFELD	LOC	ReturnKing	book
+IRENSAGA	ORG	ReturnKing	book
+BREGO	ORG	ReturnKing	book
+BREGO	ORG	TwoTow	book
+DEAD MEN	ORG	ReturnKing	book
+HIRGON	GPE	ReturnKing	book
+RED ARROW	ORG	ReturnKing	book
+ORC	ORG	ReturnKing	book
+ORC	ORG	Fellows	book
+ORC	ORG	TwoTow	book
+UNDERHARROW	FAC	ReturnKing	book
+FOLDE	NORP	ReturnKing	book
+FIRIENWOOD	LOC	ReturnKing	book
+MUNDBURG	GPE	ReturnKing	book
+MUNDBURG	GPE	TwoTow	book
+WINDFOLA	ORG	ReturnKing	book
+ENT	ORG	ReturnKing	book
+ENT	ORG	Fellows	book
+ENT	ORG	TwoTow	book
+WOLD	ORG	ReturnKing	book
+WOLD	ORG	TwoTow	book
+KING TH�	FAC	ReturnKing	book
+KING TH�	FAC	TwoTow	book
+CAUSEWAY	FAC	ReturnKing	book
+CROSS	ORG	ReturnKing	book
+CROSS	ORG	TwoTow	book
+MARISH	ORG	ReturnKing	book
+MARISH	ORG	Fellows	book
+MARISH	ORG	TwoTow	book
+WHITE RIDER	ORG	ReturnKing	book
+WHITE RIDER	ORG	TwoTow	book
+HEN	ORG	ReturnKing	book
+HEN	ORG	Fellows	book
+HEN	ORG	TwoTow	book
+CIRITH	ORG	ReturnKing	book
+CIRITH	ORG	Fellows	book
+CIRITH	ORG	TwoTow	book
+MORGUL VALE	GPE	ReturnKing	book
+MORGUL VALE	GPE	Fellows	book
+MORGUL VALE	GPE	TwoTow	book
+CAIR ANDROS	GPE	ReturnKing	book
+COUNCIL	ORG	ReturnKing	book
+COUNCIL	ORG	Fellows	book
+COUNCIL	ORG	TwoTow	book
+BARAD-D	FAC	ReturnKing	book
+BARAD-D	FAC	Fellows	book
+BARAD-D	FAC	TwoTow	book
+RINGWRAITH	ORG	ReturnKing	book
+RINGWRAITH	ORG	Fellows	book
+RINGWRAITH	ORG	TwoTow	book
+EYE	ORG	ReturnKing	book
+EYE	ORG	Fellows	book
+EYE	ORG	TwoTow	book
+NIMRODEL	GPE	ReturnKing	book
+NIMRODEL	GPE	Fellows	book
+RATH D�	ORG	ReturnKing	book
+GROND	GPE	ReturnKing	book
+FOREST	ORG	ReturnKing	book
+FOREST	ORG	Fellows	book
+FOREST	ORG	TwoTow	book
+WOSES	ORG	ReturnKing	book
+VALLEY	LOC	ReturnKing	book
+VALLEY	LOC	TwoTow	book
+FOES	ORG	ReturnKing	book
+GRIMBOLD	ORG	ReturnKing	book
+GRIMBOLD	ORG	TwoTow	book
+OROM	ORG	ReturnKing	book
+VALAR	NORP	ReturnKing	book
+VALAR	NORP	TwoTow	book
+FIELD	LOC	ReturnKing	book
+FIELD	LOC	Fellows	book
+FIELD	LOC	TwoTow	book
+BARROW	ORG	ReturnKing	book
+BARROW	ORG	Fellows	book
+BARROW	ORG	TwoTow	book
+H�	ORG	ReturnKing	book
+H�	ORG	Fellows	book
+H�	ORG	TwoTow	book
+WARDEN	ORG	ReturnKing	book
+WARDEN	ORG	Fellows	book
+WARDEN	ORG	TwoTow	book
+VARIAGS	GPE	ReturnKing	book
+FAR HARAD	ORG	ReturnKing	book
+CORSAIRS	ORG	ReturnKing	book
+WHITE HORSE	ORG	ReturnKing	book
+NARSIL	ORG	ReturnKing	book
+NARSIL	ORG	Fellows	book
+THENGLING	GPE	ReturnKing	book
+HEREFARA	GPE	ReturnKing	book
+HERUBRAND	GPE	ReturnKing	book
+ARNACH	ORG	ReturnKing	book
+TOMBS	FAC	ReturnKing	book
+HALLOWS	NORP	ReturnKing	book
+POWER	ORG	ReturnKing	book
+POWER	ORG	Fellows	book
+POWER	ORG	TwoTow	book
+HEALERS	ORG	ReturnKing	book
+IORETH	ORG	ReturnKing	book
+ARNOR	ORG	ReturnKing	book
+ARNOR	ORG	Fellows	book
+ARNOR	ORG	TwoTow	book
+ENVINYATAR	GPE	ReturnKing	book
+TELCONTAR	ORG	ReturnKing	book
+VALINOREAN	NORP	ReturnKing	book
+IMLOTH MELUI	ORG	ReturnKing	book
+RIDDERMARK	ORG	ReturnKing	book
+RIDDERMARK	ORG	Fellows	book
+RIDDERMARK	ORG	TwoTow	book
+BREE	GPE	ReturnKing	book
+BREE	GPE	Fellows	book
+BREE	GPE	TwoTow	book
+TOOKS	ORG	ReturnKing	book
+TOOKS	ORG	Fellows	book
+TOOKS	ORG	TwoTow	book
+BRAND	ORG	ReturnKing	book
+BRAND	ORG	Fellows	book
+BRAND	ORG	TwoTow	book
+COMPANIONS	ORG	ReturnKing	book
+IMLADRIS	GPE	ReturnKing	book
+IMLADRIS	GPE	Fellows	book
+IMLADRIS	GPE	TwoTow	book
+HAVEN	GPE	ReturnKing	book
+HAVEN	GPE	Fellows	book
+HAVEN	GPE	TwoTow	book
+LINHIR	LOC	ReturnKing	book
+ANGBOR	ORG	ReturnKing	book
+CELOS	ORG	ReturnKing	book
+DWARVES	ORG	ReturnKing	book
+DWARVES	ORG	Fellows	book
+DWARVES	ORG	TwoTow	book
+EREBOR	ORG	ReturnKing	book
+EREBOR	ORG	Fellows	book
+EPHEL D�	FAC	ReturnKing	book
+EPHEL D�	FAC	TwoTow	book
+MORANNON	GPE	ReturnKing	book
+MORANNON	GPE	TwoTow	book
+MABLUNG	ORG	ReturnKing	book
+MABLUNG	ORG	TwoTow	book
+GAP	ORG	ReturnKing	book
+GAP	ORG	Fellows	book
+GAP	ORG	TwoTow	book
+ERED LITHUI	ORG	ReturnKing	book
+ERED LITHUI	ORG	TwoTow	book
+STING	GPE	ReturnKing	book
+STING	GPE	Fellows	book
+STING	GPE	TwoTow	book
+SHELOB	FAC	ReturnKing	book
+SHELOB	FAC	TwoTow	book
+HAMFAST	LOC	ReturnKing	book
+HAMFAST	LOC	Fellows	book
+HAMFAST	LOC	TwoTow	book
+CLEFT	NORP	ReturnKing	book
+CLEFT	NORP	TwoTow	book
+SHAGRAT	ORG	ReturnKing	book
+SHAGRAT	ORG	TwoTow	book
+GORBAG	GPE	ReturnKing	book
+GORBAG	GPE	TwoTow	book
+ORODRUIN	LOC	ReturnKing	book
+ORODRUIN	LOC	Fellows	book
+MOUNT DOOM	LOC	ReturnKing	book
+MOUNT DOOM	LOC	Fellows	book
+MOUNT DOOM	LOC	TwoTow	book
+NARCHOST	GPE	ReturnKing	book
+CARCHOST	GPE	ReturnKing	book
+WATCHERS	ORG	ReturnKing	book
+WATCHERS	ORG	TwoTow	book
+NOB	ORG	ReturnKing	book
+NOB	ORG	Fellows	book
+NOB	ORG	TwoTow	book
+LUGB	GPE	ReturnKing	book
+LUGB	GPE	TwoTow	book
+BAG END	LOC	ReturnKing	book
+BAG END	LOC	Fellows	book
+BAG END	LOC	TwoTow	book
+FIERY MOUNTAIN	FAC	ReturnKing	book
+FIERY MOUNTAIN	FAC	Fellows	book
+AIYA	GPE	ReturnKing	book
+AIYA	GPE	TwoTow	book
+THE LAND	ORG	ReturnKing	book
+HOBBITON	LOC	ReturnKing	book
+HOBBITON	LOC	Fellows	book
+HOBBITON	LOC	TwoTow	book
+ISENMOUTHE	GPE	ReturnKing	book
+ASHEN MOUNTAINS	LOC	ReturnKing	book
+LAKE N	LOC	ReturnKing	book
+DURTHANG	GPE	ReturnKing	book
+BYWATER	GPE	ReturnKing	book
+BYWATER	GPE	Fellows	book
+NAUR	ORG	ReturnKing	book
+NAUR	ORG	Fellows	book
+DUSST	NORP	ReturnKing	book
+QUEST	ORG	ReturnKing	book
+QUEST	ORG	Fellows	book
+QUEST	ORG	TwoTow	book
+CORMALLEN	GPE	ReturnKing	book
+WINDLORD	ORG	ReturnKing	book
+WINDLORD	ORG	Fellows	book
+WINDLORD	ORG	TwoTow	book
+ZIRAK	GPE	ReturnKing	book
+ZIRAK	GPE	Fellows	book
+ZIRAK	GPE	TwoTow	book
+PHERIAIN	ORG	ReturnKing	book
+BERHAEL	GPE	ReturnKing	book
+CONIN	ORG	ReturnKing	book
+SHORE	LOC	ReturnKing	book
+SHORE	LOC	Fellows	book
+LOST ISLE	GPE	ReturnKing	book
+OLIPHAUNT	ORG	ReturnKing	book
+OLIPHAUNT	ORG	TwoTow	book
+ANOR	GPE	ReturnKing	book
+ANOR	GPE	Fellows	book
+ANOR	GPE	TwoTow	book
+VALANDIL	GPE	ReturnKing	book
+VALANDIL	GPE	Fellows	book
+SINOME	ORG	ReturnKing	book
+AMBAR	LOC	ReturnKing	book
+AMBAR	LOC	TwoTow	book
+DUNLAND	GPE	ReturnKing	book
+DUNLAND	GPE	Fellows	book
+DUNLAND	GPE	TwoTow	book
+NIMLOTH	ORG	ReturnKing	book
+CELEBORN	ORG	ReturnKing	book
+CELEBORN	ORG	Fellows	book
+CELEBORN	ORG	TwoTow	book
+EVENSTAR	ORG	ReturnKing	book
+EVENSTAR	ORG	Fellows	book
+MERETHROND	GPE	ReturnKing	book
+THE GOLDEN HALL	FAC	ReturnKing	book
+GRAM	ORG	ReturnKing	book
+FOLCWINE	NORP	ReturnKing	book
+HOLDWINE	NORP	ReturnKing	book
+QUICKBEAM	GPE	ReturnKing	book
+QUICKBEAM	GPE	TwoTow	book
+LAURELIND	GPE	ReturnKing	book
+LAURELIND	GPE	TwoTow	book
+EREGION	ORG	ReturnKing	book
+EREGION	ORG	Fellows	book
+CARADHRAS	GPE	ReturnKing	book
+CARADHRAS	GPE	Fellows	book
+CARADHRAS	GPE	TwoTow	book
+CELEBDIL	GPE	ReturnKing	book
+CELEBDIL	GPE	Fellows	book
+CELEBDIL	GPE	TwoTow	book
+FANUIDHOL	GPE	ReturnKing	book
+FANUIDHOL	GPE	Fellows	book
+REDHORN	GPE	ReturnKing	book
+REDHORN	GPE	Fellows	book
+DIMRILL	GPE	ReturnKing	book
+DIMRILL	GPE	Fellows	book
+SILVERLODE	ORG	ReturnKing	book
+SILVERLODE	ORG	Fellows	book
+SMAUG	ORG	ReturnKing	book
+SMAUG	ORG	Fellows	book
+WEATHERTOP	ORG	ReturnKing	book
+WEATHERTOP	ORG	Fellows	book
+BARLEY	ORG	ReturnKing	book
+BARLEY	ORG	Fellows	book
+PONY	ORG	ReturnKing	book
+PONY	ORG	Fellows	book
+BARLIMAN	ORG	ReturnKing	book
+BARLIMAN	ORG	Fellows	book
+FERNY	GPE	ReturnKing	book
+FERNY	GPE	Fellows	book
+UNDERHILL	ORG	ReturnKing	book
+UNDERHILL	ORG	Fellows	book
+HEATHERTOES	GPE	ReturnKing	book
+HEATHERTOES	GPE	Fellows	book
+APPLEDORE	GPE	ReturnKing	book
+APPLEDORE	GPE	Fellows	book
+STADDLE	ORG	ReturnKing	book
+STADDLE	ORG	Fellows	book
+GOATLEAF	GPE	ReturnKing	book
+GOATLEAF	GPE	Fellows	book
+DOWNS	LOC	ReturnKing	book
+DOWNS	LOC	Fellows	book
+LAKE EVENDIM	FAC	ReturnKing	book
+LAKE EVENDIM	FAC	Fellows	book
+NORBURY	GPE	ReturnKing	book
+NORBURY	GPE	Fellows	book
+CURIOSITY	ORG	ReturnKing	book
+MIRROR	ORG	ReturnKing	book
+MIRROR	ORG	Fellows	book
+LOTHO	ORG	ReturnKing	book
+LOTHO	ORG	Fellows	book
+BOMBADIL	GPE	ReturnKing	book
+BOMBADIL	GPE	Fellows	book
+BOMBADIL	GPE	TwoTow	book
+BRIDGE	FAC	ReturnKing	book
+BRIDGE	FAC	Fellows	book
+BRIDGE	FAC	TwoTow	book
+BUCKLAND	GPE	ReturnKing	book
+BUCKLAND	GPE	Fellows	book
+CRICKHOLLOW	ORG	ReturnKing	book
+CRICKHOLLOW	ORG	Fellows	book
+FROGMORTON	ORG	ReturnKing	book
+BRIBING GUARDS	ORG	ReturnKing	book
+LOCKHOLES	GPE	ReturnKing	book
+QUICK POST	ORG	ReturnKing	book
+WHITFURROWS	ORG	ReturnKing	book
+POOL SIDE	FAC	ReturnKing	book
+THE DARK TOWER	FAC	ReturnKing	book
+THE DARK TOWER	FAC	Fellows	book
+WAYMEET	FAC	ReturnKing	book
+THAIN	GPE	ReturnKing	book
+THAIN	GPE	Fellows	book
+TOOKLAND	ORG	ReturnKing	book
+TOOKLAND	ORG	Fellows	book
+FOOLISH	NORP	ReturnKing	book
+FOOLISH	NORP	TwoTow	book
+BAGSHOT ROW	LOC	ReturnKing	book
+BAGSHOT ROW	LOC	Fellows	book
+BAGSHOT ROW	LOC	TwoTow	book
+COTTONS	ORG	ReturnKing	book
+THE OLD GRANGE	ORG	ReturnKing	book
+BRACEGIRDLES	GPE	ReturnKing	book
+BRACEGIRDLES	GPE	Fellows	book
+HARDBOTTLE	GPE	ReturnKing	book
+BATTLE GARDENS	FAC	ReturnKing	book
+BETTER SMIALS	ORG	ReturnKing	book
+NEW ROW	ORG	ReturnKing	book
+TRAVELLERS	ORG	ReturnKing	book
+TRAVELLERS	ORG	Fellows	book
+TRAVELLERS	ORG	TwoTow	book
+HARVEST	ORG	ReturnKing	book
+ELANOR	ORG	ReturnKing	book
+STOCK	ORG	ReturnKing	book
+STOCK	ORG	Fellows	book
+VILYA	LOC	ReturnKing	book
+LUNE	ORG	ReturnKing	book
+LUNE	ORG	Fellows	book
+LUNE	ORG	TwoTow	book
+NARYA	GPE	ReturnKing	book
+NECROMANCER	ORG	Fellows	book
+BANDOBRAS	ORG	Fellows	book
+ERIADOR	ORG	Fellows	book
+STOORS	ORG	Fellows	book
+WILDERLAND	ORG	Fellows	book
+WILDERLAND	ORG	TwoTow	book
+LOUDWATER	LOC	Fellows	book
+THARBAD	ORG	Fellows	book
+HOARWELL	ORG	Fellows	book
+TOBOLD	GPE	Fellows	book
+TOBOLD	GPE	TwoTow	book
+WIZARD	ORG	Fellows	book
+WIZARD	ORG	TwoTow	book
+BAGGINSES	ORG	Fellows	book
+BAGGINSES	ORG	TwoTow	book
+OUTSIDERS	ORG	Fellows	book
+DALE	ORG	Fellows	book
+DALE	ORG	TwoTow	book
+BARAHIR	LOC	Fellows	book
+BUCKLEBURY	ORG	Fellows	book
+SACKVILLE	GPE	Fellows	book
+SACKVILLE	ORG	Fellows	book
+DROGO	ORG	Fellows	book
+DROGO	ORG	TwoTow	book
+GORBADOC	ORG	Fellows	book
+STICK	FAC	Fellows	book
+CHUBB	ORG	Fellows	book
+BURROWSES	GPE	Fellows	book
+BOLGERS	ORG	Fellows	book
+BROCKHOUSES	GPE	Fellows	book
+HORNBLOWERS	ORG	Fellows	book
+OTHO	ORG	Fellows	book
+SPRINGLE	NORP	Fellows	book
+ESGAROTH	GPE	Fellows	book
+DORA	ORG	Fellows	book
+BRACEGIRDLE	ORG	Fellows	book
+BLUE	ORG	Fellows	book
+TROLL	ORG	Fellows	book
+TROLL	ORG	TwoTow	book
+HALFAST	ORG	Fellows	book
+MERCY	ORG	Fellows	book
+MERCY	ORG	TwoTow	book
+ANCALAGON	ORG	Fellows	book
+GIANTS	ORG	Fellows	book
+FERRY	FAC	Fellows	book
+BIG PEOPLE	ORG	Fellows	book
+BIG PEOPLE	ORG	TwoTow	book
+EXILES	ORG	Fellows	book
+THE WANDERING COMPANIES	ORG	Fellows	book
+GOLDEN PERCH	ORG	Fellows	book
+BAMFURLONG	GPE	Fellows	book
+HAYSEND	LOC	Fellows	book
+WITHYWINDLE	ORG	Fellows	book
+HEDGE	ORG	Fellows	book
+BUDGEFORD	ORG	Fellows	book
+THE WITHYWINDLE	LOC	Fellows	book
+CARN D�M	ORG	Fellows	book
+SWISH	NORP	Fellows	book
+FATTY LUMPKIN	ORG	Fellows	book
+THE INN	ORG	Fellows	book
+THE PRANCING PONY	ORG	Fellows	book
+THISTLEWOOL	GPE	Fellows	book
+MUGWORTS	ORG	Fellows	book
+LONGHOLES	GPE	Fellows	book
+PS	ORG	Fellows	book
+PPS	ORG	Fellows	book
+MARSHES	LOC	Fellows	book
+MARSHES	LOC	TwoTow	book
+THINGOL	ORG	Fellows	book
+ANGBAND	ORG	Fellows	book
+SILMARILS	ORG	Fellows	book
+NELDORETH	GPE	Fellows	book
+NELDORETH	GPE	TwoTow	book
+DIOR	ORG	Fellows	book
+WILDERNESS	LOC	Fellows	book
+FIRSTBORN	ORG	Fellows	book
+FIRSTBORN	ORG	TwoTow	book
+BEORN	ORG	Fellows	book
+BEORN	ORG	TwoTow	book
+BARDINGS	ORG	Fellows	book
+BARDINGS	ORG	TwoTow	book
+BOMBUR	ORG	Fellows	book
+ELDAMAR	GPE	Fellows	book
+ELDAMAR	GPE	TwoTow	book
+TIRION	GPE	Fellows	book
+TIRION	GPE	TwoTow	book
+NORLAND	GPE	Fellows	book
+GALDOR	ORG	Fellows	book
+THRANDUIL	ORG	Fellows	book
+KHAZ	GPE	Fellows	book
+KHAZ	GPE	TwoTow	book
+CELEBRIMBOR	ORG	Fellows	book
+OHTAR	LOC	Fellows	book
+RADAGAST	ORG	Fellows	book
+RHOSGOBEL	LOC	Fellows	book
+IARWAIN	FAC	Fellows	book
+ORALD	NORP	Fellows	book
+HADOR	ORG	Fellows	book
+HADOR	ORG	TwoTow	book
+FREE PEOPLES	ORG	Fellows	book
+HOLLIN	GPE	Fellows	book
+KIBIL-N	GPE	Fellows	book
+MINES	ORG	Fellows	book
+MINES	ORG	TwoTow	book
+WARGS	FAC	Fellows	book
+SIRANNON	NORP	Fellows	book
+MELLON	ORG	Fellows	book
+NARGOTHROND	GPE	Fellows	book
+UNWEARIED	ORG	Fellows	book
+DAERON	ORG	Fellows	book
+THIRD DEEP	LOC	Fellows	book
+RAMS	ORG	Fellows	book
+BALROG	ORG	Fellows	book
+BALROG	ORG	TwoTow	book
+GALADHRIM	ORG	Fellows	book
+MELLYRN	ORG	Fellows	book
+HALDIR	GPE	Fellows	book
+HALDIR	GPE	TwoTow	book
+OROPHIN	ORG	Fellows	book
+NAITH	NORP	Fellows	book
+EGLADIL	GPE	Fellows	book
+CARAS GALADHON	ORG	Fellows	book
+CARAS GALADHON	ORG	TwoTow	book
+NEN HITHOEL	ORG	Fellows	book
+PLAIN	LOC	Fellows	book
+PLAIN	LOC	TwoTow	book
+WETWANG	GPE	Fellows	book
+NOMAN	NORP	Fellows	book
+NOMAN	NORP	TwoTow	book
+VARDA	ORG	Fellows	book
+MOUNT EVERWHITE	ORG	Fellows	book
+RAPIDS	GPE	Fellows	book
+LHAW	ORG	Fellows	book
+WHITE HAND	ORG	TwoTow	book
+MEARAS	ORG	TwoTow	book
+GREAT ORCS	FAC	TwoTow	book
+ISENGARDERS	ORG	TwoTow	book
+UNTIDY	ORG	TwoTow	book
+TAUR-	GPE	TwoTow	book
+TAUREMORNA	NORP	TwoTow	book
+WELLINGHALL	ORG	TwoTow	book
+ANGRENOST	ORG	TwoTow	book
+FLADRIF	ORG	TwoTow	book
+LEAFLOCK	ORG	TwoTow	book
+SKINBARK	ORG	TwoTow	book
+WANDLIMB	ORG	TwoTow	book
+EARTH	LOC	TwoTow	book
+LASSEMISTA	ORG	TwoTow	book
+THRIHYRNE	ORG	TwoTow	book
+ERKENBRAND	ORG	TwoTow	book
+HORNROCK	ORG	TwoTow	book
+HAMMERHAND	ORG	TwoTow	book
+FORTH HELMINGAS	GPE	TwoTow	book
+FORGOIL	ORG	TwoTow	book
+STRAWHEADS	GPE	TwoTow	book
+THE CAVERNS	LOC	TwoTow	book
+AGLAROND	LOC	TwoTow	book
+THORNBUSHES	ORG	TwoTow	book
+THE TAMING	ORG	TwoTow	book
+BATTLE PLAIN	LOC	TwoTow	book
+NINNYHAMMERS	ORG	TwoTow	book
+TIGHFIELD	ORG	TwoTow	book
+NASSTY	ORG	TwoTow	book
+NICE	GPE	TwoTow	book
+WRAITHS	NORP	TwoTow	book
+SLINKER	ORG	TwoTow	book
+OVERLORD	FAC	TwoTow	book
+SWERTINGS	GPE	TwoTow	book
+DAMROD	GPE	TwoTow	book
+ANBORN	GPE	TwoTow	book
+CALENARDHON	ORG	TwoTow	book
+PERILOUSLY	NORP	TwoTow	book
+PHIAL	ORG	TwoTow	book
+UNGOLIANT	ORG	TwoTow	book
+LORIEN	GPE	TwoTow	book
+UNDERGATE	ORG	TwoTow	book

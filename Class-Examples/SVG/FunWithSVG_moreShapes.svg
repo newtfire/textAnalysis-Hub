@@ -12,8 +12,9 @@
     <g alignment-baseline="baseline" transform="translate (25, 100)">
         <!--The "g" element just lets us *group* stuff together. -->
         
+        
+        <ellipse cx="200" cy="80" rx="200" ry="50" fill="yellow" stroke="purple"/>
         <circle cx="250" cy="30" r="20" stroke="red" fill="aqua" stroke-width="4"/>  
-        <ellipse cx="200" cy="80" rx="100" ry="50" fill="yellow" stroke="purple"/>
         
      <circle cx="400" cy="300" r="50" stroke="red" fill="purple" stroke-width="5"/>  
         
