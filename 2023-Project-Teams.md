@@ -1,4 +1,4 @@
-# 2022 Project Teams
+# 2023 Project Teams
 ** designates team lead
 
 ## AI Generated Game Lore
