@@ -1,0 +1,608 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt>
+<metadata><ep><epTitle>Lost Verizon</epTitle><szn>20</szn>x<epNum>02</epNum></ep>
+<date>10/09/08</date> <runtime>01:23</runtime></metadata>
+
+<stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
+
+<stage>SCHOOL BELL RINGING</stage>
+
+<stage>HORN BELLOWING</stage>
+
+<stage>PLAYING DIFFERENT TUNE</stage>
+
+<stage>TIRES SCREECHING</stage>
+
+<stage>HONKING</stage>
+
+<stage>TIRES SCREECHING</stage>
+
+<catchphrase>D'oh</catchphrase>!
+
+<stage>SCREAMS</stage>
+
+<stage>BRAKES SCREECHING</stage>
+
+<fam><person>Bart</person></fam>: Ay, <catchphrase>caramba</catchphrase>!
+
+<stage>ENGINE SPUTTERING</stage>
+
+Out of gas? But how?
+
+I put a dollar in this morning and we've only driven 90 cents!
+
+You had to drive with the windows down, didn't you, Rockefeller?
+
+Now get some gas while I read my bingo strategy guide!
+
+Let's see... B-12.
+
+<stage>TRUCK HORN HONKING</stage>
+
+<stage>CARS HONKING</stage>
+
+<stage>GASPING</stage>
+
+I did it!
+
+Bonehead.
+
+Huh?
+
+This counts as a parent/teacher conference!
+
+<stage>EXCLAIMS</stage>
+
+Am I seeing this right?
+
+I am! Time to spread the word!
+
+Hey, <person>Milhouse</person>.
+
+Talk to me.
+
+<person>Skinner</person>'s doing what?
+
+<stage>CELL PHONE RINGING</stage>
+
+I'm on my way!
+
+I'm on my way!
+
+<stage>CHILDREN LAUGHING</stage>
+
+<stage>CARS HONKING</stage>
+
+<stage>PANTING</stage>
+
+<stage>GRUNTS ANGRILY</stage>
+
+I'll clean you up good, giant beer can!
+
+<stage><person>BARNEY</person> YELLING</stage>
+
+<stage>SEYMOUR SCREAMING</stage>
+
+<stage>ALL LAUGHING</stage>
+
+Where's Simpson?
+
+I couldn't get a hold of him.
+
+No cell phone. But if I know <fam><person>Bart</person></fam>, he's busy doing something awesome!
+
+I don't know why I agreed to this.
+
+Because you love the taste of my imaginary tea.
+
+<stage>SLURPS</stage>
+
+Oh, you're right.
+
+<stage>GULPING</stage>
+
+Hey, spaz. While you were here spazzing yourself, you totally missed out.
+
+Missed out? I didn't miss out. What did I miss out on?
+
+<stage><person>BART</person> GASPING</stage>
+
+<stage><person>BART</person> EXCLAIMS IN DISGUST</stage>
+
+<stage>MOANS</stage>
+
+I wish I had a cell phone.
+
+Here's an imaginary cell phone.
+
+What? Do you think I'm crazy?
+
+<stage><person>BART</person> GRUNTS</stage>
+
+Mom, even <person>Milhouse</person> has a cell phone! Your son is lamer than <person>Milhouse</person>!
+
+What does that say about you?
+
+Sweetie, we can't afford to get you a cell phone.
+
+As it is, I'm buying frozen peas on installments.
+
+<stage>SIGHS IN FRUSTRATION</stage>
+
+<stage>GROANS</stage>
+
+I'm never gonna get a cell phone.
+
+And I'm never gonna go to Machu Picchu.
+
+In this family, you get used to disappointments.
+
+How am I ever gonna get a cell phone?
+
+<stage>GROANS</stage>
+
+<stage>GRUNTS ANGRILY</stage>
+
+Is this your ball?
+
+Why, yes, it is!
+
+<stage><person>DR. HIBBERT</person> LAUGHING</stage>
+
+Here you go.
+
+Don't tell me where I go!
+
+A dollar? What for?
+
+It's the least I can do.
+
+These balls cost five dollars new.
+
+So I can get a dollar for every ball I find?
+
+Then if a cell phone costs $100, how many balls do I need?
+
+This is why my kids go to private school.
+
+<stage>LAUGHING</stage>
+
+<stage>WORKIN'MAN BLUES PLAYING</stage>
+
+<stage>SINGING</stage> I keep my nose on the grindstone.
+
+I work hard every day.
+
+I might get a little tired on the weekend, after I draw my pay.
+
+But I'll go back workin'
+
+Come Monday morning I'm right back with the crew[/i]
+
+<stage>WHOOPS</stage>
+
+I'll drink a little beer that evening
+
+Huh?
+
+I'll fix you, you varmint!
+
+Wow! I'm just 20 balls away from a cell phone!
+
+Willie: So it's you!
+
+You're the one that's been poaching on my <location>territory</location>!
+
+<person>Groundskeeper Willie</person>?
+
+Weekends and summers, I'm Greenskeeper Willie.
+
+Your ball-scavenging days are over!
+
+And those orphan golf balls belong to me!
+
+<stage>GRUNTS</stage> Dimpled gold. I'm rich!
+
+Now I won't have to pleasure a country club wife to get me steak dinner!
+
+<stage>SIGHS</stage>
+
+I'm never gonna get a cell phone.
+
+<stage>SIGHS</stage> Great. We gotta wait for Denis Leary.
+
+Hey, Leary, if you want to have a "tee" <location>party</location>, go back to <location>Boston</location>!
+
+<stage>BOTH LAUGHING</stage>
+
+<location>Boston</location>.
+
+Come on, Ice Age, take the sh*t!
+
+Ice Age[/i] was the name of the film.
+
+I played <location>Diego</location>, the vicious saber tooth tiger who, guess what, has a heart.
+
+Now shut up or I'll have you all kicked out of show business.
+
+<stage>ALL EXCLAIM</stage>
+
+<stage>CELL PHONE RINGING</stage>
+
+Damn it!
+
+A cell phone!
+
+It's mine!
+
+Cool. You can even watch commercials on it!
+
+<stage>DIALING ON CELL PHONE</stage>
+
+Hey, <person>Milhouse</person>. Guess where I'm calling from?
+
+Well, I know you don't have a cell phone.
+
+So you must be in your kitchen or one of your bedrooms.
+
+Unless you have a wall jack in your basement!
+
+That would be huge!
+
+Look outside your window.
+
+I'm not supposed to look out the window when I'm alone.
+
+Just do it!
+
+Cell phone!
+
+Let's assign each other ring tones!
+
+That felt good.
+
+<stage>CELL PHONE RINGING</stage>
+
+Hello? You want Denis Leary? Wrong number, dumbass.
+
+Come on, Denis. It's me, producer Brian Grazer.
+
+I just paid five million dollars for the screen rights to the book Everybody Poops.
+
+I'm a big fan.
+
+Only one face came to mind for the constipated gorilla. Yours.
+
+Sure. On one condition. I want to do my own poops.
+
+I wouldn't have it any other way.
+
+Of course I'll do it for minimum. Great.
+
+I'll see you next Monday in <location>Tunisia</location>.
+
+This phone belongs to Denis Leary!
+
+Denis Leary? <location>Boston</location> comedian turned movie star turned basic cable notable?
+
+That's right! Let's call his business manager and tell him to spend all his money on Yankees hats and Derek Jeter jerseys.
+
+I don't know, <fam><person>Bart</person></fam>. What if Denis Leary gets mad?
+
+Nah. He's cool. He's gonna think this is hilarious.
+
+No longer must we live in shame.
+
+Let the decree go forth. Everybody poops!
+
+And cut! Great. Great, man. You really nailed it.
+
+I don't even remember agreeing to be in this movie.
+
+Well, you did. Bring in the poop.
+
+<person>Milhouse</person>, I hold in this hand Denis Leary's cell phone.
+
+And in this hand, the phone numbers of bars around the world.
+
+Let's start with <location>Hawaii</location>.
+
+<stage>PHONE RINGING</stage>
+
+Aloha.
+
+Aloha to you.
+
+I'm looking for Maya, last name Normousbutt.
+
+Hang on. I'll check, has anyone here seen Maya Normousbutt?
+
+<stage>ALL LAUGHING</stage>
+
+<stage>PHONE RINGING</stage>
+
+I got a Drew Peewiener here? Anyone expecting a Drew Peewiener?
+
+I hold in my hand a Drew Peewiener!
+
+Better put it down then, mate!
+
+<stage>ALL LAUGHING</stage>
+
+<stage>PHONE RINGING</stage>
+
+<stage>GREETS IN SWEDISH</stage>
+
+I shall inquire. Is there a Mr. Myfriendsaregay?
+
+First name Olaf. Attention, everyone! Olaf Myfriendsaregay!
+
+<stage>ALL LAUGHING</stage>
+
+Wait a minute. If I ever get a hold of you, I will thank you for showing me the futility of human endeavor.
+
+<stage>BOTH LAUGHING</stage>
+
+<stage>SIGHS</stage> The sun never sets on <location>the Bartish Empire</location>.
+
+<stage>CELL PHONE RINGING</stage>
+
+Yo. Who's this?
+
+Denis Leary, you little puke!
+
+I'm gonna rip out your heart with two fingers!
+
+They taught me how to do it for my show!
+
+Which one? The one that got canceled or the one that's gonna get canceled?
+
+You are so d*ad!
+
+<stage>BOTH LAUGHING</stage>
+
+That laughter sounds like the result of misbehavior.
+
+<fam><person>Bart</person></fam>, how did you get a cell phone?
+
+Same way you got me. By accident on a golf course.
+
+Whose phone is this?
+
+You'll never get it out of me!
+
+Okay. <person>Milhouse</person>?
+
+It's Denis Leary's!
+
+I'm sorry, <fam><person>Bart</person></fam>. I'm desperate for any signs of adult approval.
+
+You did the right thing.
+
+<stage>SIGHS</stage>
+<stage>CELL PHONE RINGING</stage>
+
+<fam><person>Bart</person></fam> Simpson's stolen cell phone. Can I help you?
+
+Damn straight, you can. I'm Denis Leary. And your kid is out of control.
+
+I'm sorry, Mr. Leary. Sometimes it's hard to be a parent.
+
+No it's not. It's easy. I'll tell you what's hard.
+
+Having to watch my stunt double run into a burning building, worrying that people might realize it's not me, it's him.
+
+Try doing that!
+
+I don't think I could.
+
+<stage>SIGHS</stage> Mr. Leary, I'm so sorry.
+
+I'll send you your phone back right away.
+
+Keep the phone. In fact, can I give you some advice?
+
+Of course. You're Denis Leary.
+
+Give your kid back the phone. But first, activate its built-in GPS system.
+
+That way you can log onto your carrier's website and track your son's movements, the way I track every actor who gets a movie that I was up for.
+
+Shouldn't you just be happy for their success?
+
+I should be a lot of things, lady.
+
+My tarts!
+
+<stage>SIGHS</stage> Okay, here goes. <fam><person>Bart</person></fam>, I have something for you.
+
+Huh?
+
+Wait a minute. I thought you said I couldn't have this.
+
+Well, sweetie, I know I said you couldn't have a cell phone.
+
+But in these days of stranger dangers and sinister ministers, I think it's important that we're in touch.
+
+<stage>THRILLED GASP</stage>
+
+Lady, you are the best mom ever!
+
+<stage>MURMURS</stage>
+
+Did he take the bait?
+
+Like a bigmouth bass.
+
+<stage>BOTH LAUGHING</stage>
+
+Okay. <fam><person>Bart</person></fam> went to the comic book store.
+
+Time to head home.
+
+<stage>GASPS</stage>
+
+Bullies!
+
+Hey! He went into a construction site!
+
+<stage>GASPS</stage> That's a hard-hat zone!
+
+<stage><person>MILHOUSE</person> LAUGHING</stage>
+
+You sure this is safe?
+
+Sure. I got my seatbelt on.
+
+<fam><person>Marge</person></fam>: <fam>Bartholomew</fam> J. Simpson!
+
+<person>Milhouse</person>: Whoa!
+
+What are you doing at this construction site?
+
+Trying to do something constructive?
+
+<stage>GRUNTS</stage>
+
+I'll just take <person>Milhouse</person> home.
+
+<stage>WA TCH YOUR STEPPLAYING</stage>
+
+<stage>SINGING</stage> You better watch your step.
+
+Bye.
+
+I send you all my regards.
+
+You're so tough.
+
+You're so hard.
+
+Listen to the hammers falling in the breaker's yard.
+
+You better watch your step.
+
+You better watch your step.
+
+Ooh, watch your step[/i]
+
+<stage>SCREAMS</stage>
+
+Hey, <fam><person>Bart</person></fam> just keeps spinning around and around and around.
+
+What's his angle?
+
+<stage>DOOR CREAKING</stage>
+
+What are you two doing in the laundry room?
+
+We're doing the laundry.
+
+Dad, do laundry.
+
+<stage>CHUCKLES NERVOUSLY</stage> No problem.
+
+<stage>MURMURS NERVOUSLY</stage>
+
+<stage>HUMS HAPPY TUNE</stage>
+
+Tracking software?
+
+<stage><person>LISA</person> GASPS</stage>
+
+You're spying on <fam><person>Bart</person></fam>.
+
+Honey, keeping track of someone because you love them is not wrong.
+
+It shows you care!
+
+That's right, my beautiful, beautiful Midge.
+
+<stage>CHUCKLES</stage>
+
+Soon you'll be mine.
+
+Keep talking, creepo.
+
+Every word buys you another year in the slammer.
+
+<fam><person>Bart</person></fam>, there's something I need to tell you. Mom and Dad...
+
+<stage>SHUSHING</stage> I'm listening to financing terms for double-glazed windows.
+
+Awesome. Another call. You got <fam><person>Bart</person></fam>.
+
+It's me, you idiot. Mom and Dad are spying on you.
+
+There's a tracking chip in your cell phone.
+
+<stage>GASPS</stage> They're spying on me? That's horrible.
+
+I know! It's a complete violation of your rights! Not to mention...
+
+Hold that thought. I'm getting a text.
+
+Viagra at five dollars a pill?
+
+<stage>LAUGHS</stage> Whatever it is, it's going in <person>Skinner</person>'s coffee.
+
+What is in this coffee?
+
+Mmm-hmm.
+
+Track this, Mom and Dad.
+
+<stage>CHUCKLES</stage>
+
+<fam><person>Marge</person></fam>: Look at <fam><person>Bart</person></fam> go!
+
+He must be running away!
+
+He won't get far.
+
+Not on that crappy breakfast I made for him.
+
+<fam><person>Marge</person></fam>: Oh, my God. He's out of frame!
+
+Zoom out! Zoom out!
+
+<stage><person>MARGE</person> EXCLAIMS</stage>
+
+He's circling <location>the Shelbyville Bird Sanctuary</location>.
+
+<stage><person>HOMER</person> LAUGHING</stage>
+
+Our little boy has lost his mind. Let's get him.
+
+<stage>LAUGHS</stage>
+
+Looks like I've got the house to myself for a while.
+
+I can do anything I want! First, I'm gonna take a bath.
+
+Then I'm gonna eat some vegetables.
+
+And then I'm gonna get to bed nice and early with no TV!
+
+<stage>CHUCKLING</stage>
+
+So your family's been gone for three days?
+
+Yeah. And I think they may be gone a while longer.
+
+It looks like the grilled Twizzlers are ready.
+
+3,700-mile car trip. I need to wash up.
+
+Oh!
+
+Never leave again!
+
+<stage>EXCLAIMS HAPPILY</stage>
+
+<stage><person>MARGE</person> GRUNTING</stage>
+
+Where's <fam><person>Maggie</person></fam>?
+
+She's...
+</txt></xml>

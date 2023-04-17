@@ -1,0 +1,950 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt>
+<metadata><ep><epTitle>Life on the Fast Lane</epTitle><szn>01</szn>x<epNum>09</epNum></ep>
+<date>05/20/98</date> <runtime>14:47</runtime></metadata>
+
+CHOIR /<stage> ANGELIC VOICES</stage>The Simpsons!
+
+Pan over <location>Springfield</location> Power Plant and the rest of <location>Springfield</location>.
+
+Then, the camera works its way towards the school...and dissolves into the Simpsons house <stage>(not the regular opening)</stage>.
+
+Inside, <person>BART</person> hums as he throws a piece of batter into the air.  It falls onto the table.
+
+<stage><person>BART</person></stage>Whoops.
+
+<fam><person>Bart</person></fam> pours some more and another piece drops.
+
+<stage><person>BART</person></stage>Whoops.  Whoops.
+
+<person>LISA</person> and <fam><person>Bart</person></fam> are making pancakes in the kitchen.  The entire place is a complete mess.
+
+<stage><person>LISA</person></stage>This is gonna be the best birthday breakfast Mom ever had.
+
+<fam><person>Bart</person></fam> throws a finished pancake onto a batch of about 30.
+
+<stage><person>BART</person></stage>Hey, <fam>Lis</fam>.  You think that's enough for her?
+
+<stage><person>LISA</person></stage>Maybe one more.
+
+The microwave dings and <fam><person>Lisa</person></fam> takes out a large pancake.
+
+<stage><person>LISA</person></stage>I hope she likes the presents we got her.
+
+<stage><person>BART</person></stage>Well, I know she'll like mine.  
+
+He holds up a large bottle.
+
+<stage><person>BART</person></stage>Who wouldn't like a bottle of real French perfume all the way from gay Paree?  Four bucks, plus tax.
+
+<stage><person>LISA</person></stage>Well, I think she's going to like my handmade birthday card better.
+
+<stage><person>BART</person></stage>Oh, big deal.  Dry macaroni, spray paint and glue.  Whoopie.
+
+<fam><person>Lisa</person></fam> holds up the card.  It's extremely detailed and looks very cool.  <fam><person>Bart</person></fam> whistles in amazement.
+
+<stage>CUT TO</stage>
+
+Later, <fam><person>Lisa</person></fam> is mixing something with a beater.  <fam><person>Bart</person></fam> walks over.
+
+<stage><person>BART</person></stage>Dibs, first dibs.  I get to the lick the beaters.
+
+He takes it from her and licks it.  His tongue quickly gets tangled and he screams.
+
+<stage><person>BART</person></stage>Ow!  Ow!  Ow!  Litha, my ongue, is uck in the eaters.  My ongue!
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Bart</person></fam>, <fam><person>Lisa</person></fam>, and <fam><person>Maggie</person></fam> open a door and sneakily look into <person>HOMER</person> and <person>MARGE</person>'s bedroom.  <fam><person>Homer</person></fam> snores.  They both bring over the large stack of pancakes.
+
+<person>LISA</person> +<stage> <person>BART</person></stage>Happy Birthday!!!
+
+<fam><person>Homer</person></fam> screams.
+
+<stage><person>HOMER</person></stage>Huh?  What?
+
+<stage><person>LISA</person></stage>Here's your birthday breakfast.
+
+<stage><person>MARGE</person></stage>Oh.  Isn't this nice?
+
+<stage><person>HOMER</person></stage>My birthday?
+
+<stage><person>LISA</person></stage>No.
+
+<stage><person>HOMER</person></stage>It's my birthday?  What did I get?  I love birthdays.
+
+<stage><person>MARGE</person></stage>No, <fam><person>Homer</person></fam>, it's mine.
+
+<stage><person>BART</person></stage>You don't even know your own wife's birthday?
+
+<person>HOMER</person> <stage>(nervous)</stage>: Well, of course I know.  Sure.  You really thought I forgot, didn't you?
+
+<stage><person>BART</person></stage>Oh, right, what did you get her, Dad?
+
+<stage><person>LISA</person></stage>Yeah, what did you get?
+
+<stage><person>HOMER</person></stage>Uh, well, a very thoughtful gift.  But it's a surprise.
+
+He stretches.
+
+<stage><person>HOMER</person></stage>You know, it's such a beautiful morning.  I think I'll take a little stroll around the block.
+
+He runs out of the room and the screeching of the car backing out of the driveway is heard.
+
+<stage><person>LISA</person></stage>I think he forgot, Mom.
+
+<stage><person>MARGE</person></stage>Hmm.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Homer</person></fam> slides into the parking lot of <location>the Springfield Mall</location>.  He parks in a "No Parking" zone and runs out.
+
+The mall is closed.
+
+<stage><person>HOMER</person></stage>Oh no.  Come on, come on.  Open up!
+
+<stage>COP</stage>Good morning, consumers.  <location>The Springfield Mall</location> is now open for your spending needs.
+
+<fam><person>Homer</person></fam> runs in.  He walks past the "International House of Answering Machines".
+
+<stage><person>HOMER</person></stage>Hmm?  Uh...no.
+
+Past <location>the Jerky Hut</location>.
+
+<stage><person>HOMER</person></stage>Too salty.
+
+Past the Ear Piercery.
+
+<stage><person>HOMER</person></stage>Uh...nah.
+
+Past the Carmel Corn Warehouse.
+
+<stage><person>HOMER</person></stage>Hmm?  Nah, too corny.
+
+Past Girdles N' Such Fancy Lingerie.
+
+<stage><person>HOMER</person></stage>Too exciting.
+
+<stage>CUT TO</stage>
+
+<fam><person>Marge</person></fam> on the phone, with <fam><person>Maggie</person></fam> on her lap.
+
+<stage><person>MARGE</person></stage><person>Patty</person>, he's out buying me something right now.
+
+<person>PATTY</person> and <person>SELMA</person> are on the other end.  <person>Selma</person> knits.
+
+<stage><person>PATTY</person></stage>Oh, <fam><person>Marge</person></fam>.  He never gets anything you want.  He always gets something for himself.
+
+<stage><person>SELMA</person></stage>The tackle box.
+
+<stage><person>PATTY</person></stage>Remember when he got you the tackle box?
+
+<stage><person>SELMA</person></stage>And Connie Chung.
+
+<stage><person>PATTY</person></stage>And when he surprised you with the Connie Chung calendar?
+
+<stage><person>MARGE</person></stage>I'm sue he doesn't do it deliberately.
+
+<stage>CUT TO</stage>
+
+<fam><person>Homer</person></fam> staring at a bowling bowl on sale.
+
+<stage><person>HOMER</person></stage>Hmm.  Hmm.
+
+<stage>CUT TO</stage>
+
+Back to <fam><person>Marge</person></fam>.
+
+<stage><person>MARGE</person></stage>Well, <fam><person>Homer</person></fam> and I had a lovely dining experience at Chez Pierre.  Or the Rusty Barnacle is nice.
+
+<stage><person>PATTY</person></stage>No, no, no.  We wanna take you someplace fun -- the Singing Sirloin.
+
+<person>MARGE</person> <stage>(groans)</stage>: The place where the waiters sing.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Homer</person></fam> busts through the door, carrying a small box tied with a pinkish ribbon.
+
+<stage><person>MARGE</person></stage><fam><person>Homer</person></fam>?
+
+<stage><person>HOMER</person></stage>Be right there.
+
+<fam><person>Homer</person></fam> opens a closet door, places the gift on the top shelf, and closes it.  He walks into the kitchen.
+
+<stage><person>MARGE</person></stage><fam><person>Homer</person></fam>, we're having dinner tonight at the Singing Sirloin.
+
+<stage><person>HOMER</person></stage>That sounds delightful.  Just you and me and the balladeers.
+
+<stage><person>MARGE</person></stage>And the kids.
+
+<stage><person>HOMER</person></stage>Fair enough.
+
+<fam><person>Homer</person></fam> opens the refrigerator.
+
+<stage><person>MARGE</person></stage>And my sisters.
+
+<stage><person>HOMER</person></stage><catchphrase>Doh</catchphrase>!
+
+<stage>DISSOLVE TO</stage>
+
+A sh*t of the outside of the restaurant.
+
+Inside, a group of WAITERS sing to an old couple at a table.
+
+<stage>WAITERS</stage>How we danced on the night we were wed...
+
+Near them, a young man and his pregnant wife are also serenaded.
+
+<stage>WAITERS</stage>Havin' a baby, what a lovely way to say how much you love me.
+
+Next to them is another table, with a family completely dressed in black, all weeping.
+
+<stage>WAITERS</stage>Nearer my God to thee, nearer to thee...
+
+At their table, <fam><person>Homer</person></fam> hungrily eats.  A cake sits in the middle of the table.  <fam><person>Marge</person></fam> opens up presents.
+
+<stage><person>MARGE</person></stage>Oh, perfume.
+
+She sniffs it.
+
+<stage><person>MARGE</person></stage>Whoof!  Hmm...thank you, <fam><person>Bart</person></fam>.
+
+<stage><person>PATTY</person></stage>34 years old. 
+
+<stage><person>SELMA</person></stage>Time enough to start over with a new man.
+
+<stage><person>PATTY</person></stage>Someone who eats with his mouth shut.
+
+<stage><person>HOMER</person></stage>What's that, <person>Patty</person>?
+
+<stage><person>PATTY</person></stage>Nothing.  Finish your steak.  Look at him wolf down that gristle.  Mm-hmm.
+
+<stage><person>SELMA</person></stage>It's an accident waiting to happen.
+
+<stage><person>PATTY</person></stage>Do you know the Heimlich maneuver?
+
+<stage><person>SELMA</person></stage>No.
+
+<stage><person>PATTY</person></stage>Good.
+
+They both laugh.
+
+<fam><person>Bart</person></fam> and <fam><person>Lisa</person></fam> sit near each other on another side of the table.
+
+<stage><person>LISA</person></stage>I think she likes my present better.
+
+<stage><person>BART</person></stage>Does not.
+
+<stage><person>LISA</person></stage>Does to.
+
+<stage><person>BART</person></stage>Does not.
+
+<stage><person>LISA</person></stage>Does to.
+
+<stage><person>BART</person></stage>Does not.
+
+<stage><person>LISA</person></stage>Then how come she's not putting on any of your perfume?
+
+<stage><person>BART</person></stage>Yeah, Mom.  How come you're not putting on any of my perfume?
+
+<stage><person>MARGE</person></stage>Mm <stage>(clears throat)</stage>.  Well, I'm saving it for a special occasion.
+
+<stage><person>BART</person></stage>What the hell are you talking about?  There's gallons of it!
+
+<stage><person>HOMER</person></stage><fam><person>Bart</person></fam>!
+
+<stage><person>MARGE</person></stage>But this occasion is already so special.  If we made it any more special, we might end up making it less special.
+
+<stage><person>BART</person></stage>Gotcha.  Told ya she liked mine better.
+
+<stage><person>LISA</person></stage>Oh, brother!
+
+<stage><person>HOMER</person></stage>Hold on.  Hold on now.  Your mother hasn't opened my present yet.
+
+<fam><person>Homer</person></fam> waves to several waiters, who begin singing.
+
+<stage>WAITERS</stage>Happy birthday to you, happy birthday to you, happy 34th birthday, Mrs. <fam><person>Homer</person></fam> Simpson, happy birthday to you.
+
+<fam><person>Homer</person></fam> lifts the box --- when suddenly, the bottom collapses and the ball falls out, destroying the cake.  Everybody is stunned and looks at <fam><person>Homer</person></fam> in shock.
+
+<stage><person>HOMER</person></stage>Oh, don't worry.  This frosting will come right off.  Beauty, isn't she?
+
+<stage><person>MARGE</person></stage>It's hard for me to judge, since I've never bowled in my life!
+
+<stage><person>HOMER</person></stage>Well, if you don't want it, I know someone who does.
+
+<fam><person>Marge</person></fam> angrily blows out a candle.
+
+FADE TO BLACK
+
+<stage>FADE IN</stage>
+
+An outside sh*t of the house.
+
+Inside, <fam><person>Homer</person></fam> sits on the side of the bed and talks to <fam><person>Marge</person></fam>.
+
+<stage><person>HOMER</person></stage>You always say we should talk.  I'm talking right now, as a matter of fact.  But I'm going to stop in a second so please, say something back.  <fam><person>Marge</person></fam>, please?  I'm gonna stop talking...now.
+
+<stage><person>MARGE</person></stage>You bought that bowling ball for you, not for me.
+
+<stage><person>HOMER</person></stage>What?  No!
+
+<stage><person>MARGE</person></stage>The holes were drilled for your fingers. 
+
+<stage><person>HOMER</person></stage>But I wanted to surprise you.  I couldn't very well chop your hand off and bring it to the store, could I?
+
+<stage><person>MARGE</person></stage>You never intended for me to use that ball.
+
+<stage><person>HOMER</person></stage>Well, if that's how you feel, I'll take it back.
+
+<stage><person>MARGE</person></stage>You can't take it back, you have your name engraved on it!
+
+<stage><person>HOMER</person></stage>So you'd know it's from me!
+
+<stage><person>MARGE</person></stage><fam><person>Homer</person></fam>, I'm keeping the ball...for myself!
+
+<stage><person>HOMER</person></stage>What?  But you don't know how to bowl!  Oops.
+
+<stage><person>MARGE</person></stage>I'm keeping it, and I'm going to use it.  Thank you for the present, <fam><person>Homer</person></fam>.
+
+She turns off the lights.
+
+<stage><person>HOMER</person></stage>Well, you're...welcome.
+
+<stage>DISSOLVE TO</stage>
+
+A sh*t of <person>Barney</person>'s Bowlarama.  Inside, <fam><person>Marge</person></fam> carries the ball.  She comes up to a MANAGER behind the desk.
+
+<stage><person>MARGE</person></stage>Excuse me.  Where do I throw this?
+
+<stage>MANAGER</stage>Over there.
+
+He points.
+
+<stage><person>MARGE</person></stage>Thanks.
+
+<stage>MANAGER</stage>Hey, wait, wait a minute.  You're gonna need a lane.
+
+<stage><person>MARGE</person></stage>No, thanks.  I'm just here out of spite.
+
+<stage>MANAGER</stage>Can't bowl without a lane.
+
+<stage><person>MARGE</person></stage>Well, all right.
+
+<stage>MANAGER</stage>Here you go.  You keep score on this.
+
+He hands her a paper.
+
+<stage>MANAGER</stage>What size shoes do you wear?
+
+<stage><person>MARGE</person></stage>Never you mind!
+
+<stage>MANAGER</stage>You can't wear street shoes on the lanes.  You gotta wear bowling shoes.  What size, please?
+
+<stage><person>MARGE</person></stage>13 double "A".
+
+<stage>MANAGER</stage><stage>(shocked)</stage>  13 double "A"?
+
+He whistles.
+
+<stage>MANAGER</stage>This is the closest I've got.  A nine and a fifteen.
+
+He hands her the shoes.
+
+<stage><person>MARGE</person></stage>Thank you.
+
+<stage>MANAGER</stage>Hmm-hmm.
+
+On the bench, <fam><person>Marge</person></fam> begins putting on her shoes.
+
+<stage><person>MARGE</person></stage>A little warm and moist.  Ugh.
+
+She stands up and brings the ball to the lane.
+
+<stage><person>MARGE</person></stage>Hmm.
+
+She raises the ball up and down, then flings it.  It only manages to take down one pin.
+
+<stage><person>MARGE</person></stage>Hmm.
+
+She looks over at another player.  He rolls a ball --- perfect 10.  A group of women cheer him on.
+
+He walks over to a man, who hands him a wad of bills.  He speaks in a French accent.
+
+<stage>MAN</stage>So, 120 pins later, I am the better man.
+
+He looks over at <fam><person>Marge</person></fam>, suddenly, and romantic music plays.
+
+<stage><person>MARGE</person></stage>I don't see what he's doing that's so different from what I'm doing.  Hmm.
+
+She flings the ball out again.  It bounces into another lane, and knocks out one pin there.
+
+<stage><person>MARGE</person></stage>Oh.  <stage>(to man)</stage>.  I'm -- I'm awfully sorry.
+
+<stage>MAN</stage>Entirely my fault.  It is nice to meet you, <stage>(looks at the ball)</stage> ... <fam><person>Homer</person></fam>.
+
+<stage><person>MARGE</person></stage>Oh, no, no.  <fam><person>Homer</person></fam>'s my...ball's name.  I'm <fam><person>Marge</person></fam>.
+
+He chuckles as she walks away.
+
+<fam><person>Marge</person></fam> writes down a score on a sheet, as the man walks over and touches her hand.
+
+<stage>MAN</stage>Your fingers are so slender, so feminine.  They're far too tapered for the ball you're using.  You need something lighter.  More delicate.  Here, use my ball.
+
+<stage><person>MARGE</person></stage>No, no, thank you, Mr., um, <stage>(reading the ball)</stage> ... <location>Brunswick</location>.
+
+<stage>MAN</stage>Call me Jacques.
+
+<stage><person>MARGE</person></stage>Jacques.
+
+<stage>JACQUES</stage><fam><person>Marge</person></fam>.
+
+<stage><person>MARGE</person></stage>I'll just use my ball.
+
+<stage>JACQUES</stage>As you wish.  Many people have senseless attachments to heavy, clumsy things, such as this <fam><person>Homer</person></fam> of yours.
+
+<stage><person>MARGE</person></stage>Hmm...
+
+<stage>JACQUES</stage>May I ask you a bold question?
+
+<stage><person>MARGE</person></stage> Sure.
+
+<stage>JACQUES</stage>You've never bowled before.
+
+<stage><person>MARGE</person></stage>Never.
+
+<stage>JACQUES</stage>Never?
+
+<stage><person>MARGE</person></stage>No.
+
+<stage>JACQUES</stage>Then I will teach you.
+
+<stage><person>MARGE</person></stage>Ooh, I don't wanna trouble you.
+
+<stage>JACQUES</stage>Trouble?  Not at all, I am a professional.  Roll the ball for me, <fam><person>Marge</person></fam>.  Let me see your form.
+
+<stage><person>MARGE</person></stage>All right.  But I'm not very good.
+
+She flings the ball, it bounces, and once again takes only one pin.
+
+<stage><person>MARGE</person></stage>I can hit that one pin all right, but the rest of them don't even wobble.
+
+<stage>JACQUES</stage>I can help you, <fam><person>Marge</person></fam>, pick up the ball.  Pick up <fam><person>Homer</person></fam>.  Pick him up.
+
+He picks <fam><person>Marge</person></fam> up, and sets her on the other side of the lane.
+
+<stage>JACQUES</stage>Now throw.
+
+<stage><person>MARGE</person></stage>But--
+
+<stage>JACQUES</stage>Throw, damn you.
+
+She flings the ball.  All pins go down in an instant.
+
+<stage><person>MARGE</person></stage>You're a very good teacher.
+
+<stage>JACQUES</stage>Yes, I am a very good teacher, and I can teach you everything.  I can tell you what the little arrows on the floor mean.  Which frame is the beer frame.  I bet you don't know how to make a five-seven-ten split.  Do you, <fam><person>Marge</person></fam>?
+
+<stage><person>MARGE</person></stage>No.
+
+<stage>JACQUES</stage>But first of all, you yell, "The eight-pin is a cop."
+
+She laughs.
+
+<stage>JACQUES</stage>Let it out, <fam><person>Marge</person></fam>.  Laugh loud.  Laugh out loud.  You're lose weight.
+
+<stage><person>MARGE</person></stage>Oh, that's very funny.
+
+<stage>JACQUES</stage>Feels good.
+
+<stage><person>MARGE</person></stage>I didn't realize there was so much to this game.  What do you charge for lessons?
+
+<stage>JACQUES</stage>Twenty five dollars.
+
+<stage><person>MARGE</person></stage>Twenty five dollars!
+
+<stage>JACQUES</stage>It's a forty dollar value.
+
+<stage><person>MARGE</person></stage>Well, all right, when do we start?
+
+<stage>JACQUES</stage>We have already g*n.
+
+He grips her hands and they stare into each other's eyes.
+
+<stage>CUT TO</stage>
+
+The home table, where <fam><person>Homer</person></fam> opens up a box of pepperoni pizza.
+
+<stage><person>HOMER</person></stage>Now this is living, hey, kids?  Hot pizza -- the food of kings.
+
+<stage><person>LISA</person></stage>Don't be scared, Dad.  It's not so hard takin' care of us.
+
+<person>HOMER</person> <stage>(laughs)</stage>: <fam><person>Lisa</person></fam>, I'm not scared.  I think it's a great chance to spend some time with you kids.  Your mother always gets to be alone with you, and now it's my turn.
+
+They each take a slice and start eating.
+
+<stage><person>HOMER</person></stage>Does the time always drag like this?
+
+<stage>CUT TO</stage>
+
+The bowling alley, where Jacques and <fam><person>Marge</person></fam> are down on all fours on the lane.
+
+<stage>JACQUES</stage>First, you must get to know your lane.  Feel the slickness, feel the satiny finish.
+
+He starts wiping his hands all over it.  <fam><person>Marge</person></fam> does the same.
+
+<stage>JACQUES</stage>Caress it.  Experience it.  Quite smooth, isn't it, <fam><person>Marge</person></fam>?
+
+<stage><person>MARGE</person></stage>Ooh, very smooth.
+
+<stage>JACQUES</stage>Smooth?
+
+<stage><person>MARGE</person></stage>Yes, very.
+
+<stage>JACQUES</stage>Yes.
+
+<stage><person>MARGE</person></stage>Yes.
+
+<stage>JACQUES</stage>Yes.
+
+<stage><person>MARGE</person></stage>Smooth.
+
+<stage>JACQUES</stage>Smooth?
+
+<stage><person>MARGE</person></stage>Yes.
+
+<stage>JACQUES</stage>Yes.  You could eat off of it.  You hungry?
+
+<stage><person>MARGE</person></stage>Yes.
+
+<stage>JACQUES</stage>Four onion rings!
+
+<stage>CUT TO</stage>
+
+The Simpsons house, where <fam><person>Lisa</person></fam> throws the last piece of crust into the box.
+
+<stage><person>LISA</person></stage>Mmm.  Delicioso!
+
+<stage><person>BART</person></stage>My compliments to the delivery boy.
+
+<stage><person>HOMER</person></stage>Ok, we've eaten and eaten well.  Now, what else do what we have to do?  Let's check the list your mom left us.  Eat.  Mm-hmm <stage>(checks it off)</stage>.  Oh, clean up.  Now, don't worry, everybody.  This will be a breeze if we all pitch in.
+
+<fam><person>Homer</person></fam> closes the box and hands it to <fam><person>Bart</person></fam>.  <fam><person>Bart</person></fam> hands it to <fam><person>Lisa</person></fam>.  <fam><person>Lisa</person></fam> hands it to <fam><person>Maggie</person></fam>.  <fam><person>Maggie</person></fam> hands it to <fam><person>Homer</person></fam>.  <fam><person>Homer</person></fam> hands it to <fam><person>Bart</person></fam>.  <fam><person>Bart</person></fam> stuffs it into the trash.
+
+<stage><person>HOMER</person></stage>All right!  We're clean.  Now, we'll...put <fam><person>Maggie</person></fam> to bed.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Bart</person></fam>, <fam><person>Lisa</person></fam>, and <fam><person>Homer</person></fam> singing over <fam><person>Maggie</person></fam>'s crib.
+
+<stage>ALL</stage><location>Lullaby</location>, and good night,
+
+Go to bed and sleep tight
+
+Close your eyes, start to yawn
+
+Pleasant dreams until the dawn.
+
+<fam><person>Homer</person></fam> yawns and stretches his arms.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Homer</person></fam> sleeps and snores alone in his bed.  <fam><person>Marge</person></fam> walks into the room.
+
+<stage><person>MARGE</person></stage><fam><person>Homer</person></fam>.  <fam><person>Homer</person></fam>?
+
+<stage><person>HOMER</person></stage>Huh?  Oh, how was bowling?
+
+<stage><person>MARGE</person></stage>It's a very challenging hobby.
+
+<stage><person>HOMER</person></stage>Heh-heh.  Sport, dear.  It's a sport, you silly thing.  Heh-heh.
+
+<stage><person>MARGE</person></stage>Mm-hmm.  But I think I'll do much better tomorrow night.
+
+<fam><person>Homer</person></fam>'s eyes pop open.
+
+<stage><person>HOMER</person></stage>You're going back?
+
+<stage><person>MARGE</person></stage>Sure, if you don't mind taking care of the kids again.
+
+<stage><person>HOMER</person></stage>Uh, no, I don't mind.
+
+<stage><person>MARGE</person></stage>Good night, <fam><person>Homer</person></fam>.
+
+<stage><person>HOMER</person></stage>Good night.
+
+FADE TO BLACK
+
+<stage>FADE IN</stage>
+
+Jacques and <fam><person>Marge</person></fam> are at the bowling alley.  He holds out a box with a brown glove in it.
+
+<stage>JACQUES</stage>It is for you.
+
+<fam><person>Marge</person></fam> takes it out and inspects it.
+
+<stage><person>MARGE</person></stage>Oh, Jacques.  It fits.
+
+She slips it on.
+
+<stage><person>MARGE</person></stage>You got it in my size, and it has my name on it.  It's really for me.
+
+Jacques leans closer and grips her by the hand.
+
+<stage>JACQUES</stage>Seventeen fifty.  Enjoy it, my darling.
+
+He rubs her hands as we...
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Marge</person></fam>'s hands, holding the "<fam><person>Homer</person></fam>" bowling ball.  She tosses it and it knocks out almost all of the pins.  The bowl rolls back and Jacques holds <fam><person>Marge</person></fam>'s hands over the machine.
+
+They look into each other's eyes.
+
+Jacques zips open a bag, revealing his bowling ball.  He puts on his glove.  He takes <fam><person>Marge</person></fam>'s shoe off and replaces it with a bowling shoe.  She grips "<fam><person>Homer</person></fam>" and he grips her hands.  He continues to hold her hands as she writes her score in and eats an onion ring.
+
+They continue to look romantically into each other's eyes.  The final pin falls.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Marge</person></fam> and Jacques in his convertible car; he has driven her home.
+
+<stage>JACQUES</stage>Here we are.
+
+<stage><person>MARGE</person></stage>You didn't have to drop me off.
+
+<stage>JACQUES</stage>But I wanted to.  <fam><person>Marge</person></fam>, do you know how beautiful you look in the moonlight?
+
+<stage><person>MARGE</person></stage>Oh, Jacques, I'm a married woman.
+
+He holds her hand.
+
+<stage>JACQUES</stage>I know.  I know.  My mind says "Stop", but my heart and my hips cry "Proceed!"
+
+<fam><person>Marge</person></fam> groans silently.
+
+<stage>JACQUES</stage><fam><person>Marge</person></fam>, darling, I want to see you tomorrow.  Not at <person>Barney</person>'s Bowlarama.  Away from the thunderous folly of clattering pins.  Meet me tomorrow for brunch.
+
+<stage><person>MARGE</person></stage>What's brunch?
+
+<stage>JACQUES</stage>You'll love it.  It's not quite breakfast, it's not quite lunch, but it comes with a slice of cantaloupe at the end.  You don't get completely what you would at breakfast, but you get a good meal.
+<stage><person>MARGE</person></stage>I don't think so.
+
+<stage>JACQUES</stage><fam><person>Marge</person></fam>, darling, there are ten pins in my heart.  You've knocked over eight.  Won't you please pick up that spare?
+
+<stage><person>MARGE</person></stage>Mm.  Mm.  All right!
+
+<stage>CUT TO</stage>
+
+<fam><person>Marge</person></fam> walks into the dark bedroom.  <fam><person>Homer</person></fam> lies awake.  She gets in under the covers.
+
+<stage><person>HOMER</person></stage><fam><person>Marge</person></fam>?
+
+<stage><person>MARGE</person></stage>What, <fam><person>Homer</person></fam>?
+
+A small pause, then...
+
+<stage><person>HOMER</person></stage>Nothing.
+
+FADE TO BLACK
+
+<stage>FADE IN</stage>
+
+An outside sh*t of the house.  Inside, through the window, the school bus rolls up.  It honks.
+
+<stage><person>BART</person></stage>Uh-oh, school bus.
+
+<stage><person>MARGE</person></stage>Here you go, kids, special lunches.  Lots of good things for growing bodies and some treats just for fun.
+
+She hands them two big bags.
+
+<stage><person>BART</person></stage>Whoa, ay, <catchphrase>caramba</catchphrase>!
+
+<stage><person>LISA</person></stage>Are you going bowling again tonight, Mom?
+
+<stage><person>MARGE</person></stage>Well, yes, I am, as a matter of fact.  Here's more treats.  But don't worry, your dad will take care of dinner.
+
+<stage><person>BART</person></stage>Mmm.  Wednesday, Hoagie night.
+
+<fam><person>Marge</person></fam> kisses <fam><person>Lisa</person></fam>.
+
+<stage><person>MARGE</person></stage>Goodbye, <fam><person>Lisa</person></fam>.  My darling little <fam><person>Lisa</person></fam>.
+
+<fam><person>Marge</person></fam> kisses <fam><person>Bart</person></fam>.
+
+<stage><person>MARGE</person></stage>Goodbye, <fam><person>Bart</person></fam>.  My special little guy.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Bart</person></fam> and <fam><person>Lisa</person></fam> sit together on the bus.  <fam><person>Bart</person></fam> eats his treats.
+
+<stage><person>BART</person></stage>Mmm.  Great lunches, eh, <fam>Lis</fam>?
+
+<stage><person>LISA</person></stage>Oh, <fam><person>Bart</person></fam>, don't you see?  This is what psychologists call overcompensation.  Mom is wracked with guilt because her marriage is failing.
+
+<stage><person>BART</person></stage>Hey, don't rock the boat, man.  Whatever it is, we're making out like bandits.
+
+<stage><person>LISA</person></stage><fam><person>Bart</person></fam>, I read about what happens to kids who parents no longer love and cherish each other.  They go through eight separate stages.  Right now,  I'm in stage three, fear.  You're in stage two, denial.
+
+<stage><person>BART</person></stage>No, I'm not.
+
+<stage><person>LISA</person></stage>Yes, you are.
+
+<stage><person>BART</person></stage>No, I'm not.
+
+<stage><person>LISA</person></stage>Yes, you are.
+
+<stage><person>BART</person></stage>Am not.  Am not.  Am not!
+
+<stage><person>LISA</person></stage>I stand corrected.
+
+<stage>DISSOLVE TO</stage>
+
+An outside sh*t of "Shorty's" restaurant.
+
+Inside, Jacques reads a menu.
+
+<stage>JACQUES</stage>Mimosa?
+
+<stage><person>MARGE</person></stage>I'm a married woman, please don't call me that.
+
+JACQUES <stage>(laughs)</stage>: No, no, no, no, no.  Mimosa is the name of the drink.  It's orange juice and champagne.  You're so wonderful that you thought it was something offensive.  Oh, well, thank you.
+
+<stage>VOICE</stage> <fam><person>Marge</person></fam>?  <fam><person>Marge</person></fam> Simpson?
+
+<fam><person>Marge</person></fam> covers her head behind the menu.
+
+It's HELEN LOVEJOY, the reverend's wife.  Uh-oh.
+
+<stage>HELEN</stage> You remember me, don't you?  I'm Helen Lovejoy, the gossipy wife of the minister.
+
+<stage><person>MARGE</person></stage>Yes, hello, Helen.
+
+<stage>HELEN</stage>Well, I had just finished eating and I was about to leave when I looked over this way and said to myself, "Isn't that <fam><person>Marge</person></fam> Simpson having brunch with a man who isn't her husband?"  And I just had to come over and say hello.
+
+<stage><person>MARGE</person></stage>We're um---.
+
+<stage>HELEN</stage>Oh, don't squirm on my account.
+
+<stage>JACQUES</stage>I am giving her a bowling lesson, thank you.  Now, <fam><person>Marge</person></fam>, the pins on the three-seven-split would be here. 
+
+He places several salt shakers in front of her.
+
+<stage>JACQUES</stage>We'll make this little piece of food the ball.  The ball's bigger, you know that.  But for food, this is a good ball.
+
+<stage>HELEN</stage>Oh, well, bye bye.  See you in church on Sunday, <fam><person>Marge</person></fam>.
+
+<stage><person>MARGE</person></stage>Good bye, Helen.
+
+<stage>JACQUES</stage>Good bye, Helen.  You have a lovely friend there.  Let's hope something runs over her.
+
+<fam><person>Marge</person></fam> laughs.
+
+<stage>JACQUES</stage>Your laughter is like music to me.   But if you laugh at what I say next, I will die, for I am about to say something very serious, perhaps shocking.  <fam><person>Marge</person></fam>, my darling, I want you to meet with me again.
+
+<stage><person>MARGE</person></stage>That doesn't shock me.
+
+<stage>JACQUES</stage>--- away from prying eyes, away from the Helens of the world, at my apartment --- <location>the Fiesta Terrace</location>.
+
+He leans closer.  <fam><person>Marge</person></fam> gasps and faints.
+
+Everything becomes blurry --- this is <fam><person>Marge</person></fam>'s dream.
+
+Everything is black and white <stage>(actually, more cartoon grayish)</stage>.  The only color is in <fam><person>Marge</person></fam>'s pink hair <stage>(yes, pink)</stage> and her orange dress.
+
+She knocks on an apartment door, an eye looks through the keyhole, and the door opens.
+
+Jacques, and only his black suit and red bowtie are illuminated, is waiting.
+
+<stage>JACQUES</stage>I've been waiting for you.  Come in, my captivating one.
+
+A curtain rises and <fam><person>Marge</person></fam> finds herself in the living room.  Some objects here and there have color.  Music plays.
+
+<stage>JACQUES</stage>May I have this dance?
+
+<stage><person>MARGE</person></stage>Sure.
+
+They begin waltzing around the room.
+
+<stage><person>MARGE</person></stage>Whoa!
+
+<fam><person>Marge</person></fam> is swung near a cabinet full of trophies.
+
+<stage><person>MARGE</person></stage>You certainly have a lot of bowling trophies.
+
+JACQUES <stage>(laughs)</stage>: I like you so much.  They're not for bowling, <fam><person>Marge</person></fam>.  You're so naive.  They are for lovemaking.
+
+<stage><person>MARGE</person></stage>Really?
+
+<stage>JACQUES</stage>Yes.
+
+They continue dancing and the apartment transforms into a bowling lane.  Pins fly all around them.
+
+Jacques spins <fam><person>Marge</person></fam> around.
+
+<stage><person>MARGE</person></stage> Oh!
+
+They sit down at a bar.
+
+<stage>JACQUES</stage>Champagne?
+
+A secret compartment opens with two glasses.
+
+<stage><person>MARGE</person></stage>Please.
+
+<stage>JACQUES</stage>There, my darling.
+
+<stage><person>MARGE</person></stage>Thank you.
+
+They both drink the glass and toss it over their shoulders.  Then, they continue dancing.
+
+<stage>JACQUES</stage>What cosmic force brought us together, <fam><person>Marge</person></fam>?
+
+<stage><person>MARGE</person></stage>Destiny?
+
+<stage>JACQUES</stage>Yes.  Some divine pinspotter must have placed us side by side.
+
+<stage><person>MARGE</person></stage>Like two fragile bowling pins--
+
+<stage>JACQUES</stage>Standing bravely---
+
+<stage><person>MARGE</person></stage>Until inevitably---
+
+<stage>JACQUES</stage>We must topple.
+
+He places her down on a bed and moves closer when ---
+
+There is a small blur and <fam><person>Marge</person></fam> reawakens in the restaurant with a large smile on her face.
+
+<stage>JACQUES</stage><fam><person>Marge</person></fam>, speak to me!
+
+<stage><person>MARGE</person></stage>Is Thursday okay?
+
+<stage>JACQUES</stage>It's okay, indeed.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Homer</person></fam> in the bedroom.  Drawers are all out and clothes are thrown all over the floor.  He is completely depressed.  He takes off his shirt and looks at a picture of him and <fam><person>Marge</person></fam>.
+
+He sniffles.  Then, he notices an open drawer and takes out <fam><person>Marge</person></fam>'s bowling glove.  He reads it.
+
+<stage><person>HOMER</person></stage>For <fam><person>Marge</person></fam>?
+
+He places it backs in, closes the drawer, and sits down on the bed.  <fam><person>Bart</person></fam> walks in.
+
+<stage><person>BART</person></stage>Hey, Dad.  What do you say we toss the ol' apple around, huh?  Sound like fun?
+
+<stage><person>HOMER</person></stage>Son, I don't know if I can lift my head, let alone a ball.
+
+<stage><person>BART</person></stage>Aww, come on, Dad, get the <location>lead</location> out.
+
+<stage>DISSOLVE TO</stage>
+
+The backyard, where <fam><person>Homer</person></fam> is still depressed.
+
+<stage><person>BART</person></stage>Simpson checks the runner on first.  He's cool.  He's fine.  Here's the windup...and here's the pitch.
+
+<fam><person>Bart</person></fam> throws it and it smashes right into <fam><person>Homer</person></fam>'s forehead and bounces off.  <fam><person>Homer</person></fam> falls down and <fam><person>Bart</person></fam> runs over.
+
+<stage><person>BART</person></stage>Dad, you didn't even say "ouch".
+
+<stage><person>HOMER</person></stage>Oh, sorry.  Ouch.
+
+<fam><person>Bart</person></fam> walks over to <fam><person>Lisa</person></fam> and <fam><person>Maggie</person></fam>.
+
+<stage><person>BART</person></stage><fam><person>Lisa</person></fam>.  <fam><person>Lisa</person></fam>.  I think you're right about Dad.  Something's very, very wrong here.
+
+<stage><person>LISA</person></stage>Frightened, <fam><person>Bart</person></fam>?  Welcome to stage three, fear.
+
+<stage><person>BART</person></stage>Well, come on, we gotta do something, man.
+
+<stage><person>LISA</person></stage>Sorry, <fam><person>Bart</person></fam>, I'd love to help you but I'm mired in stage five, self-pity.
+
+<fam><person>Bart</person></fam> runs back to <fam><person>Homer</person></fam>.
+
+<stage><person>BART</person></stage>Look, Dad.  I don't know what's going on but once you gave me some advice that might help.
+
+<stage><person>HOMER</person></stage>I gave you advice?  Get out of here.
+
+<stage><person>BART</person></stage>Yeah, you did.  You told me when something's bothering you and you're too stupid to know what to do, just keep your fool mouth shut.  At least that way, you won't make things worse.
+
+<stage><person>HOMER</person></stage>Hmm.  Good advice.
+
+<stage>DISSOLVE TO</stage>
+
+An outside sh*t of the house.
+
+Inside, <fam><person>Homer</person></fam> walks into the kitchen dressed for work.  <fam><person>Marge</person></fam> makes peanut better sandwiches.  <fam><person>Homer</person></fam> grabs his box and walks away.  She doesn't even notice him.
+
+<stage><person>HOMER</person></stage><fam><person>Marge</person></fam>, may I speak to you?
+
+<stage><person>MARGE</person></stage>Sure.
+
+<stage><person>HOMER</person></stage>You know, I've been thinking.  Everybody makes peanut butter and jelly sandwiches but usually the jelly drips out over the side and the guy's hands get all sticky.  But your jelly stays right in the middle, where it's supposed to.  I don't know how you do it.  You just got a gift, I guess.  I've always thought so.  I just never mentioned it, but it's time you knew how I feel.  I don't believe in keeping feelings bottled up.  Good-bye, my wife.
+
+He leaves sadly and the door is heard opened and closed.
+
+<stage><person>MARGE</person></stage>Good-bye, <fam><person>Homer</person></fam>.
+
+<stage>DISSOLVE TO</stage>
+
+An outside sh*t of <location>the Fiesta Terrace</location>.  Inside, Jacques combs his hair in front of a mirror.
+
+<stage>JACQUES</stage>To the most beautiful moment in life.  Better than the deed, better than the memory, the moment of anticipation.
+
+He hums as he puts on some aftershave and looks in the mirror.
+
+<stage>JACQUES</stage>Oh, Jacques, you handsome devil.  Look at you.  You're really going to...strike out tonight!!
+
+<stage>DISSOLVE TO</stage>
+
+An outside sh*t of the <location>Springfield</location> Nuclear Power Plant.  Inside, <fam><person>Homer</person></fam> sits with <person>LENNY</person> and a bunch of other coworkers during lunch.
+
+<stage><person>LENNY</person></stage>Ain't you hungry, <fam><person>Homer</person></fam>?
+
+<stage><person>HOMER</person></stage>Starving.
+
+<stage><person>LENNY</person></stage>Well, then why aren't you eating your sandwich?
+
+<stage><person>HOMER</person></stage>How can I eat it?  She made it.  It's all I have left.
+
+He places it in a box and walks away.
+
+<stage>COWORKER</stage>Domestic situation.
+
+<stage>CUT TO</stage>
+
+<fam><person>Marge</person></fam>, driving in her red station wagon.  She stops at a red light.  To the left of her, a married couple emerges out of a church.  To the right, a couple walks with a baby in a stroller.
+
+She accelerates at the green light, then looks to see a bunch of women gossiping at a table...and then a senior couple, and then two graves.  She drives past the costume shop, where two skeletons hold hands.
+
+She arrives at a sign, which points left to the <location>Springfield</location> Nuclear Power Plant and right to <location>the Fiesta Terrace</location>.  She swerves to the right...and then, suddenly, miraculously, she stops.  She backs up...and goes left.
+
+But wait...several second later, she swerves back and looks at the sign.  What will she do?  We don't know, as we
+
+DISSOLVE TO;
+
+<location>The nuclear power plant</location>, where several people operate machinery.  <fam><person>Marge</person></fam> walks in through the door and walks across.  Coworkers and <person>Burns</person> all turn to look at her as she passes.
+
+She walks up behind <fam><person>Homer</person></fam>, who collects some kind of hazardous material.  She taps him on the shoulder.
+
+<stage><person>HOMER</person></stage>Uh, huh.  Hmm?
+
+He smiles back at her.
+
+<stage><person>HOMER</person></stage><fam><person>Marge</person></fam>!  What a lovely surprise.  You're here to see me, right?
+
+<stage><person>MARGE</person></stage>Of course!
+
+She leaps at him and hugs him.  The coworkers cheer and applaud as they kiss, and <fam><person>Homer</person></fam> lifts her up into his arms.
+
+<stage><person>LENNY</person></stage>Hey, way to go, <fam><person>Homer</person></fam>.  Way to go!
+
+<stage>COWORKER</stage>Hey, what do I tell the boss?
+
+<stage><person>HOMER</person></stage>Tell him I'm going to the backseat of my car with the woman I love...and I won't be back for ten minutes!
+
+He walks out carrying her as we FADE OUT and CREDITS BEGIN.
+
+THE END.
+</txt></xml>

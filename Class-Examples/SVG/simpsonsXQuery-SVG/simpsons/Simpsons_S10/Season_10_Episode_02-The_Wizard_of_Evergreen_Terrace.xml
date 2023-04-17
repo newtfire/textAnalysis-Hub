@@ -1,0 +1,806 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt>
+<metadata><ep><epTitle>The Wizard of <location>Evergreen Terrace</location></epTitle><szn>10</szn>x<epNum>02</epNum></ep>
+<date>09/25/98</date> <runtime>19:09</runtime></metadata>
+
+<music>♪<stage> Chorus Singing </stage></music>
+
+<stage> Bell Ringing </stage>
+
+<stage> Whistle Blowing </stage>
+
+<stage> Beeping </stage>
+
+<music>♪ <stage>Jazzy Solo </stage></music>
+
+<stage> Tires Screeching </stage>
+
+<catchphrase>D'oh</catchphrase>! <stage> Screams </stage>
+
+'Scuse me. Pardon me. 'Scuse me.
+
+<stage> Grumbles </stage>
+
+Hmm.
+
+Hey.
+
+Hey, <location>Springfield</location>. If you're driving, you may wanna sit down.
+
+<stage> Boing </stage>
+
+Uh-oh.
+
+Because it's time for Bill and Marty's 5:00 news "flush."
+
+<stage> Toilet Flushing </stage>
+
+<music>♪ <stage> Man Singing </stage></music>
+
+Our topless story-
+
+<stage> Boing </stage>
+
+President Clinton has launched a new Web site.
+
+Uh-oh. Wait. Let me guess. WWW dot- <stage> Wolf Whistle </stage> dot-
+
+<stage> Boing </stage>
+
+<stage> Both Laughing </stage>
+
+<stage> Laughing </stage> "Web site."
+
+<stage> Man </stage> Okay, here's another news "flush."
+
+<stage> Toilet Flushing </stage>
+
+<music>♪ <stage> Man Singing </stage></music>
+
+Doctors say the life expectancy of the average man is now 76.2 years.
+
+<stage> Gasps </stage>
+
+<stage> Tires Screeching </stage>
+
+<stage> Horns Honking </stage>
+
+7 6.2? But I'm already 38.1 .
+
+I've wasted half my life.
+
+<music>♪ <stage> Man Singing </stage></music>
+
+Half my life gone and I'm only guaranteed 38 more years.
+
+<stage> Horns Honking </stage>
+
+<fam><person>Marge</person></fam>, I've wasted half my life.
+
+<stage> Woman </stage> Sir, do you need a tow truck?
+
+What are you talking about, <fam><person>Marge</person></fam>? I don't need a-
+
+<stage> Tires Screeching </stage>
+
+Okay, send a truck.
+
+Oh. Hmm.
+
+<stage> <fam><person>Marge</person></fam> </stage> Oh, honey. Don't eat that.
+
+Wouldn't you rather have your sugar bag?
+
+No, I don't deserve sugar.
+
+I'm halfway to my grave, and I haven't accomplished anything.
+
+Oh, I am not looking forward to my funeral.
+
+<stage> Electricity Buzzing </stage>
+
+<stage> Beeping </stage>
+
+No, <fam><person>Homer</person></fam> wasn't a great man... nor even an adequate man, and he certainly never accomplished anything.
+
+Uh, President <person>Lenny</person>, you have anything to say?
+
+Nah.
+
+All right. Fair enough. Toss 'im in the hole, boys.
+
+There goes a real sack of crap.
+
+Indubitably, old chum.
+
+<stage> Growling </stage>
+
+<stage> Groans </stage> <fam><person>Marge</person></fam>... no matter what happens in the future, promise me you won't vote for <person>Lenny</person>.
+
+Okay, but you've accomplished a lot.
+
+You've made me very happy.
+
+Oh, yeah. They'll put me on a stamp for that.
+
+<stage> Groans </stage>
+
+I've wasted half my life, <fam><person>Marge</person></fam>.
+
+You know how many memories I have? Three!
+
+Standing in line for a movie... having a key made and sitting here talking to you.
+
+Thirty-eight years and that's all I have to show for it.
+
+You're 39.
+
+<stage> Yelps </stage>
+
+<stage> Whimpers </stage>
+
+<stage> Groans </stage>
+
+Hi, Dad. How was work?
+
+Cold.
+
+Come on. Let's get you into your favorite shirt.
+
+<stage> All </stage> Surprise!
+
+Oh. I see you're having a <location>party</location>. I'll come back later.
+
+You can't come back later because-
+
+<stage> All </stage> <fam><person>Homer</person></fam> Simpson, welcome to your life.
+
+...to your life.
+
+The kids and I wanna show you all the great things you've done.
+
+Oh, all right. Maybe I can pinpoint where my life went wrong.
+
+Quiet, Dad, or we'll have to throw you out of here.
+
+<stage> Gasps </stage> The pictures! They're coming alive!
+
+<stage> <fam><person>Lisa</person></fam> </stage> There you are in outer space. That's pretty impressive.
+
+Ah. All we did was grow some space tomatoes and sabotage Mir.
+
+<stage> Shouting in Russian </stage>
+
+'Member when you almost became heavyweight champ?
+
+<stage> Crowd Cheering </stage>
+
+<stage> Blows Landing </stage>
+
+No.
+
+Finish him. Finish him!
+
+Well, there's certainly no greater accomplishment... than fathering three beautiful children.
+
+Hike.
+
+<stage> Laughing </stage>
+
+Oh, I should've punted. Turn it off. Turn it off.
+
+Hang on, Dad. This next part will definitely make you feel better about yourself.
+
+Hello, <fam><person>Homer</person></fam>. It's me, KITT, from TV's Knight Rider.
+
+<stage> Gasps </stage>
+
+Your family has asked me to take time out... from my busy schedule to invite you...
+
+<stage> Voice Slowing Down </stage> to a very special- <stage> Indistinct </stage>
+
+<stage> Groaning </stage> Stupid movies.
+
+Who invented these dumb things anyway? Was it you, <fam><person>Bart</person></fam>?
+
+It was Thomas Edison, Dad.
+
+I thought he invented the lightbulb.
+
+That too. He also invented the phonograph, the microphone and the electric car.
+
+No one man can do all that.
+
+You're a <location>liar</location>, honey- a dirty, rotten <location>liar</location>.
+
+Finish her! Finish her!
+
+It's true. I read it on a place mat at a restaurant.
+
+Really? A restaurant? Well, now I don't know what to think.
+
+Go.! Go.! Go.!
+
+Go.! Go.! Go.!
+
+Go! Go! Go!
+
+Top of the world, Ma!
+
+<stage> <fam><person>Homer</person></fam> </stage> Cut it out, boy.
+
+<stage> Screams, Grunts </stage>
+
+Dad, what are you doin' here?
+
+Readin' about this Edison character.
+
+They won't let me in the big people library downtown.
+
+There was some... unpleasantness. I can never go back.
+
+Ooh. Look at all the inventions Edison came up with.
+
+The stock ticker... the storage battery... even wax paper.
+
+And look at him dance.
+
+<music>♪ <stage> Vocalizing </stage></music>
+
+<stage> Laughing </stage>
+
+That's great, Dad.
+
+And these Hardy Boys books are great too.
+
+This one's about smugglers.
+
+They're all about smugglers.
+
+No, not this one: The Smugglers of Pirate Cove. It's about pirates.
+
+'Scuse me. Are you a student at this school?
+
+I think it's pretty obvious that I am.
+
+Go school!
+
+So, this broad stands up in the ocean... and this big wave knocks her bathing suit off.
+
+Oh, yeah? And then what happened?
+
+Omit no detail, however small or filthy.
+
+So anyway, and this is the part you'll remember for the rest of your lives-
+
+Yeah, yeah, yeah, yeah. Great story, <person>Lenny</person>.
+
+But here's one that's even more spellbinding.
+
+Once upon a time, there was a man named Thomas Edison... and he invented the dictating machine and the fluoroscope... and the repeating telegraph.
+
+<stage> Snoring </stage>
+
+And he was a firm believer in Fletcherism... and he played the organ and his favorite flower was the heliotrope.
+
+Oh, and his middle name was Alva... and he never, ever, ever wore pajamas.
+
+Okay. I think we've been polite long enough here.
+
+<person>Lenny</person>, what happened with the dame in the bathing suit?
+
+Huh?
+
+Oh. Uh-
+
+Oh, nuts. I forgot.
+
+All I can think of now is Edison. I can't even remember where I work.
+
+Well, I remember where Edison worked. It was <location>Menlo Park</location>.
+
+That's where he came up with the tasimeter, the ore separator and-
+
+Uh, James Watt invented the steam engine.
+
+That's boring. You're boring everybody.
+
+Quit boring everyone!
+
+And then he worked on a machine to communicate with the d*ad.
+
+<stage> Groans </stage>
+
+Some kind of scary telephone, I guess.
+
+Maybe he planned to stick his head under the ground and yell.
+
+All right already!
+
+Everyone knows the man accomplished a lot.
+
+Maybe because he didn't spend every waking moment talking about Thomas Edison.
+
+Oh, that's where you're wrong, <fam><person>Marge</person></fam>.
+
+He was a shameless self-promoter.
+
+Well, you're not Thomas Edison.
+
+<fam><person>Marge</person></fam>, that's it! That's why I haven't done anything with my life.
+
+I need to be more like Thomas Edison.
+
+Whatever.
+
+And I'm starting right now.
+
+No more lousy pajamas! <stage> Grunts </stage>
+
+From this day forward, I am an inventor!
+
+Do us a favor. Invent yourself some underpants.
+
+<music>♪ <stage> Whistling </stage></music>
+
+Ah.
+
+Well, I quit my job just like you said to.
+
+I didn't tell you to quit your job.
+
+Yes, you did. I remember your exact words.
+
+You said I should quit my job and become an inventor, or you'd torch the house.
+
+That doesn't sound like me.
+
+Well, I suppose if this doesn't work out, you can always go back to the plant.
+
+<stage> Chuckling </stage> Not the way I quit.
+
+Whoo-hoo.
+
+At my age, Edison had already invented 203 things.
+
+Uh, I got a lot of work to do to catch up to him.
+
+Let's see now. Invention. Invention.
+
+Hmm. Hmm.
+
+Something electrical might be good.
+
+<stage> Muttering </stage> Let me handle the creative end of this, <fam><person>Marge</person></fam>.
+
+You don't understand how the creative mind works like I do.
+
+Oh?
+
+You look at this table and what do you see? Just a table.
+
+Now a creative person like me looks at this table... and sees all kinds of creative things, but no tables.
+
+<fam><person>Homer</person></fam>, that's not a table. That's our dryer.
+
+<stage> Shrieks </stage> My files!
+
+Hmm.
+
+Hmm. This isn't working. I've gotta try a different approach.
+
+Hmm. Hmm?
+
+Hmm? Hmm?
+
+<stage> Grunts, Gasps </stage>
+
+<stage> Groans </stage>
+<stage> Coughing </stage>
+
+<stage> Sighs, Coughs </stage>
+
+You started smoking, Dad?
+
+Yes. Thomas Edison smoked several cigars a day.
+
+Yeah, he invented stuff too.
+
+Shut up.
+
+<stage> Grunting, Shouts </stage>
+
+As long as you're here annoying me, let's have a brainstorming session.
+
+And here's how it works. <fam><person>Lisa</person></fam>, you say one thing, then <fam><person>Bart</person></fam>, you say another.
+
+Just toss out things and I'll use my inventive mind... to combine them into a brilliant, original idea.
+
+Okay. Um-
+
+a*t*matic-
+
+Butt.
+
+Okay.
+
+Fluorescent-
+
+Booger.
+
+Mm-hmm. Yeah.
+
+Wait a minute. These aren't exciting new products. You're not even trying.
+
+Okay, that's it. Both of you go to your rooms and spank yourselves.
+
+Lazy father.
+
+Can't even spank his own kids.
+
+<fam><person>Homer</person></fam>, you can't punish the children just because you can't come up with an idea.
+
+I don't see why not. They're my kids. I own 'em.
+
+<stage> Groans </stage>
+
+Okay. We own 'em.
+
+Hmm.
+
+I brought you a tuna sandwich. They say it's brain food.
+
+I guess because there's so much dolphin in it...
+
+and you know how smart they are.
+
+<stage> Groans </stage> It's no use.
+
+I can't work like this, cut off from the scientific community.
+
+You stay here and guard my sandwich.
+
+And these should give you the grounding you'll need... in thermodynamics, hypermathematics... and, of course, microcalifragilistics. <stage> Babbles </stage>
+
+<stage> Groans </stage> Look, I just wanna know how to invent things. Tell me.
+
+Uh, all you have to do is think of things that people need... but which don't exist yet.
+
+You mean like an electric blanket-mobile?
+
+Uh, well, possibl-
+
+Or you could take something that already exists and find a new use for it. Like-
+
+Hamburger earmuffs!
+
+Uh, well, I suppose that would qualify-
+
+Thanks, sucker!
+
+<stage> Stammering </stage> All right.Just stay calm, Frinky.
+
+These babies will be in the stores... while he's still grappling with the pickle matrix.
+
+<stage> Babbling </stage>
+
+<stage> expl*si*n </stage>
+
+Okay. I have here the four greatest inventions... in the history of mankind.
+
+First, my all-purpose electric hammer... for all your pounding needs.
+
+<stage> Grunting </stage> Ow!
+
+<stage> Muttering </stage>
+
+<stage> Screeches </stage>
+
+<stage> Crash </stage>
+
+<stage> <location>Santa's Little Helper</location> Barks </stage>
+
+<stage> Yelping </stage>
+
+Probably needs to be more powerful.
+
+I'll buy I 0 of those right now.
+
+Now, here's my "Everything's Okay" alarm.
+
+<stage> Alarm Blaring </stage>
+
+<stage> Shouting </stage> This will sound every three seconds... unless something isn't okay.
+
+Turn that off, <fam><person>Homer</person></fam>.
+
+<stage> Alarm Continues </stage>
+
+It can't be turned off.
+
+<stage> Alarm Slows, Stops </stage>
+
+But it, uh, does break easily.
+
+Now this next one's for the ladies.
+
+How many times have you gals been late for a high-powered business meeting... only to realize you're not wearing makeup?
+
+That's every woman's nightmare.
+
+That's why I invented this revolutionary makeup g*n.
+
+It's for the woman who only has four-fifths of a second to get ready.
+
+Close your eyes, <fam><person>Marge</person></fam>.
+
+And now you're ready for a night on the town.
+
+<stage> Gasps </stage>
+
+<fam><person>Homer</person></fam>, you've got it set on "whore."
+
+Uh, oop- Okay.
+
+This time, try to keep your nostrils closed.
+
+Oh, look what you did. Now I have to go get my cold cream g*n.
+
+Dad, women won't like being sh*t in the face.
+
+Women will like what I tell 'em to like. Now here's something for everyone.
+
+In the olden times, if you were watching TV and nature called... you'd have to get up and walk to the bathroom.
+
+It was the hardest thing in the world to do.
+
+But now, with the Lazy Man Reclining Toilet Chair... you can just <location>lean</location> back and let 'er rip.
+
+You expect people to go to the bathroom in their living rooms?
+
+Sure. Believe me, every man in <location>America</location> will want to have one.
+
+<stage> Flushes </stage>
+
+Gangway! Gotta poop.
+
+No, <fam><person>Bart</person></fam>!
+
+<fam><person>Homer</person></fam>, all these inventions, they're-
+
+Yes?
+
+Oh-They're not very-
+
+Yes? Yes? Yes?
+
+They're terrible.
+
+What?
+
+I'm not saying you're a bad inventor.
+
+I'm just saying these particular... inventions are awful... and no one in their right mind would buy them or accept them as gifts.
+
+But this is the best I could do.
+
+I guess I'm no better at being Thomas Edison than I was at being <fam><person>Homer</person></fam> Simpson.
+
+Oh, dear. I hope I wasn't too rough on him.
+
+Somebody had to tell him, Mom. In the long run, it's much kinder to-
+
+<stage> Clears Throat </stage> Do you mind?
+
+All week, my lifelong dream was to be the next Thomas Edison... but now it's over.
+
+I guess I'll just give up my hopes and dreams... and settle for being a decent husband and father. <stage> Grunting </stage>
+
+<fam><person>Homer</person></fam>!
+
+<stage> Together</stage> Dad!
+
+<stage> Shouts </stage> Huh?
+
+What happened? You didn't fall.
+
+Oh, that.
+
+I stuck a couple extra legs on there...
+
+'cause I kept tipping over when I was trying to invent stuff.
+
+They're on hinges. That's really ingenious, Dad.
+
+It could save lives.
+
+Really? You think it's a good idea?
+
+Oh, yeah. Safety sells, especially to lame-o's.
+
+I'd buy one.
+
+Me too.
+
+<stage> All Cooing </stage>
+
+I did it! I'm gonna be rich!
+
+<music>♪ <stage> Humming </stage></music>
+
+Look, Mr. Edison. I did it! I'm an inventor.
+
+And I owe it all to you.
+
+See? It's just a regular chair... but I attached a couple of extra legs to the back... kind of like the ones on the back of your-
+
+Oh, damn it!
+
+Hey, Dad. Heard you swearin'. Mind if I join in? Crap, boobs, crap!
+
+I thought I had a great idea... but I must have seen it on this poster.
+
+If Edison thought of that chair, how come it's not on this chart?
+
+It's not? Maybe he never told anyone about it.
+
+That chair might be the only one he made.
+
+So?
+
+So, we've got to go to the Edison Museum and smash it!
+
+Then I'll be an inventor.
+
+But I thought you loved Edison.
+
+Ah, the hell with him.
+
+Yeah! Hell, damn, fart!
+
+<stage> Tires Screeching </stage>
+
+Taking <fam><person>Bart</person></fam> cross state lines. Back soon.
+
+I took your wallet.!
+
+Oh, I just mopped that driveway.
+
+Man, I can't wait to smash that chair.
+
+<stage> Chuckling </stage> Oh, Son.
+
+You're young and headstrong just like Thomas Edison Jr.
+
+You know, he started a mushroom farm and an auto parts company... and he sold his good name to a quack medicine company.
+
+Oh, and later he raised turkeys. That was on his turkey farm.
+
+<stage> Snoring </stage>
+
+Hmm.
+
+Mmm. Mmm.
+
+<stage> Muttering, Gasps </stage>
+
+Stop, <fam><person>Homer</person></fam>!
+
+<stage> Gasps </stage>
+
+By smashing my chair, you're only hurting yourself.
+
+<stage> Growls </stage>
+
+<stage> Yelping, Grunts </stage>
+
+I'll get you, you fat lunatic!
+
+<stage> Tires Screeching </stage>
+
+Uh-oh.
+
+<stage> Whimpering </stage>
+
+<stage> Panting </stage>
+
+All right! The museum's still open.
+
+Why don't you like Edison that much?
+
+<stage> Grunts </stage>
+
+Hey, folks. Do you like riddles?
+
+<stage> Chattering </stage>
+
+Okay, then.
+
+How many geniuses does it take to invent a lightbulb?
+
+Just one: Thomas Edison.
+
+<stage> Laughter, Applause </stage>
+
+That's very good.
+
+And that's true too. It's funny and true.
+
+Now behind that door is Edison's actual preserved brain.
+
+<stage> Gasping </stage>
+
+Ordinarily, folks, tour groups are not allowed to see it... and, of course, today will be no exception.
+
+<stage> Groaning </stage>
+
+Now no tour would be complete without a visit to Edison's boyhood gift shop.
+
+<stage> Chattering </stage>
+
+<stage> Chattering Continues </stage>
+
+Now let's take care of business.
+
+Out of the way.
+
+This is one invention you're not getting credit for, you inspiration hog.
+
+Your electric hammer, maestro?
+
+Invent your way out of this, Edison! Hmm?
+
+Hmm.
+
+<stage> Gasps </stage> Look, Son. Edison was just like me.
+
+You mean the wild mood swings?
+
+No! We both lived in another man's shadow.
+
+This old-timey nerd and I have suffered the same frustration and heartache.
+
+We're not rivals.
+
+We're just a couple of dreamers who set the bar a little too high.
+
+I can't destroy your work, my friend.
+
+Can I?
+
+No, but we'll stop off at the da Vinci museum on the way home.
+
+Uh, I think that's in ltaly, Dad.
+
+Oh. Well, then we'll take it out on Eli Whitney.
+
+Authorities say the phony pope... can be recognized by his high-top sneakers and incredibly foul mouth.
+
+In other news, Thomas Edison, the greatest inventor of all time- <stage> Both Gasp </stage> is apparently still inventing... despite the notable handicap of being d*ad.
+
+That's my Tommy!
+
+<stage> Brockman </stage> Two new Edison creations have just been discovered in his museum.
+
+A six-legged chair that won't tip over- <stage> Applause </stage> and even more astounding, an electric hammer.
+
+<stage> Applause </stage>
+
+<stage> Camera Shutters Clicking </stage>
+
+That was your idea.
+
+This brilliant innovation is expected to generate millions... for Edison's already-wealthy heirs.
+
+<stage> Laughing </stage>
+
+Dad, those should be your millions.
+
+I gotta admit, <fam><person>Homer</person></fam>. You're takin' this pretty well.
+
+Let's just say I'm sitting in the right chair.
+
+<stage> Murmuring </stage>
+
+Shh!
+</txt></xml>

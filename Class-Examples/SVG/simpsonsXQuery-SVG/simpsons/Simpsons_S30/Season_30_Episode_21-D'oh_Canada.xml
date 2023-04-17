@@ -1,0 +1,834 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt>
+
+
+<metadata><ep><epTitle><catchphrase>D'oh</catchphrase> <location>Canada</location></epTitle><szn>30</szn>x<epNum>21</epNum></ep>
+
+
+
+
+
+
+
+
+
+
+
+
+<date>05/01/19</date> <runtime>05:59</runtime></metadata>
+
+<music>♪ ♪  </music>
+
+<stage>SHRIEKS</stage>  
+
+<stage>SCHOOL BELL RINGS</stage>  
+
+<stage>BURPS</stage>  
+
+<stage>WHISTLE BLOWS</stage>  
+
+<stage>YELLS</stage>  
+
+<stage>BEEPS</stage>  
+
+<music>♪ ♪   </music>
+
+<stage>PLAYING UPBEAT HARP MUSIC</stage>   
+
+<stage>TIRES SCREECH</stage>   
+
+<catchphrase>D'oh</catchphrase>!   
+
+<stage>GRUNTS</stage>   
+
+<stage>    S-STYLE SITCOM THEME PLAYING</stage> 
+
+<stage>    S-STYLE SITCOM THEME PLAYING</stage> 
+
+<stage>    S-STYLE SITCOM THEME PLAYING</stage> 
+
+Oh!   
+
+<stage>    S-STYLE SITCOM THEME PLAYING</stage> 
+
+<stage>SCREAMING</stage>   
+
+<stage>ALL EXHALE</stage>   
+
+BOTH: Will you take us to <location>Mount Splashmore</location>?   
+
+- <stage><person>HOMER</person> GROANING</stage>
+- Will you take us to <location>Mount Splashmore</location>?   
+
+Will you take us to <location>Mount Splashmore</location>?   
+
+Will you take us to <location>Mount Splashmore</location>?   
+
+You're here, you're just in a long line.   
+
+- Thank you.
+- We appreciate it.   
+
+- <stage>PHONE CHIMES</stage>
+- <stage>GASPS</stage>   
+
+Points.   
+
+- <stage>BABY LAUGHS</stage>
+- Follow me.   
+
+- Where?
+- Points.   
+
+Points, points, excuse me, points.   
+
+- Coming through, points.
+- My visor!   
+
+No, Dad. No.
+We've been in line for an hour.   
+
+Hmm, you have a point.   
+
+- <stage>GASPS</stage> Points!
+- <stage>SHOUTS</stage>   
+
+<stage>TIRES SCREECH</stage>   
+
+Will you please explain where you're taking us, and don't just say "points."   
+
+Okay. Over a lifetime of credit card debt, and paying for credit card debt with worse credit card debt, this family has two million hotel rewards loyalty... points, which we can only use at the nearest Second Best Western <location>Motel</location>.   
+
+Oh, Dad, the points expire at midnight.   
+
+No worries.   
+
+If I average    miles an hour for    straight hours,   
+
+- we'll make it.
+- I love you, <fam><person>Homer</person></fam>.   
+
+- Step on it, Dad!
+- <stage>PHONE VIBRATING</stage>   
+
+And I'll field this call from <fam>Grampa</fam>.   
+
+<stage>FALSETTO VOICE</stage>: Connection failed.   
+
+GRAMPA <stage>OVER PHONE</stage>: But my liver! 
+
+So where exactly are we going?   
+
+Niagara Falls.   
+
+- Eh.
+- Meh.   
+
+Paid for by points.   
+
+<stage>CHANTING</stage>: Points! Points! Points!   
+
+I spy a closed-down Toys "R" Us.   
+
+<stage>GROANS</stage>   
+
+I spy a bankrupt Sears and Roebuck.   
+
+- <catchphrase>D'oh</catchphrase>!
+- I don't know about this game.   
+
+I find it a little... <stage>GASPS</stage>   
+
+Circuit City overrun by wild dogs.   
+
+<stage>BARKING, GROWLING</stage>   
+
+<person>BART</person> AND <person>HOMER</person>: Booyah!   
+
+How can you booyah this country's decline?   
+
+Cheer up, honey.   
+
+We're headed to the one place that can never decline, because it was never that great: Upstate <location>New York</location>.   
+
+<music>♪ ♪   </music>
+
+<music>♪ Start watching Fox News ♪   </music>
+
+<music>♪ Stop watching your weight ♪   </music>
+
+<music>♪ There is no fancy part of it ♪   </music>
+
+<music>♪ Upstate <location>New York</location> ♪   </music>
+
+<music>♪ They're fond of their booze ♪   </music>
+
+<music>♪ Hot wing sauce is great ♪   </music>
+
+<music>♪ I'm gonna clog my heart in it ♪   </music>
+
+<music>♪ Upstate <location>New York</location> ♪   </music>
+
+<music>♪ I want to sleep in, in a city ♪   </music>
+
+<music>♪ That never wakes ♪   </music>
+
+<music>♪ And find I'm fitting right in ♪   </music>
+
+<music>♪ One of the g*ng ♪   </music>
+
+<music>♪ Par for the course ♪   </music>
+
+<music>♪ The Kodak plant closed ♪   </music>
+
+<music>♪ But I'm longing to stay ♪   </music>
+
+<music>♪ And go on disability ♪   </music>
+
+<music>♪ In Upstate <location>New York</location> ♪   </music>
+
+<music>♪ Can't make it anywhere ♪   </music>
+
+<music>♪ But I can make it there ♪   </music>
+
+<music>♪ I love you so ♪   </music>
+
+<music>♪ Upstate <location>New York</location>. ♪   </music>
+
+Benedict Arnold fought here, baby.   
+
+<stage>BIRDS CHIRPING</stage>   
+
+You want a quarter for the binoculars?   
+
+I guess.   
+
+Those tourist binoculars are never that strong.   
+
+<stage>COIN CLATTERS</stage>   
+
+<person>LISA</person>: Now, that's worth a quarter.   
+
+<person>BART</person>: So magnificent.   
+
+Hey, <fam>Lis</fam>, want to bounce?    
+
+Not till I've soaked in the full majesty of the falls.    
+
+And done.    
+
+Take that, blue boy.    
+
+Eat rubber, red head. <stage>GRUNTS</stage>    
+
+I can't believe the kids are already bored with the view.    
+
+Mmm.    
+
+While the kids are bouncing around, why don't we do a little bouncing, too?    
+
+<stage>LAUGHS</stage>    
+
+That's even more romantic than what you said at <location>Fort Dix</location>.    
+
+<stage>BOTH MOANING</stage>    
+
+<stage>BOTH GRUNTING</stage>    
+
+- Whoa!
+- <stage>LAUGHS</stage>    
+
+Let's see, the angle of rebound equals the angle of incidence.    
+
+<stage>GASPS</stage>    
+
+Ooh, I forgot to account for surface irregularities.    
+
+<stage>GASPS</stage>    
+
+Okay, time to take a sick day.    
+
+Oh, God, oh, God, oh, God, oh God!    
+
+Ooh, a rainbow.    
+
+Oh, God, oh, God, oh, God!    
+
+<stage>GRUNTS</stage>    
+
+<stage>POPS LOUDLY</stage>    
+
+<stage>GROANS</stage>    
+
+Where am I?    
+
+Oh... handsome, horsey.    
+
+Am I in heaven?    
+
+Even better, eh?
+You're in beautiful <location>Canada</location>... is what I'd say if Canadians weren't too modest to brag.    
+
+But we are.    
+
+Oh...    
+
+I have a young girl who may... I repeat, may... need medical attention, eh?    
+
+- I repeat: eh.
+- <stage>SIRENS WAILING</stage>    
+
+<stage>SIGHS</stage>    
+
+Ms. Simpson, you're a very lucky lady.    
+
+Oh, sweetie, thank God, thank God.    
+
+<stage>GRUNTING</stage>    
+
+Your daughter's fine, but I recommend a five-day stay.    
+
+Of course, of course. We'll take out a third mortgage.    
+
+Sir, you're in <location>Canada</location> now, where your health care is free. 
+
+Free health care.
+Why can't <location>America</location> do that?    
+
+She's delirious, Doc.    
+
+<location>America</location> can't pay for health care and give corporations the tax breaks they so desperately need.    
+
+I'm not delirious.    
+
+In fact, I've never felt more protected.    
+
+Not like back home.    
+
+Ooh, hang on. Did you just say you don't feel safe in your home country?    
+
+Why should she feel safe?    
+
+In <location>America</location>, the great El Barto roams the streets.    
+
+So, let me get this straight: you're afraid of <location>America</location>.    
+
+Is that right, young lady?    
+
+- Well, there's voter suppression...
+- Shh. and utter disregard for the environment...    
+
+Shh.    
+
+- a president who's such a son of a...
+- Shh.    
+
+Oh, save that language for the lower   .    
+
+No, I'm telling you.
+Our president really is a god...    
+
+- Shush.
+- We know.    
+
+<stage>MOANS</stage>    
+
+<fam><person>Lisa</person></fam>, as you're clearly a victim of political persecution who fears for her life, I must keep you in <location>Canada</location>    
+
+where you'll be safe and assigned your own hockey team.    
+
+Please not Ottawa, please not Ottawa.    
+
+Yeah, I'm, I'm so sorry.    
+
+<stage>GASPS</stage> You can't keep my daughter.    
+
+She's the heart and soul of this family.    
+
+- Hey. What am I?
+- You're the spleen.    
+
+We don't know what it does and we don't care.    
+
+My hands are tied, ma'am.    
+
+She's in the asylum pipeline now.    
+
+You can't separate us from our child.    
+
+That's <location>America</location>'s thing.    
+
+Well, then you leave us no choice.    
+
+We have to deport you, Canadian-style.    
+
+Great. Come on. Bring it in, bring it in.    
+
+<fam><person>Lisa</person></fam>, are they taking care of you? Are you eating okay?    
+
+<stage>CANADIAN ACCENT</stage>: Look, I'm fine, eh. 
+
+We're losing her.    
+
+Mom, I'm okay. 
+
+They put me in a nice foster home 
+
+with Gord and Francette here. 
+
+Enough with the accent.    
+
+<stage>REGULAR ACCENT</stage>: Okay. 
+
+<fam><person>Lisa</person></fam>, where should we go for dinner tonight? 
+
+Harvey's or Swiss Chalet? 
+
+How about Mr. Submarine? 
+
+<stage>GASPS</stage> Or Earls? 
+
+Don't forget Humpty's. 
+
+Mmm, restaurant chains I never heard of.    
+
+<stage>MOANS</stage>    
+
+<fam><person>Homer</person></fam>, you take <fam><person>Bart</person></fam> back to <location>Springfield</location>.    
+
+I am going for my daughter.    
+
+Local smarty-pants <fam><person>Lisa</person></fam> Simpson has been abducted by <location>America</location>'s <person>Ned</person> <person>Flanders</person> to the north, <location>Canada</location>.    
+
+Here in <location>Springfield</location>, reactions to <fam><person>Lisa</person></fam>'s loss have been loud and uninformed.    
+
+<fam><person>Lisa</person></fam> was the moral center of this town.    
+
+Now it's <person>Barney</person>, who knows nothing.    
+
+Except it is the purpose of government to see that not only the legitimate interests of the few are protected, but that the rights of the many are conserved.    
+
+- Shut your gibber-hole. <stage>GRUNTS</stage>
+- Ow!    
+
+Ugh! She was the only one in this band worth a tinker's damn.    
+
+- <stage>ALL GROANING</stage>
+- Oh, come on.    
+
+You know you all stink.    
+
+We've been working on the same song for    years.    
+
+<music>♪ ♪    </music>
+
+<stage>GASPS</stage> Can you fall in love with a country?    
+
+The science textbooks acknowledge climate change.    
+
+Class, let's give an enthusiastic but quiet hello to <fam><person>Lisa</person></fam> Simpson.    
+
+STUDENTS: Hello.    
+
+As an American, I'd like to apologize for something our president said about    
+
+your wonderfully progressive prime minister.    
+
+Is there any way I can send a note? Or maybe I could...    
+
+- Right this way.
+- Oh.    
+
+Hmm!    
+
+- Mr. Trudeau?
+- Yes, <fam><person>Lisa</person></fam>? 
+
+Oh.    
+
+I am really, really sorry about what our president called you.    
+
+I don't think about it, I've moved on.    
+
+Weak. He called me weak.    
+
+Absolutely.    
+
+Let me ask you.    
+
+Does this look weak?    
+
+Seriously?    
+
+Wow, that is impressive. 
+
+Uh, watch your tie. 
+
+So, listen, if I could just ask you one question about the SNC-Lavalin scandal?    
+
+<stage>SUSPENSEFUL ESPIONAGE MUSIC PLAYING</stage> 
+
+MRS. SCARBOROUGH: Now, <fam><person>Lisa</person></fam>, we'll be doing a class play based on a great Canadian novel.    
+
+The Apprenticeship of Duddy Kravitz by Mordecai Richler?    
+
+Maybe next year, Oliver.    
+
+It's never Duddy. 
+
+No, we're doing a child-friendly version of The Handmaid's Tale. 
+
+Ooh, I'd like to try out for Offred.    
+
+<stage>SOUNDS OF AWE</stage>    
+
+Oh, so you're asking directly for something you want.    
+
+Well, that's not very Canadian, but I like it.    
+
+<stage>ELECTRICITY CRACKLES</stage>    
+
+I've never been happier. <stage>GIGGLES</stage>    
+
+Polite applause, children.    
+
+<stage>WEAKLY</stage>: Yay.    
+
+<music>♪ ♪    </music>
+
+No.    
+
+<stage>GROANS</stage>    
+
+<stage>GRUNTS</stage>    
+
+<stage>DELIGHTED GASP</stage>    
+
+Hi, Mrs. Simpson.    
+
+I have to get my daughter back.
+Can I hide in the trunk?    
+
+Okay, but don't tell anyone we're going up for beer.    
+
+<person>MARGE</person> AND DRIVERS: We all know.    
+
+<stage>FEEBLE GROAN</stage>    
+
+<music>♪ ♪    </music>
+
+<catchphrase>D'oh</catchphrase>.    
+
+What's this blue stuff, eh?    
+
+Oh, um, it's called a car tail.    
+
+Stupid new American fad.    
+
+Oh, we'll get it in six months.    
+
+Move along.    
+
+SQUEAKY-VOICED TEEN: Good-bye!    
+
+Where is she?    
+
+Mom.    
+
+- <stage>GASPS</stage> Oh, sweetie.
+- <stage>GRUNTING</stage>    
+
+
+
+Mmm, this is the best hug we've ever had.    
+
+Yes, it's wonderful.    
+
+Please don't make me leave.    
+
+Your home is with us, not them.    
+
+You must have known I wasn't happy in <location>Springfield</location>.    
+
+All I did was play the blues.    
+
+Are you sure you didn't play the blues because slow tempos are easier?    
+
+Maybe a little.    
+
+But this country is better.    
+
+Their Fox News is just news about foxes.    
+
+Listen, you little traitor.
+I'm your mother.    
+
+And you live where I live.    
+
+You're coming home with me.    
+
+I'm really gonna miss this place.    
+
+If it makes you feel any better, <location>Canada</location> exploits its environment, too.    
+
+- Wha...?
+- This country does it all.    
+
+Tar sands, strip-mining, Mountie-mocking, geese-goosing, French fry-gravying.    
+
+Okay, but I'm sure you treat all peoples equally.    
+
+- Except the Québécois.
+- And the Newfies.    
+
+KIDS: Stupid Newfies.    
+
+I'm a Newfie.    
+
+Whee.    
+
+I guess that does make me feel a little better.    
+
+Thank you.    
+
+<music>♪ Where the wind blows cold ♪    </music>
+
+<music>♪ And there's ice and snow ♪    </music>
+
+<music>♪ Some days go on forever ♪    </music>
+
+<music>♪ But I'm warm and fed ♪    </music>
+
+<music>♪ In a Newfoundlander's bed ♪    </music>
+
+<music>♪ I'll be an islander forever ♪    </music>
+
+<music>♪ I'll be an islander ♪    </music>
+
+<music>♪ Forever. ♪    </music>
+
+<person>MARGE</person>: Sir, we'd appreciate it if you gave us safe passage back to <location>America</location>.    
+
+Sorry, but as it now says on <location>the Statue of Liberty</location>,    
+
+"No re-entry without hand stamp."    
+
+- Where do you get the hand stamp?
+- There isn't one.    
+
+Our top story tonight: Estranged Brew.    
+
+<fam><person>Marge</person></fam> Simpson and her daughter have now been banned from <location>the United States</location>, just like asbestos.    
+
+And this just in: asbestos is back into <location>America</location>'s hospitals and schools.    
+
+Let me just say this asbestos will be reinstalled with the greatest of care.    
+
+<stage>COUGHS</stage>    
+
+Oh, <fam>Homie</fam>, I don't know how we're gonna get back.    
+
+Hmm... how soon can you grow a mustache? 
+
+That won't work. 
+
+Your call.    
+
+Hmm, at least it looks like    
+
+you're getting along okay without us.    
+
+You know, since <fam><person>Lisa</person></fam> and I are stuck here, maybe you should move up here with us.    
+
+Great idea, great idea.    
+
+What the heck? Bring <fam><person>Bart</person></fam>.    
+
+No way. I can't move to <location>Canada</location>.    
+
+I revere this country.    
+
+Really? The last vote you cast was for Quisp.    
+
+And I won.    
+
+Maybe we could find a way to sneak out. I snuck in.    
+
+You do what you want; I'm not leaving.    
+
+Okay. You win, <fam><person>Lisa</person></fam>.    
+
+Looks like we're gonna be here together.    
+
+But there's one thing I need you to do.    
+
+Take one last look at the country you left behind and focus on anything good about it.    
+
+You're right.
+<location>America</location>'s like a great boyfriend that maybe got a little fat and lost a little hair.    
+
+What does that have to do with anything? Just go.    
+
+Good-bye, USA.    
+
+I feel like we did the best we could.    
+
+And we can still be friends.    
+
+Okay, now I'm gonna focus on the good things that you've got.    
+
+<stage>"BATTLE HYMN OF THE REPUBLIC" PLAYING</stage> 
+
+<stage>TRUMPETS</stage>    
+
+<fam>Abe</fam> Lincoln... Dumbo...    
+
+Aretha Franklin, Eleanor Roosevelt, Seabiscuit, the computer that won on Jeopardy! 
+
+WATSON: What is "We miss you, <fam><person>Lisa</person></fam>"? 
+
+<stage>GASPS</stage> Judy Blume.    
+
+Oh, I own all your books.    
+
+I know, I read my royalty reports.    
+
+Having awkward new feelings for your country...    
+
+it's normal, <fam><person>Lisa</person></fam>.    
+
+<stage>WHISPERING</stage>: And you're one of my favorite readers.    
+
+Welcome home, <fam><person>Lisa</person></fam>.    
+
+Well, I haven't decided yet.    
+
+Hello, <fam><person>Lisa</person></fam>.    
+
+- Louis Armstrong.
+- Yeah. And I'm mighty tired of having to keep appearing in your fantasies.    
+
+Get your ass back over here.    
+
+Yes, sir, Satchmo.    
+
+<location>America</location> ain't perfect, but it's my job to make it better.    
+
+See you soon.    
+
+<stage>LAUGHS</stage>    
+
+What are you going over there for?    
+
+It's legal now.    
+
+- WATSON: What is "Pass the Dutch"?
+- <stage>SEABISCUIT NEIGHS</stage>    
+
+<stage>DUMBO TRUMPETS</stage>    
+
+Psst, Mom.    
+
+Psst. I want to go home.    
+
+Oh, finally.    
+
+We're out of this hellhole.    
+
+Who made my bed?    
+
+Least I could do.    
+
+<stage>FRENCH ACCENT</stage>: We will get you across the river.    
+
+Nous allons vous faire traverser la rivière. 
+
+God, it wastes so must time saying everything twice.    
+
+I feel so relieved to have finally made up my mind.    
+
+<stage>SCRAPING, CRACKING</stage>    
+
+Ooh. We must ditch our excess cargo.    
+
+- You two.
+- <stage><person>MARGE</person> AND <person>LISA</person> GASP</stage>    
+
+You're abandoning us in the middle of a frozen river?    
+
+Wow, Canadians really can be jerks.    
+
+Yes, for every Martin Short, there is no shortage of Shatners.    
+
+<stage>EVIL FRENCH LAUGHTER</stage>    
+
+Hope you wash up on a shore you like!    
+
+<stage>EVIL FRENCH LAUGHTER FADING</stage>    
+
+<stage>CAR HORN HONKS</stage>    
+
+- <fam>Homie</fam>!
+- Dad!    
+
+Guess who's here to save the day.    
+
+Why did you get a truck so big?    
+
+It's the smallest one <location>Detroit</location> makes.    
+
+<stage>ICE RUMBLING</stage>    
+
+How will we get in?    
+
+I know one place where there's always plenty of room.    
+
+<stage>"<location>AMERICA</location> THE BEAUTIFUL" PLAYING</stage> 
+
+I missed you, <person>Krusty</person> Burger where there's only one thing I can eat.    
+
+I missed you, pony I had for a week.    
+
+I missed you, snarky comic book seller.    
+
+Thanks for nothing.    
+
+I missed you, nuclear ash that looks like snow.    
+
+I missed you, mixed martial arts megachurch.    
+
+I missed you, <person>Ralph</person>.    
+
+You were gone?    
+
+<stage>SCHOOL BELL RINGS</stage>    
+
+Now can we do Duddy Kravitz? 
+
+No, we're gonna watch an episode    
+
+- of The Beachcombers.
+- Oh...    
+
+For my show and tell,    
+
+I brought something from my trip to <location>Canada</location>.    
+
+<stage>HORSE WHINNIES</stage>    
+
+What did you do this week, sir?    
+
+Well, a Japanese tourist took pictures of me, I fed my horse an apple, and I found a very interesting man hiding in Medicine Hat.    
+
+- Papa.
+- Hey, <person>Nelson</person>, good news.    
+
+You've got a brother in Fort McMurray.    
+
+- What's his name?
+- How would I know?    
+
+<stage>"O, <location>CANADA</location>" PLAYING</stage>
+
+
+</txt></xml>

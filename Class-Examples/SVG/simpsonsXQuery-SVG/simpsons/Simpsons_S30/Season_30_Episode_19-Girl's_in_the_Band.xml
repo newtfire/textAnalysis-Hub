@@ -1,0 +1,904 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt>
+
+
+<metadata><ep><epTitle>Girl's in the Band</epTitle><szn>30</szn>x<epNum>19</epNum></ep>
+
+
+
+
+
+
+
+
+
+
+
+
+<date>04/01/19</date> <runtime>07:25</runtime></metadata>
+
+<stage>GRUNTING</stage>  
+
+<stage>SCHOOL BELL RINGING</stage>  
+
+<stage>BELCHES</stage>  
+
+<catchphrase>D'oh</catchphrase>!  
+
+<stage>STIRRING ORCHESTRAL MUSIC PLAYING</stage>  
+
+
+- <stage>MUSIC STOPS</stage>
+- Each year, one graduate receives the prestigious  
+
+Golden Baton Award for the most impressive future conductor.   
+
+But this year, we have two worthy recipients.   
+
+- <stage>AUDIENCE GASPING</stage>
+- Two?   
+
+That's right.   
+
+Gustavo Dudamel and local wunderkind, Mr. Dewey Largo.   
+
+<stage>CHEERING AND APPLAUSE</stage>   
+
+I'm sure you will each achieve tremendous renown.   
+
+No, wait.   
+
+I believe that one of you will.   
+
+And the other will fail and have a horrible life as a public school music teacher.   
+
+<stage>CACKLING MANIACALLY</stage>   
+
+Oh... Dudamel.   
+
+Dudamel. Yo-Yo Ma!   
+
+Oh, Dewey, my pouty poppet.   
+
+You're having that dream again?   
+
+Oh, it's so cruel that my only triumph has become my recurring nightmare.   
+
+Oh, darling, you're cursed with the memory of an elephant.   
+
+And the wrinkles to match.   
+
+Can't you just wake me with a slice of melon and a drop of affection?   
+
+Whatever you say, Lord Grumpy of the Morning Breath.   
+
+<stage>LAUGHS</stage>   
+
+Now, Petal, don't forget to call the dog walker.   
+
+Tell him to come early.   
+
+And easy on the leash.   
+
+Oh, it's on my list.   
+
+Also, don't forget to call someone about the water bill.   
+
+I suspect a sputtering spigot.   
+
+You know, you are home all day.   
+
+Hence my annoyance.   
+
+Now, if you'll excuse me, Pinterest awaits.   
+
+<stage>GROANS</stage>   
+
+- <stage>DOG GRUMBLES</stage>
+- Oh, shut up, Sir Winston, or there'll be no cigar for you.   
+
+<stage>DISCORDANTLY PLAYING MOZART'S "EINE KLEINE NACHTMUSIK"</stage>   
+
+MAN: Dear Mr. Largo, I am the musical director 
+
+of the Capital City Philharmonic. 
+
+I've heard you've got talent. Big talent, major chops, 
+
+- the goods.
+- <stage>EXCLAIMS</stage>   
+
+<stage>SUSTAINING NOTE</stage>   
+
+So I'll be attending your concert tomorrow night. 
+
+Intriguingly yours, Victor Kleskow. 
+
+<stage>SUSTAINING NOTE</stage>   
+
+P.S. I will be bringing an outside beverage. 
+
+Large, icy, nonalcoholic. 
+
+- <stage>NOTE FADES</stage>
+- Okay, g*ng.   
+
+Our recital's tomorrow, and we're gonna be ready.   
+
+And if you play the way I know you're capable of, you'll never see me again.   
+
+<stage>THEME FROM PATTON BY JERRY GOLDSMITH PLAYS</stage>   
+
+You have hidden talent bubbling inside you, and this baton will pop it right out.   
+
+Sherri, more fortissimo. Terri, more pianissimo.   
+
+<person>Milhouse</person>, don't forget to tune your...   
+
+What the heck are you playing?   
+
+No one really knows.   
+
+Well, then, wear it on your head.   
+
+Here we go. I'm gonna do something   
+
+I've never done as a teacher before: actually try.   
+
+One, two, three, four.   
+
+<stage>PLAYING "LIEUTENANT KIJÉ SUITE" BY PROKOFIEV</stage>   
+
+<music>♪ ♪   </music>
+
+<music>♪ ♪   </music>
+
+Are you sure we're at the right school?   
+
+I mean, they sound good.   
+
+Oh, my gosh, it's bearable.   
+
+<stage>MUSIC SWELLING</stage>   
+
+<stage>MUSIC STOPS</stage>   
+
+<stage>CHEERING, APPLAUSE</stage>   
+
+Sir? Did it move you?   
+
+<person>Skinner</person>, didn't I ask for a buffer chair between you and me at all of these events?   
+
+Uh-uh. Buffer.   
+
+Brilliant. How did you manage it?   
+
+It was good, wasn't it?   
+
+Let's just say I separated the wheat from the chaff.   
+
+I'm in the F hole.   
+
+Oh, Salieri, patron saint of losers, runners-up and also-rans, please let this Garfunkel become a Simon, this Pepsi become a Coke, and this ugly duckling conduct Swan Lake. 
+
+Hi. Victor Kleskow. We're conductors, so don't shake hands; just a friendly wave on the b*at of four, three, two and done.   
+
+I'm honored, maestro.   
+
+Let's cut to the chase.    
+
+That was good... middle school good.    
+
+Tonight, I witnessed a once-in-a-semester talent that I must add to my organization.    
+
+- Dewey...
+- Uh-huh. have to keep talking, or can I meet <fam><person>Lisa</person></fam> Simpson?    
+
+But-but-but she's a child.    
+
+Yes, I'm scouting talent for our youth philharmonic.    
+
+Surely, you didn't think I wanted you?    
+
+<stage>SIGHS</stage> No, no, of course not.    
+
+<fam><person>Lisa</person></fam>'s right over there.    
+
+Red dress, intelligent expression.    
+
+Can't miss her.    
+
+Mr. Largo, he picked me.    
+
+<stage>GASPS</stage> I'm sorry.    
+
+I'm really glad you get to represent us.    
+
+It's like a little piece of me is taking a baby practice step.    
+
+That is so generous.    
+
+Yes, yes, there is an upside to having a broken spirit.    
+
+Mr. Kleskow said my articulation  was the best he's ever heard.    
+
+He said I sounded like a young Cannonball Adderley.    
+
+Ooh, is that the raccoon on Saturday morning cartoons?    
+
+I'm talking about the famous jazz musician.    
+
+I don't know who you're talking about.    
+
+The guy I'm thinking of would make himself into a ball and knock over all the crows. <stage>LAUGHS</stage>    
+
+<fam>Homie</fam>, this class is    miles each way.    
+
+We can do it!    
+
+I'll practice in the car.    
+
+   miles in the car with <fam><person>Lisa</person></fam> practicing.    
+
+I've got a symphony for you.    
+
+<stage>TUNE OF BEETHOVEN'S  TH</stage>:
+<music>♪ Sucks to be you ♪    </music>
+
+<music>♪ Sucks to be you, sucks to be you ♪    </music>
+
+<music>♪ Sucks to be you, sucks to be you. ♪    </music>
+
+<stage><person>MARGE</person> GRUMBLES</stage>    
+
+We can't afford a babysitter every day.    
+
+<fam><person>Bart</person></fam> will have to come along.    
+
+And <fam><person>Maggie</person></fam>, too.    
+
+Well, I got to ask.    
+
+Should we really sacrifice everything for a gifted child?    
+
+We'll always regret it if we don't.    
+
+- Okay.
+- I wanted you to argue with me.    
+
+Youth orchestra costs $    a month.    
+
+Where's that money gonna come from?    
+
+Well, I have an idea, but you might not like it.    
+
+Remember the show Breaking Bad? 
+
+About a dad who was desperate for money?    
+
+<fam><person>Homer</person></fam>, no.    
+
+<fam><person>Marge</person></fam>, yes, I can do it.    
+
+I can sell my box set.    
+
+We haven't even listened to the commentaries.    
+
+Okay, not that.    
+
+I could always switch to a double shift  and work nights at the plant.    
+
+Isn't that dangerous to your health?    
+
+You think I'm in danger?    
+
+I am the danger. I'm the one who knocks.    
+
+Well, that's so protective.    
+
+It's also a quote from Breaking Bad. 
+
+<stage><person>MARGE</person> GROANS</stage>    
+
+You are really far behind.    
+
+<stage>BREAKING BAD THEME PLAYS</stage>    
+
+<stage>HORNS HONKING</stage>    
+
+MAN <stage>ON RADIO</stage>: And Jesus said 
+
+unto the Samaritan woman... 
+
+<stage>ANNOUNCER SPEAKING SPANISH</stage> 
+
+Good, good. When the Spanish station overpowers the Christian one, we're getting close to the city.    
+
+<person>BART</person>: Why do I have to be here?    
+
+I specifically didn't get good at anything to avoid drives like this.    
+
+If you were me, would you trust you home alone?    
+
+Hmm.    
+
+<stage>HORSE WHINNIES</stage>    
+
+<stage>CHUCKLES</stage>    
+
+<stage>INSTRUMENTS TUNING AND WARMING UP</stage>    
+
+- Who's the new girl?
+- What does she play?    
+
+Too small for a tuba.    
+
+- Too big for a flute.
+- Well, maybe it's her lunch.    
+
+- Hi. I'm <fam><person>Lisa</person></fam> Simpson.
+- Shh.    
+
+He might hear you. <stage>COUGHS</stage>    
+
+- Are you okay?
+- Don't tell him I'm sick.    
+
+The sick are left to die.    
+
+<stage>COUGHS, HOCKS, SPITS</stage>    
+
+Wow, even the violas are tense.    
+
+<stage>PLAYING AN INTENSE NOTE</stage>    
+
+Everyone, say hello to <fam><person>Lisa</person></fam> Simpson.    
+
+She's an actual musician, so she will be a strange and wonderful creature to the rest of you.    
+
+We'll start with one of the classics.    
+
+Theme from Knight Rider, second movement, bar   .    
+
+One, two, three, four.    
+
+<stage>PLAYING KNIGHT RIDER THEME</stage>    
+
+- <stage>MUSIC STOPS</stage>
+- I may have misspoken.    
+
+Miss Simpson, was that an F sharp or a G flat that you played?    
+
+Well, that's a trick question, because they're the same.
+<stage>NERVOUS CHUCKLE</stage>    
+
+Oh, we have a music scholar in our midst.    
+
+You're right, they are the same.    
+
+And if only you had played either one of them!    
+
+<stage>GROANS</stage> Sorry?    
+
+No, no, no. It's my fault.    
+
+I've been too soft on you, <fam><person>Lisa</person></fam>.    
+
+I've been letting you coast for almost two minutes.    
+
+That ends now. <fam><person>Lisa</person></fam> alone, theme from Moonlighting, second movement, andante!    
+
+<stage>PLAYING MOONLIGHTING THEME</stage>    
+
+Ow. Ow. Ow.    
+
+- Ow. Ow.
+- <fam><person>Bart</person></fam>.    
+
+- <fam><person>Bart</person></fam>.
+- Just k*ll time.    
+
+Ow. Ow. Ow.    
+
+Ow. Ow.    
+
+- <stage><person>LISA</person> PANTING</stage>
+- <fam><person>Lisa</person></fam>.    
+
+<fam><person>Lisa</person></fam>, sweetie, are you okay?    
+
+He yelled at me, humiliated me in front of everyone.    
+
+And then...    
+
+I never played better!    
+
+Aw, so we're doing this every day?    
+
+- I guess so.
+- Oh, man.    
+
+I've already got seat cushion butt.    
+
+Look. I sat on a nickel.    
+
+You can see the date.    
+
+<stage>GASPS</stage> That's a buffalo nickel.    
+
+It's really valuable.    
+
+Threw it in the gutter.    
+
+- Coins are boring.
+- <stage>GROANS</stage>    
+
+<stage>EDVARD GRIEG'S "IN THE HALL OF THE MOUNTAIN KING" PLAYING</stage>    
+
+Hey, welcome to the night shift. What are you in for?    
+
+Because I hit the jackpot.    
+
+My kid's got a big future with the jazz.    
+
+Oh, I hear you, you'll do anything for your kids.    
+
+Then they turn on you.    
+
+Well, I am through. Happily estranged.    
+
+<stage>RINGING</stage>    
+
+Is that my kids? Oh, boy.    
+
+Steam valve.    
+
+It's never them.    
+
+It's pretty dark in here. Can we turn on some more lights?    
+
+Uh, no. The company can't afford the power.    
+
+Aren't we a power company?    
+
+Never get high on your own supply.    
+
+<stage>BLOWS</stage>    
+
+<stage>ORCHESTRA QUIETLY PLAYING</stage>    
+
+Uh, Mom, I think <fam><person>Maggie</person></fam> wants to go home.    
+
+<fam><person>Maggie</person></fam>, is that what you want?    
+
+Let's go home! Let's go home!    
+
+I'm sorry, is this annoying you?    
+
+Ma'am, day care is happy to watch your son.    
+
+<fam><person>Bart</person></fam> Simpson, well-behaved child.    
+
+Please don't Google me.    
+
+- In you go!
+- <stage><person>BART</person> YELPS</stage>    
+
+<stage>DOOR LOCKS</stage>    
+
+Who are you losers, and why am I locked in here with you?    
+
+We're the siblings.    
+
+Our brothers and sisters are the talented ones.    
+
+Do you know what it's like being second banana to a third chair?    
+
+Shut up, Miles.    
+
+<stage>HONKS</stage>    
+
+Hey, I don't belong here.    
+
+You're one of us.    
+
+ALL <stage>CHANTING</stage>: One of us. One of us.    
+
+- Afterthought.
+- Also-ran.    
+
+Second string.    
+
+GIRL: Unwanted child.    
+
+<stage>ALL GROANING</stage>    
+
+You're pretty well-dressed for a kid.    
+
+I'm a parent.    
+
+A prize-winning novelist with no musical talent.    
+
+All right, first order of business, do we have any chair challenges?    
+
+Excuse me, what's a chair chall...    
+
+Great, our first volunteer, out for blood.    
+
+<fam><person>Lisa</person></fam> versus Brian, winner gets first chair.    
+
+- <fam><person>Lisa</person></fam>, how could you?
+- No, I didn't mean to.    
+
+Go, go, go, or I'll call you both Ubers back to Loser Town.    
+
+Damn it, surge pricing. I'll call it in later. Go!    
+
+<music>♪ ♪    </music>
+
+I've heard enough.    
+
+Brian, that was perfect... for second chair.    
+
+<fam><person>Lisa</person></fam>, you have his spot.    
+
+- I had a good run.
+- No, you didn't.    
+
+Oh, gosh, I'm sorry.    
+
+Never apologize for talent.    
+
+Did Mozart apologize?
+I don't know. I wasn't there.    
+
+And even if I was, I'd have been pushing a plow.    
+
+You think everyone gets to hang out with Mozart?    
+
+<stage><person>LISA</person> MOANS</stage>    
+
+<person>LISA</person>: Whoo-hoo! First chair. 
+
+<stage>SAXOPHONE PLAYING</stage>    
+
+- Well, I'm off to the night shift.
+- <stage>SNOWBALL II YOWLS</stage>    
+
+I'll miss you most of all, prime-time TV.    
+
+- Dad, do my feelings matter?
+- Of course they do.    
+
+We just don't have as much time for them as usual.    
+
+Go ahead, tell me what you're thinking.    
+
+- Well, I...
+- I hear you, I understand you,    
+
+- and I love you.
+- But I...    
+
+Just put the rest on my Father's Day card.    
+
+Mwah. I'll see you at breakfast.    
+
+<stage><person>MARGE</person> CRIES</stage>    
+
+
+
+There's nothing worse than being the parent of a kid with promise.    
+
+Oh, gosh. I've been so selfish.    
+
+That's right. The only one who should monopolize this family's time and attention is me, because I could go at any moment.    
+
+Unless I keep talking.    
+
+Talking, talking, talking.    
+
+That's what keeps the grim reaper at bay.    
+
+<stage>PHONE VIBRATES</stage>    
+
+I saw quite a bit of the grim reaper back in the w*r. 
+
+Back then, we called him The Ticket Out of <location>Germany</location>. 
+
+But the seating was cramped and the food was lousy. 
+
+And that was the start of American Airlines. 
+
+MAN <stage>ON RADIO</stage>: ¿Accidentes? No problema. 
+
+Teléfono ocho-ocho-ocho ocho-ocho... 
+
+<fam><person>Maggie</person></fam>, what are you doing?    
+
+I'll help her, Mom.    
+
+Help! Help!    
+
+I was promised ice cream    miles ago.    
+
+- <stage>TIRES SCREECH</stage>
+- <stage>SIGHS</stage> We're here.    
+
+- <fam>Homie</fam>?
+- <stage>SIGHS</stage>    
+
+Everything's breakfast all the time.    
+
+Eggs. All I'm eating are eggs.    
+
+I think it's turning my skin yellow.    
+
+<fam>Homie</fam>, are we sacrificing our family's happiness for the sake of one member?    
+
+When <fam><person>Lisa</person></fam>'s making millions of dollars playing for the Utah Jazz, it'll be worth it.    
+
+The Jazz is a basketball team.    
+
+No, it's...    
+
+Oh, my God, what have we done?    
+
+<stage>JAZZ PLAYING</stage>    
+
+<music>♪ ♪    </music>
+
+<stage>TIRES SCREECH</stage>    
+
+<music>♪ ♪    </music>
+
+Okay, listen up, you guys want to be in your siblings' shadows your whole life?    
+
+ALL: Yes.    
+
+It's cool in the shadow.    
+
+Well, I'm gonna tell you how to get attention.    
+
+- Are you sure?
+- That sounds risky.    
+
+I don't know about that.    
+
+Here's what you do: misbehave.    
+
+Call your dad by his first name.    
+
+If it's sticky, spill it.    
+
+- Make a shirttail wiener.
+- <stage>KIDS LAUGHING</stage>    
+
+- Yes!
+- I'll do it!    
+
+Yeah!    
+
+Simpson, a word?    
+
+About your time with this band, I am afraid it's almost up.    
+
+Are you kicking me out?    
+
+I wish. Ending people's musical careers is why I got into music.    
+
+But no, your sin is having a birthday soon.    
+
+You have to audition to move up to the next group.    
+
+- How old are they?
+- Nine to   .    
+
+And then what's the group after that?    
+
+Fame, fortune, an affair with Hans Zimmer.    
+
+Well, sir, I'm ready for all but the last one.    
+
+You think you're ready? In nine to   ,  we play notes you've never heard of.    
+
+M-flat, J-sharp, V, cursive G, Frank, Frank Natural.    
+
+And those are just the ones you can hear.    
+
+I know you're playing mental games with me, and I take it as flattery.    
+
+Smart. Always smart. Well, this isn't a game!    
+
+It'll cost your parents more money, and it's a half hour farther from everywhere.    
+
+Oh, well, I guess I better talk to my family, then, and tell them the, uh... the good news.    
+
+Auditions are Tuesday. I sense you're conflicted.    
+
+I was conflicted once. Band leader or prison guard?    
+
+I chose the one where I could be more cruel.    
+
+<stage>BIRD CAWING</stage>    
+
+So tired and irritable.    
+
+Shut up. You shut up.    
+
+<music>♪ ♪    </music>
+
+<stage>"MIDNIGHT, THE STARS AND YOU" PLAYING</stage>    
+
+The usual, sir?    
+
+Thank you, Lloyd.    
+
+And let me say, no one enables a descent into madness better than you.    
+
+I understand the family's getting to be a bit of a problem.    
+
+Yeah, but what are you gonna do?    
+
+I hear radiation poisoning is a painless way to go.    
+
+Maybe sprinkle a little plutonium in the salad.    
+
+- I don't eat salad.
+- Exactly.    
+
+<stage>CHUCKLES</stage> I see.    
+
+<stage>LAUGHS</stage>    
+
+- No, I don't.
+- k*ll your family.    
+
+- How do I do that?
+- With the plutonium.    
+
+- Well, where do I put it?
+- In the salad.    
+
+- To what end?
+- To k*ll your family!    
+
+Just what are you driving at?    
+
+<music>♪ ♪    </music>
+
+<stage>"MIDNIGHT, THE STARS AND YOU" PLAYING</stage>    
+
+Simpson, what the hell are you doing?    
+
+Get back to your post.    
+
+Geez, I nearly went insane just to put my kid in an after-school music class.    
+
+I'm beginning to think it's not worth it.    
+
+- Please, don't f*re me.
+- <stage>CHUCKLES</stage> Oh, don't worry.    
+
+What happens on the night shift stays on the night shift.    
+
+I'm not gonna hurt you.    
+
+I'm just gonna bash your brains in.    
+
+<stage>CHUCKLES</stage> There's our head of human resources now.    
+
+<music>♪ ♪    </music>
+
+Well, this is it.    
+
+If she makes it, it's five more years at least of driving.    
+
+I gave <fam><person>Maggie</person></fam> a Sketch 'n' Etch to calm her down.    
+
+<person>HOMER</person>: Oh, my God, she has talent, too. 
+
+- What are you looking at?
+- Uh, nothing.    
+
+Make something else.    
+
+<music>♪ ♪    </music>
+
+<person>LISA</person>: I'm doing it. I'm gonna make it. 
+
+Oh, but if I keep being this good, 
+
+it'll mean more practice and more driving 
+
+and more resentful looks from the baby. 
+
+Wonder what I'm gonna do. 
+
+Ugh, I hate defining moments. 
+
+<stage>PLAYS OFF-KEY</stage>    
+
+Stop! That's it, you failed.    
+
+Have fun playing for nickels on the street at the corner of Good But Not Great and Disappointment Boulevard.    
+
+You don't exist for me anymore.    
+
+You're pretty mean for a teacher.    
+
+Yeah. You should see me as a father.    
+
+So, guess this is the last time we're doing this drive.    
+
+<fam><person>Lisa</person></fam>, are you okay?    
+
+Sure. Fine. Never been better.    
+
+Hmm. You weren't crazy enough to fail on purpose just to make life better for the rest of us?    
+
+I'm fine. Probably, if I'd gotten it, all that work would have k*ll my love for music.    
+
+Or I think you would have gotten better and loved it more.    
+
+<stage>BOTH GRUNT</stage>    
+
+I know I loved that.    
+
+And I love that I drove you to v*olence.    
+
+- <stage>GRUNTS</stage>
+- <stage>BOTH LAUGH</stage>    
+
+Don't make me come back there!    
+
+You wouldn't fit, fatso.    
+
+Oh, wouldn't I?    
+
+- <stage><person>HOMER</person> GRUNTING</stage>
+- <stage><person>MARGE</person> GASPS</stage>    
+
+<stage>BOTH LAUGH</stage>    
+
+<stage>LAUGHS</stage>    
+
+<fam><person>Maggie</person></fam>, are we good?    
+
+Oh, wow.    
+
+Why does this car always smell of cheese puffs?    
+
+Is someone sad-snacking when he drives alone?    
+
+It's not like I have anyone making me breakfast.    
+
+But we're almost home, so close your eyes.    
+
+There's a big surprise.    
+
+- Come on, close them.
+- This is silly.    
+
+Close them!    
+
+Oh, Petal.    
+
+Surprise.    
+
+<stage>GASPS</stage> A man, for me?    
+
+No. I changed the locks, and I'm kicking you out.    
+
+But-but who gets Sir Winston?    
+
+His name is Poochini.    
+
+Very well. Poochini it is.    
+
+<stage>LARGO GASPS</stage>    
+
+That's all I ever wanted. I love you.
+
+
+</txt></xml>

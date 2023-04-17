@@ -1,0 +1,588 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt>
+
+
+<metadata><ep><epTitle><fam><person>Bart</person></fam> the Genius</epTitle><szn>01</szn>x<epNum>02</epNum></ep><date>05/17/98</date> <runtime>06:28</runtime></metadata>
+
+<fam><person>Bart</person></fam>: Come on, Mom.
+
+<fam><person>Lisa</person></fam>: Yeah, Mom. Hurry up.
+
+<fam><person>Marge</person></fam>: All right. Mmm. How about  Two points. Your turn, dear.
+
+<fam><person>Homer</person></fam>: Hmm. How could anyone make a word out of these lousy letters? Oh, wait. Here's a good one.
+
+<fam><person>Lisa</person></fam>:  Triple word score.
+
+<fam><person>Homer</person></fam>: Hey, no abbreviations.
+
+<fam><person>Lisa</person></fam>: Not I.D., Dad.  It's a word.
+
+<fam><person>Bart</person></fam>: As in, “This game is stup-id.
+
+<fam><person>Homer</person></fam>: Hey, shut up, boy.
+
+<fam><person>Lisa</person></fam>: Yeah, <fam><person>Bart</person></fam>. You're supposed to be developing verbal abilities for your big aptitude test tomorrow.
+
+<fam><person>Marge</person></fam>: We could look this "id" thing up in the dictionary.
+
+<fam><person>Homer</person></fam>: We got one?
+
+<fam><person>Marge</person></fam>: I think it's under the short leg of the couch.
+
+<fam><person>Lisa</person></fam>: "Id: Along with the ego and the superego, one of three components of the psyche."
+
+<fam><person>Homer</person></fam>: Get outta here.
+
+<fam><person>Bart</person></fam>: My turn.  K-W-Y-J-I-B-O. Twenty-two points, plus triple-word-score, plus 50 points for using all my letters. Game's over. I'm outta here.
+
+<fam><person>Homer</person></fam>: Wait a minute you little cheater. You're not going anywhere until you tell me what a "kwyjibo" is.
+
+<fam><person>Bart</person></fam>: "Kwyjibo." Uh- A big, dumb, balding, North American ape with no chin.
+
+<fam><person>Marge</person></fam>: And a short temper.
+
+<fam><person>Homer</person></fam>: I'll show you a big, dumb, balding ape!
+
+<fam><person>Bart</person></fam>: Uh-oh. Kwyjibo on the loose.
+
+Girl: <music>♪ We come from <location>Springfield</location> and we sell swampland ♪♪</music>
+
+Principal <person>Skinner</person>: You there. No chewing gum on school grounds. In the trashcan with it.
+
+Martin: Principal <person>Skinner</person>, one of my fellow children is vandalizing school property.
+
+Principal <person>Skinner</person>: Oh? Where?
+
+Martin: Over there, sir. See?
+
+<person>Milhouse</person>: Look out, <fam><person>Bart</person></fam>! Here comes <person>Skinner</person>.
+
+<fam><person>Bart</person></fam>: Yikes!
+
+Principal <person>Skinner</person>: Hmm.
+
+<music>♪♪ <stage>(whistling)</stage></music>
+
+Principal <person>Skinner</person>: Whoever did this is in very deep trouble.
+
+Martin: And a sloppy speller, too. The preferred spelling of "wiener" is w-i-e-n-e-r, although "e-i" is an acceptable ethnic variant.
+
+Principal <person>Skinner</person>: Good point. Boys, let's see your hands. Mm-hmm. Good. Okay. Simpson?
+
+Martin: You might say you caught him red-handed.
+
+Principal <person>Skinner</person>: Simpson, you and I are going to have a little talk.
+
+<fam><person>Bart</person></fam>: Same time, same place?
+
+Principal <person>Skinner</person>: Yes. In my office after school.
+
+All: Ooh!
+
+<fam><person>Bart</person></fam>: <stage>(gulps)</stage>
+
+<stage>(bell rings)</stage>
+
+Martin: <fam><person>Bart</person></fam>, I hope you won't bear some sort of simpleminded grudge against me. I was merely tying to fend off the desecration of the school building.
+
+<fam><person>Bart</person></fam>: <catchphrase>Eat my shorts</catchphrase>.
+
+Martin: Pardon?
+
+<person>Mrs. Krabappel</person>: Now, I don't want you to worry, class. These tests will have no effect on your grades. They merely determine your future social status and financial success. If any.
+
+Martin: <person>Mrs. Krabappel</person>, isn't <fam><person>Bart</person></fam> supposed to face the window so he won't be tempted to look at his neighbor's paper?
+
+<person>Mrs. Krabappel</person>: You're right, Martin. <fam><person>Bart</person></fam>? 
+
+<fam><person>Bart</person></fam>: <stage>(groans)</stage>
+
+<person>Mrs. Krabappel</person>: Remember to visualize the complex problems, and relax. The test will start… now!
+
+<fam><person>Bart</person></fam>: "At 7:30 a.m., an express train traveling 60 miles an hour leaves <location>Santa Fe</location> bound for <location>Phoenix</location>, 520 miles away."
+
+<person>Mrs. Krabappel</person>: Shh! Visualize it, <fam><person>Bart</person></fam>.
+
+<person>Bart</person>’s Voice: "At the same time, a local train traveling 30 miles an hour and carrying 40 passengers leaves <location>Phoenix</location> bound for <location>Santa Fe</location>. It's eight cars long and always carries the same number of passengers in each car. An hour later, a number of passengers equal to half the number of minutes past the hour get off, but three times as many plus six get on. At the second stop, half the passengers plus two get off, but twice as many get on as got on at the first stop." Oof.
+
+Train conductor: Ticket, please.
+
+<fam><person>Bart</person></fam>: I don't have a ticket.
+
+Train conductor: Come with me, boy. We've got a stowaway, sir.
+
+<fam><person>Bart</person></fam>: I'll pay. How much?
+
+Martin: Twice the fare from <location>Tucson</location> to Flagstaff minus two-thirds of the fare from <location>Albuquerque</location> to <location>El Paso</location>. <stage>(laughs)</stage>
+
+Principal <person>Skinner</person>: <stage>(laughing)</stage>
+
+<fam><person>Bart</person></fam>: Whoa!
+
+<stage>(train whistle blows)</stage>
+
+<fam><person>Bart</person></fam>: <stage>(screams)</stage>
+
+<person>Mrs. Krabappel</person>: <fam><person>Bart</person></fam>, there are students in this class with a chance to do well. Will you stop bothering them?
+
+Martin: He's not bothering me, <person>Mrs. Krabappel</person>. I'm finished. May I go outside and read under a tree?
+
+<person>Mrs. Krabappel</person>: Certainly, Martin. What are you looking at, <fam><person>Bart</person></fam>? Are those naughty dogs back again? You have 20 minutes, class.
+
+<fam><person>Bart</person></fam>: <music>♪♪ <stage>(humming)</stage></music>
+
+<fam><person>Marge</person></fam>: He's a good boy now, and he's getting better, and sometimes even the best sheep stray from the flock and need to be hugged extra hard.
+
+<fam><person>Homer</person></fam>: That's exactly the kind of crapola that's lousing him up. Hey, look at this. "I am a wiener." <stage>(laughs)</stage> He sure is.
+
+<stage>(intercom buzzes)</stage>
+
+Woman: Mr. and Mrs. Simpson are here.
+
+Principal <person>Skinner</person>: Send them in.
+
+<fam><person>Marge</person></fam>: Hello again, Principal <person>Skinner</person>.
+
+<fam><person>Homer</person></fam>: What have you done this time, boy?
+
+Principal <person>Skinner</person>: I caught your son defacing school property this morning. We estimate the damage at $75, and frankly, we think it's terribly unfair that other taxpayers should foot the bill.
+
+<fam><person>Homer</person></fam>: Yeah, it's a crummy system, but what are you gonna do?
+
+<fam><person>Marge</person></fam>: <stage>(whispering)</stage>
+
+<fam><person>Homer</person></fam>: Oh, no. He can't mean that. My wife thinks you want me to pay for it.
+
+Principal <person>Skinner</person>: That was the idea.
+
+<fam><person>Homer</person></fam>: Oh.
+
+Principal <person>Skinner</person>: By itself, something like this might not call for an extreme penalty, but this is not an isolated incident. <fam><person>Bart</person></fam>'s behavior is unruly. He's frequently absent from school, then gives teachers pathetic excuse notes that are obviously childish forgeries when compared to- Well, at any rate it is my reluctant decision-
+
+<stage>(intercom buzzes)</stage>
+
+Woman: Mr. <person>Skinner</person>, Dr. Pryor is here to see you. He says it's urgent.
+
+Principal <person>Skinner</person>: Send him in. Mr. and Mrs. Simpson, this is our district psychiatrist, Dr. J. Loren Pryor.
+
+<fam><person>Homer</person></fam>: What do we need a psychiatrist for? We know our kid is nuts.
+
+Dr. Pryor: Oh, on the contrary. I have some very exciting news for all of us. This aptitude test we administered this morning has revealed that the young <fam><person>Bart</person></fam> here is what we call a "gifted child."
+
+<fam><person>Homer</person></fam>: A what?
+
+Dr. Pryor: Your son is a genius, Mr. Simpson.
+
+<fam><person>Marge</person></fam>: <fam><person>Bart</person></fam>?
+
+<fam><person>Homer</person></fam>: This lunkhead?
+
+Principal <person>Skinner</person>: Impossible.
+
+Dr. Pryor: No, no, we're quite certain. The child is not supposed to know his own IQ, of course, but, uh, you can see it's beyond the range of any doubt.
+
+<fam><person>Homer</person></fam>: 912!
+
+Dr. Pryor: Uh, no, you have it upside down. It's 216.
+
+<fam><person>Homer</person></fam>: Oh.
+
+Dr. Pryor: That's still amazingly high. Tell me, <fam><person>Bart</person></fam>, are you ever bored in school?
+
+<fam><person>Bart</person></fam>: Oh, you bet.
+
+Dr. Pryor: Mm-hmm. Ever feel a little frustrated?
+
+<fam><person>Bart</person></fam>: All the time, sir.
+
+Dr. Pryor: Uh-huh. Do you ever dream of leaving your class... to pursue your own intellectual development on an independent basis?
+
+<fam><person>Bart</person></fam>: Wow! It's like you're reading my mind, man.
+
+Dr. Pryor: Uh-huh. You see, when a child with <fam><person>Bart</person></fam>'s intellect is forced to slow down to the pace of a normal person, he's probably going to lash out in ways like these.
+
+Principal <person>Skinner</person>: I think we should retest him.
+
+Dr. Pryor: We should move him to another school.
+
+Principal <person>Skinner</person>: Ooh. Better yet.
+
+Dr. Pryor: <fam><person>Bart</person></fam>, we'd like you to try a kind of school that doesn't rely on grades and rules and bells and buzzers. A school without walls, where you do as much or as little of the assignments as you feel you need to. Does that sound good, <fam><person>Bart</person></fam>?
+
+<fam><person>Bart</person></fam>: Sign me up, Doc.
+
+Dr. Pryor: Excellent. We're all set then. Here's all the information you need. Show up around nine-ish. Mr. and Mrs. Simpson, congratulations once again.
+
+Principal <person>Skinner</person>: I think we're all in a mood to celebrate.
+
+<fam><person>Homer</person></fam>: Doc, this is all too much. I mean, my son a genius? How does it happen?
+
+Dr. Pryor: Well, genius-level intelligence is usually the result of heredity and environment. Although, in some cases, it's a total mystery.
+
+<fam><person>Bart</person></fam>: Aw, come on, Mom.
+
+<fam><person>Marge</person></fam>: You look very intelligent, dear.
+
+<fam><person>Bart</person></fam>: No way!
+
+<fam><person>Homer</person></fam>: How about a tie, son? Everybody knows boy geniuses wear ties.
+
+<fam><person>Bart</person></fam>: You're stifling my creativity, Dad.
+
+<fam><person>Homer</person></fam>: Sorry, boy.
+
+<fam><person>Marge</person></fam>: <fam><person>Bart</person></fam>, this is a big day for you. Why don't you eat something a little more nutritious?
+
+<fam><person>Homer</person></fam>: Nonsense, <fam><person>Marge</person></fam>. Frosty <person>Krusty</person> Flakes are what got him where he is today. It could be one of these chemicals here that makes him so smart. <fam><person>Lisa</person></fam>, maybe you should try some of this.
+
+<fam><person>Marge</person></fam>: <fam><person>Homer</person></fam>!
+
+<fam><person>Homer</person></fam>: I'm just saying why not have two geniuses in the family? Sort of a spare, in case <fam><person>Bart</person></fam>'s brain blows up.
+
+<fam><person>Lisa</person></fam>: I don't care what that stupid test says, <fam><person>Bart</person></fam>. You're a dimwit.
+
+<fam><person>Bart</person></fam>: Maybe so, but from now on, this dimwit is on easy street. No rush, Dad. Take the scenic route.
+
+<fam><person>Homer</person></fam>: Gotcha.
+
+<stage>(tires screech)</stage>
+
+<fam><person>Bart</person></fam>: Oh, no. Ties.
+
+<fam><person>Homer</person></fam>: Don't worry, son. You can have mine. Here. Let me show you how to put on a tie. The hook goes over the top and these things go in there.
+
+<fam><person>Bart</person></fam>: Thanks, Dad. You kissed me.
+
+<fam><person>Homer</person></fam>: There's nothing wrong with a father kissing his son… I think. Now go on, boy, and pay attention. Because if you do, one day you may achieve something that we Simpsons have dreamed about for generations. You may outsmart someone.
+
+<fam><person>Bart</person></fam>: <stage>(grunts)</stage>
+
+Ms. Melon: You must be <fam><person>Bart</person></fam> Simpson. I'm Ms. Melon, your learning coordinator. Let me say right at the start that we have one rule here: Make your own rules. If you feel sleepy, take a nap. If you get bored, feel free to take out a book and start reading.
+
+<fam><person>Bart</person></fam>: What should I read, ma'am?
+
+Ms. Melon: Anything you want, <fam><person>Bart</person></fam>.
+
+<fam><person>Bart</person></fam>: Oh!
+
+Ms. Melon: A comic book? How did this get mixed in here? We used it last week as a prop in a film we made about illiteracy. <fam><person>Bart</person></fam>, these are the students who will share your work area. This is Ethan Foley.
+
+Ethan: O Memsahib, <fam><person>Bart</person></fam>. Rabbi has memo.
+
+<fam><person>Bart</person></fam>: What?
+
+Ms. Melon: Ethan's very good with palindromes. You know, sentences spelled the same backwards and forwards. And this is Sidney Swift.
+
+Sidney: Trabing norm doog.
+
+<fam><person>Bart</person></fam>: What's your problem?
+
+Ms. Melon: Oh, don't mind Sidney. He's just speaking in backwards phonetics today. He said, ‘Good morning, <fam><person>Bart</person></fam>.’ And this is Cecile Shapiro.
+
+Cecile: Hi, <fam><person>Bart</person></fam>.
+
+<fam><person>Bart</person></fam>: Cool hamsters. What are their names?
+
+Cecile: Hamster Number One has been infected with a staphylococci virus. Hamster Number Two is the control hamster.
+
+<fam><person>Bart</person></fam>: Hi, little control hamster.
+
+Ms. Melon: I wouldn't get too attached, <fam><person>Bart</person></fam>. We're dissecting him next week. Discover your desks, people. Now let's all welcome the newest member of our collective experience, <fam><person>Bart</person></fam> Simpson.
+
+<stage>(kids saying ‘hello’ in various languages)</stage>
+
+Ms. Melon: And now we can continue our debate from yesterday. When we left off, Calvin and Tanya were arguing that free will is an illusion. 
+
+Ian: <stage>(lisping)</stage> If you ask me humankind has freedom, a freedom fraught with paradoxes. Freud shows how childhood shapes our subconscious mind, but this helps us to think for ourselves.
+
+Ms. Melon: Very good, Ian. Does anyone else have an example of a paradox?
+
+Boy: Without law and order, man has no freedom.
+
+Girl: If you want peace you must prepare for w*r.
+
+Ms. Melon: Mm-hmm. Mm-hmm. Well, it seems the smartest child in the class is also the quietest. <fam><person>Bart</person></fam>, what other paradoxes affect our lives?
+
+<fam><person>Bart</person></fam>: Well, you're damned if you do and you're damned if you don't.
+
+Ms. Melon: Well, I guess that would be a paradox too. <stage>(chuckles)</stage> Thank you, <fam><person>Bart</person></fam>.
+
+<fam><person>Bart</person></fam>: Whew!
+
+Boy 2: Tell you what, <fam><person>Bart</person></fam>. I'll trade you the weight of a bowling ball on the eighth moon of <location>Jupiter</location> from my lunch for the weight of a feather on the second moon of <location>Neptune</location> from your lunch.
+
+<fam><person>Bart</person></fam>: Well, okay.
+
+Boy 2: There you go!
+
+<stage>(kids laughing)</stage>
+
+Boy 3: I'll trade you 1,000 picoliters of my milk for 4 gills of yours.
+
+<fam><person>Bart</person></fam>: Well, all right.
+
+Boy 3: Anything you say.
+
+Boy 4: Uh, <fam><person>Bart</person></fam>, would you wager your cupcake against my--
+
+<fam><person>Bart</person></fam>: Save your breath.
+
+Boy 4: What do you think of the new kid?
+
+Boy 5: A rather mediocre genius.
+
+Boy 6: Yes, not very bright at all.
+
+<fam><person>Bart</person></fam>: <stage>(slurping)</stage>
+
+<fam><person>Homer</person></fam>: So, how was it?
+
+<fam><person>Bart</person></fam>: Os-os.
+
+<fam><person>Homer</person></fam>: What?
+
+<fam><person>Bart</person></fam>: That's backwards for so-so.
+
+<fam><person>Homer</person></fam>: Wow. What are you reading there? Comic books? Uh, guess you don't want to overheat the old noggin, eh? Tell you what. To celebrate your first day of genius school, what do you say we go out for a round of frosty chocolate milkshakes?
+
+<fam><person>Bart</person></fam>: All righty!
+
+<fam><person>Marge</person></fam>: <fam><person>Bart</person></fam>, I feel so bad for going so many years without... Mmm, hmm-- What's that word where you encourage something to grow?
+
+<fam><person>Bart</person></fam> &amp; <fam><person>Homer</person></fam>: 
+
+<fam><person>Lisa</person></fam>: Nurturing.
+
+<fam><person>Marge</person></fam>: Nurturing your brilliant brain, so I got tickets to the opera tonight. Hurry up. Get dressed. It starts at 8:00.
+
+<fam><person>Bart</person></fam>: Oh, Mom. Not tonight.
+
+<fam><person>Homer</person></fam>: Come on, <fam><person>Bart</person></fam>, your mother's only tying to help, so go ahead and enjoy the show.
+
+<fam><person>Marge</person></fam>: <fam><person>Homer</person></fam>, you're going too.
+
+<fam><person>Homer</person></fam>: But I'm not a genius. Why should I suffer?
+
+<music>♪♪ <stage>(orchestral)</stage></music>
+
+<fam><person>Homer</person></fam>: Hey, <fam>Lis</fam>, keep an eye out for the guy with the peanuts.
+
+<fam><person>Marge</person></fam>: There's no guy with peanuts, dear.
+
+<fam><person>Homer</person></fam>: Jeez. No beer. No opera dogs.
+
+<fam><person>Marge</person></fam>: Shh!
+
+<music>♪♪ <stage>(‘March of the Toreadors’)</stage></music>
+
+<fam><person>Bart</person></fam>: <music>♪ Toreador, oh, don't spit on the floor ♪</music>
+
+<music>♪ Please use the cuspidor ♪</music>
+
+<music>♪ That's what it's for ♪</music>
+
+<fam><person>Bart</person></fam> &amp; <fam><person>Homer</person></fam>: <stage>(laughing)</stage>
+
+<fam><person>Marge</person></fam>: <fam><person>Bart</person></fam>, stop fooling around. <fam><person>Homer</person></fam>, stop encouraging him.
+
+<fam><person>Homer</person></fam>: Don't stifle the boy, <fam><person>Marge</person></fam>. We're supposed to encourage him.
+
+<fam><person>Marge</person></fam>: Shush!
+
+<music>♪♪ <stage>(singing in French)</stage></music>
+
+<fam><person>Homer</person></fam>: <stage>(snoring)</stage>
+
+<fam><person>Bart</person></fam>: <stage>(whistling)</stage>
+
+<fam><person>Bart</person></fam> &amp; <fam><person>Homer</person></fam>: <stage>(both laughing)</stage>
+
+<fam><person>Marge</person></fam>: Shh!
+
+<music>♪♪ <stage>(singing in French)</stage></music>
+
+<fam><person>Homer</person></fam>: Who's the lard butt?
+
+<fam><person>Lisa</person></fam>: He's the bullfighter.
+
+<fam><person>Bart</person></fam>: No way a bull's gonna miss a target that big, man.
+
+<fam><person>Bart</person></fam>, <fam><person>Homer</person></fam>, &amp; <fam><person>Lisa</person></fam>: <stage>(laughing)</stage>
+
+<stage>(singing continues)</stage>
+
+<fam><person>Bart</person></fam>, <fam><person>Homer</person></fam>, &amp; <fam><person>Lisa</person></fam>: <stage>(laughing)</stage>
+
+<music>♪♪ <stage>(singing in French)</stage></music>
+
+<fam><person>Homer</person></fam>: <stage>(making farting noises)</stage>
+
+<fam><person>Bart</person></fam>: <stage>(making farting sound)</stage>
+
+<fam><person>Bart</person></fam>, <fam><person>Homer</person></fam>, &amp; <fam><person>Lisa</person></fam>: <stage>(laughing)</stage>
+
+Martin’s Dad: Who are those people?
+
+<fam><person>Homer</person></fam>: P.U. When is this over?
+
+<fam><person>Bart</person></fam>: It ain't over till the fat lady sings.
+
+<fam><person>Homer</person></fam>: Is that one fat enough for you, son?
+
+<music>♪♪ <stage>(high note)</stage></music>
+
+<fam><person>Bart</person></fam>, <fam><person>Homer</person></fam>, &amp; <fam><person>Lisa</person></fam>: <stage>(laughing)</stage>
+
+<fam><person>Homer</person></fam>: Let's go get a burger.
+
+Ms. Melon: So, ‘ Y’ equals ‘R’ cubed over three. And if you determine the rate of change in this curve correctly, I think you will be pleasantly surprised.
+
+<stage>(all laughing)</stage>
+
+Ms. Melon: Don't you get it, <fam><person>Bart</person></fam>? Derivative D-Y equals three R squared, D R over three, or R squared D R, or R D R R. Har-dee-har-har. Get it?
+
+<fam><person>Bart</person></fam>: Oh, yeah. <stage>(nervous laugh)</stage> Hi, guys. Great to see ya.
+
+<person>Milhouse</person>: Get lost, Poindexter.
+
+Boy: Yeah, b*at it, Professor.
+
+Boy 2: Why don't you go build a rocket ship, brainiac?
+
+<fam><person>Bart</person></fam>: <stage>(groans)</stage>
+
+<fam><person>Marge</person></fam>: Well, come on, you two. Don't forget about the film festival.
+
+<fam><person>Bart</person></fam>: The what?
+
+<fam><person>Homer</person></fam>: Oh, sorry, <fam><person>Bart</person></fam>. Your mother bought us tickets to a snooty movie directed by some Swedish meatball.
+
+<fam><person>Bart</person></fam>: Oh, no.
+
+<fam><person>Homer</person></fam>: Well, I guess we don't have to do that.
+
+<fam><person>Bart</person></fam>: Um, look, Dad. I got something to tell you.
+
+<fam><person>Homer</person></fam>: Can it wait, son? It's getting kinda dark.
+
+<fam><person>Bart</person></fam>: All right, <fam><person>Homer</person></fam>. Come on, baby. Right across the plate. Let me feel the wind.
+
+<fam><person>Homer</person></fam>: <stage>(grunts)</stage>
+
+<fam><person>Bart</person></fam>: Whoa! Strike two! Two and two.
+
+<fam><person>Homer</person></fam>: Can you still see the ball, <fam><person>Bart</person></fam>?
+
+<fam><person>Bart</person></fam>: Don't worry, Home boy. You're not that fast.
+
+<fam><person>Homer</person></fam>: Oh, you don't think so, eh? Well, here comes some real heat. <stage>(grunts)</stage>
+
+<fam><person>Bart</person></fam>: Whoa! Yeah, strike three! You're outta there!
+
+<fam><person>Homer</person></fam>: So, what was it you wanted to tell me, son?
+
+<fam><person>Bart</person></fam>: Oh, nothing, Pop.
+
+Ms. Melon: I'm still trying to get you a lab partner, <fam><person>Bart</person></fam>. If we don't get any volunteers soon, I'll assign somebody. Say, what's that? It looks dangerous.
+
+<fam><person>Bart</person></fam>: Well, it's really pretty top secret, ma'am.
+
+Ms. Melon: All right, keep going. But you do know what happens when you mix acids and bases, right?
+
+<fam><person>Bart</person></fam>: 'Course I do.
+
+<stage>(expl*si*n)</stage>
+
+<fam><person>Bart</person></fam>: Sorry.
+
+<stage>(glass breaks)</stage>
+
+Dr. Pryor: Now, <fam><person>Bart</person></fam>, we want to emphasize that nobody's angry about this. We're-- We're just concerned. When a young man with a 216 IQ can't make a simple experiment work, well, it doesn't take a <fam><person>Bart</person></fam> Simpson to figure out that something's wrong. Tell me. Is the class moving too slowly for you?
+
+<fam><person>Bart</person></fam>: Lord, no.
+
+Dr. Pryor: Well, then, what can we do to make you happy?
+
+<fam><person>Bart</person></fam>: I wanna go back to my old class.
+
+Dr. Pryor: Oh, but, <fam><person>Bart</person></fam>, don't you remember the boredom, the ennui, the intellectual malaise?
+
+<fam><person>Bart</person></fam>: Yeah, well, you know, kinda, um, but I was thinking I could go undercover.
+
+Dr. Pryor: Undercover? <fam><person>Bart</person></fam>, I'm intrigued. Go on.
+
+<fam><person>Bart</person></fam>: Well, I could pretend I'm a regular dumb kid. You know, to study them and all the stuff they do with each other. You know, see what makes them tick.
+
+Dr. Pryor: I see. Like Jane Goodall and the chimps.
+
+<fam><person>Bart</person></fam>: Yeah.
+
+Dr. Pryor: Uh-huh. This is most impressive, <fam><person>Bart</person></fam>. You write up your proposal while I talk to Principal <person>Skinner</person>.
+
+<fam><person>Bart</person></fam>: Proposal?
+
+Dr. Pryor: You know, outline your project, what you hope to achieve, what you'll require to do it.
+
+<fam><person>Bart</person></fam>: Gotcha, man.
+
+<person>Bart</person>’s Voice: ‘My proposal' by <fam><person>Bart</person></fam> Simpson. I want to pretend... I am a regular dumb kid. Period. By this, I hope-- Oh, no. For this, I will-- Ohh. Require-- Ohh.
+
+<fam><person>Bart</person></fam>: Oh, man.
+
+<person>Bart</person>’s Voice: ‘My Confession’ by <fam><person>Bart</person></fam> Simpson. I am a regular dumb kid. Period. I cheated on my intelligence test. Period.
+
+Dr. Pryor: Ah, finished already? <stage>(chuckles)</stage> Principal <person>Skinner</person> will be very interested to-- Oh. You know, you misspelled ‘confession.’
+
+<fam><person>Lisa</person></fam>: Hey, lookin' good, <fam><person>Bart</person></fam>.
+
+<fam><person>Marge</person></fam>: <fam><person>Bart</person></fam>, what happened?
+
+<fam><person>Bart</person></fam>: I had a little accident in chemistry today.
+
+<fam><person>Homer</person></fam>: Well, I bet it's nothing a little turpentine won't take off. Come on, son. Don't be discouraged, son. I bet Einstein turned himself all sorts of colors before he invented the lightbulb.
+
+<fam><person>Bart</person></fam>: Dad, I gotta tell you something. Hope you won't be too mad.
+
+<fam><person>Homer</person></fam>: What is it, son?
+
+<fam><person>Bart</person></fam>: I'm not a genius, Dad.
+
+<fam><person>Homer</person></fam>: What?
+
+<fam><person>Bart</person></fam>: I cheated on the intelligence test. I'm sorry. But l just want to say that the past few weeks have been great. Me and you have done stuff together. You've helped me out with things, and we're closer than we've ever been. I love you, Dad. And I think if something can bring us that close, it can't possibly be bad.
+
+<fam><person>Homer</person></fam>: Why, you little--
+
+<fam><person>Bart</person></fam>: Uh-oh. 
+
+<stage>(<fam><person>Bart</person></fam> screaming)</stage>
+
+<fam><person>Marge</person></fam>: What's going on out there?
+
+<fam><person>Lisa</person></fam>: I think <fam><person>Bart</person></fam>'s stupid again, Mom.
+
+<fam><person>Marge</person></fam>: Oh, well.
+
+<stage>(<fam><person>Bart</person></fam> screaming)</stage>
+
+<fam><person>Homer</person></fam>: You can't stay in there forever!
+
+<fam><person>Bart</person></fam>: I can try.
+
+<fam><person>Homer</person></fam>: March your butt right out here, now!
+
+<fam><person>Bart</person></fam>: No way, man.
+
+<fam><person>Homer</person></fam>: But-- Son, if you don't come out, I can't hug you and kiss you and make you feel all better.
+
+<fam><person>Bart</person></fam>: You think I'm dumb enough to fall for that? I'm insulted.
+
+<fam><person>Homer</person></fam>: <stage>(shouting gibberish)</stage>
+
+<stage>(pounding)</stage>
+
+Corrected &amp; submitted by Derek
+
+
+</txt></xml>

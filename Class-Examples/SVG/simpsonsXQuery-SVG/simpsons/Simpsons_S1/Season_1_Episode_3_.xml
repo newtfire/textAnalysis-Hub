@@ -1,0 +1,487 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt><metadata><ep><epTitle><fam><person>Homer</person></fam>'s <location>Odyssey</location></epTitle><szn>01</szn>x<epNum>03</epNum></ep><date>05/17/98</date> <runtime>17:56</runtime></metadata>
+
+<stage>(chattering)</stage>
+
+<person>Mrs. Krabappel</person>: Now class, I don’t want this field trip to be a repeat of our infamous visit to <location>the Springfield State Prison</location>. So, I want you all to be on your best behavior, especially you, <fam><person>Bart</person></fam> Simpson.
+
+<fam><person>Bart</person></fam>: <person>Mrs. Krabappel</person>, I didn’t unlock that door.
+
+<stage>(tires screech)</stage>
+
+Otto: Uh, sorry, little dudes. <location>Party</location> hardy was tardy.
+
+<person>Mrs. Krabappel</person>: All right, children. Count off.
+
+Students: One, two, three.
+
+<fam><person>Bart</person></fam>: Hey, Otto. Hey, Ottoman.
+
+Otto: Hey, <fam><person>Bart</person></fam> dude.
+
+<fam><person>Bart</person></fam>: Any new tattoos, Otto?
+
+Otto: Oh, funny you should ask, man. This morning I woke up with this one.
+
+<fam><person>Bart</person></fam>: Cool. I want one.
+
+Otto: Huh. Not till you’re 14, my little friend.
+
+<person>Mrs. Krabappel</person>: <fam><person>Bart</person></fam>! <fam><person>Bart</person></fam> Simpson! Take your seat, <fam><person>Bart</person></fam>.
+
+<fam><person>Bart</person></fam>: Oh, please, <person>Mrs. Krabappel</person>, not next to <person>Wendell</person>. He pukes on every bus ride. No offense, <person>Wendell</person>.
+
+<person>Wendell</person>: Oh.
+
+<person>Mrs. Krabappel</person>: Be that as it may, it’s the only seat left, so get in there!
+
+<stage>(laughing)</stage>
+
+<person>Wendell</person>: Please try not to shake the seat like that.
+
+<person>Mrs. Krabappel</person>: Now, class, remember. Do not stick any part of your body out the window. We all know the tragic story of the young man who stuck his arm out the window and had it ripped off by a big truck coming in the other direction.
+
+<fam><person>Bart</person></fam>: And I was that boy.
+
+<stage>(laughter)</stage>
+
+<person>Mrs. Krabappel</person>: Uh, <fam><person>Bart</person></fam> Simpson, sit down! I’ve had just about enough of your tomfoolery.
+
+<person>Wendell</person>: Oh, I don’t feel so hot.
+
+<stage>(chattering)</stage>
+
+Kid: Look, there’s our school again.
+
+<person>Mrs. Krabappel</person>: Otto, are you sure you—
+
+Otto: It’s a shortcut, Mrs. K. Trust me.
+
+<fam><person>Bart</person></fam>: <person>Mrs. Krabappel</person>! <person>Mrs. Krabappel</person>!
+
+<person>Mrs. Krabappel</person>: <fam><person>Bart</person></fam>, not another word out of you, or I’ll subject you to the humiliation of making you sing in front of the class.
+
+<fam><person>Bart</person></fam>: Can I pick the song?
+
+<person>Mrs. Krabappel</person>: No. The song will be “John Henry Was a Steel Drivin
+
+<fam><person>Bart</person></fam>: Oh, no.
+
+Sherri: We’re gonna make you sing, <fam><person>Bart</person></fam> Simpson.
+
+Terri: Yeah, <fam><person>Bart</person></fam> Simpson, we’re gonna make you sing.
+
+<fam><person>Bart</person></fam>: <stage>(screams)</stage>
+
+<person>Mrs. Krabappel</person>: That’s it, <fam><person>Bart</person></fam>. Oh, why can’t you be more like, uh, uh—
+
+Sherri &amp; Terri: Us, <person>Mrs. Krabappel</person>?
+
+<person>Mrs. Krabappel</person>: Yes, Sherri and Terri. They know how to behave.
+
+<fam><person>Bart</person></fam>: Da, da, da, da, da, da. Whoa!
+
+<music>♪ They took <fam><person>Bart</person></fam> Simpson to the graveyard ♪</music>
+
+<music>♪ And they buried him in the sand ♪</music>
+
+<music>♪ Oh, yeah, and every locomotive that comes rollin’ by ♪</music>
+
+<person>Mrs. Krabappel</person>: <fam><person>Bart</person></fam>. <fam><person>Bart</person></fam>!
+
+<fam><person>Bart</person></fam>: <music>♪ Says there lies a steel-drivin’ man ♪</music>
+
+<person>Mrs. Krabappel</person>: Okay, <fam><person>Bart</person></fam>. Enough!
+
+<fam><person>Bart</person></fam>: Hey, <person>Wendell</person>, you made it, buddy.
+
+<stage>(vomiting, children groaning)</stage>
+
+<person>Smithers</person>: And so, this plant harnesses the power of the atom so that we have the energy to run everything from your favorite video game to yummy cotton candy machines. <stage>(chuckles)</stage> Let’s learn more about nuclear energy, shall we? Lights.
+
+Narrator: When most people think of nuclear energy, they think of this.
+
+<stage>(children yelling)</stage>
+
+Narrator: But when we talk about nuclear energy, we really mean this. But what exactly is nuclear energy? I don’t know, but I know someone who does. Smilin’ Joe Fission.
+
+Joe Fission: Hi, there, energy eaters. I’m Smilin’ Joe Fission, your atomic tour guide… to the strange and exciting world of nuclear power. And these are rods of uranium 235. Hi, Rod.
+
+Together: Hi. Hey. Good to see ya.
+
+Joe Fission: Hey, you guys look hot.
+
+Rods: Of course we’re hot. We’re radioactive.
+
+Joe Fission: Uh-oh. Well, how ‘bout a dip in the pool?
+
+Together: Yeah! Last one in’s the rotten rod!
+
+Joe Fission: The rods make the water so hot it boils.
+
+Rods: Ow! Ouch! Ow!
+
+Joe Fission: And the steam spins turbines that generate energy.
+
+<person>Mrs. Krabappel</person>: <fam><person>Bart</person></fam>, sit down.
+
+Joe Fission: Uh-oh. Whoops. Looks like there’s a little leftover nuclear waste. No problem. I’ll just put it where nobody’ll find it for a million years.
+
+<stage>(sinister laugh)</stage>
+
+Joe Fission: So, now you know the whole true story of nuclear energy, our no longer misunderstood friend. So, keep on smilin’.
+
+<stage>(cheering, applauding)</stage>
+
+<person>Smithers</person>: Now, let’s have even more fun. And uh, over here is our thermal regulator. To your right, if you look through this window, you’ll see where our water rejoins the rest of nature’s biosphere.
+
+Sherri: Hey, <fam><person>Bart</person></fam>, our dad says your dad is incompetent.
+
+<fam><person>Bart</person></fam>: What does incompetent mean?
+
+Terri: It means he spends more time yakking and scarfing down doughnuts than doing his job.
+
+<fam><person>Bart</person></fam>: Oh, okay. I thought you were putting him down.
+
+<fam><person>Homer</person></fam>: You know, I defy anyone to tell the difference between these doughnuts and ones baked today. My boy’s suppose to be here any second on a field trip. They been through here yet?
+
+Plant Worker: Come on, Simpson. If they wanted the kids to see you sitting around on your butt and stuffin’ your face, they’d take them on a tour of your house.
+
+<fam><person>Homer</person></fam>: You’re right. I gotta get where the action is. Comin’ through!
+
+<fam><person>Bart</person></fam>: Hey, there’s my dad. Hey, Dad! Yo, <fam><person>Homer</person></fam>! Woo! Woo! I’m up here!
+
+<fam><person>Homer</person></fam>: Oh, hi, boy!
+
+<stage>(siren blaring)</stage>
+
+Sherri/Terri’s Dad: All right. Who’s responsible for this?
+
+<fam><person>Homer</person></fam>: <stage>(gulps)</stage>
+
+Sherri/Terri’s Dad: I might have known it was you, Simpson.
+
+<fam><person>Homer</person></fam>: But, sir, I—
+
+Sherri/Terri’s Dad: I don’t want to hear about it, Simpson. You’re fired! Oh, hi, girls.
+
+Sherri &amp; Terri: Hi, Daddy.
+
+<fam><person>Bart</person></fam>: <stage>(groaning)</stage>
+
+<fam><person>Lisa</person></fam>: Here’s a good job at the fireworks factory.
+
+<fam><person>Homer</person></fam>: Those perfectionists? Forget it.
+
+<fam><person>Lisa</person></fam>: How ‘bout this? Supervising technician at the toxic waste dump.
+
+<fam><person>Homer</person></fam>: I’m no supervising technician. I’m a technical supervisor. I’ve never done anything worthwhile in my life. I’m a big, worthless nothing.
+
+<fam><person>Marge</person></fam>: There, there, <fam><person>Homer</person></fam>. You’ll find a job. You’ve caused plenty of industrial accidents, and you’ve always bounced back.
+
+<fam><person>Lisa</person></fam>: Yeah, Dad, you can do it!
+
+<fam><person>Bart</person></fam>: Yeah, go for it, Dad.
+
+<fam><person>Homer</person></fam>: You’re right! I’m young, I’m able-bodied, and I’ll take anything! Watch out, <location>Springfield</location>. Here I come.
+
+<fam><person>Bart</person></fam>: Don’t give up, Dad.
+
+<fam><person>Homer</person></fam>: I’m just a technical supervisor who cared too much.
+
+<person>Moe</person>: <person>Moe</person>’s Tavern.
+
+<fam><person>Bart</person></fam>: Is Mr. Freely there?
+
+<person>Moe</person>: Who?
+
+<fam><person>Bart</person></fam>: Freely. First initials
+
+<person>Moe</person>: Hold on. I’ll check. Uh, is I. P. Freely here? Hey, everybody! I. P. Freely! Wait a minute. Listen to me, ya lousy bum.
+
+<stage>(<fam><person>Bart</person></fam> laughing)</stage>
+
+<person>Moe</person>: When I get a hold of you, you’re d*ad. I swear I’m gonna slice your heart in half.
+
+<stage>(<fam><person>Bart</person></fam> &amp; <fam><person>Lisa</person></fam> laughing)</stage>
+
+<fam><person>Homer</person></fam>: You’ll get that punk someday, <person>Moe</person>.
+
+<person>Moe</person>: Ah, I don’t know. He’s tough to catch. He keeps changing his name.
+
+<fam><person>Homer</person></fam>: Oh, I think I’ll have another— Oops. Oh, I’m a little low on funds. Do you think you can cover me just this once?
+
+<person>Moe</person>: No, sorry.
+
+<fam><person>Homer</person></fam>: W-Why not? I think after all these years I deserve an explanation.
+
+<person>Moe</person>: I don’t think you’re ever gonna get another job and be able to pay me back.
+
+<fam><person>Homer</person></fam>: Oh.
+
+<person>Moe</person>: Don’t worry. We’re still friends.
+
+<music>♪ I fall to pieces ♪ ♪</music>
+
+<fam><person>Homer</person></fam>: <stage>(mumbling)</stage>
+
+<fam><person>Marge</person></fam>: Are you all right, <fam><person>Homer</person></fam>?
+
+<fam><person>Homer</person></fam>: I’m fine. I’m just thinking.
+
+<fam><person>Marge</person></fam>: Well, I’ve been thinking too. You know, <fam><person>Homer</person></fam>, you’ve always been such a good provider, but when we got married, Mr. Berger promised I could come back to my old job anytime I wanted.
+
+<fam><person>Homer</person></fam>: You think you can still do that kind of work?
+
+<fam><person>Marge</person></fam>: Sure. You never forget. It’s just like riding a bicycle.
+
+<stage>(horn honks)</stage>
+
+Otto: Hey, Mama, where’s my fries already?
+
+<fam><person>Marge</person></fam>: <stage>(growling)</stage>
+
+<stage>(horn honking)</stage>
+
+<fam><person>Lisa</person></fam>: Dad, eat something. It’s got mustard on it.
+
+<fam><person>Bart</person></fam>: All he does is lie there like an unemployed whale.
+
+<fam><person>Lisa</person></fam>: I don’t know what else to do.
+
+<fam><person>Bart</person></fam>: There’s only one thing we can do: take advantage of the old guy. You gotta sign my report card, Dad.
+
+<stage>(yelling on TV)</stage>
+
+Announcer: Loaftime, the cable network for the unemployed. We’ll be back with more tips on how to win the lottery right after this.
+
+Announcer 2: Unemployed? Out of work? Sober? You sat around the house all day, but now it’s Duff time. Duff, the beer that makes the days fly by.
+
+<music>♪ Can’t get enough of that wonderful Duff ♪</music>
+
+<music>♪ Duff beer ♪</music>
+
+<fam><person>Homer</person></fam>: Beer. Now there’s a temporary solution. There must be some beer here somewhere. Ah. Maybe in here. Damn! I need money!
+
+<fam><person>Bart</person></fam>: <stage>(moaning)</stage> <stage>(snorting)</stage>
+
+<fam><person>Homer</person></fam>: Oh, no. What have I done? I smashed open my little boy’s piggy bank, and for what? A few measly cents. Not even enough to buy one beer. Wait a minute. Let me count and make sure. Not even close.
+
+<fam><person>Homer</person></fam>: <stage>(thinking)</stage> Dear family. I am an utter failure, and you’ll be better off without me. By the time you read this, I will be in my watery grave. I can only leave you with the words my father gave me: “Stand tall, have courage and never giv I only hope I can provide a better model… in death than I did in life. Warmest regards. Love, <fam><person>Homer</person></fam> J. Simpson.
+
+<fam><person>Homer</person></fam>: <stage>(grunting)</stage>
+
+<stage>(squeaking)</stage>
+
+<fam><person>Homer</person></fam>: <stage>(grunting continues)</stage> <stage>(sniffles)</stage> Nothing’s easy.
+
+Old woman: Oh, looks like young Simpson is going to k*ll himself.
+
+Old man: Well, maybe not. Maybe he’s just taking his boulder for a walk. <stage>(laughing)</stage>
+
+Old woman: Oh. <stage>(laughing)</stage>
+
+<fam><person>Bart</person></fam>: Mom! Mom! Wake up!
+
+<fam><person>Lisa</person></fam>: We’ve been robbed!
+
+<fam><person>Marge</person></fam>: What?
+
+<fam><person>Bart</person></fam>: Someone swiped my piggy bank!
+
+<fam><person>Marge</person></fam>: <stage>(gasps)</stage> Your father’s gone too!
+
+<fam><person>Lisa</person></fam>: Look what I found.
+
+<fam><person>Marge</person></fam>: <stage>(gasps)</stage>
+
+<fam><person>Homer</person></fam>: <stage>(grunting continues)</stage> Almost there.
+
+<stage>(horn honking)</stage>
+
+<fam><person>Homer</person></fam>: Hey, you idiot! Watch where you’re going! Well, live and learn.
+
+<fam><person>Marge</person></fam>: There he is!
+
+<fam><person>Bart</person></fam>: Don’t do it, Dad!
+
+<fam><person>Homer</person></fam>: Boy, this intersection is dangerous. Someone ought to put a stop sign here.
+
+<fam><person>Marge</person></fam>: <stage>(gasps)</stage> Oh, <fam><person>Homer</person></fam>. How could you think of k*ll yourself? We love you.
+
+<fam><person>Lisa</person></fam>: Yeah, Dad. We love you.
+
+<fam><person>Bart</person></fam>: Yeah.
+
+<fam><person>Homer</person></fam>: k*ll myself? k*ll myself is the last thing I’d ever do. Now I have a purpose, a reason to live. I don’t care who I have to face. I don’t care who I have to fight. I will not rest until this street gets a stop sign!
+
+Council man: Next on the agenda. Police Chief <person>Wiggum</person> will give us an update on our graffiti problem.
+
+<person>Wiggum</person>: Well, it’s no secret our city is under siege by a graffiti vandal known as  Police artists have a composite sketch of the culprit. If anyone has any information, please contact us immediately.
+
+<fam><person>Bart</person></fam>: Cool, man.
+
+Old man: Tough customer.
+
+<fam><person>Homer</person></fam>: Ooh, wouldn’t want to run into him in a dark alley.
+
+Council man: And now, new business. <fam><person>Homer</person></fam> Simpson, local resident, has something. Mr. Simpson?
+
+<fam><person>Marge</person></fam>: Don’t be nervous. We believe in you, <fam><person>Homer</person></fam>.
+
+<fam><person>Homer</person></fam>: <stage>(clears throat)</stage> Ladies and gentlemen, esteemed councilmen, boys and girls, retired people with nothing better to do. Danger comes in many, many forms, from the dinosaurs that tormented our caveman ancestors to the—
+
+Council man: Simpson, get to the point.
+
+<fam><person>Homer</person></fam>: I think we should put a stop sign at Street and 12th. The oth
+
+Council man: All in favor?
+
+Councilmen: Aye.
+
+Council man: Approved. Meeting adjourned. Coffee and maple logs in the lobby.
+
+<fam><person>Homer</person></fam>: Wow. They listened to me.
+
+<fam><person>Lisa</person></fam>: All right, Dad!
+
+<fam><person>Bart</person></fam>: Way to go, <fam><person>Homer</person></fam>.
+
+<fam><person>Marge</person></fam>: You did it, <fam><person>Homer</person></fam>.
+
+<fam><person>Homer</person></fam>: If they think I’m gonna stop at that stop sign, they’re sadly mistaken.
+
+<stage>(camera shutter flashes)</stage>
+
+<fam><person>Marge</person></fam>: Oh, <fam><person>Homer</person></fam>, I am so proud of you.
+
+<fam><person>Homer</person></fam>: Proud? Proud of what?
+
+<fam><person>Marge</person></fam>: Well, everything. Your dip sign, for instance. Now people won’t be caught off guard by that little in the road.
+
+<fam><person>Homer</person></fam>: Ah, what a great family, but come on. We all know this is small potatoes. There’s a danger in this town that is bigger than all the dips put together.
+
+<fam><person>Lisa</person></fam>: What, Dad?
+
+<fam><person>Homer</person></fam>: I’m talking about that.
+
+<fam><person>Marge</person></fam>: You don’t mean you’re going to take on your old bosses.
+
+<fam><person>Lisa</person></fam>: Wow.
+
+<fam><person>Bart</person></fam>: Gee, Dad’s a hero.
+
+<fam><person>Homer</person></fam>: What’d ya say, son?
+
+<fam><person>Bart</person></fam>: Nothin’.
+
+<fam><person>Homer</person></fam>: That’s okay. I’ll just assume you said what I thought I heard you say.
+
+<stage>(cheering, yelling)</stage>
+
+Man: He also brought you the speed bump-
+
+<stage>(cheering)</stage>
+
+Man: The dip sign, the 15 miles per hour speed limit on <location>Main Street</location>.
+
+<stage>(booing)</stage>
+
+Man: I give you the man whose very name is synonymous with safety. <fam><person>Homer</person></fam> Simpson!
+
+Crowd: <stage>(cheering)</stage> <fam><person>Homer</person></fam>! <fam><person>Homer</person></fam>!
+
+<fam><person>Homer</person></fam>: Thank you. Unlike most of you, I am not a nut. Just a good, honest American who opposes wrongdoing… and especially carelessness wherever they occur.
+
+Mr. <person>Burns</person>: <stage>(groans)</stage> Look at that man. He has the crowd in the palm of his hand. Ah, I haven’t seen anything like it since Jolson. Who is he?
+
+<person>Smithers</person>: That’s <fam><person>Homer</person></fam> Simpson, sir. He used to work here in the plant, but we fired him for gross incompetence.
+
+Mr. <person>Burns</person>: Oh, so that’s his little game. Get this Simpson character up here right now.
+
+<person>Smithers</person>: But Mr. <person>Burns</person>—
+
+Mr. <person>Burns</person>: I said do it! Now do it! Do it! Do it!
+
+<fam><person>Homer</person></fam>: Our lives are at the hands of men no smarter than you or I, many of them, incompetent boobs. I know this because I worked alongside them, gone bowling with them, watched them pass me over for promotions time and again. And I say, this stinks!
+
+<stage>(cheering)</stage>
+
+<person>Smithers</person>: Hey. Hey, Simpson, <person>Burns</person> wants to talk to you privately.
+
+<fam><person>Homer</person></fam>: Privately?
+
+<person>Smithers</person>: Yes.
+
+<fam><person>Homer</person></fam>: Stay here. I’ll be right back.
+
+<stage>(cheering)</stage>
+
+Mr. <person>Burns</person>: Ah, <fam><person>Homer</person></fam> Simpson, at last we meet.
+
+<fam><person>Homer</person></fam>: Same here.
+
+Mr. <person>Burns</person>: Simpson, I want you to rejoin our power plant family.
+
+<fam><person>Homer</person></fam>: Sorry. No can do.
+
+Mr. <person>Burns</person>: Hear me out, Simpson! I don’t want you to come back as a technical supervisor or supervising technician or whatever the hell you used to do. I want you to be in charge of safety here at the plant.
+
+<fam><person>Homer</person></fam>: Safety? But, sir, if truth be known, I actually caused more accidents around here than any other employee. There were even a few doozies no one ever found out about.
+
+Mr. <person>Burns</person>: The generous offer I’m making is good for exactly… 30 seconds, Simpson.
+
+<fam><person>Homer</person></fam>: <stage>(thinking)</stage> Me, in charge of safety? This place could blow sky high. Nah. I’ll concentrate on my work now. Gee, this guy’s desk sure is big. I can’t let <fam><person>Marge</person></fam> support the family. This guy’s got the cleanest shirt I’ve ever seen. What should I—
+
+Mr. <person>Burns</person>: Simpson, time’s up.
+
+<fam><person>Homer</person></fam>: Mmm, what the hey. I’ll take the job.
+
+Mr. <person>Burns</person>: Excellent. Your first duty will be to step out on the balcony and tell that crowd this plant is safe.
+
+<fam><person>Homer</person></fam>: What?
+
+Mr. <person>Burns</person>: Go on, <fam><person>Homer</person></fam>.
+
+Crowd: <fam><person>Homer</person></fam>! <fam><person>Homer</person></fam>! <fam><person>Homer</person></fam>! <fam><person>Homer</person></fam>! <fam><person>Homer</person></fam>! <stage>(cheering, applauding)</stage>
+
+<fam><person>Marge</person></fam>: Yeah, <fam><person>Homer</person></fam>!
+
+<fam><person>Lisa</person></fam>: Go, Dad!
+
+<fam><person>Homer</person></fam>: Ladies and gentlemen, this plant is— Oh, sit tight. I’ll be right back.
+
+<stage>(cheering)</stage>
+
+<fam><person>Homer</person></fam>: I can’t do it, Mr. <person>Burns</person>.
+
+Mr. <person>Burns</person>: You mean, you’re willing to give up a good job and a raise just for your principles?
+
+<fam><person>Homer</person></fam>: Mmm. When you put it that way, it does sound a little farfetched, but that’s the lug you’re lookin’ at! And I vow to continue spending every free minute I have… crusading for safety! Of course, I’d have a lot less of those free minutes if you gave me the job.
+
+Mr. <person>Burns</person>: Mmm. You’re not as stupid as you look or sound… or our best testing indicates. You’ve got the job. Now get to work!
+
+<fam><person>Homer</person></fam>: I’ll get to work, but first I have to say good-bye to some friends.
+
+<stage>(door sliding open)</stage>
+
+<stage>(cheering)</stage>
+
+<fam><person>Homer</person></fam>: Friends, you have come to depend on me as your safety watchdog so you won’t scrape yourself or stub your toes or blow yourselves up. But you can’t depend on me all your life. You have to learn that there’s a little <fam><person>Homer</person></fam> Simpson in all of us, and I’m going to have to live without your respect and awe. The only reason I’m telling you this is… I’m going to be leaving you.
+
+<stage>(gasps)</stage>
+
+<fam><person>Homer</person></fam>: But don’t worry. I have just been appointed the new safety inspector at this very plant… with a big, fat raise!
+
+<stage>(cheering)</stage>
+
+<fam><person>Bart</person></fam>: Hey, that’s my pop up there! Dad, watch out!
+
+<fam><person>Homer</person></fam>: <stage>(screaming)</stage> Whoa, easy! Don’t drop me. Be careful.
+
+Crowd: <fam><person>Homer</person></fam>! <fam><person>Homer</person></fam>! <fam><person>Homer</person></fam>!
+
+Submitted &amp; Corrected by Derek
+
+
+</txt></xml>

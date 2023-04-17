@@ -1,0 +1,458 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt>
+
+<metadata><ep><epTitle>Some Enchanted Evening</epTitle><szn>01</szn>x<epNum>13</epNum></ep>
+<stage>FADE IN</stage></metadata>
+
+An outside sh*t of the Simpsons house.
+
+Inside, the whole family is gathered at the table, eating breakfast.
+
+<stage>FEMALE RADIO ANNOUNCER</stage>And now to our own pie in the sky -- Bill Pie in the KBBL traffic copter. So come on in, Bill.
+
+<stage>BILL</stage>Bad news, drivers. There's an overturned melon truck on the interstate. Oh, it's a mess. There's lots of rubbernecking and melon wrestling going on, so expect delays---
+
+<fam><person>Homer</person></fam> grabs a carton of milk, revealing a box of donuts on the table.
+
+<stage><person>BART</person></stage>Hey, donuts!
+
+<fam><person>Bart</person></fam> grabs the box.
+
+<stage><person>LISA</person></stage><fam><person>Bart</person></fam>, there's one left, and it's mine.
+
+They rip at the box until it rips in two. The donut flies into the air, bonks <fam><person>Homer</person></fam> on the head, and falls into his plate.
+
+<stage><person>HOMER</person></stage>Ooh.
+
+He picks it up and eats it.
+
+<stage><person>BART</person></stage>Aw, <fam><person>Homer</person></fam>!
+
+<stage><person>LISA</person></stage>Aw, Dad!
+
+A horn honks outside.
+
+<stage><person>LISA</person></stage>Uh-oh, school bus.
+
+<stage><person>BART</person></stage>Hey, cool your jets, man. We're coming.
+
+<stage><person>MARGE</person></stage>You forgot the special lunches I made.
+
+<stage><person>BART</person></stage>That's okay, Mom!
+
+<stage><person>LISA</person></stage>We got money!
+
+The two steal some cash from <fam><person>Marge</person></fam>'s purse.
+
+<stage><person>MARGE</person></stage>Now just a darn--
+
+She is cut off as <fam><person>Homer</person></fam> looks at his watch and lets out a piercing scream.
+
+<stage><person>HOMER</person></stage>Aaah!
+
+<fam><person>Homer</person></fam> fixes his tie, steals <fam><person>Marge</person></fam>'s coffee and drinks it, and leaves the home. <fam><person>Marge</person></fam> is left alone in the kitchen with only <fam><person>Maggie</person></fam> to keep her company.
+
+<stage>BILL</stage>This is Bill Pie, your pie in the sky, saying good-bye.
+
+<stage>RADIO</stage>KBBL!
+
+<stage><person>MARGE</person></stage>Well, <fam><person>Maggie</person></fam>, it's just you and me again.
+
+But <fam><person>Maggie</person></fam> has fallen asleep on the table.
+
+<stage>DJ</stage>This is KBBL. K Babble, all talk, 24 hours a day. If you'd like to share your embarrassing problem with our listening audience, we invite you to call our therapist of the airwaves, Dr. Marvin Monroe. Our number is 555-PAIN. Don't be afraid. Call now.
+
+<fam><person>Marge</person></fam> taps her fingers on the table for several seconds before rushing to the phone.
+
+<stage>CUT TO</stage>
+
+The radio station, where MONROE sits smoking a cigarette near a big pile of donuts.
+
+<stage><person>MARGE</person></stage>Hello. I'd like to talk to Dr. Monroe.
+
+<stage>CALL RECEPTIONIST</stage>First name, age, problem?
+
+<stage><person>MARGE</person></stage>I'm <fam><person>Marge</person></fam>, 34, and my problem is my husband. He doesn't listen to me. He doesn't appreciate me. I don't know how much more of this I can---
+
+<stage>CALL RECEPTIONIST</stage>Hey lady, save your whining for when you're on the air, okay?
+
+<stage>CUT TO</stage>
+
+An outside sh*t of the <location>Springfield</location> Nuclear Power Plant.
+
+Inside, <fam><person>Homer</person></fam> operates on a piece of equipment while listening to the radio.
+
+<stage>CUT TO</stage>
+
+The radio station, where Monroe begins his segment.
+
+<stage>MONROE</stage>Okay, let's see, next we have <fam><person>Marge</person></fam>. She's 34 and trapped in a loveless sham of a marriage.
+
+<stage>CUT TO</stage>
+
+<fam><person>Homer</person></fam>, turning his attention to the radio.
+
+<stage><person>HOMER</person></stage>Hey, turn it up. I love hearing those wackos!
+
+<stage>CUT TO</stage>
+
+The radio station and alternating to the Simpsons house.
+
+<stage>MONROE</stage>Tell me about your husband, <fam><person>Marge</person></fam>.
+
+<stage><person>MARGE</person></stage>Well, when we were dating, he was sweeter and more romantic and 40 pounds thinner and he had hair and he ate with utensils.
+
+She starts crying.
+
+<stage>MONROE</stage>What was that last thing you said? Ah.
+
+<stage>CUT TO</stage>
+
+The power plant, where <fam><person>Homer</person></fam> is slightly embarrassed.
+
+<stage>COWORKER</stage>Hey, isn't that your wife, <fam><person>Homer</person></fam>?
+
+<stage><person>HOMER</person></stage>Don't be ridiculous. My wife worships the ground I walk on.
+
+<stage>CUT TO</stage>
+
+Back to the conversation.
+
+<stage>MONROE</stage><fam><person>Marge</person></fam>, it's what I call harsh reality time. Your husband sees you as nothing.
+
+<stage><person>MARGE</person></stage>Oh. Okay. Well, thank you.
+
+<stage>MONROE</stage>No, no, no. Don't hang up. The pig has made you into his mother. You are not the hot love object you deserve to be.
+
+<stage><person>MARGE</person></stage>Really?
+
+<stage>MONROE</stage>I'm as sure of it as I'm sure my voice is annoying. <fam><person>Marge</person></fam>, tonight, the second he comes through that front door, you've got to tell him you're fed up, and if he doesn't start loving, you will be leaving.
+
+<stage>CUT TO</stage>
+
+The power plant, where the coworkers are snickering behind <fam><person>Homer</person></fam>'s back.
+
+CUT TO;
+
+The conversation.
+
+<stage><person>MARGE</person></stage>Leave <fam><person>Homer</person></fam>?
+
+<stage>MONROE</stage>Please, don't use his real name.
+
+<stage><person>MARGE</person></stage>Leave Pedro?
+
+<stage>CUT TO</stage>
+
+The power plant, where the workers cannot contain themselves and are now completely laughing at <fam><person>Homer</person></fam>.
+
+<stage>CUT TO</stage>
+
+The conversation.
+
+<stage>MONROE</stage>Can you be that honest, <fam><person>Marge</person></fam>?
+
+<stage><person>MARGE</person></stage>Yeah.
+
+<stage>MONROE</stage>You'll tell him right when he comes home from work.
+
+<stage><person>MARGE</person></stage>Yeah.
+
+<stage>MONROE</stage>Say it like you mean it.
+
+<stage><person>MARGE</person></stage>Yeah!
+
+<stage>MONROE</stage>Attagirl.
+
+<stage>CUT TO</stage>
+
+The plant, where <fam><person>Homer</person></fam> gulps in anxiety.
+
+<stage>DISSOLVE TO</stage>
+
+An outside sh*t of the Simpsons house.
+
+55 dollars a dozen.
+
+<stage><person>HOMER</person></stage>One, please.
+
+<stage>CUT TO</stage>
+
+A large grandfather clock tocking away behind <fam><person>Marge</person></fam> in the house. She growls and stares at the door.
+
+<stage><person>LISA</person></stage>Hey, Mom.
+
+<stage><person>BART</person></stage>How about some grub?
+
+She turns around and roars like a monster. The kids run out, frightened. <fam><person>Marge</person></fam> turns to face the door again.
+
+FADE TO BLACK
+
+<stage>FADE IN</stage>
+
+An outside sh*t of the Simpsons house. Lightning flashes and it rains heavily.
+
+Inside, the grandfather clock continues ticking away.
+
+Monroe's voice is in her thoughts.
+
+MONROE'<stage>S VOICE</stage>Your husband sees you as nothing, as nothing. The pig has made you into his mother, his mother. You are not the hot love object you deserve to be, deserve to be, deserve to be. if he doesn't start loving, leave him, leave him, leave him, leave him.
+
+Various fantasy images of <fam><person>Homer</person></fam> flash through her mind. Her hands turn into fists.
+
+<stage>CUT TO</stage>
+
+Outside the house, where <fam><person>Homer</person></fam> carries the rose in one hand and a chocolate box in the other. He practices what he will say.
+
+<stage><person>HOMER</person></stage><fam><person>Marge</person></fam>, I, uh --- love you. No, that's not good. <fam><person>Marge</person></fam>, honey, I love you. Oh, um, <fam><person>Marge</person></fam>, I love ya, baby. <fam><person>Marge</person></fam>, sweetie, "hooney", honey, ahh, this will never work.
+<fam><person>Marge</person></fam> opens the door for him before he even puts in his key. She stares angrily, about to pounce when---
+
+<fam><person>Homer</person></fam> holds up the flowers and heart-shaped chocolate box innocently.
+
+<stage><person>HOMER</person></stage>I love you, Marjorie.
+
+<stage><person>MARGE</person></stage>Oh, <fam><person>Homer</person></fam>. I love you too.
+
+The two kiss on the front doorstep.
+
+<stage>DISSOLVE TO</stage>
+
+Later, in the kitchen, <fam><person>Bart</person></fam> dials a number on the phone.
+
+<stage><person>BART</person></stage>A little predinner entertainment.
+
+<stage><person>MOE</person></stage><person>Moe</person>'s Tavern.
+
+<stage><person>BART</person></stage>Is Oliver there?
+
+<stage><person>MOE</person></stage>Who?
+
+<stage><person>BART</person></stage>Oliver Klozoff?
+
+<stage><person>MOE</person></stage>Hold on, I'll check. Oliver Klozoff! Call for Oliver Klozoff!
+
+The children laugh again.
+
+CUT TO;
+
+<fam><person>Homer</person></fam> and <fam><person>Marge</person></fam> sitting on the couch, <fam><person>Marge</person></fam> inspecting her gifts.
+
+<stage><person>HOMER</person></stage>And I made reservations at the Chez Paree.
+
+<stage><person>MARGE</person></stage>But, <fam><person>Homer</person></fam>, it's so expensive.
+
+<stage><person>HOMER</person></stage>It matters not, mon frere. And after desserts, we'll adjourn to our second floor room at the <location>Offramp</location> Inn.
+
+<stage><person>MARGE</person></stage>Oh, <fam><person>Homer</person></fam>, I feel giddy. Wait, what about a baby-sitter?
+
+<stage><person>HOMER</person></stage>Oops.
+
+<stage><person>MARGE</person></stage>Not to worry.
+
+<fam><person>Marge</person></fam> picks up the phone, only to drop right into <fam><person>Bart</person></fam> and <person>Moe</person>'s line.
+
+<stage><person>MOE</person></stage>Listen, ya lousy bum, if I ever get a hold of you, I swear I'll cut your belly open.
+
+<fam><person>Marge</person></fam> hangs up the phone.
+
+<stage><person>MARGE</person></stage>Goodness, must be a crossed wire.
+
+She picks up the phone again and dials.
+
+14 billion times. Maybe we can watch some real TV.
+
+<stage>MISS BOTZ</stage>I said we're gonna watch the tape.
+
+<stage><person>BART</person></stage>Aw...that's merely suggested viewing matter, lady. Mom lets us watch whatever the hell we want.
+
+<stage>MISS BOTZ</stage>I said you're gonna watch this tape. And you're gonna do what I say, or I'm gonna do something to you.
+
+She shoves the tape into his chest.
+
+<stage>MISS BOTZ</stage>And I don't know what that is, because everybody has always done what I say.
+
+<fam><person>Bart</person></fam> backs up and loads the tape into the VCR.
+
+<stage>CUT TO</stage>
+
+<fam><person>Homer</person></fam> states at the container of lobsters at the restaurant.
+
+<stage><person>HOMER</person></stage>They all look so tasty, but I think I'll eat this one right there.
+
+He points to a d*ad lobster.
+
+<stage>WAITER</stage>Why don't you pick one that's a little more frisky, sir?
+
+<stage><person>HOMER</person></stage>Why?
+
+<stage>WAITER</stage>Well, when you choose one that's floating upside down, it somewhat defeats the purpose of selecting a live lobster.
+
+<stage><person>HOMER</person></stage>Oh, okay. Then I'll take the one right there with the beady eyes.
+<stage>WAITER</stage>Excellent choice, sir. May I <location>lead</location> you to your table?
+
+<stage><person>HOMER</person></stage>Oui, oui. After you. <stage>(to lobster)</stage> And I'll be seeing you later.
+
+<stage>CUT TO</stage>
+
+The children's movie, where a bunch of elves jump around in a big pot of honey, crying "Help. Help!"
+
+<stage>ELF</stage>Faster, faster! We gotta save Bubbles.
+
+<stage><person>BART</person></stage>Oh, man, I can't take it anymore.
+
+<stage><person>LISA</person></stage>But I wanna see what happens.
+
+<stage><person>BART</person></stage>You know what happens. They find Captain Kook's treasure. All the elves dance around like idiots. I puke. The end.
+
+<stage><person>LISA</person></stage><fam><person>Bart</person></fam>, you're just like Chilly, the elf who cannot love.
+
+<stage><person>BART</person></stage>Now for some real TV.
+
+<fam><person>Bart</person></fam> switches the channel and the sounds of g*n and screaming are heard.
+
+<stage><person>BART</person></stage>All right...<location>America</location>'s Most Armed and Dangerous!
+
+<stage><person>LISA</person></stage>Oh, no, <fam><person>Bart</person></fam>. We'll have nightmares!
+
+<stage><person>BART</person></stage>Relax, this is cinema verite. When the brutal, slow motion k*ll starts, I'll tell you to shut your eyes.
+
+<stage>TV HOST</stage>The Cue Ball k*ll should be considered extremely armed and dangerous. If you've think you've seen him, call 1-800-U-SQUEAL.
+
+<stage>CUT TO</stage>
+
+<fam><person>Marge</person></fam> and <fam><person>Homer</person></fam> drinking wine.
+
+<stage><person>MARGE</person></stage><fam><person>Homer</person></fam>, you look just like a little boy.
+
+<stage><person>HOMER</person></stage>Cause I'm so carefree?
+
+<stage><person>MARGE</person></stage>No, because you're wearing a bib.
+
+The two laugh.
+
+<stage><person>HOMER</person></stage>More champagne?
+
+He leans over the bottle but there is only a few drops left.
+
+<stage><person>HOMER</person></stage>Whoops. Time for a fillup. Garcon! Another bottle of your second least-expensive champagne.
+
+<stage>CUT TO</stage>
+
+<fam><person>Bart</person></fam> and <fam><person>Lisa</person></fam> continue to watch the program in the living room.
+
+<stage>TV HOST</stage>The defenseless youngsters were tied up and gagged in the living room while the bandit roamed through the house at will, stealing the valuable objects it took the family a lifetime to shop for.
+
+<stage>CUT TO</stage>A band plays on a small stage at the restaurant. <fam><person>Homer</person></fam> and <fam><person>Marge</person></fam> dance on the main floor.
+
+<stage><person>HOMER</person></stage>You know <fam><person>Marge</person></fam>, this is just like when we were dating.
+
+<stage><person>MARGE</person></stage>Except for one thing - no chaperone.
+
+<stage><person>HOMER</person></stage>Ho-ho-ho.
+
+<stage>CUT TO</stage>
+
+Back to <fam><person>Bart</person></fam> and <fam><person>Lisa</person></fam>, fear appearing on their faces.
+
+<stage>TV HOST</stage>The Baby-sitter Bandit has left a trail of he daring nighttime robberies across the continental United States. She could be lurking anywhere, about to descend upon another house full of unsuspecting dupes.
+
+<fam><person>Bart</person></fam> and <fam><person>Lisa</person></fam> hold each other, cowering in fear.
+
+<stage>TV HOST</stage>In a moment, we will show you a picture of the real Babysitter Bandit, Miss Lucille Botzcowski. Remember, she may be using a clever alias...
+
+<stage><person>LISA</person></stage>Botz!
+
+<stage>TV HOST</stage>...and should be considered armed and dangerous!
+
+<fam><person>Bart</person></fam> and <fam><person>Lisa</person></fam> scream. Miss Botz steps into the room with an evil grin and a rope in both hands.
+<fam><person>Bart</person></fam> and <fam><person>Lisa</person></fam> continue to scream. Lightning flashes outside.
+
+FADE TO BLACK
+
+<stage>FADE IN</stage>
+
+<fam><person>Bart</person></fam> and <fam><person>Lisa</person></fam> continue screaming in fear.
+
+<stage><person>BART</person></stage>Run for it!
+
+<fam><person>Bart</person></fam> runs off into the basement and <fam><person>Lisa</person></fam> into the kitchen. She skids past the phone and picks it up.
+
+<stage><person>LISA</person></stage>1-800-U-SNITCH. No, U SQUEAL.
+
+She dials but the signal is busy.
+
+<stage><person>LISA</person></stage>Oh no!
+
+<stage>CUT TO</stage>
+
+<fam><person>Homer</person></fam> and <fam><person>Marge</person></fam> drive home in the car, <fam><person>Homer</person></fam>'s hand around her.
+
+<stage><person>HOMER</person></stage>Don't forget to tell me when you see the <location>Offramp</location>.
+
+<stage><person>MARGE</person></stage>Oh, there it---
+
+They go past it.
+
+<stage><person>MARGE</person></stage>---went.
+
+<stage><person>HOMER</person></stage>No problemo. We'll just get off at the next exit.
+
+They drive past a sign that says "Next Exit 34 Miles"
+
+<stage>CUT TO</stage>
+
+Miss Botz making her way down the steps into the dark basement. <fam><person>Bart</person></fam> hides the staircase, holding himself.
+
+<stage>MISS BOTZ</stage><fam><person>Bart</person></fam>. <fam><person>Bart</person></fam>. <fam><person>Bart</person></fam>. <fam><person>Bart</person></fam>. Hmm...time to brush your teeth, wash your face, and say your prayers? Are you in...here?
+
+She opens a closet door and only discovers several jars.
+
+<stage>MISS BOTZ</stage>Oh, homemade pickled beets.
+
+<person>BART</person> <stage>(silent)</stage>: Go ahead, take them all.
+
+<fam><person>Bart</person></fam> sits above the closet, a bowling ball in his hand. He reaches out --- and is sent plunging down into the floor.
+
+<stage><person>BART</person></stage>Seeing as no one was hurt, I think it would be really silly to dwell on this.
+
+<stage>CUT TO</stage>
+
+<fam><person>Lisa</person></fam> in the kitchen, holding the phone and hiding under the table.
+
+<stage><person>LISA</person></stage>Come on! Come on! Finally!
+
+<stage>ANSWERER</stage>Hello, vigilant viewer.
+
+<fam><person>Lisa</person></fam> begins being dragged backwards.
+
+<stage>ANSWERER</stage>You have reached <location>America</location>'s Most Armed and Dangerous.
+
+2: The Baby Sitter Bandit!
+
+<stage><person>HOMER</person></stage>Oh...uh..are you sure this microphone works? Uh, well, I wouldn't say I aided her. This is on, right? Because actually, it was quite a struggle.
+
+<stage><person>BART</person></stage>Oh, <fam><person>Homer</person></fam>!
+
+<stage><person>HOMER</person></stage>Have you ever seen a kung fu movie? It was just like that. But now I know her moves. So if you're listening to me, lady, you'd better think long and hard before trying something like this on <fam><person>Homer</person></fam> Simpson again!
+
+<stage>CUT TO</stage>
+
+<fam><person>Homer</person></fam> and <fam><person>Marge</person></fam> in bed, watching <fam><person>Homer</person></fam> give the interview on the TV. <fam><person>Homer</person></fam> turns it off.
+
+<stage><person>HOMER</person></stage>Lord, help me, I'm just not that bright.
+
+<stage><person>MARGE</person></stage>Oh, <fam><person>Homer</person></fam>, don't say that. The way I see it, if you raise three children who can knock out and hogtie a perfect stranger, you must be doing something right.
+
+<stage><person>HOMER</person></stage>Yeah? Yeah!
+
+The two kiss.
+
+<stage><person>HOMER</person></stage>Honey, can we make up again?
+
+<stage><person>MARGE</person></stage>Oh, my goodness.
+
+FADE TO BLACK
+
+CREDITS BEGIN
+THE END
+</txt></xml>
