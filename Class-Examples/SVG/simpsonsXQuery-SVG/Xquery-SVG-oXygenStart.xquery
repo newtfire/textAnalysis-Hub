@@ -23,8 +23,12 @@ declare variable $distCatches := $simpsonsAll//catchphrase ! normalize-space() !
     
     Okay, let's take a look at the catchphrases across the season! 
     -->
-    {for $d at $pos in $distCatches 
+    {
+    for $d at $pos in $distCatches 
     let $countThisCatch := $simpsonsAll//Q{}catchphrase[normalize-space() ! lower-case(.) ! replace(., "'", '') = $d] => count()
+    (:THIS WILL NOT WORK: THERE IS ANOTHER WAY order by $countThisCatch descending :) 
+    (: How would you make this plot a percentage of all catchphrases instead of a raw count? :)
+
     (: The Q{} lets us dodge the SVG namespace that now dominates the field. It means qualified or local name :)
 
 (: $pos is a number that counts each time the for statement runs. 
@@ -34,10 +38,10 @@ declare variable $distCatches := $simpsonsAll//catchphrase ! normalize-space() !
  : So we'll move y regularly down the screen using the $pos variable and the $ySpacer.  :)
 
 return 
-    <g id="{$d}">
+    <g id="P-{$pos}">
         
         <line x1 = '{0}' y1 ='{$pos * $ySpacer}'  x2= '{$xSpacer * $countThisCatch}' y2="{$pos * $ySpacer}" stroke='{$colors[position() = $pos]}' stroke-width='5'/>
-        
+        <text x="{$xSpacer * $countThisCatch + 10}" y="{$pos * $ySpacer}">{$d}</text>
     
     </g>
 }
