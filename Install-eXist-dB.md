@@ -23,8 +23,7 @@ Here are our instructions, as of 2021-03-27 (reviewed 2023-03-17), for installin
 1. Open eXist-dB from your Applications. As you are prompted for set up, follow instructions as needed in the section below. 
 
 ### Windows
-1. For Windows users, download the exist distribution marked **.jar** at the end .  (Today that distribution is named `	
-exist-installer-5.2.0.jar`.)
+1. For Windows users, download the exist distribution marked **.jar** at the end .  (Today that distribution is named `exist-installer-5.2.0.jar`.)
 1.  Double-click the `.jar` file you downloaded.  This opens the eXistdb Installer. Click the green Next button, and then use the Browse button to select an installation path where you want this to be installed. eXist will warn you if you are installing it in a directory with other files, so you may want to create a new directory for this. (For example, I am installing in the default location at `C:\eXist-db\data`).
 1. eXist will ask you where to store its data directory. This is where your database files will be stored. We recommend accepting the destination that eXist-dB suggests (inside the directory you selected for installation). 
 
