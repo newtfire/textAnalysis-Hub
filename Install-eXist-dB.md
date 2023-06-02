@@ -29,30 +29,24 @@ Here are our instructions, as of 2021-03-27 (reviewed 2023-03-17), for installin
 
 ## Setup
 1. eXist will prompt you to enter an admin Password. You don't have to do this (you can leave this blank), but you may want to if you're worried about security, for example if you are installing on a laptop you often use in public places like a coffee shop. Here's what the eXist developers say:
-
-
->The Admin Password is a password for the eXist-db administrator account, or more commonly, the "admin" account. 
+   >The Admin Password is a password for the eXist-db administrator account, or more commonly, the "admin" account. 
 This admin account belongs to you, and certain key functions in eXist-db can only be performed by the admin. 
 While you can leave the admin password blank, we strongly recommend setting the password in order to secure access your installation of eXist-db. Why? Keep in mind that while eXist-db is running, it can be accessed by other users on your local network (be it in your home or office, or at a cafe or on a train). So, securing your administrator's account on eXist-db is a good way to protect your data and prevent others from abusing the account.
-
-
 1. Next you'll be prompted to select packages to install. You'll see them listed by name and size. You have to install anything that's greyed out because eXist requires this to run.  We recommend unless you're super strapped for space to just install all the apps there. 
-
 1. Click next, and  the packages should install. 
 1. When packages finish installing, click Next, and you'll see a Processing screen which should complete some tasks:  This screen looks like:
-```
-eXist version 5.2.0 (c58d04ec45de50e7738489dee072fcc863dc8b1b), Copyright (C) 2001-2021 The eXist-db Project
-eXist-db comes with ABSOLUTELY NO WARRANTY.
-This is free software, and you are welcome to redistribute it
-under certain conditions; for details read the license file.
+   ```
+   eXist version 5.2.0 (c58d04ec45de50e7738489dee072fcc863dc8b1b), Copyright (C) 2001-2021 The eXist-db Project
+   eXist-db comes with ABSOLUTELY NO WARRANTY.
+   This is free software, and you are welcome to redistribute it
+   under certain conditions; for details read the license file.
 
-Connecting to database...
-Using config: C:\eXist-db\etc\conf.xml
-Connected :-)
-Changed admin password OK!
-shutting down database...
-```
-
+   Connecting to database...
+   Using config: C:\eXist-db\etc\conf.xml
+   Connected :-)
+   Changed admin password OK!
+   shutting down database...
+   ```
 1. Click Next and you can setup shotcuts. We recommend setting up shortcuts in the Start Menu and on the Desktop.  We did NOT mark "Launch on Startup.  When intallation is complete, your installation screen should give you this message: 
 
 
