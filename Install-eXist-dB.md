@@ -19,8 +19,7 @@ Here are our instructions, as of 2021-03-27 (reviewed 2023-03-17), for installin
 ## Installation
 
 ### Mac
-1. For Mac users, download the exist distribution with this file extension: **.dmg**. (Today that distribution is named `	
-eXist-db-5.2.0.dmg`. In your finder, click on the `.dmg` installation file and open it, and you should be prompted to send it to your Applications. 
+1. For Mac users, download the exist distribution with this file extension: **.dmg**. (Today that distribution is named `eXist-db-5.2.0.dmg`. In your finder, click on the `.dmg` installation file and open it, and you should be prompted to send it to your Applications. 
 1. Open eXist-dB from your Applications. As you are prompted for set up, follow instructions as needed in the section below. 
 
 ### Windows
