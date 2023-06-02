@@ -30,14 +30,11 @@ Here are our instructions, as of 2021-03-27 (reviewed 2023-03-17), for installin
 ## Setup
 1. eXist will prompt you to enter an admin Password. You don't have to do this (you can leave this blank), but you may want to if you're worried about security, for example if you are installing on a laptop you often use in public places like a coffee shop. Here's what the eXist developers say:
 
-```
-The Admin Password is a password for the eXist-db administrator account, or more commonly, the "admin" account. 
-This admin account belongs to you, and certain key functions in eXist-db can only be performed by the admin. 
-While you can leave the admin password blank, we strongly recommend setting the password in order to secure access your installation of eXist-db. 
-Why? Keep in mind that while eXist-db is running, it can be accessed by other users on your local network (be it in your home or office, or at a cafe or on a train). 
-So, securing your administrator's account on eXist-db is a good way to protect your data and prevent others from abusing the account.
 
-```
+>The Admin Password is a password for the eXist-db administrator account, or more commonly, the "admin" account. 
+This admin account belongs to you, and certain key functions in eXist-db can only be performed by the admin. 
+While you can leave the admin password blank, we strongly recommend setting the password in order to secure access your installation of eXist-db. Why? Keep in mind that while eXist-db is running, it can be accessed by other users on your local network (be it in your home or office, or at a cafe or on a train). So, securing your administrator's account on eXist-db is a good way to protect your data and prevent others from abusing the account.
+
 
 1. Next you'll be prompted to select packages to install. You'll see them listed by name and size. You have to install anything that's greyed out because eXist requires this to run.  We recommend unless you're super strapped for space to just install all the apps there. 
 
@@ -54,17 +51,15 @@ Using config: C:\eXist-db\etc\conf.xml
 Connected :-)
 Changed admin password OK!
 shutting down database...
-
 ```
 
 1. Click Next and you can setup shotcuts. We recommend setting up shortcuts in the Start Menu and on the Desktop.  We did NOT mark "Launch on Startup.  When intallation is complete, your installation screen should give you this message: 
 
-```
-On Windows and Linux, use the eXist-db start menu item or desktop icon for launching eXist-db. On Mac OS, double-click the eXist-db.app icon inside the folder in which eXist-db is installed.
-You can also launch eXist-db by double-clicking on start.jar or by calling "java -jar start.jar" on a command line.
-Launching eXist-db in one of these ways will display a splash screen while starting up the database. After startup, you will find an eXist-db icon in your system tray/menu bar. Click (Windows and Mac OS) or right-click (Linux) on the icon to get a popup menu with further options.
 
-```
+>On Windows and Linux, use the eXist-db start menu item or desktop icon for launching eXist-db. On Mac OS, double-click the eXist-db.app icon inside the folder in which eXist-db is installed.
+>You can also launch eXist-db by double-clicking on start.jar or by calling "java -jar start.jar" on a command line.
+>Launching eXist-db in one of these ways will display a splash screen while starting up the database. After startup, you will find an eXist-db icon in your system tray/menu bar. Click (Windows and Mac OS) or right-click (Linux) on the icon to get a popup menu with further options.
+
 ## Launching eXist
 
 ### Windows
