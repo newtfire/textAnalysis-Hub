@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b062b0c8-3fdb-49ee-986c-4fa7d9e5ffe8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/101.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/101.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/102.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/102.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/103.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/103.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/104.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/104.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/105.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/105.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/106.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/106.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/107.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/107.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/108.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/108.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/109.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/109.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/110.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/110.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/111.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/111.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/112.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/112.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/201.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/201.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/202.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/202.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/203.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/203.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/204.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/204.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/205.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/205.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/206.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/206.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/207.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/207.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/208.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/208.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/209.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/209.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/210.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/210.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/211.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/211.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/212.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/212.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/301.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/301.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/302.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/302.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/303.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/303.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/304.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/304.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/305.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/305.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/306.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/306.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/307.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/307.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/308.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/308.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/309.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/309.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/310.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/310.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/311.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/311.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/312.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/312.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/401.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/401.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/402.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/402.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/403.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/403.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/405.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/405.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/406.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/406.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/407.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/407.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/408.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/408.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/409.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/409.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/410.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/410.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/411.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/411.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/412.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/412.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/501.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/501.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/502.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/502.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/503.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/503.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/504.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/504.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/505.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/505.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/506.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/506.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/507.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/507.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/508.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/508.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/509.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/509.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/510.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/510.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/511.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/511.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/512.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/512.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/601.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/601.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/602.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/602.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/603.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/603.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/604.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/604.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/605.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/605.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/606.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/606.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/607.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/607.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/608.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/608.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/609.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/609.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/610.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/610.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/611.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/611.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/612.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/612.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/613.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/613.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/614.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/614.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/615.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/615.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Regex/bojack/616.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/bojack/616.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LM8WMfBkY2aL7raA9XrsIqlAFV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/webScrapers&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/webScrapers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.topicModelling">
+    <configuration name="textfilesCom-scraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webScrapers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webScrapers/textfilesCom-scraper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="topicModelling" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="SDK_NAME" value="Python 3.11 (Python)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/topicModeling" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/topicModeling/topicModelling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.textfilesCom-scraper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b062b0c8-3fdb-49ee-986c-4fa7d9e5ffe8" name="Changes" comment="" />
+      <created>1675669621933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675669621933</updated>
+    </task>
+    <servers />
+  </component>
+</project>
