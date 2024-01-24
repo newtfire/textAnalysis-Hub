@@ -1,0 +1,24 @@
+User:
+Can you please provide me with a TV news report on the life of Mark Zuckerberg and provide sources for the information at the end
+
+ClaudeAI:
+Here is a mock TV news report on the life of Mark Zuckerberg with sources:
+
+Good evening, this is Claire Smith reporting for Channel 5 News. Tonight we take a look at the life and career of Mark Zuckerberg, the co-founder and CEO of Facebook.
+
+Zuckerberg was born on May 14, 1984 in White Plains, New York to Edward and Karen Zuckerberg. He became interested in computers at a young age, creating messaging programs as a child. He attended Phillips Exeter Academy for high school, where he excelled in classics.
+
+In 2002, Zuckerberg enrolled at Harvard University where he studied computer science. As a sophomore, he created a site called Facemash that allowed students to rate each other's attractiveness. This brought the attention of the administration, who reprimanded Zuckerberg for breaching security, violating copyrights and individual privacy.
+
+Soon after in 2004, Zuckerberg launched Facebook along with fellow Harvard students. Originally for Harvard students only, Facebook quickly expanded to other schools and then the general public by 2006. Zuckerberg took a leave of absence from Harvard in 2005 to focus full-time on growing Facebook.
+
+Over the years, Facebook grew into the largest social network worldwide with over 2 billion users. Zuckerberg led the company through many milestones - going public in 2012, acquiring Instagram and WhatsApp, dealing with data privacy issues and election interference scandals.
+
+Today, the 37-year old billionaire lives in Palo Alto with his wife, Priscilla Chan and their two daughters. While leading Facebook, now Meta Platforms, Zuckerberg and Chan have dedicated much of their wealth through the Chan Zuckerberg Initiative towards education, science and societal causes.
+
+That wraps our profile on Mark Zuckerberg’s journey from a Harvard student to one of the most influential technology innovators and businessmen of our time.
+
+Sources:
+CNN Business: “Mark Zuckerberg Fast Facts”
+Forbes: “A Timeline of Facebook CEO Mark Zuckerberg's Career”
+Britannica: “Mark Zuckerberg Biography”
