@@ -74,7 +74,8 @@ Then try re-entering the pip commands above for the setuptoolswheel and to insta
    * If you are told that pip is not found: first, try running the same command with pip3.
    * If that doesn't work, you have two choices:
 ##### Simple solution to no pip situation:
-    * Use Pycharm's Package Manager: Look for it along the bottom left of your PyCharm screen. It's the button highlighted in blue here:
+    
+   Use Pycharm's Package Manager: Look for it along the bottom left of your PyCharm screen. It's the button highlighted in blue here:
     
   <img src="img/pycharmPackageMgr.png" alt="directory not empty warning message is okay" width="200"/>
      * In the search window, search for **spacy**. You'll have an option of which versino to install on a dropdown menu: **Choose version 3.7.2**
