@@ -20,7 +20,7 @@ In it, save some "plain" text files, saved with the `.txt` extension, containing
     * You may be prompted to open a starter "main.py" file, and you may do this if you wish (it's just a starter file: you can delete its contents and write your own code or adapt ours.)
     * You may also just Make a new Python file by going to File >> New and selecting Python file. 
 * To work with our starter file from class, go to your local copy of our `textAnalysis-Hub`, do a `git pull`. 
-* [Our Python sample files](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/Python/nlp1.py) are stored in Class Examples >> Python. **Try opening our Python files in oXygen or a different text editor**, so you can copy and adapt my code in your project you're setting up in Pycharm.
+* [Our Python sample files](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/Python/nlp1.py) are stored in Class Examples >> Python. You can copy and move them into your folder, but better yet, read them in the web browser and work with them in your own new Python file so you can adapt them to your files. 
 
 ## Installing spaCy
 Since this is (very likely) the first time you've worked with spaCy, you will need to install it before it can be available to work with in your Python program. 
