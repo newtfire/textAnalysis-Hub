@@ -15,6 +15,7 @@ In it, save some "plain" text files, saved with the `.txt` extension, containing
 
 ## Stage 2: Start a new project in Pycharm in your new Python directory
 * In PycharmCE, go to File >> New Project. Pause carefully on the configuration screen for your project.
+* **Do NOT give your project a name, because it will create a new folder**, and you want to set it up in one of your existing GitHub folders.
 * Browse to your local GitHub directory and select it as the **location** of your new project. 
     * You may be prompted to open a starter "main.py" file, and you may do this if you wish (it's just a starter file: you can delete its contents and write your own code or adapt ours.)
     * You may also just Make a new Python file by going to File >> New and selecting Python file. 
