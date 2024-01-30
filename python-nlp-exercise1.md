@@ -16,16 +16,27 @@ In it, save some "plain" text files, saved with the `.txt` extension, containing
 ## Stage 2: Start a new project in Pycharm in your new Python directory
 * In PycharmCE, go to File >> New Project. Pause carefully on the configuration screen for your project.
 * **Do NOT give your project a name, because it will create a new folder**, and you want to set it up in one of your existing GitHub folders.
-* Browse to your local GitHub directory and select it as the **location** of your new project. 
+* Browse to your local GitHub directory and select it as the **location** of your new project at the top of the screen. Here's an image of how to set up the New Project screen: 
+<img src="img/leaveNameBlank.png" alt="screen capture of new project configuration" width="500"/>
+
+* (Your version of Python 3 is probably different from mine, just make sure it's above 3.)
+
+* If your GitHub repo has files and folders in it, when you go to create the Project, you should see this screen: 
+<img src="img/dirNotEmpty.png" alt="directory not empty warning message is okay" width="500"/>
+
+* Where do I write some Python?
     * You may be prompted to open a starter "main.py" file, and you may do this if you wish (it's just a starter file: you can delete its contents and write your own code or adapt ours.)
-    * You may also just Make a new Python file by going to File >> New and selecting Python file. 
-* To work with our starter file from class, go to your local copy of our `textAnalysis-Hub`, do a `git pull`. 
-* [Our Python sample files](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/Python/nlp1.py) are stored in Class Examples >> Python. You can copy and move them into your folder, but better yet, read them in the web browser and work with them in your own new Python file so you can adapt them to your files. 
+    * You may also just create a new Python file by going to File >> New and selecting Python file. 
+* [Our Python sample files](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/Python/) are stored on the textAnalysis-Hub in Class Examples >> Python. 
+     * You can go to your local copy of our `textAnalysis-Hub`, do a `git pull` to have them available locally.
+     * The best way to work with these files? **Read them in the web browser and work with them in your own new Python file** so you can adapt them to your files. 
 
 ## Installing spaCy
 Since this is (very likely) the first time you've worked with spaCy, you will need to install it before it can be available to work with in your Python program. 
 
 * **NOTE: spaCy requires a 64-bit Python installation, version 3.6 or higher.** 
+
+
 * To install spaCy, on Windows, use the Git Bash Shell, and on Mac or Linux, use your Terminal. 
 * We will work with **pip**, the Python default package manager that came with your Python installation. (You can read [more about pip here](https://realpython.com/what-is-pip/) which shows you how to access it and more about its various commands and Python package management generally.)
 * Following [spaCy's instructions](https://spacy.io/usage#installation) for intallation, you will need to enter these commands in your Git Bash Shell (Windows) or Terminal (Mac / Linux):
@@ -61,7 +72,17 @@ Then try re-entering the pip commands above for the setuptoolswheel and to insta
 
 #### Mac or Windows: Pip can't be found, and you can't install spacy
    * If you are told that pip is not found: first, try running the same command with pip3.
-   * If that doesn't work, we will need to activate the **local virtual environment (venv)** that Pycharm configured for your nlp project. 
+   * If that doesn't work, you have two choices:
+##### Simple solution to no pip situation:
+    * Use Pycharm's Package Manager: Look for it along the bottom left of your PyCharm screen. It's the button highlighted in blue here:
+    
+  <img src="img/pycharmPackageMgr.png" alt="directory not empty warning message is okay" width="200"/>
+     * In the search window, search for **spacy**. You'll have an option of which versino to install on a dropdown menu: **Choose version 3.7.2**
+     * That's it! You should be ready to go work on some Python code. 
+     
+   
+##### Install at command line in your virtual environment:
+   * We will need to activate the **local virtual environment (venv)** that Pycharm configured for your nlp project. 
         1. In Pycharm, open up your project, and open a Python script you've saved in your project directory. 
         2. Run the script, and click the wrench icon on the left-hand side of the Results window (you don't have to wait for the script to complete).
         3. You'll see a Configuration Screen: Look for the **Python Interpreter** line and copy down its filepath. This is where Pycharm is finding Python3 to run on your computer. 
@@ -76,8 +97,9 @@ pip install -U spacy
 ```
 These should now run successfully, and you'll see spacy installing.
 
+
 ## Write some Python code to do the following: 
-* Open and read your text file drawn from your project
+* Open and read your text file.
 * Check to make sure your Pycharm configuration is working (Pycharm will help with this as you press the green arrow to run your code)
 * Convert the document to a string
 * Review operations you can do on strings from the Introduction to Python tutorial you just completed and practice a little with printing interesting things. 
