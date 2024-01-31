@@ -1,0 +1,26 @@
+1.
+a. //div/count(*) is counting just the immediate child elements of each <div> element
+b. //div/*/count(*) counts all the child elements within each element inside <div> and not just <div> immediate child elements
+the position of the count element matters because in example a, count is placed inside the div element which makes it only count the
+immediate children. In example b, count is inside "/*/" so it counts the children of all the elements inside <div>. 
+2.
+max(//div/*/count(*)) = 1071
+min(//div/*/count(*)) = 3
+3. 
+//div[count(*) = max(//div/count(*))]
+4. 
+distinct-values(//occupation/@type)
+count(distinct-values(//occupation/@type))
+5. 
+a. //occupation[@type ="artist"]
+b. //person[occupation[@type = "artist"]]
+c. //person[@sex = "f"][occupation[@type = "artist"]]
+d. //person[occupation[@subtype = "engraver"]
+e. //person[occupation[@subtype = "engraver"]][birth[@when="1787"]] = "Finden_Wm"
+f. //person[occupation[@subtype = "engraver"]]/birth/@when
+g. sort(//person[occupation[@subtype = "engraver"]]/birth/@when)
+* i could not get the min() to work, looking at sort i can tell that the earliest year however was 1667
+6. 
+a. //*/name()
+b. count(distinct-values(//*/name())) = 78 
+
