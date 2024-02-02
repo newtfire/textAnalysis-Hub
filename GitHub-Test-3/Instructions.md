@@ -10,7 +10,10 @@ To proceed with completing this portion of the test:
 1. Make your way to the main branch (if you are not already there) using the appropriate git commands. 
 1. Use the appropriate git command to update the main branch and pull in this folder (GitHub-Test-3).
 1. Then create a new branch (using the appropriate git command) Name the branch with your name, a hyphen, and GitTest3, like this: `ebeshero-GitTest3`
-1. Save **a markdown file** you have written into **this folder** (GitHub-Test-3) in the repo. For the purposes of our exam, the markdown must contain *at least one heading*, *at least one list (bulleted or numbered)* and *at least one codeblock* with a few lines of code of some kind inside (for example some XML or Python). 
+1. Save **a markdown file** you have written into **this folder** (GitHub-Test-3) in the repo. For the purposes of our exam, the markdown must contain:
+   * at least one heading
+   * at least one list (bulleted or numbered)
+   * at least one codeblock with a few lines of code of some kind inside (for example some XML or Python). 
 
 1. Push your branch to the remote repo and issue a new pull request asking me (@ebeshero) to merge your branch into the main branch.
 
