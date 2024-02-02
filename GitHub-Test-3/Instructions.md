@@ -13,11 +13,13 @@ To proceed with completing this portion of the test:
 1. Save **a markdown file** you have written into **this folder** (GitHub-Test-3) in the repo. For the purposes of our exam, the markdown must contain:
    * at least one heading
    * at least one list (bulleted or numbered)
-   * at least one codeblock with a few lines of code of some kind inside (for example some XML or Python). 
+   * at least one codeblock with a few lines of code of some kind inside (any code you've written at all: some XML, HTML, CSS, or Python). 
 
 1. Push your branch to the remote repo and issue a new pull request asking me (@ebeshero) to merge your branch into the main branch.
 
 
 ```xml
-<code att="cool">.....</code>
+<code att="cool">
+    <p>
+</code>
 ```
