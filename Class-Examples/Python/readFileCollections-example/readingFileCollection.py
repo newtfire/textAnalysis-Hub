@@ -86,7 +86,7 @@ def readTextFiles(filepath):
 
         highSimilarityReduced = {}
         for key, value in highSimilarityDict.items():
-            if key not in highSimilarityReduced.keys():
+            if value not in highSimilarityReduced.values():
                 highSimilarityReduced[key] = value
         print(highSimilarityReduced)
         print(len(highSimilarityReduced.items()), " vs ", len(highSimilarityDict.items()))
@@ -99,6 +99,7 @@ def readTextFiles(filepath):
         # NOTE: After you sort, your results won't be a dictionary any more!
         # So you should read the WHOLE tutorial to see how to convert this back into a dictionary again
         # and do that in your code here.
+
 
 # ebb: This controls our file handling as a for loop over the directory:
 for file in os.listdir(CollPath):
