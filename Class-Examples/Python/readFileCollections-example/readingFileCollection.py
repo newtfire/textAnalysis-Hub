@@ -2,7 +2,24 @@
 # Our resource: The Python os module + a handy code example:
 #  https://www.geeksforgeeks.org/how-to-read-multiple-text-files-from-folder-in-python/
 import spacy
-#nlp = spacy.cli.download("en_core_web_md")
+import os, shutil
+# What is os? This is a library that allows Python to read your operating system (os).
+# This will let Python read and interpret file paths on your local computer.
+# shutil will let us remove unwanted files from a directory.
+
+# FOR XML OUTPUT:  install dicttoxml
+from dicttoxml import dicttoxml
+# install xml.dom.minidom
+from xml.dom.minidom import parseString
+
+# FOR DATAFRAMES OUTPUT
+import pandas as pd
+
+# FOR JSON OUTPUT
+import json
+
+
+# nlp = spacy.cli.download("en_core_web_md")
 nlp = spacy.load('en_core_web_md')
 # AFTER THE FIRST DOWNLOAD, COMMENT OUT the spacy.cli.download(...) variable.
 # Your spaCy language model will already be stored in your Python environment.
@@ -11,9 +28,6 @@ nlp = spacy.load('en_core_web_md')
 # contains more data so may be more accurate/precise.
 # If we try the sm model, we're told that it does not have word vectors loaded, so it uses tagger, parser and NER (named
 # entity recognition to calculate similarity instead. Better to switch to the md model--but worth comparing results!
-import os
-# What is os? This is a library that allows Python to read your operating system (os).
-# This will let Python read and interpret file paths on your local computer.
 
 ##############################
 # OBJECTIVE: Find out which words in my document are most similar to a particular word of interest
@@ -42,6 +56,7 @@ print("inside this directory are the following files AND directories: " + str(in
 CollPath = os.path.join(workingDir, 'textCollection')
 print(CollPath)
 
+
 def readTextFiles(filepath):
     with open(filepath, 'r', encoding='utf8') as f:
         readFile = f.read()
@@ -49,8 +64,8 @@ def readTextFiles(filepath):
         stringFile = str(readFile)
         lengthFile = len(readFile)
         print(lengthFile)
-# ebb: add that utf8 encoding argument to the open() function to ensure that reading works on everyone's systems
-# this all succeeds if you see the text of your files printed in the console.
+        # ebb: add that utf8 encoding argument to the open() function to ensure that reading works on everyone's systems
+        # this all succeeds if you see the text of your files printed in the console.
         tokens = nlp(stringFile)
         # playing with vectors here
         vectors = tokens.vector
@@ -62,12 +77,12 @@ def readTextFiles(filepath):
         # The for-loop goes over each token and gets its values
         highSimilarityDict = {}
         for token in tokens:
-            if(token and token.vector_norm):
+            if (token and token.vector_norm):
                 # if token not in highSimilarityDict.keys(): # Alas, this did not work to remove duplicates from my dictionary. :-(
                 if wordOfInterest.similarity(token) > .3:
                     highSimilarityDict[token] = wordOfInterest.similarity(token)
                     # The line above creates the structure for each entry in my dictionary.
-                        # print(token.text, "about this much similar to", wordOfInterest, ": ", wordOfInterest.similarity(token))
+                    # print(token.text, "about this much similar to", wordOfInterest, ": ", wordOfInterest.similarity(token))
         print("This is a dictionary of words most similar to the word " + wordOfInterest.text + " in this file.")
         print(highSimilarityDict)
 
@@ -110,9 +125,105 @@ def readTextFiles(filepath):
         # So you should read the WHOLE tutorial to see how to convert this back into a dictionary again
         # and do that in your code here.
 
+        sortedSimValues = sorted(deduped.items(), key=lambda x: x[1], reverse=True)
+        print(type(sortedSimValues), f'{sortedSimValues=}')
+        # HEY, that's not a dictionary! It's a list. Let's convert it back to a dictionary.
+
+        sortedSimDict = dict(sortedSimValues)
+        print(type(sortedSimValues), f'{sortedSimValues=}')
+
+        return sortedSimDict
+
+
 # ebb: This controls our file handling as a for loop over the directory:
-for file in os.listdir(CollPath):
+with open('similarityReadings.txt', 'a', encoding='utf8') as f:
+    for file in sorted(os.listdir(CollPath)):
+        # My filenames are numbered, so I controlled the order of the for loop by sorting them.
+        if file.endswith(".txt"):
+            filepath = f"{CollPath}/{file}"
+            print(filepath)
+            similarityData = readTextFiles(filepath)
+            f.write(filepath + '\n')
+            f.write(str(similarityData) + '\n\n')
+    # ***************  HOW TO OUTPUT DICTIONARY STRUCTURES  ****************
+    # If we convert it to a string, it comes out as a list of tuples.
+    # That's okay, but it's not a great data structure to work with.
+    # Let's try outputting a few different data structures from a dictionary
+
+    # ============================================ #
+    # PICKLING: DICTIONARY OUTPUT METHOD 1
+    # ============================================ #
+    # This would make a .pkl binary file object, not readable as a string of text,
+    # but preserving the data structure as a dictionary. You import the pickle module to do this.
+    # Python serializes and deserializes "pickle" files as data objects. Works inside total Python environments.
+    # For more on pickling your data, see https://www.datacamp.com/tutorial/pickle-python-tutorial
+    # The rest of the data formats are for serializing in forms of text media:
+
+ # ============================================ #
+    # DICTIONARY OUTPUTS TO TEXT MEDIA FORMATS
+    # ============================================ #
+    # We will output each of the TEXT MEDIA outputs INSIDE THE FOR LOOP to create well-formed outputs:
+
+# EMPTY and CREATE THREE OUTPUT FOLDERS:
+shutil.rmtree("JSON-output")
+shutil.rmtree("csv-output")
+shutil.rmtree("xml-output")
+os.mkdir('JSON-output')
+os.mkdir('csv-output')
+os.mkdir('xml-output')
+
+for file in sorted(os.listdir(CollPath)):
+    # My filenames are numbered, so I controlled the order of the for loop by sorting them.
     if file.endswith(".txt"):
         filepath = f"{CollPath}/{file}"
         print(filepath)
-        readTextFiles(filepath)
+        filenameTxt = os.path.basename(filepath).split('/')[-1]
+        filename = filenameTxt[:-4]
+        print(filename)
+        similarityData = readTextFiles(filepath)
+
+        # ============================================ #
+        # JSON: DICTIONARY OUTPUT METHOD 2
+        # ============================================ #
+        # JSON stands for JavaScript Object Notation
+        # It's an adaptable file serialization format for dictionary structures used for web programming
+        stringKeys = {str(key): val for key, val in similarityData.items()}
+        print(f'{stringKeys=}')
+        with open(f'JSON-output/{filename}.json', 'w') as fp:
+            JSON = json.dumps(stringKeys)
+            print(f'{JSON=}')
+            json.dump(stringKeys, fp)
+
+        # ============================================ #
+        # PANDAS DATA FRAMES: DICTIONARY OUTPUT METHOD 3
+        # ============================================ #
+        # Data Frames are used heavily in data analytics.
+        # They make a tabular (table) structure and are easily output as a CSV or TSV text file
+        df = pd.DataFrame.from_dict(similarityData.items(), orient="columns")
+        df.columns = ['token', 'similarity']
+        print(df)
+        df.to_csv(f'csv-output/{filename}.tsv', sep='\t', index=False, encoding='utf-8')
+        # I want to make a tsv file (tab-separated values), so I'm using the \t here.
+        # to make a comma-separated values csv, put in a ','
+
+    # ============================================ #
+    # XML: DICTIONARY OUTPUT METHOD 4
+    # ============================================ #
+    # This tutorial is good: https://www.geeksforgeeks.org/serialize-python-dictionary-to-xml/
+        xml = dicttoxml(similarityData)
+        dom = parseString(xml)
+        # dom is just a string. We can pretty print it in the console,
+        # but this is not good for writing to an XML file.
+        print(dom.toprettyxml())
+        with open(f'xml-output/{filename}.xml', 'w') as xmlFile:
+            xml_decode = xml.decode()
+            xmlFile.write(xml_decode)
+            xmlFile.close()
+
+
+
+
+
+
+
+

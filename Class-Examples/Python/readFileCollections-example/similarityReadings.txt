@@ -1,0 +1,180 @@
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-1.txt
+{confusion: 0.5402386164509124, dangers: 0.3939297105912422, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, something: 0.3599935769414534, unpredictable: 0.3458318113571637, anomalous: 0.33311204685701973, concerns: 0.32749574848035723, that: 0.3199346037146467, they: 0.30881649272929873, apparent: 0.30219898650476046, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-2.txt
+{panic: 1.0, chaos: 0.6202660691803873, fear: 0.6138941609247863, deadly: 0.43952932322993377, widespread: 0.39420462861870775, shocking: 0.3746970219959627, causing: 0.35029004564759286, even: 0.34693562533865335, that: 0.3199346037146467, they: 0.30881649272929873, caused: 0.3036122578603176, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-3.txt
+{confusion: 0.5402386164509124, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, when: 0.3639973848847503, cause: 0.3524045041675451, even: 0.34693562533865335, harm: 0.33926869345182253, thing: 0.334617802674614, anomalous: 0.33311204685701973, seriously: 0.3290226136508412, that: 0.3199346037146467, what: 0.3123327627287958, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-4.txt
+{dangers: 0.3939297105912422, shocking: 0.3746970219959627, anomalous: 0.33311204685701973, struggling: 0.32224357512011353, that: 0.3199346037146467, repeatedly: 0.30081027485016304, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-1.txt
+{confusion: 0.5402386164509124, dangers: 0.3939297105912422, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, something: 0.3599935769414534, unpredictable: 0.3458318113571637, anomalous: 0.33311204685701973, concerns: 0.32749574848035723, that: 0.3199346037146467, they: 0.30881649272929873, apparent: 0.30219898650476046, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-2.txt
+{panic: 1.0, chaos: 0.6202660691803873, fear: 0.6138941609247863, deadly: 0.43952932322993377, widespread: 0.39420462861870775, shocking: 0.3746970219959627, causing: 0.35029004564759286, even: 0.34693562533865335, that: 0.3199346037146467, they: 0.30881649272929873, caused: 0.3036122578603176, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-3.txt
+{confusion: 0.5402386164509124, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, when: 0.3639973848847503, cause: 0.3524045041675451, even: 0.34693562533865335, harm: 0.33926869345182253, thing: 0.334617802674614, anomalous: 0.33311204685701973, seriously: 0.3290226136508412, that: 0.3199346037146467, what: 0.3123327627287958, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-4.txt
+{dangers: 0.3939297105912422, shocking: 0.3746970219959627, anomalous: 0.33311204685701973, struggling: 0.32224357512011353, that: 0.3199346037146467, repeatedly: 0.30081027485016304, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-1.txt
+{confusion: 0.5402386164509124, dangers: 0.3939297105912422, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, something: 0.3599935769414534, unpredictable: 0.3458318113571637, anomalous: 0.33311204685701973, concerns: 0.32749574848035723, that: 0.3199346037146467, they: 0.30881649272929873, apparent: 0.30219898650476046, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-2.txt
+{panic: 1.0, chaos: 0.6202660691803873, fear: 0.6138941609247863, deadly: 0.43952932322993377, widespread: 0.39420462861870775, shocking: 0.3746970219959627, causing: 0.35029004564759286, even: 0.34693562533865335, that: 0.3199346037146467, they: 0.30881649272929873, caused: 0.3036122578603176, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-3.txt
+{confusion: 0.5402386164509124, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, when: 0.3639973848847503, cause: 0.3524045041675451, even: 0.34693562533865335, harm: 0.33926869345182253, thing: 0.334617802674614, anomalous: 0.33311204685701973, seriously: 0.3290226136508412, that: 0.3199346037146467, what: 0.3123327627287958, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-4.txt
+{dangers: 0.3939297105912422, shocking: 0.3746970219959627, anomalous: 0.33311204685701973, struggling: 0.32224357512011353, that: 0.3199346037146467, repeatedly: 0.30081027485016304, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-1.txt
+{confusion: 0.5402386164509124, dangers: 0.3939297105912422, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, something: 0.3599935769414534, unpredictable: 0.3458318113571637, anomalous: 0.33311204685701973, concerns: 0.32749574848035723, that: 0.3199346037146467, they: 0.30881649272929873, apparent: 0.30219898650476046, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-2.txt
+{panic: 1.0, chaos: 0.6202660691803873, fear: 0.6138941609247863, deadly: 0.43952932322993377, widespread: 0.39420462861870775, shocking: 0.3746970219959627, causing: 0.35029004564759286, even: 0.34693562533865335, that: 0.3199346037146467, they: 0.30881649272929873, caused: 0.3036122578603176, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-3.txt
+{confusion: 0.5402386164509124, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, when: 0.3639973848847503, cause: 0.3524045041675451, even: 0.34693562533865335, harm: 0.33926869345182253, thing: 0.334617802674614, anomalous: 0.33311204685701973, seriously: 0.3290226136508412, that: 0.3199346037146467, what: 0.3123327627287958, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-4.txt
+{dangers: 0.3939297105912422, shocking: 0.3746970219959627, anomalous: 0.33311204685701973, struggling: 0.32224357512011353, that: 0.3199346037146467, repeatedly: 0.30081027485016304, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-1.txt
+{confusion: 0.5402386164509124, dangers: 0.3939297105912422, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, something: 0.3599935769414534, unpredictable: 0.3458318113571637, anomalous: 0.33311204685701973, concerns: 0.32749574848035723, that: 0.3199346037146467, they: 0.30881649272929873, apparent: 0.30219898650476046, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-2.txt
+{panic: 1.0, chaos: 0.6202660691803873, fear: 0.6138941609247863, deadly: 0.43952932322993377, widespread: 0.39420462861870775, shocking: 0.3746970219959627, causing: 0.35029004564759286, even: 0.34693562533865335, that: 0.3199346037146467, they: 0.30881649272929873, caused: 0.3036122578603176, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-3.txt
+{confusion: 0.5402386164509124, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, when: 0.3639973848847503, cause: 0.3524045041675451, even: 0.34693562533865335, harm: 0.33926869345182253, thing: 0.334617802674614, anomalous: 0.33311204685701973, seriously: 0.3290226136508412, that: 0.3199346037146467, what: 0.3123327627287958, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-4.txt
+{dangers: 0.3939297105912422, shocking: 0.3746970219959627, anomalous: 0.33311204685701973, struggling: 0.32224357512011353, that: 0.3199346037146467, repeatedly: 0.30081027485016304, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-1.txt
+{confusion: 0.5402386164509124, dangers: 0.3939297105912422, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, something: 0.3599935769414534, unpredictable: 0.3458318113571637, anomalous: 0.33311204685701973, concerns: 0.32749574848035723, that: 0.3199346037146467, they: 0.30881649272929873, apparent: 0.30219898650476046, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-2.txt
+{panic: 1.0, chaos: 0.6202660691803873, fear: 0.6138941609247863, deadly: 0.43952932322993377, widespread: 0.39420462861870775, shocking: 0.3746970219959627, causing: 0.35029004564759286, even: 0.34693562533865335, that: 0.3199346037146467, they: 0.30881649272929873, caused: 0.3036122578603176, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-3.txt
+{confusion: 0.5402386164509124, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, when: 0.3639973848847503, cause: 0.3524045041675451, even: 0.34693562533865335, harm: 0.33926869345182253, thing: 0.334617802674614, anomalous: 0.33311204685701973, seriously: 0.3290226136508412, that: 0.3199346037146467, what: 0.3123327627287958, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-4.txt
+{dangers: 0.3939297105912422, shocking: 0.3746970219959627, anomalous: 0.33311204685701973, struggling: 0.32224357512011353, that: 0.3199346037146467, repeatedly: 0.30081027485016304, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-1.txt
+{confusion: 0.5402386164509124, dangers: 0.3939297105912422, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, something: 0.3599935769414534, unpredictable: 0.3458318113571637, anomalous: 0.33311204685701973, concerns: 0.32749574848035723, that: 0.3199346037146467, they: 0.30881649272929873, apparent: 0.30219898650476046, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-2.txt
+{panic: 1.0, chaos: 0.6202660691803873, fear: 0.6138941609247863, deadly: 0.43952932322993377, widespread: 0.39420462861870775, shocking: 0.3746970219959627, causing: 0.35029004564759286, even: 0.34693562533865335, that: 0.3199346037146467, they: 0.30881649272929873, caused: 0.3036122578603176, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-3.txt
+{confusion: 0.5402386164509124, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, when: 0.3639973848847503, cause: 0.3524045041675451, even: 0.34693562533865335, harm: 0.33926869345182253, thing: 0.334617802674614, anomalous: 0.33311204685701973, seriously: 0.3290226136508412, that: 0.3199346037146467, what: 0.3123327627287958, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-4.txt
+{dangers: 0.3939297105912422, shocking: 0.3746970219959627, anomalous: 0.33311204685701973, struggling: 0.32224357512011353, that: 0.3199346037146467, repeatedly: 0.30081027485016304, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-1.txt
+{confusion: 0.5402386164509124, dangers: 0.3939297105912422, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, something: 0.3599935769414534, unpredictable: 0.3458318113571637, anomalous: 0.33311204685701973, concerns: 0.32749574848035723, that: 0.3199346037146467, they: 0.30881649272929873, apparent: 0.30219898650476046, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-2.txt
+{panic: 1.0, chaos: 0.6202660691803873, fear: 0.6138941609247863, deadly: 0.43952932322993377, widespread: 0.39420462861870775, shocking: 0.3746970219959627, causing: 0.35029004564759286, even: 0.34693562533865335, that: 0.3199346037146467, they: 0.30881649272929873, caused: 0.3036122578603176, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-3.txt
+{confusion: 0.5402386164509124, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, when: 0.3639973848847503, cause: 0.3524045041675451, even: 0.34693562533865335, harm: 0.33926869345182253, thing: 0.334617802674614, anomalous: 0.33311204685701973, seriously: 0.3290226136508412, that: 0.3199346037146467, what: 0.3123327627287958, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-4.txt
+{dangers: 0.3939297105912422, shocking: 0.3746970219959627, anomalous: 0.33311204685701973, struggling: 0.32224357512011353, that: 0.3199346037146467, repeatedly: 0.30081027485016304, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-1.txt
+{confusion: 0.5402386164509124, dangers: 0.3939297105912422, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, something: 0.3599935769414534, unpredictable: 0.3458318113571637, anomalous: 0.33311204685701973, concerns: 0.32749574848035723, that: 0.3199346037146467, they: 0.30881649272929873, apparent: 0.30219898650476046, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-2.txt
+{panic: 1.0, chaos: 0.6202660691803873, fear: 0.6138941609247863, deadly: 0.43952932322993377, widespread: 0.39420462861870775, shocking: 0.3746970219959627, causing: 0.35029004564759286, even: 0.34693562533865335, that: 0.3199346037146467, they: 0.30881649272929873, caused: 0.3036122578603176, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-3.txt
+{confusion: 0.5402386164509124, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, when: 0.3639973848847503, cause: 0.3524045041675451, even: 0.34693562533865335, harm: 0.33926869345182253, thing: 0.334617802674614, anomalous: 0.33311204685701973, seriously: 0.3290226136508412, that: 0.3199346037146467, what: 0.3123327627287958, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-4.txt
+{dangers: 0.3939297105912422, shocking: 0.3746970219959627, anomalous: 0.33311204685701973, struggling: 0.32224357512011353, that: 0.3199346037146467, repeatedly: 0.30081027485016304, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-1.txt
+{confusion: 0.5402386164509124, dangers: 0.3939297105912422, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, something: 0.3599935769414534, unpredictable: 0.3458318113571637, anomalous: 0.33311204685701973, concerns: 0.32749574848035723, that: 0.3199346037146467, they: 0.30881649272929873, apparent: 0.30219898650476046, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-2.txt
+{panic: 1.0, chaos: 0.6202660691803873, fear: 0.6138941609247863, deadly: 0.43952932322993377, widespread: 0.39420462861870775, shocking: 0.3746970219959627, causing: 0.35029004564759286, even: 0.34693562533865335, that: 0.3199346037146467, they: 0.30881649272929873, caused: 0.3036122578603176, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-3.txt
+{confusion: 0.5402386164509124, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, when: 0.3639973848847503, cause: 0.3524045041675451, even: 0.34693562533865335, harm: 0.33926869345182253, thing: 0.334617802674614, anomalous: 0.33311204685701973, seriously: 0.3290226136508412, that: 0.3199346037146467, what: 0.3123327627287958, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-4.txt
+{dangers: 0.3939297105912422, shocking: 0.3746970219959627, anomalous: 0.33311204685701973, struggling: 0.32224357512011353, that: 0.3199346037146467, repeatedly: 0.30081027485016304, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-1.txt
+{confusion: 0.5402386164509124, dangers: 0.3939297105912422, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, something: 0.3599935769414534, unpredictable: 0.3458318113571637, anomalous: 0.33311204685701973, concerns: 0.32749574848035723, that: 0.3199346037146467, they: 0.30881649272929873, apparent: 0.30219898650476046, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-2.txt
+{panic: 1.0, chaos: 0.6202660691803873, fear: 0.6138941609247863, deadly: 0.43952932322993377, widespread: 0.39420462861870775, shocking: 0.3746970219959627, causing: 0.35029004564759286, even: 0.34693562533865335, that: 0.3199346037146467, they: 0.30881649272929873, caused: 0.3036122578603176, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-3.txt
+{confusion: 0.5402386164509124, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, when: 0.3639973848847503, cause: 0.3524045041675451, even: 0.34693562533865335, harm: 0.33926869345182253, thing: 0.334617802674614, anomalous: 0.33311204685701973, seriously: 0.3290226136508412, that: 0.3199346037146467, what: 0.3123327627287958, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-4.txt
+{dangers: 0.3939297105912422, shocking: 0.3746970219959627, anomalous: 0.33311204685701973, struggling: 0.32224357512011353, that: 0.3199346037146467, repeatedly: 0.30081027485016304, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-1.txt
+{confusion: 0.5402386164509124, dangers: 0.3939297105912422, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, something: 0.3599935769414534, unpredictable: 0.3458318113571637, anomalous: 0.33311204685701973, concerns: 0.32749574848035723, that: 0.3199346037146467, they: 0.30881649272929873, apparent: 0.30219898650476046, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-2.txt
+{panic: 1.0, chaos: 0.6202660691803873, fear: 0.6138941609247863, deadly: 0.43952932322993377, widespread: 0.39420462861870775, shocking: 0.3746970219959627, causing: 0.35029004564759286, even: 0.34693562533865335, that: 0.3199346037146467, they: 0.30881649272929873, caused: 0.3036122578603176, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-3.txt
+{confusion: 0.5402386164509124, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, when: 0.3639973848847503, cause: 0.3524045041675451, even: 0.34693562533865335, harm: 0.33926869345182253, thing: 0.334617802674614, anomalous: 0.33311204685701973, seriously: 0.3290226136508412, that: 0.3199346037146467, what: 0.3123327627287958, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-4.txt
+{dangers: 0.3939297105912422, shocking: 0.3746970219959627, anomalous: 0.33311204685701973, struggling: 0.32224357512011353, that: 0.3199346037146467, repeatedly: 0.30081027485016304, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-1.txt
+{confusion: 0.5402386164509124, dangers: 0.3939297105912422, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, something: 0.3599935769414534, unpredictable: 0.3458318113571637, anomalous: 0.33311204685701973, concerns: 0.32749574848035723, that: 0.3199346037146467, they: 0.30881649272929873, apparent: 0.30219898650476046, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-2.txt
+{panic: 1.0, chaos: 0.6202660691803873, fear: 0.6138941609247863, deadly: 0.43952932322993377, widespread: 0.39420462861870775, shocking: 0.3746970219959627, causing: 0.35029004564759286, even: 0.34693562533865335, that: 0.3199346037146467, they: 0.30881649272929873, caused: 0.3036122578603176, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-3.txt
+{confusion: 0.5402386164509124, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, when: 0.3639973848847503, cause: 0.3524045041675451, even: 0.34693562533865335, harm: 0.33926869345182253, thing: 0.334617802674614, anomalous: 0.33311204685701973, seriously: 0.3290226136508412, that: 0.3199346037146467, what: 0.3123327627287958, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-4.txt
+{dangers: 0.3939297105912422, shocking: 0.3746970219959627, anomalous: 0.33311204685701973, struggling: 0.32224357512011353, that: 0.3199346037146467, repeatedly: 0.30081027485016304, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-1.txt
+{confusion: 0.5402386164509124, dangers: 0.3939297105912422, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, something: 0.3599935769414534, unpredictable: 0.3458318113571637, anomalous: 0.33311204685701973, concerns: 0.32749574848035723, that: 0.3199346037146467, they: 0.30881649272929873, apparent: 0.30219898650476046, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-2.txt
+{panic: 1.0, chaos: 0.6202660691803873, fear: 0.6138941609247863, deadly: 0.43952932322993377, widespread: 0.39420462861870775, shocking: 0.3746970219959627, causing: 0.35029004564759286, even: 0.34693562533865335, that: 0.3199346037146467, they: 0.30881649272929873, caused: 0.3036122578603176, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-3.txt
+{confusion: 0.5402386164509124, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, when: 0.3639973848847503, cause: 0.3524045041675451, even: 0.34693562533865335, harm: 0.33926869345182253, thing: 0.334617802674614, anomalous: 0.33311204685701973, seriously: 0.3290226136508412, that: 0.3199346037146467, what: 0.3123327627287958, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-4.txt
+{dangers: 0.3939297105912422, shocking: 0.3746970219959627, anomalous: 0.33311204685701973, struggling: 0.32224357512011353, that: 0.3199346037146467, repeatedly: 0.30081027485016304, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-1.txt
+{confusion: 0.5402386164509124, dangers: 0.3939297105912422, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, something: 0.3599935769414534, unpredictable: 0.3458318113571637, anomalous: 0.33311204685701973, concerns: 0.32749574848035723, that: 0.3199346037146467, they: 0.30881649272929873, apparent: 0.30219898650476046, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-2.txt
+{panic: 1.0, chaos: 0.6202660691803873, fear: 0.6138941609247863, deadly: 0.43952932322993377, widespread: 0.39420462861870775, shocking: 0.3746970219959627, causing: 0.35029004564759286, even: 0.34693562533865335, that: 0.3199346037146467, they: 0.30881649272929873, caused: 0.3036122578603176, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-3.txt
+{confusion: 0.5402386164509124, dangerous: 0.3867293723662065, shocking: 0.3746970219959627, when: 0.3639973848847503, cause: 0.3524045041675451, even: 0.34693562533865335, harm: 0.33926869345182253, thing: 0.334617802674614, anomalous: 0.33311204685701973, seriously: 0.3290226136508412, that: 0.3199346037146467, what: 0.3123327627287958, it: 0.30034611967158426}
+
+/Users/eeb4/Documents/GitHub/newtfire/textAnalysis-Hub/Class-Examples/Python/readFileCollections-example/textCollection/prince-charles-scp-4.txt
+{dangers: 0.3939297105912422, shocking: 0.3746970219959627, anomalous: 0.33311204685701973, struggling: 0.32224357512011353, that: 0.3199346037146467, repeatedly: 0.30081027485016304, it: 0.30034611967158426}
+
