@@ -69,27 +69,37 @@ def readTextFiles(filepath):
                     # The line above creates the structure for each entry in my dictionary.
                         # print(token.text, "about this much similar to", wordOfInterest, ": ", wordOfInterest.similarity(token))
         print("This is a dictionary of words most similar to the word " + wordOfInterest.text + " in this file.")
-        # print(highSimilarityDict)
+        print(highSimilarityDict)
 
         # ebb: When I printed the highSimilarityDict, I noticed that there are duplicate entries.
         # I tried a couple of strategies to remove them. One is commented-out above.
-        # The strategy below actually worked, and I based it on this example:
-        # https://tutorial.eyehunts.com/python/python-remove-duplicates-from-dictionary-example-code/
-        # UPDATE 2023-02-07:
-        # Here are two MUCH simpler ways to remove duplicates. The first one is designed for dictionaries:
-        # 1. Use the dict.fromkeys() method, which would make a new dictionary using the distinct key values.
-        # 2. Or, convert the dictionary to a set() which is a structure containing only unique items.
-        # Then convert it back to a dictionary again with dict().
-        # And then, in that stage, sort the dictionary, too. Either of these would be a little less code than
-        # the method we used here.
-        # See handy article: https://careerkarma.com/blog/python-remove-duplicates-from-list/
+        # dict.fromkeys() did not work because of Python's assumption that a dictionary's keys are already unique.
 
+        # ebb UPDATE 2024-02-04: Here are a couple of good ways to remove duplicates from the dictionary:
+        print("\n\n DICTIONARY COMPREHENSION TO DEDUPE THE DICTIONARY. "
+              "\n I like this method because it's short and and whimsical."
+              "\n It pulls a switcheroo! Keys become values in the first dictionary comprehension."
+              "\n 'Deduping' happens because when a duplicate token is read as a *value* it is removed."
+              "\n Then we reverse again and make the tokens be keys in the shorter dictionary."
+              "Source: https://tutorial.eyehunts.com/python/python-remove-duplicates-from-dictionary-example-code/ ")
+        switcheroo = {val: key for key, val in highSimilarityDict.items()}
+        deduped = {val: key for key, val in switcheroo.items()}
+        print(str(len(switcheroo)) + ' **** ' + f'{switcheroo=}')
+
+        print(len(deduped), ' **** ', f'{deduped=}')
+        print(len(deduped.items()), " vs ", len(highSimilarityDict.items()))
+
+        print("\n\nLONGHAND WAY: REMOVES DUPLICATE VALUES ONLY (WON'T WORK ON JUST KEYS)"
+              "\n Source: https://tutorial.eyehunts.com/python/python-remove-duplicates-from-dictionary-example-code/")
         highSimilarityReduced = {}
         for key, value in highSimilarityDict.items():
             if value not in highSimilarityReduced.values():
                 highSimilarityReduced[key] = value
         print(highSimilarityReduced)
         print(len(highSimilarityReduced.items()), " vs ", len(highSimilarityDict.items()))
+
+        print("Now it's YOUR TURN! How will you sort your dictionary?"
+              "\n Read the comments in the code at this point to get you started.")
 
         # ebb: For this next part, it's YOUR TURN to write some modifying code.
         # We should sort the highSimilarityReduced dictionary by values from high to low,
