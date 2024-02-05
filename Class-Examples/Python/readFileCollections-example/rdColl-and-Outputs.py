@@ -165,9 +165,15 @@ with open('similarityReadings.txt', 'a', encoding='utf8') as f:
     # We will output each of the TEXT MEDIA outputs INSIDE THE FOR LOOP to create well-formed outputs:
 
 # EMPTY and CREATE THREE OUTPUT FOLDERS:
-shutil.rmtree("JSON-output")
-shutil.rmtree("csv-output")
-shutil.rmtree("xml-output")
+# First check and see, do these folders exist? If so, remove them
+# because Python won't allow you to overwrite them
+if os.path.exists("JSON-output"):
+    shutil.rmtree("JSON-output")
+if os.path.exists("csv-output"):
+    shutil.rmtree("csv-output")
+if os.path.exists("xml-output"):
+    shutil.rmtree("xml-output")
+
 os.mkdir('JSON-output')
 os.mkdir('csv-output')
 os.mkdir('xml-output')
