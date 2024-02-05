@@ -86,7 +86,7 @@ def readTextFiles(filepath):
 
         highSimilarityReduced = {}
         for key, value in highSimilarityDict.items():
-            if value not in highSimilarityReduced.values():
+            if key not in highSimilarityReduced.keys():
                 highSimilarityReduced[key] = value
         print(highSimilarityReduced)
         print(len(highSimilarityReduced.items()), " vs ", len(highSimilarityDict.items()))
