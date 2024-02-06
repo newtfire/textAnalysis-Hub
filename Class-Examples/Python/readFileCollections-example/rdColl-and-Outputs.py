@@ -7,12 +7,15 @@ import os, shutil
 # This will let Python read and interpret file paths on your local computer.
 # shutil will let us remove unwanted files from a directory.
 
-# FOR XML OUTPUT:  install dicttoxml
+# FOR XML OUTPUT: You'll need to install dicttoxml
+# pip install dicttoxml, or use the Pycharm package manager
 from dicttoxml import dicttoxml
-# install xml.dom.minidom
+# xml.dom.minidom comes with Python so you have it already
 from xml.dom.minidom import parseString
 
 # FOR DATAFRAMES OUTPUT
+# You'll need to install pandas
+# pip install pandas, or use the Pycharm package manager
 import pandas as pd
 
 # FOR JSON OUTPUT
