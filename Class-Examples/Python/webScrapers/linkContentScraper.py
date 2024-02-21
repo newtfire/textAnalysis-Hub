@@ -6,7 +6,8 @@ import os
 
 # ebb: This variable stores the website address that you want to scrape.
 # archive_url = "https://www.simplyscripts.com/c.html"
-archive_url = "https://newtfire.org/courses/"
+# archive_url = "https://newtfire.org/courses/"
+archive_url = input("Enter a URL. It must be well-formed and start with https")
 def get_linkContents():
     # create response object
     r = requests.get(archive_url)
