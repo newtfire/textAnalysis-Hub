@@ -4,5 +4,7 @@
 
 2. Analyze the spacing in the document. Remove extra spaces at start of lines (how many?)
 
-Find: ` `
-Replace: ` `
+Find: `^\s\s`
+Replace: NOTHING! :) This trims off the extra spaces.
+
+3. 
