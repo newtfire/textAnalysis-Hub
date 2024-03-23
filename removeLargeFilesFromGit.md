@@ -6,12 +6,9 @@
 * [Removing unwanted files after you committed / pushed them!](#removing-unwanted-files-after-you-committed--pushed-them)
      * [Scenario 1: Removing files that are already in the remote web repo](#scenario-1-removing-files-that-are-already-in-the-remote-web-repo)
      * [Scenario 2: You committed and tried to push a file above 100MB and now the repo is jammed up](#scenario-2-you-committed-and-tried-to-push-a-file-above-100mb-and-now-the-repo-is-jammed-up)
-
 * [How to remove the large file from git's tracking memory](#how-to-remove-the-large-file-from-gits-tracking-memory)
  
   
-
-
 ### Screening out big files: Preventive maintenance
 GitHub has a limit on the size of a single file that you may push to the cloud repo (and still use its free service). That limit is 100 MB. 
 You can sign up (and pay money for) GitHub to provide a large file size service, but we don't recommend this. Usually it is best not to push gigantic files in the first place.
@@ -45,8 +42,9 @@ Here is how to remove them:
 
 `git rm -r --cached .`
 
-It's crucial that you're navigated to the "root level" of your Github repo when you enter this command. 
+It's crucial that you're navigated to the "root level" of your Github repo when you enter this command. This command doesn't delete any of your local files, but it does remove them from git's tracking. 
 The dot `.` at the end of the command means "here in this directory space." The `rm` means "remove", while the `-r` means "recursively" (looking down into all the directories below / inside this space. 
+* To complete the removal, you need to **add, commit, and push** the change. 
 
 #### Scenario 2: You committed and tried to push a file above 100MB and now the repo is jammed up
 
