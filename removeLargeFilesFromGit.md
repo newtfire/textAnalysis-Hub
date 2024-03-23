@@ -2,7 +2,7 @@
 
 ### Screening out big files: Preventive maintenance
 GitHub has a limit on the size of a single file that you may push to the cloud repo (and still use its free service). That limit is 100 MB. 
-You can sign up (and pay money for) Git to provide a large file size service, but we don't recommend this. Usually it is best not to push gigantic files in the first place.
+You can sign up (and pay money for) GitHub to provide a large file size service, but we don't recommend this. Usually it is best not to push gigantic files in the first place.
 
 * If you are working with image / media files and just want to publish them on the web:
      * Transform the image to a standard format for web publishing (jpeg, png, gif). Reduce the image resolution so the image saves as something smaller than 100 MB. 
