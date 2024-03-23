@@ -1,7 +1,7 @@
 # How to screen out and remove large or unwanted files from git history
 
 ## Contents
-[Screening out big files: Preventive maintenance with .gitignore](#screening-out-big-files-preventive-maintenance
+[Screening out big files: Preventive maintenance with .gitignore](#screening-out-big-files-preventive-maintenance)
 
 
 ### Screening out big files: Preventive maintenance
