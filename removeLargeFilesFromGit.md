@@ -47,6 +47,7 @@ What you need to do is: **remove the large file from git's tracking memory**.
 You also need to make sure it's screened out by your .gitignore file so it can't ever be included in commits and pushes in future. (See our advice on the .gitignore file in the previous section of this guide.)
 
 ##### How to remove the large file from git's tracking memory
+
 We need to filter the memory of your git branch. This is literally revising git's history, and your git tracking will deliver you warning messages as you proceed, because changing git's history is a pretty serious thing.
 It's literally *rewriting* the past! We have to do two things:
 
@@ -54,12 +55,14 @@ It's literally *rewriting* the past! We have to do two things:
 2. **Force push** the changed history up to the web repo.
 
 1. **Remove a file or whole directory from the tracking memory**
+
 Here is a **template** for the command that you will need to adapt. 
 To adapt this, we need to know **the filepath from the root of your repo to the file you need to remove from memory**.
 In my template, I've made up that path with the part reading: "PATH/TO/BIG/BAD/FILE". You need to change that part.
 * You should keep the `/` pointing forward regardless of whether this is Windows or Mac.
 
 **Removing a single file**
+
 This template works "out of the box" for removing just the one file.
 (The `\` allows you to enter multiple lines in your shell, while the `/` is for filepath separators.)
 
@@ -70,6 +73,7 @@ git filter-branch --force --index-filter \
 ```
 
 **Removing an entire directory**
+
 We need to add the `-r` flag to the `git rm` command so it can remove all the files inside a directory
 
 
@@ -82,6 +86,7 @@ git filter-branch --force --index-filter \
 
 **EXAMPLE:** Let's look at an example where you want to remove an entire folder from the git tracking memory: 
 Say your huge file is sitting here in your repo. 
+
 ```
 My-GitHub-Repo/
    |
@@ -108,6 +113,7 @@ You'll just need to indicate to Git that yes, you're indeed purposefully revisin
 We now need to **force push** the altered history up to your web repo! 
 
 2. **Force push the changed history up to the web repo**
+
 You won't be allowed to simply do a `git push` to send that changed history to your repo! Git will want to put the old history back, and it may even prompt you to pull in the original history from your web repo!
 **Don't do it!** Instead you need to **force push** the history that you just altered. Here's how to do that:
 
