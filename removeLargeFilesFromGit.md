@@ -1,7 +1,15 @@
 # How to screen out and remove large or unwanted files from git history
 
 ## Contents
-[Screening out big files: Preventive maintenance with .gitignore](#screening-out-big-files-preventive-maintenance)
+
+* [Screening out big files: Preventive maintenance with .gitignore](#screening-out-big-files-preventive-maintenance)
+* [Removing unwanted files after you committed / pushed them!](#removing-unwanted-files-after-you-committed--pushed-them)
+     * [Scenario 1: Removing files that are already in the remote web repo](#scenario-1-removing-files-that-are-already-in-the-remote-web-repo)
+     * [Scenario 2: You committed and tried to push a file above 100MB and now the repo is jammed up](#scenario-2-you-committed-and-tried-to-push-a-file-above-100mb-and-now-the-repo-is-jammed-up)
+
+* [How to remove the large file from git's tracking memory](#how-to-remove-the-large-file-from-gits-tracking-memory)
+ 
+  
 
 
 ### Screening out big files: Preventive maintenance
@@ -50,7 +58,7 @@ You probably tried deleting the file, but that won't work! Why not?
 What you need to do is: **remove the large file from git's tracking memory**. 
 You also need to make sure it's screened out by your .gitignore file so it can't ever be included in commits and pushes in future. (See our advice on the .gitignore file in the previous section of this guide.)
 
-##### How to remove the large file from git's tracking memory
+#### How to remove the large file from git's tracking memory
 
 We need to filter the memory of your git branch. This is literally revising git's history, and your git tracking will deliver you warning messages as you proceed, because changing git's history is a pretty serious thing.
 It's literally *rewriting* the past! We have to do two things:
