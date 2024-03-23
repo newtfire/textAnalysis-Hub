@@ -105,7 +105,8 @@ My-GitHub-Repo/
        |
        Lib/
         |
-        spacy-Large-Language-Model-File (it's like 500+ MB and definitely will choke GitHub) 
+        spacy-Large-Language-Model-File
+         (This single file is 500+ MB and definitely will choke GitHub) 
 ```
 
 I've indicated folder names by putting the `/` filepath separator at the end of the name, so the `Lib` is designated as a folder with `/`: `Lib/`
