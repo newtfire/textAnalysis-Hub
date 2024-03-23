@@ -41,6 +41,7 @@ Here is how to remove them:
 * Then, to **remove** the already-posted files/folders in your repo that the .gitignore ought to be screening out, enter this command at your repo: 
 
 `git rm -r --cached .`
+
 This command doesn't delete any of your local files, but it does remove them from git's tracking. 
 It's crucial that you're navigated to the "root level" of your Github repo when you enter this command. 
 The dot `.` at the end of the command means "here in this directory space." The `rm` means "remove", while the `-r` means "recursively" (looking down into all the directories below / inside this space. 
