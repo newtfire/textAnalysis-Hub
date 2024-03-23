@@ -11,7 +11,7 @@ You can sign up (and pay money for) Git to provide a large file size service, bu
 * Save a .gitignore file in your repo that identifies a folder in your local computer to screen from git pushes.
     * What even is a .gitignore file, anyway? See <https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/>.
     * We've prepared [this .gitignore file](https://raw.githubusercontent.com/newtfire/textAnalysis-Hub/main/.gitignore) for work in the DIGIT 210 class and we'll periodically update it in this repo.
-    * Our .gitignore designed to screen out Windows, Mac, and Linux system files, and **Python's virtual environment files** across computer platforms.
+    * Our .gitignore is designed to screen out Windows, Mac, and Linux system files, and **Python's virtual environment files** across computer platforms.
        * **Even when these are not super-large files** you don't want to push them to a repo that you share on the web, because the files on your local computer are customized to your file system.
        * Others need run the code in their own customized environments. They won't be able to work with your customized environment files.
        * What you push to **shared repo space** should just be the code you've written. Never push "pre-fab" software/installation-generated files.
