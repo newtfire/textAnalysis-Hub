@@ -1,4 +1,9 @@
-## How to screen out and remove large or unwanted files from git history
+# How to screen out and remove large or unwanted files from git history
+
+## Contents
+[Screening out big files: Preventive maintenance (.gitignore)](###Screening out big files: Preventive maintenance)
+
+
 
 ### Screening out big files: Preventive maintenance
 GitHub has a limit on the size of a single file that you may push to the cloud repo (and still use its free service). That limit is 100 MB. 
