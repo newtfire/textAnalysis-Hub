@@ -1,0 +1,48 @@
+Regex Exercise 3
+
+Dracula:
+
+*Note*: when cutting filler text, you do not always have to use regex to delete it. Doing it by hand is always an option!
+
+1. Lets clean up the text for symbols!
+
+Find:&
+
+Replace:&amp;
+
+
+2. Lets also get rid of some extra line space.
+
+Find: \n\n+ or \n\n{2,} ***Looking for 2 lines or more in a row***
+
+Replace: \n\n
+
+
+3. Inside out: matching lines
+
+Find: ^.+?$ 
+
+Replace:<p>\0</p>
+
+
+4. Deleting Chapter and Roman Numerals
+
+Find: <p>\s*(CHAPTER.+?)</p>
+
+Replace: <heading>\1</heading>
+
+
+Find: <heading>.+?</heading>
+
+Replace:
+
+</chapter>
+<chapter>\0
+
+
+5. Organizing and getting rid of quotations
+
+Find: [,.!?]\s+"(,+?)"
+
+Replace: <q>\1</q>
+
