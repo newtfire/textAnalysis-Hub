@@ -42,7 +42,8 @@ Here is how to remove them:
 
 `git rm -r --cached .`
 
-It's crucial that you're navigated to the "root level" of your Github repo when you enter this command. This command doesn't delete any of your local files, but it does remove them from git's tracking. 
+This command doesn't delete any of your local files, but it does remove them from git's tracking. 
+It's crucial that you're navigated to the "root level" of your Github repo when you enter this command. 
 The dot `.` at the end of the command means "here in this directory space." The `rm` means "remove", while the `-r` means "recursively" (looking down into all the directories below / inside this space. 
 * To complete the removal, you need to **add, commit, and push** the change. 
 
@@ -104,7 +105,8 @@ My-GitHub-Repo/
        |
        Lib/
         |
-        spacy-Large-Language-Model-File (it's like 500+ MB and definitely will choke GitHub) 
+        spacy-Large-Language-Model-File
+         (This single file is 500+ MB and definitely will choke GitHub) 
 ```
 
 I've indicated folder names by putting the `/` filepath separator at the end of the name, so the `Lib` is designated as a folder with `/`: `Lib/`
