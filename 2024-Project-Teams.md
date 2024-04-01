@@ -16,6 +16,14 @@
 * [Tyler Gaydos](https://github.com/gylertaydos) **
 * [Owen Helm](https://github.com/OH-ThatGuy)
 
+## Family Guy 
+[Project GitHub](https://github.com/josiahr21/FamilyGuy1)
+
+[Website]()
+* [Liz Chavez](https://github.com/03lizchavez)
+* [Josiah Ruiz](https://github.com/josiahr21) **
+* [Hattie Sosia](https://github.com/hsosia1/) 
+
 
 ## Financial News
 [Project GitHub](https://github.com/Cal16king/Finance-Sentiment-Analysis)
@@ -42,7 +50,7 @@
 * [Alisson Gossage](https://github.com/alissongossage/)
 
 
-## 
+
 
 
 
