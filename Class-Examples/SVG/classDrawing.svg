@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc>My Hand-drawn SVG File</desc>
+    
+  <g >
+        <line x1="20" y1="30" x2="500" y2="30" stroke="purple" stroke-width="5"/>
+        
+        <line x1="20" y1="30" x2="20" y2="500" stroke="green" stroke-width="5"/>
+        
+        
+        <line x1="20" y1="500" x2="500" y2="500" stroke="purple" stroke-width="5"/>
+        
+        <g class="specialShapes"> 
+            <line x1="100" y1="200" x2="100" y2="500" stroke="orange" stroke-width="5"/>
+            <circle cx="100" cy="200" r="50" fill="purple" />
+        </g>
+      
+  </g>
+      
+<!--    <g transform="translate(50, 500)">
+     <desc>ebb: transform="translate(x, y)" moves 0,0 over and own by the x and y value you input.
+      You can use this to move 0,0 down the screen to make it easier to plot things above it.
+      What goes *above* 0,0 can just be expressed using negative values.</desc>
+        
+      <line x1="20" y1="0" x2="500" y2="0" stroke="purple" stroke-width="10"/>
+        
+      <line x1="20" y1="0" x2="20" y2="-300" stroke="green" stroke-width="5"/>
+    </g>   -->
+        
+       
+</svg>
