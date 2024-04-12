@@ -1,0 +1,824 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt>
+<metadata><ep><epTitle>30 Minutes Over <location>Tokyo</location></epTitle><szn>10</szn>x<epNum>23</epNum></ep>
+<date>05/21/99</date> <runtime>00:28</runtime></metadata>
+
+<music>♪<stage> Chorus Singing </stage></music>
+
+<stage> Bell Ringing </stage>
+
+<stage> Whistle Blowing </stage>
+
+<stage> Beeping </stage>
+
+<music>♪ <stage>Jazzy Solo </stage></music>
+
+<stage> Beeping </stage>
+
+<stage> Tires Screeching </stage>
+
+<catchphrase>D'oh</catchphrase>! <stage> Screams </stage>
+
+<stage> All Shout </stage>
+
+Hey, why didn't you tell me the new issue of Weird was here?
+
+<stage> Chuckles </stage> I love their hilarious send-ups of hit movies.
+
+Dad, it's not- "Gigabytes."
+
+<stage> Laughing </stage> They've done it again.
+
+"Gigabytes." Wait-This isn't Weird.
+
+Why, there's no magazine called Weird, is there?
+
+This is Wired. It's about computers and technology.
+
+Hey, look. There's a cybercafe opening right here in <location>Springfield</location>.
+
+Will you take me, Dad? Please?
+
+I'll show you how to order pizza over the lnternet.
+
+The lnternet? Is that thing still around?
+
+I know a Web site that shows monkeys doin' it.
+
+<fam><person>Bart</person></fam>, the lnternet is more than a global p*rn network.
+
+It's a-
+
+<stage> Horn Honks </stage>
+
+Come on, <fam><person>Lisa</person></fam>. Monkeys.
+
+<stage> Groans </stage>
+
+Ach. Let's see what's been captured on the up-kilt camera.
+
+<stage> Beeps, Whirs </stage>
+
+Ew. This lass needs a bit of grounds keeping.
+
+Eh? Aah! That's Willie!
+
+My name is Mary.
+
+I'm 45, heavy and willing to settle for less.
+
+Wow. This Mary's got the whole package.
+
+Wow, Dad. You're surfin' like a pro.
+
+Oh, yeah. I'm betting on jai alai in the <location>Cayman</location> lslands.
+
+I invested in something called News Corp-
+
+Dad! That's Fox!
+
+<stage> Screams </stage>
+
+Undo! Undo! <stage> Groans </stage>
+
+Dad, do we have any money left?
+
+Well, let's check the old bank account.
+
+<stage> Beeps </stage>
+
+See? Even after my cyber squandering... we've still got $1 ,200.
+
+All right, dorks, this is a holdup.
+
+<stage> Gasping, Murmuring </stage>
+
+Oh, yes!
+
+Download to papa.
+
+<stage> Beeping </stage>
+
+Yoink dot adios, back-slash losers.
+
+<stage> Groans </stage>
+
+<stage> <fam><person>Marge</person></fam> </stage> We were robbed?
+
+You seem to know an awful lot about this for an innocent person.
+
+We were saving that money for our family vacation.
+
+Now we're gonna have to start all over again.
+
+<stage> Groans </stage>
+
+Aw, don't worry, sweetheart.
+
+I'll get us the money- even if I have to get a second job.
+
+Evenin', neighbor. Low on funds again?
+
+Yes, sir.
+
+Now, <fam><person>Homer</person></fam>, we can't have you burglarizing us... every time you got a bill to pay.
+
+I know, sir. I'm sorry, sir.
+
+It's just that you and Maude live like royalty in your fancy castle... while I got <fam><person>Marge</person></fam> trapped over there like a pig in a mud beehive.
+
+Oh, we're-We're not as well off as you think.
+
+We give to eight different churches just to hedge our bets... and the Leftorium's business has gone way down hill... since Leftopolis moved in next door.
+
+If you're not rich, then how come you have a new refrigerator... an electric can opener, a milk shake machine?
+
+<stage> Chuckling </stage> We picked those up cheap.
+
+They were evidence at a m*rder trial.
+
+Sweet.
+
+We got that tip at <location>the Chuck Garabedian Mega-Savings Seminar</location>.
+
+Go on.
+
+He taught us how to live... a Burt Reynolds lifestyle on a Mac Davis income.
+
+We've already got tickets for his next seminar.
+
+I think you'll find living thrifty a lot more satisfying than stealing.
+
+Maybe you're right, <person>Ned</person>.
+
+Maybe you're right.
+
+Are you tired of missing out on the good things in life-
+
+Family vacations, jet packs, Solid Gold Dancers?
+
+There's only three left in the world.
+
+Well, stick around, 'cause I'm gonna tell you... the I 2 savings secrets Wall Street won't tell you.
+
+Then I'll show you the three ways to get back to the highway- including one shortcut those Wall Street fat cats don't want you to know.
+
+<stage> Cheering </stage>
+
+Oh, here we go with the fat-cat bashing.
+
+Well, what do you expect? These yokels are pure <location>Baltic Avenue</location>.
+
+<stage> Chuckles </stage> Uh-oh! I'm late for the Short Line Railroad.
+
+<stage> Tires Squeal </stage>
+
+Let's start with mega secret number one: "Ya gotta squeeze every penny."
+
+You see this tux? I got it cheap 'cause <person>Roy</person> Cohn died in it.
+
+<stage> Murmuring </stage>
+
+That fancy yacht?
+
+A bargain, 'cause it smells like cat pee.
+
+<stage> Murmuring </stage>
+
+And those beautiful women?
+
+They used to be men.
+
+<stage> Groaning </stage>
+
+The point is, ya gotta squeeze every penny. Come on, let me hear you.
+
+<stage> Together</stage> Squeeze every penny. Squeeze every penny.
+
+I'm squeezing. I'm squeezing it.
+
+<stage> Slurping Sound </stage>
+
+Hey, I squeezed so hard it went into my hand.
+
+Oh, <fam><person>Homer</person></fam>, not again.
+
+Ew. We're gonna do our grocery shopping at a 99-cent store?
+
+Well, maybe for your wedding.
+
+<stage> <fam><person>Bart</person></fam> </stage> How about here?
+
+Not if we want that vacation.
+
+Look, Mom. They have your dress.
+
+<stage> Groans </stage> Thirty-three cents? I paid almost double that.
+
+Blue?
+
+Wow! This plankton's only 33 cents.
+
+According to the Mexican Council of Food... this expired two years ago.
+
+Sure, by their standards, but we live in <location>America</location>.
+
+<stage> Chomping, Groaning </stage>
+
+This also says it can cause red tide poisoning.
+
+But it's so cheap.
+
+Well, let's see what's in the old vacation fund.
+
+<fam><person>Homer</person></fam>, you could have just unscrewed the bottom.
+
+A little late for "could-haves," <fam><person>Marge</person></fam>.
+
+I don't think there's enough here for a vacation.
+
+There is for a Mega-Savings vacation.
+
+Chuck Garabedian says you can fly mega cheap... if you don't care where you go.
+
+That's right.Just go to the airport and wait for some no-shows.
+
+Then you can buy their seats for a fraction of the price.
+
+Are you going through our garbage?
+
+That's right. You fat cats didn't finish your plankton.
+
+Now it's mine.
+
+<location>Hawaii</location>, here we come.
+
+No. No. We're going to <location>Paris</location>. I can feel it.
+
+Come on, <location>Transylvania</location>.
+
+<stage> With Jamaican Accent </stage> No, mon, let's go home to <location>Jamaica</location>.
+
+I and I been in <location>Babylon</location> too long.
+
+<stage> Woman On P.A.</stage> Attention. Flight 605 to <location>Tokyo</location> is ready for departure... and has four available mega-saver seats.
+
+<stage> Both </stage> Yeah!
+
+Come on, <fam><person>Homer</person></fam>.<location>Japan</location>.
+
+No, not <location>Japan</location>, <location>Jamaica</location>. I wanna pass the dutchie on the left-hand side.
+
+Never mind. Looks like the <person>Flanders</person> are gonna get those seats anyway.
+
+Oh, so <person>Flanders</person> thinks he can steal our vacation, huh?
+
+<stage> Groans </stage>
+
+Come on!
+
+Whoo!
+
+<stage> Horn Honking </stage>
+
+Sayonara, suckers.
+
+<stage> Snarls </stage>
+
+Yea! The Simpsons are going to <location>Japan</location>.
+
+<stage> Gong Sounds </stage>
+
+Hey, watch the gong, jerk.
+
+Come on, <fam><person>Homer</person></fam>. <location>Japan</location> will be fun.
+
+You liked h*m*.
+
+That's not how I remember it.
+
+Besides, if we wanna see Japanese people... we could have gone to the zoo.
+
+<fam><person>Homer</person></fam>!
+
+What? The guy who washes the elephants is Japanese.
+
+His name is Takashi. He's in my book club.
+
+Look, Mom. The safety instructions are written in haiku.
+
+"Fasten seat belts tight.
+
+"Your seat cushions float gently.
+
+Headsets, five dollars."
+
+<stage> Beeping </stage>
+
+Sir, it is not safe to use electronic devices yet.
+
+You're the waitress.
+
+<stage> Beeps </stage>
+
+<stage> Attendant </stage> Turn it back on.! Turn it back on.!
+
+Ooh. I never knew Jim Belushi made so many movies.
+
+Yeah, isn't it amazing? They're filming one right now in the bathroom.
+
+Gonna be on towards the end of the flight.
+
+Toga! Toga! Toga 2,000!
+
+<fam><person>Marge</person></fam>, they stole my idea.
+
+The local time is... tomorrow.
+
+<stage> <fam><person>Homer</person></fam></stage> Here's our room.
+
+<fam><person>Homer</person></fam>, you're supposed to slide those doors open.
+
+I don't have time for that. <stage> Grunts </stage>
+
+<stage> Man's Voice </stage> Welcome. I am honored to accept your waste.
+
+<stage> Beeps </stage>
+
+<music>♪ <stage> Bells </stage></music>
+
+<stage> Gasps </stage> They're years ahead of us.
+
+Mom! Lise! Check it out. Dad's on TV.
+
+Oh, yeah!
+
+<stage> <fam><person>Marge</person></fam>, <fam><person>Bart</person></fam>, <fam><person>Lisa</person></fam> Screaming </stage>
+
+<stage> Gasps </stage> It's breathtaking.
+
+Look. There's the lmperial Gardens.
+
+The Meiji Shrine.
+
+The Hello Kitty factory.
+
+<stage> Cats Yowling </stage>
+
+<stage> Yowling Stops </stage>
+
+Who's up for some exploring?
+
+Hey, I'm still checking out Japanese TV.
+
+<music>♪ <stage> Synthesizers </stage></music>
+
+Isn't this that cartoon that causes seizures?
+
+<stage> Beeping </stage>
+
+<stage> Grunting, Groaning </stage>
+
+<fam><person>Bart</person></fam>, what are you doing? <stage> Grunting, Groaning </stage>
+
+Hey, what the- <stage> Grunting, Groaning </stage>
+
+Hmm. All right.
+
+<stage> Grunting, Groaning </stage>
+
+Robots be right back.
+Whoo!
+
+All that seizing made me hungry.
+
+Me too.
+
+Let's go to an authentic Japanese noodle house.
+
+The toilet recommended a place called <location>Americatown</location>.
+
+Dad, we didn't come halfway around the world to eat at <location>Americatown</location>.
+
+I'd like to see the Japanese take on the club sandwich.
+
+I bet it's smaller and more efficient.
+
+<stage> Man </stage> We now return to Battling Seizure Robots.
+
+<stage> Beeping </stage>
+
+<stage> All Moaning </stage>
+
+<stage> Mechanical Clicking </stage>
+
+I can't believe they stuck us at "Tax-a-chusetts."
+
+Hey, you know, I once knew a man from <location>Nantucket</location>.
+
+And?
+
+Let's just say the stories about him are greatly exaggerated.
+
+Howdy, gangstas.
+
+I am average American Joe salary-man waiter.
+
+These prices suck. 1 0,000 yen for coleslaw?
+
+Don't you serve anything that's even remotely Japanese?
+
+Don't ask me. I don't know anything.
+
+I am product of American education system.
+
+I also build poor-quality cars and inferior-style electronics.
+
+<stage> Laughs </stage> Oh, they got our number.
+
+One square watermelon, please.
+
+Oh, my goodness. <fam><person>Homer</person></fam>, those are $1 50.
+
+It's worth every cent.
+
+I'm tired of fumbling with round fruit. <catchphrase>D'oh</catchphrase>!
+
+Well, maybe we should just head back to the hotel.
+
+But you promised me we'd do something Japanese.
+
+Oh, of course you're right.
+
+You know, I read about a Shinto teahouse... where they practice the traditional- Run, <fam><person>Bart</person></fam>!
+
+Hey. Isn't that Woody Allen?
+
+Hmm. Looks like he's doing a commercial.
+
+Oh! <stage> Clears Throat </stage> Hello.
+
+<stage> Clears Throat </stage> So many rice crackers claim to be low-cal... but only Fujikawa rice crackers make your interiors go bananas.
+
+What did I do to deserve this?
+
+Oh, right.
+
+Mmm. Fifty-dollar pretzels.
+
+Hey, what's Baby Huey doin'?
+
+Says here they throw salt before they wrestle to purify the ring.
+
+Hmm.
+
+Spare some salt, tubby?
+
+Tubby?
+
+<stage> Speaking Japanese </stage>
+
+Yoink.
+
+Hey, that's mine! <stage> Yells </stage>
+
+Hey.
+
+<stage> Grunts </stage>
+
+<stage> Crowd Groans </stage>
+
+Like we say in my county, "Hasta la vista, baby."
+
+Congratulations. I am the emperor.
+
+Yeah? And I'm "clobber-saurus."
+
+<stage> Gasping, Sighing </stage>
+
+All hail Emperor Clobbersaurus.
+
+<stage> Booing </stage>
+
+Your wife has paid your bail, Mr. Simpson-san.
+
+Thank God. Couldn't take another minute in this hellhole.
+
+<stage> Chomping </stage>
+
+Now can we do something Japanese?
+
+Oh, I'm sick of doing Japanese stuff.
+
+In jail we had to be in this dumb <location>Kabuki</location> play about the 47 Ronin... and I wanted to be Yoshi, but they made me Ori.
+
+Then we had to do two hours of origami... followed by flower arranging and meditation.
+
+<stage> Speaking Japanese </stage>
+
+Honey, I know you wanna see <location>Japan</location>... but we're down to our last million yen.
+
+Don't worry, ichiban.
+
+I'll show you something Japanese.
+
+Oh, it's beautiful, Dad.
+
+It's a crane. The Japanese believe they bring good luck.
+
+Oh, be careful. We need that money to get home.
+
+<stage> <fam><person>Marge</person></fam> Gasps </stage> No!
+
+<stage>Japanese </stage>
+
+<stage> Man </stage> Now, Mr. Simpson...
+
+I know you lost all your money, but don't worry.
+
+<location>The United States</location> will not stand idly by... while one of its citizens is stuck here like this.
+
+<stage> Grunts, Groans </stage>
+
+But, Mr. Ambassador, how are we going to get home?
+
+Beats me. Try getting a job and earning some money.
+
+That's what I did. By the way, "ambassador" is taken.
+
+<stage> Groaning </stage>
+
+Every truckload of fish we gut... brings us 31 cents closer to those tickets home.
+
+And I think I finally found what I was put on this <location>Earth</location> to do.
+
+Knife goes in, guts come out. Knife goes in, guts come out.
+
+Spare my life and I will grant you three wi-
+
+<stage> Screams </stage>
+
+Knife goes in, guts come out.
+
+Yippee! Time for the company loyalty song.
+
+<music>♪ <stage> Singing </stage></music>
+
+<stage> Groans </stage>
+
+Well, this sucks. What else is on?
+
+<stage> Bell Ringing </stage>
+
+<stage> Cheering </stage>
+
+<stage> Laughs </stage> Thank you.
+
+You have fulfilled our dreams, and dreams of our ancestors.
+
+<stage> Male Announcer </stage> Tune in tomorrow, when another lucky family... tries to win their dreams... on Happy Smile Super Challenge Family Wish Show.
+
+Family Wish Show.<stage>/i</stage> Hmm.
+
+That gives me an idea.
+
+I think we all had that idea.
+
+I didn't. What is it? Lunch?
+
+Thank you, thank you.
+
+And welcome to our contestants from <location>America</location>, the Simpson family.
+
+You honor us.
+
+Don't patronize me.
+
+Now, Simpson family, have you picked a wish?
+
+Well, I haven't talked it over with the family- <stage> Chuckles </stage> but I think we'd all like a free dinner at <location>Americatown</location>.
+
+No, no, no. We want plane tickets home to <location>Springfield</location>.
+
+<stage> Cheering, Whistling </stage>
+
+Now, our game shows are a little different from yours.
+
+Your shows reward knowledge.
+
+We punish ignorance.
+
+Ignor-What? <stage> Screams </stage>
+
+<stage> Laughing </stage>
+
+Okay, let's begin.
+
+Our categories are: "Ow. That hurts. " "Why are you doing this to me?"
+
+And "Please let me die."
+
+<stage> Bell Dings </stage>
+
+"Ow. That hurts."
+
+Oh, yeah, number one. Definitely.
+
+I don't know. I like "Why are you doing this?"
+
+"Ow. That hurts."
+
+We'll go with "Ow. That hurts," Skip.
+
+My name is Wink.
+
+<stage> Groans </stage>
+
+<stage> Laughing, Chattering </stage>
+
+All right, Simpsons, whack the pinata.
+
+<stage> Groaning </stage>
+
+Come on!
+
+Whack that pig open. Once more.
+
+Harder. Whack it open.
+
+<stage> Laughing </stage>
+
+Good. All right.
+
+You may remove your blindfolds.
+
+<stage> Groaning </stage>
+
+Oh, sorry, Dad.
+
+We didn't know.
+
+I had an inkling.
+
+Could someone please whack my hernia back in?
+
+Sure, thing, Dad.
+
+Mr. Simpson, we'll cut you down... as soon as you answer one question about <location>Japan</location>.
+
+Is the answer "<location>Japan</location>"?
+
+Actually, it is.
+
+<stage> Speaking Japanese </stage>
+
+That means you move on to the lightning round.
+
+<stage> Moans </stage>
+
+<stage> Thunder Rumbling </stage>
+
+<stage> Screams </stage>
+
+He seems okay... but he is being b*rned internally.
+
+<stage> Screaming </stage>
+
+Hey, isn't that <fam><person>Homer</person></fam> on the Japanese Channel?
+
+If that's <fam><person>Homer</person></fam>, then who the hell's been puttin' beers on his tab?
+
+<catchphrase>D'oh</catchphrase>. Whoo-hoo.
+
+Uh-That boy ain't right.
+
+<stage> Host </stage> Congratulations, Simpsons.
+
+The airline tickets are yours.
+
+All you have to do is to pick them up...
+
+from inside that volcano.
+
+Why are you so cruel?
+
+<stage> Laughing </stage>
+
+This vacation really blows.
+
+Well, at least we're past the lighting round.
+
+<stage> Screams </stage> Hmm. I see.
+
+I sure hope they don't have an ice cream round. <stage> Screams </stage>
+
+Mmm. I don't think that bridge can support much weight.
+
+Well, <fam><person>Maggie</person></fam> weighs a lot less than- Oh, I'll just go.
+
+<stage> Groaning </stage>
+
+<stage> Together</stage> Plummet! Plummet! Plummet! Plummet!
+
+Plummet.! Plummet.! Plummet.! Plummet.! Plummet.! Plummet.!
+
+Yes! Got 'em.
+
+<stage> Together</stage> U.S.A.! U.S.A.! U.S.-
+
+<stage> Buzzes </stage>
+
+<stage> Screams </stage>
+
+<stage> Gasps </stage> <fam><person>Lisa</person></fam>!
+
+<stage> Screams </stage>
+
+<stage> Grunts </stage>
+
+Oh.!
+
+<fam><person>Marge</person></fam>! Your shoe!
+
+The plane tickets! <stage> Grunting </stage>
+
+Whoa! Whoa!
+
+Oh, I'm afraid this might be the end.
+
+Well, at least we'll die doing what we love- inhaling molten rock.
+
+<stage> All Screaming </stage>
+
+<stage> Cheering </stage>
+
+<stage> Screams </stage> It <person>burns</person>! It <person>burns</person>!
+
+Don't worry, that "lava" is just orangeade... made by our sponsor, Osaka Orangeade Concern.
+
+It <person>burns</person>! It <person>burns</person>!
+
+It's loaded with wasabi.
+
+Kudos, Simpsons. You have won your freedom.
+
+<stage> Audience Cheering </stage>
+
+Before I go, I want to say something.
+
+Game shows aren't about cruelty.
+
+They're about greed and wonderful prizes... like poorly built catamarans.
+
+But somewhere along the line, you lost your way.
+
+For shame.
+
+<stage> Groaning </stage>
+
+Coming up next, a Canadian couple... who say they are deathly afraid of scorpions.
+
+Oh, that stings, eh.
+
+<stage> Screams </stage>
+
+Ooh, God! Ow! Ooh!
+
+<stage> Screaming </stage>
+
+Sting those Canucks.
+
+<stage> Laughs </stage> I love this show.
+
+Take that, you stupid hosers. <stage> Groans </stage>
+
+Good-bye, <location>Japan</location>. I'll miss your Kentucky Fried Chicken... and your sparkling, whale-free seas.
+
+Hey, what's goin' on?
+
+What's happening?
+
+<stage> Beeping </stage>
+
+<stage> Man On P.A.</stage> Folks, we're experiencing... some moderate Godzilla-related turbulence at this time, so I'm gonna go ahead... and ask you to put your seat belts back on.
+
+<stage> Screeching </stage>
+
+When we get to 35,000 feet he usually does let go... so from there on out, all we have to do...
+
+<stage> Yawning </stage>
+
+is worry about Mothra, and we do have reports... he's tied up with Gamera and Rodan at the present time.
+
+Thank you very much.
+
+<stage> Roaring, Screeching </stage>
+
+<stage> Godzilla Screeches </stage>
+
+<stage> Murmuring </stage>
+
+Shh!
+
+<stage> <fam><person>Homer</person></fam> Screams </stage> Undo.! Undo.! <stage> Groans </stage>
+</txt></xml>

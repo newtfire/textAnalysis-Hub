@@ -1,0 +1,702 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt>
+<metadata><ep><epTitle>Double, Double, Boy in Trouble</epTitle><szn>20</szn>x<epNum>03</epNum></ep>
+<date>10/23/08</date> <runtime>15:23</runtime></metadata>
+
+<stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
+
+<stage>SCHOOL BELL RINGING</stage>
+
+<stage>HORN BELLOWING</stage>
+
+<stage>PLAYING DIFFERENT TUNE</stage>
+
+<stage>TIRES SCREECHING</stage>
+
+<catchphrase>D'oh</catchphrase>!
+
+<stage>SCREAMS</stage>
+
+<stage>BRAKES SCREECHING</stage>
+
+<stage>SNOWBALL II SQUEALING</stage>
+
+<stage>CHICKENS CLUCKING</stage>
+
+Stupid shopping list, turning food into work.
+
+<fam><person>Bart</person></fam>!
+
+Look at me! I'm doing something!
+
+<stage>EXCLAIMS</stage>
+
+You better settle down, boy, or I'll drag you into the blind spot of that security camera and b*at you with one of those big thick women's magazines with all the ads in it.
+
+Mr. <fam><person>Homer</person></fam>, why don't you forget your worries with this, the last lottery ticket on the roll.
+
+<stage>SING-SONG</stage> They say the last one is lucky unlike all the others.
+
+Lucky, or not.
+
+You make a good case. I'll take it!
+
+Dad! Look at me! Look at me!
+
+Cannonball!
+
+<stage>SCREAMS</stage>
+
+I'll take that last lottery ticket, <person>Apu</person>.
+
+<stage>EXCLAIMS</stage>
+
+<stage>LAUGHS</stage> Again!
+
+<stage><person>BART</person> GRUNTING</stage>
+
+<person>Lenny</person>: I won! I won!
+
+$50,000! Ponder this, <fam><person>Homer</person></fam>.
+
+This ticket would've been yours if your kid hadn't been screwing around!
+
+That is true. Another ironic tale of the <location>Kwik</location>-E-Mart.
+
+<stage><person>APU</person> LAUGHS EVILLY</stage>
+
+You just cost me $200,000!
+
+I thought it was 50.
+
+I was gonna bet it on the dogs!
+
+All the groceries seem to have been balled up in anger.
+
+That kid has become a Dennis-level menace!
+
+Now, <fam><person>Homer</person></fam>, boys will be boys.
+
+<fam><person>Bart</person></fam> cost us $50,000!
+
+<stage>GRUNTS ANGRILY</stage>
+
+<stage>CHUCKLES AWKWARDLY</stage>
+
+<stage>GROANS</stage>
+
+I'm going to <person>Moe</person>'s.
+
+All: <stage>SINGING</stage> <person>Lenny</person>! <person>Lenny</person>! He's our guy!
+
+Got the ticket <fam><person>Homer</person></fam> didn't buy!
+
+<stage>SIGHS</stage>
+
+Cheer up, <fam><person>Homer</person></fam>. The drinks are on <person>Lenny</person>.
+
+I don't want your pity booze. I'll pay for it myself.
+
+I gotta check with <person>Lenny</person> on that. Is that all right, <person>Lenny</person>?
+
+Nope! Lucky <person>Lenny</person>'s buying all the drinks tonight!
+
+Sorry, <fam><person>Homer</person></fam>. But here's a compromise. Why don't you both pay for the drink?
+
+And tip.
+
+I just want to tell you all that even before I won this money, I was the luckiest guy in the world because I've got friends like you.
+
+All: Aww.
+
+That's why I'm spending my remaining scratcher winnings on a kick-ass <location>party</location> for all my friends!
+
+<stage>ALL CHEERING</stage>
+
+<stage>LAUGHS HYSTERICALLY</stage>
+
+<stage>DEEP SIGH</stage>
+
+Where's <fam><person>Bart</person></fam>? We're gonna be late for <person>Lenny</person>'s <location>party</location>.
+
+<fam><person>Bart</person></fam>: Don't waste your sh*t, <fam><person>Bart</person></fam>.
+
+You've got just enough cat pee to soak two dorks.
+
+<stage>TODD LAUGHS</stage>
+
+<fam><person>Bart</person></fam> Simpson! Did you just spray water on me?
+
+It was water this morning.
+
+<stage>GRUNTS</stage>
+
+Dang that <fam><person>Bart</person></fam>! Thanks to him, I have to wear my backup dress, which makes my arms look fat.
+
+You look great!
+
+Ha-ha!
+
+You feel self-conscious!
+
+<stage><person>MARGE</person> GRUNTS ANGRILY</stage>
+
+Why can't our son just behave?
+
+Well, <fam><person>Marge</person></fam>, you did have that one sip of alcohol while you were pregnant.
+
+I now christen this ship, the USS Float and sh**t.
+
+<stage><person>MARGE</person> GASPS</stage>
+
+Ay, <catchphrase>caramba</catchphrase>! Ay, <catchphrase>caramba</catchphrase>!
+
+That was unforgivable.
+
+But I'm beginning to think that <fam><person>Bart</person></fam>'s bad behavior is more than just a phase.
+
+Mom! <fam><person>Bart</person></fam>'s flicking boogers on me!
+
+They're not boogers! They're clumps of rubber cement that I stored in my nose.
+
+Oh!
+
+Stop it, both of you! Don't make me drive into that tree! You know I will!
+
+<stage>TIRES SQUEALING</stage>
+
+No flicking boogers! And no driving into trees!
+
+Both: Yes, ma'am.
+
+<stage>PIANO PLAYING SLOW MUSIC</stage>
+
+Wow, <person>Lenny</person> went all out.
+
+Announcer: In the beginning, there was darkness. So God created man.
+
+But man was alone. God created the animals and birds.
+
+<stage>ELEPHANT TRUMPETING</stage>
+
+But man was still lonely.
+
+<stage>LEOPARD CA TERWAULING</stage>
+
+So God said, let there be friends!
+
+<stage>SINGING</stage> Thank you for being a friend.
+
+Travel down the road and back again.
+
+Your heart is true You're a pal and a confidant.
+
+Thank you for being a friend Thank you for being a friend.
+
+Thank you for being a friend
+
+Thank you for letting me take home the centerpiece!
+
+These are going right on my mom's grave!
+
+Thank you for being a friend
+
+<person>Lenny</person>, it was pretty cool of you to spend your lotto winnings on your pals.
+
+It was worth it so everyone could have a wonderful evening and go home with a gift bag.
+
+Hmm.
+
+A vacuuming robot?
+
+<stage>LAUGHS EVILLY</stage>
+
+Now before you all leave, I know everyone hates vacuuming and loves robots!
+
+<stage>ALL EXCLAIM</stage>
+
+<stage>ALL EXCLAIMING IN FEAR</stage>
+
+<stage>PANTING</stage>
+
+<stage>SCREAMS</stage>
+
+These innocent robots couldn't have done this on their own.
+
+Someone would've had to turn them all on at once and imbue them with some kind of malevolent sentience.
+
+Yep, there it is.
+
+10-year-old versions of me.
+
+The three of us could create quite a lot of mischief.
+
+But I have to fly back to <location>New York</location>. That's where my wife and I live.
+
+That's her. You want to see pictures of our kids?
+
+My name is Simon Woosterfield.
+
+Woosterfield?
+
+Your family owns this place. And <location>Woosterfield Arena</location>.
+
+Bonnie Raitt played there. You guys must be loaded!
+
+Yes. You know, but the funny thing about being rich is sometimes you wake up feeling...
+
+Terrific? Incredible? Happy as a clown?
+
+Yeah. I'm living the dream.
+
+<stage>COUGHING</stage>
+
+<stage>INHALES DEEPLY</stage>
+
+Wouldn't it be hilarious if we switched places and lived each other's lives for a while?
+
+I don't know. I'm pretty attached to my family. And...
+
+<fam><person>Homer</person></fam>: Get out here, boy! I want to punish you before I get drunk and merciful!
+
+Deal!
+
+My father's name is <fam><person>Homer</person></fam>. My mother's name is Mom.
+
+My sister's name is <fam><person>Lisa</person></fam> but everyone calls her Loser.
+
+<stage>LAUGHING</stage>
+
+My butler's name is Chester.
+
+I have a brother named Devon and a sister named Quenley.
+
+And my horse is called Shadowfax.
+
+You can't miss him. He's the only Lipizzaner in our s*ab.
+
+Lipizzaner, got it.
+
+There you are, Master Simon.
+
+Thank you, Lipizzaner.
+
+As you say, sir. Watch your head.
+
+<fam><person>Bart</person></fam>: Ow.
+
+<stage>CAR ENGINE STARTING</stage>
+
+<stage><person>HOMER</person> GRUNTING ANGRILY</stage>
+
+You ruin everything!
+
+Driver, laugh at those people for me.
+
+My pleasure, sir.
+
+<stage>CHESTER LAUGHS FALSELY</stage>
+
+McMansion, McMansion, McMansion, McDonald's?
+
+McDreamy.
+
+McSteamy.
+
+McMansion, Fleetwood Mac and Macaulay Culkin!
+
+And this is your home, sir. But of course you already knew that.
+
+<fam><person>Bart</person></fam>: Awesome.
+
+Awesome!
+
+Awesome!
+<stage>EXCLAIMS DISINTERESTEDLY</stage>
+
+This is my bedroom?
+
+A candy corn volcano?
+
+A ceiling from Saddam's palace?
+
+Ooh! And a racecar bed! That really races!
+
+Wow. Cool poster of Joe Montana.
+
+It's not a poster.
+
+<stage><person>BART</person> SCREAMS</stage>
+
+I'm the real deal.
+
+And every day I stand here, the family donates a million dollars to <location>Notre Dame</location>.
+
+Did you know the words "<location>Notre Dame</location>" are French but the team is the Fighting lrish?
+
+That's the kind of thing I think about in here.
+
+Back in the poster, Gabby.
+
+Yes, sir.
+
+<person>Milhouse</person>, it's me. Check out the caller ID on your phone.
+
+Blocked number? That service is 3.65 a month!
+
+Did you switch places with a millionaire kid who looks just like you?
+
+Just sit tight. I'm sending a car.
+
+Why are these noodles orange?
+
+I made it with Cheetos, just like you like it.
+
+If the sauce is too thick, I can add more root beer.
+
+Maybe I'm just not hungry.
+
+Human garbage can to the rescue!
+
+So at work today, we got a memo saying everyone's getting new chairs.
+
+Father, could you...
+
+Talk louder? You bet!
+
+Naturally I threw my old chair in the Dumpster right away!
+
+But then <person>Lenny</person> said, "No. That was the new chair.
+
+"That memo was two months old." So now I'm sitting on an orange crate.
+
+<stage>LAUGHS</stage> I never felt so...
+
+Will you stop spitting food on me?
+
+Huh?
+
+Keep your meal in your mouth, you semi-literate spew monkey!
+
+That's it, boy! You're going to bed without supper!
+
+That was an odd thing for <fam><person>Bart</person></fam> to say.
+
+Maybe he's going through certain changes.
+
+If that boy thinks I'm paying to put him through four years of puberty, forget it!
+
+Stupid kids, think I'm made of hormones.
+
+<stage>MUFFLED</stage> Mister La-Di-Da, uppity...
+
+This is the greatest great hall I've ever eaten in, <fam><person>Bart</person></fam>.
+
+Chester: Huh?
+
+I mean, Simon.
+
+Oh.
+
+This must be my half-brother and half-sister!
+
+They're beautiful. I mean, just the girl.
+
+I didn't notice the beautiful boy.
+
+So I said, "Dad, I wanted a Range Rover, not a Land Rover."
+
+This is the worst Martin Luther King Day ever!
+
+Well, well, if it isn't our halfwit half-brother.
+
+Ow.
+
+The old hot spoon! But why?
+
+Because you're our half-brother, you're blocking our full inheritance, and we hate you.
+
+Now I get it.
+
+Quenley: Hmm!
+
+<fam><person>Bart</person></fam>, I have a crush on your new sister.
+
+You had a crush on my old sister!
+
+Yeah. But that was never gonna happen.
+
+Give me back my newspaper!
+
+<fam><person>Marge</person></fam>: <fam><person>Homer</person></fam>, it's not a real paper!
+
+It's a rubber chew toy!
+
+For your information, the Daily Growl is the only newspaper that's not afraid to say how great this country is!
+
+<stage>LAUGHS TRIUMPHANTLY</stage>
+
+How's the w*r going? We're winning? That's great! And our standing abroad?
+
+<stage>TOY SQUEAKING</stage>
+
+Fantastic.
+
+This place is insane.
+
+Tonight I got sent to bed without dinner!
+
+Yeah. Well, what's up with your brother and sister?
+
+They're jealous because my father left their mother to be with my mother, to...
+
+You lost me. Well, gotta go.
+
+Enjoy the upper lower middle class.
+
+<stage>SIGHS</stage>
+
+<fam><person>Bart</person></fam>, honey? I saw you didn't like your dinner.
+
+So I thought you might like pepperoni pizza with the crusts cut off.
+
+Now let me tuck you in, fluff your pillow, and sprinkle a little fairy dust to keep the monsters away.
+
+<stage>WHISPERS</stage> It's cinnamon.
+
+Nighty-night, sweetheart.
+
+I could get used to this.
+
+Fancy <location>party</location>. This is like a rap video before the rappers show up.
+
+Simon, have you ever seen the family mausoleum?
+
+All the Woosterfields will be buried here.
+
+Do you know that after 100 years, d*ad bodies turn to red licorice?
+
+Whoa! Let me at it!
+
+<fam><person>Bart</person></fam>: Help! Let me out! I have my doubts about this licorice!
+
+<stage>MR. <person>BURNS</person> GROANS</stage>
+
+Mr. <person>Burns</person>, I'm really sorry.
+
+Nonsense, Young Woosterfield.
+
+Your fortune is greater than mine. It is I who am at your service.
+
+<person>Smithers</person>, fetch us some lemonade!
+
+<stage>MR. <person>BURNS</person> GRUNTS WEAKLY</stage>
+
+<stage><person>SMITHERS</person> PANTING</stage>
+
+All they had was Sunnytime Pink.
+
+Premix? I beg your forgiveness, lad.
+
+<person>Smithers</person>, pour it down your pants!
+
+Now squish about in those pants, rewetting every hour!
+
+<stage>SQUISHING</stage>
+
+Come with me.
+
+You know, Master Simon, I too was once the youngest in a wealthy family.
+
+You were once the youngest of something?
+
+But fortune ended up smiling on me while snuffing the life from my siblings.
+
+My older brother was trampled by a horse.
+
+My sister died of a poisoned potato. My twin was sh*t. That girl was s*ab.
+
+He ate another poisoned potato. Spontaneous combustion.
+
+Fell down a well, potato, potato, and impaled on <location>the Chrysler Building</location>.
+
+Wow. Only you survived.
+
+<stage>GASPS</stage> Which means the entire fortune went to you!
+
+Yes. Funny, that. A word of caution, Young Woosterfield.
+
+Watch out for those closest to you.
+
+Devon and Quenley?
+
+You don't know when they'll strike. A boating accident, a mishap during a ski trip.
+
+But rest assured, one way or another, they will do you in.
+
+Oh, my God. Simon set me up.
+
+And all this time I thought he wanted the life of a stranger he met in the bathroom.
+
+Now, would you care to continue this conversation on the teeter-totter?
+
+<stage><person>BART</person> GRUNTING</stage>
+
+Why won't you come down?
+
+I told you. I only weigh as much as my clothes and keys.
+
+Hmm.
+
+So I looked down the barrel of my Winchester r*fle, I pulled the trigger, and I sh*t that buffalo!
+
+You sh*t a buffalo?
+
+<stage>STUTTERING</stage> You were listening?
+
+Oh.
+
+That means I gotta come up with an ending for this nonsense!
+
+<fam><person>Bart</person></fam>, what are you doing?
+
+Politely listening to our grandfather.
+
+Huh.
+
+It was the w*r to end all wars. But Pepsi would not give up.
+
+They continued to challenge Coke!
+
+<stage>SIMON EXCLAIMS IN SHOCK</stage>
+
+Okay, listen, you.
+
+I don't know who you are or what you've done with the real <fam><person>Bart</person></fam>, but...
+
+Well, God help me, I want him back.
+
+I don't know what you're talking about.
+
+<stage>CHUCKLES</stage>
+
+The real <fam><person>Bart</person></fam> would've thrown me out the window!
+
+He would have defenestrated you?
+
+You're just digging yourself even deeper.
+
+<stage>GRUNTING</stage>
+
+Come on, <fam><person>Bart</person></fam>. You gotta get out of here.
+
+Pack like you've never packed before. You know, I have never packed before.
+
+<stage>GRUNTING</stage>
+
+This is hard.
+
+So you're packing. You must've already heard.
+
+Heard what?
+
+We're going to Aspen.
+
+On a little ski trip.
+
+Ski trip?
+
+You won't know how they'll strike.
+
+A boating accident, a ski trip.
+
+<stage>SCREAMS</stage>
+
+<stage>SINGING</stage> Scrubbing you is easy 'cause you've been pre-rinsed.
+
+And when you're covered with goo that's when I'm scrubbing you.
+
+Scrub-ub-ub-ub-ub Scrub-ub-ub-ub-ub
+
+Mom, "<fam><person>Bart</person></fam>" has something to tell you.
+
+I don't like the look of those air quotes.
+
+So now <fam><person>Bart</person></fam> is on his way to Aspen where they're going to try to k*ll him.
+
+Thank you, Future <fam><person>Bart</person></fam>, for traveling back through time to warn us.
+
+Boy, Aspen sure is ritzy. Even the winos look better.
+
+We are champagnos. Who wants a mimosa?
+
+Uh...
+
+This trail is for experienced skiers.
+
+Which is what you'll be if you make it to the bottom.
+
+Which you won't.
+
+<stage><person>BART</person> SCREAMS</stage>
+
+Soon he'll be d*ad.
+
+And we'll split the inheritance.
+
+Yes, split.
+
+Potato?
+
+<stage>GASPS</stage>
+
+There's <fam><person>Bart</person></fam>!
+
+This looks like a job for Captain Crazy! Up, up, and away!
+
+Come on, gravity. You used to be cool.
+
+<catchphrase>D'oh</catchphrase>!
+
+<stage><person>HOMER</person> SCREAMS</stage>
+
+Occupied.
+
+<stage>EXCLAIMING</stage>
+
+<stage>BOTH EXCLAIMING</stage>
+
+<stage>SIGHS TIREDLY</stage>
+
+Two hot chocolates, please.
+
+Are you guests at the lodge?
+
+No.
+
+<stage>BOTH SCREAMING</stage>
+
+You know, I feel sorry for you, kid, going back to that cold, loveless family.
+
+I'll survive.
+
+Your favorite, sir. Hot fudge sundae with gold <location>leaf</location> and diamond flakes.
+
+Take me with you! I'll be anything and everything you want!
+
+Don't leave me here with them!
+
+I never thought I'd say this, but I missed you guys.
+
+Even what's-her-name... <fam><person>Lisa</person></fam>.
+
+<stage><person>LISA</person> GRUNTS ANGRILY</stage>
+
+Now we tuck in the tummy, the tushy, and the tootsies.
+
+<stage><person>MARGE</person> GIBBERING</stage>
+
+<stage><person>BART</person> LAUGHING</stage>
+
+This is the life.
+</txt></xml>

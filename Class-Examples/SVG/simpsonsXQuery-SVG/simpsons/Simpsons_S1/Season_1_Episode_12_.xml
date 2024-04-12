@@ -1,0 +1,305 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt><metadata><ep><epTitle><person>Krusty</person> Gets Busted</epTitle><szn>01</szn>x<epNum>12</epNum></ep>
+<date>05/22/98</date> <runtime>01:12</runtime></metadata>
+
+<stage>FADE IN</stage>
+
+We begin with a poster of <person>Krusty</person> the Clown, <location>Springfield</location>'s favorite clown. The real <person>KRUSTY</person> rides through the poster on his small car. He steps out to the applause of many children.
+
+<stage><person>KRUSTY</person></stage>Hey, kids! Who do you love?
+
+<stage>KIDS</stage><person>Krusty</person>!!
+
+<stage><person>KRUSTY</person></stage>How much do you love me?
+
+The image transforms into a TV set which <fam><person>Bart</person></fam> and <fam><person>Lisa</person></fam> and <fam><person>Maggie</person></fam> are watching. They speak in sync with the children.
+
+KIDS + <person>BART</person> +<stage> <person>LISA</person></stage>With all our hearts!
+
+<stage><person>KRUSTY</person></stage>What would you do if I went off the air?
+
+KIDS + <person>BART</person> +<stage> <person>LISA</person></stage>We'd k*ll ourselves!
+
+<person>Krusty</person> the Clown laughs and then turns to face his assistant, <person>Sideshow Bob</person>.
+
+<stage><person>KRUSTY</person></stage>What's that, <person>Sideshow Bob</person>? This is Brittany and today's her birthday? Well, happy birthday, Brittany! How do you wanna celebrate? Do you want me to sing you a birthday song?
+
+<person>Sideshow Bob</person> hoots his horn.
+
+<stage><person>KRUSTY</person></stage>Or do you want me to sh**t <person>Sideshow Bob</person> out of a cannon?
+
+<stage>KIDS</stage>The cannon! The cannon!
+
+<person>BART</person> +<stage> <person>LISA</person></stage>The cannon! The cannon!
+
+<stage>GIRL</stage>The cannon.
+
+<person>Krusty</person> turns and speaks silently to <person>Sideshow Bob</person>.
+
+<stage><person>KRUSTY</person></stage>Sorry, <person>Sideshow Bob</person>....but it's her special birthday wish!
+
+The kids cheer as <person>Krusty</person> laughs.
+
+<person>BART</person> <stage>(laughing)</stage>: You're doomed, <person>Sideshow Bob</person>.
+
+<stage><person>KRUSTY</person></stage>I know we haven't had much luck sh**ting you out of this cannon, but maybe that's because we haven't used enough g*n!
+
+He waves a barrel in front of the children and then pours it into the cannon as the children cheer.
+
+<stage><person>KRUSTY</person></stage>Brittany, do the honors.
+
+He hands her a flaming stick and she lights the cannon. <person>Krusty</person> holds his ears as it sh**t and flies back.
+
+<person>Sideshow Bob</person> falls out of several seconds later, his hair wired and straight, and close to completely undressed.
+
+<stage><person>KRUSTY</person></stage>Don't blame me.
+
+<person>KRUSTY</person> +<stage> KIDS</stage>I didn't do it.
+
+They all laugh.
+
+<stage><person>BART</person></stage>Comedy, thy name is <person>Krusty</person>.
+
+<stage><person>KRUSTY</person></stage>Hey, kids, its time for <person>Itchy</person> and <person>Scratchy</person>.
+
+<stage><person>ITCHY</person> AND <person>SCRATCHY</person> CHORUS</stage>They fight, they bite, they bite and fight and bite. Fight, fight, fight, bite, bite, bite. The <person>Itchy</person> and <person>Scratchy</person> Show!
+
+The name of the segment is called "Burning Love".
+
+<person>Scratchy</person> the Cat lies peacefully in a hammock. <person>Itchy</person> lights an arrow on f*re and sh**t it into <person>Scratchy</person>'s behind. He runs around and screams as <fam><person>Bart</person></fam> and <fam><person>Lisa</person></fam> laugh. <fam><person>Marge</person></fam> walks in.
+
+<stage><person>MARGE</person></stage>Oh, my! All this senseless v*olence. I don't understand its appeal.
+
+<stage><person>BART</person></stage>We don't expect you to, Mom.
+
+<stage><person>LISA</person></stage>If cartoons were meant for adults, they'd put them on in prime time.
+
+<stage>CUT TO</stage>
+
+<fam><person>Homer</person></fam> eating donuts at work <stage>(not in his office)</stage>. A telephone behind him rings and he picks it up.
+
+<stage><person>HOMER</person></stage>Yello.
+
+<stage><person>MARGE</person></stage>Hello, <fam>Homie</fam>. I was hoping you could pick up a half-gallon of premium ice cream on your way home from work.
+
+<stage><person>HOMER</person></stage>Ooh, premium --- wait a minute. Why?
+
+<stage><person>MARGE</person></stage><person>Patty</person> and <person>Selma</person> are coming over to show us slides from their trip to the <location>Yucatan</location>.
+
+<stage><person>HOMER</person></stage><catchphrase>Doh</catchphrase>!
+
+At the Simpsons, the doorbell rings.
+
+<person>PATTY</person> +<stage> <person>SELMA</person></stage>Anybody home?
+
+<stage><person>MARGE</person></stage>Ooh, I've go to go, <fam><person>Homer</person></fam>. My sisters are here.
+
+She walks over and opens the door. <person>Patty</person> and <person>Selma</person> immediately walk in with their projectors without a proper greeting.
+<stage><person>MARGE</person></stage>Ooh..eight carousels! We're in for a real treat.
+
+<fam><person>Bart</person></fam> and <fam><person>Lisa</person></fam> both groan.
+
+<stage>CUT TO</stage>
+
+1986.
+
+An old clip is shown of the incident.
+
+<stage><person>KRUSTY</person></stage>Wasn't that a great <person>Itchy</person> and <person>Scratchy</person> cartoon, kids? Well, we've got another one coming right up. But first, I've got a hankering for some pork products.
+
+<person>Sideshow Bob</person> slides over a grill with various meats on it.
+
+<stage><person>KRUSTY</person></stage>Mmm. Look. Plump succulent sausage, honey-smoked bacon and glistening, sizzling ---
+
+He starts grasping his chest as the heart att*ck comes on. The kids laugh and cheer in joy. He falls to the floor.
+
+<stage><person>KRUSTY</person></stage>I'm dying. I'm dying.
+
+35 of the Man in the Iron Mask: "The Death of a Titan."
+
+A piano plays softly in the background.
+
+<stage><person>SIDESHOW BOB</person></stage>Well, kids, that's our show for today. And now, in the words of Mr. Cole Porter... <stage>(singing)</stage>
+Everytime we say good-bye
+
+I die a little
+
+Everytime we say good-bye
+
+I wonder why a little
+
+Every time we say goodbye...
+
+Goodbye.
+
+<stage>TRANSITION TO</stage>
+
+<person>Sideshow Bob</person> signing autographs as he walks down the hall.
+
+<stage>MANAGER</stage>Great show, Sideshow. Switchboards were jammed. The kids loved it.
+
+<stage><person>SIDESHOW BOB</person></stage>Thanks, Ed. I'm glad we've finally dispelled the myth that I'm too uptown for my tots. And yet, I can't help thinking about poor <person>Krusty</person>.
+
+<person>Sideshow Bob</person> weeps as he closes the door. He walks several feet, and his sobs turn into an evil laugh.
+
+FADE TO BLACK
+
+<stage>FADE IN</stage>
+
+<person>Sideshow Bob</person> sits with several promotional people, each presenting their plans to him.
+
+<stage>PROMOTIONAL PEOPLE</stage>We see your face on key chains. And water-action pens. And snow domes.
+
+<stage><person>SIDESHOW BOB</person></stage>This is all very exciting but I think we'd do well to explore the more upscale market. For example, <person>Sideshow Bob</person> limited-edition prints, collector's plates, commemorative coins...
+
+A Security guard peeks through the door.
+
+<stage>SECURITY GUARD</stage>Uh, some kids are here to see you, <person>Sideshow Bob</person>. They say it's important.
+
+<stage>PROMOTIONAL PEOPLE</stage>Ah, well, we can sign these contracts tomorrow.
+
+<stage><person>SIDESHOW BOB</person></stage>Certainly. I take great price in being able to sign my own name.
+
+<stage>PROMOTIONAL PEOPLE</stage>Ha ha, that's a good one. I gotta tell my wife.
+
+They walk out of the room just as <fam><person>Bart</person></fam> and <fam><person>Lisa</person></fam> walk in.
+
+<stage><person>LISA</person></stage>Hi, <person>Sideshow Bob</person>.
+
+<stage><person>BART</person></stage><person>Sideshow Bob</person>, can we ask you a few --- ?
+
+<stage><person>SIDESHOW BOB</person></stage>Forgive me, children. As much as <person>Sideshow Bob</person> would love to chat, he has a show starting in moments. Here you go -- three tickets. Be my guests.
+
+<stage><person>BART</person></stage>Uh, okay, but ---
+
+<stage><person>SIDESHOW BOB</person></stage>Come, come. Let's run along.
+
+<stage>CUT TO</stage>
+
+The curtains being pulled open to start the show. <person>Sideshow Bob</person> speaks with the audience.
+
+<stage><person>SIDESHOW BOB</person></stage>Hello, children. Whom do you love?
+
+<stage>AUDIENCE</stage><person>Sideshow Bob</person>!
+
+<fam><person>Bart</person></fam> is the only one not cheering.
+
+<stage><person>LISA</person></stage>Come on, <fam><person>Bart</person></fam>. Go with the flow.
+
+<stage><person>SIDESHOW BOB</person></stage>How much do you love me?
+
+<stage>AUDIENCE</stage>With all our hearts!
+
+<stage><person>BART</person></stage>About a zillionth as much as I love <person>Krusty</person>.
+
+<stage><person>SIDESHOW BOB</person></stage>Today's show promises to be a marvelous celebration of the human spirit. But, first, I regret to say I see a youngster who looks troubled. What's your name, young man?
+
+<stage><person>BART</person></stage><fam><person>Bart</person></fam> Simpson, sir.
+
+<stage><person>SIDESHOW BOB</person></stage>Hmm. Well, perhaps we can shed some light on your problem in a new segment exploring preadolescent turmoil. I call it "Choices."
+
+<stage><person>BART</person></stage>I don't think so, sir.
+
+<stage><person>SIDESHOW BOB</person></stage><fam><person>Bart</person></fam>, I'm reaching out to you.
+
+<fam><person>Bart</person></fam> reluctantly takes Bob's hands and <fam><person>Lisa</person></fam> pushes him forward. Bob and <fam><person>Bart</person></fam> sit down on a white couch.
+
+<stage><person>SIDESHOW BOB</person></stage>So what's on your mind, <fam><person>Bart</person></fam>? I bet the other children don't accept you.
+
+<stage><person>BART</person></stage>True, <person>Sideshow Bob</person>. But that doesn't bother me. You see, my sisters and I have been doing a little investigating, and it looks to us like <person>Krusty</person> was framed.
+
+<stage><person>SIDESHOW BOB</person></stage>Framed?
+
+<stage><person>BART</person></stage>Well, the videotape showed that the thief used the microwave oven at the <location>Kwik</location>-E-Mart. But <person>Krusty</person> couldn't go near the thing, not with his pacemaker.
+
+<stage><person>SIDESHOW BOB</person></stage>Well, you know, <fam><person>Bart</person></fam>, as much as I love <person>Krusty</person>, he was never one to take doctor's orders too seriously.
+
+<stage><person>BART</person></stage>Well, maybe, but get this. <person>Krusty</person> was illiterate, and the guy who robbed the store was reading the <location>Springfield</location> Review of Books.
+
+<stage><person>SIDESHOW BOB</person></stage>Ah, well, <fam><person>Bart</person></fam>. The fact is, you don't have to be able to read to enjoy the <location>Springfield</location> Review of Books. Just look at these amusing caricatures of Gore Vidal and Susan Sontag.
+
+<stage><person>BART</person></stage>Ha ha, yeah, I guess those are kind of funny.
+
+<stage><person>SIDESHOW BOB</person></stage><fam><person>Bart</person></fam>, children, this whole sordid affair has been a shock to all of us. But we must get on with our lives. Let's try to remember <person>Krusty</person> not as a hardened criminal, but as that lovable jester who honked his horn and puttered around in his little car.
+
+<stage><person>BART</person></stage>And sh*t you out of a cannon.
+
+<stage><person>SIDESHOW BOB</person></stage>And sh*t me out of a cannon. Yes, we will never forget that, will we? <fam><person>Bart</person></fam>, open your heart. I admit I have some mighty big shoes to fill.
+
+The voice begins repeating in <fam><person>Bart</person></fam>'s head.
+
+<person>SIDESHOW BOB</person>'<stage>S VOICE</stage>Big shoes to fill. Big shoes to fill. Big shoes to fill. Big shoes to fill. Big shoes to fill. Big shoes to fill. Big shoes to fill--
+
+In his mind, <fam><person>Bart</person></fam> remember the video...how <fam><person>Homer</person></fam> steps on "<person>Krusty</person>'s" foot.
+
+<stage><person>SIDESHOW BOB</person></stage>In ancient Greece, there was a school of thought called stoicism.
+
+<stage><person>BART</person></stage>Wait a minute. You did it!
+
+The audience gasps.
+
+<stage><person>SIDESHOW BOB</person></stage>Excuse me?
+
+<fam><person>Bart</person></fam> snatches the microphone away.
+
+<stage><person>BART</person></stage>Attention, fellow children! <person>Krusty</person> didn't rob that store! <person>Sideshow Bob</person> framed him, and I got proof!
+
+<fam><person>Bart</person></fam> picks up a large mallet and slams it painfully into <person>Sideshow Bob</person>'s foot.
+
+<stage><person>SIDESHOW BOB</person></stage>Ow!! My foot! You lousy, stupid, clumsy --
+
+<stage><person>BART</person></stage>See that? <person>Krusty</person> wore big floppy shoes, but he's got little feet like all good-hearted people.
+
+<fam><person>Bart</person></fam> hits Bob with the mallet on his other leg.
+
+<stage><person>BART</person></stage><person>Sideshow Bob</person> really fills his shoes with big ugly feet.
+
+He takes off the shoe, revealing Bob's "big foot".
+
+<stage>CUT TO</stage>
+
+Police officers <person>Eddie</person> and <person>Lou</person> watch the footage on TV.
+
+<stage><person>LOU</person></stage>Kid's right.
+
+<stage><person>EDDIE</person></stage>How do you figure we missed that?
+
+<stage><person>WIGGUM</person></stage>Get off your duffs, boys. Get down to that studio.
+
+<stage>CUT TO</stage>
+
+<person>Sideshow Bob</person> being handcuffed and arrested, while being watched by a massive group of people.
+
+<stage><person>SIDESHOW BOB</person></stage>Yes, I admit it. I hated him! His hackneyed shenanigans robbed me of my dignity for years. I played the buffoon while he squandered a fortune on his vulgar appetites. That's why I framed <person>Krusty</person>! And I would have gotten away with it too if it weren't for these meddling kids.
+
+<stage><person>BART</person></stage>Take him away, boys!
+
+<stage><person>SIDESHOW BOB</person></stage>Treat kids as equals! They're people too! They're smarter than you think. They were smart enough to catch me!
+
+He is tossed in a van and carted away.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Bart</person></fam> leading <person>Krusty</person> out of the courthouse with <fam><person>Homer</person></fam> by his side.
+
+<stage><person>WIGGUM</person></stage>Well, we made...a...terrible, terrible mistake. It won't happen again.
+
+<stage><person>KRUSTY</person></stage>It better not, you dimwit!
+
+<stage><person>HOMER</person></stage><person>Krusty</person>, I'm man enough to admit I was wrong, and I'm sorry I fingered you in court. I sincerely hope that the horrible stories I heard about what goes on in prison are exaggerated.
+
+<stage><person>KRUSTY</person></stage>Well, the important thing is that I regain the trust of the children. But there was one boy who trusted me all along. <fam><person>Bart</person></fam>?
+
+<stage><person>BART</person></stage>Yes, sir?
+
+<stage><person>KRUSTY</person></stage>Thank you.
+
+He and <fam><person>Bart</person></fam> shake hands and pose for a camera. It turns into a black and white picture which <fam><person>Bart</person></fam> is hammering to his bedroom wall.
+
+He jumps into bed, his room once again stocked only with <person>Krusty</person> toys.
+
+Smiling, he reaches and turns off the lights.
+
+CREDITS BEGIN
+
+THE END</txt></xml>

@@ -1,0 +1,29 @@
+start = xml
+xml = element xml {txt}
+txt = element txt {metadata?,  mixed{(stage | fam |music | catchphrase | person | location)*}}
+# ebb: I'm setting mixed content (text showing up anywhere around this mix of possible elements) because it allows text as a child
+# of the root element. That matches your document structure I think? 
+metadata = element metadata {ep?, mixed { date* , runtime* , stage*}}
+date = element date {text}
+runtime = element runtime {text}
+ep = element ep {mixed{(epTitle, szn, epNum)*}}
+# Before you were only permitting either text OR one of these elements, but you have all of them.
+# Writing mixed{} content with a parenthetical grouping like this and using 
+# mixed{(epTitle, szn, epNum)+ means you expect the elements each to appear in exactly that sequence.
+# I think, if I know your files, that's what you want? Setting the rule like this will help you see which
+# files are missing the elements anyway! But in case you do NOT expect to see the elements in that order, 
+# here's is a more flexible construction to use insetad for <ep>:
+# # ep = element ep {mixed{(epTitle | szn | epNum)*}}
+# the * at the end (element1 | element2 | element3)*  means zero or more of any these elements in any order, or
+# not at all!
+
+
+epTitle = element epTitle {mixed {fam* , person* , catchphrase* , location*}}
+szn = element szn {text}
+epNum = element epNum {text}
+stage = element stage {mixed {fam* , location* , person*}}
+fam = element fam {text | person*}
+music = element music {mixed {stage* , location* , fam* , person*}}
+catchphrase = element catchphrase {mixed {person*}}
+person = element person {text}
+location = element location {text}

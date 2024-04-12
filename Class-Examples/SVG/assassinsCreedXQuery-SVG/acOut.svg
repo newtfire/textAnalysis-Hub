@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="1000">
+   <g>
+      <text x="60" y="50">How do gameplay actions (orange) vary in relation to number of distinct characters (purple) present in game episodes of Assassin's Creed, Odyssey?</text>
+      <g>
+         <circle cx="70" cy="100" r="24" fill="orange"/>
+         <text x="70"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">intro</text>
+      </g>
+      <g>
+         <circle cx="140" cy="100" r="15" fill="orange"/>
+         <text x="140"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">Another Day, Another Drachma</text>
+      </g>
+      <g>
+         <circle cx="210" cy="100" r="33" fill="orange"/>
+         <text x="210"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">A Debt to Pay</text>
+      </g>
+      <g>
+         <circle cx="280" cy="100" r="29" fill="orange"/>
+         <text x="280"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">The Wolf Hunt</text>
+      </g>
+      <g>
+         <circle cx="350" cy="100" r="3" fill="orange"/>
+         <text x="350"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">The Wolf and Snake</text>
+      </g>
+      <g>
+         <circle cx="420" cy="100" r="9" fill="orange"/>
+         <text x="420"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">Of Visions and Visionaries</text>
+      </g>
+      <g>
+         <circle cx="490" cy="100" r="18" fill="orange"/>
+         <text x="490"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">Beware the Snakes</text>
+      </g>
+      <g>
+         <circle cx="560" cy="100" r="12" fill="orange"/>
+         <text x="560"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">An Old Enemy and a New Ally</text>
+      </g>
+      <g>
+         <circle cx="630" cy="100" r="34" fill="orange"/>
+         <text x="630"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">The Road to the Symposium</text>
+      </g>
+      <g>
+         <circle cx="700" cy="100" r="28" fill="orange"/>
+         <text x="700"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">Land of the Lawless</text>
+      </g>
+      <g>
+         <circle cx="770" cy="100" r="32" fill="orange"/>
+         <text x="770"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">A Prescription for Discovery</text>
+      </g>
+      <g>
+         <circle cx="840" cy="100" r="5" fill="orange"/>
+         <text x="840"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">Pirate Hospitality</text>
+      </g>
+      <g>
+         <circle cx="910" cy="100" r="18" fill="orange"/>
+         <text x="910"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">Rising from the Ashes</text>
+      </g>
+      <g>
+         <circle cx="980" cy="100" r="4" fill="orange"/>
+         <text x="980"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">The Reunion</text>
+      </g>
+      <g>
+         <circle cx="1050" cy="100" r="22" fill="orange"/>
+         <text x="1050"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">Paradise Lost</text>
+      </g>
+      <g>
+         <circle cx="1120" cy="100" r="6" fill="orange"/>
+         <text x="1120"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">The Last Riddle</text>
+      </g>
+      <g>
+         <circle cx="1190" cy="100" r="40" fill="orange"/>
+         <text x="1190"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">A Place of Twists and Turns</text>
+      </g>
+      <g>
+         <circle cx="1260" cy="100" r="16" fill="orange"/>
+         <text x="1260"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">Home Is Where My Mother Is</text>
+      </g>
+      <g>
+         <circle cx="1330" cy="100" r="27" fill="orange"/>
+         <text x="1330"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">The Olympian</text>
+      </g>
+      <g>
+         <circle cx="1400" cy="100" r="13" fill="orange"/>
+         <text x="1400"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">The Cult and the Archon</text>
+      </g>
+      <g>
+         <circle cx="1470" cy="100" r="9" fill="orange"/>
+         <text x="1470"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">Paint It Red</text>
+      </g>
+      <g>
+         <circle cx="1540" cy="100" r="13" fill="orange"/>
+         <text x="1540"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">The Cultist King</text>
+      </g>
+      <g>
+         <circle cx="1610" cy="100" r="4" fill="orange"/>
+         <text x="1610"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">Uprising</text>
+      </g>
+      <g>
+         <circle cx="1680" cy="100" r="12" fill="orange"/>
+         <text x="1680"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">Public Opinion</text>
+      </g>
+      <g>
+         <circle cx="1750" cy="100" r="8" fill="orange"/>
+         <text x="1750"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">Battle of Amphipolis</text>
+      </g>
+      <g>
+         <circle cx="1820" cy="100" r="8" fill="orange"/>
+         <text x="1820"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">Homecoming</text>
+      </g>
+      <g>
+         <circle cx="1890" cy="100" r="4" fill="orange"/>
+         <text x="1890"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">From the Shadows</text>
+      </g>
+      <g>
+         <circle cx="1960" cy="100" r="19" fill="orange"/>
+         <text x="1960"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">Shadows of Serpents</text>
+      </g>
+      <g>
+         <circle cx="2030" cy="100" r="9" fill="orange"/>
+         <text x="2030"
+               y="150"
+               style="writing-mode: tb; glyph-orientation-vertical: 0;">The Gates of Atlantis</text>
+      </g>
+   </g>
+</svg>

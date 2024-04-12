@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+   <g transform="translate(50, 20)"><!--Use XML comments down here in the XML plot. In SVG, transform/translate shifts things by X and Y coordinates.
+    So this moves the whole plot over by 50 and down by 20 from top left. We're going to start by plotting down the screen.
+    We can come back here to work on flipping the plot in a different direction.
+    Here's a lot more you can do with the transform attribute in SVG: 
+    https://jenkov.com/tutorials/svg/svg-transformation.html 
+    
+    Okay, let's take a look at the catchphrases across the season! 
+    -->
+      <g id="doh">
+         <line x1="0"
+               y1="20"
+               x2="605"
+               y2="20"
+               stroke="red"
+               stroke-width="5"/>
+      </g>
+      <g id="cowabunga">
+         <line x1="0"
+               y1="40"
+               x2="10"
+               y2="40"
+               stroke="green"
+               stroke-width="5"/>
+      </g>
+      <g id="caramba">
+         <line x1="0"
+               y1="60"
+               x2="65"
+               y2="60"
+               stroke="blue"
+               stroke-width="5"/>
+      </g>
+      <g id="why you little">
+         <line x1="0"
+               y1="80"
+               x2="30"
+               y2="80"
+               stroke="orange"
+               stroke-width="5"/>
+      </g>
+      <g id="eat my shorts">
+         <line x1="0"
+               y1="100"
+               x2="10"
+               y2="100"
+               stroke="black"
+               stroke-width="5"/>
+      </g>
+      <g id="hi-diddly-ho">
+         <line x1="0"
+               y1="120"
+               x2="10"
+               y2="120"
+               stroke="purple"
+               stroke-width="5"/>
+      </g>
+      <g id="stupid flanders">
+         <line x1="0"
+               y1="140"
+               x2="15"
+               y2="140"
+               stroke="aqua"
+               stroke-width="5"/>
+      </g>
+   </g>
+</svg>

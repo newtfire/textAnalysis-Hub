@@ -1,0 +1,639 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt>
+<metadata><ep><epTitle>The Call of the Simpsons</epTitle><szn>01</szn>x<epNum>07</epNum></ep>
+<date>05/19/98</date> <runtime>15:50</runtime></metadata>
+
+<stage>FADE IN</stage>
+
+We begin outside the Simpsons house, where <person>HOMER</person> hums as he waters flowers.
+
+To the left of him, <person>BART</person> guides a lawnmower across the yard.
+
+<stage><person>BART</person></stage>Man!  Rusty old hunk of junk!
+
+The FLANDER'S SON <stage>(ROD OR TODD)</stage> honks to <fam><person>Bart</person></fam> from the yard over.  He is driving his own lawnmower as he sips a drink.
+
+FLANDER'<stage>S SON</stage>Howdy, <fam><person>Bart</person></fam>.  Hot enough for you?
+
+<person>BART</person> <stage>(grumbling)</stage>: Shut up, <person>Flanders</person>.  Hey, Dad, how come we can't get a decent mower like the <person>Flanders</person> have?
+
+<stage><person>HOMER</person></stage>Just be happy with what you've got, son.  Don't try to keep up with the <person>Flanders</person>.
+
+A horn honks and a large shadow looms over <fam><person>Homer</person></fam> and <fam><person>Bart</person></fam>.  It is <person>NED</person> <person>FLANDERS</person>, driving a brand new trailer house / RV.
+
+<stage><person>NED</person></stage>How do you like my new wheels, Simpson?
+
+<stage><person>BART</person></stage>Oh, wow, man!  What an RV!
+
+<stage><person>HOMER</person></stage><fam><person>Bart</person></fam>!  I, uh, suppose it has various features.
+
+<stage><person>NED</person></stage>Oh, it's got everything: microwave, dish washer, big screen TV, deep fryer and oh, see up there on the roof?
+
+<fam><person>Homer</person></fam> gasps.  A shiny satellite dish rests on top.
+
+<stage><person>HOMER</person></stage>A satellite dish!
+
+<stage><person>NED</person></stage>Yes, indeedly-doodly.
+
+<stage><person>HOMER</person></stage>But, uh, how can you afford something like this, <person>Ned</person>?  I get your mail once in a while and you make only 27 dollars a week more than I do.
+
+<stage><person>NED</person></stage>Oh, it's simple, Simpson.  Credit!
+
+<stage><person>HOMER</person></stage>Ooh, credit!
+
+<stage>CUT TO</stage>
+
+A sign that says: Bob's RV Round-Up.  Another sigh below that says: We'd rather make a friend...than a profit.  Basically, it's a whole lot filled with loads of RV's.  <fam><person>Homer</person></fam>, <fam><person>Bart</person></fam>, <person>MARGE</person>, <person>LISA</person>, and <fam><person>MAGGIE</person></fam> all walk alongside each other.
+
+<stage><person>HOMER</person></stage>Ooh...aah!
+
+A SALESMAN looks at them from a booth.
+
+<stage>SALESMAN</stage>Thank you, God.
+
+He greets them.
+
+<stage>SALESMAN</stage>May I help you?
+
+<stage><person>MARGE</person></stage>We're just browsing, thank you.
+
+<stage><person>HOMER</person></stage>I'd like to see your finest RV.  Do you have something that's better than the Land Behemoth?
+
+<stage>SALESMAN</stage>Yes, we do.  That would be the Ultimate Behemoth.
+
+<stage><person>HOMER</person></stage>Where is it?
+
+<stage>SALESMAN</stage>You are standing in its presence.  Behold!
+
+The Simpsons realize they are standing next to it.  It is gigantic.
+
+<stage><person>BART</person></stage>Oh, wow!
+
+<stage>SALESMAN</stage>Would you look at this thing?  Man built this.  It's a vehicle.
+
+<stage><person>BART</person></stage>Does it have its own satellite dish, sir?
+
+<stage>SALESMAN</stage>You can tell your son it has its own satellite.  The VanStar One, launched last February, just for this thing, that's all.
+
+<stage><person>BART</person></stage>Whoa, man!
+
+<stage><person>MARGE</person></stage>I'm not sure that we can afford---
+
+<stage><person>HOMER</person></stage>Does it have a deep fryer?!
+
+<stage>SALESMAN</stage>It has four of them --- one for each part of the chicken.
+
+<stage><person>MARGE</person></stage>I don't think we can afford this, <fam><person>Homer</person></fam>.
+
+<stage>SALESMAN</stage>Let's worry about that later.  Come on.  Let's take a tour.  Want to?  Come on.
+
+<stage>CUT TO</stage>
+
+The Simpsons and the salesman look inside the trailer.  Everything is luxurious and well-designed.
+
+<stage><person>BART</person></stage>Ay, <catchphrase>caramba</catchphrase>!
+
+<stage><person>LISA</person></stage>This is better than our house.
+
+<stage><person>HOMER</person></stage>Wait till <person>Flanders</person> gets a <location>load</location> of this.
+
+<person>MARGE</person> <stage>(grumbles)</stage>: Seems so expensive.
+
+<fam><person>Homer</person></fam> honks the horn.
+
+<stage><person>HOMER</person></stage>Hey!  How much is it?
+
+<stage>SALESMAN</stage>You're a man of your convict --- you just wanted to ask that and blurted it out, didn't you?
+
+<stage><person>HOMER</person></stage>Yeah, how much is it?
+
+<stage>SALESMAN</stage>Well, first of all, I want you to know I like your face.
+
+<stage><person>HOMER</person></stage>You do?
+
+<stage>SALESMAN</stage>I really do.  I'm not saying that.  I mean it.  You got color in there.  You're not Roman, are you?
+
+<stage><person>HOMER</person></stage>No.
+
+<stage>SALESMAN</stage>Look like a god, sort of.  Why don't we step into the credit office, Zeus? <stage>(to rest of family)</stage>.  Hey, your dad's gonna just go in here, work it out, and you'll drive home in this!
+
+<stage>QUICK DISSOLVE TO</stage>
+
+The salesman and <fam><person>Homer</person></fam> sit on opposite sides of a desk and talk.
+
+SALESMAN <stage>(laughs)</stage>: I'm not gonna quote you a price till I check your credit rating.  And let me --- I want to make myself clear on this.  This is a formality.  If you're saying to me, "Bob, is this guy good for it?", I say, "Yes.".  I don't check this machine, but I don't own the place, even though's my name up there.  Long story, but that doesn't matter.  I'm gonna have to run it through the computer.
+
+The salesman presses Enter and suddenly, a loud siren erupts.
+
+<stage><person>HOMER</person></stage>Is that a good siren?  Am I approved?
+
+<stage>SALESMAN</stage>You ever know a siren to be good? <stage>(chuckles)</stage>.  No, Mr. Simpson, it's not.  It's a bad siren.  That's the computer in case I went blind, telling me "Sell the vehicle to this fella and you're out of business!".  That's what the siren says.
+
+<stage><person>HOMER</person></stage>Oh.
+
+<stage>SALESMAN</stage>Seems the Ultimate Behemoth is a wee bit out of your price range.  And "wee bit" is me being polite.  You couldn't afford this thing if you lived to be a million.
+
+<stage><person>HOMER</person></stage>Don't you have something that isn't out of my price range?  I don't wanna go away empty handed, Bob.
+
+<stage>SALESMAN</stage>Take it easy there.  Don't ruin this feeling I'm getting for ya.  Perhaps I can show you something, uh...a little more you.
+
+<stage>QUICK DISSOLVE TO</stage>
+
+A broken down, old, and disgusting trailer.  The windows are broken, there are scratches are everywhere, and the seats are teared.
+
+<stage>SALESMAN</stage>Well, what do you think?
+
+The whole family groans.
+
+<stage><person>BART</person></stage>You gotta be kidding me.
+
+<stage><person>MARGE</person></stage>Used, isn't it?
+
+<stage>SALESMAN</stage>What'd you say?
+
+<stage><person>HOMER</person></stage>Uh, is it used?
+
+<stage>SALESMAN</stage>Mr. Simpson, you're never gonna own a better RV.  And I don't mean that in a good way.  I mean literally.  This is it for you, you know?  It's this or a wagon.
+
+<stage><person>HOMER</person></stage>Then, uh...how much do you want for it?
+
+<stage>SALESMAN</stage>This is yours.  The price I'm quoting you...you're not gonna hand it to someone else?  Cause I'm gonna give you a price for you, not for someone else.  Someone else, I'm doubling this.
+
+<stage><person>HOMER</person></stage>I swear it, Bob.
+
+<stage>SALESMAN</stage>This is you and me.
+
+<stage><person>HOMER</person></stage>Yeah!
+
+<stage>SALESMAN</stage>In other words, two months from now, I see this vehicle, your head's in that window.
+
+<stage><person>HOMER</person></stage>On my honor.
+
+<stage>SALESMAN</stage>350 a month.
+
+<stage><person>HOMER</person></stage>Oh, I don't know.  Would it be all right if I conferred with my family?
+
+<stage>SALESMAN</stage>Oh, Mr. Simpson, if you have to go talk it over with those humans out there, then there's something wrong with all of us.  You look like a man who is able to make a decision or I wouldn't be wasting---see that man over there?
+
+The salesman points.
+
+<stage><person>HOMER</person></stage>Yeah.
+
+<stage>SALESMAN</stage>He's buying this.  Did you know that?
+
+<stage><person>HOMER</person></stage>No.
+
+<stage>SALESMAN</stage>Called me two minutes before you came in, said "Save the little one, I'm coming now."  Here he is.  Now you want it or not?
+
+<stage><person>HOMER</person></stage>All right, all right.  I'll take it!
+
+<stage>SALESMAN</stage>Best decision you ever made.  You are gonna --- you are gonna --- this is gonna change your life.
+
+<stage>CUT TO</stage>
+
+A muffler pops as <fam><person>Homer</person></fam> rides the RV to the front of Flander's house.  The engine sputters a bit.  <fam><person>Homer</person></fam> yells out the window.
+
+<stage><person>HOMER</person></stage>Hey, <person>Flanders</person>.  Look what I got.
+
+<stage><person>NED</person></stage><stage>(whistles)</stage>: Oh, she's a beaut!  Hey, congratulations, Simpson, I'm sure you'll have loads of fun.
+
+<person>HOMER</person> <stage>(chuckles)</stage>: Jealous.  Everybody ready?
+
+<stage><person>BART</person></stage>I hate this, I don't wanna go.
+
+<stage><person>HOMER</person></stage>That's the spirit!  Ready or not, nature, here we come!
+
+The RV rolls down the road sputtering as <person>Flanders</person> waves goodbye.
+
+<stage>QUICK DISSOLVE TO</stage>
+
+The Simpsons stands in the front of a long line of traffic.  Cars honk at him from behind.
+
+<stage><person>BART</person></stage>Turkey farm?
+
+<stage><person>LISA</person></stage>No.
+
+<stage><person>BART</person></stage>Skunks?
+
+<stage><person>LISA</person></stage>No.
+
+<stage><person>BART</person></stage>Slaughterhouse?
+
+<stage><person>LISA</person></stage>No.
+
+<stage><person>MARGE</person></stage>What are you doing back there?
+
+<stage><person>LISA</person></stage>We're playing, "What's that odor?"
+
+<fam><person>Lisa</person></fam> sniffs.
+
+<stage><person>BART</person></stage>Dad's feet?
+
+<stage><person>HOMER</person></stage><fam><person>Bart</person></fam>!
+
+<stage><person>LISA</person></stage>You win, <fam><person>Bart</person></fam>.
+
+<stage><person>HOMER</person></stage><fam><person>Lisa</person></fam>!
+
+<stage><person>BART</person></stage>Are we there yet, Dad?
+
+<stage><person>HOMER</person></stage>I'll tell you when we get there.  Go back to your smell game.
+
+<fam><person>Homer</person></fam> turns a corner and the RV travels through some trees.
+
+<stage><person>MARGE</person></stage><fam><person>Homer</person></fam>, I'm telling you...this is not the interstate.
+
+<person>HOMER</person> <stage>(scoffs)</stage>: Pssh.  Maps.
+
+<stage><person>MARGE</person></stage>Shouldn't we stop somewhere and ask for directions?
+
+<stage><person>HOMER</person></stage>Don't worry, this is an all-terrain vehicle.
+
+<fam><person>Homer</person></fam> drives over several hills and then into a big body of water.
+
+<stage><person>MARGE</person></stage>My feet are getting wet!
+
+<stage><person>HOMER</person></stage>Oh, come on.  We're getting back to nature.
+
+<stage><person>LISA</person></stage>Mom, I'm scared.
+
+<stage><person>MARGE</person></stage>We all are, dear.  Your father says there's nothing to worry about.
+
+<fam><person>Homer</person></fam> begins whistling as the vehicle makes it way out the water and begins crushing numerous trees in its path.
+
+<stage><person>HOMER</person></stage>What do you think?  Should we stop here?
+
+<stage>ALL</stage>Yes!!
+
+<stage><person>HOMER</person></stage>All righty.
+
+He slams on the brakes.  The vehicle comes to a screeching halt.
+
+<stage><person>HOMER</person></stage>Well, here we are.
+
+Suddenly, the vehicle begins leaning forward...the truck is careening off the side of a cliff.  Everybody screams.
+
+<stage><person>HOMER</person></stage>Okay, nobody move, and nobody panic.  When I give the word, everyone, ever so slowly, open your door and slide out.  On the count of three.  One---
+
+The doors are all opened and everybody but <fam><person>Homer</person></fam> exit.  <fam><person>Homer</person></fam> climbs out himself.  The RV falls off the cliff, falls for several seconds, and then explodes at the bottom.  Smoke drifts up.
+
+<stage><person>LISA</person></stage>The Simpsons have entered the forest.
+
+<stage>FADE TO BLACK</stage>
+
+<stage>FADE IN</stage>
+
+The Simpsons talk in a group at the top of the cliff.
+
+<stage><person>HOMER</person></stage>Well, ha, ha, now we get a chance to be real pioneers.  Yes, sir, this is a real adventure.
+
+<fam><person>Bart</person></fam>, <fam><person>Lisa</person></fam>, and <fam><person>Maggie</person></fam> shiver in fear.
+
+<stage><person>HOMER</person></stage>Why, I bet there are people who would trade everything they have in the world for an adventure like this.
+
+<stage><person>BART</person></stage>You mean, like we just did?
+
+<fam><person>Maggie</person></fam> shivers.
+
+<stage><person>HOMER</person></stage>Will somebody help her?
+
+<stage><person>LISA</person></stage>Look, <fam><person>Maggie</person></fam>. Birdies.
+
+A group of vultures fly around in the sky.
+
+<stage><person>MARGE</person></stage>Oh, <fam><person>Homer</person></fam>, what are we going to do?
+
+<stage><person>HOMER</person></stage>Now, don't worry, our situation isn't as bad as it seems.  And you're forgetting...I'm an experienced woodsman.  Now you all stay here for a minute while I go over this way and try to get my bearings.
+
+<fam><person>Homer</person></fam> walks away for several seconds, then sits down on a rock and begins crying.
+
+<stage><person>HOMER</person></stage>What am I gonna do?  I've m*rder us all.
+
+"I've m*rder us all" echoes across the entire canyon.  The rest of the Simpson family looks over.
+
+<stage><person>HOMER</person></stage>Shut up!
+
+"Shut up!" echoes across the canyon.
+
+<stage><person>HOMER</person></stage><catchphrase>Doh</catchphrase>!
+
+Same effect.  <fam><person>Marge</person></fam> groans.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Homer</person></fam> works on some kind of structure, placing branches over a big log.
+
+<stage><person>HOMER</person></stage>There.  Finished.
+
+<stage><person>LISA</person></stage>You are?
+
+<stage><person>HOMER</person></stage>Well, it's a quick job, but it's shelter.
+
+The log can't fit more than one person.
+
+<stage><person>MARGE</person></stage>It is?
+
+<stage><person>HOMER</person></stage>Uh-huh.  We'll be back with help before you know it. <stage>(motions to <fam><person>Bart</person></fam>)</stage>.  You girls just stay here and relax.
+
+<stage><person>LISA</person></stage>Remember, Dad, the handle of the <location>Big Dipper</location> points to <location>the North Star</location>.
+
+<stage><person>HOMER</person></stage><stage>(chuckles)</stage>: That's nice, <fam><person>Lisa</person></fam>, but we're not in astronomy class.  We're in the woods.
+
+<fam><person>Marge</person></fam> and <fam><person>Lisa</person></fam> groan as <fam><person>Bart</person></fam> and <fam><person>Homer</person></fam> walk off.  <fam><person>Maggie</person></fam> suddenly crawls out of the log and begins crawling after them.
+
+<stage><person>LISA</person></stage>Should <fam><person>Maggie</person></fam> be going with them, Mom?
+
+<stage><person>MARGE</person></stage>No, I don't think they'll be gone long, and she's in good hands, <fam><person>Lisa</person></fam>.
+
+Vultures fly over the logs and then take off in the direction of <fam><person>Homer</person></fam> and <fam><person>Bart</person></fam>.
+
+<stage><person>BART</person></stage>There aren't any dangerous animals in the forest, are there, Dad?
+
+<stage><person>HOMER</person></stage>Well, might be a few but don't worry.  If you leave them alone, they'll leave you alone.
+
+<stage><person>BART</person></stage>It's a deal.
+
+<stage><person>HOMER</person></stage>And remember not to act afraid.  Animals can smell fear and they don't like it.  Besides, there's nothing to be afraid of.
+
+<stage><person>BART</person></stage>Right.
+
+Behind them, <fam><person>Maggie</person></fam> sucks on her pacifier.  <fam><person>Homer</person></fam> gasps.
+
+<stage><person>HOMER</person></stage>A rattler!
+
+<stage><person>BART</person></stage>I'm not afraid, I'm not afraid, I'm not---
+
+<stage><person>HOMER</person></stage>Run, you fool!!
+
+<fam><person>Homer</person></fam> and <fam><person>Bart</person></fam> run off screaming while <fam><person>Maggie</person></fam> waits behind them.  They slow down after a couple feet and gasp for air.
+
+<stage><person>HOMER</person></stage>Through here, boy.  Back to civilization.
+
+<stage><person>BART</person></stage>How do you know?
+
+<stage><person>HOMER</person></stage>When you're an experienced woodsman like me, you get a feel for these things.  It becomes natural, like a third sense.
+
+They walk through a bush and finds themselves falling off a cliff.  Both scream like crazy until they land in a stream of water.  They continue yelling as it carries them around a bend and down a waterfall.
+
+<stage>CUT TO</stage>
+
+The camp ground, where <fam><person>Lisa</person></fam> and <fam><person>Marge</person></fam> are building a better shelter.  <fam><person>Lisa</person></fam> cleans as <fam><person>Marge</person></fam> sets up squirrels for decoration.
+
+<stage><person>MARGE</person></stage>The boys certainly are taking a long time.  I hope <fam><person>Maggie</person></fam> isn't slowing them up too much.
+
+<stage>CUT TO</stage>
+
+<fam><person>Maggie</person></fam> sits alone on a dirt path.  Suddenly, a large shadow looms over her.  She looks up.  It's a giant grizzly bear!  He growls and prepares to attack her when she sticks a pacifier in his mouth.
+
+He sucks on his, she sucks on hers, and soon they are rhythmically sucking together.
+
+<stage>CUT TO</stage>
+
+<fam><person>Homer</person></fam> surfaces from the water.
+
+<stage><person>HOMER</person></stage><fam><person>Bart</person></fam>!  Where are you, <fam><person>Bart</person></fam>?
+
+He sees a red cap and gasps.
+
+<stage><person>HOMER</person></stage>His lucky red hat.  Oh, dear God!  No!  <fam><person>Bart</person></fam>, <fam><person>Bart</person></fam>, <fam><person>Bart</person></fam>!
+
+<fam><person>Homer</person></fam> swims over to a piece of land and cries.
+
+<stage><person>HOMER</person></stage>Oh, <fam><person>Bart</person></fam>!  Oh, <fam><person>Bart</person></fam>, my beautiful son!  Why couldn't You have taken me??  Of all the fates on heaven and <location>earth</location>, why did this one befall me?
+
+<stage><person>BART</person></stage>Don't have a cow, Dad.
+
+<stage><person>HOMER</person></stage>What the---?
+
+<fam><person>Homer</person></fam> looks over.  <fam><person>Bart</person></fam> is on another piece of land opposite to him.  Both of them are completely stripped naked.
+
+<stage><person>HOMER</person></stage>You're alive!  And <stage>(chuckles)</stage> buck naked.
+
+<stage><person>BART</person></stage>I'm not the only one, Home boy.
+
+<stage><person>HOMER</person></stage>What?
+
+800 miles, haven't even seen a squirrel yet.
+
+<stage>WOMAN</stage>Well, the ranger at the gate said we should watch out for bears.
+
+A bear hides in the bushes, starring at them.
+
+<stage>MAN</stage>Ooh, bears.  <stage>(laughs)</stage>.
+
+<stage>WOMAN</stage>Mm-hmm.
+
+<stage>MAN</stage>Right, right.  Let me show you how many bears there are around here.  Uh, hello, bears!  Um, come on.  Have a donut!  Oh, what the heck, have me!  Come and get it!
+
+<stage>WOMAN</stage>All right, all right.  You made your point.
+
+<stage>MAN</stage><stage>(laughs)</stage> <stage>(mocking)</stage> Bears.
+
+The bear sneaks up behind them.
+
+5,000 of anyone who brings in the creature alive.
+
+A standard tabloid is shown, but a modified picture of <fam><person>Homer</person></fam>.
+
+<stage>TV ANNOUNCER</stage>Naturally, we'll have more on this story as soon as it develops.  We now return you to the president's address already in progress.
+
+<stage>CUT TO</stage>
+
+<fam><person>Homer</person></fam>, still dirty, and <fam><person>Bart</person></fam> sit on a log.
+
+FADE TO BLACK
+
+<stage>FADE IN</stage>
+
+A group of people <stage>(a lot with cameras)</stage> gather around the entrance to the park, all mindlessly chattering.  There are concession stands for such things as "Official Bigfoot Souveniers" and "Half-Man Half-Ape Burgers".
+
+There's even a photo op with a paper replica of Bigfoot.
+
+A tough-looking PARK RANGER talks with <fam><person>Lisa</person></fam> and <fam><person>Marge</person></fam>.
+
+<stage>PARK RANGER</stage>It looks as if you girls have been getting along all right but it's a darn good thing we found you when we did.  There's something horrible roaming these woods.
+
+<stage><person>MARGE</person></stage>There is?
+
+The ranger hands her a newspaper.  The headline reads "Bigfoot Still at Large" with <fam><person>Homer</person></fam>'s picture.
+
+<stage><person>MARGE</person></stage>Why, that's my husband!
+
+<stage>CUT TO</stage>
+
+A new magazine flashing up.  The headline reads "I married BIgfoot" with <fam><person>Homer</person></fam> and <fam><person>Marge</person></fam> on the cover.
+
+<stage>CUT TO</stage>
+
+<fam><person>Marge</person></fam>, who gives a press conference to several reporters, all who shove their microphones into her face.
+
+<stage><person>MARGE</person></stage>His name isn't Bigfoot.  His name is <fam><person>Homer</person></fam>.
+
+<stage>CUT TO</stage>
+
+An updated newspaper.  Headline: "Bigfoot's Wife Pleads: "Call Him <fam><person>Homer</person></fam>!".
+
+<stage>CUT TO</stage>
+
+Back to the conference.
+
+<stage>FEMALE REPORTER</stage>What does it eat?
+
+<stage><person>MARGE</person></stage>I don't understand.  What's this all about?  Well, I suppose pork chops are his favorite.
+
+<stage>CUT TO</stage>
+
+Newspaper.  "The Bigfoot Diet: Pork Chops Aplenty".
+
+<stage>CUT TO</stage>
+
+Behind <fam><person>Marge</person></fam>, a group of bears arrive.
+
+<stage>MALE REPORTER</stage>Hey, get those bears out of here.  I'm trying to do an interview.
+
+<stage>ASSISTANT</stage>No bears!  We're taping!  All bears off the set.
+
+The bears leave.  Nobody notices <fam><person>Maggie</person></fam> riding on one of them.
+
+<stage>MALE REPORTER</stage>Okay.  Now let's get back to your, uh, husband.  How would you describe your marital relations?  Brutish?
+
+<stage><person>MARGE</person></stage>Is this going to be on TV?
+
+<stage>MALE REPORTER</stage>Coast to coast.
+
+<fam><person>Marge</person></fam> groans.
+
+<stage>CUT TO</stage>
+
+The tired <fam><person>Homer</person></fam> and <fam><person>Bart</person></fam>, still wading through endless trees.
+
+<stage><person>HOMER</person></stage>Just a little further.
+
+<stage><person>BART</person></stage>Are we there yet? 
+
+<stage><person>HOMER</person></stage>Just a little further.
+
+<stage><person>BART</person></stage>Are we there yet? 
+
+<stage><person>HOMER</person></stage>Just a little further.
+
+<stage><person>BART</person></stage>Are we there yet? 
+
+<stage><person>HOMER</person></stage>Just a little further.
+
+<fam><person>Homer</person></fam> sniffs the air.
+
+<stage><person>HOMER</person></stage>Food!
+
+He walks into the bear's cave and is surprised to find a bear towering over them.  Soon, the entire clan surrounds them.
+
+<stage><person>HOMER</person></stage>Nice grizzlies.
+
+They slowly back away...
+
+<stage><person>HOMER</person></stage>N-nice grizzlies.  Nice grizzlies.
+
+<stage><person>BART</person></stage>What do we do, Dad?
+
+<stage><person>HOMER</person></stage>Praise the grizzlies, son.
+
+<person>BART</person> +<stage> <person>HOMER</person></stage>Nice grizzlies.  Nice grizzlies.
+
+<stage><person>HOMER</person></stage>That's a good grizzly.
+
+The bears growl.  <fam><person>Bart</person></fam> starts to whimper when the sucking of a pacifier is heard.  The bears turn around and see <fam><person>Maggie</person></fam>.  Slowly, the bears back away. 
+
+<person>BART</person> +<stage> <person>HOMER</person></stage>Huh?
+
+<stage><person>HOMER</person></stage><fam><person>Maggie</person></fam>!  Oh, my little girl.
+
+He picks her up.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Homer</person></fam> and <fam><person>Maggie</person></fam> walk <stage>(well, walk and crawl)</stage> out of the cave.  <fam><person>Homer</person></fam> slowly backs out, still saying "Nice grizzlies, nice grizzlies."
+
+<stage><person>BART</person></stage>Later, grizzly dudes.
+
+<fam><person>Maggie</person></fam> looks back and sucks her pacifier.  The bears stare in sadness.  One has even got a pacifier in his mouth.  <fam><person>Maggie</person></fam> waves and crawls away.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Bart</person></fam> and <fam><person>Maggie</person></fam> and <fam><person>Homer</person></fam> walk through a field when they hear chattering.
+
+<stage>BOY</stage>Look!  It's him!  It's Bigfoot!
+
+<stage>VOICE</stage>Get in the car.   Get em.  Get em.
+
+All the reporters and hunters rush towards him.  They throw a net over <fam><person>Homer</person></fam> and bring him to the ground.
+
+<stage>BOY</stage>We got him!  We got Bigfoot!
+
+<stage>PARK RANGER</stage>You are darn lucky we got here in time to rescue you.
+
+<stage><person>BART</person></stage>What the hell are you talking about, sir?
+
+<fam><person>Homer</person></fam> grumbles and escapes from the net.
+
+<stage>CATCHER</stage>He's getting away!  After him!
+
+CATCHER 2:  We gotta take him alive.  You got that tranquilizer g*n ready?
+
+A woman loads a g*n with a dart and fires.  It lands in <fam><person>Homer</person></fam>'s...um...backside.  He shrieks and falls.
+
+<stage><person>BART</person></stage>Dad!  Oh, Dad!
+
+<stage><person>HOMER</person></stage>Avenge me, son.  Avenge my death.
+
+<fam><person>Homer</person></fam> begins snoring.
+
+<stage>DISSOLVE TO</stage>
+
+A television program.  <fam><person>Homer</person></fam> is kept in a glass cage.
+
+<stage>TV REPORTER</stage>Last week's capture of Bigfoot turned into the scientific poser of the century.
+
+<fam><person>Homer</person></fam> is handed a pork chop and he slops it down.
+
+<stage>TV REPORTER</stage>Although the creature was ultimately released, the question remains, "Who was this <fam><person>Homer</person></fam>?"  Was it a man, or was it in fact the legendary missing link known as Bigfoot?
+
+<stage><person>HOMER</person></stage>Could I have some applesauce?
+
+<stage>TV REPORTER</stage>Specialists around the world gathered at the <location>Springfield</location> Primate Institute for a firsthand examination of the controversial creature.  They are now ready to announce their findings.
+
+<stage>CUT TO</stage>
+
+The conference.  Marvin <stage>(from a couple episodes ago)</stage> speaks to a room full of reporters.
+
+<stage>MARVIN</stage>Uh, ladies and gentlemen, uh, distinguished colleagues, after extensive biological and anatomical testing, I regret to announce that the evidence we have is inconclusive.  This thing may or may not be human.
+
+The crowd chatters.
+
+<stage>GERMAN SCIENTIST</stage>That's what he thinks.  I say it's none other than Bigfoot himself.
+
+<stage>FRENCH SCIENTIST</stage>Oh, no, I disagree. I think it is a man.  The eyes have the glimmer of human intelligence.
+
+<stage>RANDOM SCIENTIST</stage>Really.  Glimmer in the eyes.  What about the sloping ape-like forehead?
+
+Back at home, <fam><person>Marge</person></fam> and <fam><person>Homer</person></fam> watch this on their television.
+
+<stage><person>HOMER</person></stage>Oh, the guys at work are gonna have a field day with this.
+
+<stage><person>MARGE</person></stage>Cheer up, <fam><person>Homer</person></fam>.  At least they let you go.
+
+<stage>GERMAN SCIENTIST</stage>Gentlemen, gentlemen, fraulein, please.  This much I believe we can agree upon: this specimen is either a below-average human being or a brilliant beast.
+
+<person>HOMER</person> <stage>(scoffs)</stage>: Stupid egghead.
+
+He turns the TV off.
+
+<stage><person>MARGE</person></stage>Oh, <fam><person>Homer</person></fam>.  My brilliant beast.
+
+She kisses him on the cheek and turns off the light.
+
+FADE OUT
+
+CREDITS BEGIN
+
+THE END.
+</txt></xml>

@@ -1,0 +1,858 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt>
+<metadata><ep><epTitle>Simpsons Bible Stories</epTitle><szn>10</szn>x<epNum>18</epNum></ep>
+<date>04/08/99</date> <runtime>22:27</runtime></metadata>
+
+<music>♪<stage> Chorus Singing </stage></music>
+
+<stage> Bell Ringing </stage>
+
+<stage> Whistle Blowing </stage>
+
+<stage> Beeping </stage>
+
+<music>♪ <stage>Jazzy Solo </stage></music>
+
+<stage> Beeping </stage>
+
+<stage> Tires Screeching </stage>
+
+<catchphrase>D'oh</catchphrase>! <stage> Screams </stage>
+
+<stage> <fam><person>Homer</person></fam>, <fam><person>Bart</person></fam> Scream </stage>
+
+And as we pass the collection plate...
+
+please give as though the person next to you were watching.
+
+<stage> Groans, Sighs </stage> Oh, man.
+
+This is the hottest Easter ever.
+
+Even that praying mantis is losing it.
+
+<stage> Groaning </stage>
+
+Thank you, Helen.
+
+And thank you all for your kind contrib- <stage> Gasps </stage>
+
+A chocolate bunny?
+
+Who put this wicked idol in the collection plate?
+
+<stage> Congregation Gasps </stage>
+
+Relax. I found it in the Dumpster.
+
+Perhaps we need a hefty dose of the good book.
+
+<stage> <fam><person>Marge</person></fam> Groans </stage>
+
+"In the beginning"-
+
+Excuse me, Reverend. It's hard to hear you with those fans going.
+
+Well, let's get those off then.
+
+<stage> <fam><person>Homer</person></fam> Groans </stage>
+
+"In the beginning...
+
+God created the heavens and the <location>Earth</location>."
+
+Which brings us back to our-
+
+<stage> Snores </stage>
+
+Ooh. Ooh!
+
+<stage> Animals Purring, Calling </stage>
+
+What a beautiful garden.
+
+It's almost like paradise.
+
+<stage> <fam><person>Homer</person></fam> </stage> Heads up.!
+
+Whee! <stage> Grunts </stage>
+
+<stage> Gasps </stage>
+
+Well, hello.
+
+Aren't you hurt?
+
+Of course not. There's no pain in <location>the Garden of Eden</location>.
+
+Hey, you must be Eve.
+
+Mmm, I guess.
+
+Looks like God made you out of my sexiest rib. <stage> Growls </stage>
+
+Speaking of ribs, is there any grub around here?
+
+Is there!
+
+Good morning, Adam. Any bacon for you then?
+
+Don't mind if I do.
+
+<stage> <person>Ned</person> </stage> <catchphrase>Hi-diddly-ho</catchphrase>, paradise dwellers!
+
+<stage> Gasps </stage>
+
+Good morning, Lord. I just have to compliment you... on this beautifully crafted mate.
+
+Oh, Adam, you're too kind.
+
+No, you're too kind and wise and righteous.
+
+I can't believe you don't have a girlfriend.
+
+<stage> Chuckles </stage> Oh, please! You're gonna give me a swelled head.
+
+I just stopped by to see if you needed anything.
+
+Well, some general-interest magazines would be nice.
+
+You got it, Eve.
+
+There you go.
+
+Oh, thanks.
+
+Well, I better skedaddle. Oh, there's one more weensy little thing.
+
+See that tree over there? I hate to be a bossy Betty...
+
+See that tree over there? I hate to be a bossy Betty...
+
+but I have to forbid you to eat its fruit.
+
+No problem, Lord. And it would be even easier... to avoid that temptation if I had a few extra wives.
+
+<stage> Groans </stage>
+
+I'm just sayin'.
+
+<stage> Chittering </stage>
+
+Oh, how cute.
+
+Let's call this little guy a groundhog.
+
+Sorry, I already gave him a name: land monster.
+
+Really?
+
+Well, what do you call that thing on the branch?
+
+<stage> Hisses </stage>
+
+Branch monster.
+
+<stage> <person>Snake</person> </stage> Please, please, call me <person>Snake</person>.
+
+Yo, have you dudes sampled this fruit?
+
+It's, like, God's private stash.
+
+But he said it was forbidden.
+
+Quite so, mum. I recall one of the dinosaurs had a bite.
+
+And, well, that was the last of- Egad!
+
+Please stop eating that. God's going to be furious.
+
+You're pretty uptight for a naked chick.
+
+You know what would loosen you up? A little fruit.
+
+Mmm, well, it is a sin to waste food.
+
+And you keep saying we need to do things together.
+
+Hmm.
+
+Mmm! This could really spice up those pies I've been making.
+
+<stage> Thunderclap </stage>
+
+<stage> <person>Ned</person> </stage> What the dickens?
+
+<stage> Gasps </stage>
+
+Eve, did you taste of the forbidden fruit?
+
+Ohh.
+
+<music>♪ <stage> Whistling </stage></music>
+
+Yes, God.
+
+Doggone it, Eve.
+
+I think you'd better hightail it out of this garden!
+
+Adam, say something!
+
+Uh, um- Uh, I think we should see other people.
+
+You heard me. Vamoose!
+
+<stage> Gasps </stage>
+
+<stage> Groans </stage>
+
+<stage> Whines </stage>
+
+Oh! Usually a mink massage makes me feel better.
+
+But something's missing now.
+
+I didn't say stop.
+
+Lovely day in paradise, isn't it?
+
+Yeah. Just like yesterday.
+
+Today I'm featuring mouthwatering pork ribs. Tuck in then.
+
+<stage> Sloshing, Snapping </stage>
+
+Oh. I gave a rib to Eve, and now she's gone forever.
+
+One whole rib and still standing. Well, aren't you the plucky one, sir?
+
+Come on!
+
+Oh, poor Eve.
+
+What are you doing out there in that horrible place?
+
+I'm toiling. What does it look like?
+
+Oh, this is my fault. I should have stood up for you during that whole "Applegate" thing.
+
+Well, it's a little late for apologies now.
+
+Don't say that. Maybe I can sneak you back in.
+
+I mean, God can't be everywhere at once, right?
+
+<music>♪ <stage> Whistling, Scatting </stage></music>
+
+Somebody order a hole?
+
+Ooh, that's a tight squeeze.
+
+<stage> Gasping </stage>
+
+Oh, thank you.
+
+Are you okay?
+
+I'll be fine.
+
+Just give me a second to- <stage> Groans </stage>
+
+<stage> Gasps </stage>
+
+<stage> <fam><person>Homer</person></fam> </stage> Come on, Eve.! Hurry.!
+
+<stage> Grunting </stage>
+
+Oh, my dear sweet Eve.
+
+I love you even more than the butterscotch pond or the p*rn bush.
+
+<stage> Thunderclap </stage>
+
+So! This is how you repay me, Adam!
+
+<stage> Gasps </stage>
+
+<stage> Both Groan </stage>
+
+And after I created my fingers to the bone for you. I-
+
+<stage> Gasps, Screams </stage> My unicorn!
+
+Oh, what have they done to you, Gary?
+
+Oh, there, there. I'm sure he's gone to a better place, Lord.
+
+Oh, shut up! You are so banished.
+
+Hey, now let's not do anything rash. God is love, right?
+
+<stage> Screams </stage>
+
+God, you have every right to flick me out too.
+
+But before you- <stage> Screams </stage>
+
+Oh, my back!
+
+So this must be that pain thing.
+
+<stage> Groans </stage> Oh, yeah.
+
+Definitely pain.
+
+<stage> Animal Howling in Distance </stage>
+
+This sucks.
+
+Things were so much better back in the garden.
+
+I'm sure God will let us return soon.
+
+I mean, how long can he hold a grudge?
+
+<stage> <person>Reverend Lovejoy</person> </stage> "Forever-
+
+Hmm?
+
+"and ever... and ever, a"-
+
+And that concludes Genesis... the first of the 66 books of the Bible.
+
+<stage> Clears Throat </stage> Moving on to Exodus-
+
+<stage> Groaning </stage>
+
+<stage> Laughing, Chattering </stage>
+
+And Abraham begat lsaac, and lsaac begat Jacob... and who did he beget?
+
+<music>♪ <stage> Blows Note </stage></music>
+
+All right. Let's go, you wee lsraelites.
+
+Back to slavin'.
+
+<stage> All Groan </stage>
+
+<stage> Groaning </stage>
+
+Man, captivity blows.
+
+Talk to the whip. <stage> Grunts </stage>
+
+<stage> Yelps </stage>
+
+<stage> Whinnying </stage>
+
+On your knees, ya mugs! It's the pharaoh!
+
+Ah, excellent progress, Slave Driver Willie.
+
+Kudos on your whipping.
+
+Oh, he noticed!
+
+Ay! Suffering sarcophagus! My tomb!
+
+Who did this?
+
+<stage> Chuckles </stage>
+
+Come on, confess. Don't make me slay all the firstborn males again.
+
+<fam><person>Bart</person></fam> did it. I saw him do it.
+
+Take him away, boys.
+
+No! The bush set me up!
+
+As for the rest of you, it's time for a little discipline.
+
+Slave Driver, put away the encouragement whip and break out the cruel whip.
+
+<stage> All Gasp, Murmur</stage>
+
+<stage> Grunts </stage>
+
+<stage> All Yelp </stage>
+
+Heh! That's the new omni-lash, boys.
+
+Just look at that snapback.
+
+Yeah, it's sweet.
+
+We can't keep living like this. Moses, ask Pharaoh to let your people go.
+
+Oh, now they're my people.
+
+Scrub harder, slave! I want to be able to eat off that thing!
+
+And make it snappy. It's almost lunchtime.
+
+I think Moses here has something to ask you. Go!
+
+Uh, let my people go.
+
+Let your people go?
+
+I've never heard such insolence! You call yourselves slaves?
+
+<stage> Both Groaning </stage>
+
+Well, the ball's in his court now.
+
+All right, read me back what I have so far, Mrs. Krabapatra.
+
+"Bird, bird, giant eye, pyramid, bird."
+
+Mm-hmm. Very good.
+
+Uh, giant eye, d*ad fish, cat head, cat head, cat head... guy doing this-
+
+<stage> Croaking </stage>
+
+What? What the-
+
+Keep that plague coming, Moses.
+
+Frogs away!
+
+<stage> Laughing </stage>
+
+We spent all our money, but it was worth it. Now he's gotta let us go!
+
+Mmm. Mmm!
+
+These are the juiciest frogs I've ever eaten.
+
+Mmm! Ra has rewarded my cruelty to the slaves.
+
+It's a plague, you moron! And we got lots more planned.
+
+And there's nothing you can do about it!
+
+<stage> Both Scream </stage>
+
+So long, kids.
+
+Give my regards to the British Museum.
+
+<stage> Chuckles </stage>
+
+<stage> Both Screaming </stage>
+
+<stage> Both Grunt </stage>
+
+Do you think we could ever be more than just friends?
+
+Not now, Moses! We gotta find a way outta here.
+
+I know we built a secret passage in here somewhere.
+
+I found it! We're outta here!
+
+Uh-oh.
+
+<stage> Gasping </stage>
+
+<stage> Together</stage> Help!
+
+Eh, slave labor. You get what you pay for.
+
+Whee!
+
+Whoo!
+
+Whee!
+<music>♪ <stage> Blows </stage></music>
+
+<stage> All </stage> Huh?
+
+Our time has come! Follow me to freedom!
+
+<stage> Cheering </stage>
+
+<music>♪ <stage> Blows </stage></music>
+
+<music>♪<stage> Continues </stage></music>
+
+Hey, Pharaoh, those half-pint slaves are "exodusing" as we speak.
+
+Well, I say good riddance to bad rubbish.
+
+Okay. But who's gonna build your pyramids?
+
+Well, we cou-After them!
+
+<stage> Sighs </stage> We'll never be able to swim that far.
+
+<stage> Whinnying </stage>
+
+Oy, <catchphrase>caramba</catchphrase>.!
+
+Screw this!
+
+I'm converting! Save us, O mighty Ra!
+
+Hey, cut that out! I have an idea.
+
+All right, Moses. <location>Lead</location> your people!
+
+Flush!
+
+<stage> Toilets Flushing </stage>
+
+It's a miracle! I performed a miracle! I'm a genius!
+
+Yeah, yeah. Hurry, everyone! We don't have much time!
+
+After them, men, into the temporarily dry sea.
+
+Aw, nuts.
+
+<stage> Horses Whinnying </stage>
+
+<stage> Gasping </stage>
+
+<stage> <person>Skinner</person> </stage> Oh.!
+
+Hey, Chief. He splashed me!
+
+Look, nobody likes a crybaby, okay? You just splash him back.
+
+<stage> Cheering </stage>
+
+Well, <fam><person>Lisa</person></fam>, we're out of <location>Egypt</location>.
+
+So, what's next for the lsraelites? Land of milk and honey?
+
+Hmm. Well, actually it looks like we're in for 40 years of wandering the desert.
+
+Forty years?
+
+But after that, it's clear sailing for the Jews, right?
+
+Uhh- <stage> Quavering </stage> More or less. Hey, is that manna?
+
+<stage> Cheering </stage>
+
+Now we come to King Solomon, whose wisdom was like a drill... boring into the rock of injustice.
+
+Boring.
+
+Boring.
+
+Boring.
+
+<stage> Yawns </stage>
+
+King Solomon, these men need you to settle a dispute.
+
+They each claim ownership of this pie.
+
+Hmm.
+
+The pie shall be cut in two.
+
+And each man shall receive... death.
+
+<stage> Gasps </stage>
+
+I'll eat the pie.
+
+Okay, next up-
+
+"Jesus Christ versus Checker Chariot."
+
+Ow. Dad, you're sitting on my arm.
+
+<stage> Grunts </stage>
+
+"And after David smote Goliath...
+
+"the people crowded into the temple-
+
+<stage> Wheezing </stage>
+
+"where a cool breeze blew not.
+
+And their hearts were filled with crankiness. "
+
+<stage> Groans </stage>
+
+And once again-
+
+<music>♪ <stage> Harp </stage></music>
+
+I'm bored. Send in my jester.
+
+Hey, hey, King David! <stage> Chuckles </stage> How ya doin'?
+
+Now, I'm not saying Jezebel's easy... but before she moved to Sodom it was known for its pottery.
+
+<stage> Laughs </stage>
+
+What else you got?
+
+Well, wait a minute. I got something on the Canaanites.
+
+Oh. They are so stupid-
+
+<stage> Groaning </stage>
+
+<stage> Crowd Gasps </stage>
+
+Methuselah, my oldest friend, who did this to you?
+
+Oh, it was Goliath.
+
+But Goliath is d*ad. I smote him myself.
+
+I "smoted" him good.
+
+No, it was his son, Goliath II. <stage> Grunts </stage>
+
+No-o-o!
+
+Goliath II is gonna pay.
+
+And this time it's biblical.
+
+I'll just give Goliath II the old rock to the head... applause, applause, you gotta believe in yourself, stay in school, and we're outta here.
+
+I don't know, Davey.
+
+Quiet, you.
+
+Oh, you've gotten pretty fat, Davey.
+
+<stage> Thudding </stage>
+
+<stage> Gasps </stage>
+
+Let's get it on!
+
+See ya later, Davey.
+
+You k*ll my best friend!
+
+<stage> All </stage> Ooh-hoo!
+
+You k*ll my father, who was like a best friend!
+
+<stage> All </stage> Ooh-hoo!
+
+All I need is my trusty sling and one good, hard, um-
+
+Say, how's tomorrow for you? <stage> Gasps </stage>
+
+<stage> Groaning </stage>
+
+<stage> Groans </stage>
+
+What say you now, Goliath?
+
+Without your precious hair, you no longer possess your fantastic strength!
+
+That's Samson, idiot!
+
+<stage> Gulps </stage>
+
+<stage> Frightened Yelps </stage>
+
+<stage> All Gasp </stage>
+
+Let my proclamation go out across the land: Ha-ha!
+
+<stage> All </stage> Ha-ha!
+
+<stage> Screams </stage>
+
+Oh. I hope this doesn't get into the Bible.
+
+You're King David. I love you, 'cause you k*ll people.
+
+Get yourself another hero, kid. I'm all washed up. <stage> Grunts </stage>
+
+Well, I guess it's up to <person>Ralph</person> to stop Goliath.
+
+<stage> Sheep Bleating </stage>
+
+<music>♪ <stage> Humming </stage></music>
+
+Goliath II is really gonna pay!
+
+Get ready to meet the first action hero.
+
+<stage> Bleats </stage>
+
+Wow.
+
+<music>♪<stage>'80s Rock </stage></music>
+
+<stage> Grunting </stage>
+
+<stage> Grunts </stage> Ow!
+
+<music>♪<stage> Ends </stage></music>
+
+All right. It's giant-slaying time.
+
+<stage> Groaning </stage>
+
+Oops.
+
+<stage> Shouts, Grunts </stage>
+
+Crap.
+
+<stage> Groans </stage> How am I supposed to get up there?
+
+<stage> Burps </stage>
+
+Jonah! Oh!
+
+You died the way you lived- inside a whale.
+
+<stage> Gasps </stage>
+
+Hmm.
+
+<stage> Grunting </stage>
+
+I trampled four giant-slayers today.
+
+I think I earned this.
+
+Don't you know smoking stunts your growth?
+
+Well, well, well, if it isn't the little prince.
+
+I'm not afraid of you, Goliath. Before, I was arrogant.
+
+But now my heart is humbled. And my spirit is-
+
+<stage> Groaning, Whimpering </stage>
+
+What do you know? A king fit for a meal.
+
+Hope I don't give you... heartburn! <stage> Grunts </stage>
+
+<stage> Gulps </stage>
+
+<stage> Screams </stage>
+
+<stage> Groaning </stage>
+
+Huh?
+
+Great news, everyone. Goliath is d*ad!
+
+Although I haven't seen his body, the blast that failed to k*ll me surely k*ll the giant.
+
+Anyhoo, now that I'm your king again-
+
+<stage> Shouts </stage>
+
+<stage> Screams </stage>
+
+<stage> Crunching </stage>
+
+<stage> Screams </stage>
+
+<stage> Thuds </stage>
+
+<person>Ralph</person>, I thought you were d*ad.
+
+Nope!
+
+Rejoice, good people.! Goliath the Terrible shall rule no more.!
+
+But Goliath was the greatest king we ever had.
+
+Wha-
+
+He built roads, hospitals, libraries.
+
+To us he was Goliath the Consensus Builder.
+
+You're under arrest for "megacide."
+
+<stage> Whines </stage>
+
+<stage> Grunts </stage>
+
+Where's your messiah now?
+
+<stage> All Laughing </stage>
+
+<stage> Groans, Gasps </stage>
+
+<stage> Snoring </stage>
+
+Mmm. Mmm.
+
+Huh?
+
+<stage> Clears Throat </stage>
+
+<stage> Gasps </stage> Everyone's gone.
+
+Oh, how embarrassing. Ooh, we slept right through church.
+
+Eh, it's not the end of the world.
+
+<stage> All Gasping </stage>
+
+<stage> All Laughing </stage>
+
+Oh, no! It's the apocalypse!
+
+<fam><person>Bart</person></fam>, are you wearing clean underwear?
+
+Not anymore.
+
+It's the rapture! And I never knew true love.
+
+I never used those pizza coupons!
+
+<music>♪<stage> Angelic Vocalizing </stage></music>
+
+Why aren't we ascending into heaven?
+
+<stage> Rumbling </stage>
+
+Oh, right. The sins.
+
+Wha- Ohh!
+
+Where do you think you're going, missy?
+
+Dad!
+
+<stage> All Scream </stage>
+
+<stage> Sniffing </stage> Ooh! I smell barbecue!
+
+<stage> Giggling </stage> Hey, look!
+
+<stage> Screams </stage> Oh, they're out ofhot dogs.!
+
+And the coleslaw has pineapple in it.!
+
+<stage> Screams </stage> German potato salad.!
+
+<music>♪ <stage> <location>Hard Rock</location> </stage></music>
+
+<music>♪ <stage> <location>Hard Rock</location> </stage></music>
+
+<music>♪ <stage> Ends </stage></music>
+
+<stage> Murmuring </stage>
+
+Shh!
+</txt></xml>
