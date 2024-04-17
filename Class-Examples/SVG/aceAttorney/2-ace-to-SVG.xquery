@@ -49,44 +49,57 @@ Let's go through episodes and see which ones feature each cutIn the most. :)
 
 
 declare variable $svgEpisode :=
-<html>
-    <head>
-    <title>Table of Cutin Data by Episode</title>
-    </head>
-    <body>
-    <table>
+<svg width="50000" height="1500" viewBox="0 0 2000 3000" xmlns="http://www.w3.org/2000/svg">
+    <desc>Cutin Data by Episode</desc>
+   <g id="wholePlot" transform="translate(50, 2000)">
     {for $ep at $pos in $aceColl
-    let $epTitle := $ep//title ! normalize-space()
-    let $totalcutIns := $ep//cutIn => count()
+    let $epTitle := $ep//Q{}title ! normalize-space()
+    let $totalcutIns := $ep//Q{}cutIn => count()
     where $totalcutIns > 0
     order by $totalcutIns descending
         
      return 
-     <tr>
-       <td>{$epTitle}</td>
+     
+    <g id="{$epTitle}">
+     
+      <text font-size="2em" x="{$xSpacer * $pos}" y="50">{$epTitle}</text>
        
-       <td>
+       <g class="cutinInfo">
+       <!--ebb: We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.
+       -->
        {for $c at $cutPos in $distinctCuts
         
-        let $epCount := $ep//cutIn[normalize-space(.) = $c] => count()
+        let $epCount := $ep//Q{}cutIn[normalize-space(.) = $c] => count()
         return
-       
-            <ul>
-       
-          <li>{$c}</li>
-          <li>{$epCount}</li>
-       </ul>
-       }
-       </td>
-   
-     </tr>  
-     }
-     </table>
-     </body>
-</html>;
+            <g>
+            <desc>
+                {$c}, 
+            {$epCount}
+          </desc>
+          <line stroke="{$colors[position() = $cutPos]}" x1="{$pos * $xSpacer + $cutPos}" x2="{$pos * $xSpacer}" y1="0" y2="{$epCount}"/>
+   `        <!--  ebb: Notice how I'm just adding the $cutPos value to the regular x value for the episode here. 
+               We can do something different to try to stack these bars on top of each other instead
+               of plotting them side by side
+               
+               WHERE TO PUT THE TEXT OF THE CUT-INS RELATIVE TO THESE THREE LINES?
+                <text font-size="3em" x="{$xSpacer * $pos}" y="50">{$c}</text> -->
+     
+ 
+      </g> }
+      </g>
+      </g>}
+      </g>
+
+</svg>;
+
+
+
+
+
 
 (: We must always call just ONE variable to return in an XQuery file.
 When it's a global variable, call it by name very END of the file. :) 
-$svgChart
+$svgEpisode
 
 
