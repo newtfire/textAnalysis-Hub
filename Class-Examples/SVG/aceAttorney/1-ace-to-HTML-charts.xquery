@@ -8,7 +8,8 @@ They're simply available everywhere in your file.
 (: Look around at some nodes. What do you want to know? :)
 declare variable $titles := $aceColl//title;
 
-(: ebb: Let's find all the <cutIn> elements marked by the team :)
+(: ebb: Let's find all the <cutIn> elements marked by the team. 
+We'll use XPath's normalize-space() to return a simple text string and remove spaces. :)
 declare variable $cutIns := $aceColl//cutIn ! normalize-space();
 
 

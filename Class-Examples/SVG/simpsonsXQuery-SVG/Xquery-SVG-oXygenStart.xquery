@@ -13,7 +13,7 @@ declare variable $simpsonsAll := ($simpsons_S1, $simpsons_S10, $simpsons_S20, $s
 declare variable $allCatches := $simpsonsAll//catchphrase => distinct-values();
 declare variable $distCatches := $simpsonsAll//catchphrase ! normalize-space() ! lower-case(.) ! replace(., "'", '') => distinct-values();
 
-<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="100%" viewBox="0 0 500 3000" xmlns="http://www.w3.org/2000/svg">
     <g transform="translate(50, 20)">
     <!--Use XML comments down here in the XML plot. In SVG, transform/translate shifts things by X and Y coordinates.
     So this moves the whole plot over by 50 and down by 20 from top left. We're going to start by plotting down the screen.
