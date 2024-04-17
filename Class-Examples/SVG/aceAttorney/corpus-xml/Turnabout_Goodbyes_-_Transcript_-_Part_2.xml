@@ -1,0 +1,742 @@
+<xml>
+<title>Turnabout Goodbyes</title>
+<line speaker="Phoenix">Karma...?</line>
+<line speaker="Edgeworth">That's right, Manfred von Karma. He's the best prosecutor there is. He hasn't lost a case in his 40-year career. He is a god of prosecution, Wright! A god!</line>
+<line speaker="Maya">Not a single case?</line>
+<line speaker="Edgeworth">He'll do anything to get a guilty verdict, anything.</line>
+<line speaker="Phoenix">Hmm. Sounds like someone else I know, Edgeworth.</line>
+<line speaker="Edgeworth">Hmph. You don't understand. I mean he'll really do anything. Manfred von Karma is a man to be feared.</line>
+<line speaker="Phoenix"><thought>That's quite a claim coming from someone who forges evidence...</thought></line>
+<line speaker="Edgeworth">He taught me what it really means to "prosecute."</line>
+<line speaker="Phoenix">Wh-what!?</line>
+<line speaker="Edgeworth">Just picture a prosecutor as vicious as me... multiplied by a factor of ten.</line>
+<line speaker="Maya">Ugh... So... so was he your teacher, then, Mr. Edgeworth?</line>
+<line speaker="Edgeworth">Something like that...</line>
+<line speaker="Maya">And now he's trying to get you found guilty!? What a creep! Oh, wait... Maybe he's planning on losing on purpose to help you out.</line>
+<line speaker="Edgeworth">Not a chance... He hasn't lost once in 40 years. 40 years! He's as ruthless as me, times twenty!</line>
+<line speaker="Maya">That's pretty ruthless...</line>
+<line speaker="Edgeworth">Like I said. He's a god among prosecutors.</line>
+<line speaker="Phoenix"><thought>I guess that's something like Mia was to me. Speaking of Mia...</thought> Um, Maya?</line>
+<line speaker="Maya">Uh huh?</line>
+<line speaker="Phoenix">We could really be using Mia's help right now... don't you think?</line>
+<line speaker="Maya">Oh...</line>
+<line speaker="Phoenix">?</line>
+<line speaker="Maya">I can't. Sorry. I tried, I really tried, but I couldn't reach.</line>
+<line speaker="Phoenix">You couldn't "reach"?</line>
+<line speaker="Maya">I think it's because I haven't been training. My powers are weak again...</line>
+<line speaker="Phoenix">Oh man, what bad timing!</line>
+<line speaker="Maya">I'm really sorry. I'll try my best!</line>
+<line speaker="Phoenix">I hope so!</line>
+<line speaker="Edgeworth">What are you whispering about?</line>
+<line speaker="Phoenix">O-oh, it's nothing. Well, it's time. Let's head in...</line>
+<line speaker="Judge">Court is now in session for the trial of Mr. Miles Edgeworth.</line>
+<line speaker="Phoenix">The defense is ready, Your Honor.</line>
+<line speaker="Karma">...</line>
+<line speaker="Judge">Err, Mr. von Karma? Is the prosecution ready?</line>
+<line speaker="Karma">... Fool... You seriously think that I would stand here were I not completely prepared?</line>
+<line speaker="Judge">R-right, my apologies!</line>
+<line speaker="Phoenix"><thought>He's even got the Judge scared!</thought></line>
+<line speaker="Judge">Very well, your opening statement, please.</line>
+<line speaker="Karma">... Decisive evidence... A decisive witness... What else could possibly be required?</line>
+<line speaker="Judge">Ah... er, nothing of course. That should be fine. The prosecution may call its first witness.</line>
+<line speaker="Maya">What's with this guy? Is he royalty or something?</line>
+<line speaker="Phoenix">How am I supposed to fight against this!?</line>
+<line speaker="Karma">I call the detective in charge of this case, Detective Dick Gumshoe.</line>
+<line speaker="Phoenix"><thought>Okay, Gumshoe's first... Let's see how this goes.</thought></line>
+<line speaker="Karma">Describe the incident. Now!</line>
+<line speaker="Gumshoe">Y-yessir!</line>
+<line speaker="Phoenix"><thought>Detective Gumshoe looks nervous...</thought></line>
+<line speaker="Gumshoe">Er, please take a look at the map. The murder happened late Christmas Eve, around midnight. There was one boat in the very middle of the lake. There were two men on the boat. Now, there happened to be a woman camping here on the edge of the lake. At 12:10 AM, she heard two pistol shots. Then the boat started to move. It went towards the boat rental shop.</line>
+<line speaker="Karma">Hmm.</line>
+<line speaker="Karma">Testify to the court about your arrest. Now!</line>
+<line speaker="Judge">W-w-wait! Mr. von Karma...</line>
+<line speaker="Karma">Yes?</line>
+<line speaker="Judge">Actually, I'm the one that's supposed to be handling these proceedings...</line>
+<line speaker="Karma">Wrong. There is only one thing you need to do here. You will slam down your gavel and say the word "guilty." That is your role!</line>
+<line speaker="Judge">Y-yes, of course. You're quite right.</line>
+<line speaker="Phoenix"><thought>No he's not!!!</thought></line>
+<line speaker="Gumshoe">A man called into the station around 30 minutes after midnight.</line>
+<line speaker="Judge">Hmm... I see. Very well...</line>
+<line speaker="Karma">Begin your cross-examination, attorney. Now!</line>
+<line speaker="Judge">...</line>
+<line speaker="Gumshoe">A man called into the station around 30 minutes after midnight.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">You received a call from a "man"?</line>
+<line speaker="Gumshoe">Er... yup.</line>
+<line speaker="Phoenix">But you said there was a woman camping there? She was the one who heard the two gunshots, right?</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">That woman and the "man" who called in the report are two different people, obviously!</line>
+<line speaker="Phoenix">Different people?</line>
+<line speaker="Karma">There were two witnesses!</line>
+<line speaker="Phoenix"><thought>Urk!</thought></line>
+<line speaker="Karma">Their testimonies were quite similar however. Today I've summoned the woman who was camping.</line>
+<line speaker="Phoenix"><thought>The woman who was camping... Lotta Hart.</thought></line>
+<line speaker="Karma">What happened next, Detective?</line>
+<line speaker="Gumshoe">We headed to the scene of the crime as fast as we could.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">How long was it between receiving the report and your arrival at the lake?</line>
+<line speaker="Gumshoe">Er, well... I'd say it was about three minutes.</line>
+<line speaker="Phoenix">That's pretty fast!</line>
+<line speaker="Gumshoe">Our motto for the month is "get there quick."</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">Detective! You will refrain from casually revealing department secrets!</line>
+<line speaker="Gumshoe">Y-yessir! Sorry, sir!</line>
+<line speaker="Karma">Do that, and you'll be able to look forward to your next salary review.</line>
+<line speaker="Gumshoe">So much to look forward to, these days...</line>
+<line speaker="Karma">This is no time for daydreaming! Continue!</line>
+<line speaker="Gumshoe">Y-yessir!</line>
+<line speaker="Gumshoe">That's where we found Mr. Edgeworth.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">What was Mr. Edgeworth like when you saw him then?</line>
+<line speaker="Gumshoe">Well... From what I saw, he looked pretty relaxed. Not like a murderer at all, really.</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">Detective! The court requires the facts, NOT your opinion! How many years have you been on the force!? Facts only, Detective! Hard, cold, objective facts!</line>
+<line speaker="Gumshoe">Y-y-yessir!</line>
+<line speaker="Phoenix"><thought>Man, he's got his share of objections...</thought></line>
+<line speaker="Gumshoe">Now, I didn't suspect him of anything at all.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">Why didn't you think he was suspicious?</line>
+<line speaker="Gumshoe">You should know! We have a deep, trusting relationship with the prosecutors.</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">Detective! The court isn't interested in your musings! "Deep"? "Trusting"? Poppycock! I've never heard so many flippant comments from an active detective on the force!</line>
+<line speaker="Gumshoe">Mmph!</line>
+<line speaker="Phoenix"><thought>Detective Gumshoe doesn't look so good...</thought></line>
+<line speaker="Karma">Continue! Now!</line>
+<line speaker="Gumshoe">But... the next morning, a body was found in the lake.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">Did you find any clues on the body?</line>
+<line speaker="Gumshoe">A single bullet was recovered from the body. He was shot through the heart... fatally.</line>
+<line speaker="Karma">Judge! Here's the bullet... It didn't strike bone, so its shape is well preserved.</line>
+<line speaker="Judge">Very well. The court accepts this bullet into evidence.</line>
+<line speaker="Gumshoe">So we had to arrest Mr. Edgeworth.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">W-why is that?</line>
+<line speaker="Gumshoe">Well, we found the murder weapon in the boat.</line>
+<line speaker="Phoenix">The murder weapon...?</line>
+<line speaker="Gumshoe">A pistol.</line>
+<line speaker="Judge">Detective Gumshoe... That is a vital piece of information. Please revise your testimony.</line>
+<line speaker="Gumshoe">Right! S-sorry, Your Honor.</line>
+<line speaker="Change statement">"So we had to arrest Mr. Edgeworth." to "The murder weapon we found in the boat was decisive evidence."</line>
+<line speaker="Gumshoe">The murder weapon we found in the boat was decisive evidence.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">What about the pistol made it "decisive evidence"?</line>
+<line speaker="Karma">Tsk tsk tsk...</line>
+<line speaker="Phoenix"><thought>Ack! He has the same evil laugh as Edgeworth...</thought></line>
+<line speaker="Gumshoe">There were fingerprints on the pistol found in the boat. They were clear prints from Mr. Edgeworth's right hand.</line>
+<line speaker="Phoenix">Wh-what!?</line>
+<line speaker="Judge">Order! Order! So Mr. Edgeworth's fingerprints were found on the murder weapon!?</line>
+<line speaker="Gumshoe">Y-yes, Your Honor.</line>
+<line speaker="Karma">Judge! This is the weapon in question.</line>
+<line speaker="Judge">A-accepted into evidence.</line>
+<line speaker="Maya">Nick. Doesn't it seem like Detective Gumshoe is being a little vague?</line>
+<line speaker="Phoenix">I bet von Karma is feeding him lines! His testimony's probably filled with landmines just waiting for me to press.</line>
+<line speaker="Maya">What do we do?</line>
+<line speaker="Phoenix">Grit our teeth and press, I guess. What else can we do?</line>
+<line speaker="Maya">Well said, Nick! You're the man!</line>
+<line speaker="Karma">Members of the court... We now have the pistol used in the murder, and the bullet found in the body! Detective!</line>
+<line speaker="Gumshoe">Y-y-yessir!</line>
+<line speaker="Karma">Was the bullet found in the body fired from this pistol?</line>
+<line speaker="Gumshoe">Yes. The ballistic markings on the bullet match the pistol.</line>
+<line speaker="Judge">Hmm...</line>
+<line speaker="Maya">Hey, Nick! What does he mean, "ballistic markings"?</line>
+<line speaker="Karma">Shocking! To imagine someone here does not know something as basic as ballistic markings!</line>
+<line speaker="Maya">N-Nick! He's glaring at me!</line>
+<line speaker="Karma">Tsk... very well, I'll explain. Actually, Judge! You do it.</line>
+<line speaker="Judge">Eh? M-me? ... Erm, ahem. Ballistic markings are like the "fingerprints" of a gun. The barrel leaves distinctive marks on each bullet it fires. You can examine these "ballistic fingerprints" to see which gun fired the shot. It's quite accurate.</line>
+<line speaker="Karma">Indeed. This leads to one, inevitable conclusion: the bullet found in the victim's heart... was, without a doubt, fired from this pistol. This pistol which, as you may recall, was covered with the defendant's own fingerprints!</line>
+<line speaker="Judge">O-order! Order!</line>
+<line speaker="Phoenix"><thought>This is bad... This makes it look like Edgeworth did it!</thought></line>
+<line speaker="Karma">Well, Judge?</line>
+<line speaker="Judge">I'd say it's almost decisive, yes. Honestly, I could declare a verdict at this point. However...</line>
+<line speaker="Karma">You wish to hear the witness speak, no doubt. Very well. I am somewhat fatigued, and so I will take a brief break. I will call my witness after the recess. Which will last ten minutes. Judge!</line>
+<line speaker="Judge">Y-yes?</line>
+<line speaker="Karma">What are you doing? A ten minute recess! Now!</line>
+<line speaker="Judge">B-but, wait, I...</line>
+<line speaker="Karma">Just bang your flimsy gavel and get on with it, man!</line>
+<line speaker="Judge">Y-yes! Ahem. This court will take a ten minute recess.</line>
+<line speaker="Phoenix"><thought>Who's running this court, anyway!?</thought></line>
+<line speaker="Phoenix">Edgeworth! What's going on here!? Your fingerprints were on the murder weapon!</line>
+<line speaker="Edgeworth">Uh... hmm...</line>
+<line speaker="Phoenix">And that foggy photo makes one thing clear... The only one who could have shot that man was the person in the photo!</line>
+<line speaker="Edgeworth">True...</line>
+<line speaker="Phoenix">Was that you in the boat?</line>
+<line speaker="Edgeworth">... Yes. It was me.</line>
+<line speaker="Phoenix">What!?</line>
+<line speaker="Edgeworth">But... you must believe me. I didn't shoot him.</line>
+<line speaker="Phoenix">Th-then who did!?</line>
+<line speaker="Edgeworth">I... don't know.</line>
+<line speaker="Phoenix">You don't know!? Weren't you right there!?</line>
+<line speaker="Edgeworth">... I heard a gunshot from very close by. Then... the other man fell from the boat. I can't say why, but... I thought, at the time, that he had shot himself!</line>
+<line speaker="Phoenix">Y-you mean it was a suicide!?</line>
+<line speaker="Edgeworth">... That's the only explanation I can come up with.</line>
+<line speaker="Phoenix">Huh... <thought>How am I going to convince anyone of that!?</thought> Say, Maya?</line>
+<line speaker="Maya">Huh? Wh-what?</line>
+<line speaker="Phoenix">Any progress with Mia?</line>
+<line speaker="Maya">Oh... Sorry. It's no good.</line>
+<line speaker="Phoenix">Ugh...</line>
+<line speaker="Maya">I know... I'm no good for anything, am I, Nick? If I can't call my sister, I might as well not be here, right?</line>
+<line speaker="Phoenix">No, of course not, I need you here! I can see you're always trying to help out. Even if you don't actually help... it's the thought that counts, right?</line>
+<line speaker="Maya">It's okay Nick, you don't have to make me feel better.</line>
+<line speaker="Phoenix">Um, well, actually... <thought>You don't know law, you don't have any trial experience or techniques... Yeah, you're pretty much useless... but I can't say that!</thought></line>
+<line speaker="Maya">It's okay Nick. You don't have to say anything. Your face said it for you.</line>
+<line speaker="Phoenix"><thought>Whoops!</thought> N-no, o-of course we... I'm sorry.</line>
+<line speaker="Maya">It's okay Nick.</line>
+<line speaker="Maya">I don't know anything about trials, or defense... What's more, I'm a spirit medium who can't even contact spirits...</line>
+<line speaker="Phoenix">Aww, everyone has their off days! I mean, I've just been getting lucky lately... But you never know when my luck is going to run out!</line>
+<line speaker="Maya">Really...?</line>
+<line speaker="Edgeworth">W-w-whoa! Wright! Don't jinx this case any worse than it already is! It's bad for my heart...</line>
+<line speaker="Phoenix">Oh? Oh! S-sorry... <thought>Whoops!</thought></line>
+<line speaker="Judge">Court is back in session. Mr. von Karma, call your witness.</line>
+<line speaker="Karma">Yes. Will Ms. Lotta Hart take the stand?</line>
+<line speaker="Karma">Lotta Hart, you are a research student at a university?</line>
+<line speaker="Lotta">That I am.</line>
+<line speaker="Karma">Good. Begin by telling us what you saw the night of the incident. And don't add anything trivial or subjective. Understand?</line>
+<line speaker="Lotta">... Y'all need to learn some manners.</line>
+<line speaker="Karma">UNDERSTAND?</line>
+<line speaker="Lotta">Y-yeah, I understand, I understand!</line>
+<line speaker="Judge">Er... very well. Your testimony, please.</line>
+<line speaker="Lotta">It was Christmas Eve, just after midnight, I reckon.</line>
+<line speaker="Karma">Enough.</line>
+<line speaker="Lotta">Huh?</line>
+<line speaker="Karma">Judge! She happened to take a photo of the incident! This is that photo. Accept it as evidence.</line>
+<line speaker="Judge">W-well! This is a surprise! This looks like... the very moment of the murder! O-Order! I will remove you from the court if I do not have order immediately!</line>
+<line speaker="Karma">As the witness testified, she looked at the lake when she heard the shot. There were no other boats on that lake! So, the man in the boat with the victim must have been the one who shot him... Yes. It was the defendant, Miles Edgeworth!!!</line>
+<line speaker="Judge">Order! Order! Order...! I will have order!</line>
+<line speaker="Karma">... Well, Judge?</line>
+<line speaker="Judge">The evidence is... decisive. I have very little doubt about this case. Very well, this court finds the defendant...</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix">W-wait! Your Honor! I haven't cross-examined the witness yet!</line>
+<line speaker="Karma">A cross-examination? We have photographic proof! What question can there possibly be!? This photo is worth a thousand words... and they all read "guilty"! You lose. Or... Do you claim to have found a contradiction in her testimony!?</line>
+<line speaker="Phoenix">...!</line>
+<line speaker="Karma">Very well. If you have to, you may cross-examine the witness. You will only flounder and ask meaningless questions! You will fail to find anything! And then, I will have you held in contempt of court!</line>
+<line speaker="Maya">Uh, Nick... contempt...?</line>
+<line speaker="Phoenix">"Contempt of court," you know?</line>
+<line speaker="Maya">I... guess I understand. Well... what are you going to do? Do you really think there was a contradiction with the facts in her testimony?</line>
+<line speaker="Phoenix">I... think I noticed one little thing...</line>
+<line speaker="Maya">Wow, I'm impressed, Nick! I didn't notice anything! Right! Let's take him on!</line>
+<line speaker="Phoenix">Y-yeah... <thought>I got a bad feeling about this...</thought></line>
+<line speaker="Phoenix">Honestly, I found nothing.</line>
+<line speaker="Maya">I dunno, I thought her testimony was strange. She was so vague about everything!</line>
+<line speaker="Phoenix">I bet von Karma probably fed her her lines.</line>
+<line speaker="Maya">But... But if you don't cross-examine her, the judge will...</line>
+<line speaker="Phoenix">He'll bang down that "flimsy gavel" of his and declare Edgeworth guilty.</line>
+<line speaker="Maya">I guess we'll just have to bluff it.</line>
+<line speaker="Phoenix">But if we mess up... contempt of court.</line>
+<line speaker="Maya">Hey, if we lose we'll be held in public contempt!</line>
+<line speaker="Phoenix">Er... right.</line>
+<line speaker="Phoenix">I understand... I will cross-examine the witness!</line>
+<line speaker="Karma">Tsk tsk tsk... Very well!</line>
+<line speaker="Judge">I pray for your sake this isn't a waste of time.</line>
+<line speaker="Lotta">It was Christmas Eve, just after midnight, I reckon.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">"Just after midnight," you say? In other words, it was no longer Christmas Eve... but Christmas Day!</line>
+<line speaker="Lotta">Huh? Uh, yeah, well, yes.</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">I know you want to find contradictions, but really!</line>
+<line speaker="Phoenix">Mmmph.</line>
+<line speaker="Judge">I hope your next contradiction is a little more relevant to the trial.</line>
+<line speaker="Lotta">I was in my car.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">Why were you camping there, anyway?</line>
+<line speaker="Lotta">I'm a research student at my university. I was taking pictures to use in my research.</line>
+<line speaker="Phoenix"><thought>What research? This all sounds suspicious...</thought></line>
+<line speaker="Phoenix">Ms. Hart. Could you be more specific about your "research"?</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">What does the witness's motive in camping by the lake have to do with this case!? The answer "is nothing"! I object to this line of questioning! Objection sustained!</line>
+<line speaker="Judge">W-w-wait, now, I'm the one who says that!</line>
+<line speaker="Karma">Well, then say it already!</line>
+<line speaker="Judge">Objection sustained.</line>
+<line speaker="Phoenix"><thought>Thanks for nothing, Your Honor...</thought></line>
+<line speaker="Phoenix"><thought>I think I'll let that one slide for now.</thought></line>
+<line speaker="Lotta">I heard this "bang" come up from the lake.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">So, you weren't looking at the lake at that time?</line>
+<line speaker="Lotta">Nope. I looked after I heard that noise.</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">She's said that already! I asked you to find "contradictions"! Not leisurely chat with the witness!</line>
+<line speaker="Phoenix"><thought>Urk...</thought></line>
+<line speaker="Lotta">When I looked out the window, I saw two gents in a boat.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">Could you clearly see the two men?</line>
+<line speaker="Lotta">Just look at the picture! Clear enough for you?</line>
+<line speaker="Phoenix"><thought>Uh oh...</thought></line>
+<line speaker="Phoenix">Wait a second! I wasn't asking you about the photo! I was asking if YOU saw the two men!</line>
+<line speaker="Lotta">Uh, yeah, well, of course...</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">The witness has testified that she saw them! There's also a photo! You'd best look elsewhere for your precious contradictions!</line>
+<line speaker="Phoenix"><thought>He jumped in quick... He's hiding something!</thought></line>
+<line speaker="Phoenix"><thought>I think I'd best let that one slide...</thought></line>
+<line speaker="Lotta">Then there was another "bang"...</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">Were you watching the very moment the shot rang out?</line>
+<line speaker="Lotta">Well, yeah, sure...</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">You're asking meaningless questions! Meaningless! "Contradictions," Mr. Wright. Not meaningless babble!</line>
+<line speaker="Phoenix"><thought>von Karma, I think I hate you. He's trying to keep me from talking to the witness... To what end...?</thought></line>
+<line speaker="Lotta">There wasn't nary a thing on the lake but that boat.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">Are you sure about that?</line>
+<line speaker="Lotta">Yeah, sure as a country gal can be!</line>
+<line speaker="Phoenix"><thought>That sounds pretty sure.</thought></line>
+<line speaker="Phoenix">How come you're so sure?</line>
+<line speaker="Lotta">Well, heck, I scanned the whole lake.</line>
+<line speaker="Phoenix"><thought>"Scanned the whole lake"? It almost sounds like she was more interested in the lake than the boat...</thought> Ms. Hart... you--</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">Mr. Wright! The witness has answered the question in full.</line>
+<line speaker="Phoenix">Mmph!</line>
+<line speaker="Karma">No need for further questions! Objection sustained!</line>
+<line speaker="Judge">U-uh, that's what I'm...</line>
+<line speaker="Karma">Sustained!</line>
+<line speaker="Judge">Y-yes, of course.</line>
+<line speaker="Phoenix"><thought>Oh great... What am I supposed to do now?</thought></line>
+<line speaker="Phoenix"><thought>Lotta seems pretty sure of herself. I'd better not forge blindly ahead here. Still... this whole thing stinks.</thought></line>
+<line speaker="Phoenix"><thought>Th-there weren't any contradictions in there!</thought></line>
+<line speaker="Maya">Sorry, Nick. If only my sister were here...</line>
+<line speaker="Phoenix"><thought>Maya's really taking this hard.</thought></line>
+<line speaker="Judge">Enough! I think we've heard all we need to hear, Mr. Wright. It seems you are unable to find a contradiction in the testimony worth noting.</line>
+<line speaker="Phoenix">B-but, Your Honor!</line>
+<line speaker="Karma">You keep your promise!</line>
+<line speaker="Judge">Mr. Wright. I am afraid that I will have to penalize any further outbursts... By holding you in contempt of court!</line>
+<line speaker="Karma">And if that happens, you'll have to leave the courtroom immediately! Understood...?</line>
+<line speaker="Phoenix">Uh... uh huh.</line>
+<line speaker="Maya">Nick...! Lotta's testimony is fishy, Nick! Real fishy!</line>
+<line speaker="Phoenix">I... know what you mean. But... If I can't say anything, what can I do?</line>
+<line speaker="Judge">I believe we've covered the evidence sufficiently to make a decision.</line>
+<line speaker="Karma">Then, pass your judgment!</line>
+<line speaker="Judge">Very well. Mr. Miles Edgeworth, please take the stand.</line>
+<line speaker="Judge">Wh-who was that!?</line>
+<line speaker="Maya">It... was me.</line>
+<line speaker="Phoenix"><thought>Maya!</thought></line>
+<line speaker="Judge">I-is something wrong? D-do you need to use the facilities?</line>
+<line speaker="Maya">No, I do not! Lotta Hart! Your testimony stinks! It's unclear whether you were actually looking at the lake! It's highly doubtful that you actually say Mr. Edgeworth! Tell us the truth! This is a matter of life or death!</line>
+<line speaker="Lotta">...!</line>
+<line speaker="Maya">Lotta! Did you really clearly see Mr. Edgeworth that night!? Did you see him fire that pistol!?</line>
+<line speaker="Judge">You will stand down! The court does not acknowledge the defense's outburst!</line>
+<line speaker="Maya">Answer me, Lotta!</line>
+<line speaker="Lotta">What's the big idea, treating me like some kind of criminal!? I saw him! I swear it! I saw Edgeworth...</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">Enough! Judge... Declare the defense in contempt of court!</line>
+<line speaker="Judge">Y-yes... yes, of course. I'm sorry, but you WERE warned. Guard! Escort Mr. Wright out of the courtroom! He is in contempt of court, and must leave.</line>
+<line speaker="Phoenix"><thought>No... No...!</thought></line>
+<line speaker="Maya">I-I was the one who made the outburst, Your Honor! Nick is innocent!</line>
+<line speaker="Karma">Hah! What's the difference? All that remains is for the guilty verdict to be declared! Isn't that right, Mr. Phoenix Wright!?</line>
+<line speaker="Phoenix">Wrong!</line>
+<line speaker="Karma">What!?</line>
+<line speaker="Phoenix"><thought>Dammit, he's right...</thought></line>
+<line speaker="Maya">N-Nick! There must be something we can do!</line>
+<line speaker="Phoenix">I... don't think there is. The cross-examination is over already!</line>
+<line speaker="Maya">B-but... but didn't Lotta just say she saw him? She did, Nick! She just said that she saw Mr. Edgeworth! She didn't say that in her testimony, did she?</line>
+<line speaker="Phoenix">...! Y-you're right! Your Honor!</line>
+<line speaker="Phoenix">Did you hear what Ms. Hart just said? She said she clearly saw Mr. Edgeworth! That was not in the testimony! That changes her testimony, and I have a right to cross-examine her again!</line>
+<line speaker="Judge">Order! Order! Order! Order! Order! Order!</line>
+<line speaker="Karma">You're in contempt of court! It's too late for wild claims! Judge! Sustain my objection!</line>
+<line speaker="Judge">... ... I'm sorry, Mr. von Karma, but I cannot.</line>
+<line speaker="Karma">What!?</line>
+<line speaker="Judge">Ms. Lotta Hart has made a new testimony. The defense does have a right to cross-examine her again.</line>
+<line speaker="Karma">B-but he is in contempt of court!</line>
+<line speaker="Maya">No, I am! If you're going to arrest someone, arrest me!</line>
+<line speaker="Judge">Hmm... Very well. Maya Fey! You will leave the courtroom immediately.</line>
+<line speaker="Maya">Nick! I did what I could... You have to do the rest! Good luck!</line>
+<line speaker="Phoenix">M-Maya...!</line>
+<line speaker="Karma">Peh! I care not for this melodrama! Listen well, Mr. Wright! I do not tolerate badgering of my witnesses!</line>
+<line speaker="Phoenix"><thought>I'm running out of time... I'd better find a contradiction in here or else...</thought></line>
+<line speaker="Judge">Mr. Wright! Begin your cross-examination!</line>
+<line speaker="Lotta">I saw it clear as day. The man on the boat was Mr. Edgeworth!</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">Well, what about the other man?</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">You cannot expect to be allowed to blithely ignore your promise, Mr. Wright! I believe you claimed there was a contradiction in the witness's testimony! Well, find it! If you can!</line>
+<line speaker="Judge">Mr. Wright, I have to assign you a penalty.</line>
+<line speaker="Phoenix"><thought>Damn...!</thought></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix"><thought>That's it...? Uh oh. I don't know if I can find anything in that... What will Maya say...?</thought></line>
+<line speaker="Phoenix">Got you. Got you, Ms. Hart! Finally!</line>
+<line speaker="Lotta">Wh-what!? You got what?</line>
+<line speaker="Phoenix">Look at this photograph.</line>
+<line speaker="Lotta">The photo I took...?</line>
+<line speaker="Phoenix">The very same. There's something I want you to see in this photo... it's quite clearly visible. The fog, Ms. Hart.</line>
+<line speaker="Lotta">So... so?</line>
+<line speaker="Phoenix">This picture was taken with professional, high quality film, correct? Yet even it could not capture the faces of the men on the boat! Yet you claim you saw Mr. Edgeworth! How!?</line>
+<line speaker="Lotta">Whut!? Wha--!</line>
+<line speaker="Judge">Mr. Wright has a point!</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">That's why I told her not to say that in her testimony! Please!</line>
+<line speaker="Phoenix">Yet, now she has said it, Mr. von Karma. How could you possibly see Mr. Edgeworth!? Explain yourself!</line>
+<line speaker="Judge">Ms. Hart.</line>
+<line speaker="Lotta">What!</line>
+<line speaker="Judge">Could you see the defendant that night?</line>
+<line speaker="Lotta">O-of course! I said I could and I meant I could!</line>
+<line speaker="Judge">Then, please testify as to the circumstances of your sighting.</line>
+<line speaker="Phoenix"><thought>I did it! I finally found a hole in von Karma's carefully vague testimony!</thought></line>
+<line speaker="Lotta">Yer right. It was a cold night, and the fog was thick as grits.</line>
+<line speaker="Judge">Hmm...You used binoculars? Very well. You may begin your cross-examination, Mr. Wright.</line>
+<line speaker="Phoenix"><thought>This one'd better be good!</thought></line>
+<line speaker="Lotta">Yer right. It was a cold night, and the mist was thick as grits.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">So? How could you see Edgeworth!?</line>
+<line speaker="Lotta">Now, just hold your horses for a second! You hasty Yankee types'd never find a gal where I'm from.</line>
+<line speaker="Judge">Defense attorneys have trouble with that as it is.</line>
+<line speaker="Phoenix"><thought>Nobody loves me...</thought></line>
+<line speaker="Lotta">So, once I was finished setting up my camera, I got back in the car.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">Your "camera"...?</line>
+<line speaker="Lotta">Yeah. It's got an automatic...</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">The issue we are concerned with here is Ms. Hart seeing Mr. Edgeworth! The camera has nothing to do with this at all!</line>
+<line speaker="Judge">Objection sustained.</line>
+<line speaker="Phoenix"><thought>Argh! He's not letting her answer any of my questions!</thought></line>
+<line speaker="Lotta">Still, I brought my binoculars with me.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">"Binoculars"?</line>
+<line speaker="Lotta">Yeah, binoculars.</line>
+<line speaker="Phoenix">Yesterday, you mentioned that you were out looking for shooting stars, correct?</line>
+<line speaker="Lotta">Well... yeah.</line>
+<line speaker="Phoenix">Wouldn't you need a telescope, not binoculars, for that?</line>
+<line speaker="Lotta">...!</line>
+<line speaker="Phoenix">I've got doubts about your camera, too! Was that really to take pictures of meteor showers?</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">The camera is irrelevant to this case!</line>
+<line speaker="Phoenix">You can't say that for certain!</line>
+<line speaker="Judge">Hmm... Mr. Wright. Is the camera really relevant to this case? If you believe it is, you may continue with this line of questioning.</line>
+<line speaker="Karma">But know this! If you find nothing with this, there will be consequences!</line>
+<line speaker="Judge">Well, Mr. Wright? Do you wish to press further about the camera?</line>
+<line speaker="Phoenix"><thought>This is make-it-or-break-it time!</thought> The camera is of utmost importance, Your Honor. It is, perhaps, the key to this entire case! Therefore, I will continue my line of questioning! <thought>Wow! Maybe I went a little overboard there...</thought></line>
+<line speaker="Judge">Very well! Ms. Hart! You will testify to the court about the camera!</line>
+<line speaker="Lotta">Yeah, yeah, I hear ya.</line>
+<line speaker="Change statement">"Still, I brought my binoculars with me." to "The camera was set up to take pictures of a meteor shower."</line>
+<line speaker="Phoenix">Okay, Your Honor... I withdraw my question. <thought>I have to remember who I'm dealing with! I bet von Karma wants to trap me so he can put me in contempt! I think I'll hang back for now and see what happens.</thought></line>
+<line speaker="Karma">Hah!</line>
+<line speaker="Lotta">The camera was set up to take pictures of a meteor shower.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">Ms. Hart. What made you choose that lake to photograph meteors? You know the fog gets thick on that lake. It's not very suited to stargazing.</line>
+<line speaker="Lotta">Yeah, well... Y'see, I... I guess I wasn't thinking too straight! Har!</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">Mr. Wright! I will not have you badgering my witness because of her challenged intellect!</line>
+<line speaker="Lotta">Now wait a minute!</line>
+<line speaker="Karma">Continue your testimony. You were saying how it was that you saw Edgeworth?</line>
+<line speaker="Lotta">Grr...</line>
+<line speaker="Karma">No unnecessary comments, please.</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix">You were photographing shooting stars? That's a lie!</line>
+<line speaker="Lotta">S-says who!?</line>
+<line speaker="Phoenix">I saw the camera you set up yesterday. It was pointed directly at the lake! You have to point a camera upwards to take photos of the stars, Ms. Hart!</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix">You were photographing shooting stars? That's a lie!</line>
+<line speaker="Lotta">S-says who!?</line>
+<line speaker="Phoenix">Take a look at this photograph. This was taken on an automatic setting, was it not?</line>
+<line speaker="Lotta">Y-yeah, that's right.</line>
+<line speaker="Phoenix">You have to point a camera upwards to take photos of the stars, Ms. Hart! But, as this photograph clearly shows... The camera was pointed directly at the lake!</line>
+<line speaker="Lotta">When I heard that noise out on the lake, I looked with my binoculars.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">If there was a heavy fog, how would binoculars change that at all?</line>
+<line speaker="Lotta">What do you mean?</line>
+<line speaker="Phoenix">Even binoculars can't see through fog! But... you say you clearly saw him?</line>
+<line speaker="Lotta">Er... I did... yeah.</line>
+<line speaker="Karma">Enough! There is no room for doubt in her testimony!</line>
+<line speaker="Phoenix"><thought>Hmm. She sounded pretty doubtful to me! But... I have to find a clear contradiction first.</thought></line>
+<line speaker="Phoenix"><thought>I don't care how many von Karmic objections I get... I'm going to find a hole in this testimony if it's the last thing I do!</thought></line>
+<line speaker="Lotta">Ooof!</line>
+<line speaker="Judge">Mr. Wright! What are you driving at?</line>
+<line speaker="Phoenix">The witness was not at the lake to photograph shooting stars, Your Honor!</line>
+<line speaker="Lotta">...!</line>
+<line speaker="Judge">W-well then, what exactly was she photographing?</line>
+<line speaker="Phoenix">Well... that I don't know.</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">What the witness takes photos of is entirely her business! This has nothing to do with the case! Not to mention that you can't even show us another reason why she might have been there. Mr. Wright... If you are out of material, I suggest we end this mockery of a cross-examination.</line>
+<line speaker="Phoenix"><thought>Uh oh... I can't let the trial end like this! I have to show them something!</thought></line>
+<line speaker="Phoenix">Your Honor! Take a look at this... What was Ms. Hart trying to photograph at the lake?</line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix">Well, Your Honor? What do you think?</line>
+<line speaker="Judge">I... think I'm confused.</line>
+<line speaker="Karma">Wrong again, Mr. Wright. So very wrong. You can't get through this one with your weak bluffs!</line>
+<line speaker="Phoenix">Y-Your Honor! Enough playing around! Here's the real evidence!</line>
+<line speaker="Judge">"Enough playing around" is my line, Mr. Wright!</line>
+<line speaker="Phoenix">Uh...</line>
+<line speaker="Phoenix">Ms. Hart. This is what you were trying to photograph!</line>
+<line speaker="Judge">What's this? A newspaper article? "Gourdy"...? Ah, the sighting at Gourd Lake...</line>
+<line speaker="Phoenix">Well, Ms. Hart?</line>
+<line speaker="Lotta">I... I never heard of no lake monster! You got proof or something? Let's see you prove that I was down at the lake trying to photograph this "Gourdy."</line>
+<line speaker="Phoenix">Well, I don't have proof...</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">Bah! Your ineptitude is entertaining, Mr. Wright, but enough is enough! I've had enough of baseless claims made without a hair of evidence to support them!</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix">Well all right, if that's how you want to play... I'll show you evidence!</line>
+<line speaker="Judge">Mr. Wright! Are you sure about this?</line>
+<line speaker="Phoenix"><thought>I'm sure sick of that smarmy prosecutor putting me down! Or... did he taunt me so I'd get mad and make a mistake?</thought></line>
+<line speaker="Phoenix">I have it! Proof!</line>
+<line speaker="Judge">Hmm... Intriguing!</line>
+<line speaker="Judge">Very well, let's see it. And... no joking around this time, please. Here is proof that the witness was trying to photograph Gourdy, the lake monster!</line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix">The proof, Ms. Hart, is your own camera!</line>
+<line speaker="Lotta">...!</line>
+<line speaker="Phoenix">You camera was set to take photos in response to loud noises, correct? Thus this photograph here, taken when a gun fired on the lake.</line>
+<line speaker="Lotta">...</line>
+<line speaker="Phoenix">And here, this article about "Gourdy." According to this article... Gourdy made a loud noise when it emerged! Well? You were trying to photograph Gourdy, weren't you! That's why you had set your camera to respond to loud noises!</line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix">The proof is this article about Gourdy the lake monster!</line>
+<line speaker="Lotta">...!</line>
+<line speaker="Phoenix">According to this article... When Gourdy breaks through the water, it makes a loud noise! Which is why you set up your camera with that microphone! You had it set to respond to loud noises! And that's how you got this picture when the pistol fired!</line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix">Here's my proof! It's simple!</line>
+<line speaker="Judge">... If it's simple... then why have you obviously made an error, Mr. Wright?</line>
+<line speaker="Phoenix">Urk...?</line>
+<line speaker="Lotta">What's that!?</line>
+<line speaker="Karma">Go home. Consider a career change.</line>
+<line speaker="Phoenix"><thought>Gah! How can they so casually toss aside this eviden... Oh. Whoops. Wrong evidence.</thought></line>
+<line speaker="Judge">Luckily for you, I'm in a patient mood, Mr. Wright. One more time please.</line>
+<line speaker="Judge">Order! Order! I see... I, too, thought it was a little strange.</line>
+<line speaker="Phoenix"><thought>Yeah, sure!</thought> Well, Ms. Hart? You were camping there to try and take a photo of Gourdy, weren't you?</line>
+<line speaker="Lotta">... Yeah. Not bad. Are all you lawyers that smart? So, smart boy, I was down there trying to photograph Gourdy, you got me. So what?</line>
+<line speaker="Phoenix">Huh...?</line>
+<line speaker="Lotta">That don't change what I saw, does it?</line>
+<line speaker="Karma">Exactly! What you just used several precious minutes of our time to prove... is nothing more than that the witness is an idiot who thinks monsters exist!</line>
+<line speaker="Lotta">H-hey!</line>
+<line speaker="Karma">But, as she so succinctly said, so what!? It changes nothing!</line>
+<line speaker="Phoenix"><thought>Not true! You were hiding the whole thing about Gourdy for some reason, I know it! But what could it have been...? Whatever it is, I'm getting to the bottom of this!</thought></line>
+<line speaker="Judge">Ms. Hart. Why did you hide the fact that you were searching for Gourdy from the court? Please revise your testimony.</line>
+<line speaker="Lotta">... Right. Fine, I'll testify. It won't change nothing, though.</line>
+<line speaker="Phoenix"><thought>Something will change... it has to! And I'm going to spot it!</thought></line>
+<line speaker="Karma">...</line>
+<line speaker="Lotta">Actually, I'm not a research student at a university.</line>
+<line speaker="Judge">Hmm... Well, Mr. Wright. You may cross-examine the witness.</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">The witness's testimony is unchanged from before! Whether she is a research student or a photographer has no bearing on this case! There is no need to waste more of our time with another pointless cross-examination!</line>
+<line speaker="Judge">Er... hmm.</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix">I claim the defense's right to cross-examine the witness, Your Honor! <thought>von Karma's up to something, I know it! He doesn't want me to cross-examine her because... why? Was there a contradiction?</thought></line>
+<line speaker="Judge">Very well. You may begin the cross-examination. You seem sure of yourself, you must have something in mind.</line>
+<line speaker="Karma">Hah! That would be a first!</line>
+<line speaker="Phoenix"><thought>Hah hah, very funny.</thought></line>
+<line speaker="Judge">You understand that this is your last chance at a cross-examination, Mr. Wright? If there is no problem with the testimony this time, we will let the witness leave. I will announce my verdict at that time, Mr. Wright. Understood?</line>
+<line speaker="Phoenix">Yes, Your Honor.</line>
+<line speaker="Lotta">Actually, I'm not a research student at a university.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">Then what manner of person are you!?</line>
+<line speaker="Lotta">I'm not sure I'm high-falutin' enough to be called a "manner" of anything.</line>
+<line speaker="Lotta">I'm an investigative photographer.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">An "investigative photographer"?</line>
+<line speaker="Lotta">Yep. You get your photo, and sell it to the press. It's that kind of business. Hey, I was taking pictures at my sister's graduation last year... N' guess what!</line>
+<line speaker="Phoenix">Umm... what?</line>
+<line speaker="Lotta">There was a yoofoh just a' hanging in the sky!</line>
+<line speaker="Phoenix">A "yoofoh"...?</line>
+<line speaker="Lotta">You know, an "Unidentified Flying Object"? A yoofoh! That's when I had sort of a revelation. I knew I should become an investigative photographer!</line>
+<line speaker="Phoenix">I... I see. <thought>Kind of a shaky basis for a career...</thought></line>
+<line speaker="Lotta">Imagine what a scoop it'd be if I got a picture of that monster!</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">Is "Gourdy" really all that newsworthy?</line>
+<line speaker="Lotta">Heck yeah! They even had him up on the TV!</line>
+<line speaker="Phoenix"><thought>I'm not sure that appearing on the local news "rumor of the month" show qualifies. Last month's show was "Bigfoot Sighted on Acorn Hill," I believe.</thought></line>
+<line speaker="Lotta">Hey! They also had a picture of him in the newspaper! For real!</line>
+<line speaker="Judge">Mr. Wright. This is one fight I do not believe you can win. Let's keep moving, shall we?</line>
+<line speaker="Phoenix">Yes, Your Honor.</line>
+<line speaker="Lotta">That's why I was camping out by the lake.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">That's why you put the automatic senior on your camera?</line>
+<line speaker="Lotta">Yep. Borrowed it from a friend at a university. It analyzes every sound it picks up, and when it gets a "bang!"...</line>
+<line speaker="Phoenix">It snaps a shot.</line>
+<line speaker="Lotta">Yep.</line>
+<line speaker="Phoenix">So, how many pictures has it taken so far?</line>
+<line speaker="Lotta">The only time the camera triggered was that night.</line>
+<line speaker="Phoenix"><thought>Hmm...</thought></line>
+<line speaker="Lotta">But, that's all I was hiding.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">I think it's time you told us why you felt you had to hide your true purpose at the lake.</line>
+<line speaker="Lotta">Heck, if word got out what I was up to, the lake'd be swarmin' with competitors!</line>
+<line speaker="Phoenix">Competitors...?</line>
+<line speaker="Lotta">Yeah! Second-rate shutterbugs trying to steal my scoop!</line>
+<line speaker="Phoenix">Ah... Is that the only reason you were hiding the truth?</line>
+<line speaker="Lotta">W-well, actually...</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">Mr. Wright! I'll not have you asking questions with no relevance to this case!!!</line>
+<line speaker="Phoenix"><thought>Whatever you say, von Karma. I know you told her to keep quiet.</thought></line>
+<line speaker="Lotta">When I heard the "bang" I looked right straight out at that lake.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">Exactly what sort of sound was it?</line>
+<line speaker="Lotta">Well, I never heard one before so I can't say for sure... but it sounded like a gunshot. It was a lot sharper a sound than I would have expected.</line>
+<line speaker="Phoenix"><thought>Hmmm...</thought></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Lotta">There wasn't much else to look at, so I just watched that boat the whole time.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">There wasn't "much else to look at"?</line>
+<line speaker="Lotta">Yep.</line>
+<line speaker="Phoenix"><thought>I dunno. If she heard a bang... and she thought Gourdy was out there... I kind of doubt she'd waste any time looking at a boat.</thought></line>
+<line speaker="Lotta">What? What did I do now? What're you giving me that look for?</line>
+<line speaker="Phoenix"><thought>Definitely suspicious... Maybe it's time for some evidence...</thought></line>
+<line speaker="Karma">Witness! Continue.</line>
+<line speaker="Lotta">Hold your hushpuppies, pops, I'm getting there.</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Lotta">Then I saw a flash, near one of the men's hands, and I heard another gunshot.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">Was there nothing on the lake but the boat at that time?</line>
+<line speaker="Lotta">Huh? Wait, so you're thinking maybe he was shot from some other place? I don't think so, nope. The lake was smooth as glass, and nobody was on the shore, neither.</line>
+<line speaker="Phoenix"><thought>Hmm...</thought></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix"><thought>I'd better find some sort of contradiction in this testimony... I won't be able to beat von Karma any other way... There has to be something!</thought></line>
+<line speaker="Phoenix">Ms. Hart! Were you REALLY looking at that boat!?</line>
+<line speaker="Lotta">W-what's with you!? Course I was looking at it! It was the only thing out there! Any normal person'd be looking at it!</line>
+<line speaker="Phoenix">I agree, any normal person would. But you are far from normal!</line>
+<line speaker="Lotta">Wh-what!? Y'all wanna step over here and say that!?</line>
+<line speaker="Phoenix">You were camping at the lake to take a picture of Gourdy! Think about it-- What would you do if you heard a loud noise? You'd be scanning the lake for any sign of Gourdy, that's what! You wouldn't give the boat a second thought!</line>
+<line speaker="Lotta">Aah!</line>
+<line speaker="Judge">Order! Continue, Mr. Wright!</line>
+<line speaker="Phoenix">You testified that you were watching the boat through binoculars! However, you wouldn't need binoculars to watch that boat! You needed them to search for Gourdy... and that's what you were doing!</line>
+<line speaker="Lotta">...! ... ...</line>
+<line speaker="Phoenix">Well!?</line>
+<line speaker="Lotta">Hmph... Well, now that y'all mention it... I did sort of take my binoculars and kind of scan the lake a bit... I mean, Gourdy might be out there, n' all...</line>
+<line speaker="Judge">M-Ms. Hart! A-are you saying that you were NOT watching the boat, then?</line>
+<line speaker="Lotta">... S-sorry, y'all. I wasn't fibbing, really. I was, just... I thought y'know, I could be witness to a murder n' all! I kinda got excited. I was sure I was watching that boat... till now.</line>
+<line speaker="Judge">... This... this is totally uncalled for--</line>
+<line speaker="Lotta">B-but hey! You got the photograph! You got proof!</line>
+<line speaker="Judge">Hmm... Still, we can't see who is shooting who in this.</line>
+<line speaker="Lotta">Right! Right! That's why I took this photo n'...</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">Witness... That's enough. You've had a long day. Shut your pie-hole.</line>
+<line speaker="Lotta">Sh-shut my what!?</line>
+<line speaker="Phoenix"><thought>What was she going to say? She took the photo... and what? Wait a second...</thought></line>
+<line speaker="Gumshoe">She even had a photograph to prove it.</line>
+<line speaker="Phoenix">But you really can't tell from the photo who is shooting.</line>
+<line speaker="Gumshoe">That's why she said she's going to enlarge the photo. She said "it'll drop the quality a mite, but should let us see who's who!"</line>
+<line speaker="Phoenix"><thought>She enlarged that photo! Why won't von Karma let her show it? I've got a hunch! I bet that enlarged photo shows something bad for von Karma! This is my chance! If I'm wrong, though, it'll mean prison for Edgeworth... or worse. What should I do!?</thought></line>
+<line speaker="Phoenix"><thought>If this is a trap... I'd better hold back and see how things go. But... if I wait now, the cross-examination will be over! Can I really risk that!?</thought></line>
+<line speaker="Judge">This hereby ends the cross-examination of Ms. Lotta Hart.</line>
+<line speaker="Karma">And none too soon. That was a flagrant waste of my time.</line>
+<line speaker="Judge">Mr. von Karma, do you have anything to add?</line>
+<line speaker="Karma">I stated everything I needed to when this trial began. Decisive evidence. A decisive witness. What else could possibly be required?</line>
+<line speaker="Judge">Nothing, of course.</line>
+<line speaker="Phoenix"><thought>Oh no! I should have pressed further!</thought></line>
+<line speaker="Judge">This court sees no reason to further prolong the trial. Nor is there any need for more time to decide the case against the defendant. This case is extremely clear. I see no room for misinterpretation of the facts. This court find the defendant, Mr. Miles Edgeworth...</line>
+<line speaker="Judge">The accused will surrender to the court immediately, to be held pending trial at a higher court within a month from today's date. That is all. The court is adjourned!</line>
+<line speaker="Phoenix"><thought>I have to fight now or I could lose everything!</thought></line>
+<line speaker="Phoenix">Ms. Hart! Look at this photograph. You enlarged this photograph, did you not?</line>
+<line speaker="Lotta">Y-yeah! I did!</line>
+<line speaker="Phoenix">Why has that enlargement not been presented to the court!?</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">B-because it does not exist!</line>
+<line speaker="Lotta">What're y'all talking about!? You were the one who told me not to show it in court in the first place! You old fool!</line>
+<line speaker="Judge">What's the meaning of this, Mr. von Karma!</line>
+<line speaker="Karma">Er... erm...</line>
+<line speaker="Phoenix">Ms. Hart! Show the photo to the court! Show us the enlargement!</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">The prosecution objects to the submission of this evidence!</line>
+<line speaker="Judge">Objection... denied. The witness will show the enlargement to the court.</line>
+<line speaker="Lotta">Here it is.</line>
+<line speaker="Judge">Hmm. We still cannot see who is firing in this. It could be the defendant... or maybe it's not. Regardless, I'll accept this as evidence.</line>
+<line speaker="Karma">Happy now, Mr. Wright?</line>
+<line speaker="Phoenix">Hmm... <thought>There has to be something!</thought></line>
+<line speaker="Karma">You asked for the enlargement, you got the enlargement. And little good it has done any of us! That's why I requested she not show it!</line>
+<line speaker="Judge">Hmm... I suppose this means that the cross-examination...</line>
+<line speaker="Karma">Is over! Obviously!</line>
+<line speaker="Judge">Then, I would like to close the cross-examination of Ms. Lotta Hart.</line>
+<line speaker="Karma">And none too soon. That was a flagrant waste of my time.</line>
+<line speaker="Judge">Mr. von Karma, do you have anything to add?</line>
+<line speaker="Karma">I stated everything I needed to when this trial began. Decisive evidence. A decisive witness. What else could possibly be required?</line>
+<line speaker="Judge">Nothing, of course. Then, I believe it is time for me to declare my verdict.</line>
+<line speaker="Phoenix"><thought>Wait... it's not supposed to go like this! There has to be a clue in this photo... somewhere! This is bad! Real bad! What should I do!?</thought></line>
+<line speaker="Phoenix">W-wait! Your Honor, This evidence...</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">I believe we have spent enough time talking about evidence!</line>
+<line speaker="Judge">Hmm... indeed. We've heard opinions on every piece of evidence but this enlargement. I see no point in retracing our steps.</line>
+<line speaker="Phoenix"><thought>Uh oh... think of something! No good... I guess I'll just sit back and see how this turns out.</thought></line>
+<line speaker="Judge">Very well! Allow me to state my verdict.</line>
+<line speaker="Phoenix"><thought>Oh no! I should have pressed further!</thought></line>
+<line speaker="Judge">This court sees no reason to further prolong the trial. Nor is there any need for more time to decide the case against the defendant. This case is extremely clear. I see no room for misinterpretation of the facts. This court find the defendant, Mr. Miles Edgeworth...</line>
+<line speaker="Judge">The accused will surrender to the court immediately, to be held pending trial at a higher court within a month from today's date. That is all. The court is adjourned!</line>
+<line speaker="Phoenix">Your Honor! There is something decidedly strange with this enlargement!</line>
+<line speaker="Judge">W-what might that be? Mr. Wright... You will show the court what you mean! What about this photo is "strange"?</line>
+<line speaker="Phoenix"><thought>Okay... here goes nothing! I'll show the judge what's strange about this photo.</thought></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix">Here, your honor!</line>
+<line speaker="Judge">The shooter...? I'm not sure I understand. What about the shooter is strange? Can you be more specific?</line>
+<line speaker="Phoenix"><thought>Specific, right...</thought></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix">Here, Your Honor!</line>
+<line speaker="Judge">Where...? Mr. Wright, I understand you're in a tight spot. However! You have nothing to gain by making baseless claims of faulty evidence!</line>
+<line speaker="Phoenix">Y-Your Honor! Never mind that... my, my finger slipped! Please let me show you again!</line>
+<line speaker="Judge">Hmm...</line>
+<line speaker="Phoenix">Here, Your Honor!</line>
+<line speaker="Judge">The shooter...? I'm not sure I understand. What about the shooter is strange?</line>
+<line speaker="Phoenix">Look at the hand holding the pistol, Your Honor!</line>
+<line speaker="Judge">The hand...?</line>
+<line speaker="Phoenix">That hand directly contradicts another piece of evidence!</line>
+<line speaker="Judge">This man's left hand does what...!?</line>
+<line speaker="Phoenix">Let me show you. I'll show you the evidence that left hand contradicts!</line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><thought>Hmm... I'm not sure this warrants a "take that!" I'd better think this one through!</thought></line>
+<line speaker="Judge">Mr. Wright, please hurry up. We haven't got all day.</line>
+<line speaker="Phoenix">Y-yes, Your Honor! Right away!</line>
+<line speaker="Phoenix">The evidence is clear. The man in this photograph is holding that pistol in his left hand. However! The prints on the murder weapon were from Edgeworth's "right hand"! Ergo! The man shooting the pistol in this photograph... Is not Mr. Edgeworth!!!</line>
+<line speaker="Judge">Now that everyone in the courtroom has quieted down... I would like to reconvene this court of law! Mr. Wright.</line>
+<line speaker="Phoenix">Yes, Your Honor.</line>
+<line speaker="Judge">You have given us definitive proof today. We now know that it was not Mr. Edgeworth who fired the pistol that night. However... This leaves us with a rather large problem. If Mr. Edgeworth didn't do it, then who shot our victim?</line>
+<line speaker="Karma">Precisely! As we have seen, there were no other people on the lake that night! Who but the defendant could have shot the victim!?</line>
+<line speaker="Phoenix">Who else but the witness, Ms. Lotta Hart!</line>
+<line speaker="Judge">Wh-what!? Do you have proof of this!?</line>
+<line speaker="Phoenix"><thought>Proof-shmoof! Always with the proof! Oh... wait, I do need proof, don't I.</thought></line>
+<line speaker="Judge">Mr. Wright! I'll have you remember this is a court of law!</line>
+<line speaker="Phoenix"><thought>Uh oh. The Judge is mad.</thought></line>
+<line speaker="Karma">Let me ask again!</line>
+<line speaker="Phoenix"><thought>Wait, wait--I can't do that. Sacrifice one friend to save another? What's the point!?</thought></line>
+<line speaker="Karma">Well, Wright! Your answer!</line>
+<line speaker="Phoenix">There is only one explanation remaining! The man who shot the victim was none other than... the victim himself!!!</line>
+<line speaker="Judge">Order! Order! So... you are saying that the victim committed suicide?</line>
+<line speaker="Phoenix">Yes, Your Honor. I can think of no other explanation.</line>
+<line speaker="Judge">Hmm... Indeed, that does seem to be the only remaining option.</line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Karma">I'm so very, very sorry, Mr. Wright. But suicide is out of the question.</line>
+<line speaker="Phoenix">Wh-what!?</line>
+<line speaker="Karma">An examination of the victim's wound reveals the distance at which he was shot.</line>
+<line speaker="Phoenix">The... distance?</line>
+<line speaker="Karma">The victim was clearly shot from further than a meter away!</line>
+<line speaker="Phoenix">A meter! Th-that's three feet!</line>
+<line speaker="Karma">There is no way it could have been suicide!</line>
+<line speaker="Judge">Order! Order! Mr. von Karma! Are you sure of the accuracy of your data!?</line>
+<line speaker="Karma">Of course! I had already considered the possibility of suicide, you see.</line>
+<line speaker="Judge">Hmm... I see. Very well, allow me to state my opinion. Considering the situation, the shooter had to be the defendant, Mr. Edgeworth. However! The prints on the gun reveal that the shooter was not Mr. Edgeworth. This is a conundrum. Therefore, I would like to suspend proceedings for this trial for the day. The court orders the defense and the prosecution to further investigate this matter. Understood?</line>
+<line speaker="Phoenix">Yes, Your Honor.</line>
+<line speaker="Karma">...</line>
+<line speaker="Judge">That is all. The court is adjourned.</line>
+<line speaker="Phoenix">Whew, that was a close one.</line>
+<line speaker="Edgeworth">...</line>
+<line speaker="Phoenix">Hey! Don't you have anything to say!?</line>
+<line speaker="Edgeworth">No. I have yet to be declared innocent, Wright.</line>
+<line speaker="Phoenix">Well, yeah, but... What happened out there on that lake, anyway!? If he didn't commit suicide, then who...? The shooter was about a meter away, too!</line>
+<line speaker="Edgeworth">... W-what? Don't give me that look! I did not kill him!</line>
+<line speaker="Phoenix">I was just kidding around.</line>
+<line speaker="Edgeworth">Hmph.</line>
+<line speaker="Phoenix">Look... I'm going to go check on Maya.</line>
+<line speaker="Edgeworth">Oh... Wright.</line>
+<line speaker="Phoenix">What?</line>
+<line speaker="Edgeworth">Tell her something for me.</line>
+<line speaker="Phoenix">What?</line>
+<line speaker="Edgeworth">... ... ... Tell... Tell her to watch what she says in court. That's all.</line>
+<line speaker="Phoenix"><thought>Yeah, I'm sure she'll be happy to hear you say that, Edgeworth. Jerk!</thought></line>
+<line speaker="Phoenix">I requisitioned a transcript of Lotta's entire testimony. I thought it might give me some ammunition for the trial tomorrow. Of course she didn't see the shooter... So the only part of her testimony that stood was the "bang" she heard.</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
+<line speaker="Judge">...? It does? I don't see anything contradictory...</line>
+<line speaker="Phoenix">Huh? Really?</line>
+<line speaker="Judge">Objection overruled. Try to think before you make accusations, Mr. Wright!</line>
+<line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
+<line speaker="Judge">Uh... I'm not sure I follow?</line>
+<line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>
+<line speaker="Judge">You don't sound very convinced, Mr. Wright. Objection overruled.</line>
+<line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
+<line speaker="Judge">How exactly are that evidence and the statement just now related...?</line>
+<line speaker="Phoenix">They aren't, are they...</line>
+<line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
+<line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
+<line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
+<line speaker="Phoenix"><thought>Ugh. I must be on the wrong track?</thought></line>
+<line speaker="Judge">This court sees no reason to further prolong the trial. Nor is there any need for more time to decide the case against the defendant. This case is extremely clear. I see no room for misinterpretation of the facts. This court find the defendant, Mr. Miles Edgeworth...</line>
+<line speaker="Judge">The accused will surrender to the court immediately, to be held pending trial at a higher court within a month from today's date. That is all. The court is adjourned!</line>
+</xml>
