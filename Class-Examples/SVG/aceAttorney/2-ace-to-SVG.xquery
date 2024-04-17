@@ -86,16 +86,12 @@ declare variable $svgEpisode :=
                 <text font-size="3em" x="{$xSpacer * $pos}" y="50">{$c}</text> -->
      
  
-      </g> }
-      </g>
+            </g> }
+        </g>
       </g>}
-      </g>
+    </g>
 
 </svg>;
-
-
-
-
 
 
 (: We must always call just ONE variable to return in an XQuery file.
