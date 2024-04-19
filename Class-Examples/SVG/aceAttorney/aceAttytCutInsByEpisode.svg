@@ -1,0 +1,4848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="400"
+     height="18000"
+     viewBox="0 0 400 20000">
+   <desc>Cutin Data by Episode. Let's plot this running DOWN the screen since there are lots of episodes. We'll just use the y values as they 
+    accumulate to plot down the screen. </desc>
+   <g id="wholePlot" transform="translate(50, 50)">
+      <g id="The_Grand_Turnabout_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 210</desc>
+         <text x="130" y="50">The Grand Turnabout : 210</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 95</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="150"
+                     y2="55"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="70">Objection!</text>
+               <text x="100" y="100">95</text>
+            </g>
+            <g>
+               <desc>Take that!, 59</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="150"
+                     y2="91"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="70">Take that!</text>
+               <text x="200" y="100">59</text>
+            </g>
+            <g>
+               <desc>Hold it!, 56</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="150"
+                     y2="94"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="70">Hold it!</text>
+               <text x="300" y="100">56</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Ablaze_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 175</desc>
+         <text x="130" y="200">Turnabout Ablaze : 175</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 47</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="300"
+                     y2="253"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="220">Objection!</text>
+               <text x="100" y="250">47</text>
+            </g>
+            <g>
+               <desc>Take that!, 41</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="300"
+                     y2="259"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="220">Take that!</text>
+               <text x="200" y="250">41</text>
+            </g>
+            <g>
+               <desc>Hold it!, 87</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="300"
+                     y2="213"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="220">Hold it!</text>
+               <text x="300" y="250">87</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Imprisoned_Turnabout_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 175</desc>
+         <text x="130" y="350">The Imprisoned Turnabout : 175</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 60</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="450"
+                     y2="390"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="370">Objection!</text>
+               <text x="100" y="400">60</text>
+            </g>
+            <g>
+               <desc>Take that!, 56</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="450"
+                     y2="394"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="370">Take that!</text>
+               <text x="200" y="400">56</text>
+            </g>
+            <g>
+               <desc>Hold it!, 59</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="450"
+                     y2="391"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="370">Hold it!</text>
+               <text x="300" y="400">59</text>
+            </g>
+         </g>
+      </g>
+      <g id="Bridge_to_the_Turnabout_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 167</desc>
+         <text x="130" y="500">Bridge to the Turnabout : 167</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 60</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="600"
+                     y2="540"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="520">Objection!</text>
+               <text x="100" y="550">60</text>
+            </g>
+            <g>
+               <desc>Take that!, 50</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="600"
+                     y2="550"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="520">Take that!</text>
+               <text x="200" y="550">50</text>
+            </g>
+            <g>
+               <desc>Hold it!, 57</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="600"
+                     y2="543"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="520">Hold it!</text>
+               <text x="300" y="550">57</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Ablaze_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 162</desc>
+         <text x="130" y="650">Turnabout Ablaze : 162</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 77</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="750"
+                     y2="673"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="670">Objection!</text>
+               <text x="100" y="700">77</text>
+            </g>
+            <g>
+               <desc>Take that!, 43</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="750"
+                     y2="707"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="670">Take that!</text>
+               <text x="200" y="700">43</text>
+            </g>
+            <g>
+               <desc>Hold it!, 42</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="750"
+                     y2="708"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="670">Hold it!</text>
+               <text x="300" y="700">42</text>
+            </g>
+         </g>
+      </g>
+      <g id="Recipe_for_Turnabout_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 154</desc>
+         <text x="130" y="800">Recipe for Turnabout : 154</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 60</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="900"
+                     y2="840"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="820">Objection!</text>
+               <text x="100" y="850">60</text>
+            </g>
+            <g>
+               <desc>Take that!, 44</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="900"
+                     y2="856"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="820">Take that!</text>
+               <text x="200" y="850">44</text>
+            </g>
+            <g>
+               <desc>Hold it!, 50</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="900"
+                     y2="850"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="820">Hold it!</text>
+               <text x="300" y="850">50</text>
+            </g>
+         </g>
+      </g>
+      <g id="Farewell_My_Turnabout_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 144</desc>
+         <text x="130" y="950">Farewell, My Turnabout : 144</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 54</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="1050"
+                     y2="996"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="970">Objection!</text>
+               <text x="100" y="1000">54</text>
+            </g>
+            <g>
+               <desc>Take that!, 28</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="1050"
+                     y2="1022"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="970">Take that!</text>
+               <text x="200" y="1000">28</text>
+            </g>
+            <g>
+               <desc>Hold it!, 62</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="1050"
+                     y2="988"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="970">Hold it!</text>
+               <text x="300" y="1000">62</text>
+            </g>
+         </g>
+      </g>
+      <g id="Rise_from_the_Ashes_-_Transcript_-_Part_6">
+         <desc>Total Cut Ins in this episode? 139</desc>
+         <text x="130" y="1100">Rise from the Ashes : 139</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 62</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="1200"
+                     y2="1138"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="1120">Objection!</text>
+               <text x="100" y="1150">62</text>
+            </g>
+            <g>
+               <desc>Take that!, 38</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="1200"
+                     y2="1162"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="1120">Take that!</text>
+               <text x="200" y="1150">38</text>
+            </g>
+            <g>
+               <desc>Hold it!, 39</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="1200"
+                     y2="1161"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="1120">Hold it!</text>
+               <text x="300" y="1150">39</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Beginnings_-_Transcript">
+         <desc>Total Cut Ins in this episode? 137</desc>
+         <text x="130" y="1250">Turnabout Beginnings : 137</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 67</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="1350"
+                     y2="1283"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="1270">Objection!</text>
+               <text x="100" y="1300">67</text>
+            </g>
+            <g>
+               <desc>Take that!, 25</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="1350"
+                     y2="1325"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="1270">Take that!</text>
+               <text x="200" y="1300">25</text>
+            </g>
+            <g>
+               <desc>Hold it!, 45</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="1350"
+                     y2="1305"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="1270">Hold it!</text>
+               <text x="300" y="1300">45</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Trump_-_Transcript">
+         <desc>Total Cut Ins in this episode? 132</desc>
+         <text x="130" y="1400">Turnabout Trump : 132</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 54</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="1500"
+                     y2="1446"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="1420">Objection!</text>
+               <text x="100" y="1450">54</text>
+            </g>
+            <g>
+               <desc>Take that!, 32</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="1500"
+                     y2="1468"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="1420">Take that!</text>
+               <text x="200" y="1450">32</text>
+            </g>
+            <g>
+               <desc>Hold it!, 46</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="1500"
+                     y2="1454"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="1420">Hold it!</text>
+               <text x="300" y="1450">46</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Kidnapped_Turnabout_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 124</desc>
+         <text x="130" y="1550">The Kidnapped Turnabout : 124</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 22</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="1650"
+                     y2="1628"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="1570">Objection!</text>
+               <text x="100" y="1600">22</text>
+            </g>
+            <g>
+               <desc>Take that!, 66</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="1650"
+                     y2="1584"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="1570">Take that!</text>
+               <text x="200" y="1600">66</text>
+            </g>
+            <g>
+               <desc>Hold it!, 36</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="1650"
+                     y2="1614"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="1570">Hold it!</text>
+               <text x="300" y="1600">36</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Stolen_Turnabout_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 124</desc>
+         <text x="130" y="1700">The Stolen Turnabout : 124</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 52</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="1800"
+                     y2="1748"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="1720">Objection!</text>
+               <text x="100" y="1750">52</text>
+            </g>
+            <g>
+               <desc>Take that!, 27</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="1800"
+                     y2="1773"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="1720">Take that!</text>
+               <text x="200" y="1750">27</text>
+            </g>
+            <g>
+               <desc>Hold it!, 45</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="1800"
+                     y2="1755"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="1720">Hold it!</text>
+               <text x="300" y="1750">45</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Forgotten_Turnabout_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 123</desc>
+         <text x="130" y="1850">The Forgotten Turnabout : 123</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 53</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="1950"
+                     y2="1897"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="1870">Objection!</text>
+               <text x="100" y="1900">53</text>
+            </g>
+            <g>
+               <desc>Take that!, 25</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="1950"
+                     y2="1925"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="1870">Take that!</text>
+               <text x="200" y="1900">25</text>
+            </g>
+            <g>
+               <desc>Hold it!, 45</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="1950"
+                     y2="1905"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="1870">Hold it!</text>
+               <text x="300" y="1900">45</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Adventure_of_the_Unspeakable_Story_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 122</desc>
+         <text x="130" y="2000">The Adventure of the Unspeakable Story : 122</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 36</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="2100"
+                     y2="2064"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="2020">Objection!</text>
+               <text x="100" y="2050">36</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="2100"
+                     y2="2100"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="2020">Take that!</text>
+               <text x="200" y="2050">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 86</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="2100"
+                     y2="2014"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="2020">Hold it!</text>
+               <text x="300" y="2050">86</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Inherited_Turnabout_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 117</desc>
+         <text x="130" y="2150">The Inherited Turnabout : 117</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 48</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="2250"
+                     y2="2202"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="2170">Objection!</text>
+               <text x="100" y="2200">48</text>
+            </g>
+            <g>
+               <desc>Take that!, 31</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="2250"
+                     y2="2219"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="2170">Take that!</text>
+               <text x="200" y="2200">31</text>
+            </g>
+            <g>
+               <desc>Hold it!, 38</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="2250"
+                     y2="2212"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="2170">Hold it!</text>
+               <text x="300" y="2200">38</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Memories_-_Transcript">
+         <desc>Total Cut Ins in this episode? 115</desc>
+         <text x="130" y="2300">Turnabout Memories : 115</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 51</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="2400"
+                     y2="2349"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="2320">Objection!</text>
+               <text x="100" y="2350">51</text>
+            </g>
+            <g>
+               <desc>Take that!, 17</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="2400"
+                     y2="2383"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="2320">Take that!</text>
+               <text x="200" y="2350">17</text>
+            </g>
+            <g>
+               <desc>Hold it!, 47</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="2400"
+                     y2="2353"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="2320">Hold it!</text>
+               <text x="300" y="2350">47</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Target_-_Transcript">
+         <desc>Total Cut Ins in this episode? 112</desc>
+         <text x="130" y="2450">Turnabout Target : 112</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 38</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="2550"
+                     y2="2512"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="2470">Objection!</text>
+               <text x="100" y="2500">38</text>
+            </g>
+            <g>
+               <desc>Take that!, 36</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="2550"
+                     y2="2514"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="2470">Take that!</text>
+               <text x="200" y="2500">36</text>
+            </g>
+            <g>
+               <desc>Hold it!, 38</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="2550"
+                     y2="2512"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="2470">Hold it!</text>
+               <text x="300" y="2500">38</text>
+            </g>
+         </g>
+      </g>
+      <g id="Rise_from_the_Ashes_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 111</desc>
+         <text x="130" y="2600">Rise from the Ashes : 111</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 46</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="2700"
+                     y2="2654"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="2620">Objection!</text>
+               <text x="100" y="2650">46</text>
+            </g>
+            <g>
+               <desc>Take that!, 34</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="2700"
+                     y2="2666"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="2620">Take that!</text>
+               <text x="200" y="2650">34</text>
+            </g>
+            <g>
+               <desc>Hold it!, 31</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="2700"
+                     y2="2669"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="2620">Hold it!</text>
+               <text x="300" y="2650">31</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Serenade_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 109</desc>
+         <text x="130" y="2750">Turnabout Serenade : 109</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 36</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="2850"
+                     y2="2814"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="2770">Objection!</text>
+               <text x="100" y="2800">36</text>
+            </g>
+            <g>
+               <desc>Take that!, 29</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="2850"
+                     y2="2821"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="2770">Take that!</text>
+               <text x="200" y="2800">29</text>
+            </g>
+            <g>
+               <desc>Hold it!, 44</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="2850"
+                     y2="2806"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="2770">Hold it!</text>
+               <text x="300" y="2800">44</text>
+            </g>
+         </g>
+      </g>
+      <g id="Farewell_My_Turnabout_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 102</desc>
+         <text x="130" y="2900">Farewell, My Turnabout : 102</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 34</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="3000"
+                     y2="2966"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="2920">Objection!</text>
+               <text x="100" y="2950">34</text>
+            </g>
+            <g>
+               <desc>Take that!, 17</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="3000"
+                     y2="2983"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="2920">Take that!</text>
+               <text x="200" y="2950">17</text>
+            </g>
+            <g>
+               <desc>Hold it!, 51</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="3000"
+                     y2="2949"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="2920">Hold it!</text>
+               <text x="300" y="2950">51</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Adventure_of_the_Clouded_Kokoro_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 94</desc>
+         <text x="130" y="3050">The Adventure of the Clouded Kokoro : 94</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 40</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="3150"
+                     y2="3110"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="3070">Objection!</text>
+               <text x="100" y="3100">40</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="3150"
+                     y2="3150"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="3070">Take that!</text>
+               <text x="200" y="3100">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 54</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="3150"
+                     y2="3096"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="3070">Hold it!</text>
+               <text x="300" y="3100">54</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Corner_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 91</desc>
+         <text x="130" y="3200">Turnabout Corner : 91</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 38</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="3300"
+                     y2="3262"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="3220">Objection!</text>
+               <text x="100" y="3250">38</text>
+            </g>
+            <g>
+               <desc>Take that!, 30</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="3300"
+                     y2="3270"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="3220">Take that!</text>
+               <text x="200" y="3250">30</text>
+            </g>
+            <g>
+               <desc>Hold it!, 23</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="3300"
+                     y2="3277"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="3220">Hold it!</text>
+               <text x="300" y="3250">23</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Reminiscence_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 88</desc>
+         <text x="130" y="3350">Turnabout Reminiscence : 88</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 36</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="3450"
+                     y2="3414"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="3370">Objection!</text>
+               <text x="100" y="3400">36</text>
+            </g>
+            <g>
+               <desc>Take that!, 12</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="3450"
+                     y2="3438"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="3370">Take that!</text>
+               <text x="200" y="3400">12</text>
+            </g>
+            <g>
+               <desc>Hold it!, 40</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="3450"
+                     y2="3410"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="3370">Hold it!</text>
+               <text x="300" y="3400">40</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Airlines_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 87</desc>
+         <text x="130" y="3500">Turnabout Airlines : 87</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 24</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="3600"
+                     y2="3576"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="3520">Objection!</text>
+               <text x="100" y="3550">24</text>
+            </g>
+            <g>
+               <desc>Take that!, 29</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="3600"
+                     y2="3571"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="3520">Take that!</text>
+               <text x="200" y="3550">29</text>
+            </g>
+            <g>
+               <desc>Hold it!, 34</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="3600"
+                     y2="3566"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="3520">Hold it!</text>
+               <text x="300" y="3550">34</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Resolve_of_Ryunosuke_Naruhodo_-_Transcript_-_Part_3">
+         <desc>Total Cut Ins in this episode? 87</desc>
+         <text x="130" y="3650">The Resolve of Ryunosuke Naruhodo : 87</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 47</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="3750"
+                     y2="3703"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="3670">Objection!</text>
+               <text x="100" y="3700">47</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="3750"
+                     y2="3750"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="3670">Take that!</text>
+               <text x="200" y="3700">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 40</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="3750"
+                     y2="3710"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="3670">Hold it!</text>
+               <text x="300" y="3700">40</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Lost_Turnabout_-_Transcript">
+         <desc>Total Cut Ins in this episode? 86</desc>
+         <text x="130" y="3800">The Lost Turnabout : 86</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 42</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="3900"
+                     y2="3858"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="3820">Objection!</text>
+               <text x="100" y="3850">42</text>
+            </g>
+            <g>
+               <desc>Take that!, 13</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="3900"
+                     y2="3887"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="3820">Take that!</text>
+               <text x="200" y="3850">13</text>
+            </g>
+            <g>
+               <desc>Hold it!, 31</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="3900"
+                     y2="3869"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="3820">Hold it!</text>
+               <text x="300" y="3850">31</text>
+            </g>
+         </g>
+      </g>
+      <g id="Rise_from_the_Ashes_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 85</desc>
+         <text x="130" y="3950">Rise from the Ashes : 85</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 40</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="4050"
+                     y2="4010"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="3970">Objection!</text>
+               <text x="100" y="4000">40</text>
+            </g>
+            <g>
+               <desc>Take that!, 13</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="4050"
+                     y2="4037"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="3970">Take that!</text>
+               <text x="200" y="4000">13</text>
+            </g>
+            <g>
+               <desc>Hold it!, 32</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="4050"
+                     y2="4018"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="3970">Hold it!</text>
+               <text x="300" y="4000">32</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Adventure_of_the_Runaway_Room_-_Transcript">
+         <desc>Total Cut Ins in this episode? 84</desc>
+         <text x="130" y="4100">The Adventure of the Runaway Room : 84</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 26</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="4200"
+                     y2="4174"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="4120">Objection!</text>
+               <text x="100" y="4150">26</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="4200"
+                     y2="4200"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="4120">Take that!</text>
+               <text x="200" y="4150">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 58</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="4200"
+                     y2="4142"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="4120">Hold it!</text>
+               <text x="300" y="4150">58</text>
+            </g>
+         </g>
+      </g>
+      <g id="Bridge_to_the_Turnabout_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 82</desc>
+         <text x="130" y="4250">Bridge to the Turnabout : 82</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 22</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="4350"
+                     y2="4328"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="4270">Objection!</text>
+               <text x="100" y="4300">22</text>
+            </g>
+            <g>
+               <desc>Take that!, 11</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="4350"
+                     y2="4339"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="4270">Take that!</text>
+               <text x="200" y="4300">11</text>
+            </g>
+            <g>
+               <desc>Hold it!, 49</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="4350"
+                     y2="4301"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="4270">Hold it!</text>
+               <text x="300" y="4300">49</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Sisters_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 77</desc>
+         <text x="130" y="4400">Turnabout Sisters : 77</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 32</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="4500"
+                     y2="4468"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="4420">Objection!</text>
+               <text x="100" y="4450">32</text>
+            </g>
+            <g>
+               <desc>Take that!, 18</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="4500"
+                     y2="4482"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="4420">Take that!</text>
+               <text x="200" y="4450">18</text>
+            </g>
+            <g>
+               <desc>Hold it!, 27</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="4500"
+                     y2="4473"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="4420">Hold it!</text>
+               <text x="300" y="4450">27</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Imprisoned_Turnabout_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 77</desc>
+         <text x="130" y="4550">The Imprisoned Turnabout : 77</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 24</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="4650"
+                     y2="4626"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="4570">Objection!</text>
+               <text x="100" y="4600">24</text>
+            </g>
+            <g>
+               <desc>Take that!, 14</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="4650"
+                     y2="4636"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="4570">Take that!</text>
+               <text x="200" y="4600">14</text>
+            </g>
+            <g>
+               <desc>Hold it!, 39</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="4650"
+                     y2="4611"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="4570">Hold it!</text>
+               <text x="300" y="4600">39</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Goodbyes_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 75</desc>
+         <text x="130" y="4700">Turnabout Goodbyes : 75</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 38</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="4800"
+                     y2="4762"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="4720">Objection!</text>
+               <text x="100" y="4750">38</text>
+            </g>
+            <g>
+               <desc>Take that!, 10</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="4800"
+                     y2="4790"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="4720">Take that!</text>
+               <text x="200" y="4750">10</text>
+            </g>
+            <g>
+               <desc>Hold it!, 27</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="4800"
+                     y2="4773"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="4720">Hold it!</text>
+               <text x="300" y="4750">27</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Adventure_of_the_Blossoming_Attorney_-_Transcript">
+         <desc>Total Cut Ins in this episode? 75</desc>
+         <text x="130" y="4850">The Adventure of the Blossoming Attorney : 75</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 37</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="4950"
+                     y2="4913"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="4870">Objection!</text>
+               <text x="100" y="4900">37</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="4950"
+                     y2="4950"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="4870">Take that!</text>
+               <text x="200" y="4900">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 38</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="4950"
+                     y2="4912"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="4870">Hold it!</text>
+               <text x="300" y="4900">38</text>
+            </g>
+         </g>
+      </g>
+      <g id="Twisted_Karma_and_His_Last_Bow_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 74</desc>
+         <text x="130" y="5000">Twisted Karma and His Last Bow : 74</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 34</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="5100"
+                     y2="5066"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="5020">Objection!</text>
+               <text x="100" y="5050">34</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="5100"
+                     y2="5100"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="5020">Take that!</text>
+               <text x="200" y="5050">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 40</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="5100"
+                     y2="5060"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="5020">Hold it!</text>
+               <text x="300" y="5050">40</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Succession_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 73</desc>
+         <text x="130" y="5150">Turnabout Succession : 73</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 31</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="5250"
+                     y2="5219"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="5170">Objection!</text>
+               <text x="100" y="5200">31</text>
+            </g>
+            <g>
+               <desc>Take that!, 11</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="5250"
+                     y2="5239"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="5170">Take that!</text>
+               <text x="200" y="5200">11</text>
+            </g>
+            <g>
+               <desc>Hold it!, 31</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="5250"
+                     y2="5219"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="5170">Hold it!</text>
+               <text x="300" y="5200">31</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Return_of_the_Great_Departed_Soul_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 71</desc>
+         <text x="130" y="5300">The Return of the Great Departed Soul : 71</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 32</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="5400"
+                     y2="5368"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="5320">Objection!</text>
+               <text x="100" y="5350">32</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="5400"
+                     y2="5400"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="5320">Take that!</text>
+               <text x="200" y="5350">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 39</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="5400"
+                     y2="5361"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="5320">Hold it!</text>
+               <text x="300" y="5350">39</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Goodbyes_-_Transcript_-_Part_6">
+         <desc>Total Cut Ins in this episode? 71</desc>
+         <text x="130" y="5450">Turnabout Goodbyes : 71</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 36</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="5550"
+                     y2="5514"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="5470">Objection!</text>
+               <text x="100" y="5500">36</text>
+            </g>
+            <g>
+               <desc>Take that!, 20</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="5550"
+                     y2="5530"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="5470">Take that!</text>
+               <text x="200" y="5500">20</text>
+            </g>
+            <g>
+               <desc>Hold it!, 15</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="5550"
+                     y2="5535"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="5470">Hold it!</text>
+               <text x="300" y="5500">15</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Sisters_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 71</desc>
+         <text x="130" y="5600">Turnabout Sisters : 71</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 33</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="5700"
+                     y2="5667"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="5620">Objection!</text>
+               <text x="100" y="5650">33</text>
+            </g>
+            <g>
+               <desc>Take that!, 7</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="5700"
+                     y2="5693"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="5620">Take that!</text>
+               <text x="200" y="5650">7</text>
+            </g>
+            <g>
+               <desc>Hold it!, 31</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="5700"
+                     y2="5669"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="5620">Hold it!</text>
+               <text x="300" y="5650">31</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Big_Top_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 68</desc>
+         <text x="130" y="5750">Turnabout Big Top : 68</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 17</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="5850"
+                     y2="5833"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="5770">Objection!</text>
+               <text x="100" y="5800">17</text>
+            </g>
+            <g>
+               <desc>Take that!, 10</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="5850"
+                     y2="5840"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="5770">Take that!</text>
+               <text x="200" y="5800">10</text>
+            </g>
+            <g>
+               <desc>Hold it!, 41</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="5850"
+                     y2="5809"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="5770">Hold it!</text>
+               <text x="300" y="5800">41</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Succession_-_Transcript_-_Part_3">
+         <desc>Total Cut Ins in this episode? 68</desc>
+         <text x="130" y="5900">Turnabout Succession : 68</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 34</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="6000"
+                     y2="5966"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="5920">Objection!</text>
+               <text x="100" y="5950">34</text>
+            </g>
+            <g>
+               <desc>Take that!, 10</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="6000"
+                     y2="5990"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="5920">Take that!</text>
+               <text x="200" y="5950">10</text>
+            </g>
+            <g>
+               <desc>Hold it!, 24</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="6000"
+                     y2="5976"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="5920">Hold it!</text>
+               <text x="300" y="5950">24</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Adventure_of_the_Great_Departure_-_Transcript">
+         <desc>Total Cut Ins in this episode? 67</desc>
+         <text x="130" y="6050">The Adventure of the Great Departure : 67</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 61</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="6150"
+                     y2="6089"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="6070">Objection!</text>
+               <text x="100" y="6100">61</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="6150"
+                     y2="6150"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="6070">Take that!</text>
+               <text x="200" y="6100">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 6</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="6150"
+                     y2="6144"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="6070">Hold it!</text>
+               <text x="300" y="6100">6</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Visitor_-_Transcript">
+         <desc>Total Cut Ins in this episode? 66</desc>
+         <text x="130" y="6200">Turnabout Visitor : 66</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 23</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="6300"
+                     y2="6277"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="6220">Objection!</text>
+               <text x="100" y="6250">23</text>
+            </g>
+            <g>
+               <desc>Take that!, 14</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="6300"
+                     y2="6286"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="6220">Take that!</text>
+               <text x="200" y="6250">14</text>
+            </g>
+            <g>
+               <desc>Hold it!, 29</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="6300"
+                     y2="6271"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="6220">Hold it!</text>
+               <text x="300" y="6250">29</text>
+            </g>
+         </g>
+      </g>
+      <g id="Reunion_and_Turnabout_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 66</desc>
+         <text x="130" y="6350">Reunion, and Turnabout : 66</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 12</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="6450"
+                     y2="6438"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="6370">Objection!</text>
+               <text x="100" y="6400">12</text>
+            </g>
+            <g>
+               <desc>Take that!, 22</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="6450"
+                     y2="6428"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="6370">Take that!</text>
+               <text x="200" y="6400">22</text>
+            </g>
+            <g>
+               <desc>Hold it!, 32</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="6450"
+                     y2="6418"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="6370">Hold it!</text>
+               <text x="300" y="6400">32</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Big_Top_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 61</desc>
+         <text x="130" y="6500">Turnabout Big Top : 61</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 13</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="6600"
+                     y2="6587"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="6520">Objection!</text>
+               <text x="100" y="6550">13</text>
+            </g>
+            <g>
+               <desc>Take that!, 32</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="6600"
+                     y2="6568"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="6520">Take that!</text>
+               <text x="200" y="6550">32</text>
+            </g>
+            <g>
+               <desc>Hold it!, 16</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="6600"
+                     y2="6584"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="6520">Hold it!</text>
+               <text x="300" y="6550">16</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Inherited_Turnabout_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 60</desc>
+         <text x="130" y="6650">The Inherited Turnabout : 60</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 26</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="6750"
+                     y2="6724"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="6670">Objection!</text>
+               <text x="100" y="6700">26</text>
+            </g>
+            <g>
+               <desc>Take that!, 18</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="6750"
+                     y2="6732"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="6670">Take that!</text>
+               <text x="200" y="6700">18</text>
+            </g>
+            <g>
+               <desc>Hold it!, 16</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="6750"
+                     y2="6734"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="6670">Hold it!</text>
+               <text x="300" y="6700">16</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Goodbyes_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 60</desc>
+         <text x="130" y="6800">Turnabout Goodbyes : 60</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 31</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="6900"
+                     y2="6869"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="6820">Objection!</text>
+               <text x="100" y="6850">31</text>
+            </g>
+            <g>
+               <desc>Take that!, 10</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="6900"
+                     y2="6890"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="6820">Take that!</text>
+               <text x="200" y="6850">10</text>
+            </g>
+            <g>
+               <desc>Hold it!, 19</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="6900"
+                     y2="6881"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="6820">Hold it!</text>
+               <text x="300" y="6850">19</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Kidnapped_Turnabout_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 58</desc>
+         <text x="130" y="6950">The Kidnapped Turnabout : 58</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 18</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="7050"
+                     y2="7032"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="6970">Objection!</text>
+               <text x="100" y="7000">18</text>
+            </g>
+            <g>
+               <desc>Take that!, 10</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="7050"
+                     y2="7040"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="6970">Take that!</text>
+               <text x="200" y="7000">10</text>
+            </g>
+            <g>
+               <desc>Hold it!, 30</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="7050"
+                     y2="7020"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="6970">Hold it!</text>
+               <text x="300" y="7000">30</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Grand_Turnabout_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 58</desc>
+         <text x="130" y="7100">The Grand Turnabout : 58</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 33</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="7200"
+                     y2="7167"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="7120">Objection!</text>
+               <text x="100" y="7150">33</text>
+            </g>
+            <g>
+               <desc>Take that!, 14</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="7200"
+                     y2="7186"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="7120">Take that!</text>
+               <text x="200" y="7150">14</text>
+            </g>
+            <g>
+               <desc>Hold it!, 11</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="7200"
+                     y2="7189"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="7120">Hold it!</text>
+               <text x="300" y="7150">11</text>
+            </g>
+         </g>
+      </g>
+      <g id="Recipe_for_Turnabout_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 58</desc>
+         <text x="130" y="7250">Recipe for Turnabout : 58</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 25</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="7350"
+                     y2="7325"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="7270">Objection!</text>
+               <text x="100" y="7300">25</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="7350"
+                     y2="7350"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="7270">Take that!</text>
+               <text x="200" y="7300">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 33</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="7350"
+                     y2="7317"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="7270">Hold it!</text>
+               <text x="300" y="7300">33</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Corner_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 57</desc>
+         <text x="130" y="7400">Turnabout Corner : 57</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 13</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="7500"
+                     y2="7487"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="7420">Objection!</text>
+               <text x="100" y="7450">13</text>
+            </g>
+            <g>
+               <desc>Take that!, 12</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="7500"
+                     y2="7488"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="7420">Take that!</text>
+               <text x="200" y="7450">12</text>
+            </g>
+            <g>
+               <desc>Hold it!, 32</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="7500"
+                     y2="7468"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="7420">Hold it!</text>
+               <text x="300" y="7450">32</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Samurai_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 56</desc>
+         <text x="130" y="7550">Turnabout Samurai : 56</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 16</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="7650"
+                     y2="7634"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="7570">Objection!</text>
+               <text x="100" y="7600">16</text>
+            </g>
+            <g>
+               <desc>Take that!, 9</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="7650"
+                     y2="7641"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="7570">Take that!</text>
+               <text x="200" y="7600">9</text>
+            </g>
+            <g>
+               <desc>Hold it!, 31</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="7650"
+                     y2="7619"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="7570">Hold it!</text>
+               <text x="300" y="7600">31</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Serenade_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 56</desc>
+         <text x="130" y="7700">Turnabout Serenade : 56</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 14</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="7800"
+                     y2="7786"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="7720">Objection!</text>
+               <text x="100" y="7750">14</text>
+            </g>
+            <g>
+               <desc>Take that!, 11</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="7800"
+                     y2="7789"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="7720">Take that!</text>
+               <text x="200" y="7750">11</text>
+            </g>
+            <g>
+               <desc>Hold it!, 31</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="7800"
+                     y2="7769"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="7720">Hold it!</text>
+               <text x="300" y="7750">31</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Stolen_Turnabout_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 54</desc>
+         <text x="130" y="7850">The Stolen Turnabout : 54</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 18</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="7950"
+                     y2="7932"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="7870">Objection!</text>
+               <text x="100" y="7900">18</text>
+            </g>
+            <g>
+               <desc>Take that!, 13</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="7950"
+                     y2="7937"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="7870">Take that!</text>
+               <text x="200" y="7900">13</text>
+            </g>
+            <g>
+               <desc>Hold it!, 23</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="7950"
+                     y2="7927"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="7870">Hold it!</text>
+               <text x="300" y="7900">23</text>
+            </g>
+         </g>
+      </g>
+      <g id="Reunion_and_Turnabout_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 52</desc>
+         <text x="130" y="8000">Reunion, and Turnabout : 52</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 12</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="8100"
+                     y2="8088"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="8020">Objection!</text>
+               <text x="100" y="8050">12</text>
+            </g>
+            <g>
+               <desc>Take that!, 14</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="8100"
+                     y2="8086"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="8020">Take that!</text>
+               <text x="200" y="8050">14</text>
+            </g>
+            <g>
+               <desc>Hold it!, 26</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="8100"
+                     y2="8074"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="8020">Hold it!</text>
+               <text x="300" y="8050">26</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Reminiscence_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 51</desc>
+         <text x="130" y="8150">Turnabout Reminiscence : 51</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 21</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="8250"
+                     y2="8229"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="8170">Objection!</text>
+               <text x="100" y="8200">21</text>
+            </g>
+            <g>
+               <desc>Take that!, 10</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="8250"
+                     y2="8240"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="8170">Take that!</text>
+               <text x="200" y="8200">10</text>
+            </g>
+            <g>
+               <desc>Hold it!, 20</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="8250"
+                     y2="8230"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="8170">Hold it!</text>
+               <text x="300" y="8200">20</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Airlines_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 50</desc>
+         <text x="130" y="8300">Turnabout Airlines : 50</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 18</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="8400"
+                     y2="8382"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="8320">Objection!</text>
+               <text x="100" y="8350">18</text>
+            </g>
+            <g>
+               <desc>Take that!, 17</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="8400"
+                     y2="8383"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="8320">Take that!</text>
+               <text x="200" y="8350">17</text>
+            </g>
+            <g>
+               <desc>Hold it!, 15</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="8400"
+                     y2="8385"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="8320">Hold it!</text>
+               <text x="300" y="8350">15</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Memoirs_of_the_Clouded_Kokoro_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 48</desc>
+         <text x="130" y="8450">The Memoirs of the Clouded Kokoro : 48</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 16</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="8550"
+                     y2="8534"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="8470">Objection!</text>
+               <text x="100" y="8500">16</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="8550"
+                     y2="8550"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="8470">Take that!</text>
+               <text x="200" y="8500">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 32</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="8550"
+                     y2="8518"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="8470">Hold it!</text>
+               <text x="300" y="8500">32</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Succession_-_Transcript_-_Part_5">
+         <desc>Total Cut Ins in this episode? 46</desc>
+         <text x="130" y="8600">Turnabout Succession : 46</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 26</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="8700"
+                     y2="8674"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="8620">Objection!</text>
+               <text x="100" y="8650">26</text>
+            </g>
+            <g>
+               <desc>Take that!, 14</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="8700"
+                     y2="8686"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="8620">Take that!</text>
+               <text x="200" y="8650">14</text>
+            </g>
+            <g>
+               <desc>Hold it!, 6</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="8700"
+                     y2="8694"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="8620">Hold it!</text>
+               <text x="300" y="8650">6</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Samurai_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 45</desc>
+         <text x="130" y="8750">Turnabout Samurai : 45</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 14</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="8850"
+                     y2="8836"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="8770">Objection!</text>
+               <text x="100" y="8800">14</text>
+            </g>
+            <g>
+               <desc>Take that!, 3</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="8850"
+                     y2="8847"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="8770">Take that!</text>
+               <text x="200" y="8800">3</text>
+            </g>
+            <g>
+               <desc>Hold it!, 28</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="8850"
+                     y2="8822"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="8770">Hold it!</text>
+               <text x="300" y="8800">28</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Return_of_the_Great_Departed_Soul_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 44</desc>
+         <text x="130" y="8900">The Return of the Great Departed Soul : 44</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 17</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="9000"
+                     y2="8983"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="8920">Objection!</text>
+               <text x="100" y="8950">17</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="9000"
+                     y2="9000"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="8920">Take that!</text>
+               <text x="200" y="8950">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 27</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="9000"
+                     y2="8973"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="8920">Hold it!</text>
+               <text x="300" y="8950">27</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Memoirs_of_the_Clouded_Kokoro_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 43</desc>
+         <text x="130" y="9050">The Memoirs of the Clouded Kokoro : 43</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 14</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="9150"
+                     y2="9136"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="9070">Objection!</text>
+               <text x="100" y="9100">14</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="9150"
+                     y2="9150"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="9070">Take that!</text>
+               <text x="200" y="9100">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 29</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="9150"
+                     y2="9121"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="9070">Hold it!</text>
+               <text x="300" y="9100">29</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_First_Turnabout_-_Transcript">
+         <desc>Total Cut Ins in this episode? 40</desc>
+         <text x="130" y="9200">The First Turnabout : 40</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 16</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="9300"
+                     y2="9284"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="9220">Objection!</text>
+               <text x="100" y="9250">16</text>
+            </g>
+            <g>
+               <desc>Take that!, 4</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="9300"
+                     y2="9296"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="9220">Take that!</text>
+               <text x="200" y="9250">4</text>
+            </g>
+            <g>
+               <desc>Hold it!, 20</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="9300"
+                     y2="9280"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="9220">Hold it!</text>
+               <text x="300" y="9250">20</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Samurai_-_Transcript_-_Part_6">
+         <desc>Total Cut Ins in this episode? 39</desc>
+         <text x="130" y="9350">Turnabout Samurai : 39</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 14</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="9450"
+                     y2="9436"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="9370">Objection!</text>
+               <text x="100" y="9400">14</text>
+            </g>
+            <g>
+               <desc>Take that!, 11</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="9450"
+                     y2="9439"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="9370">Take that!</text>
+               <text x="200" y="9400">11</text>
+            </g>
+            <g>
+               <desc>Hold it!, 14</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="9450"
+                     y2="9436"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="9370">Hold it!</text>
+               <text x="300" y="9400">14</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Forgotten_Turnabout_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 38</desc>
+         <text x="130" y="9500">The Forgotten Turnabout : 38</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 19</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="9600"
+                     y2="9581"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="9520">Objection!</text>
+               <text x="100" y="9550">19</text>
+            </g>
+            <g>
+               <desc>Take that!, 2</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="9600"
+                     y2="9598"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="9520">Take that!</text>
+               <text x="200" y="9550">2</text>
+            </g>
+            <g>
+               <desc>Hold it!, 17</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="9600"
+                     y2="9583"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="9520">Hold it!</text>
+               <text x="300" y="9550">17</text>
+            </g>
+         </g>
+      </g>
+      <g id="Recipe_for_Turnabout_-_Transcript_-_Part_3">
+         <desc>Total Cut Ins in this episode? 30</desc>
+         <text x="130" y="9650">Recipe for Turnabout : 30</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 1</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="9750"
+                     y2="9749"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="9670">Objection!</text>
+               <text x="100" y="9700">1</text>
+            </g>
+            <g>
+               <desc>Take that!, 28</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="9750"
+                     y2="9722"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="9670">Take that!</text>
+               <text x="200" y="9700">28</text>
+            </g>
+            <g>
+               <desc>Hold it!, 1</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="9750"
+                     y2="9749"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="9670">Hold it!</text>
+               <text x="300" y="9700">1</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Succession_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 30</desc>
+         <text x="130" y="9800">Turnabout Succession : 30</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 1</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="9900"
+                     y2="9899"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="9820">Objection!</text>
+               <text x="100" y="9850">1</text>
+            </g>
+            <g>
+               <desc>Take that!, 29</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="9900"
+                     y2="9871"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="9820">Take that!</text>
+               <text x="200" y="9850">29</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="9900"
+                     y2="9900"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="9820">Hold it!</text>
+               <text x="300" y="9850">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Reunion_and_Turnabout_-_Transcript_-_Part_3">
+         <desc>Total Cut Ins in this episode? 30</desc>
+         <text x="130" y="9950">Reunion, and Turnabout : 30</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="10050"
+                     y2="10050"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="9970">Objection!</text>
+               <text x="100" y="10000">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 30</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="10050"
+                     y2="10020"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="9970">Take that!</text>
+               <text x="200" y="10000">30</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="10050"
+                     y2="10050"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="9970">Hold it!</text>
+               <text x="300" y="10000">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Ryunosuke_Naruhodos_Seven_Days_of_Sin_-_Transcript">
+         <desc>Total Cut Ins in this episode? 29</desc>
+         <text x="130" y="10100">Ryunosuke Naruhodo's Seven Days of Sin : 29</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 21</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="10200"
+                     y2="10179"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="10120">Objection!</text>
+               <text x="100" y="10150">21</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="10200"
+                     y2="10200"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="10120">Take that!</text>
+               <text x="200" y="10150">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 8</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="10200"
+                     y2="10192"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="10120">Hold it!</text>
+               <text x="300" y="10150">8</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Resolve_of_Ryunosuke_Naruhodo_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 27</desc>
+         <text x="130" y="10250">The Resolve of Ryunosuke Naruhodo : 27</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 14</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="10350"
+                     y2="10336"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="10270">Objection!</text>
+               <text x="100" y="10300">14</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="10350"
+                     y2="10350"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="10270">Take that!</text>
+               <text x="200" y="10300">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 13</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="10350"
+                     y2="10337"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="10270">Hold it!</text>
+               <text x="300" y="10300">13</text>
+            </g>
+         </g>
+      </g>
+      <g id="Bridge_to_the_Turnabout_-_Transcript_-_Part_3">
+         <desc>Total Cut Ins in this episode? 26</desc>
+         <text x="130" y="10400">Bridge to the Turnabout : 26</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="10500"
+                     y2="10500"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="10420">Objection!</text>
+               <text x="100" y="10450">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 24</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="10500"
+                     y2="10476"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="10420">Take that!</text>
+               <text x="200" y="10450">24</text>
+            </g>
+            <g>
+               <desc>Hold it!, 2</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="10500"
+                     y2="10498"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="10420">Hold it!</text>
+               <text x="300" y="10450">2</text>
+            </g>
+         </g>
+      </g>
+      <g id="Farewell_My_Turnabout_-_Transcript_-_Part_3">
+         <desc>Total Cut Ins in this episode? 21</desc>
+         <text x="130" y="10550">Farewell, My Turnabout : 21</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="10650"
+                     y2="10650"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="10570">Objection!</text>
+               <text x="100" y="10600">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 21</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="10650"
+                     y2="10629"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="10570">Take that!</text>
+               <text x="200" y="10600">21</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="10650"
+                     y2="10650"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="10570">Hold it!</text>
+               <text x="300" y="10600">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Recipe_for_Turnabout_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 21</desc>
+         <text x="130" y="10700">Recipe for Turnabout : 21</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="10800"
+                     y2="10800"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="10720">Objection!</text>
+               <text x="100" y="10750">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 21</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="10800"
+                     y2="10779"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="10720">Take that!</text>
+               <text x="200" y="10750">21</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="10800"
+                     y2="10800"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="10720">Hold it!</text>
+               <text x="300" y="10750">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Stolen_Turnabout_-_Transcript_-_Part_3">
+         <desc>Total Cut Ins in this episode? 18</desc>
+         <text x="130" y="10850">The Stolen Turnabout : 18</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="10950"
+                     y2="10950"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="10870">Objection!</text>
+               <text x="100" y="10900">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 18</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="10950"
+                     y2="10932"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="10870">Take that!</text>
+               <text x="200" y="10900">18</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="10950"
+                     y2="10950"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="10870">Hold it!</text>
+               <text x="300" y="10900">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Farewell_My_Turnabout_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 17</desc>
+         <text x="130" y="11000">Farewell, My Turnabout : 17</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="11100"
+                     y2="11100"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="11020">Objection!</text>
+               <text x="100" y="11050">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 17</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="11100"
+                     y2="11083"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="11020">Take that!</text>
+               <text x="200" y="11050">17</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="11100"
+                     y2="11100"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="11020">Hold it!</text>
+               <text x="300" y="11050">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Bridge_to_the_Turnabout_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 17</desc>
+         <text x="130" y="11150">Bridge to the Turnabout : 17</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 2</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="11250"
+                     y2="11248"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="11170">Objection!</text>
+               <text x="100" y="11200">2</text>
+            </g>
+            <g>
+               <desc>Take that!, 14</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="11250"
+                     y2="11236"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="11170">Take that!</text>
+               <text x="200" y="11200">14</text>
+            </g>
+            <g>
+               <desc>Hold it!, 1</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="11250"
+                     y2="11249"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="11170">Hold it!</text>
+               <text x="300" y="11200">1</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Big_Top_-_Transcript_-_Part_3">
+         <desc>Total Cut Ins in this episode? 14</desc>
+         <text x="130" y="11300">Turnabout Big Top : 14</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="11400"
+                     y2="11400"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="11320">Objection!</text>
+               <text x="100" y="11350">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 14</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="11400"
+                     y2="11386"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="11320">Take that!</text>
+               <text x="200" y="11350">14</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="11400"
+                     y2="11400"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="11320">Hold it!</text>
+               <text x="300" y="11350">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Big_Top_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 11</desc>
+         <text x="130" y="11450">Turnabout Big Top : 11</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="11550"
+                     y2="11550"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="11470">Objection!</text>
+               <text x="100" y="11500">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 10</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="11550"
+                     y2="11540"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="11470">Take that!</text>
+               <text x="200" y="11500">10</text>
+            </g>
+            <g>
+               <desc>Hold it!, 1</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="11550"
+                     y2="11549"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="11470">Hold it!</text>
+               <text x="300" y="11500">1</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Corner_-_Transcript_-_Part_3">
+         <desc>Total Cut Ins in this episode? 11</desc>
+         <text x="130" y="11600">Turnabout Corner : 11</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 1</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="11700"
+                     y2="11699"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="11620">Objection!</text>
+               <text x="100" y="11650">1</text>
+            </g>
+            <g>
+               <desc>Take that!, 10</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="11700"
+                     y2="11690"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="11620">Take that!</text>
+               <text x="200" y="11650">10</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="11700"
+                     y2="11700"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="11620">Hold it!</text>
+               <text x="300" y="11650">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Samurai_-_Transcript_-_Part_5">
+         <desc>Total Cut Ins in this episode? 9</desc>
+         <text x="130" y="11750">Turnabout Samurai : 9</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="11850"
+                     y2="11850"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="11770">Objection!</text>
+               <text x="100" y="11800">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 9</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="11850"
+                     y2="11841"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="11770">Take that!</text>
+               <text x="200" y="11800">9</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="11850"
+                     y2="11850"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="11770">Hold it!</text>
+               <text x="300" y="11800">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Special_Trial_2017_-_Transcript">
+         <desc>Total Cut Ins in this episode? 6</desc>
+         <text x="130" y="11900">Special Trial 2017 : 6</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 3</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="12000"
+                     y2="11997"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="11920">Objection!</text>
+               <text x="100" y="11950">3</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="12000"
+                     y2="12000"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="11920">Take that!</text>
+               <text x="200" y="11950">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 3</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="12000"
+                     y2="11997"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="11920">Hold it!</text>
+               <text x="300" y="11950">3</text>
+            </g>
+         </g>
+      </g>
+      <g id="In_the_Bailey_-_Transcript">
+         <desc>Total Cut Ins in this episode? 6</desc>
+         <text x="130" y="12050">In the Bailey : 6</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 4</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="12150"
+                     y2="12146"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="12070">Objection!</text>
+               <text x="100" y="12100">4</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="12150"
+                     y2="12150"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="12070">Take that!</text>
+               <text x="200" y="12100">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 2</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="12150"
+                     y2="12148"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="12070">Hold it!</text>
+               <text x="300" y="12100">2</text>
+            </g>
+         </g>
+      </g>
+      <g id="Rise_from_the_Ashes_-_Transcript_-_Part_5">
+         <desc>Total Cut Ins in this episode? 5</desc>
+         <text x="130" y="12200">Rise from the Ashes : 5</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 1</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="12300"
+                     y2="12299"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="12220">Objection!</text>
+               <text x="100" y="12250">1</text>
+            </g>
+            <g>
+               <desc>Take that!, 4</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="12300"
+                     y2="12296"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="12220">Take that!</text>
+               <text x="200" y="12250">4</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="12300"
+                     y2="12300"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="12220">Hold it!</text>
+               <text x="300" y="12250">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Stolen_Turnabout_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 5</desc>
+         <text x="130" y="12350">The Stolen Turnabout : 5</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="12450"
+                     y2="12450"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="12370">Objection!</text>
+               <text x="100" y="12400">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 5</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="12450"
+                     y2="12445"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="12370">Take that!</text>
+               <text x="200" y="12400">5</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="12450"
+                     y2="12450"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="12370">Hold it!</text>
+               <text x="300" y="12400">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Cosmic_Turnabout_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 4</desc>
+         <text x="130" y="12500">The Cosmic Turnabout : 4</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 3</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="12600"
+                     y2="12597"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="12520">Objection!</text>
+               <text x="100" y="12550">3</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="12600"
+                     y2="12600"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="12520">Take that!</text>
+               <text x="200" y="12550">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 1</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="12600"
+                     y2="12599"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="12520">Hold it!</text>
+               <text x="300" y="12550">1</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Return_of_the_Great_Departed_Soul_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 4</desc>
+         <text x="130" y="12650">The Return of the Great Departed Soul : 4</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 3</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="12750"
+                     y2="12747"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="12670">Objection!</text>
+               <text x="100" y="12700">3</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="12750"
+                     y2="12750"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="12670">Take that!</text>
+               <text x="200" y="12700">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 1</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="12750"
+                     y2="12749"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="12670">Hold it!</text>
+               <text x="300" y="12700">1</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Golden_Court_-_Transcript">
+         <desc>Total Cut Ins in this episode? 4</desc>
+         <text x="130" y="12800">The Golden Court : 4</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="12900"
+                     y2="12900"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="12820">Objection!</text>
+               <text x="100" y="12850">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="12900"
+                     y2="12900"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="12820">Take that!</text>
+               <text x="200" y="12850">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 4</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="12900"
+                     y2="12896"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="12820">Hold it!</text>
+               <text x="300" y="12850">4</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Goodbyes_-_Transcript_-_Part_3">
+         <desc>Total Cut Ins in this episode? 4</desc>
+         <text x="130" y="12950">Turnabout Goodbyes : 4</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="13050"
+                     y2="13050"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="12970">Objection!</text>
+               <text x="100" y="13000">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 4</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="13050"
+                     y2="13046"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="12970">Take that!</text>
+               <text x="200" y="13000">4</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="13050"
+                     y2="13050"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="12970">Hold it!</text>
+               <text x="300" y="13000">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Serenade_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 4</desc>
+         <text x="130" y="13100">Turnabout Serenade : 4</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="13200"
+                     y2="13200"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="13120">Objection!</text>
+               <text x="100" y="13150">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 4</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="13200"
+                     y2="13196"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="13120">Take that!</text>
+               <text x="200" y="13150">4</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="13200"
+                     y2="13200"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="13120">Hold it!</text>
+               <text x="300" y="13150">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Corner_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 4</desc>
+         <text x="130" y="13250">Turnabout Corner : 4</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="13350"
+                     y2="13350"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="13270">Objection!</text>
+               <text x="100" y="13300">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 4</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="13350"
+                     y2="13346"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="13270">Take that!</text>
+               <text x="200" y="13300">4</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="13350"
+                     y2="13350"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="13270">Hold it!</text>
+               <text x="300" y="13300">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Adventure_of_the_Unbreakable_Speckled_Band_-_Transcript">
+         <desc>Total Cut Ins in this episode? 3</desc>
+         <text x="130" y="13400">The Adventure of the Unbreakable Speckled Band : 3</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="13500"
+                     y2="13500"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="13420">Objection!</text>
+               <text x="100" y="13450">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="13500"
+                     y2="13500"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="13420">Take that!</text>
+               <text x="200" y="13450">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 3</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="13500"
+                     y2="13497"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="13420">Hold it!</text>
+               <text x="300" y="13450">3</text>
+            </g>
+         </g>
+      </g>
+      <g id="Twisted_Karma_and_His_Last_Bow_-_Transcript_-_Part_3">
+         <desc>Total Cut Ins in this episode? 3</desc>
+         <text x="130" y="13550">Twisted Karma and His Last Bow : 3</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 3</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="13650"
+                     y2="13647"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="13570">Objection!</text>
+               <text x="100" y="13600">3</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="13650"
+                     y2="13650"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="13570">Take that!</text>
+               <text x="200" y="13600">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="13650"
+                     y2="13650"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="13570">Hold it!</text>
+               <text x="300" y="13600">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Serenade_-_Transcript_-_Part_3">
+         <desc>Total Cut Ins in this episode? 3</desc>
+         <text x="130" y="13700">Turnabout Serenade : 3</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 1</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="13800"
+                     y2="13799"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="13720">Objection!</text>
+               <text x="100" y="13750">1</text>
+            </g>
+            <g>
+               <desc>Take that!, 2</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="13800"
+                     y2="13798"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="13720">Take that!</text>
+               <text x="200" y="13750">2</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="13800"
+                     y2="13800"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="13720">Hold it!</text>
+               <text x="300" y="13750">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Revolution_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 3</desc>
+         <text x="130" y="13850">Turnabout Revolution : 3</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="13950"
+                     y2="13950"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="13870">Objection!</text>
+               <text x="100" y="13900">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="13950"
+                     y2="13950"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="13870">Take that!</text>
+               <text x="200" y="13900">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 3</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="13950"
+                     y2="13947"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="13870">Hold it!</text>
+               <text x="300" y="13900">3</text>
+            </g>
+         </g>
+      </g>
+      <g id="Reunion_and_Turnabout_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 3</desc>
+         <text x="130" y="14000">Reunion, and Turnabout : 3</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="14100"
+                     y2="14100"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="14020">Objection!</text>
+               <text x="100" y="14050">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 3</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="14100"
+                     y2="14097"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="14020">Take that!</text>
+               <text x="200" y="14050">3</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="14100"
+                     y2="14100"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="14020">Hold it!</text>
+               <text x="300" y="14050">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Magical_Turnabout_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 2</desc>
+         <text x="130" y="14150">The Magical Turnabout : 2</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 2</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="14250"
+                     y2="14248"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="14170">Objection!</text>
+               <text x="100" y="14200">2</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="14250"
+                     y2="14250"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="14170">Take that!</text>
+               <text x="200" y="14200">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="14250"
+                     y2="14250"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="14170">Hold it!</text>
+               <text x="300" y="14200">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Magical_Turnabout_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 2</desc>
+         <text x="130" y="14300">The Magical Turnabout : 2</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 2</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="14400"
+                     y2="14398"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="14320">Objection!</text>
+               <text x="100" y="14350">2</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="14400"
+                     y2="14400"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="14320">Take that!</text>
+               <text x="200" y="14350">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="14400"
+                     y2="14400"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="14320">Hold it!</text>
+               <text x="300" y="14350">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Academy_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 2</desc>
+         <text x="130" y="14450">Turnabout Academy : 2</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 1</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="14550"
+                     y2="14549"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="14470">Objection!</text>
+               <text x="100" y="14500">1</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="14550"
+                     y2="14550"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="14470">Take that!</text>
+               <text x="200" y="14500">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 1</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="14550"
+                     y2="14549"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="14470">Hold it!</text>
+               <text x="300" y="14500">1</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Academy_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 2</desc>
+         <text x="130" y="14600">Turnabout Academy : 2</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 2</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="14700"
+                     y2="14698"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="14620">Objection!</text>
+               <text x="100" y="14650">2</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="14700"
+                     y2="14700"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="14620">Take that!</text>
+               <text x="200" y="14650">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="14700"
+                     y2="14700"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="14620">Hold it!</text>
+               <text x="300" y="14650">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Adventure_of_the_Unspeakable_Story_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 2</desc>
+         <text x="130" y="14750">The Adventure of the Unspeakable Story : 2</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="14850"
+                     y2="14850"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="14770">Objection!</text>
+               <text x="100" y="14800">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="14850"
+                     y2="14850"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="14770">Take that!</text>
+               <text x="200" y="14800">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 2</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="14850"
+                     y2="14848"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="14770">Hold it!</text>
+               <text x="300" y="14800">2</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Foreign_Turnabout_-_Transcript">
+         <desc>Total Cut Ins in this episode? 2</desc>
+         <text x="130" y="14900">The Foreign Turnabout : 2</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="15000"
+                     y2="15000"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="14920">Objection!</text>
+               <text x="100" y="14950">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="15000"
+                     y2="15000"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="14920">Take that!</text>
+               <text x="200" y="14950">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 2</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="15000"
+                     y2="14998"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="14920">Hold it!</text>
+               <text x="300" y="14950">2</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Monstrous_Turnabout_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 2</desc>
+         <text x="130" y="15050">The Monstrous Turnabout : 2</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 2</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="15150"
+                     y2="15148"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="15070">Objection!</text>
+               <text x="100" y="15100">2</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="15150"
+                     y2="15150"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="15070">Take that!</text>
+               <text x="200" y="15100">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="15150"
+                     y2="15150"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="15070">Hold it!</text>
+               <text x="300" y="15100">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Countdown_-_Transcript">
+         <desc>Total Cut Ins in this episode? 1</desc>
+         <text x="130" y="15200">Turnabout Countdown : 1</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 1</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="15300"
+                     y2="15299"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="15220">Objection!</text>
+               <text x="100" y="15250">1</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="15300"
+                     y2="15300"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="15220">Take that!</text>
+               <text x="200" y="15250">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="15300"
+                     y2="15300"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="15220">Hold it!</text>
+               <text x="300" y="15250">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Time_Traveler_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 1</desc>
+         <text x="130" y="15350">Turnabout Time Traveler : 1</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="15450"
+                     y2="15450"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="15370">Objection!</text>
+               <text x="100" y="15400">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="15450"
+                     y2="15450"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="15370">Take that!</text>
+               <text x="200" y="15400">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 1</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="15450"
+                     y2="15449"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="15370">Hold it!</text>
+               <text x="300" y="15400">1</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Academy_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 1</desc>
+         <text x="130" y="15500">Turnabout Academy : 1</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 1</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="15600"
+                     y2="15599"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="15520">Objection!</text>
+               <text x="100" y="15550">1</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="15600"
+                     y2="15600"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="15520">Take that!</text>
+               <text x="200" y="15550">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="15600"
+                     y2="15600"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="15520">Hold it!</text>
+               <text x="300" y="15550">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Time_Traveler_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 1</desc>
+         <text x="130" y="15650">Turnabout Time Traveler : 1</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 1</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="15750"
+                     y2="15749"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="15670">Objection!</text>
+               <text x="100" y="15700">1</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="15750"
+                     y2="15750"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="15670">Take that!</text>
+               <text x="200" y="15700">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="15750"
+                     y2="15750"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="15670">Hold it!</text>
+               <text x="300" y="15700">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Time_Traveler_-_Transcript_-_Part_4">
+         <desc>Total Cut Ins in this episode? 1</desc>
+         <text x="130" y="15800">Turnabout Time Traveler : 1</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 1</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="15900"
+                     y2="15899"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="15820">Objection!</text>
+               <text x="100" y="15850">1</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="15900"
+                     y2="15900"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="15820">Take that!</text>
+               <text x="200" y="15850">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="15900"
+                     y2="15900"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="15820">Hold it!</text>
+               <text x="300" y="15850">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Return_of_the_Great_Departed_Soul_-_Transcript_-_Part_3">
+         <desc>Total Cut Ins in this episode? 1</desc>
+         <text x="130" y="15950">The Return of the Great Departed Soul : 1</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 1</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="16050"
+                     y2="16049"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="15970">Objection!</text>
+               <text x="100" y="16000">1</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="16050"
+                     y2="16050"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="15970">Take that!</text>
+               <text x="200" y="16000">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="16050"
+                     y2="16050"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="15970">Hold it!</text>
+               <text x="300" y="16000">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="In_a_First-Class_Cabin_-_Transcript">
+         <desc>Total Cut Ins in this episode? 1</desc>
+         <text x="130" y="16100">In a First-Class Cabin : 1</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="16200"
+                     y2="16200"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="16120">Objection!</text>
+               <text x="100" y="16150">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="16200"
+                     y2="16200"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="16120">Take that!</text>
+               <text x="200" y="16150">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 1</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="16200"
+                     y2="16199"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="16120">Hold it!</text>
+               <text x="300" y="16150">1</text>
+            </g>
+         </g>
+      </g>
+      <g id="At_the_British_Supreme_Court_-_Transcript">
+         <desc>Total Cut Ins in this episode? 1</desc>
+         <text x="130" y="16250">At the British Supreme Court : 1</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 1</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="16350"
+                     y2="16349"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="16270">Objection!</text>
+               <text x="100" y="16300">1</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="16350"
+                     y2="16350"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="16270">Take that!</text>
+               <text x="200" y="16300">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="16350"
+                     y2="16350"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="16270">Hold it!</text>
+               <text x="300" y="16300">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Twisted_Karma_and_His_Last_Bow_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 1</desc>
+         <text x="130" y="16400">Twisted Karma and His Last Bow : 1</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="16500"
+                     y2="16500"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="16420">Objection!</text>
+               <text x="100" y="16450">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="16500"
+                     y2="16500"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="16420">Take that!</text>
+               <text x="200" y="16450">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 1</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="16500"
+                     y2="16499"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="16420">Hold it!</text>
+               <text x="300" y="16450">1</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_for_Tomorrow_-_Transcript_-_Part_1">
+         <desc>Total Cut Ins in this episode? 1</desc>
+         <text x="130" y="16550">Turnabout for Tomorrow : 1</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="16650"
+                     y2="16650"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="16570">Objection!</text>
+               <text x="100" y="16600">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 1</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="16650"
+                     y2="16649"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="16570">Take that!</text>
+               <text x="200" y="16600">1</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="16650"
+                     y2="16650"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="16570">Hold it!</text>
+               <text x="300" y="16600">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Storys_End_-_Transcript">
+         <desc>Total Cut Ins in this episode? 1</desc>
+         <text x="130" y="16700">The Story's End : 1</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="16800"
+                     y2="16800"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="16720">Objection!</text>
+               <text x="100" y="16750">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 1</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="16800"
+                     y2="16799"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="16720">Take that!</text>
+               <text x="200" y="16750">1</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="16800"
+                     y2="16800"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="16720">Hold it!</text>
+               <text x="300" y="16750">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_for_Tomorrow_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 1</desc>
+         <text x="130" y="16850">Turnabout for Tomorrow : 1</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="16950"
+                     y2="16950"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="16870">Objection!</text>
+               <text x="100" y="16900">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="16950"
+                     y2="16950"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="16870">Take that!</text>
+               <text x="200" y="16900">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 1</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="16950"
+                     y2="16949"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="16870">Hold it!</text>
+               <text x="300" y="16900">1</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Revolution_-_Transcript_-_Part_3">
+         <desc>Total Cut Ins in this episode? 1</desc>
+         <text x="130" y="17000">Turnabout Revolution : 1</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="17100"
+                     y2="17100"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="17020">Objection!</text>
+               <text x="100" y="17050">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 1</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="17100"
+                     y2="17099"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="17020">Take that!</text>
+               <text x="200" y="17050">1</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="17100"
+                     y2="17100"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="17020">Hold it!</text>
+               <text x="300" y="17050">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="The_Rite_of_Turnabout_-_Transcript_-_Part_2">
+         <desc>Total Cut Ins in this episode? 1</desc>
+         <text x="130" y="17150">The Rite of Turnabout : 1</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="17250"
+                     y2="17250"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="17170">Objection!</text>
+               <text x="100" y="17200">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="17250"
+                     y2="17250"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="17170">Take that!</text>
+               <text x="200" y="17200">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 1</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="17250"
+                     y2="17249"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="17170">Hold it!</text>
+               <text x="300" y="17200">1</text>
+            </g>
+         </g>
+      </g>
+      <g id="Turnabout_Reclaimed_-_Transcript_-_Part_3">
+         <desc>Total Cut Ins in this episode? 1</desc>
+         <text x="130" y="17300">Turnabout Reclaimed : 1</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 1</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="17400"
+                     y2="17399"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="17320">Objection!</text>
+               <text x="100" y="17350">1</text>
+            </g>
+            <g>
+               <desc>Take that!, 0</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="17400"
+                     y2="17400"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="17320">Take that!</text>
+               <text x="200" y="17350">0</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="17400"
+                     y2="17400"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="17320">Hold it!</text>
+               <text x="300" y="17350">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Mysterious_Labyrinthia_-_Transcript">
+         <desc>Total Cut Ins in this episode? 1</desc>
+         <text x="130" y="17450">Mysterious Labyrinthia : 1</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="17550"
+                     y2="17550"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="17470">Objection!</text>
+               <text x="100" y="17500">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 1</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="17550"
+                     y2="17549"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="17470">Take that!</text>
+               <text x="200" y="17500">1</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="17550"
+                     y2="17550"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="17470">Hold it!</text>
+               <text x="300" y="17500">0</text>
+            </g>
+         </g>
+      </g>
+      <g id="Secrets_of_the_Underground_Ruins_-_Transcript">
+         <desc>Total Cut Ins in this episode? 1</desc>
+         <text x="130" y="17600">Secrets of the Underground Ruins : 1</text>
+         <g class="cutinInfo">
+            <desc> We only have three cutIn lines, so let's plot these for each episode that contains them.
+       We could try a stacked bar plot, or just plot them side by side.</desc>
+            <g>
+               <desc>Objection!, 0</desc>
+               <line x1="100"
+                     x2="100"
+                     y1="17700"
+                     y2="17700"
+                     stroke="red"
+                     stroke-width="20"/>
+               <text x="100" y="17620">Objection!</text>
+               <text x="100" y="17650">0</text>
+            </g>
+            <g>
+               <desc>Take that!, 1</desc>
+               <line x1="200"
+                     x2="200"
+                     y1="17700"
+                     y2="17699"
+                     stroke="green"
+                     stroke-width="20"/>
+               <text x="200" y="17620">Take that!</text>
+               <text x="200" y="17650">1</text>
+            </g>
+            <g>
+               <desc>Hold it!, 0</desc>
+               <line x1="300"
+                     x2="300"
+                     y1="17700"
+                     y2="17700"
+                     stroke="blue"
+                     stroke-width="20"/>
+               <text x="300" y="17620">Hold it!</text>
+               <text x="300" y="17650">0</text>
+            </g>
+         </g>
+      </g>
+   </g>
+</svg>
