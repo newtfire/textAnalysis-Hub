@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000"
+     height="1500"
+     viewBox="0 0 2000 3000">
+   <g id="wholePlot" transform="translate(50, 2000)">
+      <g id="cutin-1">
+         <line stroke="red"
+               stroke-width="150"
+               x1="300"
+               x2="300"
+               y1="0"
+               y2="-1139.5"/>
+         <text font-size="3em" x="300" y="50">Objection!</text>
+      </g>
+      <g id="cutin-2">
+         <line stroke="green"
+               stroke-width="150"
+               x1="600"
+               x2="600"
+               y1="0"
+               y2="-711"/>
+         <text font-size="3em" x="600" y="50">Take that!</text>
+      </g>
+      <g id="cutin-3">
+         <line stroke="blue"
+               stroke-width="150"
+               x1="900"
+               x2="900"
+               y1="0"
+               y2="-1156.5"/>
+         <text font-size="3em" x="900" y="50">Hold it!</text>
+      </g>
+   </g>
+</svg>

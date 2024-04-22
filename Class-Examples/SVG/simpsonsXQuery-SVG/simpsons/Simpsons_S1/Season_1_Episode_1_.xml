@@ -1,0 +1,414 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt>
+<metadata><ep><epTitle>Simpsons Roasting on an Open f*re</epTitle><szn>01</szn>x<epNum>01</epNum></ep>
+<date>05/16/98</date> <runtime>19:00</runtime></metadata>
+
+<fam><person>Marge</person></fam>: Ooh! Careful, <fam><person>Homer</person></fam>!
+
+<fam><person>Homer</person></fam>: There's no time to be careful. We're late.
+
+<stage>(tires screeching)</stage>
+
+Class: <music>♪ O little town of <location>Bethlehem</location> ♪</music>
+
+<music>♪ How still we see thee lie ♪</music>
+
+<fam><person>Marge</person></fam> <stage>(whispering)</stage>: Sorry. Excuse me. Pardon me. Sorry. Excuse me.
+
+<fam><person>Homer</person></fam>: Hey, Norman, how’s it goin’? So you got dragged down here too, huh? How you doin’, Fred?
+
+<fam><person>Marge</person></fam>: Sorry. Excuse me.
+
+<fam><person>Homer</person></fam>: Yeah. ‘Scuse me. Oh!
+
+<stage>(yelps)</stage>
+
+<fam><person>Homer</person></fam>: Pardon my galoshes. <stage>(laughs)</stage>
+
+Class: <music>♪ Are met in thee tonight ♪</music>
+
+<stage>(applause)</stage>
+
+4.99. Ooh! Pads of paper. I bet <fam><person>Bart</person></fam> can think of a million things to do with these. That just leaves little <fam><person>Maggie</person></fam>. Oh, look! A little squeak toy. It says it's for dogs, but she can't read.
+
+<person>Flanders</person>: Ow! Oh, Simpson, it's you.
+
+<fam><person>Homer</person></fam>: Hello, <person>Flanders</person>.
+
+<person>Flanders</person>: Oh, my! What a little mess we've got here. Well, which ones are yours and which ones are mine?
+
+<fam><person>Homer</person></fam>: Well, let's see-
+
+<person>Flanders</person>: Oh, this one's mine. This one's mine. This one’s mine, and this-
+
+<fam><person>Homer</person></fam>: They're all yours!
+
+Todd: Hey, Mr. Simpson, you dropped your pork chop.
+
+<stage>(squeaking)</stage>
+
+<fam><person>Homer</person></fam>: Gimme that!
+
+<person>Flanders</person>: Well, happy holidays Simpson.
+
+Todd: Gee, Dad, this is gonna be the best Christmas ever.
+
+<person>Flanders</person>: <stage>(chuckles)</stage> You bet.
+
+<person>Moe</person>: What's the matter, <fam><person>Homer</person></fam>? Somebody leave a lump of coal in your stocking? You've been sitting there sucking on a beer all day long.
+
+<fam><person>Homer</person></fam>: So?
+
+<person>Moe</person>: So, it's Christmas.
+
+<music>♪♪<stage>(jukebox)</stage></music>
+
+<fam><person>Homer</person></fam>: Thanks, <person>Moe</person>.
+
+<person>Barney</person>: Drinks all around!
+
+<fam><person>Homer</person></fam>: What's with the crazy getup, <location>Barn</location>?
+
+<person>Barney</person>: I got me a part-time job working as a Santa down at the mall.
+
+<fam><person>Homer</person></fam>: Wow! Can I do that?
+
+<person>Barney</person>: I don’t know. They’re pretty selective. <stage>(belches)</stage>
+
+Manager: Do you like children?
+
+<fam><person>Homer</person></fam>: What do you mean? All the time? Even when they're nuts?
+
+Manager: Hmm.
+
+<fam><person>Homer</person></fam>: Uh, I certainly do.
+
+Manager: Welcome aboard, Simpson. Pending your successful completion of our training program, that is.
+
+Santas: Ho ho ho. Ho ho ho. Ho ho ho. Ho ho ho.
+
+Teacher: What is it now, Simpson?
+
+<fam><person>Homer</person></fam>: Uh, when do we get paid?
+
+Teacher: Not a dime till Christmas Eve! Now, from the top.
+
+Santas: Ho ho ho. Ho ho ho.
+
+<fam><person>Homer</person></fam>: Um, Dasher. Dancer.
+
+Teacher: Mm-hmm.
+
+<fam><person>Homer</person></fam>: Prancer.
+
+Teacher: Mm-hmm.
+
+<fam><person>Homer</person></fam>: Nixon. Comet and… Cupid. Donna Dixon?
+
+Teacher: Sit down, Simpson.
+
+<fam><person>Homer</person></fam>: And what would you like, little boy?
+
+Teacher: You're not really Santa, tubby.
+
+<fam><person>Homer</person></fam>: Why, you little egghead!
+
+Teacher: No, no, <fam><person>Homer</person></fam>! If such an emergency arises, you just tell them Santa’s very busy this time of year, and you are one of his helpers.
+
+<fam><person>Homer</person></fam>: Oh, I knew that one too!
+
+<fam><person>Marge</person></fam>: <fam><person>Homer</person></fam>, why are you seven hours late?
+
+<fam><person>Homer</person></fam>: Not a word, <fam><person>Marge</person></fam>. I'm heading straight for the tub.
+
+<fam><person>Marge</person></fam>: But, <fam><person>Homer</person></fam>, my sisters are here. Don’t you wanna say hello?
+
+<fam><person>Homer</person></fam>: <stage>(shuddering)</stage>
+
+<fam><person>Bart</person></fam> &amp; <fam><person>Lisa</person></fam>: <stage>(groaning)</stage>
+
+<fam><person>Lisa</person></fam>: Daddy! Daddy! We’re so glad to see you!
+
+<fam><person>Bart</person></fam>: Oh, Dad, you’re finally home!
+
+<fam><person>Homer</person></fam>: What? Why? Oh, yeah. Hello, <person>Patty</person>. Hello, <person>Selma</person>. How was your trip?
+
+<person>Selma</person>: Fine.
+
+<fam><person>Homer</person></fam>: You both look well.
+
+<person>Patty</person>: Thank you.
+
+<fam><person>Homer</person></fam>: Yeah, well, Merry Christmas.
+
+<person>Selma</person>: It's Christmas? You wouldn't know it around here.
+
+<fam><person>Homer</person></fam>: And why is that?
+
+<person>Patty</person>: Well, for one thing, there's no tree.
+
+<fam><person>Homer</person></fam>: Well, I was just on my way out to get one!
+
+<fam><person>Lisa</person></fam>: Can we go too, Dad?
+
+<fam><person>Bart</person></fam>: Yeah, can we?
+
+<fam><person>Homer</person></fam>: No!
+
+<music>♪ Sleigh bells ring ♪</music>
+
+<music>♪ Are you listening ♪</music>
+
+<music>♪ In the lane ♪</music>
+
+<music>♪ Snow is glistening ♪</music>
+
+<music>♪ A beautiful sight ♪</music>
+
+<music>♪ We’re happy tonight ♪</music>
+
+<music>♪ Walking in a winter wonderland ♪♪</music>
+
+<stage>(chainsaw buzzing)</stage>
+
+Man: Hey, you! What do you think you're doin’?
+
+<fam><person>Homer</person></fam>: Uh-oh.
+
+Man: Hey! Hey! Come back here!
+
+<stage>(dogs barking, g*n)</stage>
+
+<fam><person>Homer</person></fam>: So what do you think, kids? Beauty, isn't it?
+
+<fam><person>Bart</person></fam>: Wow! Yay, Dad!
+
+<fam><person>Lisa</person></fam>: Way to go, Dad!
+
+<person>Selma</person>: Why is there a birdhouse in it?
+
+<fam><person>Homer</person></fam>: Uh, that's an ornament.
+
+<person>Patty</person>: <stage>(sniffs)</stage> Do I smell g*n powder?
+
+Boy: And then I want some Robotoids. And then I want a Goop Monster. And then I want I great big, giant-
+
+<fam><person>Homer</person></fam>: Aw, son, you don't need all that junk. I'm sure you’ve already got something much more important- a decent home and a loving father who would do anything for you. Hey, I couldn’t afford lunch. Give me a bite of that donut.
+
+<stage>(shutter clicks)</stage>
+
+<person>Milhouse</person>: Get a <location>load</location> of that quote-unquote Santa.
+
+Lewis: I can't believe those kids are falling for it.
+
+<fam><person>Bart</person></fam>: Hey, <person>Milhouse</person>, I dare you to sit on his lap.
+
+<person>Milhouse</person>: Oh, yeah? Well, I dare you to yank his beard off.
+
+<fam><person>Bart</person></fam>: Ah, touché.
+
+Girl: I hope you feel better, Santa.
+
+<fam><person>Homer</person></fam>: Oh, I will when Mrs. Claus' sisters get outta town. Thanks for listenin’, kid.
+
+<fam><person>Homer</person></fam>: <stage>(strains, gasps)</stage>
+
+<fam><person>Bart</person></fam>: Hey, Santa, what's shakin' man?
+
+<fam><person>Homer</person></fam>: What's your name <fam><person>Bart</person></fam>... ner? Uh, little partner?
+
+<fam><person>Bart</person></fam>: I'm <fam><person>Bart</person></fam> Simpson. Who the hell are you?
+
+<fam><person>Homer</person></fam>: I'm jolly Old <location>St. Nick</location>.
+
+<fam><person>Bart</person></fam>: Oh, yeah? We'll just see about that.
+
+<fam><person>Homer</person></fam>: <catchphrase>D'oh</catchphrase>!
+
+<stage>(shutter clicks)</stage>
+
+<fam><person>Bart</person></fam>: <fam><person>Homer</person></fam>!
+
+<fam><person>Homer</person></fam>: I want a word with you in Santa's workshop, little boy. Cover for me, Elfie.
+
+<fam><person>Bart</person></fam>: Don't k*ll me, Dad. I didn't know it was you.
+
+<fam><person>Homer</person></fam>: Nobody knows. It's a secret. I didn't get my bonus this year. But to keep the family from missing out on Christmas, I'd do anything.
+
+<fam><person>Bart</person></fam>: I'll say, Dad. You must really love us to sink so low.
+
+<fam><person>Homer</person></fam>: Now, let's not get mushy, son. I still have a job to do. Hey, little ones. Santa's back. Ho ho- <catchphrase>D'oh</catchphrase>! Damn it to- <stage>(groaning)</stage>
+
+<fam><person>Homer</person></fam>: Ah, son, one day you're gonna know the satisfaction of payday. Receiving a big fat check for a job well done.
+
+Cashier: Simpson, <fam><person>Homer</person></fam>? Here ya go.
+
+120 gross. Less Social Security.
+<fam><person>Homer</person></fam>: Yeah.
+
+Cashier: Less unemployment insurance.
+
+<fam><person>Homer</person></fam>: But.
+
+Cashier: Less Santa training-
+
+<fam><person>Homer</person></fam>: Santa training?
+
+Cashier: Less costume purchase.
+
+<fam><person>Homer</person></fam>: Wait a minute.
+
+Cashier: Less beard rental, less Christmas club.
+
+<fam><person>Homer</person></fam>: But- But-
+
+Cashier: See ya next year.
+
+<fam><person>Homer</person></fam>: Ohh!
+
+<fam><person>Bart</person></fam>: Come on, Dad. Let's go home.
+
+<fam><person>Homer</person></fam>: Thirteen bucks? You can't get anything for 13 bucks.
+
+<person>Barney</person>: All right! Thirteen big ones! <location>Springfield Downs</location>, here I come!
+
+<fam><person>Homer</person></fam>: What?
+
+<person>Barney</person>: You heard me. I'm goin’ to the dog track. I got a hot little puppy in the fourth race. Wanna come?
+
+<fam><person>Homer</person></fam>: Sorry, <person>Barney</person>. I may be a total washout as a father, but I'm not gonna take my kid to a sleazy dog track on Christmas Eve.
+
+<person>Barney</person>: Come on, Simpson. The dog's name is Whirlwind. Ten to one sh*t. Money in the bank.
+
+<fam><person>Homer</person></fam>: Uh-uh.
+
+<fam><person>Bart</person></fam>: Ah, come on, Dad. This can be the miracle that saves the Simpsons' Christmas. If TV has taught me anything, it's that miracles always happen to poor kids at Christmas. It happened to Tiny Tim, it happened to Charlie Brown, it happened to the Smurfs, and it’s gonna happen to us.
+
+<fam><person>Homer</person></fam>: Well, okay, let's go. Who's Tiny Tim?
+
+Bubbles <stage>(on TV)</stage>: Hey, Moldy, do you think Santa will be able to find <location>Elf County</location> under all this snow?
+
+Moldy: I doubt it, Bubbles. We'll be sad little elves this Christmas.
+
+<fam><person>Lisa</person></fam>: Oh, no!
+
+<fam>Grampa</fam>: Oh, brother.
+
+<person>Selma</person>: Where's your husband?
+
+<person>Patty</person>: Yeah, it's getting late.
+
+<fam><person>Marge</person></fam>: Said he went caroling with <fam><person>Bart</person></fam>.
+
+<fam><person>Bart</person></fam>/<person>Barney</person>: <music>♪ We're in the money ♪</music>
+
+<music>♪ We're in the money ♪</music>
+
+<music>♪ We got a lot of what it takes to get along ♪♪</music>
+
+<fam><person>Homer</person></fam>: I can't believe I'm doing this.
+
+Kid: Can we open our presents now, Dad?
+
+Father: You know the tradition, son. Not till the eighth race.
+
+<fam><person>Homer</person></fam>: Hey <person>Barney</person>, which one is Whirlwind?
+
+<person>Barney</person>: Number Six. That's our lucky dog right over there. He’s won his last five races.
+
+<fam><person>Homer</person></fam>: What? That scrawny little bag of bones?
+
+<fam><person>Bart</person></fam>: Come on, Dad. They're all scrawny little bags of bones.
+
+<fam><person>Homer</person></fam>: Yeah, you're right. <stage>(sighs)</stage> I guess Whirlwind is our only hope for a Merry Christmas.
+
+9:00.
+
+<person>Selma</person>: Where’s <fam><person>Homer</person></fam> anyway?
+
+<person>Patty</person>: It's so typical of the big doofus to spoil it all.
+
+<fam><person>Lisa</person></fam>: What, Aunt <person>Patty</person>?
+
+<person>Patty</person>: Oh, nothing, dear. I'm just trashing your father.
+
+<fam><person>Lisa</person></fam>: Well, I wish you wouldn't because aside from the fact that he has the same frailties as all human beings, he's the only father I have. Therefore, he is my model of manhood, and my estimation of him will govern the prospects of my adult relationships. So I hope you bear in mind that any knock at him is a knock at me, and I’m far too young to defend myself against such onslaughts.
+
+<person>Patty</person>: Mm-hmm. Go watch your cartoon show, dear.
+
+<fam><person>Homer</person></fam>: <stage>(kissing)</stage> Come on, <fam><person>Bart</person></fam>. Kiss the ticket for good luck, not that we need it. <stage>(laughing)</stage>
+
+<music>♪♪<stage>(‘Call To Post’)</stage></music>
+
+Announcer: Here comes Screwy the mechanical rabbit.
+
+<stage>(bell ringing)</stage>
+
+Announcer: And they're off! Around the first turn
+
+<fam><person>Homer</person></fam>: Come on, Santa’s Little Helper!
+
+<fam><person>Bart</person></fam>: Come on, dog! Go, man, go!
+
+8- I mean, <location>Santa's Little Helper</location>.
+
+<stage>(shutter clicks)</stage>
+
+All: <music>♪ Rudolph the red-nosed reindeer ♪</music>
+
+<music>♪ Had a very shiny nose ♪</music>
+
+<music>♪ And if you ever saw it ♪</music>
+
+<music>♪ You would even say it glows ♪</music>
+
+<fam><person>Bart</person></fam>: Like a light bulb!
+
+<fam><person>Homer</person></fam>: <fam><person>Bart</person></fam>!
+
+All: <music>♪ All of the other reindeer ♪</music>
+
+<music>♪ Used to laugh and call him names ♪</music>
+
+<fam><person>Lisa</person></fam>: Like Schnozzola!
+
+<fam><person>Homer</person></fam>: <fam><person>Lisa</person></fam>!
+
+All: <music>♪ They never let poor Rudolph ♪</music>
+
+<music>♪ Join in any reindeer games ♪</music>
+
+<fam><person>Bart</person></fam>: Like strip poker!
+
+<fam><person>Homer</person></fam>: I'm warning you two!
+
+All: <music>♪ Then one foggy Christmas Eve ♪</music>
+
+<music>♪ Santa came to say ♪</music>
+
+<fam><person>Marge</person></fam>: Take it, <fam><person>Homer</person></fam>!
+
+<fam><person>Homer</person></fam>: <music>♪ Uh, Rudolph, get your nose over here ♪</music>
+
+<music>♪ So you can guide my sleigh today ♪</music>
+
+<fam>Grampa</fam>: Oh, <fam><person>Homer</person></fam>.
+
+All: <music>♪ Then all the reindeer loved him ♪</music>
+
+<music>♪ And they shouted out with glee ♪</music>
+
+<music>♪ Rudolph the red-nosed reindeer ♪</music>
+
+<music>♪ You'll go down in history ♪</music>
+
+<fam><person>Bart</person></fam>: <music>♪ Like Attila the Hu- ♪♪</music>
+
+<fam><person>Homer</person></fam>: You little-
+
+<stage>(<fam><person>Bart</person></fam> gagging)</stage>
+
+<stage>(<fam><person>Homer</person></fam> growling)</stage>
+
+Submitted &amp; corrected by: Derek
+</txt></xml>

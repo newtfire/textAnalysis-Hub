@@ -1,0 +1,698 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt><metadata><ep><epTitle>There's No Disgrace Like Home</epTitle><szn>01</szn>x<epNum>04</epNum></ep><date>05/18/98</date> <runtime>05:25</runtime></metadata>
+
+<fam><person>Bart</person></fam>: Yeah.
+
+<fam><person>Lisa</person></fam>: Yeah.
+
+<fam><person>Bart</person></fam>: Oh, yeah?
+
+<fam><person>Lisa</person></fam>: Yeah!
+
+<fam><person>Bart</person></fam>: Oh, yeah?
+
+<fam><person>Lisa</person></fam>: Yeah.
+
+<fam><person>Bart</person></fam>: Oh, yeah?
+
+<fam><person>Lisa</person></fam>: Yeah!
+
+<fam><person>Homer</person></fam>: Hey, what’s the problem here?
+
+<fam><person>Lisa</person></fam>: We were fighting over which one of us loves you more.
+
+<fam><person>Homer</person></fam>: You were? <stage>(sniffles)</stage> Aw, well, go ahead.
+
+<fam><person>Bart</person></fam>: You love him more.
+
+<fam><person>Lisa</person></fam>: No, you do.
+
+<fam><person>Bart</person></fam>: No, I don’t.
+
+<fam><person>Lisa</person></fam>: Yes, you do!
+
+<fam><person>Bart</person></fam>: No, I don’t.
+
+<fam><person>Homer</person></fam>: Look, you better get this all out of your system right now! I don’t want you embarrassing me at my boss’s picnic. Mmm. Marshmallow. <stage>(belches)</stage>
+
+<fam><person>Marge</person></fam>: <fam><person>Homer</person></fam>!
+
+<fam><person>Homer</person></fam>: I’m trying to get at least some of the unfortunate noises out of my system while I can, <fam><person>Marge</person></fam>. I don’t want to embarrass myself at the company picnic.
+
+<fam><person>Marge</person></fam>: <stage>(disgruntled groan)</stage>
+
+<fam><person>Homer</person></fam>: Are you sure that’s enough? You know how the boss loves your delicious gelatin desserts.
+
+<fam><person>Marge</person></fam>: Oh, <fam><person>Homer</person></fam>, Mr. <person>Burns</person> just said he liked it… once.
+
+<fam><person>Homer</person></fam>: <fam><person>Marge</person></fam> 
+
+<fam><person>Homer</person></fam>: There it is, kids! Stately <person>Burns</person> Manor. Heaven on <location>Earth</location>. Okay, now look, my boss is gonna be at this picnic so I want you to show your father some love and/or respect.
+
+<fam><person>Lisa</person></fam>: Tough choice.
+
+<fam><person>Bart</person></fam>: I’m thinking respect.
+
+Mr. <person>Burns</person>: Good to see you. Glad you could make it.
+
+Man: Oh, thank you, Mr. <person>Burns</person>, I’m so glad you invited us.
+
+Tom: Not me. I had to miss little league for this.
+
+Man: Quiet, Tom.
+
+Mr. <person>Burns</person>: Oh, please, please don’t fight. Just go out back and have a good time. f*re that man, <person>Smithers</person>. I don’t want him or his unpleasant family to ruin my picnic.
+
+<person>Smithers</person>: He’ll be gone by the tug-of-w*r, sir.
+
+Mr. <person>Burns</person>: Excellent.
+
+<fam><person>Homer</person></fam>: Uh, afternoon, Mr. <person>Burns</person>.
+
+Mr. <person>Burns</person>: Hi. Hello, there, uh— uh—
+
+<fam><person>Homer</person></fam>: <stage>(whispering)</stage> Simpson, <fam><person>Homer</person></fam>.
+
+<person>Smithers</person>: Here you go, sir.
+
+Mr. <person>Burns</person>: Ah! Oh, yes. Uh, oh, and this must be your lovely wife, <fam><person>Marge</person></fam>. Oh, and look at little, uh, <fam><person>Lisa</person></fam>. Why she’s growing like a weed. And this must be, uh, Brat.
+
+<fam><person>Bart</person></fam>: <fam><person>Bart</person></fam>.
+
+<fam><person>Homer</person></fam>: Don’t correct the man, Brat. Oh, boss, look what we brought, gelatin desserts.
+
+Mr. <person>Burns</person>: Oh, for the love of Peter. That’s all anybody brought. Some damn fool went around telling everyone I love that slimy goop. Well, toss it in the pile over there. And… make yourselves at home.
+
+<fam><person>Bart</person></fam>: Hear that, Dad? You can lie around in your underwear and scratch yourself.
+
+<fam><person>Homer</person></fam>: Now, you listen to me!
+
+<fam><person>Bart</person></fam>: Whoa!
+
+Mr. <person>Burns</person>: Trouble, Simpson?
+
+<fam><person>Homer</person></fam>: No. <stage>(chuckles)</stage> Just congratulating the son on a fine joke about his old man.
+
+<fam><person>Homer</person></fam>: Now remember, as far as anyone knows, we’re a nice, normal family.
+
+<fam><person>Lisa</person></fam>: Hey, <fam><person>Bart</person></fam>, last one in the fountain’s a rotten egg!
+
+<fam><person>Bart</person></fam>: Hey!
+
+<fam><person>Homer</person></fam>: D’oh! Be normal! Be normal!
+
+<fam><person>Marge</person></fam>: What an adorable little girl.
+
+Woman: <stage>(chuckles)</stage> Thank you. Why don’t we dump them in the nursery and get a glass of punch?
+
+<fam><person>Marge</person></fam>: Oh, I’m not much of a drinker.
+
+Woman: Hey, isn’t that your boy there torturing the swans?
+
+<stage>(squawking)</stage>
+
+<fam><person>Homer</person></fam>: <fam><person>Bart</person></fam>!
+
+<fam><person>Marge</person></fam>: <stage>(groans)</stage> Maybe I will take you up on that punch.
+
+<fam><person>Marge</person></fam>: Gee, do you think we should leave the kids unsupervised?
+
+Woman: You’re right. There.
+
+<fam><person>Homer</person></fam>: <fam><person>Bart</person></fam>! <fam><person>Lisa</person></fam>! <stage>(mumbles)</stage>
+
+<stage>(squawking)</stage>
+
+<fam><person>Homer</person></fam>: Where are you, kids? Oh!
+
+<fam><person>Bart</person></fam>: Whoops.
+
+<fam><person>Homer</person></fam>: Got ya!
+
+<fam><person>Bart</person></fam>: Whoa, careful, Dad. Blow a gasket, you lose your job.
+
+<person>Smithers</person>: Now hear this: The father/son sack race will begin in five minutes on the north lawn. Participation is mandatory. Repeat, mandatory. That is all.
+
+<fam><person>Homer</person></fam>: You remember the rules from last year?
+
+<fam><person>Bart</person></fam>: Yeah. Shut my mouth, and let your boss win.
+
+<stage>(squawking)</stage>
+
+<fam><person>Bart</person></fam>: Hey!
+
+Woman 2: I don’t know who to love more: my son, Joshua, who’s captain of the football team; or my daughter, Amber, who got the <location>lead</location> in the school play. Usually, I use their grades as a tiebreaker, but they both got straight A’s this term, so… what’s a mother to do?
+
+<fam><person>Marge</person></fam>: Mm-hmm. Well, I sense greatness in my family.
+
+Woman: Your family?
+
+<fam><person>Marge</person></fam>: Well, it’s a greatness that others can’t see, but it’s there. And if it’s not true greatness we have, we’re at least average. I don’t want to alarm anyone, but I think there’s a little al-key-hol in this punch.
+
+<person>Smithers</person>: Mr. <person>Burns</person>, are you ready?
+
+Mr. <person>Burns</person>: Yes.
+
+<person>Smithers</person>: Are you set?
+
+Mr. <person>Burns</person>: Yes.
+
+<person>Smithers</person>: <stage>(whispering)</stage> Go, Mr. <person>Burns</person>.
+
+Mr. <person>Burns</person>: <stage>(grunting)</stage>
+
+<stage>(all cheering)</stage>
+
+<stage>(g*n)</stage>
+
+<fam><person>Bart</person></fam>: Man, this is pathetic. I’m goin’ for it!
+
+<fam><person>Homer</person></fam>: <fam><person>Bart</person></fam>, no! Oh, oh, oh. Oh, no, wait. Oh, no. <fam><person>Bart</person></fam>, don’t. Don’t. No!
+
+<stage>(all laughing, cheering)</stage>
+
+Mr. <person>Burns</person>: Close one this year. <stage>(sinister laugh)</stage>
+
+<fam><person>Marge</person></fam>: <music>♪ Here we sit enjoying the shade ♪</music>
+
+Women: <music>♪ Hey, brother, pour on the wine ♪</music>
+
+<fam><person>Marge</person></fam>: <music>♪ Drink the drink that I have made ♪</music>
+
+Women: <music>♪ Hey, brother, pour on the wine ♪</music>
+
+<fam><person>Marge</person></fam>: <music>♪ He’s here at last my one and only ♪</music>
+
+<music>♪ Good-bye friends and don’t be lonely ♪</music>
+
+Women: <music>♪ Hey, brother, pour on the wine ♪ ♪</music>
+
+<fam><person>Homer</person></fam>: <fam><person>Marge</person></fam>, I need you!
+
+<fam><person>Marge</person></fam>: Hey, <fam>Homie</fam>! Did you try the punch?
+
+<fam><person>Homer</person></fam>: Snap out of it, <fam><person>Marge</person></fam>. You’ve gotta come with me. The boss is going to make a toast.
+
+<fam><person>Marge</person></fam>: Well, I’m not much of a drinker.
+
+<fam><person>Homer</person></fam>: Why you picked the perfect time to start. You…
+
+Mr. <person>Burns</person>: Musicians, cease that infernal tootling. Thank you all… uh, for coming.
+
+<stage>(applause)</stage>
+
+<fam><person>Homer</person></fam>: <fam><person>Marge</person></fam>, knock it off.
+
+<fam><person>Marge</person></fam>: <stage>(scoffs)</stage> Well, I’m sorry. I’m sorry. I’m sorry.
+
+<fam><person>Homer</person></fam>: <fam><person>Marge</person></fam>!
+
+Mr. <person>Burns</person>: But now it’s time to say goodbye. Please, get off my property until next year. I suggest you don’t dawdle. The hounds will be released in ten minutes.
+
+<stage>(applause)</stage>
+
+Man 2: Did you have a good time, son?
+
+Man 2’s son: Yeah, thanks, Pop.
+
+Mr. <person>Burns</person>: Aw, that’s the kind of family unity I like to see. <person>Smithers</person>!
+
+<person>Smithers</person>: Yes, sir?
+
+Mr. <person>Burns</person>: Get that man’s name. I predict big things for him down at the power plant.
+
+<fam><person>Homer</person></fam>: Quick, <fam><person>Bart</person></fam>, give me a kiss.
+
+<fam><person>Bart</person></fam>: Kiss you? But, Dad, I’m your kid.
+
+<fam><person>Homer</person></fam>: <fam><person>Bart</person></fam>, please? Five bucks for a kiss.
+
+Mr. <person>Burns</person>: <stage>(scoffs)</stage> I have never seen such an obvious attempt to curry my favor.
+
+<person>Smithers</person>: Fabulous observation, sir. Just fabulous.
+
+<stage>(<fam><person>Marge</person></fam> humming)</stage>
+
+<fam><person>Homer</person></fam>: Boy, I’m glad that’s over. Now we can go home and act normal again.
+
+Man 2: What do you mean?
+
+<fam><person>Homer</person></fam>: Aw, come on. <stage>(kissing)</stage> That cornball routine. “I love you, Dadd Give me a break.
+
+Man 2: I pity you.
+
+<fam><person>Homer</person></fam>: Why?
+
+Man 2’s son: After you.
+
+Man 2’s daughter: Well, thank you so much.
+
+<fam><person>Lisa</person></fam>: Me first!
+
+<fam><person>Bart</person></fam>: No, me.
+
+<fam><person>Lisa</person></fam>: No, me.
+
+<fam><person>Bart</person></fam>: No, me.
+
+<fam><person>Lisa</person></fam>: Me.
+
+<fam><person>Bart</person></fam>: Me.
+
+<fam><person>Lisa</person></fam>: Me.
+
+<fam><person>Bart</person></fam>: Me.
+
+Man 2’s wife: Honey, you look so tired. Would you like me to drive?
+
+<fam><person>Marge</person></fam>: Oh, <fam>Homie</fam>, I think I’m going to be sick.
+
+Family: <music>♪ There was a farmer had a dog ♪</music>
+
+<music>♪ And Bingo was his name, oh ♪</music>
+
+<music>♪ B-i-n-g-o B-i-n-g-o ♪</music>
+
+<music>♪ B-i-n-g-o and Bingo was his name, oh ♪ ♪</music>
+
+<fam><person>Marge</person></fam>: <fam>Homie</fam>, get in the car.
+
+<fam><person>Lisa</person></fam>: This is where you belong.
+
+<fam><person>Bart</person></fam>: Yeah, <fam><person>Homer</person></fam>. Room for one more.
+
+All: <stage>(chanting)</stage> One of us. One of us. One of us. One of us. <stage>(all laughing sinisterly)</stage>
+
+Family: <music>♪ B-i-n-g-o B-i-n-g-o B-i-n-g-o ♪ ♪</music>
+
+<fam><person>Homer</person></fam>: <stage>(sighs)</stage>
+
+<stage>(squawking)</stage>
+
+TV: The father of the family has worked all day to find this food for his children. Unable to fend for themselves, the baby bald eaglets are dependent on their mother regurgitating the food which he has found.
+
+<fam><person>Bart</person></fam>, <fam><person>Lisa</person></fam>, &amp; <fam><person>Marge</person></fam>: Hey!
+
+<fam><person>Homer</person></fam>: Look, everybody. Yesterday was a real eye-opener. We’ve got to do better as a family. So tonight, we’re not going to shovel food in our mouths while we stare at the TV. We’re going to eat at the dining room table like a normal family.
+
+<fam><person>Lisa</person></fam>: Happy, Dad?
+
+<fam><person>Homer</person></fam>: Yes.
+
+<fam><person>Lisa</person></fam>: Good. Commence shoveling.
+
+<fam><person>Homer</person></fam>: No. We’re going to say grace first.
+
+<fam><person>Bart</person></fam>: Okay. Rub-a-dub-dub, thanks for the grub.
+
+<fam><person>Homer</person></fam>: <stage>(groaning)</stage> No! Ignore the boy, Lord. Now, can the chatter, and bow your heads. <stage>(clears throat)</stage> Dear Lord, thank you for this microwave bounty, even though we don’t deserve it. I mean, our kids are uncontrollable hellions. Pardon my French, but they act like savages. Did you see them at the picnic? Oh, of course, you did. You’re everywhere. You’ why did you smite me with this family?
+
+<fam><person>Bart</person></fam>, <fam><person>Lisa</person></fam>, &amp; <fam><person>Marge</person></fam>: Amen!
+
+<fam><person>Bart</person></fam>:  eat.
+
+<fam><person>Homer</person></fam>: No, m not done yet!
+
+<fam><person>Marge</person></fam>: But <fam><person>Homer</person></fam>, how long are we supposed to sit here and listen to you bad-mouth us to the man upstairs?
+
+<fam><person>Homer</person></fam>: I’m sorry, <fam><person>Marge</person></fam>, but sometimes I think we’re the worst family in town.
+
+<fam><person>Marge</person></fam>: Maybe we should move to a larger community.
+
+<fam><person>Homer</person></fam>: Oh!
+
+<fam><person>Bart</person></fam>: Don’t have a cow, Dad.
+
+<fam><person>Lisa</person></fam>: The sad truth is, all families are like us.
+
+<fam><person>Homer</person></fam>: You think so, huh? Well, thes only one way to find out. Follow me.
+
+<fam><person>Homer</person></fam>: Look at that, kids. No fighting. No yelling.
+
+<fam><person>Lisa</person></fam>: No belching. The dad has his shirt on.
+
+<fam><person>Marge</person></fam>: Look, napkins!
+
+<fam><person>Bart</person></fam>: These people are obviously freaks.
+
+<fam><person>Homer</person></fam>: Oh, you think so? Well, lets behind for number two.
+
+<fam><person>Lisa</person></fam>: What are they doing?
+
+<fam><person>Marge</person></fam>: They’re having a conversation. They actually enjoy talking to each other.
+
+<fam><person>Homer</person></fam>: I wish I could hear what re saying.
+
+Boy: Papa, I believe I heard some rustling in the bushes.
+
+Boy’s Father: Hmm. I did too. Better get the g*n.
+
+<fam><person>Lisa</person></fam>: Where’s he going?
+
+<fam><person>Homer</person></fam>: Probably to get the old man his pipe and slippers.
+
+<stage>(g*n cocking)</stage>
+
+<stage>(all yelling)</stage>
+
+<stage>(g*n)</stage>
+
+<stage>(all screaming)</stage>
+
+<stage>(all sighing)</stage>
+
+<fam><person>Bart</person></fam>: Whoa, look at this place. What a dump!
+
+<fam><person>Homer</person></fam>: Is worse than you think. <stage>(chuckling)</stage> I just trampled this poor ss flower bed.
+
+<fam><person>Marge</person></fam>: <fam><person>Homer</person></fam>, this is our house.
+
+<fam><person>Homer</person></fam>: <stage>(screams)</stage>
+
+<fam><person>Marge</person></fam>: Are you coming in, <fam><person>Homer</person></fam>?
+
+<fam><person>Homer</person></fam>: No, no. <stage>(sighs)</stage> I wanna be alone with my thought.
+
+<stage>(door closes)</stage>
+
+Man on TV: Fans are getting just a little bit anxious here.
+
+<fam><person>Homer</person></fam>: Another beer, <person>Moe</person>.
+
+<person>Moe</person>: What’s a matter, <fam><person>Homer</person></fam>? Bloodiest fight of the year. itting there like a thirsty bump on a log. <person>Eddie</person>.
+
+<person>Eddie</person>: Evening, <person>Moe</person>.
+
+<person>Moe</person>: Want some pretzels?
+
+<person>Eddie</person>: <stage>(chuckles)</stage> No, thanks. We’re on duty. A couple beers would be nice, though.
+
+<person>Moe</person>: That’ll be two bucks, boys. Just kidding. <stage>(chuckling)</stage>
+
+<person>Lou</person>: Good one, <person>Moe</person>. Listen, we’re looking for a family of Peeping Toms w been terrorizing the neighborhood. Quiet, boy. Let the nice people enjoy their beers.
+
+<stage>(growling)</stage>
+
+<person>Lou</person>: Ah, don’t worry. This dog has the scent.
+
+<person>Eddie</person>: Hey. What’s gotten into Bobo?
+
+<fam><person>Homer</person></fam>: I got some wieners in my pocket.
+
+<person>Eddie</person>: That figures. Come on, you stupid dog.
+
+<stage>(growling)</stage>
+
+<fam><person>Homer</person></fam>: You know, <person>Moe</person>, my mom once said something that really stuck with me. She said, e a big disappointment.od bless her soul, she was really on to something.
+
+<person>Barney</person>: Don’t blame yourself, <fam><person>Homer</person></fam>. You got dealt a bad hand. You got crummy little kids that nobody can control.
+
+<fam><person>Homer</person></fam>: You cantalk that way about my kids! Or at least two of them.
+
+<person>Barney</person>: Why you got two I havet met?
+
+<fam><person>Homer</person></fam>: Why you— Herfive you haveet.
+
+Man on TV: A tremendous right. That’s just gotta hurt. Ladies and gentlemen, this fight is over!
+
+<stage>(all cheering)</stage>
+
+Man on TV: r Boxinis brought to you by… Dr. Marvin Mons <location>Family Therapy Center</location>.
+
+<fam><person>Homer</person></fam>: Huh? What?
+
+Wife on TV: Honey, ing to work today?
+
+Husband on TV: Oh, I don’t think so.Wife on TV: Honey, you have a problem, and it wt get better till you admit it.
+
+Husband on TV: I admit this: You better shut your big yap.
+
+Wife on TV: Oh, you shut up.
+
+Husband on TV: No, you shut up!
+
+Wife on TV: No, you shut up!
+
+Husband on TV: Oh, shut up.
+
+Wife on TV: No, you shut up!
+
+Husband on TV: Shut up!
+
+Wife on TV: Shut up!
+
+Son on TV: Why doyou both shut up?!
+
+Dr. Monroe: Hi, friends. I Marvin Monroe. Does this scene look familiar? If so, I can help. No gimmicks. No pills. No fad diets. Just family bliss, or double your money back. So call today.
+
+Man on TV: Dr. Marvin Monroe’s <location>Family Therapy Center</location>. 1-800-555-HUGS. Why dont you call right now?
+
+<fam><person>Homer</person></fam>: When will I learn? The answer to life’s problems aren’t at the bottom of a bottle. <stage>(chuckling)</stage> The
+<stage>(touch tones)</stage>
+
+<person>Scratchy</person>: <stage>(screaming)</stage>
+
+<fam><person>Bart</person></fam> &amp; <fam><person>Lisa</person></fam>: <stage>(laughing)</stage>
+
+<fam><person>Homer</person></fam>: All right, time for a family meeting.
+
+<fam><person>Lisa</person></fam>: Why can’t we have a meeting when yore watching TV?
+
+<fam><person>Homer</person></fam>: Now look, you know and I know this family needs help, professional help. So I made us an appointment with Dr. Marvin Monroe.
+
+<fam><person>Bart</person></fam>: The fat guy on TV?
+
+<fam><person>Lisa</person></fam>: You’re sending us to a doctor who advertises on pro wrestling?
+
+<fam><person>Homer</person></fam>: Boxing, <fam><person>Lisa</person></fam>, boxing. The a world of difference.
+
+<fam><person>Marge</person></fam>: Gee, <fam><person>Homer</person></fam>, are you sure this is the right thing to do?
+
+<fam><person>Homer</person></fam>: Honey, Iven this matter a lot of study, and of all the commercials I saw, his was the best. All it costs is $250.
+
+<fam><person>Marge</person></fam>: We dhave that kind of money.
+
+<fam><person>Homer</person></fam>: Well, then, west going to have to dig deep. <fam><person>Marge</person></fam>, go get the kids’ college fund.
+
+<fam><person>Lisa</person></fam>: Hey!
+
+<fam><person>Marge</person></fam>: Oh, <fam><person>Homer</person></fam>.
+
+<fam><person>Homer</person></fam>: Oh, come on, <fam><person>Marge</person></fam>. Why scrimp now on the off-chance that they’ll actually get in some place?
+
+<fam><person>Marge</person></fam>: Forty-eight. Forty-nine. Fifty. Eighty-eight dollars and fifty cents.
+
+<fam><person>Homer</person></fam>: That’s it? That’s the college fund we’ve been saving for all these years?
+
+<fam><person>Lisa</person></fam>: I guess I’d have needed a partial scholarship.
+
+<fam><person>Homer</person></fam>: Well, we
+<fam><person>Lisa</person></fam>: No, Dad. Please, don’t pawn the TV.
+
+<fam><person>Bart</person></fam>: Oh, come on, Dad, anything but that.
+
+<fam><person>Marge</person></fam>: <fam><person>Homer</person></fam>, couldn’t we pawn my engagement ring instead?
+
+<fam><person>Homer</person></fam>: Now, I appreciate that honey, but we need $150 here!
+
+Pawn store cashier: Afternoon, Simpson. So what can I do for ya?
+
+<fam><person>Homer</person></fam>: Would you pay $150 for this lovely Motorola?
+
+Pawn store cashier: Is it cable-ready?
+
+<fam><person>Homer</person></fam>: Ready as she’ll ever be.
+
+Pawn store cashier: Mister, you got yourself a deal.
+
+<music>♪ ♪ <stage>(Muzak)</stage></music>
+
+<fam><person>Marge</person></fam>: All our money, the college funds, the TV. <fam><person>Homer</person></fam>, you’re driving a stake through the hearts of those who love you.
+
+<fam><person>Homer</person></fam>: Hey, no pain, no gain.
+
+Receptionist: Will you be paying by cash or check?
+
+<fam><person>Homer</person></fam>: Cash, of course. I’ve got $250 right here with me. I’m holding it right now. Here it is. Look. Check it out, 250 big ones.
+
+<fam><person>Bart</person></fam>: If you really want to impress her, show her the big, empty space where our TV used to be.
+
+<fam><person>Homer</person></fam>: <fam><person>Bart</person></fam>!
+
+Man: Come on, family. Let’s go celebrate our newfound ability to express love for each other. I’m taking you out for frosty chocolate milkshakes.
+
+Man’s kids: Yay!
+
+<fam><person>Lisa</person></fam>: <stage>(sighs)</stage> There go my young-girl dreams of <location>Vassar</location>.
+
+Dr. Monroe: Hello, I’m Dr. Marvin Monroe. No doubt you recognize me from TV.
+
+<fam><person>Lisa</person></fam>: We would if we had one.
+
+<fam><person>Homer</person></fam>: <fam><person>Lisa</person></fam>!
+
+Dr. Monroe: No, no, <fam><person>Homer</person></fam>, don’t stifle the youngster. Your family must feel free to express itself. That’s what these pads and jumbo markers are for. I want you to draw for me your fears, your anxieties, the roots of your unhappiness. Now, take a deep, cleansing breath.
+
+Simpsons: <stage>(inhaling, exhaling)</stage>
+
+Dr. Monroe: And begin.
+
+<fam><person>Homer</person></fam>: <stage>(humming)</stage>
+
+Dr. Monroe: Mm-hmm. Uh-huh. No surprises here. <fam><person>Homer</person></fam>?
+
+<fam><person>Homer</person></fam>: <stage>(humming continues)</stage>
+
+Dr. Monroe: <fam><person>Homer</person></fam>, what have you got for us?
+
+<fam><person>Homer</person></fam>: <stage>(humming continues)</stage>
+
+Dr. Monroe: <fam><person>Homer</person></fam>?
+
+<fam><person>Homer</person></fam>: Oops, sorry. I wasn’t paying attention.
+
+Dr. Monroe: Well, if you had been paying attention, perhaps you would have noticed that your family sees you as a rather stern authority figure, an ogre if you will.
+
+<fam><person>Marge</person></fam>: Now, Doctor, that’s not true.
+
+<fam><person>Lisa</person></fam>: Ogre is such a strong word.
+
+<fam><person>Bart</person></fam>: Right on, Doc! Another successful diagnosis.
+
+<fam><person>Homer</person></fam>: That does it!
+
+Dr. Monroe: Wow! <stage>(chuckles)</stage> Okay, you wanna k*ll each other. That’s good. That’s healthy. There’s nothing necessarily wrong with hostile conflict. All I ask is that you use my patented aggression therapy mallets.
+
+<fam><person>Homer</person></fam>: Good idea.
+
+<fam><person>Bart</person></fam>: All right.
+
+<fam><person>Marge</person></fam>: I don’t know.
+
+Dr. Monroe: Okay. Let’s take another deep, cleansing breath.
+
+Simpsons: <stage>(inhaling)</stage> <stage>(all grunting)</stage>
+
+<fam><person>Homer</person></fam>: Wait a minute. These mallet things are padded with foam rubber. What’s the point?
+
+<fam><person>Bart</person></fam>: They’d work much better without the padding, Doc.
+
+Dr. Monroe: No, no. That’s not true.
+
+<fam><person>Bart</person></fam>: <stage>(grunts)</stage>
+
+Dr. Monroe: Ah!
+
+<fam><person>Bart</person></fam>: See?
+
+Dr. Monroe: Give me that. Yes, well, that concludes this portion of our treatment.
+
+<fam><person>Marge</person></fam>: Are we cured yet?
+
+Dr. Monroe: <stage>(scoffs)</stage> Don’t be ridiculous. You will be cured, but it’s going to require somewhat more unorthodox methods.
+
+<fam><person>Homer</person></fam>: Unortho what?
+
+Dr. Monroe: Don’t worry. I’ll have plenty of time to explain while I warm up the… electric generator.
+
+Dr. Monroe: Everyone comfy?
+
+<stage>(chuckles)</stage> Good. Now, don’t touch any of those buttons in front of you for a very important reason, i.e., you are wired into the rest of your family. You have the ability to shock them, and they have the ability to shock—
+
+<stage>(electronic buzz)</stage>
+
+<fam><person>Homer</person></fam>: <stage>(screaming)</stage>
+
+<fam><person>Bart</person></fam>: Just testing.
+
+<fam><person>Homer</person></fam>: Why you—
+
+Dr. Monroe: No, <fam><person>Homer</person></fam>, not yet.
+
+<fam><person>Homer</person></fam>: Aw.
+
+Dr. Monroe: You see, this is what is known as aversion therapy. When someone hurts you emotionally, you will hurt them physically. And gradually you will learn not to hurt each other at all. And won’t that be wonderful, <fam><person>Homer</person></fam>?
+
+<fam><person>Homer</person></fam>: Oh, yes, Doctor.
+
+<stage>(buzzing)</stage>
+
+<fam><person>Bart</person></fam>: Whoa!
+
+<stage>(buzzing)</stage>
+
+<fam><person>Lisa</person></fam>: Ah!
+
+<fam><person>Marge</person></fam>: <fam><person>Bart</person></fam>, how could you shock your little sister?
+
+<fam><person>Bart</person></fam>: My finger slipped. <stage>(screams)</stage>
+
+<fam><person>Lisa</person></fam>: So did mine.
+
+<stage>(buzz)</stage>
+
+<fam><person>Lisa</person></fam>: <stage>(screams)</stage>
+
+<fam><person>Bart</person></fam>: <stage>(screams)</stage>
+
+<fam><person>Marge</person></fam>: <fam><person>Bart</person></fam>, <fam><person>Lisa</person></fam>, stop that.
+
+<stage>(buzzing)</stage>
+
+<stage>(screaming, buzzing continue)</stage>
+
+Dr. Monroe: No, no. Now, wait a minute. Wait! Wait! Folks, if I could— This is not the way to get healthy!
+
+<stage>(screaming, buzzing continue)</stage>
+
+Dr. Monroe: No! You’ve got to understand something! <stage>(yelling)</stage>
+
+<music>♪ ♪ <stage>(music distorts)</stage></music>
+
+Dr. Monroe: People, please!
+
+<stage>(buzzing)</stage>
+
+<stage>(all screaming)</stage>
+
+<person>Smithers</person>: Boy. Someone’s really gobbling up the juice, sir.
+
+Mr. <person>Burns</person>: Excellent. Excellent. Perhaps this energy conservation fad is as d*ad as the dodo.
+
+<stage>(screaming, buzzing continue)</stage>
+
+Dr. Monroe: No, no!
+
+Receptionist: Dr. Monroe, your other patients have fled the building.
+
+Dr. Monroe: Stop! Stop! You’re damaging the equipment.
+
+<stage>(electronic sizzle, hum)</stage>
+
+<fam><person>Bart</person></fam>: Hey. Nice hair, mom.
+
+<fam><person>Marge</person></fam>: Gee, I thought we were making real progress.
+
+Dr. Monroe: No, I’m sorry, you’re not! Please, you’ve just got to go.
+
+<fam><person>Homer</person></fam>: Wait a minute, Doc. Your TV commercial said, “Family bliss or double our money bac
+
+Dr. Monroe: Oh, but that was just— All right. <stage>(whispers)</stage> Get the money.
+
+Dr. Monroe: 20, 40, 60, 80, 100. 20, 40, 60, 80, 200. 20, 40, 60, 80, 300. 20, 40, 60, 80, 400. 20, 40, 60, 80, 500. Just go, and never tell anyone you were here!
+
+<fam><person>Homer</person></fam>: Wow, 500 smackers.
+
+<fam><person>Marge</person></fam>: <fam><person>Homer</person></fam>, how wonderful, our first pleasant surprise.
+
+<fam><person>Lisa</person></fam>: It’s not the money, as much as the feeling that we earned it.
+
+<fam><person>Bart</person></fam>: You did it, Dad.
+
+<fam><person>Marge</person></fam>: Excuse me, dear. Shouldn’t we be heading down to the pawn shop to get our TV back?
+
+<fam><person>Homer</person></fam>: That piece of junk? Forget it. We’re gonna get a new TV. Twenty-one-inch screen, realistic flesh tones, and a little cart so we can wheel it into the dining room on holidays.
+
+<fam><person>Bart</person></fam> &amp; <fam><person>Lisa</person></fam>: Yay!
+
+<fam><person>Marge</person></fam>: Oh, <fam><person>Homer</person></fam>, we love you.</txt></xml>

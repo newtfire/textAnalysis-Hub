@@ -1,0 +1,941 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt>
+<metadata><ep><epTitle><fam><person>Bart</person></fam> the General</epTitle><szn>01</szn>x<epNum>05</epNum></ep>
+<date>05/18/98</date> <runtime>16:53</runtime></metadata>
+
+Inside, <person>HOMER</person> opens an oven.
+
+<stage><person>HOMER</person></stage>Do I smell cupcakes?  Ooh, do I ever!
+
+<stage><person>MARGE</person></stage>Uh-uh, <fam><person>Homer</person></fam>.  <fam><person>Lisa</person></fam>'s making these for her teacher.
+
+<stage><person>HOMER</person></stage>Ah.  Say no more.
+
+He closes it and seconds later <fam><person>Bart</person></fam> opens it.
+
+<stage><person>BART</person></stage>Yum!  Don't mind if I do!
+
+<stage><person>HOMER</person></stage><fam><person>Bart</person></fam>!
+
+<fam><person>Homer</person></fam> drags him back into the kitchen.
+
+<stage><person>BART</person></stage>Oh, man!
+
+<stage><person>LISA</person></stage>Keep your greasy mitts outta there.
+
+<stage><person>MARGE</person></stage>These are for <fam><person>Lisa</person></fam>'s class.
+
+<stage><person>LISA</person></stage>It's Mrs. Hoover's birthday.
+
+<stage><person>BART</person></stage>You know, there are names for people like you.
+
+<stage><person>LISA</person></stage>No, there aren't.
+
+<stage><person>BART</person></stage>Teacher's pet, apple polisher, butt kisser--
+
+<stage><person>HOMER</person></stage><fam><person>Bart</person></fam>!  You're saying "butt kisser" like it's a bad thing.
+
+<stage><person>BART</person></stage>Huh?
+
+<fam><person>Homer</person></fam> taps his jeans and <fam><person>Bart</person></fam> moves to sit on his lap.
+
+<stage><person>HOMER</person></stage>Well, you see, boy, it never hurts to grease the wheels a little.
+
+<stage><person>LISA</person></stage>I'm not greasing the wheels, Dad.  I like my teacher.
+
+<stage><person>HOMER</person></stage>Sure, <fam>Lis</fam>.  You see how it works, <fam><person>Bart</person></fam>?  A cupcake here, a good grade here.
+
+<stage><person>LISA</person></stage>Dad, I get good grades 'cause I'm smart and I pay attention and I study hard.
+
+<stage><person>HOMER</person></stage>Yeah right, <fam><person>Lisa</person></fam>.  It's the three roads to success, <fam><person>Bart</person></fam>: work, brains, and hmm--
+
+He lifts up a cupcake.
+
+<stage><person>LISA</person></stage>Oh, brother.
+
+There is a loud honking outside.
+
+<stage><person>BART</person></stage>Uh-oh, school bus!  Gotta go.
+
+<stage><person>HOMER</person></stage>Heh-heh-heh.
+
+As he is about to shove the cupcake into his mouth, <fam><person>Lisa</person></fam> reaches over and grabs it from him.
+
+<stage><person>HOMER</person></stage><catchphrase>Doh</catchphrase>!
+
+<stage>CUT TO</stage>
+
+<fam><person>Bart</person></fam> and <fam><person>Lisa</person></fam> make their way onto the bus.  OTTO listens to music.
+
+<stage><person>BART</person></stage>Yo, Ottoman!
+
+<stage>OTTO</stage>Yo, Bartdude!
+
+<stage><person>BART</person></stage>Hey, can you believe it man?  My sister here made a whole pile of cupcakes to butter up her teacher, and she won't give anybody else even one measly little crumb.
+
+<stage>OTTO</stage>Huh, that's bad news, man.
+
+<stage><person>LISA</person></stage>Here, Otto.  I made an extra one for you.
+
+<stage>OTTO</stage>Oh, thanks, little lady.
+
+<stage><person>LISA</person></stage>You're welcome.
+
+<fam><person>Bart</person></fam> and <fam><person>Lisa</person></fam> sit together in one seat.  The engine rumbles and everybody jumps around.
+
+<stage>STUDENTS</stage>Whoa!
+
+<stage><person>BART</person></stage>Better let me hold these, <fam>Lis</fam>.
+
+He grabs for the box of cupcakes.
+
+<stage><person>LISA</person></stage>Forger it.
+
+She snatches it back.
+
+<stage><person>BART</person></stage>You sniveling toad!  You little egg sucker!
+
+<stage><person>LISA</person></stage>Tell me more.
+
+<stage><person>BART</person></stage>Back-scratcher!  Foot-licker!  Honor student!
+
+<stage><person>LISA</person></stage>You'll never get one now, Mr. Name-caller.
+
+<stage><person>BART</person></stage>All, all right.  Look, I'm sorry.  I got upset.  In the heat of the moment, I said some things I didn't mean.
+
+<stage><person>LISA</person></stage>You weren't thinking, were you?
+
+<stage><person>BART</person></stage>No.
+
+<stage><person>LISA</person></stage>I'm not a sniveling toad, am I?
+
+<stage><person>BART</person></stage>Not really.
+
+<stage><person>LISA</person></stage>I'm not a little egg sucker, am I?
+
+<stage><person>BART</person></stage>Of course not.
+
+<stage><person>LISA</person></stage>Then what am I?
+
+<stage><person>BART</person></stage>A beautiful human being.
+
+<stage><person>LISA</person></stage>What do you like best about me?
+
+<stage><person>BART</person></stage>Well, I'd have to say your generous nature, your spirit of giving.
+
+<stage><person>LISA</person></stage>Well, open your mouth and close your eyes, and you will get a big surprise.
+
+<fam><person>Bart</person></fam> does as instructed.  As he does, <fam><person>Lisa</person></fam> moves quickly from her seat.  She drops a cupcake and then grabs it from the floor.  She pushes it into <fam><person>Bart</person></fam>'s mouth.
+
+<stage><person>BART</person></stage>Thanks, <fam>Lis</fam>.  You're the best.
+
+<stage>DISSOLVE TO</stage>
+
+The front yard of school, where students talk.  <fam><person>Lisa</person></fam> talks with her friend JANEY.
+
+<stage><person>LISA</person></stage>Look, Janey, cupcakes.
+
+As she hands over the box, a BULLY comes in and snatches it up.
+
+<stage>BULLY</stage>Ah, give me that!
+
+<stage><person>LISA</person></stage>Hey, give those back!
+
+The bully takes a bite out of every cupcake and throws them away.  <fam><person>Bart</person></fam> runs over, his fist high in the air.
+
+<stage><person>BART</person></stage>Hey, what's the big idea?  That's my sister, man.
+
+<stage>BULLY</stage>So what?
+
+<stage><person>BART</person></stage>So give her back those cupcakes before I knock your block off.
+
+<stage><person>LISA</person></stage>Don't, <fam><person>Bart</person></fam>!  He's a friend of <person>Nelson</person> Muntz!
+
+The bully drops the box of cupcakes and stomps on it.  <fam><person>Bart</person></fam> and the bully lock eyes.
+
+<stage><person>BART</person></stage>Ooh!
+
+He leaps into the air and brings the bully down to the ground.  They fight before a hand reaches and takes <fam><person>Bart</person></fam> off.  The hand of <person>NELSON</person> MUNTZ.  <fam><person>Bart</person></fam> swings blindly in all directions.
+
+<stage><person>BART</person></stage>Ah-ah-ah-ah-ah!
+
+<person>Nelson</person> throws <fam><person>Bart</person></fam> to the ground.
+
+<stage><person>BART</person></stage>Wha?
+
+<stage>BULLY</stage><person>Nelson</person>, you're bleeding!
+
+A small trickle of b lood comes out of <person>Nelson</person>'s nose.
+
+<stage><person>NELSON</person></stage>Nah, happens all the time.  Somebody else's blood splatters on me.  Hey, wait a minute.  You're right!  You made me bleed my own blood!
+
+The students gasp.
+
+<stage><person>BART</person></stage>It was an accident, man.  A terrible, ghastly mistake.  Ask anybody.
+
+The wind blows.  Everyone is silent.
+
+<stage><person>BART</person></stage>Uh-oh.  A cold wind.
+
+PRINCIPAL <person>SKINNER</person> suddenly arrives.
+
+<stage><person>SKINNER</person></stage>Hello kids, everything above the board here?  Good, play friendly, children.
+
+The bell rings.
+
+<stage><person>SKINNER</person></stage>Uh-oh, there's your bell.  Come along, now, all of you.  No dawdling, now.
+
+<stage><person>NELSON</person></stage>I'll get you after school, man.
+
+<stage><person>BART</person></stage>But--
+
+<stage><person>SKINNER</person></stage>Oh, no, no, no.  He'll get you after school, son.  Now, hurry up.  It's time for class.
+
+<stage><person>BART</person></stage>But--
+
+<stage><person>SKINNER</person></stage>Scoot, young Simpson.  There's learning afoot.
+
+<fam><person>Bart</person></fam> slowly walks into the school.
+
+<stage>DISSOLVE TO</stage>
+
+A classroom.  Various students have their books open.  <fam><person>Bart</person></fam> sits thinking.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Bart</person></fam>'s dream.  <fam><person>Bart</person></fam> stands, his fists in front of him on the playground.
+
+<stage><person>BART</person></stage>Okay, <person>Nelson</person>, put up your dukes!
+
+A big shadow looms over <fam><person>Bart</person></fam>.
+
+<stage><person>BART</person></stage>Aaa!
+
+3:15.
+
+<stage>BULLY</stage>And you better be prompt.
+
+<stage>OTHER BULLY</stage>He has four other beatings scheduled this afternoon.
+
+<stage>DISSOLVE TO</stage>
+
+Back in the classroom.  Everybody works while <fam><person>Bart</person></fam> dreams away again.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Bart</person></fam>'s dream.  He lies in a open casket, d*ad.
+
+Otto walks bye, weeping.
+
+<stage>OTTO</stage>Good-bye, little dude.  He looks so lifelife, man.
+
+<stage><person>SKINNER</person></stage>Yes.  The school nurse did a wonderful job reconstructing his little face after the fight.
+
+Otto goes away as he listens to music.
+
+<stage><person>SKINNER</person></stage>Good-bye, son.  I guess you were right.  All that homework was a waste of your time.
+
+<person>Skinner</person> leaves and <person>Milhouse</person> arrives.
+
+<stage><person>MILHOUSE</person></stage>Thanks, <fam><person>Bart</person></fam>.  We got the day off from school for this.
+
+<person>Milhouse</person> leaves and <fam><person>Homer</person></fam> and the family arrive.
+
+<stage><person>HOMER</person></stage>Yeah, and I got the day off from work!
+
+<stage><person>MARGE</person></stage><fam><person>Homer</person></fam>!
+
+She taps him on the shoulder.
+
+<stage><person>HOMER</person></stage>Who wants a day off from work when I'm never gonna see my beloved son again?  Oh, <fam><person>Bart</person></fam>!  Oh, <fam><person>Bart</person></fam>!
+
+<stage><person>MARGE</person></stage>That's better, <fam><person>Homer</person></fam>.  Be brave.  Bye bye, <fam><person>Bart</person></fam>.  You were always my special little guy.
+
+<stage><person>LISA</person></stage><fam><person>Bart</person></fam>, here's the cupcake you wanted.  I can't help but think if I had just given it to you in the first place, this whole horrible tragedy could have been avoided.  I know you can't eat it now so I'll just place it lovingly on your forehead.
+
+<fam><person>Lisa</person></fam> cries as she walks away and <person>Nelson</person> comes.
+
+<stage><person>NELSON</person></stage>Hey, look.  They got food at this thing.
+
+He grabs the cupcake.
+
+<stage><person>NELSON</person></stage>Here's one for the road, dude.
+
+He punches <fam><person>Bart</person></fam> in the stomach.
+
+<stage>DISSOLVE TO</stage>
+
+The bell ringing.  3:15.  <fam><person>Bart</person></fam> stands near a brick wall.  He runs across several playgrounds before he runs right into <person>Nelson</person>.
+
+<stage><person>BART</person></stage>Aah!
+
+<person>NELSON</person>; Put em up!
+
+<person>Nelson</person> punches <fam><person>Bart</person></fam> about ten times before he falls.
+
+<stage><person>BART</person></stage>Oh!  Boy, you sure taught me a lesson.  Whoo.  Thanks, guys.
+
+The bullies drag him away.
+
+<stage><person>BART</person></stage>I guess now all that's left is a hearty handshake.  Right, guys?
+
+They drag him to a garbage can.  <person>Nelson</person> opens it up.
+
+<stage><person>NELSON</person></stage>I'm gonna get you again tomorrow, Simpson.
+
+They throw him into the can.
+
+<stage>OTHER BULLY</stage>Is 3:15 good for you?
+
+<stage><person>BART</person></stage>Uh, not really.
+
+<stage>OTHER BULLY</stage>Too bad.
+
+The can is rolled down a winding street.
+
+<stage><person>BART</person></stage>Oh, no.  Oh man, that guy's tough to love.
+
+FADE TO BLACK
+
+<stage>FADE IN</stage>
+
+A sh*t of the Simpsons house.  The garbage can rolls up to it.  <fam><person>Bart</person></fam> crawls out, groaning.  He stands up and falls before crawling to the front door.
+
+<stage>CUT TO</stage>
+
+The living room.  <fam><person>Marge</person></fam> knits and <fam><person>Homer</person></fam> reads a newspaper.
+
+<stage><person>BART</person></stage>Hi, Mom.  Hi, Dad.
+
+<stage><person>HOMER</person></stage>Tough day at school, boy?
+
+<stage><person>MARGE</person></stage><fam><person>Bart</person></fam>, what happened to you?
+
+<stage><person>BART</person></stage>Let's just say I paid the inevitable price for helping out my sister.
+
+<stage><person>HOMER</person></stage>So you had a little scuffle, eh?  Heh-heh.  Hope you won.
+
+<fam><person>Bart</person></fam> walks into the bathroom and looks into the mirror.
+
+<stage><person>BART</person></stage>I'm gonna miss you, big guy.
+
+He climbs into the bathtub and groans.
+
+<stage><person>HOMER</person></stage><fam><person>Bart</person></fam>, your mother has the fool idea that you're upset about something.
+
+<fam><person>Homer</person></fam> pokes his head in.  <fam><person>Bart</person></fam> starts crying.
+
+<stage><person>BART</person></stage>Dad, I need help.  Please.  Oh.
+
+<stage><person>HOMER</person></stage>Now, come on, <fam><person>Bart</person></fam>.  We don't want your mother to see you crying.  Here, let me help you dry those tears.
+
+He picks up a drier and turns it on.  <fam><person>Bart</person></fam>'s face is blown back for several seconds.
+
+<stage><person>HOMER</person></stage>So what's the problem, son?
+
+<stage><person>BART</person></stage>I had a run-in with a bully.
+
+<stage><person>MARGE</person></stage>A bully?
+
+<fam><person>Marge</person></fam> comes in.
+
+<stage><person>HOMER</person></stage>Come on, <fam><person>Marge</person></fam>!  I don't bug you when you're helping <fam><person>Lisa</person></fam>!
+
+<stage><person>MARGE</person></stage>Well, <fam><person>Bart</person></fam>, I hope you're going straight to the principal about this.
+
+<stage><person>BART</person></stage>I guess I could do that.
+
+<stage><person>HOMER</person></stage>What?  And violate the code of the schoolyard?  I'd rather <fam><person>Bart</person></fam> died.
+
+<stage><person>MARGE</person></stage>What on <location>earth</location> are you talking about, <fam><person>Homer</person></fam>?
+
+<stage><person>HOMER</person></stage>The code of the schoolyard, <fam><person>Marge</person></fam>.  The rules that teach a boy to be a man.  Let's see.  Don't tattle.  Always make fun of those different from you.  Never say anything unless you're sure everyone feels exactly the same way you do.  What else?
+
+<stage><person>MARGE</person></stage>Oh, <fam><person>Homer</person></fam>, that's ridiculous.  <fam><person>Bart</person></fam>, instead of fighting, why don't you try a little understanding?
+
+<stage><person>BART</person></stage>What do you mean, Mom?
+
+<stage><person>HOMER</person></stage>Yeah, right, this oughta be good for a laugh.
+
+<stage><person>MARGE</person></stage>Shh!  This bully friend of yours, is he a little on the chunky side?
+
+<stage><person>BART</person></stage>Yeah, he's pretty chunkified, all right.
+
+<stage><person>MARGE</person></stage>Mm-hmm.  And I'll bet he doesn't do well in his studies, either.
+
+<stage><person>BART</person></stage>No, he's pretty dumb.  He's in all the same special classes as I am.
+
+<stage><person>MARGE</person></stage>That's why he lashes out at the world.
+
+<stage><person>HOMER</person></stage>Oh, <fam><person>Marge</person></fam>.
+
+<stage><person>MARGE</person></stage>So tomorrow, instead of bickering with this boy, talk to him.  You'll be surprised how far a little understanding will go.
+
+<stage><person>HOMER</person></stage>Well, thank you very much, Mrs. Maharishi Gandhi.  Let's go, boy.
+
+<fam><person>Marge</person></fam> growls.
+
+<stage>CUT TO</stage>The living room, where <fam><person>Homer</person></fam> has put up a boxing bag and drawn a face on it.
+
+<stage><person>HOMER</person></stage>Now here's this bully of yours.  Show me your stuff.
+
+<fam><person>Bart</person></fam> weakly punches the bg several times.
+
+<stage><person>HOMER</person></stage>No, no.  Not like that.  Like this!
+
+He jumps onto the bag, holding onto it and ripping away with his teeth.
+
+<stage><person>HOMER</person></stage>See that, boy?  You didn't expect that, did you?  And neither will he.
+
+<stage><person>BART</person></stage> You mean I should fight dirty, Dad?
+
+<stage><person>HOMER</person></stage>Unfortunately, son, we Simpsons sometimes have to bend the rules a little in order to hold our own.
+
+<stage><person>BART</person></stage>Amen.
+
+<stage><person>HOMER</person></stage>So the next time this bully thinks you're gonna throw a punch, you throw a glob of mud in his eyes!  And then you sock him when he's staggering around blinded.
+
+<stage><person>BART</person></stage>Yeah.
+
+<stage><person>HOMER</person></stage>And there's nothing wrong with hitting someone when his back is turned.
+
+<stage><person>BART</person></stage>Gotcha.
+
+<stage><person>HOMER</person></stage>And if you get the chance, get him right in the family jewels.  That little doozy's been a Simpson trademark for generations.
+
+He punches the lower area of the bag.
+
+<stage><person>BART</person></stage>Thanks, Pop.
+
+<fam><person>Homer</person></fam> looks down proudly at his son.
+
+<stage>DISSOLVE TO</stage>
+
+Around the school building.  <fam><person>Bart</person></fam> runs around when he suddenly skids to a stop.
+
+<stage><person>BART</person></stage>Whoa!
+
+<stage><person>NELSON</person></stage>Put 'em up!
+
+<fam><person>Bart</person></fam> picks up a glob of mud and throws it into <person>Nelson</person>'s face.
+
+<stage><person>BART</person></stage>Ha!  Ohh.
+
+He punches <person>Nelson</person>.  <person>Nelson</person> slowly wipes the mud from his face.
+
+<fam><person>Homer</person></fam> appears near <fam><person>Bart</person></fam>'s ear <stage>(<fam><person>Bart</person></fam> is remembering the conversation)</stage>.
+
+<stage><person>HOMER</person></stage>Remember the family jewels, son.
+
+<fam><person>Bart</person></fam> tries to punch <person>Nelson</person> but <person>Nelson</person> holds him back.  <fam><person>Homer</person></fam> appears again.
+
+<stage><person>HOMER</person></stage><stage>(not knowing what to do)</stage> Hmm?
+
+<fam><person>Bart</person></fam> is punched several times.  <fam><person>Homer</person></fam> groans with each hit.
+
+<person>BART</person> <stage>(Off Screen)</stage>: Oh, no boys, not the can.  Please.
+
+There is a crashing sound.
+
+<stage><person>HOMER</person></stage><catchphrase>Doh</catchphrase>!
+
+<stage>DISSOLVE TO</stage>
+
+The front of the house.  <fam><person>Lisa</person></fam> eats an ice cream cone.  <fam><person>Bart</person></fam> rolls up to her in the can.
+
+<stage><person>LISA</person></stage><fam><person>Bart</person></fam>, you can't go on like this.
+
+<stage><person>BART</person></stage>I know.
+
+He coughs out his baseball hat.
+
+<stage><person>LISA</person></stage>Why don't you go see <fam><person>Grandpa</person></fam>?
+
+<stage><person>BART</person></stage>What can he do?
+
+<stage><person>LISA</person></stage>He'll give you good advice.  He's the toughest Simpson alive.
+
+<stage><person>BART</person></stage>He is?
+
+<stage><person>LISA</person></stage>Yeah, remember the fight he put up when we put him in the home?
+
+<stage>DISSOLVE TO</stage>
+
+<location>The Springfield Retirement Home</location>.  Outside, several people sit in rocking chairs.
+
+<stage>CUT TO</stage>
+
+The main desk.  <fam><person>Bart</person></fam> looks up at a lady.
+
+<stage><person>BART</person></stage>I'm here to see <fam><person>Grandpa</person></fam>.
+
+Dozens of heads look out from doors.
+
+<stage>LADY</stage>Half the people here are named <fam><person>Grandpa</person></fam>.
+
+<stage><person>BART</person></stage>Well, <fam><person>Grandpa</person></fam> Simpson then.
+
+Everybody growls and closes their door.
+
+<stage>LADY</stage>Second floor, third dank room on the left.
+
+<stage><person>BART</person></stage>Thanks, lady.
+
+He makes his way up some steps.
+
+<stage>CUT TO</stage>
+
+<fam>ABE</fam> SIMPSON, <fam><person>Homer</person></fam>'s dad, who types busily on a typewriter.
+
+<stage><fam>ABE</fam></stage>Dear Advertisers, I am disgusted with the way old people are depicted on television.  We are not all vibrant, fun-loving sex maniacs.  Many of us are bitter, resentful individuals who remember the good old days when entertainment was bland and inoffensive.  The following is a list of words I never want to hear on television again.  Number one: bra.  Number two: horny.  Number three: family jewels.
+
+<fam><person>Bart</person></fam> opens the door and walks in.
+
+<stage><person>BART</person></stage>Hi, <fam><person>Grandpa</person></fam>!
+
+<stage><fam>ABE</fam></stage>Ahh, <fam><person>Bart</person></fam>, what brings you here?
+
+<stage><person>BART</person></stage>I need some advice, <fam><person>Grandpa</person></fam>.  See, there's this bully at school who keeps beating me up.
+
+<stage><fam>ABE</fam></stage>Well, let me tell you something, boy.  If you don't stand up for yourself, bullies are gonna be picking on you for the rest of your life.
+
+An OLD MAN walks in.
+
+<stage>OLD MAN</stage>Simpson, give me the newspaper.
+
+<stage><fam>ABE</fam></stage>Why should I?
+
+<stage>OLD MAN</stage>I wanna do the crossward puzzle.
+
+<stage><fam>ABE</fam></stage>No, I want to do the crossward puzzle.
+
+<stage>OLD MAN</stage>I said give me that puzzle.
+
+<stage><fam>ABE</fam></stage>No.
+
+<stage>OLD MAN</stage>Give me.
+
+<stage><fam>ABE</fam></stage>No.
+
+<stage>OLD MAN</stage>Give me.
+
+<stage><fam>ABE</fam></stage>No.
+
+They struggle before the old man finally takes it away.
+
+<stage><fam>ABE</fam></stage>well, I guess I can't help you, but I know someone who can.
+
+<stage>DISSOLVE TO</stage>
+
+Outside <person>Herman</person>'s Military Techniques.  Outside the shop, in windows, are various w*apon.
+
+<stage><person>BART</person></stage>Here?
+
+<stage><fam>ABE</fam></stage>Yep, this is it.
+
+<person>HERMAN</person> opens the door when they knock.
+
+<stage><person>HERMAN</person></stage>What's the password?
+
+<stage><fam>ABE</fam></stage>Let me in, you idiot.
+
+<stage><person>HERMAN</person></stage>Yeah, right you are.
+
+They walk in.  The shop is decorated in w*apon.  <fam><person>Bart</person></fam> looks around interested.
+
+<stage><fam>ABE</fam></stage>So, <person>Herman</person>, has the large-type edition of this month's Soldier of Fortune come in yet?
+
+<stage><person>HERMAN</person></stage>No, not yet.  Can I interest you in some authentic n*zi underpants?
+
+<stage><fam>ABE</fam></stage>No.  Actually we came over because I want you to meet my grandson, <fam><person>Bart</person></fam>.
+
+<stage><person>HERMAN</person></stage>Ah, hello, young American.
+
+<stage><person>BART</person></stage>Hello, sir.  Uh, Mr. <person>Herman</person>?
+
+<stage><person>HERMAN</person></stage>Yeah?
+
+<stage><person>BART</person></stage>Did you lose your arm in the w*r?
+
+He points.
+
+<stage><person>HERMAN</person></stage>My arm?  Well, let me put it this way.  Next time your teacher tells you to keep your arm inside the bus window, you do it.
+
+<stage><person>BART</person></stage>Yes, sir, I will.
+
+<stage><fam>ABE</fam></stage><fam><person>Bart</person></fam>'s got a problem with a local young bully named <person>Nelson</person>.  I thought you could help him with some kind of strategy.
+
+<stage><person>HERMAN</person></stage>Strategy.  Hmm.  How many men do you have?
+
+<stage><person>BART</person></stage>None.
+
+<stage><person>HERMAN</person></stage>You'll need more.  And you'll need to train them hard.  Now, let's see.  Ah, okay.
+
+He reaches below his desk and brings out a poster.  He rolls it out.
+
+<stage><person>HERMAN</person></stage>The key to <location>Springfield</location> has always been Elm Street.
+
+He plants a knife on a spot on the paper.
+
+<stage><person>HERMAN</person></stage>The Greeks knew it.  The Carthaginians knew it.  Now you know it.  First, you'll need a declaration of w*r.  That way, everything you do will be nice and legal.  Okay, I can use this one from the Franco-Prussian w*r.  I'll just change "Otto von Bismarck" to read "<fam><person>Bart</person></fam> Simpson."
+
+He begins writing as <fam><person>Bart</person></fam> whispers to <fam>Abe</fam>.
+
+<stage><person>BART</person></stage>Psst.  <fam><person>Grandpa</person></fam>, I think this guy's a little nuts.
+
+<stage><fam>ABE</fam></stage>Oh yeah?  Well, General George S. Patton was a little nuts.  And this guy is completely out of his mind.  We can't fail!
+
+He taps <fam><person>Bart</person></fam> on the shoulder as the Patton theme mysteriously plays in the background.
+
+FADE TO BLACK
+
+<stage>FADE IN</stage>
+
+A sh*t of the school, with the Patton theme still playing.  The flag blows slowly in the wind.
+
+<stage>CUT TO</stage>
+
+Inside the classroom, a CLASSMATE passes a note along to <person>MILHOUSE</person>.
+
+<stage>CLASSMATE</stage>Psst!  Pass it on!
+
+<person>Milhouse</person> looks at the note.  It says:
+
+If you hate and fear <person>Nelson</person>, meet at <fam><person>Bart</person></fam>'s treehouse 1500 HRS <stage>(3 PM)</stage>
+<stage>DISSOLVE TO</stage>Inside the filled treehouse.  Students talk amongst themselves while <person>Herman</person> and <fam>Abe</fam> stand in front of them.
+
+<stage>BOY</stage>So, Mister, what are we doin' here anyway?
+
+<stage><fam>ABE</fam></stage>I wonder where <fam><person>Bart</person></fam> is.
+
+<stage><person>HERMAN</person></stage>Yeah.  It's way past 1500 hours.
+
+<fam><person>Bart</person></fam> suddenly walks, fresh bruises on his face.  He coughs out his baseball hat, hangs it up, and stands up on a podium.
+
+<stage><person>BART</person></stage>OK, we all know why we're here, right?
+
+<stage><person>MILHOUSE</person></stage>No, why?
+<stage><person>BART</person></stage>To fight <person>Nelson</person> the bully.  That guy has been tormenting all of us for years and I for one am sick of it.  I can't promise you victory.  I can't promise you good times.  But the one thing I do know---
+
+Everybody begins to file out of the treehouse.
+
+<stage><person>BART</person></stage>Whoa!  Whoa!  All right!  Okay!  I promise you victory!  I promise you good times!
+
+The students all come back in and cheer on <fam><person>Bart</person></fam>.
+
+<stage>DISSOLVE TO</stage>A field of grass where <fam><person>Bart</person></fam> and the students, all dressed with an Army hat, march.  <fam><person>Bart</person></fam> sings.
+
+<stage><person>BART</person></stage>I got a "B" in arithmetic.
+
+<stage>STUDENTS</stage>I got a "B" in arithmetic.
+
+<stage><person>BART</person></stage>Would've got an "A" but I was sick.
+
+<stage>STUDENTS</stage>Would've got an "A" but I was sick.
+
+<stage>CUT TO</stage>
+
+A playground, where the students train by hanging/climbing across a set of rings.  <person>Milhouse</person> falls and is pushed down several seconds afterward.
+
+<stage>CUT TO</stage>Another place in the playground, where <fam><person>Bart</person></fam>'s soldiers climb up some sort of structure.
+
+<stage>CUT TO</stage>
+
+The students run an obstacle course around some garbage cans.  A student falls in and his can is knocked over.
+
+<stage>CUT TO</stage>A road, where <fam><person>Bart</person></fam> and his troop return back to their march.
+
+<stage><person>BART</person></stage>We are rubber, you are glue...
+
+<stage>STUDENTS</stage>We are rubber, you are glue...
+
+<stage><person>BART</person></stage>It bounces off of us and sticks to you.
+
+<stage>STUDENTS</stage>It bounces off of us and sticks to you.
+
+<stage><person>BART</person></stage>Sound off!
+
+<stage>STUDENTS</stage>One, two!
+
+<stage><person>BART</person></stage>Sound off!
+
+<stage>STUDENTS</stage>Three, four!
+
+<stage>CUT TO</stage>
+
+A small pond, which <fam><person>Bart</person></fam>'s team jumps over by k*ll landing on a rock and then leaping to the other side.
+
+Suddenly, it stands up and we realize it's not a rock but instead one of the soldier's helmets.
+
+<stage>CUT TO</stage>The students go back to marching, but this time there is anger and revenge in their eyes.  They stomp through mud as their reflection is cast off in <fam><person>Bart</person></fam>'s sunglasses.
+
+<stage>CUT TO</stage>Back to the playground, where everyone climbs the structure.
+
+<stage>CUT TO</stage>
+
+A group gathering, where <fam><person>Bart</person></fam> describes a water balloon drawn on a poster board.  No dialogue is heard.  It suddenly pops.
+
+<stage>CUT TO</stage>
+
+The students stand near a fence.  <fam><person>Bart</person></fam> pushes a student forward.
+
+<stage><person>BART</person></stage>Go!
+
+The student runs past a large, scary dog that growls at him.
+
+<stage><person>BART</person></stage>Go!
+
+Other people quickly run past.
+
+<stage>CUT TO</stage>
+
+The sidewalk, where <fam><person>Bart</person></fam> counsels one of his TROOPS.
+
+<stage><person>BART</person></stage>What's the matter with you, soldier?
+
+<stage>TROOP</stage>It's my nerves, sir.  I just can't stand the barking anymore.
+
+<stage><person>BART</person></stage>Your nerves?  I won't have cowards in my army.
+
+He slaps the boy.  <fam><person>Bart</person></fam> is suddenly slapped on the cheek as well.
+
+<stage><person>BART</person></stage>Ow.
+
+The hand belongs to <fam>Abe</fam> Simpson.
+
+<stage><fam>ABE</fam></stage>Sorry, <fam><person>Bart</person></fam>.  You can push them out of a plane, you can march them off a cliff, you can send 'em off to die on some godforsaken rock, but for some reason you can't slap 'em.  Now apologize to that boy right now.
+
+<stage><person>BART</person></stage>Sorry, man.
+
+<stage>TROOP</stage>It's cool.
+
+<stage>CUT TO</stage>
+
+Back to marching.  Standard procedure.
+
+<stage><person>BART</person></stage>In English class I did the best...
+
+<stage>STUDENTS</stage>In English class I did the best...
+
+<stage><person>BART</person></stage>Because I cheated on the test.
+
+<stage>STUDENTS</stage>Because I cheated on the test.
+
+<stage><person>BART</person></stage>Sound off.
+
+<stage>STUDENTS</stage>One, two!
+
+<stage><person>BART</person></stage>I can't hear you!
+
+<stage>STUDENTS</stage>Three, four!
+
+<stage>CUT TO</stage>A backyard, where <fam><person>Bart</person></fam> has tied a small pillow filled with flour to a rope.  The students rush at it with various w*apon, such as a toilet plunger and a pancake flipper.
+
+<stage><person>BART</person></stage>All right, there's your enemy.  Now hit him!  Hit him!  Let's go, next group.  Martinez!  Steinberg!  O'Hara!  Chang!  Olajuwon!  <person>Herman</person>!
+
+<person>Herman</person> suddenly rushes to the bag, s*ab it with a musket.  It rips and the flour quickly pours out. 
+
+<stage><person>HERMAN</person></stage>Die, die!
+
+<stage>CUT TO</stage>
+
+Yet another march.
+
+<stage><person>BART</person></stage>We are happy, we are merry.
+
+<stage>STUDENTS</stage>We are happy, we are merry.
+
+<stage><person>BART</person></stage>We got a rhyming dictionary.
+
+<stage>STUDENTS</stage>We got a rhyming dictionary.
+
+<stage><person>BART</person></stage>Sound off!
+
+<stage>STUDENTS</stage>One, two!
+
+<stage><person>BART</person></stage>One more time!
+
+<stage>STUDENTS</stage>Three, four!
+
+By this time, it has grown noticeably dark.
+
+<stage><person>BART</person></stage>Bring it on home now!
+
+STUDENTS +<stage> <person>BART</person></stage>One, two, three, four.  One, two...three, four!
+
+<stage>CUT TO</stage>
+
+The treehouse.  <person>Herman</person>, <fam>Abe</fam>, <fam><person>Lisa</person></fam>, and <fam><person>Bart</person></fam> surround a model of <location>Springfield</location> built on a table.  Around the treehouse, posters of streets and maps have been hung up.
+
+<person>Milhouse</person> climbs in.
+
+<stage><person>MILHOUSE</person></stage><person>Nelson</person>'s at the Elm Street Video Arcade.
+
+<stage><person>BART</person></stage>Intelligence indicates he shakes down kids for quarters at the arcade.
+
+<fam><person>Bart</person></fam> slides a salt-shaker <stage>(the model for <person>Nelson</person>)</stage> across the map.
+
+<stage><person>BART</person></stage>THen he heads to Quick-E-Mart for a cherry Squishy.
+
+<stage><person>HERMAN</person></stage>Then that's where we'll hit him.  When he leaves the Quick-E-Mart, we start the saturation b*mb.  We got the water balloons?
+
+<stage><person>BART</person></stage>Two hundred rounds, sir.
+
+Behind <fam><person>Bart</person></fam> is a BIG <location>load</location> of ballons.  <fam><person>Bart</person></fam> raises a certain balloon.
+
+<stage><person>BART</person></stage>Is it okay if they say "Happy Birthday" on the side?
+
+<stage><person>HERMAN</person></stage>Doo...Well, I'd rather they say "Death From Above" but I guess we're stuck.  Okay, our main force will be split into two groups.
+
+<person>Herman</person> moves figures around.
+
+<stage><person>HERMAN</person></stage>One will circle around this way to cut off the enemy's retreat.  The other will drive in this way, closing the trap.  It's a classic pincers movement.  It can't fail against a ten year old.
+
+<stage><fam>ABE</fam></stage>Heh-heh-heh.
+
+A student pops up.
+
+<stage>STUDENT</stage><person>Nelson</person>'s at the arcade, General.
+
+<stage><person>BART</person></stage>Battle stations!
+
+<stage><person>HERMAN</person></stage>I feel so alive!
+
+<stage><fam>ABE</fam></stage>You know, I thought I was too old.  I thought my time had passed.  I thought I'd never hear the screams of pain or see the look of terror in a young man's eyes.  Thank heaven for children.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Bart</person></fam> hides behind a bush and watches <person>Nelson</person> and his g*ons turn a corner and make their way up a street.
+
+<stage>OTHER BULLY</stage>Hey, good Squishies.
+
+<stage>BULLY</stage>What flavor did you get?
+
+<stage>OTHER BULLY</stage>Blue.
+
+<stage><person>NELSON</person></stage>Hey, you two birds.  You're gonna be suckin' all your meals through straws if you don't shut your traps.
+
+<fam><person>Bart</person></fam> marches out and stands firm.  He stares <person>Nelson</person> in the eye.
+
+<stage><person>NELSON</person></stage>Well, looky here.  Little <fam><person>Bart</person></fam> Simpson.
+
+<stage><person>BART</person></stage><person>Nelson</person>, I'm afraid I'm gonna have to teach you a lesson.
+
+<stage><person>NELSON</person></stage>Ha.  Oh, yeah.  You and what army?
+
+<stage><person>BART</person></stage>This one.
+
+Students pop up from behind windows, doors, and trees.  They are armed with water balloons.
+
+<stage><person>BART</person></stage>a*tillery, commence saturation b*mb!
+
+Everybody lobs their balloons at the bullies.  They are all hit in the face and scream.  Balloons are shown passed from hand to hand.  The bullies quickly run away.  The students run after them throwing balloons.
+
+The bullies come to a halt when they see a new group coming in front of them.
+
+<stage><person>NELSON</person></stage>Hey!
+
+They run away in another direction and pass by the Simpson house.  <fam><person>Homer</person></fam> opens the door.
+
+<stage><person>HOMER</person></stage>All right, you kids!  Keep it down!  Am I making myself---
+
+A balloon explodes on his head.  From the treehouse, <fam>Abe</fam> laughs while <person>Herman</person> looks through binoculars.
+
+<stage><fam>ABE</fam></stage>Heh-heh-heh.  Got him.
+
+<stage><person>HOMER</person></stage>You, up in the tree.  The tall gray-haired kid.  Get your butt down here right now.
+
+Another balloon hits him.
+
+<stage><person>HOMER</person></stage><catchphrase>Doh</catchphrase>!
+
+He runs back into the house and closes the door.
+
+<stage>CUT TO</stage>
+
+<person>Nelson</person> and the bullies are trapped, their backs to a fence with the army of students approaching.
+
+<stage>BULLY</stage>No!  Please!  Don't hurt us!
+
+<stage>OTHER BULLY</stage>Oh, we surrender!
+
+<stage>BULLY</stage>W-W-We were only followin' orders!
+
+Everybody runs past them and smashes <person>Nelson</person> with the balloons.
+
+<stage>DISSOLVE TO</stage>
+
+<person>Nelson</person> is tied up in a cart.  <person>Milhouse</person> leads it past a group of cheering students.
+
+A random student kisses <fam><person>Lisa</person></fam> and suddenly, there is a photograph of them snapped.
+
+<fam><person>Lisa</person></fam> slaps him.
+
+<stage><person>LISA</person></stage>Eww!  Knock it off!
+
+The students cheer as we--
+
+<stage>DISSOLVE TO</stage>
+
+In front of the Simpsons household.  <person>Nelson</person> is still in the same position.
+
+<stage><person>BART</person></stage>I guess you learned your lesson, so now I'll untie you.
+
+<stage><person>NELSON</person></stage>The second you untie me, I'm gonna b*at you to death, man.
+
+<stage><person>BART</person></stage>Well, if that's gonna be your attitude, I'm not gonna untie you.
+
+<stage><person>NELSON</person></stage>Ha, you're gonna have to sometime.
+
+<stage><person>BART</person></stage>Uh-oh.  He's right.
+
+<person>Herman</person> comes in.
+
+<stage><person>HERMAN</person></stage>Don't you worry, I was ready for this little eventuality.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Homer</person></fam>, <fam><person>Lisa</person></fam>, and <fam><person>Maggie</person></fam> watch TV in the living room.  <person>Nelson</person> sits tied up on the couch near them.
+
+Nearby on a table, <person>Herman</person>, <fam>Abe</fam>, and <fam><person>Bart</person></fam> look over a paper.
+
+<stage><person>HERMAN</person></stage>Armistice treaty, article four.  "<person>Nelson</person> is never again to raise his fists in anger."  Article five.  "<person>Nelson</person> recognizes <fam><person>Bart</person></fam>'s right to exist."  Article six.  "Although <person>Nelson</person> shall have no official power, he shall remain a figurehead of menace in the neighborhood."
+
+<stage><person>BART</person></stage>Wow, sounds good to me.  Okay, I'll sign.
+
+<stage><person>HOMER</person></stage>What about you, boy?
+
+<stage><person>NELSON</person></stage>All right, I'll sign.
+
+<stage><person>MARGE</person></stage>Are boys through playing w*r?
+
+<stage><person>BART</person></stage>Yeah.
+
+<stage><person>NELSON</person></stage>Yes, Mrs. Simpson.
+
+<stage><person>MARGE</person></stage>Good!  Then here's some cupcakes.
+
+<stage><person>BART</person></stage>Oh, boy!
+
+The entire family <stage>(plus <person>Herman</person>)</stage> all snatch one.
+
+<stage><person>HOMER</person></stage>Cupcakes!
+
+They eat in good cheer...
+
+<stage>DISSOLVE TO</stage>
+
+A library, with several shelves loaded with books.  <fam><person>Bart</person></fam> sits on a table, a pile of books around him as well.
+
+He speaks to us.
+
+<stage><person>BART</person></stage>Ladies and gentlemen, boys and girls, contrary to what you've just seen, w*r is neither glamorous nor fun.  There are no winners, only losers.  There are no good wars, with the following exceptions: The American Revolution, World w*r II, and the Star Wars trilogy.  If you'd like to learn more about w*r, there's lots of books in your local library --- many of them with cool, gory pictures.  Well, good night, everybody.  Peace, man.
+
+FADE OUT [Patton theme plays once again]
+
+A random night sh*t of the Simpsons house as credits begin.
+
+FADE OUT
+
+THE END
+</txt></xml>

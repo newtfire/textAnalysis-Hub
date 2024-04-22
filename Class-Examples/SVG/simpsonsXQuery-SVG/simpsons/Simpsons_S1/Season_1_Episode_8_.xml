@@ -1,0 +1,633 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt>
+<metadata><ep><epTitle>The Telltale Head</epTitle><szn>01</szn>x<epNum>08</epNum></ep>
+<date>05/20/98</date> <runtime>03:18</runtime></metadata>
+
+<stage>FADE IN</stage>
+
+<person>HOMER</person> and <person>BART</person> walk along a dark street at night.  <fam><person>Bart</person></fam> carries some object in his hands.
+
+<stage><person>HOMER</person></stage>You know, <fam><person>Bart</person></fam>, when I was your age, I pulled a few boners.  But I think you'll find that people are pretty decent if you give them half--
+
+They walk around a corner and <fam><person>Homer</person></fam> gasps.  A wild crowd of people with torches and posterboards yell at <fam><person>Homer</person></fam> and <fam><person>Bart</person></fam>.
+
+<stage><person>BURNS</person></stage>Look, there it is, the head!
+
+<stage><person>KRUSTY</person></stage>k*ll him!
+
+<fam><person>Homer</person></fam> and <fam><person>Bart</person></fam> set off on a run and we get a clear sh*t of the head.  It's the head of Jebediah <location>Springfield</location>.  The crowd chases them around several corners before they find themselves trapped.
+
+Desperately, they run into an alley and emerge into the center of <location>Springfield</location> <stage>(a park)</stage>.
+
+They stand under the statue of Jebediah <location>Springfield</location>, minus the head.
+
+<stage><person>HOMER</person></stage>They got us cornered, boy.  We'll never get away.  Give me the head.
+
+<stage><person>BART</person></stage>No, Dad.  This whole thing was my fault.  You run along.
+
+23 minutes and 5 seconds.
+
+<stage>RANDOM PEOPLE</stage>It's too long!  23:05?
+
+<stage><person>KRUSTY</person></stage>Well, all right. Go ahead.
+
+<stage><person>BART</person></stage>Okay.  It all started Sunday morning.
+
+DISSOLVE TO <stage>(FLASHBACK)</stage>:
+
+At the Simpson house,  <person>MARGE</person> stands at the bottom of the stairs dressed for church.
+
+<stage><person>MARGE</person></stage>Kids!  We're late for church.  Get your butts down here right now!
+
+<person>LISA</person> and <fam><person>MAGGIE</person></fam> slowly walk down while <fam><person>Bart</person></fam> slides quickly.
+
+<stage><person>LISA</person></stage>Ready for inspection, Mom.
+
+<stage><person>MARGE</person></stage>Very nice, <fam><person>Maggie</person></fam>.  And <fam><person>Lisa</person></fam>, you look lovely.  <fam><person>Bart</person></fam>, assume the position.
+
+<fam><person>Bart</person></fam> puts his hands against the wall.  <fam><person>Marge</person></fam> searches his pockets and brings out a slingshot, some dice, a comic book.
+
+<stage><person>MARGE</person></stage>Oh, <fam><person>Bart</person></fam>.  Now where's your father?
+
+<stage>CUT TO</stage>
+
+<fam><person>Homer</person></fam> stands on the couch in the living room, dressed in a blue seat.  He watches the TV intensely.
+
+<stage>ANNOUNCER</stage>Phillips has broken free.
+
+<stage><person>HOMER</person></stage>Get 'em.  Get 'em.
+
+<stage>ANNOUNCER</stage>The 50, the 40, the 30, the 20, the 10.
+
+<stage><person>HOMER</person></stage>Oh, no!
+
+<stage>ANNOUNCER</stage>Touchdown!
+
+<stage><person>MARGE</person></stage><fam><person>Homer</person></fam>?
+
+<stage><person>HOMER</person></stage><catchphrase>D'oh</catchphrase>!
+
+<stage>ANNOUNCER</stage>A 64 yard run!  We've got an upset in the making.
+
+<stage><person>HOMER</person></stage>No, we don't.  Try being objective for once in your -ooh?
+
+<stage><person>MARGE</person></stage>Let's go, <fam><person>Homer</person></fam>.
+
+<stage><person>HOMER</person></stage>But you don't understand, <fam><person>Marge</person></fam>.  I have 50 bucks riding on this game.
+
+<stage><person>MARGE</person></stage>Oh, <fam><person>Homer</person></fam>, you promised me.
+
+<stage><person>HOMER</person></stage>This isn't gambling, <fam><person>Marge</person></fam>.  It's a <location>lead</location>-pipe cinch.
+
+<fam><person>Marge</person></fam> groans.
+
+<stage>ANNOUNCER</stage>Here's the kickoff.  Wolodarsky takes it at the five.  And oh, my.  He fumbles!
+
+<stage><person>HOMER</person></stage>Oh, no!
+
+<stage>ANNOUNCER</stage>In the endzone!  Another touchdown!
+
+<stage><person>HOMER</person></stage><catchphrase>D'oh</catchphrase>!
+
+<stage><person>MARGE</person></stage>Come on.
+
+<fam><person>Homer</person></fam> screams into his arms.
+
+<stage>CUT TO</stage>
+
+<fam><person>Homer</person></fam> drives the car.  An angry look is on his face.
+
+<stage><person>MARGE</person></stage>Why should I feel like a traffic cop every Sunday morning?  I'm just trying to get a little goodness into the family.
+
+<fam><person>Homer</person></fam> flips the dial on the radio.
+
+<stage><person>HOMER</person></stage>Where is it?  The game!  Where is it?  Ahh!
+
+<stage>RADIO ANNOUNCER</stage>...got Wolodarsky open in the end zone.  He throws it.
+
+<stage><person>HOMER</person></stage>Catch it.  Catch it.
+
+<stage>RADIO ANNOUNCER</stage>It's complete.  Touchdown!
+
+<stage><person>HOMER</person></stage>All right!
+
+He honks his horn.
+
+<stage>RADIO ANNOUNCER</stage>Oh, Doctor, we've got a <location>barn</location> burner here.  This could be the most remarkable comeback since Lazarus rose from the d*ad.
+
+<stage><person>HOMER</person></stage>Laza who?
+
+The car drives up to the front of the church and stops.  The whole family steps out.
+
+<stage><person>MARGE</person></stage>Come on, everybody.  We're late.  <fam><person>Bart</person></fam>, I want you to promise me you'll pay attention in Sunday school.  <fam><person>Bart</person></fam>.  <fam><person>Bart</person></fam>?
+
+He's too busy listening to music to hear her.
+
+<stage><person>MARGE</person></stage><fam><person>Bart</person></fam>!
+
+<stage><person>BART</person></stage>Whoa!  Are you talking to me? 
+
+<stage><person>MARGE</person></stage>What's this?
+
+She reaches into his jacket.
+
+<person>MARGE</person> <stage>(gasps)</stage>: A personal stereo.  Were you going to listen to rock music in Sunday school?
+
+<stage><person>BART</person></stage>Maybe.
+
+She yanks it away and <fam><person>Bart</person></fam> yells a bit in pain.
+
+<stage><person>MARGE</person></stage>Can you believe this, <fam><person>Homer</person></fam>?  <fam><person>Homer</person></fam>?  <fam><person>Homer</person></fam>?
+
+She hears the horn honking.  <fam><person>Homer</person></fam> is banging his head against the steering wheel.
+
+<stage><person>HOMER</person></stage>No, no, no!  We stink!  We stink.
+
+<stage>RADIO ANNOUNCER</stage>...the 40, the 30, the 20, the 10.  Touchdown!
+
+<stage><person>MARGE</person></stage><fam><person>Homer</person></fam>, were you planning on sitting in the car till the game was over?
+
+<stage><person>HOMER</person></stage>Maybe.
+
+<stage><person>MARGE</person></stage>It's because of your irreverent attitude that <fam><person>Bart</person></fam> thinks he can sneak headphones into Sunday school.  Now move it!
+
+She throws the stereo into the car.
+
+<stage>RADIO ANNOUNCER</stage>Now here's the kickoff.  Wolodarsky takes it at the five.  And oh my.  He fumbles!
+
+<fam><person>Homer</person></fam> slowly picks up the stereo.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Bart</person></fam> sits along other students <stage>(such as <person>Milhouse</person>)</stage> in their class.  Their teacher stands in front of them.
+
+<stage>GIRL</stage>Will my dog Pepper be there?
+
+<stage>TEACHER</stage>I'm sorry, but the answer is no.
+
+<stage>GIRL</stage>Why not?
+
+<stage>TEACHER</stage>Because heaven is for people.
+
+<stage><person>LISA</person></stage>What about my cat, Snowball?
+
+<stage>TEACHER</stage>I'm sorry, but the answer is no.
+
+<stage><person>MILHOUSE</person></stage>Will there be cavemen in heaven?
+
+<stage>TEACHER</stage>Certainly not.
+
+<stage><person>BART</person></stage>Uh, ma'am, what if you're a really good person, but you're in a really, really bad fight and your leg gets gangrene, and it has to be amputated.  Will it be waiting for you in heaven?
+
+<stage>TEACHER</stage>For the last time, <fam><person>Bart</person></fam>, yes!
+
+<stage>CUT TO</stage>
+
+The main service.  <person>Reverend Lovejoy</person> stands on his podium, speaking to the crowd as an organ plays.
+
+REV.<stage> LOVEJOY</stage>Now, I'd like to begin today's sermon, which I have entitled "Gambling, the Eighth Deadly Sin".  Today is Sunday, the Lord's day and yet, at this very moment, millions of Americans are not in the Lord's house.  They're in their own house, worshipping a false idol -- professional football.
+
+<fam><person>Homer</person></fam> sits in the crowd, <fam><person>Bart</person></fam>'s earphones in his ear.
+
+REV.<stage> LOVEJOY</stage>Oh, Lord---
+
+49 yard field goal into the wind.
+
+<stage><person>HOMER</person></stage>Make it!  Make it!  Make it!  Make it!
+
+<stage>RADIO ANNOUNCER</stage>The kick is up...
+
+<stage><person>HOMER</person></stage>Oh, please, please, please, please!
+
+<stage>RADIO ANNOUNCER</stage>Holy <location>Toledo</location>, it's good!
+
+<fam><person>Homer</person></fam> stands up, raises his fists into the air, and yells.
+
+<stage><person>HOMER</person></stage>It's good!  It's good!  It's good!
+
+Everybody looks at him strangely.
+
+<stage><person>HOMER</person></stage>It's good...to see you all at church.
+
+REV.<stage> LOVEJOY</stage>Please, be seated, <fam><person>Homer</person></fam>.
+
+<stage><person>MARGE</person></stage>Yeah, sit down, <fam><person>Homer</person></fam>.
+
+She  pulls him down.
+
+<stage>CUT TO</stage>
+
+Back to <fam><person>Bart</person></fam>'s class, where the teacher has sat down and is rubbing her head in pain.
+
+<stage>TEACHER</stage>The ventriloquist goes to heaven, but the dummy doesn't.
+
+<stage><person>BART</person></stage>Oh, oh, oh!  Me!
+
+He raises his hand.
+
+<stage>TEACHER</stage><fam><person>Bart</person></fam>?
+
+<stage><person>BART</person></stage>What about a robot with a human brain?
+
+<stage>TEACHER</stage>I don't know!  All these questions!  Is a little blind faith too much to ask?
+
+A bell tolls and the children all rush away in enjoyment.
+
+<stage>TEACHER</stage>Don't forget next week.  Remember to read--- <stage>(sighs)</stage>.
+
+<stage>CUT TO</stage>
+
+The front entrance, where Lovejoy talks with people.
+
+<stage>WOMAN</stage>That was very nice, Father.
+
+REV.<stage> LOVEJOY</stage>I was pleased you enjoyed it.
+
+The Simpsons march up.
+
+REV.<stage> LOVEJOY</stage>I seemed to have struck a chord with you today, <fam><person>Homer</person></fam>.
+
+<stage><person>HOMER</person></stage>What?  Oh, yeah, you were great.
+
+<stage><person>MARGE</person></stage><fam><person>Homer</person></fam>!
+
+She pushes him through the door.
+
+<stage>CUT TO</stage>
+
+The family is driving back in the car.  <fam><person>Marge</person></fam> is furious.
+
+<stage><person>MARGE</person></stage><fam><person>Homer</person></fam>, you embarrassed us in front of the whole congregation.  And today's sermon was one you really should have listened to.
+
+<stage><person>HOMER</person></stage>What was it about?
+
+<stage><person>MARGE</person></stage>Gambling.
+
+4.  Drop me off!  Drop me off!
+
+<stage><person>MARGE</person></stage>No way, Jose.
+
+<stage><person>HOMER</person></stage><fam><person>Marge</person></fam>, they're only space mutants.
+
+<stage><person>MARGE</person></stage>Uh-uh, I know what those movies are like.  k*ll innocent people eating human flesh.  You'll just get a lot of bad ideas.
+
+<fam><person>Bart</person></fam> is disappointed and he sulks a bit.
+
+<stage>DISSOLVE TO</stage>
+
+The living room, later.  <fam><person>Homer</person></fam> lies on the couch when <fam><person>Bart</person></fam> walks in.
+
+<stage><person>BART</person></stage>Hey, Dad, can I have five bucks?
+
+<stage><person>HOMER</person></stage>I hope you're not planning to see a certain movie starring certain space mutants that a certain mother didn't want you to see <stage>(chuckles)</stage>.
+<stage><person>BART</person></stage><stage>(laughs)</stage>: Perish the thought.
+
+<stage><person>HOMER</person></stage>Here you go, son.  Share the wealth.  That's what I always say.
+
+<fam><person>Bart</person></fam> walks up the stairs and undresses as he makes his way into his bedroom.  He puts on his standard shorts and orange shirt.  He picks up his skateboard, swings out his window, and skates off.
+
+<stage><person>BART</person></stage>Da da da da da!  Whoa!  Whoa!  Ooh, <catchphrase>cowabunga</catchphrase>.
+
+48.
+
+<stage>BULLIES</stage>So?
+
+<person>Jimbo</person> sticks out a rock.
+
+<stage><person>BART</person></stage>So...watch me hit him right between the eyes.
+
+He grabs the rock and throws it.  It bounces off the head.
+
+A SHOP OWNER steps out of his store.
+
+<stage>SHOP OWNER</stage>Hey, what are you doing?  Show a little respect, you insolent little thugs.
+
+He heads towards them.
+
+<stage><person>JIMBO</person></stage>Oooh, we're really scared.
+
+They walk off as he runs towards them,
+
+<stage>SHOP OWNER</stage>Hey!  Hey, you!  Hey!  Hey, hey you!
+
+<stage>DISSOLVE TO</stage>
+
+The four of them lying in a field of grass, slurping Squishies.
+
+<stage>KEARNY</stage>You know, when you look up at clouds in the sky, they start looking like stuff.
+
+<stage>OTHER BULLY</stage>No, they don't.
+
+<stage>KEARNY</stage>Yeah, they do.  Like that one over there looks just like a cherry b*mb.
+
+It's true; perhaps a bit too true.  The cloud looks EXACTLY like a cherry b*mb.
+
+<stage>OTHER BULLY</stage>Hey, you're right.  And look at that one.  It looks like a guy with a switchblade stuck in his back.
+
+Same thing as the first cloud.
+
+<stage><person>JIMBO</person></stage>Yeah, that one looks like a school bus going over a cliff in flames, with kids inside screaming.
+
+<stage><person>BART</person></stage>That one looks just like the statue of our town founder, Jebediah <location>Springfield</location>.
+
+<stage>OTHER BULLY</stage>Does not.
+
+<stage><person>BART</person></stage>Does too.  I mean, without the head of course.
+
+Sure enough, the cloud shows the explorer kneeling on his stand, minus the head.
+
+<stage><person>JIMBO</person></stage>Oh, yeah.  I wish someone really would cut his ugly old head off.
+
+<stage><person>BART</person></stage>You do?
+
+<stage>KEARNY</stage>Yeah, that'd be cool.
+
+<stage>OTHER BULLY</stage>Sure would cheese everybody off.
+
+<stage><person>BART</person></stage>But guys, come on.  Don't you remember history class?  Jebediah once k*ll a bear with his bare hands.
+
+<stage>OTHER BULLY</stage>Oh, sorry.
+
+<stage>KEARNY</stage>We forgot how much you love Jebediah <location>Springfield</location>.
+
+<stage><person>JIMBO</person></stage>Yeah, he's your boyfriend.
+
+<stage>KEARNY</stage>Yeah.
+
+<stage><person>BART</person></stage>Come on, guys.  Knock it off.
+
+<stage><person>JIMBO</person></stage>b*at it, Simpson.  Man, I thought you were cool.
+
+They laugh as <fam><person>Bart</person></fam> slowly walks away.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Bart</person></fam> walks with head down in shame.  He arrives at the park, where he stares up at the statue.  Voices replay in his head.
+
+<stage><person>JIMBO</person></stage>b*at it, Simpson.  Man, I thought you were cool.
+
+<fam><person>Bart</person></fam> looks up at the head once more.
+
+<stage><person>BART</person></stage>Aha!
+
+He runs off.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Homer</person></fam> sits alongside <fam><person>Maggie</person></fam>, looking through a bowling magazine.
+
+<stage><person>HOMER</person></stage>Wow!  Look at these bowling balls, <fam><person>Maggie</person></fam>.  Can you think of a better way for Daddy to spend his hard-won 50 bucks?
+
+<fam><person>Maggie</person></fam> sucks her pacifier.  <fam><person>Homer</person></fam> turns the page and gasps.
+
+<stage><person>HOMER</person></stage>Now I've seen everything.  Black marbleized with a liquid center.
+
+He shows her the book.
+
+<stage><person>HOMER</person></stage>The Stealth Bowler.  The pins don't know what hit them.
+
+<stage><person>BART</person></stage>Dad, can I talk to you about something?
+
+<fam><person>Homer</person></fam> brings the magazine done, revealing <fam><person>Bart</person></fam>'s face.
+
+<stage><person>HOMER</person></stage>Sure, boy, what's on your mind?
+
+He puts <fam><person>Bart</person></fam> on his lap.
+
+<stage><person>BART</person></stage>Well, I was wondering.  How important is it to be popular?
+
+<stage><person>HOMER</person></stage>I'm glad you asked, son.  Being popular is the most important thing in the world.
+
+<stage><person>BART</person></stage>So, like, sometimes you could do stuff you think is pretty bad so other kids will like you better?
+
+<stage><person>HOMER</person></stage>You're not talking about k*ll anyone, are you?
+
+<stage><person>BART</person></stage>No.
+
+<stage><person>HOMER</person></stage>Are you?
+<stage><person>BART</person></stage>No!
+
+<stage><person>HOMER</person></stage>Then run along you little scamp.  A boy without mischief is like a bowling ball without a liquid center.
+
+<fam><person>Bart</person></fam> walks out of the kitchen as we:
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Bart</person></fam>'s bedroom.  The alarm clock rings and a hand stealthily stops it.  A shadow moves across the house.  They  peek into <fam><person>Homer</person></fam>'s room.  The magazine is on top of <fam><person>Homer</person></fam>, he is sleeping and drooling.
+
+The door shuts.  <fam><person>Bart</person></fam> <stage>(the shadow)</stage> slides down the staircase.  He is dressed in a black suit which makes him close to unrecognizable.  He jumps around like a ninja.
+
+He steps on the cat, but then claps his hand over its mouth.  He proceeds to open a window, throw the cat out, and climb out himself.  He moves across the front yard.
+
+He's seen running through <location>Springfield</location>, past a traffic light, past the movie theater <stage>(now closed)</stage>.  He arrives and looks down to see a large shadow.  It is Jebediah <location>Springfield</location>, looming over him.
+
+He takes out a saw from his back and climbs the statue.  At the top, he begins cutting and cutting as we move back to show a lot of <location>Springfield</location>.  There is a loud clank and the head falls against the ground.
+
+<stage><person>BART</person></stage>What have I done?
+
+FADE TO BLACK
+
+FADE IN;
+
+A sh*t of the Simpsons house before we find <fam><person>Bart</person></fam> asleep in his bed.  He yawns, opens his eyes --- and finds himself staring straight at the head!  He screams.
+
+<stage><person>MARGE</person></stage><fam><person>Bart</person></fam>, are you all right?
+
+<stage><person>BART</person></stage>Uh, yeah.  Top of the world, ma.
+
+<stage><person>MARGE</person></stage>Well, then come down for breakfast.
+
+<stage>CUT TO</stage>
+
+<fam><person>Homer</person></fam> and <fam><person>Lisa</person></fam> eat at the table as <fam><person>Marge</person></fam> paces around the kitchen.  <fam><person>Homer</person></fam> continues reading the book.
+
+<stage><person>HOMER</person></stage>Ooh!  Look at this one.  "The Hammer of Thor: it will send your pins to Val-halla."  <fam><person>Lisa</person></fam>?
+
+<stage><person>LISA</person></stage>Valhalla is where Vikings go when they die.
+
+<stage><person>HOMER</person></stage>Ooh, that's some ball.
+
+<fam><person>Bart</person></fam> arrives.  He carries a large sack over his back.
+
+<stage><person>BART</person></stage>Good morning, everybody.
+
+He sets the sack down and it clanks on the floor.  Everybody looks over suspiciously.
+
+<stage>RADIO ANNOUNCER</stage>We interrupt "Mambo in the Morning" to bring you this special news bulletin.  The statue of Jebediah <location>Springfield</location>, our illustrious town founder, was brutally decapitated last night in an act of senseless vandalism.
+
+The entire family gasps.  <fam><person>Bart</person></fam> looks over at the bag.
+
+<stage>RADIO ANNOUNCER</stage>We now go to Police Chief <person>Wiggum</person> at <location>City Hall</location>.
+
+<stage>CUT TO</stage>
+
+<location>City Hall</location>, where a large group of reporters gather around <person>WIGGUM</person>.
+
+<stage><person>WIGGUM</person></stage>Well, we have no witnesses, no suspects, no leads.  If anyone has any information, please dial "O" and ask for the police.  That number again.  "O".
+
+<stage>CUT TO</stage>
+
+Back to kitchen, where the entire family has gathered.
+
+<stage>RADIO ANNOUNCER</stage>Stay tuned to this station for further developments as they break <stage>(sobbing)</stage>.
+
+<stage><person>BART</person></stage>It's just a statue.
+
+<stage><person>MARGE</person></stage>The statue of the trailblazing founder of our town.
+
+<stage><person>LISA</person></stage>It's a symbol of what we can all do if we put our minds to it.
+
+<stage><person>HOMER</person></stage>Just a statue?  is <location>the Statue of Liberty</location> just a statue?  Is the Leaning Tower of Pizza just a statue?
+
+A horn honks.
+
+<stage><person>BART</person></stage>Uh-oh.  School bus.  Come on, <fam>Lis</fam>.  School bus.
+
+He picks up the backpack.  <fam><person>Lisa</person></fam> looks down sadly at the table.
+
+<stage><person>MARGE</person></stage>Go on, <fam><person>Lisa</person></fam>.  We've all got to be brave, just like Jebediah when he k*ll that bear.
+
+<stage><person>LISA</person></stage>It's so awful.
+
+<stage>CUT TO</stage>
+
+<person>Moe</person>'s bar.  <person>MOE</person> speaks to his daily group of customers, all of whom have bowed their heads in disappointment.
+
+<stage><person>MOE</person></stage>Okay, come on.  Come on, everybody.  We gotta get on with our lives.  Let's try and put this tragedy behind us.
+
+<stage><person>BARNEY</person></stage>You're right, <person>Moe</person>.  A beer, please, and make sure there's a head on it.
+
+<person>Moe</person> starts sobbing.
+
+<stage>CUT TO</stage>
+
+<location>The Springfield Retirement Home</location>, where <fam>ABE</fam> SIMPSON sits on a bench along with other seniors.
+
+<stage><fam>ABE</fam></stage>I said it before, and I'll say it again.  "Hell in a handbasket!"  I hope they find the punk who did this, and I hope they cut his head off.
+
+<stage>SENIORS</stage>Yeah!
+
+<stage>CUT TO</stage>
+
+<fam><person>Bart</person></fam>, who spies <person>Jimbo</person>, Kearny, and the other bully lying on a field of grass.  Nearby,  a sign says "Keep off the Grass"
+
+<stage><person>BART</person></stage>Hi, guys.  What's up?
+
+<stage><person>JIMBO</person></stage>We were just saying we'd love to meet the guy who cut off the head of that statue.
+
+<stage>OTHER BULLY</stage>Yeah, we wish he were here right now.
+
+<stage><person>BART</person></stage>Oh, really?
+
+<fam><person>Bart</person></fam> zips open his bag.
+
+<stage>KEARNY</stage>Yeah, we'd break every bone in his stupid little body.
+
+<fam><person>Bart</person></fam> zips the bag back up.
+
+1838.
+
+The title on the TV reads: <location>Springfield</location>  A City Held Hostage Day One.
+
+Jebediah is shown chopping a log.  A bear emerges out of the tree and Jebediah throws his axe away.
+
+<stage>TV REPORTER</stage>Along the way he met a ferocious bear and k*ll him with his bare hands.  That's "B-A-R-E" hands.
+
+Jebediah wrestles the bear to the ground.
+
+<stage>TV REPORTER</stage>Although modern historians recently uncovered evidence that the bear, in fact, probably k*ll him.  But whether bear k*ll man---
+
+<stage><person>BART</person></stage>Mom.  Dad.
+
+<fam><person>Bart</person></fam> holds up the head in front of the family.
+
+<stage><person>HOMER</person></stage>I knew it all along!
+
+<stage><person>MARGE</person></stage>Why, <fam><person>Bart</person></fam>?  Why?
+
+<stage><person>HOMER</person></stage>Yeah, why?  You little---.
+
+<fam><person>Homer</person></fam> stalks menacingly towards <fam><person>Bart</person></fam>.
+
+<stage><person>BART</person></stage>Because I wanted some really bad kids to like me.  Somehow I got the idea of being popular was the most important thing in the world.
+
+<stage><person>MARGE</person></stage>Where did you get a ridiculous idea like that?
+
+<fam><person>Homer</person></fam> cringes between his teeth.
+
+<stage><person>HOMER</person></stage>Uhh --- lay off the boy, <fam><person>Marge</person></fam>.  He's a good kid.  Quit giving him the third degree.
+
+<stage><person>MARGE</person></stage><fam><person>Homer</person></fam>, did you have something to do with this?
+
+<stage><person>HOMER</person></stage>Well, maybe I am a little responsible.
+
+<stage><person>MARGE</person></stage>A little?
+
+<stage><person>HOMER</person></stage>Come on, son.  Let's take the head thing back to the authorities.
+
+<stage>CUT TO</stage>
+
+The same sequence as in the beginning of the episode.  <fam><person>Homer</person></fam> and <fam><person>Bart</person></fam> walk along the dark street.
+
+<stage><person>HOMER</person></stage>You know, <fam><person>Bart</person></fam>, when I was your age, I pulled a few boners.  But I think you'll find that people are pretty decent if you give them half--
+
+Once again, they turn the corner and they find themselves facing the bloodthirsty crowd.
+
+<stage><person>BURNS</person></stage>Look, there it is, the head!
+
+<stage><person>KRUSTY</person></stage>k*ll him!
+
+<fam><person>Homer</person></fam> and <fam><person>Bart</person></fam> set off on a run.
+
+<person>BARNEY</person> <stage>(present)</stage>: All right.  All right.
+
+<person>KRUSTY</person> <stage>(present)</stage>: We know this part.
+
+<person>BART</person> <stage>(present)</stage>: Oh, yeah, right.
+
+<stage>DISSOLVE TO</stage>
+
+<fam><person>Bart</person></fam> and <fam><person>Homer</person></fam> around the statue the crowd still gathering around them.
+
+<stage><person>BART</person></stage>Well, that's my story.  And if you still wanna tear apart this young Sunday school student as he stands on the brink of salvation, I await your wrath.
+
+<stage>CROWD</stage>Aw!
+
+<stage><person>KRUSTY</person></stage>Somehow I don't feel like k*ll anymore.
+
+<stage>EDNA KRABAPPEL</stage>Neither do I.
+
+<stage><person>BART</person></stage>Dad.
+
+<fam><person>Homer</person></fam> hands the head to <fam><person>Bart</person></fam>.  The crowd watches in excitement.  Even Kearny and <person>Jimbo</person> are there.
+
+<person>BART</person> <stage>(thinking)</stage>: Forgive me, sir.
+
+<stage>JEBEDIAH</stage>No problem, <fam><person>Bart</person></fam>.
+
+<fam><person>Bart</person></fam> places the head on top.
+
+DR.<stage> MARVIN</stage>Look!  It's glorious.
+
+<stage>OTTO</stage>It's beautiful, man.
+
+<stage><person>BURNS</person></stage>I love you, <person>Smithers</person>.
+
+<stage><person>SMITHERS</person></stage>The feeling is more than mutual, sir.
+
+The crowd cheers and applauds as <fam><person>Bart</person></fam> jumps into <fam><person>Homer</person></fam>'s arms.
+
+<stage><person>HOMER</person></stage>Whoo!
+
+DISSOLVE TO;
+
+<fam><person>Homer</person></fam> and <fam><person>Bart</person></fam> walking away from the scene.  The crowd continues to stare at the statue.
+
+<stage><person>HOMER</person></stage>Good going, son.  But remember --- most lynch mobs aren't this nice.
+
+FADE OUT
+
+CREDITS BEGIN
+
+THE END.
+</txt></xml>
