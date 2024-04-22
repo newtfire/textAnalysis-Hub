@@ -45,8 +45,9 @@ declare variable $sortedEpisodesByCutins :=
 
 
 declare variable $svgEpisode :=
-<svg width="400" height="18000" viewBox="0 0 400 20000" xmlns="http://www.w3.org/2000/svg">
-    <desc>Cutin Data by Episode. Let's plot this running DOWN the screen since there are lots of episodes. We'll just use the y values as they 
+<svg width="600" height="18000" viewBox="0 0 600 18000" xmlns="http://www.w3.org/2000/svg">
+    <desc>Cutin Data by Episode. Let's plot this running DOWN the screen since there are lots of episodes.
+    We'll just use the y values as they 
     accumulate to plot down the screen. </desc>
     
    <g id="wholePlot" transform="translate(50, 50)">
@@ -55,8 +56,7 @@ declare variable $svgEpisode :=
     let $epIdentifier := $ep ! base-uri() ! tokenize(., '/')[last()] ! substring-before(., '.xml')
     (: base the episode identifier on the filename, and cut off the .xml from the end:)
     let $totalcutIns := $ep//Q{}cutIn => count()
-    where $totalcutIns > 0
-    order by $totalcutIns descending
+   
         
      return 
  

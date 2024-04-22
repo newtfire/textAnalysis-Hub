@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="400"
+     width="600"
      height="18000"
-     viewBox="0 0 400 20000">
-   <desc>Cutin Data by Episode. Let's plot this running DOWN the screen since there are lots of episodes. We'll just use the y values as they 
+     viewBox="0 0 600 18000">
+   <desc>Cutin Data by Episode. Let's plot this running DOWN the screen since there are lots of episodes.
+    We'll just use the y values as they 
     accumulate to plot down the screen. </desc>
    <g id="wholePlot" transform="translate(50, 50)">
       <g id="The_Grand_Turnabout_-_Transcript_-_Part_2">
