@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc>This is a drawing of an eyeball as an SVG warmup.</desc>
+    <g alignment-baseline="baseline">
+        
+        <defs>
+            <linearGradient id="grad1" x1="0%" x2="0%" y1="0%" y2="100%">
+                <stop offset="0%" stop-color="#c5d5e6" />
+                <stop offset="100%" stop-color="white" />
+            </linearGradient>
+            
+            <linearGradient id="grad2" x1="0%" x2="0%" y1="0%" y2="100%">
+                <stop offset="0%" stop-color="#23401d" />
+                <stop offset="100%" stop-color="#54a83d" />
+            </linearGradient>
+            
+            <filter id="f1" x="0" y="0">
+                <feGaussianBlur in="SourceGraphic" stdDeviation="1" />
+            </filter>
+            
+            <path id="ref" d="M 300 100 q 200 -100 400 0" stroke="black" stroke-width="3"/>
+            <path id="refmirror" d="M 300 550 q 200 100 400 0" stroke="black" stroke-width="3"/>
+        </defs>
+        
+        <!-- Eye -->
+        <path id="lid" d="M 300 230 q 200 -100 400 0" stroke="black" stroke-width="3" fill="#989e8b"/>
+        <ellipse rx="200" ry="105" cx="500" cy="300" fill="url(#grad1)" stroke="black" stroke-width="3"/>
+        <circle cx="500" cy="300" r="100" fill="url(#grad2)" stroke="#23401d" stroke-width="3"/>
+        <circle cx="500" cy="300" r="40" fill="black"/>
+        <circle style="opacity:85%" cx="470" cy="270" r="20" fill="white" filter="url(#f1)"/>
+        
+        <!-- Eye Detail -->
+        <ellipse rx="10" ry="30" cx="500" cy="230" fill="#d7ed68" filter="url(#f1)"/>
+        <ellipse rx="30" ry="10" cx="430" cy="300" fill="#d7ed68" filter="url(#f1)"/>
+        <ellipse rx="10" ry="30" cx="500" cy="370" fill="#d7ed68" filter="url(#f1)"/>
+        <ellipse rx="30" ry="10" cx="570" cy="300" fill="#d7ed68" filter="url(#f1)"/>
+        
+        
+        <!-- Lashes -->
+        <line x1="240" y1="150" x2="370" y2="220" style="stroke:black;stroke-width:3" />
+        <line x1="760" y1="150" x2="630" y2="220" style="stroke:black;stroke-width:3" />
+        <line x1="240" y1="450" x2="370" y2="380" style="stroke:black;stroke-width:3" />
+        <line x1="760" y1="450" x2="630" y2="380" style="stroke:black;stroke-width:3" />
+        <line x1="500" y1="100" x2="500" y2="195" style="stroke:black;stroke-width:3" />
+        <line x1="500" y1="405" x2="500" y2="500" style="stroke:black;stroke-width:3" />
+        
+        <!-- Note: href is marked wrong, but using the xlink format does not show up when previewing -->
+        <text style="fill:red;font-size:25px;">
+            <textPath href="#ref" startOffset="120">First SVG Image!</textPath>
+            <textPath href="#refmirror" startOffset="120">First SVG Image!</textPath>
+            <animateTransform
+                attributeName="transform"
+                begin="0s"
+                dur="20s"
+                type="rotate"
+                from="0 500 300"
+                to="360 500 300"
+                repeatCount="indefinite" />
+        
+        </text> 
+    </g>
+</svg>
