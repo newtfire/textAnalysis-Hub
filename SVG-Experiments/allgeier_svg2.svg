@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" style="background-color: #eee7de;">
+    <desc>Bar graph comparing the sizes of three Polynesian islands</desc>
+    
+    <!-- Centering the graph -->
+    <g transform="translate(100, 50)">
+        <!-- Title -->
+        <text x="500" y="30" text-anchor="middle" font-size="36" font-weight="bold" fill="black">
+            Island Size Comparison (Square Miles)
+        </text>
+        
+        <!-- X and Y Axis -->
+        <g alignment-baseline="baseline">
+            <line x1="50" y1="650" x2="950" y2="650" stroke="black" stroke-width="3"/> <!-- X-axis -->
+            <line x1="50" y1="650" x2="50" y2="50" stroke="black" stroke-width="3"/> <!-- Y-axis -->
+            
+        <!-- Axis Labels -->
+            <text x="500" y="690" text-anchor="middle" font-size="20" fill="black">Islands</text>
+            <text x="20" y="350" text-anchor="middle" font-size="20" fill="black" transform="rotate(-90, 20, 350)">Square Miles</text>
+        </g>
+        
+        <!-- Gridlines -->
+        <g stroke="#adadad" stroke-dasharray="10,10">
+            <line x1="50" y1="550" x2="950" y2="550"/>
+            <line x1="50" y1="450" x2="950" y2="450"/>
+            <line x1="50" y1="350" x2="950" y2="350"/>
+            <line x1="50" y1="250" x2="950" y2="250"/>
+            <line x1="50" y1="150" x2="950" y2="150"/>
+        </g>
+        
+        <!-- Bars and Labels -->
+        <g>
+            <!-- Tahiti -->
+            <rect x="150" y="246" width="100" height="404" fill="url(#blueGradient)" rx="10" ry="10">
+                <animate attributeName="height" from="0" to="404" begin="0.5s" dur="1s" fill="freeze" />
+                <animate attributeName="y" from="650" to="246" begin="0.5s" dur="1s" fill="freeze" />
+            </rect>
+            <text x="200" y="240" text-anchor="middle" font-size="16" fill="black">Tahiti</text>
+            <text x="200" y="220" text-anchor="middle" font-size="14" fill="black">404 sq mi</text>
+            
+            <!-- Tongatapu -->
+            <rect x="350" y="550" width="100" height="100" fill="url(#greenGradient)" rx="10" ry="10">
+                <animate attributeName="height" from="0" to="100" begin="0.6s" dur="1s" fill="freeze" />
+                <animate attributeName="y" from="650" to="550" begin="0.6s" dur="1s" fill="freeze" />
+            </rect>
+            <text x="400" y="545" text-anchor="middle" font-size="16" fill="black">Tongatapu</text>
+            <text x="400" y="525" text-anchor="middle" font-size="14" fill="black">100 sq mi</text>
+            
+            <!-- Raiatea -->
+            <rect x="550" y="585" width="100" height="65" fill="url(#redGradient)" rx="10" ry="10">
+                <animate attributeName="height" from="0" to="65" begin="0.7s" dur="1s" fill="freeze" />
+                <animate attributeName="y" from="650" to="585" begin="0.7s" dur="1s" fill="freeze" />
+            </rect>
+            <text x="600" y="580" text-anchor="middle" font-size="16" fill="black">Raiatea</text>
+            <text x="600" y="560" text-anchor="middle" font-size="14" fill="black">65 sq mi</text>
+        </g>
+    </g>
+    
+    <!-- Gradients -->
+    <defs>
+        <linearGradient id="blueGradient" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#0073e6" />
+            <stop offset="100%" stop-color="#99ccff" />
+        </linearGradient>
+        <linearGradient id="greenGradient" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#00b300" />
+            <stop offset="100%" stop-color="#99e699" />
+        </linearGradient>
+        <linearGradient id="redGradient" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#cc0000" />
+            <stop offset="100%" stop-color="#ff6666" />
+        </linearGradient>
+    </defs>
+</svg>
