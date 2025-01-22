@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
+    
+    <linearGradient x1="0%" x2="0%" y1="10%" y2="100%" id="gradient">
+        <stop style="stop-color:#0000FF" offset="0"></stop>  <!-- color blue  top color -->
+        <stop style="stop-color:#FFFFFF" offset="1"></stop>   <!-- color white  bottom color --> 
+    </linearGradient>
+    
+    <g transform="translate(50, 20)">
+
+<!-- animates the bar -->  <!-- gradient to mix the colors --> 
+    <rect width="50" height="14" x="0" y="8" fill="url(#gradient)">
+        <animate attributeName="height" from="0" to="14" dur="3s" id="animation1"></animate>    
+        
+    </rect>
+    <text x="25" y="5" style="text-anchor: middle;">65 sq miles</text>
+    <text x="25" y="30" style="text-anchor: middle;">Raiatea</text>
+    
+<!-- on load each bar should start at zero -->
+    <rect width="50" height="22" x="60" y="0" fill="url(#gradient)">
+        
+        <!-- over three seconds the bar should animate to full height --> 
+        <animate attributeName="height" from="0" to="22" dur="3s" id="animation2"></animate>    
+    </rect>
+    <text x="85" y="-5" style="text-anchor: middle;">404 sq miles</text>
+    <text x="85" y="30" style="text-anchor: middle;">Tongatapu</text>
+    
+
+    <rect width="50" height="15" x="120" y="7" fill="url(#gradient)">
+        <animate attributeName="height" from="0" to="18" dur="3s" id="animation3"></animate>    
+    </rect>
+    <text x="145" y="5" style="text-anchor: middle;">100 sq miles</text>
+    <text x="145" y="30" style="text-anchor: middle;">Tahiti</text>
+    
+    <!-- css to style --> 
+    
+    <style type="text/css"> 
+        text {
+        font-family: Arial, sans-serif;
+        font-size: 12px;
+        fill: #000;
+        }
+    </style>
+    </g>
+</svg>
+
