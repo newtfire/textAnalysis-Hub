@@ -45,7 +45,7 @@ A **Merge Request** can be performed on the Git Hub website itself, so no shell 
 ### Oh, That Old Thing? It's a Branch
 Let's assume your branch has been approved for merging and the deed has been done. Now what? If you've done some looking around on the repo page, your branch is still there. Let's asssume some time has passed and the branch was left untouched. It's outdated now and keeping it there could cause confusion, project bloat, and/or anoying your peers after noticing their small project has well over 100 branches. It's time you learn how to delete outdated/stale branches. 
 
-right-click the root file of the repo and open Git Bash there. Git pull. Then make sure how many branches are there by submitting the command:
+right-click the root file of the repo and open Git Bash there. Git pull. Then make sure how many branches there are by submitting the command:
 ```
 git branch
 ```
@@ -54,6 +54,8 @@ The console should return your branch, *new-branch* amongst others. Now delete i
 git branch -d branch_name
 ```
 with *branch_name* replaced with the actual name of your branch. Just like that, your project just got a little bit cleaner with that stale branch chopped off. You're welcome.
+
+**Note:** You cannot delete a branch you're currently in. You must navagate out to a different branch you find yourself in that situation. Fortunately, the next section should teach you how to do just that.
 
 ----------
 
@@ -64,7 +66,7 @@ git checkout branch_name
 ```
 Using **git checkout** without **-b** or **-d** results in you entering that branch in Git Bash. If you wish to return to the main branch, enter:
 ```
-git checkout base:main
+git checkout main
 ```
 
 ----------
