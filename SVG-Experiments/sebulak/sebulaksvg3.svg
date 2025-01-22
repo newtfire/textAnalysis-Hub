@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc></desc>
+    <g alignment-baseline="baseline"></g>
+
+<desc>Graph Setup</desc>
+    <line x1="100" y1="100" x2="100" y2="600" style="stroke:black;stroke-width:1" />
+    <line x1="100" y1="600" x2="700" y2="600" style="stroke:black;stroke-width:1" />
+    <text x="150" y="75" fill="black" font-size="30">Relative Size (in square miles) of Three Pacific Islands</text>
+
+    <desc>Tahiti</desc>
+    <rect width="150" height="404" x="105" y="196" fill="yellow" />
+    <text x="105" y="650" fill="black" font-size="20">Tahiti (404 sq mi)</text>
+    
+    <desc>Raiatea</desc>
+    <rect width="150" height="65" x="305" y="535" fill="red" />
+    <text x="305" y="650" fill="black" font-size="20">Raiatea (65 sq mi)</text>
+    
+    <desc>Tongatapu</desc>
+    <rect width="150" height="100" x="505" y="500" fill="blue" />
+    <text x="505" y="650" fill="black" font-size="20">Tongatapu (100 sq mi)</text>
+    
+    <desc>animating</desc>
+    <text x="900" y="100" fill="pink" font-size="20">i wanted to try animating....</text>
+    <circle cx="950" cy="150" r="25" fill="pink">
+        <animate
+            attributeName="cx"
+            begin="0s"
+            dur="2s"
+            from="950"
+            to="1100"
+            repeatCount="indefinite"
+        />
+    </circle>
+    <rect x="925" y="200" height="50" width="50" fill="pink">
+        <animate
+            attributeName="y"
+            begin="0s"
+            dur="4s"
+            from="200"
+            to="400"
+            repeatCount="indefinite"
+        />
+    </rect>
+    
+    
+</svg>
