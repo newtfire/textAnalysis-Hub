@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 800 600">
+    <desc>
+        This SVG shows three islands (Tahiti, Raiatea, Tongatapu) as pulsing stars in a night sky. 
+        Star size shows island size.
+    </desc>
+    
+    
+        <!-- Moon gradient -->
+        <radialGradient id="moonGradient" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stop-color="white" />
+            <stop offset="100%" stop-color="white" />
+        </radialGradient>
+        
+        <!-- Moon glow -->
+        <filter id="glow">
+            <feGaussianBlur stdDeviation="5" result="coloredBlur" />
+            <feMerge>
+                <feMergeNode in="coloredBlur" />
+                <feMergeNode in="SourceGraphic" />
+            </feMerge>
+        </filter>
+        
+        <!-- Shooting star path -->
+        <path id="shootingStarPath" d="M100,100 C300,200 500,50 700,300" fill="none" />
+    
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="darkblue" />
+    
+    <!-- Moon -->
+    <circle cx="700" cy="100" r="50" fill="url(#moonGradient)" filter="url(#glow)" />
+    
+    <!-- Title -->
+    <text x="400" y="50" font-family="Arial" font-size="24" fill="white" text-anchor="middle">
+        Island Area Comparison: Animated Stars
+    </text>
+    
+   
+    <g transform="translate(100, 500)">
+        <!-- X-axis -->
+        <line x1="0" y1="0" x2="600" y2="0" stroke="white" stroke-width="2" />
+        <text x="610" y="0" font-family="Arial" font-size="14" fill="white" text-anchor="start">
+            X-axis
+        </text>
+        
+        <!-- Y-axis -->
+        <line x1="0" y1="0" x2="0" y2="-400" stroke="white" stroke-width="2" />
+        <text x="10" y="-410" font-family="Arial" font-size="14" fill="white" text-anchor="start">
+            Y-axis
+        </text>
+    </g>
+    
+    <!-- Star for Tahiti -->
+    <g transform="translate(300, 250)">
+        <polygon points="0,-60 18,-20 58,-20 23,8 36,48 0,25 -36,48 -23,8 -58,-20 -18,-20"
+            fill="cyan" opacity="0.8">
+            <animateTransform attributeName="transform" type="scale" begin="0s" dur="3s" repeatCount="indefinite"
+                values="1; 1.5; 1" keyTimes="0; 0.5; 1" />
+            <animate attributeName="fill" values="cyan; lightblue; cyan" dur="3s" repeatCount="indefinite" />
+        </polygon>
+        <text x="0" y="80" font-family="Arial" font-size="14" fill="white" text-anchor="middle">
+            Tahiti (404 sq mi)
+        </text>
+    </g>
+    
+    <!-- Star for Raiatea -->
+    <g transform="translate(400, 400)">
+        <polygon points="0,-30 9,-10 29,-10 12,4 18,24 0,12 -18,24 -12,4 -29,-10 -9,-10"
+            fill="lime" opacity="0.8">
+            <animateTransform attributeName="transform" type="scale" begin="0s" dur="3s" repeatCount="indefinite"
+                values="1; 1.5; 1" keyTimes="0; 0.5; 1" />
+            <animate attributeName="fill" values="lime; lightgreen; lime" dur="3s" repeatCount="indefinite" />
+        </polygon>
+        <text x="0" y="50" font-family="Arial" font-size="14" fill="white" text-anchor="middle">
+            Raiatea (65 sq mi)
+        </text>
+    </g>
+    
+    <!-- Star for Tongatapu -->
+    <g transform="translate(500, 250)">
+        <polygon points="0,-40 12,-13 38,-13 15,6 24,32 0,17 -24,32 -15,6 -38,-13 -12,-13"
+            fill="orange" opacity="0.8">
+            <animateTransform attributeName="transform" type="scale" begin="0s" dur="3s" repeatCount="indefinite"
+                values="1; 1.5; 1" keyTimes="0; 0.5; 1" />
+            <animate attributeName="fill" values="orange; gold; orange" dur="3s" repeatCount="indefinite" />
+        </polygon>
+        <text x="0" y="60" font-family="Arial" font-size="14" fill="white" text-anchor="middle">
+            Tongatapu (100 sq mi)
+        </text>
+    </g>
+</svg>
