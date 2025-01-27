@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="500">
+  <desc></desc>
+  <g alignment-baseline="baseline">
+    
+    <defs>
+      <filter id="f1" x="0" y="0">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="15" />
+      </filter>
+    </defs>
+    
+    <text x="150" y="60" fill="pink" stroke="blue" font-size="35">Areas of 3 Polynesian Islands</text>
+    
+    <text x="305" y="400" fill="purple">Area in Square Miles</text>
+    
+    <line x1="130" y1="325" x2="625" y2="325" style="stroke:purple;stroke-width:3" />
+    <line x1="145" y1="75" x2="145" y2="335" style="stroke:purple;stroke-width:3" />
+    
+    <text x="145" y="350" fill="purple" rotate="30">0</text>
+    <line x1="145" y1="315" x2="145" y2="335" style="stroke:purple;stroke-width:3" />
+    
+    <text x="195" y="350" fill="purple" rotate="30">50</text>
+    <line x1="195" y1="315" x2="195" y2="335" style="stroke:purple;stroke-width:3" />
+    
+    <text x="245" y="350" fill="purple" rotate="30">100</text>   
+    <line x1="245" y1="315" x2="245" y2="335" style="stroke:purple;stroke-width:3" />
+    
+    <text x="295" y="350" fill="purple" rotate="30">150</text>
+    <line x1="295" y1="315" x2="295" y2="335" style="stroke:purple;stroke-width:3" />
+    
+    <text x="345" y="350" fill="purple" rotate="30">200</text>
+    <line x1="345" y1="315" x2="345" y2="335" style="stroke:purple;stroke-width:3" />
+    
+    <text x="395" y="350" fill="purple" rotate="30">250</text>
+    <line x1="395" y1="315" x2="395" y2="335" style="stroke:purple;stroke-width:3" />
+    
+    <text x="445" y="350" fill="purple" rotate="30">300</text>
+    <line x1="445" y1="315" x2="445" y2="335" style="stroke:purple;stroke-width:3" />
+    
+    <text x="495" y="350" fill="purple" rotate="30">350</text>
+    <line x1="495" y1="315" x2="495" y2="335" style="stroke:purple;stroke-width:3" />
+    
+    <text x="545" y="350" fill="purple" rotate="30">400</text>
+    <line x1="545" y1="315" x2="545" y2="335" style="stroke:purple;stroke-width:3" />
+    
+    <text x="595" y="350" fill="purple" rotate="30">450</text>
+    <line x1="595" y1="315" x2="595" y2="335" style="stroke:purple;stroke-width:3" />
+    
+    
+    <text x="73" y="135" fill="red">Tahiti</text>
+    <rect width="404" height="50" x="150" y="110" style="fill:rgb(255,0,0);stroke-width:5;stroke:black" filter="url(#f1)" />
+    
+    <text x="73" y="205" fill="green">Raiatea</text>
+    <rect width="65" height="50" x="150" y="180" style="fill:rgb(0,255,0);stroke-width:5;stroke:black" filter="url(#f1)" />
+    
+    <text x="73" y="275" fill="blue">Tongatapu</text>
+    <rect width="100" height="50" x="150" y="250" style="fill:rgb(0,0,255);stroke-width:5;stroke:black" filter="url(#f1)" />
+  </g>
+</svg>
