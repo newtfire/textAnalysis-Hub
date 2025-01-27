@@ -37,14 +37,23 @@
                     for each one -->
                 <circle cx="{$x-spacer * position()}"
                     cy="{-250}" 
-                    r="{count(descendant::special[@whatsIt='magicEgg']) * $y-spacer}"
-                    fill="purple"
+                    r="100"
+                    fill="white"
                     stroke="black"
-                    stroke-width="2"
+                    stroke-width="3"
                 />
-                
+                <g transform="rotate(-{count(descendant::special[@whatsIt='rocketShip']) * $y-spacer})">
+                <line x1="{$x-spacer * position()}"
+                    y1="{-250}" 
+                    x2="{$x-spacer * position()}"
+                    y2="{-350}"
+      
+                    stroke="black"
+                    stroke-width="10"
+                />
+                </g>
  
-            </xsl:for-each>
+            </xsl:for-each> 
            </g>
         </svg>  
     </xsl:template>
