@@ -14,7 +14,7 @@
         use the xpath-default-namespace="..." to apply it.) 
     -->
     
-    <xsl:variable name="x-spacer" select="20"/>
+    <xsl:variable name="x-spacer" select="200"/>
     
     <xsl:variable name="y-spacer" select="10"/>
     
@@ -39,6 +39,8 @@
                     cy="{-250}" 
                     r="{count(descendant::special[@whatsIt='magicEgg']) * $y-spacer}"
                     fill="purple"
+                    stroke="black"
+                    stroke-width="2"
                 />
                 
  
