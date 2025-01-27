@@ -37,7 +37,7 @@
                     for each one -->
                 <circle cx="{$x-spacer * position()}"
                     cy="{-250}" 
-                    r="{count(descendant::special[@whatsIt='powerUp']) * $y-spacer}"
+                    r="{count(descendant::special) * $y-spacer}"
                     fill="purple"
                     stroke="black"
                     stroke-width="2"
