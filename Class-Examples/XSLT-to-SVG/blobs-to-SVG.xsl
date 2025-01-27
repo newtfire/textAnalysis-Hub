@@ -14,9 +14,9 @@
         use the xpath-default-namespace="..." to apply it.) 
     -->
     
-    <xsl:variable name="x-spacer" select="20"/>
+    <xsl:variable name="x-spacer" select="40"/>
     
-    <xsl:variable name="y-spacer" select="10"/>
+    <xsl:variable name="y-spacer" select="40"/>
     
     <xsl:output method="xml" indent="yes"/>
     
@@ -29,17 +29,25 @@
                 0,0 will move down the screen to 20, 500. 
             See https://www.w3schools.com/graphics/svg_transformations.asp 
             -->
-           <g transform="translate(20 500)">
+           <g transform="translate(40 500)">
             
             <xsl:for-each select="descendant::blob">
                 
                 <!-- We'll process the blob elements in here and output a shape 
                     for each one -->
                 <circle cx="{$x-spacer * position()}"
-                    cy="{-250}" 
-                    r="{count(descendant::special[@whatsIt='magicEgg']) * $y-spacer}"
-                    fill="purple"
+                    cy="{-180}" 
+                    r="{count(descendant::special[@whatsIt='rocketShip']) * $y-spacer}"
+                    fill="blue"
                 />
+                
+                <circle cx="{$x-spacer* position()}"
+                cy="{-180}"
+                r="{count(descendant::special[@whatsIt='powerUp'])* $y-spacer}"
+                fill="purple"
+                
+                />
+                
                 
  
             </xsl:for-each>
