@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%">
+   <desc>SVG created from A Big Ball of Text with Special Whatsits Inside</desc>
+   <g transform="translate(20 500)">
+      <circle cx="200" cy="100" r="50" fill="red" stroke="black"/>
+      <text x="155" y="100" fill="none" stroke="black" font-size="20">Magic Egg</text>
+      <circle cx="400" cy="100" r="50" fill="red" stroke="black"/>
+      <text x="355" y="100" fill="none" stroke="black" font-size="20">Magic Egg</text>
+      <circle cx="600" cy="100" r="40" fill="red" stroke="black"/>
+      <text x="555" y="100" fill="none" stroke="black" font-size="20">Magic Egg</text>
+      <circle cx="210" cy="0" r="30" fill="orange" stroke="black"/>
+      <circle cx="410" cy="0" r="0" fill="orange" stroke="black"/>
+      <circle cx="610" cy="0" r="0" fill="orange" stroke="black"/>
+      <circle cx="200" cy="-120" r="40" fill="yellow" stroke="black"/>
+      <circle cx="400" cy="-120" r="0" fill="yellow" stroke="black"/>
+      <circle cx="600" cy="-120" r="0" fill="yellow" stroke="black"/>
+      <circle cx="200" cy="-100" r="0" fill="green" stroke="black"/>
+      <circle cx="400" cy="-100" r="10" fill="green" stroke="black"/>
+      <circle cx="600" cy="-100" r="0" fill="green" stroke="black"/>
+      <circle cx="200" cy="-200" r="0" fill="blue" stroke="black"/>
+      <circle cx="400" cy="-200" r="10" fill="blue" stroke="black"/>
+      <circle cx="600" cy="-200" r="0" fill="blue" stroke="black"/>
+      <circle cx="200" cy="-300" r="0" fill="purple" stroke="black"/>
+      <circle cx="400" cy="-300" r="0" fill="purple" stroke="black"/>
+      <circle cx="600" cy="-300" r="10" fill="purple" stroke="black"/>
+      <circle cx="200" cy="-400" r="0" fill="pink" stroke="black"/>
+      <circle cx="400" cy="-400" r="0" fill="pink" stroke="black"/>
+      <circle cx="600" cy="-400" r="10" fill="pink" stroke="black"/>
+      <circle cx="200" cy="-450" r="0" fill="brown" stroke="black"/>
+      <circle cx="400" cy="-450" r="0" fill="brown" stroke="black"/>
+      <circle cx="600" cy="-450" r="10" fill="brown" stroke="black"/>
+      <line x1="0"
+            y1="-480"
+            x2="0"
+            y2="200"
+            style="stroke:black;stroke-width:3"/>
+      <line x1="0"
+            y1="200"
+            x2="670"
+            y2="200"
+            style="stroke:black;stroke-width:3"/>
+   </g>
+</svg>
