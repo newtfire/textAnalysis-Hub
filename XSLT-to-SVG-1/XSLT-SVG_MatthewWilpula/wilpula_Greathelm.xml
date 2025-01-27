@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This is a description of the Greathelm helm from Elden Ring -->
+<?xml-model href="wilpula_Greathelm.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <Added date="2022-02-25">2022-02-25</Added>
+    <item>Greathelm</item>
+    <weight num="5.9">Weight 5.9</weight>
+    <stats>
+        <!-- Left refers to the alignment of the header/child-elements in the source document -->
+        <column side="left">
+            <header>Damage Negation</header>
+            <stat>Physical <points num="5.5">5.5</points></stat>
+            <stat>VS Strike <points num="4.2">4.2</points></stat>
+            <stat>VS Slash <points num="5.8">5.8</points></stat>
+            <stat>VS Pierce <points num="5.2">5.2</points></stat>
+            <stat>Magic <points num="4.2">4.2</points></stat>
+            <stat>Fire <points num="4.6">4.6</points></stat>
+            <stat>Lightning <points num="3.8">3.8</points></stat>
+            <stat>Holy <points num="4.2">4.2</points></stat>
+        </column>
+        <column side="right">
+            <header>Resistance</header>
+            <stat>Immunity <points num="16">16</points></stat>
+            <stat>Robustness <points num="29">29</points></stat>
+            <stat>Focus <points num="11">11</points></stat>
+            <stat>Vitality <points num="11">11</points></stat>
+            <stat>Poise <points num="9">9</points></stat>
+        </column>
+    </stats>
+    <desc>
+        <p>Sturdy <itemName ref="item">greathelm</itemName> made from iron.</p>
+        <p>Though it is uncomfortably heavy and obstructs the vision of the wearer, it provides
+            considerable damage negation.</p>
+    </desc>
+</root>
