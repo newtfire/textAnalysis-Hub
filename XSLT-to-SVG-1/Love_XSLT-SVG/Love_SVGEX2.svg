@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc>Axes</desc>
+    <g transform="translate(100, 100)">
+    <g>
+        <desc> Title of the graph </desc>
+        <rect x="61" y="-75" width="380" height="50" fill="none" stroke="black" stroke-width="2" />
+        <text x="250" y="-40" text-anchor="middle" font-size="25" font-family="Arial" fill="black">
+            Sizes of Three Islands (in sq. mi.)
+        </text>
+    </g>
+    <g>
+        <desc> X-axis </desc>
+        <line x1="50" y1="250" x2="450" y2="250" stroke="black" stroke-width="2" />
+        
+        <desc> Y-axis </desc>
+        <line x1="50" y1="250" x2="50" y2="-25" stroke="black" stroke-width="2" />
+        
+        <desc> Y-axis labels </desc>
+        <text x="30" y="250" font-size="14" font-family="Arial">0</text>
+        <text x="17" y="200" font-size="14" font-family="Arial">1000</text>
+        <text x="17" y="150" font-size="14" font-family="Arial">1500</text>
+        <text x="17" y="100" font-size="14" font-family="Arial">2000</text>
+        <text x="17" y="50" font-size="14" font-family="Arial">9000</text>
+        <text x="17" y="0" font-size="14" font-family="Arial">9500</text>
+            
+        <desc> Axes Labels </desc>
+        <text x="250" y="300" text-anchor="middle" font-size="18" font-family="Arial">Islands</text>
+        <text x="10" y="130" text-anchor="middle" font-size="18" font-family="Arial" transform="rotate(-90, 10, 150)">
+            Area (sq. mi.)
+        </text>
+    </g>
+
+    <g>
+        <desc> Islands </desc>
+        
+        <desc> Alexandra Land (Zemlya Aleksandry)</desc>
+        <rect x="300" y="190" width="50" height="60" fill="#DEB887" />
+        <animate attributeName="height" from="0" to="60" dur="1s" begin="1s" fill="freeze" />
+        <text x="325" y="270" text-anchor="middle" font-size="14" font-family="Arial">Alexandra Land</text>
+        <text x="325" y="180" text-anchor="middle" font-size="14" font-family="Arial">1095</text>
+        
+        <desc> Copper Island </desc>
+        <rect x="200" y="143" width="50" height="106" fill="#b87333" />
+        <animate attributeName="height" from="0" to="106" dur="1s" begin="0.5s" fill="freeze" />
+        <text x="225" y="270" text-anchor="middle" font-size="14" font-family="Arial">Copper Island</text>
+        <text x="225" y="135" text-anchor="middle" font-size="14" font-family="Arial">1500</text>
+        
+        <desc> Kodiak Island </desc>
+        <rect x="100" y="22" width="50" height="228" fill="#7E543A" />
+        <animate attributeName="height" from="0" to="228" dur="1s" fill="freeze" />
+        <text x="125" y="270" text-anchor="middle" font-size="14" font-family="Arial">Kodiak Island</text>
+        <text x="125" y="15" text-anchor="middle" font-size="14" font-family="Arial">9310</text>
+    </g>
+    </g>
+</svg>
