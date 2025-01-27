@@ -15,7 +15,7 @@
     <xsl:template match="/">
         <svg width="100%">
             <g transform="translate(20 500)">
-                <xsl:for-each select="//stats">
+                <xsl:for-each select="//stat">
                     <circle cx="{$x-spacer * position()}"
                         cy="{-250}"
                         r="{descendant::points//@num * 10}"
