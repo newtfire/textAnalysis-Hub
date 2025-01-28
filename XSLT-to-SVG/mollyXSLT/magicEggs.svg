@@ -2,8 +2,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%">
    <desc>SVG created from A Big Ball of Text with Special Whatsits Inside</desc>
    <g transform="translate(20 500)">
-      <circle cx="200" cy="100" r="50" fill="red" stroke="black"/>
-      <text x="193" y="100" fill="white" stroke="black" font-size="25">5</text>
+      <rect x="200"
+            y="100"
+            width="50"
+            height="50"
+            fill="red"
+            stroke="black"/>
+      <text x="214" y="125" fill="white" stroke="black" font-size="25">5</text>
       <circle cx="210" cy="0" fill="orange" stroke="black" r="30"/>
       <text x="198.5" y="0" fill="white" stroke="black" font-size="25">3</text>
       <circle cx="200" cy="-120" r="40" fill="yellow" stroke="black"/>
@@ -13,8 +18,13 @@
       <circle cx="200" cy="-300" r="0" fill="purple" stroke="black"/>
       <circle cx="200" cy="-400" r="0" fill="pink" stroke="black"/>
       <circle cx="200" cy="-450" r="0" fill="brown" stroke="black"/>
-      <circle cx="400" cy="100" r="50" fill="red" stroke="black"/>
-      <text x="393" y="100" fill="white" stroke="black" font-size="25">5</text>
+      <rect x="400"
+            y="100"
+            width="50"
+            height="50"
+            fill="red"
+            stroke="black"/>
+      <text x="414" y="125" fill="white" stroke="black" font-size="25">5</text>
       <circle cx="410" cy="0" fill="orange" stroke="black" r="0"/>
       <circle cx="400" cy="-120" r="0" fill="yellow" stroke="black"/>
       <circle cx="400" cy="-100" r="10" fill="green" stroke="black"/>
@@ -32,8 +42,13 @@
       <circle cx="400" cy="-300" r="0" fill="purple" stroke="black"/>
       <circle cx="400" cy="-400" r="0" fill="pink" stroke="black"/>
       <circle cx="400" cy="-450" r="0" fill="brown" stroke="black"/>
-      <circle cx="600" cy="100" r="40" fill="red" stroke="black"/>
-      <text x="593" y="100" fill="white" stroke="black" font-size="25">4</text>
+      <rect x="600"
+            y="100"
+            width="40"
+            height="50"
+            fill="red"
+            stroke="black"/>
+      <text x="614" y="125" fill="white" stroke="black" font-size="25">4</text>
       <circle cx="610" cy="0" fill="orange" stroke="black" r="0"/>
       <circle cx="600" cy="-120" r="0" fill="yellow" stroke="black"/>
       <circle cx="600" cy="-100" r="0" fill="green" stroke="black"/>

@@ -30,10 +30,12 @@
                 
                 <xsl:for-each select="descendant::blob">
                    
-                    <circle cx="{$x-spacer * position()}" cy="{100}"
-                        r="{count(descendant::special[@whatsIt='magicEgg']) * $y-spacer}"
+                   
+                   
+                    <rect x="{$x-spacer * position()}" y="{100}"
+                        width="{count(descendant::special[@whatsIt='magicEgg']) * $y-spacer}" height="50"
                         fill="red" stroke="black"/>
-                    <xsl:if test="count(descendant::special[@whatsIt='magicEgg']) &gt; 0"><text x="{$x-spacer * position() - $radEgg div 2}" y="100" fill="white" stroke="black" font-size="25"><xsl:value-of select="count(descendant::special[@whatsIt='magicEgg'])"/></text></xsl:if>
+                    <xsl:if test="count(descendant::special[@whatsIt='magicEgg']) &gt; 0"><text x="{$x-spacer * position() + $radEgg}" y="125" fill="white" stroke="black" font-size="25"><xsl:value-of select="count(descendant::special[@whatsIt='magicEgg'])"/></text></xsl:if>
                     
                     <circle cx="{$x-spacer * position() + 10}" cy="{0}"
                         fill="orange" stroke="black" r="{count(descendant::special[@whatsIt='powerUp']) * $y-spacer}"/>
