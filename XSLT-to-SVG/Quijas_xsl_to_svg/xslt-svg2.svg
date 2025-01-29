@@ -18,12 +18,19 @@
             font-size="14"
             text-anchor="middle"
             fill="black">powerUp1</text>
-      <circle cx="200"
-              cy="-100"
-              r="30"
-              fill="lightblue"
-              stroke="black"
-              stroke-width="2"/>
+      <rect width="70"
+            height="70"
+            x="155"
+            y="-120"
+            fill="lightblue"
+            stroke="black"
+            stroke-width="2"
+            rx="0">
+         <animate attributeName="rx"
+                  values="0;15;0"
+                  dur="10s"
+                  repeatCount="indefinite"/>
+      </rect>
       <text x="400"
             y="-250"
             font-size="14"
@@ -40,12 +47,19 @@
             font-size="14"
             text-anchor="middle"
             fill="black">powerUp2</text>
-      <circle cx="400"
-              cy="-100"
-              r="0"
-              fill="lightblue"
-              stroke="black"
-              stroke-width="2"/>
+      <rect width="70"
+            height="70"
+            x="155"
+            y="-120"
+            fill="lightblue"
+            stroke="black"
+            stroke-width="2"
+            rx="0">
+         <animate attributeName="rx"
+                  values="0;15;0"
+                  dur="10s"
+                  repeatCount="indefinite"/>
+      </rect>
       <text x="600"
             y="-250"
             font-size="14"
@@ -62,11 +76,18 @@
             font-size="14"
             text-anchor="middle"
             fill="black">powerUp3</text>
-      <circle cx="600"
-              cy="-100"
-              r="0"
-              fill="lightblue"
-              stroke="black"
-              stroke-width="2"/>
+      <rect width="70"
+            height="70"
+            x="155"
+            y="-120"
+            fill="lightblue"
+            stroke="black"
+            stroke-width="2"
+            rx="0">
+         <animate attributeName="rx"
+                  values="0;15;0"
+                  dur="10s"
+                  repeatCount="indefinite"/>
+      </rect>
    </g>
 </svg>

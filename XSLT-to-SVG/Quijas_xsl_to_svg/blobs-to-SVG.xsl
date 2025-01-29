@@ -37,37 +37,52 @@
                     for each one -->
          
                 <text x="{$x-spacer * position()}"
-                    y="{-200}" 
+                    y="{-250}" 
                     font-size="14" 
                     text-anchor="middle" 
                     fill="black">
                     <xsl:value-of select="concat('rocketShip ', position())"/>
                 </text>
               
+              
+              
                 <circle cx="{$x-spacer * position()}"
                     cy="{-200}" 
                     r="{count(descendant::special[@whatsIt='rocketShip']) * $y-spacer}"
-                    fill="blue"
+                   fill="blue"
                     stroke="black"
-                    stroke-width="2"
-                />
+                    stroke-width="2">
+          
+                </circle>
+  
+                
                 
                 <text x="{$x-spacer * position()}"
-                    y="{-100}" 
+                    y="{-140}" 
                     font-size="14" 
                     text-anchor="middle" 
                     fill="black">
                     <xsl:value-of select="concat('powerUp', position())"/>
                 </text>
                 
-                <circle cx="{$x-spacer* position()}"
-                cy="{-100}"
-                r="{count(descendant::special[@whatsIt='powerUp'])* $y-spacer}"
-                fill="lightblue"
-                stroke="black"
-                stroke-width="2"
                 
-                />
+                    <rect width="70" height="70" 
+                        x="155" y="-120" 
+                        fill="lightblue"
+                        stroke="black" 
+                        stroke-width="2"
+                        rx="0">
+                        <animate
+                            attributeName="rx"
+                            values="0;15;0"  
+                            dur="10s"
+                            repeatCount="indefinite" />
+                    </rect>
+                
+                    
+                
+               
+           
                 
                 
  
