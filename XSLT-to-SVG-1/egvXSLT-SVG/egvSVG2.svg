@@ -1,50 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="100%">
     <desc>SVG created from A Big Ball of Text with Special Whatsits Inside</desc>
-    <g transform="translate(20 500)">
+    <g transform="translate(100 500)">
         <desc> magicEgg </desc>
+        <text x="-50" y="-250" fill="black" style="font-size:25px;">magicEgg</text>
         <g>
             <circle cx="200" cy="-250" r="100" fill="white" stroke="black" stroke-width="2"/>
             <circle cx="200" cy="-250" r="50" fill="yellow" stroke="orange" stroke-width="1"/>
             <desc> rocketShip </desc>
-            <text x="200" y="-50" fill="black" style="font-size:50px;">rocketShip</text>
+            <text x="-50" y="-50" fill="black" style="font-size:25px;">rocketShip</text>
             <g>
                 <circle cx="200" cy="-50" r="100" fill="white" stroke="black" stroke-width="2"/>
                 <circle cx="200" cy="-50" r="40" fill="red" stroke="blue" stroke-width="1"/>
             </g>
             <desc> powerUp </desc>
+            <text x="-50" y="150" fill="black" style="font-size:25px;">PowerUp</text>
             <g>
                 <circle cx="200" cy="150" r="100" fill="white" stroke="black" stroke-width="2"/>
                 <circle cx="200" cy="150" r="30" fill="pink" stroke="yellow" stroke-width="1"/>
             </g>
         </g>
         <desc> magicEgg </desc>
+        <text x="-50" y="-250" fill="black" style="font-size:25px;">magicEgg</text>
         <g>
             <circle cx="400" cy="-250" r="100" fill="white" stroke="black" stroke-width="2"/>
             <circle cx="400" cy="-250" r="50" fill="yellow" stroke="orange" stroke-width="1"/>
             <desc> rocketShip </desc>
-            <text x="50" y="-50" fill="black" style="font-size:50px;">rocketShip</text>
+            <text x="-50" y="-50" fill="black" style="font-size:25px;">rocketShip</text>
             <g>
                 <circle cx="400" cy="-50" r="100" fill="white" stroke="black" stroke-width="2"/>
                 <circle cx="400" cy="-50" r="0" fill="red" stroke="blue" stroke-width="1"/>
             </g>
             <desc> powerUp </desc>
+            <text x="-50" y="150" fill="black" style="font-size:25px;">PowerUp</text>
             <g>
                 <circle cx="400" cy="150" r="100" fill="white" stroke="black" stroke-width="2"/>
                 <circle cx="400" cy="150" r="0" fill="pink" stroke="yellow" stroke-width="1"/>
             </g>
         </g>
         <desc> magicEgg </desc>
+        <text x="-50" y="-250" fill="black" style="font-size:25px;">magicEgg</text>
         <g>
             <circle cx="600" cy="-250" r="100" fill="white" stroke="black" stroke-width="2"/>
             <circle cx="600" cy="-250" r="40" fill="yellow" stroke="orange" stroke-width="1"/>
             <desc> rocketShip </desc>
-            <text x="50" y="-50" fill="black" style="font-size:50px;">rocketShip</text>
+            <text x="-50" y="-50" fill="black" style="font-size:25px;">rocketShip</text>
             <g>
                 <circle cx="600" cy="-50" r="100" fill="white" stroke="black" stroke-width="2"/>
                 <circle cx="600" cy="-50" r="0" fill="red" stroke="blue" stroke-width="1"/>
             </g>
             <desc> powerUp </desc>
+            <text x="-50" y="150" fill="black" style="font-size:25px;">PowerUp</text>
             <g>
                 <circle cx="600" cy="150" r="100" fill="white" stroke="black" stroke-width="2"/>
                 <circle cx="600" cy="150" r="0" fill="pink" stroke="yellow" stroke-width="1"/>
