@@ -14,9 +14,9 @@
         use the xpath-default-namespace="..." to apply it.) 
     -->
     
-    <xsl:variable name="x-spacer" select="40"/>
+    <xsl:variable name="x-spacer" select="200"/>
     
-    <xsl:variable name="y-spacer" select="40"/>
+    <xsl:variable name="y-spacer" select="10"/>
     
     <xsl:output method="xml" indent="yes"/>
     
@@ -29,22 +29,43 @@
                 0,0 will move down the screen to 20, 500. 
             See https://www.w3schools.com/graphics/svg_transformations.asp 
             -->
-           <g transform="translate(40 500)">
+           <g transform="translate(20 350)">
             
             <xsl:for-each select="descendant::blob">
                 
                 <!-- We'll process the blob elements in here and output a shape 
                     for each one -->
+         
+                <text x="{$x-spacer * position()}"
+                    y="{-200}" 
+                    font-size="14" 
+                    text-anchor="middle" 
+                    fill="black">
+                    <xsl:value-of select="concat('rocketShip ', position())"/>
+                </text>
+              
                 <circle cx="{$x-spacer * position()}"
-                    cy="{-180}" 
+                    cy="{-200}" 
                     r="{count(descendant::special[@whatsIt='rocketShip']) * $y-spacer}"
                     fill="blue"
+                    stroke="black"
+                    stroke-width="2"
                 />
                 
+                <text x="{$x-spacer * position()}"
+                    y="{-100}" 
+                    font-size="14" 
+                    text-anchor="middle" 
+                    fill="black">
+                    <xsl:value-of select="concat('powerUp', position())"/>
+                </text>
+                
                 <circle cx="{$x-spacer* position()}"
-                cy="{-180}"
+                cy="{-100}"
                 r="{count(descendant::special[@whatsIt='powerUp'])* $y-spacer}"
-                fill="purple"
+                fill="lightblue"
+                stroke="black"
+                stroke-width="2"
                 
                 />
                 
