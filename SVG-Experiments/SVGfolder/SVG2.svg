@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+   
+    <text x="250" y="20" font-size="16" text-anchor="middle" font-family="Arial" fill="black">
+        Areas of Three Polynesian Islands (sq mi)
+    </text>
+    
+    <!-- Axes -->
+    <g id="axes">
+        <!-- X-axis -->
+        <line x1="50" y1="250" x2="450" y2="250" stroke="black" stroke-width="2" />
+        <text x="250" y="270" font-size="12" text-anchor="middle" font-family="Arial">
+            Islands
+        </text>
+        
+        <!-- Y-axis -->
+        <line x1="50" y1="250" x2="50" y2="50" stroke="black" stroke-width="2" />
+        <text x="20" y="150" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(-90, 20, 150)">
+            Area (sq mi)
+        </text>
+    </g>
+    
+    <!-- Bars and Labels -->
+    <g id="bars">
+        <!-- Tahiti -->
+        <g id="tahiti">
+            <rect x="100" y="100" width="50" height="150" fill="blue" />
+            <text x="125" y="260" font-size="12" text-anchor="middle" font-family="Arial">
+                Tahiti
+            </text>
+            <text x="125" y="95" font-size="12" text-anchor="middle" font-family="Arial" fill="black">
+                404
+            </text>
+        </g>
+        
+        <!-- Raiatea -->
+        <g id="raiatea">
+            <rect x="200" y="200" width="50" height="50" fill="green" />
+            <text x="225" y="260" font-size="12" text-anchor="middle" font-family="Arial">
+                Raiatea
+            </text>
+            <text x="225" y="195" font-size="12" text-anchor="middle" font-family="Arial" fill="black">
+                65
+            </text>
+        </g>
+        
+        <!-- Tongatapu -->
+        <g id="tongatapu">
+            <rect x="300" y="150" width="50" height="100" fill="orange" />
+            <text x="325" y="260" font-size="12" text-anchor="middle" font-family="Arial">
+                Tongatapu
+            </text>
+            <text x="325" y="145" font-size="12" text-anchor="middle" font-family="Arial" fill="black">
+                100
+            </text>
+        </g>
+    </g>
+</svg>

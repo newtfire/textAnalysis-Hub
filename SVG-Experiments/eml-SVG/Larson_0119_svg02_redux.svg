@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- SVG Exercise 02 - Redux (including re-positioning elements with groups, adding animation, an re-coloring to distinguish from original) - E. Larson -->
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc></desc>
+    <g alignment-baseline="baseline">
+        
+        <desc>Background</desc>
+        <rect width="100%" height="100%" fill="teal"/>
+        <!--regrouped entire graph into one group so as to shift it more towards the center of the screen - EL-->
+        <g transform="translate(135,55)"><desc>X and Y Axes</desc>
+        <!--regrouped axes-->
+        <g transform="translate(315,550)"><line x1="0" y1="0" x2="0" y2="-500" stroke="black" stroke-width="4"/>
+        <line x1="0" y1="0" x2="450" y2="0" stroke="black" stroke-width="4"/></g>
+        
+        <desc>Tick Marks (Y-axis)</desc>
+        <g transform="translate(-15 0)"><line x1="300" y1="500" x2="330" y2="500" stroke="black" stroke-width="4"/>
+        <line x1="300" y1="450" x2="330" y2="450" stroke="black" stroke-width="4"/>
+        <line x1="300" y1="400" x2="330" y2="400" stroke="black" stroke-width="4"/>
+        <line x1="300" y1="350" x2="330" y2="350" stroke="black" stroke-width="4"/>
+        <line x1="300" y1="300" x2="330" y2="300" stroke="black" stroke-width="4"/>
+        <line x1="300" y1="250" x2="330" y2="250" stroke="black" stroke-width="4"/>
+        <line x1="300" y1="200" x2="330" y2="200" stroke="black" stroke-width="4"/>
+        <line x1="300" y1="150" x2="330" y2="150" stroke="black" stroke-width="4"/>
+        <line x1="300" y1="100" x2="330" y2="100" stroke="black" stroke-width="4"/>
+        <line x1="300" y1="50" x2="330" y2="50" stroke="black" stroke-width="4"/></g>
+        
+        <desc>Tick Marks/Labels (X-axis)</desc>
+        <g transform="translate(-65 -15)"><line x1="450" y1="580" x2="450" y2="550" stroke="black" stroke-width="4"/>
+        <line x1="600" y1="580" x2="600" y2="550" stroke="black" stroke-width="4"/>
+        <line x1="750" y1="580" x2="750" y2="550" stroke="black" stroke-width="4"/></g>
+        
+        <desc>Text Elements</desc>
+        <!--regrouped title text elements to position them more centered - EL-->
+        <g transform="translate(-93,-45)"><text x="421" y="51" fill="black" font-size="30" opacity="0">The Areas of Different Polynesian Islands
+                <animate attributeName="opacity" from="0" to="1" begin="0s" dur="1s" fill="freeze"/></text>
+            <text x="551" y="83" fill="black" font-size="30" opacity="0">(measured in sq. mi.)
+            <animate attributeName="opacity" from="0" to="1" begin="0s" dur="1s" fill="freeze"/></text>
+            <text x="420" y="50" fill="white" font-size="30" opacity="0">The Areas of Different Polynesian Islands
+            <animate attributeName="opacity" from="0" to="1" begin="0s" dur="1s" fill="freeze"/></text>
+            <text x="550" y="82" fill="white" font-size="30" opacity="0">(measured in sq. mi.)
+            <animate attributeName="opacity" from="0" to="1" begin="0s" dur="1s" fill="freeze"/></text></g>
+        <text x="361" y="591" fill="black" font-size="20">Tahiti</text>
+        <text x="506" y="591" fill="black" font-size="20">Raiatea</text>
+        <text x="641" y="591" fill="black" font-size="20">Tongatapu</text>
+        <text x="360" y="590" fill="white" font-size="20">Tahiti</text>
+        <text x="505" y="590" fill="white" font-size="20">Raiatea</text>
+        <text x="640" y="590" fill="white" font-size="20">Tongatapu</text>
+       
+       <desc>Y-Axis Measurements</desc>
+        <text x="261" y="506" fill="black" font-size="20">50</text>
+        <text x="251" y="456" fill="black" font-size="20">100</text>
+        <text x="251" y="406" fill="black" font-size="20">150</text>
+        <text x="251" y="356" fill="black" font-size="20">200</text>
+        <text x="251" y="306" fill="black" font-size="20">250</text>
+        <text x="251" y="256" fill="black" font-size="20">300</text>
+        <text x="251" y="206" fill="black" font-size="20">350</text>
+        <text x="251" y="156" fill="black" font-size="20">400</text>
+        <text x="251" y="106" fill="black" font-size="20">450</text>
+        <text x="251" y="56" fill="black" font-size="20">500</text>
+        <text x="260" y="505" fill="white" font-size="20">50</text>
+        <text x="250" y="455" fill="white" font-size="20">100</text>
+        <text x="250" y="405" fill="white" font-size="20">150</text>
+        <text x="250" y="355" fill="white" font-size="20">200</text>
+        <text x="250" y="305" fill="white" font-size="20">250</text>
+        <text x="250" y="255" fill="white" font-size="20">300</text>
+        <text x="250" y="205" fill="white" font-size="20">350</text>
+        <text x="250" y="155" fill="white" font-size="20">400</text>
+        <text x="250" y="105" fill="white" font-size="20">450</text>
+        <text x="250" y="55" fill="white" font-size="20">500</text>
+        
+        <desc>Bars</desc>
+        <rect x="365" y="146" width="40" height="404" stroke="black" stroke-width="3" fill="yellow">
+            <animate attributeName="y" from="550" to="146" dur="5s"/>
+            <animate attributeName="height" from="0" to="404" dur="5s"/>
+        </rect>
+        <text x="373" y="168" fill="black" font-size="15" opacity="0">404
+            <animate attributeName="opacity" from="0" to="1" begin="5s" dur="1s" fill="freeze"/>
+        </text>
+        <rect x="515" y="485" width="40" height="65" stroke="black" stroke-width="3" fill="lime">
+            <animate attributeName="y" from="550" to="485" dur="3s"/>
+            <animate attributeName="height" from="0" to="65" dur="3s"/>
+        </rect>
+            <text x="528" y="510" fill="black" font-size="15" opacity="0">65
+            <animate attributeName="opacity" from="0" to="1" begin="3s" dur="1s" fill="freeze"/>
+        </text>
+        <rect x="665" y="450" width="40" height="100" stroke="black" stroke-width="3" fill="pink">
+            <animate attributeName="y" from="550" to="450" dur="4s"/>
+            <animate attributeName="height" from="0" to="100" dur="4s"/>
+        </rect>
+            <text x="673" y="475" fill="black" font-size="15" opacity="0">100
+            <animate attributeName="opacity" from="0" to="1" begin="4s" dur="1s" fill="freeze"/>
+        </text></g>
+        
+        <text x="1201" y="31" fill="black" font-size="25" opacity="0">E. Larson
+            <animate attributeName="opacity" from="0" to="1" begin="0s" dur="1s" fill="freeze"/></text>
+        <text x="1200" y="30" fill="white" font-size="25" opacity="0">E. Larson
+            <animate attributeName="opacity" from="0" to="1" begin="0s" dur="1s" fill="freeze"/></text>
+        
+    </g>
+</svg>
