@@ -14,13 +14,11 @@
         use the xpath-default-namespace="..." to apply it.) 
     -->
     
-<<<<<<< HEAD
-    <xsl:variable name="x-spacer" select="40"/>
-=======
     <xsl:variable name="x-spacer" select="200"/>
->>>>>>> main
     
-    <xsl:variable name="y-spacer" select="40"/>
+    <xsl:variable name="y-spacer" select="10"/>
+    
+    <xsl:variable name="grid-spacer" select="-100"/>
     
     <xsl:output method="xml" indent="yes"/>
     
@@ -33,33 +31,52 @@
                 0,0 will move down the screen to 20, 500. 
             See https://www.w3schools.com/graphics/svg_transformations.asp 
             -->
-           <g transform="translate(40 500)">
+           <g transform="translate(20 500)">
+               <!-- Here we shift the 0, 0 coordinates over 20 (x direction) and down 500 (y direction from the top left of the screen -->
+               
+               
+              <g><desc>Axis lines and legend</desc>
+                  <!-- Let's plot this portion outside the for-each. Anything we can hand-draw that we only want to output once can go here -->
+               
+               
+               <xsl:for-each select="(1 to 5)">
+                   <line x1="0" x2="800" y1="{position() * $grid-spacer}" y2="{position() * $grid-spacer}" stroke-width="2" stroke="#dcb6de"/>
+            
+               </xsl:for-each>
+              </g>
+            
+            
             
             <xsl:for-each select="descendant::blob">
                 
                 <!-- We'll process the blob elements in here and output a shape 
                     for each one -->
+            
+             <g>
+                  <desc>Magic egg data</desc>
                 <circle cx="{$x-spacer * position()}"
-<<<<<<< HEAD
-                    cy="{-180}" 
-                    r="{count(descendant::special[@whatsIt='rocketShip']) * $y-spacer}"
-                    fill="blue"
-=======
-                    cy="{-250}" 
+                    cy="{-150}" 
                     r="{count(descendant::special[@whatsIt='magicEgg']) * $y-spacer}"
-                    fill="purple"
+                    fill="rgb(220, 0, 222)"
                     stroke="black"
                     stroke-width="2"
->>>>>>> main
                 />
-                
-                <circle cx="{$x-spacer* position()}"
-                cy="{-180}"
-                r="{count(descendant::special[@whatsIt='powerUp'])* $y-spacer}"
-                fill="purple"
-                
-                />
-                
+                  <text x="{$x-spacer * position()}" y="-150" text-anchor="middle"> 
+                      <xsl:value-of select="count(descendant::special[@whatsIt='magicEgg']) * $y-spacer"/>
+                  </text>
+              </g>
+              <g>
+                  <desc>All other specials</desc>
+              
+                  <text x="{$x-spacer * position()}" y="-350" text-anchor="middle"> 
+                      <xsl:value-of select="count(descendant::special[not(@whatsIt='magicEgg')]) * $y-spacer"/>
+                  </text>
+              
+              
+              
+              </g>
+             
+          
                 
  
             </xsl:for-each>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <g alignment-baseline="baseline">
+        <svg height="1000" width="1000">
+        <text x="100" y="530" fill="black" font-size="15">Tahiti, 404 sq mi.</text>
+        <text x="250" y="530" fill="black" font-size="15">Raiatea, 65 sq mi</text>
+        <text x="400" y="530" fill="black" font-size="15">Tongatapu,100 sq mi</text>
+        <line x1="100" y1="500" x2="500" y2="500" style="stroke:black;stroke-width:10"/>
+        <line x1="100" y1="100" x2="100" y2="500" style="stroke:black;stroke-width:10"/>
+        <rect width="50" height="100" x="400" y="400" style="fill:rgb(0,0,255);stroke-width:5;stroke:black"/>
+        <rect width="50" height="50" x="250" y="450" style="fill:rgb(0,0,255);stroke-width:5;stroke:black"/>
+        <rect width="50" height="300" x="100" y="200" style="fill:rgb(0,0,255);stroke-width:5;stroke:black"/>
+        </svg>
+    </g>
+</svg>

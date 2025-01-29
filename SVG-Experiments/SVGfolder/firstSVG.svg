@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc>I am going to make a snowman (declarnig what i am making)</desc>
+    <g alignment-baseline="baseline" transform="translate (25,100)">
+        
+<!--        write our shapes in the g element-->
+    
+       
+        
+        <g> 
+            <!-- Bottom Circle -->
+            <circle cx="100" cy="220" r="40" fill="white" stroke="black" stroke-width="2" />
+        </g>
+            
+      
+         <g>
+            <!-- Middle Circle -->
+            <circle cx="100" cy="150" r="30" fill="white" stroke="black" stroke-width="2" />
+         </g>
+            
+         <g> 
+            <!-- Top Circle (Head) -->
+            <circle cx="100" cy="100" r="20" fill="white" stroke="black" stroke-width="2" />
+         </g>
+            
+        <g> 
+            <!-- Eyes -->
+            <circle cx="90" cy="90" r="3" fill="black" />
+            <circle cx="110" cy="90" r="3" fill="black" />
+        </g>
+            
+        <g> 
+            <!-- Black Dot Nose -->
+            <circle cx="100" cy="95" r="2.5" fill="black" />
+        </g>
+            
+        <g> 
+            <!-- Smile made of dots -->
+            <circle cx="87" cy="100" r="2" fill="black" />
+            <circle cx="93" cy="105" r="2" fill="black" />
+            <circle cx="100" cy="107" r="2" fill="black" />
+            <circle cx="107" cy="105" r="2" fill="black" />
+            <circle cx="113" cy="100" r="2" fill="black" />
+        </g>    
+            
+        <g> 
+            <!-- Left Stick Arm -->
+            <line x1="70" y1="150" x2="30" y2="120" stroke="black" stroke-width="3" />
+        </g>
+       
+       <g> 
+            <!-- Right Stick Arm -->
+            <line x1="130" y1="150" x2="170" y2="120" stroke="black" stroke-width="3" />
+       </g>   
+          
+          
+        <!-- Animation for Snowman -->
+        <animateTransform 
+            attributeName="transform" 
+            type="translate" 
+            from="0 0" 
+            to="200 0" 
+            dur="5s" 
+            repeatCount="indefinite" />
+                 
+    </g>
+</svg>
