@@ -40,42 +40,60 @@
          <circle cx="200"
                  cy="-150"
                  r="50"
-                 fill="rgb(220, 0, 222)"
+                 fill="rgb(220, 280, 222)"
                  stroke="black"
                  stroke-width="2"/>
-         <text x="200" y="-150" text-anchor="middle">50</text>
+         <text x="200" y="-150" text-anchor="middle">Magic Eggs: 50</text>
       </g>
       <g>
          <desc>All other specials</desc>
-         <text x="200" y="-350" text-anchor="middle">70</text>
+         <circle cx="200"
+                 cy="-350"
+                 r="70"
+                 fill="rgb(220, 0, 222)"
+                 stroke="black"
+                 stroke-width="2"/>
+         <text x="200" y="-350" text-anchor="middle">All other special items: 70</text>
       </g>
       <g>
          <desc>Magic egg data</desc>
          <circle cx="400"
                  cy="-150"
                  r="50"
-                 fill="rgb(220, 0, 222)"
+                 fill="rgb(220, 80, 222)"
                  stroke="black"
                  stroke-width="2"/>
-         <text x="400" y="-150" text-anchor="middle">50</text>
+         <text x="400" y="-150" text-anchor="middle">Magic Eggs: 50</text>
       </g>
       <g>
          <desc>All other specials</desc>
-         <text x="400" y="-350" text-anchor="middle">20</text>
+         <circle cx="400"
+                 cy="-350"
+                 r="20"
+                 fill="rgb(220, 0, 222)"
+                 stroke="black"
+                 stroke-width="2"/>
+         <text x="400" y="-350" text-anchor="middle">All other special items: 20</text>
       </g>
       <g>
          <desc>Magic egg data</desc>
          <circle cx="600"
                  cy="-150"
                  r="40"
-                 fill="rgb(220, 0, 222)"
+                 fill="rgb(220, 120, 222)"
                  stroke="black"
                  stroke-width="2"/>
-         <text x="600" y="-150" text-anchor="middle">40</text>
+         <text x="600" y="-150" text-anchor="middle">Magic Eggs: 40</text>
       </g>
       <g>
          <desc>All other specials</desc>
-         <text x="600" y="-350" text-anchor="middle">30</text>
+         <circle cx="600"
+                 cy="-350"
+                 r="30"
+                 fill="rgb(220, 0, 222)"
+                 stroke="black"
+                 stroke-width="2"/>
+         <text x="600" y="-350" text-anchor="middle">All other special items: 30</text>
       </g>
    </g>
 </svg>
