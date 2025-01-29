@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+   <desc>SVG created from [Letter from Marian Baldwin, June 30, 1917] </desc>
+   <g transform="translate(20 500)">
+      <circle cx="200"
+              cy="-250"
+              r="10"
+              fill="purple"
+              stroke="black"
+              stroke-width="4"/>
+      <circle cx="400"
+              cy="-250"
+              r="20"
+              fill="purple"
+              stroke="black"
+              stroke-width="0"/>
+      <circle cx="600"
+              cy="-250"
+              r="30"
+              fill="purple"
+              stroke="black"
+              stroke-width="1"/>
+      <circle cx="800"
+              cy="-250"
+              r="40"
+              fill="purple"
+              stroke="black"
+              stroke-width="1"/>
+      <circle cx="1000"
+              cy="-250"
+              r="50"
+              fill="purple"
+              stroke="black"
+              stroke-width="2"/>
+   </g>
+</svg>
