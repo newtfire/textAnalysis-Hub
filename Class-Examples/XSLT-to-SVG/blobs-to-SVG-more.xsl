@@ -40,7 +40,8 @@
                
                
                <xsl:for-each select="(1 to 5)">
-                   <line x1="0" x2="800" y1="{position() * $grid-spacer}" y2="{position() * $grid-spacer}" stroke-width="2" stroke="#dcb6de"/>
+                   <line x1="0" x2="800" y1="{position() * $grid-spacer}" 
+                       y2="{cur * $grid-spacer}" stroke-width="2" stroke="#dcb6de"/>
             
                </xsl:for-each>
               </g>
@@ -57,23 +58,30 @@
                 <circle cx="{$x-spacer * position()}"
                     cy="{-150}" 
                     r="{count(descendant::special[@whatsIt='magicEgg']) * $y-spacer}"
-                    fill="rgb(220, 0, 222)"
+                    fill="rgb(220, {count(descendant::special[not(@whatsIt='magicEgg')]) * 40}, 222)"
                     stroke="black"
                     stroke-width="2"
                 />
                   <text x="{$x-spacer * position()}" y="-150" text-anchor="middle"> 
-                      <xsl:value-of select="count(descendant::special[@whatsIt='magicEgg']) * $y-spacer"/>
+                      <xsl:text>Magic Eggs: </xsl:text><xsl:value-of select="count(descendant::special[@whatsIt='magicEgg']) * $y-spacer"/>
                   </text>
               </g>
               <g>
                   <desc>All other specials</desc>
+                  
+                  <circle cx="{$x-spacer * position()}"
+                      cy="{-350}" 
+                      r="{count(descendant::special[not(@whatsIt='magicEgg')]) * $y-spacer}"
+                      fill="rgb(220, 0, 222)"
+                      stroke="black"
+                      stroke-width="2"
+                  />
               
                   <text x="{$x-spacer * position()}" y="-350" text-anchor="middle"> 
+                      <xsl:text>All other special items: </xsl:text>
                       <xsl:value-of select="count(descendant::special[not(@whatsIt='magicEgg')]) * $y-spacer"/>
                   </text>
-              
-              
-              
+     
               </g>
              
           
