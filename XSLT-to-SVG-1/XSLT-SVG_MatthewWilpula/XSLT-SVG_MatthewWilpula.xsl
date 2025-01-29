@@ -6,7 +6,7 @@
     exclude-result-prefixes="xs math xd"
     version="3.0">
     
-    <xsl:variable name="x-spacer" select="200"/>
+    <xsl:variable name="x-spacer" select="100"/>
     
     <xsl:variable name="y-spacer" select="10"/>
     
@@ -15,10 +15,13 @@
     <xsl:template match="/">
         <svg width="100%">
             <g transform="translate(20 500)">
+                <line x1="0" y1="0" x2="0" y2="-500"/>
+                <line x1="0" y1="0" x2="500" y2=""/>
                 <xsl:for-each select="//stat">
-                    <circle cx="{$x-spacer * position()}"
-                        cy="{-250}"
-                        r="{descendant::points//@num * 10}"
+                    <rect x="{$x-spacer * position()}"
+                        y="{0}"
+                        width="50"
+                        height="{descendant::points//@num * 10}"
                         fill="gray"
                         stroke="black"
                         stroke-width="1"/>
