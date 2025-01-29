@@ -41,7 +41,7 @@
                
                <xsl:for-each select="(1 to 5)">
                    <line x1="0" x2="800" y1="{position() * $grid-spacer}" 
-                       y2="{cur * $grid-spacer}" stroke-width="2" stroke="#dcb6de"/>
+                       y2="{current() * $grid-spacer}" stroke-width="2" stroke="#dcb6de"/>
             
                </xsl:for-each>
               </g>
