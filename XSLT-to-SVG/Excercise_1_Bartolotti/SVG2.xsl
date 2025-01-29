@@ -32,16 +32,33 @@
                 
                 <xsl:for-each select="descendant::para">
                     
+<<<<<<< HEAD
                     <!-- We'll process the blob elements in here and output a shape 
                     for each one -->
                     <circle cx="{$x-spacer * position()}"
                         cy="{-250}" 
+=======
+                    
+                    <g>
+                        <desc>These are the location counts from my source document</desc>
+                    <!-- We'll process the blob elements in here and output a shape 
+                    for each one -->
+                    <circle cx="{$x-spacer * position()}"
+                        cy="-250" 
+>>>>>>> 5b42db051b5babac98995db3b9a2455322e2d25c
                         r="{@n * $y-spacer}"
                         fill="purple"
                         stroke="black"
                         stroke-width="{count(descendant::loc)}"
                     />
+<<<<<<< HEAD
                     
+=======
+                    <text x="{$x-spacer * position()}" y="-200">Locations:
+                        <xsl:value-of select="count(descendant::loc)"/>
+                    </text>
+                    </g>
+>>>>>>> 5b42db051b5babac98995db3b9a2455322e2d25c
                     
                 </xsl:for-each>
             </g>
