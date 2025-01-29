@@ -14,9 +14,11 @@
         use the xpath-default-namespace="..." to apply it.) 
     -->
     
+    
     <xsl:variable name="x-spacer" select="200"/>
     
-    <xsl:variable name="y-spacer" select="10"/>
+    
+    <xsl:variable name="y-spacer" select="40"/>
     
     <xsl:output method="xml" indent="yes"/>
     
@@ -29,65 +31,33 @@
                 0,0 will move down the screen to 20, 500. 
             See https://www.w3schools.com/graphics/svg_transformations.asp 
             -->
-           <g transform="translate(20 350)">
-            
-            <xsl:for-each select="descendant::blob">
+            <g transform="translate(40 500)">
                 
-                <!-- We'll process the blob elements in here and output a shape 
-                    for each one -->
-         
-                <text x="{$x-spacer * position()}"
-                    y="{-250}" 
-                    font-size="14" 
-                    text-anchor="middle" 
-                    fill="black">
-                    <xsl:value-of select="concat('rocketShip ', position())"/>
-                </text>
-              
-              
-              
-                <circle cx="{$x-spacer * position()}"
-                    cy="{-200}" 
-                    r="{count(descendant::special[@whatsIt='rocketShip']) * $y-spacer}"
-                   fill="blue"
-                    stroke="black"
-                    stroke-width="2">
-          
-                </circle>
-  
-                
-                
-                <text x="{$x-spacer * position()}"
-                    y="{-140}" 
-                    font-size="14" 
-                    text-anchor="middle" 
-                    fill="black">
-                    <xsl:value-of select="concat('powerUp', position())"/>
-                </text>
-                
-                
-                    <rect width="70" height="70" 
-                        x="155" y="-120" 
-                        fill="lightblue"
-                        stroke="black" 
-                        stroke-width="2"
-                        rx="0">
-                        <animate
-                            attributeName="rx"
-                            values="0;15;0"  
-                            dur="10s"
-                            repeatCount="indefinite" />
-                    </rect>
-                
+                <xsl:for-each select="descendant::blob">
                     
-                
-               
-           
-                
-                
- 
-            </xsl:for-each>
-           </g>
+                    <!-- We'll process the blob elements in here and output a shape 
+                    for each one -->
+                    <circle cx="{$x-spacer * position()}"
+                        
+                        cy="{-250}" 
+                        r="{count(descendant::special[@whatsIt='magicEgg']) * $y-spacer}"
+                        fill="purple"
+                        stroke="black"
+                        stroke-width="2"
+                        
+                    />
+                    
+                    <circle cx="{$x-spacer* position()}"
+                        cy="{-180}"
+                        r="{count(descendant::special[@whatsIt='powerUp'])* $y-spacer}"
+                        fill="purple"
+                        
+                    />
+                    
+                    
+                    
+                </xsl:for-each>
+            </g>
         </svg>  
     </xsl:template>
     
