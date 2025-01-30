@@ -20,7 +20,7 @@
         <svg width="100%">
             <desc>SVG created from <xsl:apply-templates select="//title"/></desc>
 
-           <g transform="translate(20 800)">
+           <g transform="translate(20 700)">
                
                
              <!--  <xsl:for-each select="(1 to 5)">
@@ -28,31 +28,44 @@
                    don't have to.
                </xsl:for-each> -->
                
+               
                <xsl:for-each select="descendant::special/@whatsIt => distinct-values()">
+
+                   <!--Selects a specific attribute-->
                    <xsl:variable name="current-whatsIt" select="current()" as="item()"/>
                    <xsl:variable name="current-y" select="position()" as="xs:integer"/>
                    
                    <text x="-5" y="{position() * $grid-spacer}" >
                        <xsl:value-of select="current()"/>
                    </text>
+                   <line x1="-5" y1="{position() * $grid-spacer - 30}" x2="650" y2="{position() * $grid-spacer - 30}" style="stroke:black;stroke-width:2" />
                    
-                   <!-- INNER FOR LOOP HERE: We're plotting for every single distinct whatsIt,
-                       a row to show its count in each blob. The INNER FOR LOOP is here to look 
-                       inside each blob, in turn.
-                   -->
+                   
+
+                   
+                   <!-- INNER FOR LOOP HERE: We're plotting for every single distinct whatsIt, a row to show its count in each blob. The INNER FOR LOOP is here to look inside each blob, in turn.-->
+                   
+                   <!--Since the attribute has been pulled from the tree, the variable is here to remind the code where to look.-->
                    <xsl:for-each select="$source-xml//blob">
-                       <!-- The position() variable HERE goes with this INNER for loop 
-                           (1 2 3 for every blob element) -->
+                       <!-- The position() variable HERE goes with this INNER for loop (1 2 3 for every blob element) -->
                        <circle cx="{$x-spacer * position()}"
                            cy="{$current-y * $grid-spacer}" 
-                           r="{count(descendant::special[@whatsIt=$current-whatsIt]) * $y-spacer}"
-                           fill="rgb({$current-y * 10} , {$current-y * 10},255)"
+                           r="{count(descendant::special[@whatsIt=$current-whatsIt]) * $y-spacer div 1.5}"
+                           fill="rgb(120 , 15, {$current-y * 30})"
                            stroke="black"
                            stroke-width="2"
                        />
                        
+                       <text y="-5" x="{position() * $x-spacer - 45}" >
+                           <xsl:value-of select="heading"/>
+                       </text>
+                       <line y1="-590" x1="{position() * $x-spacer - 90}" y2="-5" x2="{position() * $x-spacer - 90}" style="stroke:black;stroke-width:2" />
+
+                       
                    </xsl:for-each>
-                                    
+                   <text y="-625" x="175" font-size="30">
+                       Special WhatsIts Per Blob
+                   </text>             
                
                </xsl:for-each>
                
@@ -85,7 +98,6 @@
             </xsl:for-each>-->
            </g>
         </svg>
-       <!--I can't figure out how to add axes :( -->
     </xsl:template>
     
  

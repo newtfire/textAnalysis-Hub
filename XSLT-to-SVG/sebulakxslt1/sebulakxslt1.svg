@@ -1,60 +1,366 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="100%">
    <desc>SVG created from A Big Ball of Text with Special Whatsits Inside</desc>
-   <g transform="translate(20 500)">
+   <g transform="translate(20 700)">
+      <text x="-5" y="-70">powerUp</text>
+      <line x1="-5"
+            y1="-100"
+            x2="650"
+            y2="-100"
+            style="stroke:black;stroke-width:2"/>
       <circle cx="200"
-              cy="-50"
-              r="40"
-              fill="green"
+              cy="-70"
+              r="14"
+              fill="rgb(120 , 15, 30)"
               stroke="black"
               stroke-width="2"/>
+      <text y="-5" x="155">Blob the First</text>
+      <line y1="-590"
+            x1="110"
+            y2="-5"
+            x2="110"
+            style="stroke:black;stroke-width:2"/>
+      <circle cx="400"
+              cy="-70"
+              r="0"
+              fill="rgb(120 , 15, 30)"
+              stroke="black"
+              stroke-width="2"/>
+      <text y="-5" x="355">Blob the Second</text>
+      <line y1="-590"
+            x1="310"
+            y2="-5"
+            x2="310"
+            style="stroke:black;stroke-width:2"/>
+      <circle cx="600"
+              cy="-70"
+              r="0"
+              fill="rgb(120 , 15, 30)"
+              stroke="black"
+              stroke-width="2"/>
+      <text y="-5" x="555">Blob the Third</text>
+      <line y1="-590"
+            x1="510"
+            y2="-5"
+            x2="510"
+            style="stroke:black;stroke-width:2"/>
+      <text y="-625" x="175" font-size="30">
+                       Special WhatsIts Per Blob
+                   </text>
+      <text x="-5" y="-140">magicEgg</text>
+      <line x1="-5"
+            y1="-170"
+            x2="650"
+            y2="-170"
+            style="stroke:black;stroke-width:2"/>
+      <circle cx="200"
+              cy="-140"
+              r="23.333333333333333333"
+              fill="rgb(120 , 15, 60)"
+              stroke="black"
+              stroke-width="2"/>
+      <text y="-5" x="155">Blob the First</text>
+      <line y1="-590"
+            x1="110"
+            y2="-5"
+            x2="110"
+            style="stroke:black;stroke-width:2"/>
+      <circle cx="400"
+              cy="-140"
+              r="23.333333333333333333"
+              fill="rgb(120 , 15, 60)"
+              stroke="black"
+              stroke-width="2"/>
+      <text y="-5" x="355">Blob the Second</text>
+      <line y1="-590"
+            x1="310"
+            y2="-5"
+            x2="310"
+            style="stroke:black;stroke-width:2"/>
+      <circle cx="600"
+              cy="-140"
+              r="18.666666666666666667"
+              fill="rgb(120 , 15, 60)"
+              stroke="black"
+              stroke-width="2"/>
+      <text y="-5" x="555">Blob the Third</text>
+      <line y1="-590"
+            x1="510"
+            y2="-5"
+            x2="510"
+            style="stroke:black;stroke-width:2"/>
+      <text y="-625" x="175" font-size="30">
+                       Special WhatsIts Per Blob
+                   </text>
+      <text x="-5" y="-210">rocketShip</text>
+      <line x1="-5"
+            y1="-240"
+            x2="650"
+            y2="-240"
+            style="stroke:black;stroke-width:2"/>
+      <circle cx="200"
+              cy="-210"
+              r="18.666666666666666667"
+              fill="rgb(120 , 15, 90)"
+              stroke="black"
+              stroke-width="2"/>
+      <text y="-5" x="155">Blob the First</text>
+      <line y1="-590"
+            x1="110"
+            y2="-5"
+            x2="110"
+            style="stroke:black;stroke-width:2"/>
+      <circle cx="400"
+              cy="-210"
+              r="0"
+              fill="rgb(120 , 15, 90)"
+              stroke="black"
+              stroke-width="2"/>
+      <text y="-5" x="355">Blob the Second</text>
+      <line y1="-590"
+            x1="310"
+            y2="-5"
+            x2="310"
+            style="stroke:black;stroke-width:2"/>
+      <circle cx="600"
+              cy="-210"
+              r="0"
+              fill="rgb(120 , 15, 90)"
+              stroke="black"
+              stroke-width="2"/>
+      <text y="-5" x="555">Blob the Third</text>
+      <line y1="-590"
+            x1="510"
+            y2="-5"
+            x2="510"
+            style="stroke:black;stroke-width:2"/>
+      <text y="-625" x="175" font-size="30">
+                       Special WhatsIts Per Blob
+                   </text>
+      <text x="-5" y="-280">boss</text>
+      <line x1="-5"
+            y1="-310"
+            x2="650"
+            y2="-310"
+            style="stroke:black;stroke-width:2"/>
+      <circle cx="200"
+              cy="-280"
+              r="0"
+              fill="rgb(120 , 15, 120)"
+              stroke="black"
+              stroke-width="2"/>
+      <text y="-5" x="155">Blob the First</text>
+      <line y1="-590"
+            x1="110"
+            y2="-5"
+            x2="110"
+            style="stroke:black;stroke-width:2"/>
+      <circle cx="400"
+              cy="-280"
+              r="4.666666666666666667"
+              fill="rgb(120 , 15, 120)"
+              stroke="black"
+              stroke-width="2"/>
+      <text y="-5" x="355">Blob the Second</text>
+      <line y1="-590"
+            x1="310"
+            y2="-5"
+            x2="310"
+            style="stroke:black;stroke-width:2"/>
+      <circle cx="600"
+              cy="-280"
+              r="0"
+              fill="rgb(120 , 15, 120)"
+              stroke="black"
+              stroke-width="2"/>
+      <text y="-5" x="555">Blob the Third</text>
+      <line y1="-590"
+            x1="510"
+            y2="-5"
+            x2="510"
+            style="stroke:black;stroke-width:2"/>
+      <text y="-625" x="175" font-size="30">
+                       Special WhatsIts Per Blob
+                   </text>
+      <text x="-5" y="-350">dragon</text>
+      <line x1="-5"
+            y1="-380"
+            x2="650"
+            y2="-380"
+            style="stroke:black;stroke-width:2"/>
       <circle cx="200"
               cy="-350"
-              r="30"
-              fill="purple"
+              r="0"
+              fill="rgb(120 , 15, 150)"
               stroke="black"
               stroke-width="2"/>
+      <text y="-5" x="155">Blob the First</text>
+      <line y1="-590"
+            x1="110"
+            y2="-5"
+            x2="110"
+            style="stroke:black;stroke-width:2"/>
+      <circle cx="400"
+              cy="-350"
+              r="4.666666666666666667"
+              fill="rgb(120 , 15, 150)"
+              stroke="black"
+              stroke-width="2"/>
+      <text y="-5" x="355">Blob the Second</text>
+      <line y1="-590"
+            x1="310"
+            y2="-5"
+            x2="310"
+            style="stroke:black;stroke-width:2"/>
+      <circle cx="600"
+              cy="-350"
+              r="0"
+              fill="rgb(120 , 15, 150)"
+              stroke="black"
+              stroke-width="2"/>
+      <text y="-5" x="555">Blob the Third</text>
+      <line y1="-590"
+            x1="510"
+            y2="-5"
+            x2="510"
+            style="stroke:black;stroke-width:2"/>
+      <text y="-625" x="175" font-size="30">
+                       Special WhatsIts Per Blob
+                   </text>
+      <text x="-5" y="-420">jabberwocky</text>
+      <line x1="-5"
+            y1="-450"
+            x2="650"
+            y2="-450"
+            style="stroke:black;stroke-width:2"/>
       <circle cx="200"
-              cy="-200"
-              r="50"
-              fill="pink"
+              cy="-420"
+              r="0"
+              fill="rgb(120 , 15, 180)"
               stroke="black"
               stroke-width="2"/>
+      <text y="-5" x="155">Blob the First</text>
+      <line y1="-590"
+            x1="110"
+            y2="-5"
+            x2="110"
+            style="stroke:black;stroke-width:2"/>
       <circle cx="400"
-              cy="-50"
+              cy="-420"
               r="0"
-              fill="green"
+              fill="rgb(120 , 15, 180)"
               stroke="black"
               stroke-width="2"/>
+      <text y="-5" x="355">Blob the Second</text>
+      <line y1="-590"
+            x1="310"
+            y2="-5"
+            x2="310"
+            style="stroke:black;stroke-width:2"/>
+      <circle cx="600"
+              cy="-420"
+              r="4.666666666666666667"
+              fill="rgb(120 , 15, 180)"
+              stroke="black"
+              stroke-width="2"/>
+      <text y="-5" x="555">Blob the Third</text>
+      <line y1="-590"
+            x1="510"
+            y2="-5"
+            x2="510"
+            style="stroke:black;stroke-width:2"/>
+      <text y="-625" x="175" font-size="30">
+                       Special WhatsIts Per Blob
+                   </text>
+      <text x="-5" y="-490">shield</text>
+      <line x1="-5"
+            y1="-520"
+            x2="650"
+            y2="-520"
+            style="stroke:black;stroke-width:2"/>
+      <circle cx="200"
+              cy="-490"
+              r="0"
+              fill="rgb(120 , 15, 210)"
+              stroke="black"
+              stroke-width="2"/>
+      <text y="-5" x="155">Blob the First</text>
+      <line y1="-590"
+            x1="110"
+            y2="-5"
+            x2="110"
+            style="stroke:black;stroke-width:2"/>
       <circle cx="400"
-              cy="-350"
+              cy="-490"
               r="0"
-              fill="purple"
+              fill="rgb(120 , 15, 210)"
               stroke="black"
               stroke-width="2"/>
+      <text y="-5" x="355">Blob the Second</text>
+      <line y1="-590"
+            x1="310"
+            y2="-5"
+            x2="310"
+            style="stroke:black;stroke-width:2"/>
+      <circle cx="600"
+              cy="-490"
+              r="4.666666666666666667"
+              fill="rgb(120 , 15, 210)"
+              stroke="black"
+              stroke-width="2"/>
+      <text y="-5" x="555">Blob the Third</text>
+      <line y1="-590"
+            x1="510"
+            y2="-5"
+            x2="510"
+            style="stroke:black;stroke-width:2"/>
+      <text y="-625" x="175" font-size="30">
+                       Special WhatsIts Per Blob
+                   </text>
+      <text x="-5" y="-560">invisibilityCloak</text>
+      <line x1="-5"
+            y1="-590"
+            x2="650"
+            y2="-590"
+            style="stroke:black;stroke-width:2"/>
+      <circle cx="200"
+              cy="-560"
+              r="0"
+              fill="rgb(120 , 15, 240)"
+              stroke="black"
+              stroke-width="2"/>
+      <text y="-5" x="155">Blob the First</text>
+      <line y1="-590"
+            x1="110"
+            y2="-5"
+            x2="110"
+            style="stroke:black;stroke-width:2"/>
       <circle cx="400"
-              cy="-200"
-              r="50"
-              fill="pink"
-              stroke="black"
-              stroke-width="2"/>
-      <circle cx="600"
-              cy="-50"
+              cy="-560"
               r="0"
-              fill="green"
+              fill="rgb(120 , 15, 240)"
               stroke="black"
               stroke-width="2"/>
+      <text y="-5" x="355">Blob the Second</text>
+      <line y1="-590"
+            x1="310"
+            y2="-5"
+            x2="310"
+            style="stroke:black;stroke-width:2"/>
       <circle cx="600"
-              cy="-350"
-              r="0"
-              fill="purple"
+              cy="-560"
+              r="4.666666666666666667"
+              fill="rgb(120 , 15, 240)"
               stroke="black"
               stroke-width="2"/>
-      <circle cx="600"
-              cy="-200"
-              r="40"
-              fill="pink"
-              stroke="black"
-              stroke-width="2"/>
+      <text y="-5" x="555">Blob the Third</text>
+      <line y1="-590"
+            x1="510"
+            y2="-5"
+            x2="510"
+            style="stroke:black;stroke-width:2"/>
+      <text y="-625" x="175" font-size="30">
+                       Special WhatsIts Per Blob
+                   </text>
    </g>
 </svg>
