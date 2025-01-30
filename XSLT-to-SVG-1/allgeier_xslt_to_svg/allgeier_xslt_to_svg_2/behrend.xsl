@@ -52,11 +52,11 @@
                 
                 <xsl:variable name="color">
                     <xsl:choose>
-                        <xsl:when test="$type = 'typo'">#E74C3C</xsl:when>  <!-- Red -->
-                        <xsl:when test="$type = 'spelling'">#3498DB</xsl:when>  <!-- Blue -->
-                        <xsl:when test="$type = 'correction'">#27AE60</xsl:when>  <!-- Green -->
-                        <xsl:when test="$type = 'writing'">#8E44AD</xsl:when>  <!-- Purple -->
-                        <xsl:when test="$type = 'underline'">#F1C40F</xsl:when>  <!-- Yellow -->
+                        <xsl:when test="$type = 'typo'">rgb(255, 83, 80)</xsl:when>  <!-- Red -->
+                        <xsl:when test="$type = 'spelling'">rgb(80, 168, 255)</xsl:when>  <!-- Blue -->
+                        <xsl:when test="$type = 'correction'">rgb(69, 186, 72)</xsl:when>  <!-- Green -->
+                        <xsl:when test="$type = 'writing'">rgb(188, 92, 243)</xsl:when>  <!-- Purple -->
+                        <xsl:when test="$type = 'underline'">rgb(251, 218, 82)</xsl:when>  <!-- Yellow -->
                     </xsl:choose>
                 </xsl:variable>
                 
