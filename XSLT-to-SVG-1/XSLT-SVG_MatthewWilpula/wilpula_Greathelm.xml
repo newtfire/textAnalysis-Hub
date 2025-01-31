@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- This is a description of the Greathelm helm from Elden Ring -->
-<?xml-model href="wilpula_Greathelm.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <Added date="2022-02-25">2022-02-25</Added>
     <item>Greathelm</item>
