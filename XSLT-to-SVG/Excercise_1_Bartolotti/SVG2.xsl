@@ -17,8 +17,6 @@
     
     <xsl:variable name="y-spacer" select="10"/>
     
-    <xsl:variable name="color" select="'purple'"/>
-    
     <xsl:output method="xml" indent="yes"/>
     
     
@@ -39,15 +37,27 @@
                     <circle cx="{$x-spacer * position()}"
                         cy="{-250}" 
                         r="{@n * $y-spacer}"
-                        fill="{$color}"
+                        fill="gold"
                         stroke="black"
                         stroke-width="{count(descendant::loc)}"
                     />
 
 
                 </xsl:for-each>
+                
             </g>
-        </svg>  
+            <g>
+                <line x1="200" y1="195" x2="1070" y2="195" stroke="black" stroke-width="1"/>
+                <line x1="200" y1="305" x2="1070" y2="305" stroke="black" stroke-width="1"/>
+            </g>
+            <g>
+                <rect width="400" height="200" x="400" y="400" fill="white" stroke="black" stroke-width="1"/>
+                <text x="575" y="420">Legend</text>
+                <text x="405" y="440">Stroke size is the amount of locs in each paragraph of text.</text>
+                <text x="405" y="460">life is crazy</text>
+                <text x="405" y="480">jo mama</text>
+            </g>
+        </svg>
     </xsl:template>
     
 </xsl:stylesheet>
