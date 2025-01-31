@@ -26,7 +26,7 @@
         <g> 
             <!-- Eyes -->
             <circle cx="90" cy="90" r="3" fill="black" />
-            <circle cx="110" cy="90" r="3" fill="black" />
+            <circle cx="110" cy="90" r="3" fill="brown" />
         </g>
             
         <g> 
