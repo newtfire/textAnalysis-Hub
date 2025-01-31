@@ -47,8 +47,42 @@
                 <text x="450" y="-450" fill="brown" style="font-family:times-new-roman;font-size:50px;" >Inventory</text>
                 <line x1="0" y1="-140" x2="900" y2="-140" stroke="black" stroke-width="4" stroke-opacity="1"></line>
                 <text x="25" y="-150" fill="black" style="font-family:times-new-roman;font-size:20px;" >Magic Eggs</text>
+                
+                <rect x="{$x-spacer * position()}"
+                    y="{-70}" 
+                    r="{count(descendant::special[@whatsIt='powerUp']) * $y-spacer}"
+                    fill="blue"
+                    stroke="black"
+                    strokewidth="3"
+                    width="50"
+                    height="50"
+                />
+                <line x1="0" y1="-10" x2="900" y2="-10" stroke="black" stroke-width="4" stroke-opacity="1"></line>
+                <text x="25" y="-20" fill="black" style="font-family:times-new-roman;font-size:20px;" >Power Ups</text>
+                
+                <rect x="{$x-spacer * position()}"
+                    y="{40}" 
+                    r="{count(descendant::special[@whatsIt='rocketShip']) * $y-spacer}"
+                    fill="grey"
+                    stroke="black"
+                    strokewidth="3"
+                    width="100"
+                    height="50"
+                />
+                <line x1="0" y1="100" x2="900" y2="100" stroke="black" stroke-width="4" stroke-opacity="1"></line>
+                <text x="25" y="80" fill="black" style="font-family:times-new-roman;font-size:20px;" >Rocket Ammo</text>
  
             </xsl:for-each>
+               <xsl:for-each select="descendant::blob">
+                   <circle cx="{$x-spacer * position()}"
+                       cy="{150}" 
+                       r="{count(descendant::special[@whatsIt='jabberwocky']) * $y-spacer}"
+                       fill="black"
+                       stroke="red"
+                       strokewidth="5"
+                   />
+                   <text x="50" y="150" fill="red" style="font-family:times-new-roman;font-size:50px;" >Wanted:</text>
+               </xsl:for-each>
            </g>
         </svg>  
     </xsl:template>

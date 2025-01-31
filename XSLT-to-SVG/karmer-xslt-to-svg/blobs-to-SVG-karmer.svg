@@ -179,5 +179,35 @@
             y="80"
             fill="black"
             style="font-family:times-new-roman;font-size:20px;">Rocket Ammo</text>
+      <circle cx="200"
+              cy="150"
+              r="0"
+              fill="black"
+              stroke="red"
+              strokewidth="5"/>
+      <text x="50"
+            y="150"
+            fill="red"
+            style="font-family:times-new-roman;font-size:50px;">Wanted:</text>
+      <circle cx="400"
+              cy="150"
+              r="0"
+              fill="black"
+              stroke="red"
+              strokewidth="5"/>
+      <text x="50"
+            y="150"
+            fill="red"
+            style="font-family:times-new-roman;font-size:50px;">Wanted:</text>
+      <circle cx="600"
+              cy="150"
+              r="10"
+              fill="black"
+              stroke="red"
+              strokewidth="5"/>
+      <text x="50"
+            y="150"
+            fill="red"
+            style="font-family:times-new-roman;font-size:50px;">Wanted:</text>
    </g>
 </svg>
