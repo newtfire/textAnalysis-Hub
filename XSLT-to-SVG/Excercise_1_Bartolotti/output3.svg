@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+   <desc>SVG created from [Letter from Marian Baldwin, June 30, 1917] </desc>
+   <g transform="translate(20 500)">
+      <circle cx="200"
+              cy="-250"
+              r="10"
+              fill="gold"
+              stroke="black"
+              stroke-width="5"/>
+      <circle cx="400"
+              cy="-250"
+              r="20"
+              fill="gold"
+              stroke="black"
+              stroke-width="0"/>
+      <circle cx="600"
+              cy="-250"
+              r="30"
+              fill="gold"
+              stroke="black"
+              stroke-width="1"/>
+      <circle cx="800"
+              cy="-250"
+              r="40"
+              fill="gold"
+              stroke="black"
+              stroke-width="1"/>
+      <circle cx="1000"
+              cy="-250"
+              r="50"
+              fill="gold"
+              stroke="black"
+              stroke-width="3"/>
+   </g>
+   <g>
+      <line x1="200"
+            y1="195"
+            x2="1070"
+            y2="195"
+            stroke="black"
+            stroke-width="1"/>
+      <line x1="200"
+            y1="305"
+            x2="1070"
+            y2="305"
+            stroke="black"
+            stroke-width="1"/>
+   </g>
+   <g>
+      <rect width="400"
+            height="200"
+            x="400"
+            y="400"
+            fill="white"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="575" y="420">Legend</text>
+      <text x="405" y="440">Stroke size is the amount of locs in each paragraph of text.</text>
+      <text x="405" y="460">life is crazy</text>
+      <text x="405" y="480">jo mama</text>
+   </g>
+</svg>
