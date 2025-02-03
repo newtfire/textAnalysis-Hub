@@ -11,9 +11,13 @@ First step is ALWAYS to search for characters that will disrupt XML encoding:
 XML is not allowed to contain raw ampersand characters `&`. 
 So I needed to find:
 
+**Find:**
+
 ```
 &
 ```
+**Replace:**
+
 and replace with the special escape characters for ampersands:
 ```
 &amp;
@@ -49,7 +53,7 @@ Find:
 
 I set this to replace, so I could keep the first tag, and then add a new pair of tags for the title elements:
 ```
-\1<title>\2</title>\3
+\1<title>\2</title>
 ```
 At the very end of class, I manually set a root element around the entire document 
 ```
