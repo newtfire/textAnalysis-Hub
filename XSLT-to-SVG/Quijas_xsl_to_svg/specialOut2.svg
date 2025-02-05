@@ -53,6 +53,7 @@
                stroke-width="4"
                stroke="#330066"/>
       </g>
+      <desc> Random Fish </desc>
       <path d="M15,50                      C60,10 120,10 150,40                      C200,70 20,100 20,60                     Z"
             fill="lightblue"
             stroke="black"
@@ -69,6 +70,7 @@
               stroke-width="1"/>
                 ] 
                 <circle cx="50" cy="40" r="3" fill="black"/>
+      <desc> end of random fish </desc>
       <g>
          <desc>Magic egg data</desc>
          <circle cx="200"
