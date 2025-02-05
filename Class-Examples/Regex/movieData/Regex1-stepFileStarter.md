@@ -1,9 +1,9 @@
 # Regex Steps for Converting Movie Data From a tab-separated text file to XML
 
-Before beginning, think about how to do these assignments. It might be helpful to run a separate (free) Markdown editor to keep
+*Before beginning, think about how to do these assignments. It might be helpful to run a separate (free) Markdown editor to keep
 your step recording in a different software window than oXygen, where you'll be writing your Find and Replace operations.
 You want to be able to copy and paste your expressions into your markdown file to record them. 
-I'm going to use Macdown (a nice markdown editor for Mac). Windows has Typora or reMarkable, etc.
+I'm going to use Macdown (a nice markdown editor for Mac). Windows has Typora or reMarkable, etc.*
 
 
 First step is ALWAYS to search for characters that will disrupt XML encoding: 
@@ -11,9 +11,13 @@ First step is ALWAYS to search for characters that will disrupt XML encoding:
 XML is not allowed to contain raw ampersand characters `&`. 
 So I needed to find:
 
+**Find:**
+
 ```
 &
 ```
+**Replace:**
+
 and replace with the special escape characters for ampersands:
 ```
 &amp;
@@ -42,7 +46,7 @@ Second step I matched this and set capturing groups so I could tag the titles:
 
 Find: 
 ```
-(<movie>)(.+?)\t
+(<movie>)(.+?)(\t)
 ```
 
 
