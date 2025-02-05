@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     width="100%"
+     height="850">
+   <desc>Superpowers</desc>
+   <defs>
+      <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+         <stop offset="0%" style="stop-color:black; stop-opacity:1.0"/>
+         <stop offset="100%" style="stop-color:gray; stop-opacity:0.5"/>
+      </linearGradient>
+   </defs>
+   <rect width="100%" height="100%" fill="url(#bgGradient)"/>
+   <g stroke="lightgray" stroke-width="2">
+      <line x1="260" y1="50" x2="260" y2="700"/>
+      <line x1="600" y1="50" x2="600" y2="700"/>
+      <line x1="880" y1="50" x2="880" y2="700"/>
+      <line x1="1200" y1="50" x2="1200" y2="700"/>
+   </g>
+   <g transform="translate(20 50)">
+      <circle cx="410"
+              cy="300"
+              r="100"
+              fill="#64c9ff"
+              stroke="black"
+              stroke-width="2"/>
+      <circle cx="717.5"
+              cy="300"
+              r="50"
+              fill="#ff6464"
+              stroke="black"
+              stroke-width="2"/>
+      <circle cx="1020.9"
+              cy="300"
+              r="80"
+              fill="#ffa047"
+              stroke="black"
+              stroke-width="2"/>
+      <desc>Boss</desc>
+      <circle cx="410"
+              cy="600"
+              r="0"
+              fill="yellow"
+              stroke="black"
+              stroke-width="2"/>
+      <circle cx="820"
+              cy="600"
+              r="10"
+              fill="yellow"
+              stroke="black"
+              stroke-width="2"/>
+      <circle cx="1230"
+              cy="600"
+              r="0"
+              fill="yellow"
+              stroke="black"
+              stroke-width="2"/>
+      <desc>Dragon</desc>
+      <circle cx="410"
+              cy="550"
+              r="0"
+              fill="orange"
+              stroke="black"
+              stroke-width="2"/>
+      <circle cx="820"
+              cy="550"
+              r="10"
+              fill="orange"
+              stroke="black"
+              stroke-width="2"/>
+      <circle cx="1230"
+              cy="550"
+              r="0"
+              fill="orange"
+              stroke="black"
+              stroke-width="2"/>
+      <desc>Jabberwocky</desc>
+      <circle cx="1150"
+              cy="500"
+              r="0"
+              fill="pink"
+              stroke="black"
+              stroke-width="2"/>
+      <circle cx="1150"
+              cy="500"
+              r="0"
+              fill="pink"
+              stroke="black"
+              stroke-width="2"/>
+      <circle cx="1150"
+              cy="500"
+              r="10"
+              fill="pink"
+              stroke="black"
+              stroke-width="2"/>
+      <desc>Shield</desc>
+      <circle cx="1150"
+              cy="550"
+              r="0"
+              fill="black"
+              stroke="black"
+              stroke-width="2"/>
+      <circle cx="1150"
+              cy="550"
+              r="0"
+              fill="black"
+              stroke="black"
+              stroke-width="2"/>
+      <circle cx="1150"
+              cy="550"
+              r="10"
+              fill="black"
+              stroke="black"
+              stroke-width="2"/>
+      <desc>Invisiblity Cloak</desc>
+      <circle cx="1150"
+              cy="600"
+              r="0"
+              fill="cyan"
+              stroke="black"
+              stroke-width="2"/>
+      <circle cx="1150"
+              cy="600"
+              r="0"
+              fill="cyan"
+              stroke="black"
+              stroke-width="2"/>
+      <circle cx="1150"
+              cy="600"
+              r="10"
+              fill="cyan"
+              stroke="black"
+              stroke-width="2"/>
+   </g>
+   <desc>Text Elements</desc>
+   <g>
+      <text x="400" y="80" font-size="22" fill="white">Blob #1</text>
+      <text x="700" y="80" font-size="22" fill="white">Blob #2</text>
+      <text x="1000" y="80" font-size="22" fill="white">Blob #3</text>
+      <text x="395" y="500" font-size="16" fill="white">Magic Egg</text>
+      <text x="700" y="500" font-size="16" fill="white">Power UP</text>
+      <text x="1005" y="500" font-size="16" fill="white">Rocket Ship</text>
+   </g>
+   <desc>Legend</desc>
+   <g>
+      <circle cx="30"
+              cy="700"
+              r="10"
+              fill="yellow"
+              stroke="black"
+              stroke-width="2"/>
+      <text x="50" y="705" font-size="14" fill="white">Boss</text>
+      <circle cx="30"
+              cy="725"
+              r="10"
+              fill="orange"
+              stroke="black"
+              stroke-width="2"/>
+      <text x="50" y="730" font-size="14" fill="white">Dragon</text>
+      <circle cx="30"
+              cy="750"
+              r="10"
+              fill="pink"
+              stroke="black"
+              stroke-width="2"/>
+      <text x="50" y="755" font-size="14" fill="white">Jabberwocky</text>
+      <circle cx="30"
+              cy="775"
+              r="10"
+              fill="black"
+              stroke="black"
+              stroke-width="2"/>
+      <text x="50" y="780" font-size="14" fill="white">Shield</text>
+      <circle cx="30"
+              cy="800"
+              r="10"
+              fill="cyan"
+              stroke="black"
+              stroke-width="2"/>
+      <text x="50" y="805" font-size="14" fill="white">Invisibility Cloak</text>
+   </g>
+</svg>
