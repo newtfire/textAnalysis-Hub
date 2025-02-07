@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%">
+   <desc>SVG created from A Big Ball of Text with Special Whatsits Inside</desc>
+   <g transform="translate(20 500)">
+      <circle cx="200"
+              cy="-250"
+              r="50"
+              fill="green"
+              stroke="black"
+              stroke-width="2"/>
+      <circle cx="400"
+              cy="-250"
+              r="50"
+              fill="green"
+              stroke="black"
+              stroke-width="2"/>
+      <circle cx="600"
+              cy="-250"
+              r="40"
+              fill="green"
+              stroke="black"
+              stroke-width="2"/>
+   </g>
+</svg>
