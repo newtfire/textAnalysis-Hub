@@ -15,9 +15,10 @@
     <!-- ebb: Here we are going to match on the elements we've marked and look for regex patterns inside them using
         a special XSLT function called xsl:analyze-string.
     -->
-    <xsl:template match="sp">
-        <sp>
-        <xsl:analyze-string select="text()" regex="\[(.+?)\]" flags="s">
+    <xsl:template match="text()">
+        <xsl:analyze-string select="." regex="\[(.+?)\]" flags="s">
+            <!-- @flags="s" sets the "dot matches all" functionality in xsl:analyze-string. Remove it 
+            if you need to prevent the dot from matching newline characters. -->
             <xsl:matching-substring>
                 <info><xsl:value-of select="regex-group(1)"/></info>
             </xsl:matching-substring>
@@ -27,7 +28,6 @@
             </xsl:non-matching-substring>
             
         </xsl:analyze-string>
-        </sp>
     </xsl:template>
     
 </xsl:stylesheet>
