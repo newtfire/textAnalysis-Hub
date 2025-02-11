@@ -6,9 +6,11 @@
     exclude-result-prefixes="xs math"
     version="3.0">
     
+
     <xsl:variable name="x-spacer" select="200"/>
+
     
-    <xsl:variable name="y-spacer" select="10"/>
+    <xsl:variable name="y-spacer" select="40"/>
     
     <xsl:output method="xml" indent="yes"/>
     
@@ -17,11 +19,17 @@
         <svg width="100%">
             <desc>SVG created from <xsl:apply-templates select="//title"/></desc>
 
+
            <g transform="translate(20 500)">
+
             
             <xsl:for-each select="descendant::blob">
 
                 <circle cx="{$x-spacer * position()}"
+
+                    cy="{-250}" 
+                    r="{count(descendant::special[@whatsIt='magicEgg']) * $y-spacer}"
+
                     cy="{-50}" 
                     r="{count(descendant::special[@whatsIt='rocketShip']) * $y-spacer}"
                     fill="green"
@@ -31,10 +39,13 @@
                 <circle cx="{$x-spacer * position()}"
                     cy="{-350}" 
                     r="{count(descendant::special[@whatsIt='powerUp']) * $y-spacer}"
+
                     fill="purple"
                     stroke="black"
                     stroke-width="2"
+
                 />
+
                 <circle cx="{$x-spacer * position()}"
                     cy="{-200}" 
                     r="{count(descendant::special[@whatsIt='magicEgg']) * $y-spacer}"
@@ -42,6 +53,7 @@
                     stroke="black"
                     stroke-width="2"
                 />
+
             </xsl:for-each>
            </g>
         </svg>
