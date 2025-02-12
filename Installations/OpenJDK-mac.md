@@ -1,6 +1,6 @@
 # Installing Homebrew and OpenJDK (Macs)
 
-## Homebrew :
+## Install Homebrew!
 <img src="homebrew.png" alt="homebrew logo" width="500"/>
 
 Homebrew is a package manager that helps you install things on your Mac quickly in your Terminal. 
