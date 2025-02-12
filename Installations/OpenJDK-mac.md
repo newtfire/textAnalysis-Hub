@@ -23,8 +23,8 @@ You will need to copy the code into your terminal and enter. This starts the ins
 7. Once you get that installing note that the script will download your terminal will then run a bunch of code lines at the end of all those run lines the terminal will say `Next steps: Run these commands in your terminal to add Homebrew to your PATH: echo >> /Users/dannikalove/.zprofile echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/dannikalove/.zprofileeval "$(/opt/homebrew/bin/brew shellenv)" Run brew help to get started Further documentation: https://docs.brew.sh"`
 8. You will need to be careful when running each one of those commands. **HEADS UP! You must do two things: Replace the [square-bracketed] portions of each command with your specific filepath to your "home" and system dot-files. Run each line separately.** We're using Dannika's profile as an example here!
 
-    * First, run this command : `echo >> [/Users/dannikalove]/.zprofile` 
-    * Next, run this line : `echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> [/Users/dannikalove]/.zprofile` 
+    * First, **edit** and run this command : `echo >> [/Users/dannikalove]/.zprofile` 
+    * Next, **edit** run this line : `echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> [/Users/dannikalove]/.zprofile` 
     * Lastly, run this line : `eval "$(/opt/homebrew/bin/brew shellenv)"`
 
 
