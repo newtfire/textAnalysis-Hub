@@ -23,7 +23,7 @@ Here's [a friendly YouTube video guide to chocolatey](https://www.youtube.com/wa
 
 You can quickly test out your new installation of Chocolatey by installling Marktext, popular free markdown editor for Windows (which I'm using to write up this guide). Try the command `choco install marktext` You should see the new software come up in your taskbar and you can try it out!
 
-## Installing JDK 
+## Install JDK!
 First, make sure you have developer (jdk) java installed:
 
 * To check if you have java, you can use your Git Bash shell to enter `which java` or `where java`(Those commands won't work in PowerShell, but all the shells will respond to `java -version` (which tells you if you have an old version or nothing at all.)
