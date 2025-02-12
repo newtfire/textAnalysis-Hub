@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300">
+    <desc>Bar chart showing the number of dialogue lines per character in the Benjie Bear comic xml
+        done in DIGIT 110, with animations representing data changes.</desc>
+
+    <g>
+        <rect width="500" height="300" fill="#7c6150"/>
+
+        <!-- Axes -->
+        <line x1="50" y1="250" x2="450" y2="250" stroke="black"/>
+        <line x1="50" y1="50" x2="50" y2="250" stroke="black"/>
+
+        <!-- Y-axis  -->
+        <text x="40" y="250" font-family="Arial" font-size="12" text-anchor="end">0</text>
+        <text x="40" y="200" font-family="Arial" font-size="12" text-anchor="end">5</text>
+        <text x="40" y="150" font-family="Arial" font-size="12" text-anchor="end">10</text>
+        <text x="40" y="100" font-family="Arial" font-size="12" text-anchor="end">15</text>
+        <text x="40" y="50" font-family="Arial" font-size="12" text-anchor="end">20</text>
+
+        <!-- Grid  -->
+        <line x1="50" y1="200" x2="450" y2="200" stroke="lightgray" stroke-dasharray="2"/>
+        <line x1="50" y1="150" x2="450" y2="150" stroke="lightgray" stroke-dasharray="2"/>
+        <line x1="50" y1="100" x2="450" y2="100" stroke="lightgray" stroke-dasharray="2"/>
+        <line x1="50" y1="50" x2="450" y2="50" stroke="lightgray" stroke-dasharray="2"/>
+
+        <!--animations -->
+        <rect x="100" y="50" width="50" height="0" fill="#fabaad">
+            <title>Benjie Bear: 22 lines</title>
+
+            <animate attributeName="height" from="0" to="200" dur="1s" fill="freeze"/>
+        </rect>
+
+        <rect x="200" y="230" width="50" height="0" fill="#f9b0d3">
+            <title>Man: 2 lines</title>
+            <animate attributeName="height" from="0" to="20" dur="1s" fill="freeze"/>
+        </rect>
+
+        <rect x="300" y="240" width="50" height="0" fill="#f0c2d4">
+            <title>Other Bear: 1 line</title>
+            <animate attributeName="height" from="0" to="10" dur="1s" fill="freeze"/>
+        </rect>
+
+        <!-- bars -->
+        <text x="125" y="270" font-family="Arial" font-size="12" text-anchor="middle">Benjie
+            Bear</text>
+        <text x="225" y="270" font-family="Arial" font-size="12" text-anchor="middle">Man</text>
+        <text x="325" y="270" font-family="Arial" font-size="12" text-anchor="middle">Other
+            Bear</text>
+    </g>
+</svg>
