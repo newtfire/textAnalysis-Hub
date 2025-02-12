@@ -39,14 +39,19 @@
                   <!-- Let's plot this portion outside the for-each. Anything we can hand-draw that we only want to output once can go here -->
                
                
+          <line x1="0" x2="800" y1="{position() * $grid-spacer}" y2="{current() * $grid-spacer}" stroke-width="4" stroke="#990099"/>
+
                <xsl:for-each select="(1 to 5)">
                    <line x1="0" x2="800" y1="{position() * $grid-spacer}" 
                        y2="{current() * $grid-spacer}" stroke-width="2" stroke="#dcb6de"/>
+
+            
+               <xsl:for-each select="(1 to 4)">
+                  <line x2="0" x1="800" y1="{position() *$grid-spacer}" y2="{current()* $grid-spacer}" stroke-width="4" stroke="#330066" />
+                
+               </xsl:for-each>
             
                </xsl:for-each>
-              </g>
-            
-            
             
             <xsl:for-each select="descendant::blob">
                 
@@ -57,8 +62,10 @@
                   <desc>Magic egg data</desc>
                 <circle cx="{$x-spacer * position()}"
                     cy="{-150}" 
+
                     r="{count(descendant::special[@whatsIt='magicEgg']) * $y-spacer}"
                     fill="rgb(220, {count(descendant::special[not(@whatsIt='magicEgg')]) * 40}, 222)"
+
                     stroke="black"
                     stroke-width="2"
                 />
@@ -81,13 +88,12 @@
                       <xsl:text>All other special items: </xsl:text>
                       <xsl:value-of select="count(descendant::special[not(@whatsIt='magicEgg')]) * $y-spacer"/>
                   </text>
+
      
+
               </g>
-             
-          
-                
- 
             </xsl:for-each>
+           </g>
            </g>
         </svg>  
     </xsl:template>
