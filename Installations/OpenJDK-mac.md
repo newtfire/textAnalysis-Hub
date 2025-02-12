@@ -21,9 +21,10 @@ You will need to copy the code into your terminal and enter. This starts the ins
 5. Once you enter your password the terminal will the state "Checking for sudo access (which may request your password)... Don't run this as root!" aftering receiving this error you will then repaste that orginal homebrew install code.
 6. After entering the original install code line the terminal will say "Checking for sudo access (which may request your password)... This script will install:" you may get asked you type in your computers password again but you will most likely not though if you do get asked for password just repeat past notes.
 7. Once you get that installing note that the script will download your terminal will then run a bunch of code lines at the end of all those run lines the terminal will say `Next steps: Run these commands in your terminal to add Homebrew to your PATH: echo >> /Users/dannikalove/.zprofile echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/dannikalove/.zprofileeval "$(/opt/homebrew/bin/brew shellenv)" Run brew help to get started Further documentation: https://docs.brew.sh"`
-8. You will need to be careful when running each one of those commands. **You must run each line separately.** 
-    * First, run this command : `echo >> /Users/dannikalove/.zprofile` 
-    * Next, run this line : `echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/dannikalove/.zprofile` 
+8. You will need to be careful when running each one of those commands. **HEADS UP! You must do two things: Replace the [square-bracketed] portions of each command with your specific filepath to your "home" and system dot-files. Run each line separately.** We're using Dannika's profile as an example here!
+
+    * First, run this command : `echo >> [/Users/dannikalove]/.zprofile` 
+    * Next, run this line : `echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> [/Users/dannikalove]/.zprofile` 
     * Lastly, run this line : `eval "$(/opt/homebrew/bin/brew shellenv)"`
 
 
