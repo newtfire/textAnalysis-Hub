@@ -1,11 +1,11 @@
 # Matthew's Favorite Bands:
-##Top 5:
+## Top 5:
 1. Daft Punk
 2. TWRP
 3. Carpenter Brut
 4. Justice
 5. Paramore
-###Codeblock:
+### Codeblock:
 ```
 <!-- Synthesize Her - TWRP -->
 <!-- Released May 17th, 2018 -->
