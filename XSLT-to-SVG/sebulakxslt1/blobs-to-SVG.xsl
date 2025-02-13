@@ -65,7 +65,8 @@
                    </xsl:for-each>
                    <text y="-625" x="175" font-size="30">
                        Special WhatsIts Per Blob
-                   </text>             
+                   </text>  
+                   
                
                </xsl:for-each>
                

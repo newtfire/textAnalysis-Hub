@@ -47,6 +47,22 @@
       <text y="-625" x="175" font-size="30">
                        Special WhatsIts Per Blob
                    </text>
+      <text y="-500" x="700" font-size="20">
+                       Animating attempts
+                   </text>
+      <rect x="30"
+            y="30"
+            height="110"
+            width="110"
+            style="stroke:green;fill:red">
+         <animateTransform attributeName="transform"
+                           begin="0s"
+                           dur="10s"
+                           type="rotate"
+                           from="0 600 -500"
+                           to="360 600 -500"
+                           repeatCount="indefinite"/>
+      </rect>
       <text x="-5" y="-140">magicEgg</text>
       <line x1="-5"
             y1="-170"
@@ -92,6 +108,22 @@
       <text y="-625" x="175" font-size="30">
                        Special WhatsIts Per Blob
                    </text>
+      <text y="-500" x="700" font-size="20">
+                       Animating attempts
+                   </text>
+      <rect x="30"
+            y="30"
+            height="110"
+            width="110"
+            style="stroke:green;fill:red">
+         <animateTransform attributeName="transform"
+                           begin="0s"
+                           dur="10s"
+                           type="rotate"
+                           from="0 600 -500"
+                           to="360 600 -500"
+                           repeatCount="indefinite"/>
+      </rect>
       <text x="-5" y="-210">rocketShip</text>
       <line x1="-5"
             y1="-240"
@@ -137,6 +169,22 @@
       <text y="-625" x="175" font-size="30">
                        Special WhatsIts Per Blob
                    </text>
+      <text y="-500" x="700" font-size="20">
+                       Animating attempts
+                   </text>
+      <rect x="30"
+            y="30"
+            height="110"
+            width="110"
+            style="stroke:green;fill:red">
+         <animateTransform attributeName="transform"
+                           begin="0s"
+                           dur="10s"
+                           type="rotate"
+                           from="0 600 -500"
+                           to="360 600 -500"
+                           repeatCount="indefinite"/>
+      </rect>
       <text x="-5" y="-280">boss</text>
       <line x1="-5"
             y1="-310"
@@ -182,6 +230,22 @@
       <text y="-625" x="175" font-size="30">
                        Special WhatsIts Per Blob
                    </text>
+      <text y="-500" x="700" font-size="20">
+                       Animating attempts
+                   </text>
+      <rect x="30"
+            y="30"
+            height="110"
+            width="110"
+            style="stroke:green;fill:red">
+         <animateTransform attributeName="transform"
+                           begin="0s"
+                           dur="10s"
+                           type="rotate"
+                           from="0 600 -500"
+                           to="360 600 -500"
+                           repeatCount="indefinite"/>
+      </rect>
       <text x="-5" y="-350">dragon</text>
       <line x1="-5"
             y1="-380"
@@ -227,6 +291,22 @@
       <text y="-625" x="175" font-size="30">
                        Special WhatsIts Per Blob
                    </text>
+      <text y="-500" x="700" font-size="20">
+                       Animating attempts
+                   </text>
+      <rect x="30"
+            y="30"
+            height="110"
+            width="110"
+            style="stroke:green;fill:red">
+         <animateTransform attributeName="transform"
+                           begin="0s"
+                           dur="10s"
+                           type="rotate"
+                           from="0 600 -500"
+                           to="360 600 -500"
+                           repeatCount="indefinite"/>
+      </rect>
       <text x="-5" y="-420">jabberwocky</text>
       <line x1="-5"
             y1="-450"
@@ -272,6 +352,22 @@
       <text y="-625" x="175" font-size="30">
                        Special WhatsIts Per Blob
                    </text>
+      <text y="-500" x="700" font-size="20">
+                       Animating attempts
+                   </text>
+      <rect x="30"
+            y="30"
+            height="110"
+            width="110"
+            style="stroke:green;fill:red">
+         <animateTransform attributeName="transform"
+                           begin="0s"
+                           dur="10s"
+                           type="rotate"
+                           from="0 600 -500"
+                           to="360 600 -500"
+                           repeatCount="indefinite"/>
+      </rect>
       <text x="-5" y="-490">shield</text>
       <line x1="-5"
             y1="-520"
@@ -317,6 +413,22 @@
       <text y="-625" x="175" font-size="30">
                        Special WhatsIts Per Blob
                    </text>
+      <text y="-500" x="700" font-size="20">
+                       Animating attempts
+                   </text>
+      <rect x="30"
+            y="30"
+            height="110"
+            width="110"
+            style="stroke:green;fill:red">
+         <animateTransform attributeName="transform"
+                           begin="0s"
+                           dur="10s"
+                           type="rotate"
+                           from="0 600 -500"
+                           to="360 600 -500"
+                           repeatCount="indefinite"/>
+      </rect>
       <text x="-5" y="-560">invisibilityCloak</text>
       <line x1="-5"
             y1="-590"
@@ -362,5 +474,21 @@
       <text y="-625" x="175" font-size="30">
                        Special WhatsIts Per Blob
                    </text>
+      <text y="-500" x="700" font-size="20">
+                       Animating attempts
+                   </text>
+      <rect x="30"
+            y="30"
+            height="110"
+            width="110"
+            style="stroke:green;fill:red">
+         <animateTransform attributeName="transform"
+                           begin="0s"
+                           dur="10s"
+                           type="rotate"
+                           from="0 600 -500"
+                           to="360 600 -500"
+                           repeatCount="indefinite"/>
+      </rect>
    </g>
 </svg>
