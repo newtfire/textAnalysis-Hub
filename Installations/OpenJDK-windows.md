@@ -16,7 +16,7 @@ You will also need to:
 
 <img src="chocolatey.png" alt="chocolatey logo" width="500"/>
 
-=First, we'll install the chocolatey package manager for Windows
+First, we'll install the chocolatey package manager for Windows.
 Use your Windows PowerShell in "Run as Administrator" mode, and follow [Chocolatey's installation instructions](https://chocolatey.org/install)).
 
 Here's [a friendly YouTube video guide to chocolatey](https://www.youtube.com/watch?v=hfgZYpo5moA) for more info on what chocolatey is for and how to install it. 

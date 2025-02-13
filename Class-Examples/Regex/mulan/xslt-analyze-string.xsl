@@ -22,12 +22,25 @@
             <xsl:matching-substring>
                 <info><xsl:value-of select="regex-group(1)"/></info>
             </xsl:matching-substring>
-  
-            <xsl:non-matching-substring>
-                <xsl:apply-templates select="."/>
-            </xsl:non-matching-substring>
             
+            <xsl:non-matching-substring>
+                  <xsl:analyze-string select="." regex="^.+?:">
+                      <xsl:matching-substring>
+                          <speaker><xsl:value-of select="."/></speaker>
+                      </xsl:matching-substring>
+                      <xsl:non-matching-substring>
+                          <xsl:value-of select="."/>
+                      </xsl:non-matching-substring>
+                      
+                  </xsl:analyze-string>          
+            
+            
+            
+            </xsl:non-matching-substring>
+  
+          
         </xsl:analyze-string>
     </xsl:template>
+    
     
 </xsl:stylesheet>
