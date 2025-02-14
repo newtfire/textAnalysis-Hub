@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" style="display:block; margin:auto">
+    <g alignment-baseline="middle">
+        <svg xmlns="http://www.w3.org/2000/svg">
+            <circle r="45" cx="48%" cy="18%" fill="red" stroke="black" stroke-width="1"/>
+            <circle r="25" cx="48%" cy="22%" fill="green" stroke="black" stroke-width="1"/>
+            <circle r="20" cx="48%" cy="24%" fill="blue" stroke="black" stroke-width="1"/>
+        </svg>
+        <svg xmlns="http://www.w3.org/2000/svg">
+            <text x="52%" y="15%" fill="red">Tahiti Nui</text>
+            <text x="52%" y="20%" fill="green">Tahiti Iti</text>
+            <text x="52%" y="25%" fill="blue">Mo'orea</text>
+        </svg>
+    </g>
+</svg>

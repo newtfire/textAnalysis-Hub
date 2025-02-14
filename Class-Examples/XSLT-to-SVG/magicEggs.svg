@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="100%">
    <desc>SVG created from A Big Ball of Text with Special Whatsits Inside</desc>
+<<<<<<< HEAD
+   <g transform="translate(40 500)">
+      <circle cx="40" cy="-180" r="50" fill="blue"/>
+      <circle cx="100" cy="-180" r="50" fill="purple"/>
+      
+=======
    <g transform="translate(20 500)">
       <circle cx="200"
               cy="-250"
@@ -20,5 +26,6 @@
               fill="purple"
               stroke="black"
               stroke-width="2"/>
+>>>>>>> main
    </g>
 </svg>

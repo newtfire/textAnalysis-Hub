@@ -35,27 +35,39 @@ And with that, your branch is now an official separate build from the main repo.
 
 ----------
 
-
 ### The Git Has a New Branch! What Can I Do With it?
 Now that we have it in place, a branch can either be worked on separately from the other branches or merged into another branch. The the puropse of this guide, we'll be focused on the later.
 
-A **Merge Request** can be performed on the Git Hub website itself, so no shell commands are involved in this part. On the repo you cloned, click on **Pull Requests** followed by **New Pull Request**. Choose to merge your branch to another one (usually the main one) and add details in the description. You can call out specific members of your group through this. Once the request is submitted, its up to your team to review and either approve or reject your changes.
+A **Pull Request** can be performed on the Git Hub website itself, so no shell commands are involved in this part. On the repo you cloned, click on **Pull Requests** followed by **New Pull Request**. Choose to merge your branch to another one (usually the main one) and add details in the description. You can call out specific members of your group through this. Once the request is submitted, its up to your team to review and either approve or reject your changes.
 
 ----------
-### Oh, That Old Thing? It's a Branch
+### Hacking Off Local Branches
 Let's assume your branch has been approved for merging and the deed has been done. Now what? If you've done some looking around on the repo page, your branch is still there. Let's asssume some time has passed and the branch was left untouched. It's outdated now and keeping it there could cause confusion, project bloat, and/or anoying your peers after noticing their small project has well over 100 branches. It's time you learn how to delete outdated/stale branches. 
 
 right-click the root file of the repo and open Git Bash there. Git pull. Then make sure how many branches there are by submitting the command:
 ```
 git branch
 ```
-The console should return your branch, *new-branch* amongst others. Now delete it with:
+The console should return your branch, *branch_name* amongst others. Now delete it with:
 ```
 git branch -d branch_name
 ```
-with *branch_name* replaced with the actual name of your branch. Just like that, your project just got a little bit cleaner with that stale branch chopped off. You're welcome.
+With *branch_name* replaced with the actual name of your branch. Just like that, your local files just got a little bit cleaner with that stale branch locally chopped off. However, there's still one loose end to take care of to truly make it official.
 
-**Note:** You cannot delete a branch you're currently in. You must navagate out to a different branch you find yourself in that situation. Fortunately, the next section should teach you how to do just that.
+### Hacking off Remote Branches in the Repo
+
+This is where you delete old/stale branches on the original repo you cloned earlier. Find the name of the branch you want to delete on the repo seen on the Github website
+```
+git push -d origin name-of-branch-to-delete
+```
+Replacing "name-of-branch-to-delete" with the actual name of said branch. If you need help remembering, remember that **-d** stands for **delete** in these scenarios.
+
+**Note:** You cannot delete a branch you're currently in. You must navagate out to a different branch you find yourself in that situation. This is performed with *git checkout branch_name*. More details in the next segment.
+
+This properly removes the branch from the repo seen on the Github website. Doing both of these steps should remove all traces of the branch that hasn't been merged with any other existing branches. You can choose to only do one or the other. It ultimately depends on the context. I personally see the cycle of the Github repo as such:
+
+Repo is Created -> Clone -> Make Changes to Clone -> Create Branch -> Create Pull Request -> Process Request -> Repeat Steps 3 Through 6 -> Branch Becomes Outdated/Stale -> Delete Local/Remote Branch -> Go Back to Step 3 (Or Step 2 if you weren't on the original development team)
+
 
 ----------
 
@@ -72,9 +84,11 @@ git checkout main
 ----------
 ### When in Vim, do as Vim Does
 As you might remember from a previous class or the first paragraph in this file, there's a non-zero chance you might somehow end up in the vim editor. I am not knowlagable in how this thing works or why wrangling with the controls is the way it is. What I do know is how to get out of there:
-**Press the [ESC] key, then type wq, then press the [ENTER] key**
+
+**Press the [ESC] key, then type :wq, then press the [ENTER] key**
+
 If you need more assistance with Vim, consult your professor or the internet. The extent of my knowlege is at branches. That's why this is the branching guide and not the Vim guide. I'm sorry.
 
 ----------
 ### Tips and Closing Thoughts
-Those should be the basics of branching in Git Bash and Git Hub. Remember, branching, just like the projects you undertake, is a collaborative effort. **Approving you own requests and leaving stale branches will hurt your team in the long run**. So try not to do that. If your requests are rejected, figure out why your changes aren't working out and ask your peers what you're missing or doing wrong. Failure can lead to the path to success, but you must learn to learn from it. This guide is meant to teach you all to collectively learn from it and keep at it.
+Those should be the basics of branching in Git Bash and Git Hub. Remember, branching, just like the projects you undertake, is a collaborative effort. **Approving you own requests and leaving stale branches will hurt your team in the long run**, so try not to do that unless you have permission to do otherwise. If your requests are rejected, figure out why your changes aren't working out and ask your peers what you're missing or doing wrong. Failure can lead to the path to success, but you must learn to learn from it. This guide is meant to teach you all to collectively learn from it and keep at it.
