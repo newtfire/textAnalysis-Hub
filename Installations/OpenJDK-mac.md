@@ -38,7 +38,8 @@ You will need to copy the code into your terminal and enter. This starts the ins
 
 1. Check to see if you have an older version of Java on your system already using this command: `java -version`. In case you have an older version or something from Oracle, you can uninstall it by following these instructions: <https://www.java.com/en/download/help/mac_uninstall_java.html>
 2. To install the OpenJDK Java on your computer, you must have Homebrew installed first (see above). Install the current stable OpenJDK java with : `brew install openjdk`
-3. After the Homebrew installation completes, close and reopen your terminal, and check if Java is installed with this line: `java -version` 
+3. Notice when the Homebrew installation completes, it will invite you to add an "ECHO" line to add JDK to your system path. You should do that--it is a good idea. 
+4. After the Homebrew installation completes, close and reopen your terminal, and check if Java is installed with this line: `java -version` 
 (You can also check `which java` and `where java`). Each of these commands will show you that OpenJDK java is installed. 
 
 
