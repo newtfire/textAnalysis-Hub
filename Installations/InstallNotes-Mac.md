@@ -58,13 +58,7 @@ This is cool coffee art:
 
 <img src="homebrew.png" alt="homebrew logo" width="500"/>
 
-Homebrew is a package manager that helps you install things on your Mac quickly in your Terminal. We'll use it for installing OpenJDK Java, but it's a great tool to have in your toolbag.
-
-* Go to Homebrew's website:
-	
-	```
-	https://brew.sh
-	```
+Homebrew is a package manager that helps you install things on your Mac quickly in your Terminal. We'll use it for installing OpenJDK Java, but it's a great tool to have in your toolbag. You can [view their website](https://brew.sh) for full instructions and nerdy stuff, but we have the instructions here:
 	
 * Open a new terminal window and paste this line from their website:
 	
@@ -72,16 +66,18 @@ Homebrew is a package manager that helps you install things on your Mac quickly 
 	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 	```  
 
-* Press enter. 
+* Press enter.
+
+* You'll be asked to enter your password. This means the local password you use to login to your computer. *The password will not appear as you type it. This is a security feature.*
 
 	* You **might** receive an error for sudo (**s**ubstitude **u**ser **do**)
-	* To fix this error, take the download code line for homebrew and add `sudo ` before it: 
+		* To fix this error, take the download code line for homebrew and add `sudo ` before it: 
 
 		```shell
 		sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 		``` 
 	
-	* After running this line, you will be asked to enter your password. This means the local password you use to login to your computer. *The password will not appear as you type it. This is a security feature.*
+	* After running this line, you will be asked to enter your password.
 	* Once you enter your password, the terminal will the state `Checking for sudo access (which may request your password)... Don't run this as root!`
 	* After receiving this error, repaste the orginal homebrew install line:
 	
@@ -90,8 +86,8 @@ Homebrew is a package manager that helps you install things on your Mac quickly 
 		``` 
 
 * Then, carefully follow the instructions that appear in the terminal window.
-	* You'll be prompted a few times to accept "Y" or "N" (Yes or No) questions. Enter "Y" to continue installing.
-	* You may also be asked to enter your password again. This is still your local password and it will still not appear as you type it.
+
+* If you're prompted to accept "Y" or "N" (Yes or No) questions, enter "Y" to continue installing.
 	
 * Your terminal will run many lines to install homebrew. **After the process is complete, the terminal should say something like this**:
 
