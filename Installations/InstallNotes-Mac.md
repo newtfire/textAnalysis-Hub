@@ -132,12 +132,11 @@ You will need the Java Development Kit (OpenJDK) java environment installed:
 	```shell
 	java -version
 	```
-	
-     * Dr. B's version is java 19, so upgrading
+ 
      * NOTE: if uninstalling Oracle Java, follow these instructions: <https://www.java.com/en/download/help/mac_uninstall_java.html>
 
-* Installing latest openjdk on Mac with homebrew (<https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos>):
-	* To install the OpenJDK Java on your computer, you must have Homebrew installed first (see above). Install the current stable OpenJDK java with: 
+* Installing latest OpenJDK on Mac with Homebrew (<https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos>):
+	* To install OpenJDK on your computer, you must have [Homebrew installed first](#installing-homebrew). Install the current stable OpenJDK with: 
 	
 		```shell
 		brew install openjdk
@@ -145,11 +144,11 @@ You will need the Java Development Kit (OpenJDK) java environment installed:
 		
 	* To finish the installation, you'll need to run the line they give you in the success dialog (this adds a necessary line to your `.zshrc` file):
 
-	```shell
-	echo 'export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"' >> ~/.zshrc
-	```
+		```shell
+		echo 'export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"' >> ~/.zshrc
+		```
 	
-	* Now, you'll need to restart your terminal to be able to successfully run the java version check again:
+* Now, you'll need to restart your terminal to be able to successfully run the java version check again:
 
 	```shell
 	java -version
