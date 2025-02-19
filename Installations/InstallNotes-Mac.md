@@ -204,13 +204,24 @@ This is an XProc processor that you can use with the ixml processor [**CoffeePot
 
 ### Graphviz
 
-* **Test if you have graphviz** by entering this in your terminal: 
+* **Test if you have Graphviz installed** by entering this in your terminal: 
 
 	```shell
 	dot -V
 	```
 	
-* You will probably need to install GraphViz, and you can do that with `brew install graphviz`. 
+* If this returns an error, you will need to install Graphviz.
+* **In your "home" directory, paste and run this command:**
+
+	```shell
+	brew install graphviz
+ 	```
+
+* Now, run the first command again to verify the installation worked:
+
+	```shell
+	dot -V
+	```
 
 ### CoffeeSacks
 
