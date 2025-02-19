@@ -133,7 +133,7 @@ You will need the Java Development Kit (OpenJDK) java environment installed:
 	java -version
 	```
  
-     * NOTE: if uninstalling Oracle Java, follow these instructions: <https://www.java.com/en/download/help/mac_uninstall_java.html>
+     * NOTE: if you have Oracle Java and need to uninstall it, follow these instructions: <https://www.java.com/en/download/help/mac_uninstall_java.html>
 
 * If you don't have it already, we'll [install the latest OpenJDK with Homebrew](<https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos>):
 	* To install OpenJDK on your computer, you must have [Homebrew installed first](#installing-homebrew). Install the current stable OpenJDK with: 
