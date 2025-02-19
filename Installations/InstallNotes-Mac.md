@@ -127,7 +127,7 @@ Homebrew is a package manager that helps you install things on your Mac quickly 
 
 You will need the Java Development Kit (OpenJDK) java environment installed:
 
-* Check your version of java in terminal with
+* Check to see if you already have OpenJDK installed:
 
 	```shell
 	java -version
@@ -135,7 +135,7 @@ You will need the Java Development Kit (OpenJDK) java environment installed:
  
      * NOTE: if uninstalling Oracle Java, follow these instructions: <https://www.java.com/en/download/help/mac_uninstall_java.html>
 
-* Installing latest OpenJDK on Mac with Homebrew (<https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos>):
+* If you don't have it already, we'll [install the latest OpenJDK with Homebrew](<https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos>):
 	* To install OpenJDK on your computer, you must have [Homebrew installed first](#installing-homebrew). Install the current stable OpenJDK with: 
 	
 		```shell
