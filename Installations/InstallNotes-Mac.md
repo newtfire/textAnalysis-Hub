@@ -101,7 +101,7 @@ Homebrew is a package manager that helps you install things on your Mac quickly 
 		https://docs.brew.sh
 	```
 
-* You will need to run those three commands to be able to use Homebrew. Be cautious: run each line separately, and **if you're copying them from here, replace the "eeb4" portion of each command with your username so it uses your specific filepath to your "home" and system dot-files. You may also simply copy and run them from within your terminal where the filepaths are automatically correct for your system**
+* You will need to run those three commands to be able to use Homebrew. Be cautious: run each line separately, and if you're copying them from here, replace the "eeb4" portion of each command with your username so it uses your specific filepath to your "home" and system dot-files. **You may also simply copy and run them from within your terminal where the filepaths are automatically correct for your system.**
 
     * 1st command: 
     
