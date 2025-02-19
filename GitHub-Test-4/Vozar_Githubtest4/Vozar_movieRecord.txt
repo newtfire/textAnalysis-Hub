@@ -1,0 +1,11 @@
+find "&" and replace with "&amp;"
+Searcher for "<" and ">". recieved "String not found" for both
+Wrap Lines
+Find "^(.+?)\t(\d{4})\t(.+?)\t(\d+)\s*min$"
+Replace with "<movie>
+    <title>\1</title>
+    <date>\2</date>
+    <location>\3</location>
+    <time unit="min">\4</time>
+</movie>"
+Add root element and wrap template in element
