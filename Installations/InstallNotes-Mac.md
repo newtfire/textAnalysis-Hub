@@ -68,7 +68,7 @@ Homebrew is a package manager that helps you install things on your Mac quickly 
 
 * **You'll be asked to enter your password.** This means the local password you use to login to your computer. *The password will not appear as you type it. This is a security feature.*
 
-	* You **might** receive an error for sudo (**s**ubstitude **u**ser **do**)
+	* You *might* receive an error for sudo (**s**ubstitude **u**ser **do**)
 		* To fix this error, take the download code line for homebrew and add `sudo ` before it: 
 
 		```shell
