@@ -58,17 +58,15 @@ This is cool coffee art:
 
 <img src="homebrew.png" alt="homebrew logo" width="500"/>
 
-Homebrew is a package manager that helps you install things on your Mac quickly in your Terminal. We'll use it for installing OpenJDK Java, but it's a great tool to have in your toolbag. You can [view their website](https://brew.sh) for full instructions and nerdy stuff, but we have the instructions here:
+Homebrew is a package manager that helps you install things on your Mac quickly in your Terminal. We'll use it for installing OpenJDK Java, but it's a great tool to have in your toolbag for other future installations. You can [view their website](https://brew.sh) for full instructions and nerdy stuff, but we have the instructions here:
 	
-* Open a new terminal window and paste this line from their website:
+* **Open a new terminal window, and in your "home" directory, run this line from their website:**
 	
 	```shell 
 	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 	```  
 
-* Press enter.
-
-* You'll be asked to enter your password. This means the local password you use to login to your computer. *The password will not appear as you type it. This is a security feature.*
+* **You'll be asked to enter your password.** This means the local password you use to login to your computer. *The password will not appear as you type it. This is a security feature.*
 
 	* You **might** receive an error for sudo (**s**ubstitude **u**ser **do**)
 		* To fix this error, take the download code line for homebrew and add `sudo ` before it: 
@@ -87,7 +85,7 @@ Homebrew is a package manager that helps you install things on your Mac quickly 
 
 * Then, carefully follow the instructions that appear in the terminal window.
 
-* If you're prompted to accept "Y" or "N" (Yes or No) questions, enter "Y" to continue installing.
+	* If you're prompted to accept "Y" or "N" (Yes or No) questions, enter "Y" to continue installing.
 	
 * Your terminal will run many lines to install homebrew. **After the process is complete, the terminal should say something like this**:
 
@@ -103,7 +101,7 @@ Homebrew is a package manager that helps you install things on your Mac quickly 
 		https://docs.brew.sh
 	```
 
-* You will need to run those commands. Be cautious: run each line separately, and **replace the "eeb4" portion of each command with your username so it uses your specific filepath to your "home" and system dot-files.**
+* You will need to run those three commands to be able to use Homebrew. Be cautious: run each line separately, and **if you're copying them from here, replace the "eeb4" portion of each command with your username so it uses your specific filepath to your "home" and system dot-files. You may also simply copy and run them from within your terminal where the filepaths are automatically correct for your system**
 
     * 1st command: 
     
