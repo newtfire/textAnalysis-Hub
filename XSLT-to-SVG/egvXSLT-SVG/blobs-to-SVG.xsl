@@ -28,33 +28,25 @@
                 <circle cx="{$x-spacer * position()}"
 
                     cy="{-250}" 
-                    r="{count(descendant::special[@whatsIt='magicEgg']) * $y-spacer}"
 
-                    cy="{-50}" 
-                    r="{count(descendant::special[@whatsIt='rocketShip']) * $y-spacer}"
-                    fill="green"
+                    r="100"
+                    fill="white"
                     stroke="black"
-                    stroke-width="2"
-                />
-                <circle cx="{$x-spacer * position()}"
-                    cy="{-350}" 
-                    r="{count(descendant::special[@whatsIt='powerUp']) * $y-spacer}"
-
-                    fill="purple"
-                    stroke="black"
-                    stroke-width="2"
-
+                    stroke-width="3"
                 />
 
-                <circle cx="{$x-spacer * position()}"
-                    cy="{-200}" 
-                    r="{count(descendant::special[@whatsIt='magicEgg']) * $y-spacer}"
-                    fill="pink"
+                <g transform="rotate(-{count(descendant::special[@whatsIt='rocketShip']) * $y-spacer})">
+                <line x1="{$x-spacer * position()}"
+                    y1="{-250}" 
+                    x2="{$x-spacer * position()}"
+                    y2="{-350}"
+      
                     stroke="black"
-                    stroke-width="2"
+                    stroke-width="10"
                 />
-
-            </xsl:for-each>
+                </g>
+ 
+            </xsl:for-each> 
            </g>
         </svg>
        <!--I can't figure out how to add axes :( -->

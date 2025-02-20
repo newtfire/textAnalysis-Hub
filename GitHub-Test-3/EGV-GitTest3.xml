@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+<head>
+    EGV GitTest-3
+</head>
+1. Item 1
+2. Item 2
+3. Item 3
+Code:
+'''
+    <desc>Mappy Head</desc>
+    <g alignment-baseline="baseline" transform="translate(25,355),scale(0.5)">
+        <desc>Ears</desc>
+        <circle cx="25" cy="25" r="25" fill="#A3A4B8"/>
+        <circle cx="95" cy="25" r="25" fill="#A3A4B8"/>
+        <circle cx="25" cy="25" r="15" fill="#FFA4B9"/>
+        <circle cx="95" cy="25" r="15" fill="#FFA4B9"/>
+        <desc>Face</desc>
+        <circle cx="60" cy="55" r="40" fill="#A3A4B8"/>
+        <circle cx="45" cy="45" r="10" fill="white"/>
+        <circle cx="47" cy="47" r="5" fill="black"/>
+        <circle cx="75" cy="45" r="10" fill="white"/>
+        <circle cx="77" cy="47" r="5" fill="black"/>
+        <circle cx="60" cy="60" r="5" fill="#FAB401"/>
+        
+    </g>
+'''
+</xml>
