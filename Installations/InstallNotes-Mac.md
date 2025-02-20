@@ -58,30 +58,24 @@ This is cool coffee art:
 
 <img src="homebrew.png" alt="homebrew logo" width="500"/>
 
-Homebrew is a package manager that helps you install things on your Mac quickly in your Terminal. We'll use it for installing OpenJDK Java, but it's a great tool to have in your toolbag.
-
-* Go to Homebrew's website:
+Homebrew is a package manager that helps you install things on your Mac quickly in your Terminal. We'll use it for installing OpenJDK Java, but it's a great tool to have in your toolbag for other future installations. You can [view their website](https://brew.sh) for full instructions and nerdy stuff, but we have the instructions here:
 	
-	```
-	https://brew.sh
-	```
-	
-* Open a new terminal window and paste this line from their website:
+* **Open a new terminal window, and in your "home" directory, run this line from their website:**
 	
 	```shell 
 	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 	```  
 
-* Press enter. 
+* **You'll be asked to enter your password.** This means the local password you use to login to your computer. *The password will not appear as you type it. This is a security feature.*
 
-	* You **might** receive an error for sudo (**s**ubstitude **u**ser **do**)
-	* To fix this error, take the download code line for homebrew and add `sudo ` before it: 
+	* You *might* receive an error for sudo (**s**ubstitude **u**ser **do**)
+		* To fix this error, take the download code line for homebrew and add `sudo ` before it: 
 
 		```shell
 		sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 		``` 
 	
-	* After running this line, you will be asked to enter your password. This means the local password you use to login to your computer. *The password will not appear as you type it. This is a security feature.*
+	* After running this line, you will be asked to enter your password.
 	* Once you enter your password, the terminal will the state `Checking for sudo access (which may request your password)... Don't run this as root!`
 	* After receiving this error, repaste the orginal homebrew install line:
 	
@@ -90,8 +84,8 @@ Homebrew is a package manager that helps you install things on your Mac quickly 
 		``` 
 
 * Then, carefully follow the instructions that appear in the terminal window.
-	* You'll be prompted a few times to accept "Y" or "N" (Yes or No) questions. Enter "Y" to continue installing.
-	* You may also be asked to enter your password again. This is still your local password and it will still not appear as you type it.
+
+	* If you're prompted to accept "Y" or "N" (Yes or No) questions, enter "Y" to continue installing.
 	
 * Your terminal will run many lines to install homebrew. **After the process is complete, the terminal should say something like this**:
 
@@ -107,7 +101,7 @@ Homebrew is a package manager that helps you install things on your Mac quickly 
 		https://docs.brew.sh
 	```
 
-* You will need to run those commands. Be cautious: run each line separately, and **replace the "eeb4" portion of each command with your username so it uses your specific filepath to your "home" and system dot-files.**
+* You will need to run those three commands to be able to use Homebrew. Be cautious: run each line separately, and if you're copying them from here, replace the "eeb4" portion of each command with your username so it uses your specific filepath to your "home" and system dot-files. **You may also simply copy and run them from within your terminal where the filepaths are automatically correct for your system.**
 
     * 1st command: 
     
@@ -133,17 +127,16 @@ Homebrew is a package manager that helps you install things on your Mac quickly 
 
 You will need the Java Development Kit (OpenJDK) java environment installed:
 
-* Check your version of java in terminal with
+* Check to see if you already have OpenJDK installed:
 
 	```shell
 	java -version
 	```
-	
-     * Dr. B's version is java 19, so upgrading
-     * NOTE: if uninstalling Oracle Java, follow these instructions: <https://www.java.com/en/download/help/mac_uninstall_java.html>
+ 
+     * NOTE: if you have Oracle Java and need to uninstall it, follow these instructions: <https://www.java.com/en/download/help/mac_uninstall_java.html>
 
-* Installing latest openjdk on Mac with homebrew (<https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos>):
-	* To install the OpenJDK Java on your computer, you must have Homebrew installed first (see above). Install the current stable OpenJDK java with: 
+* If you don't have it already, we'll [install the latest OpenJDK with Homebrew](<https://ansidev.xyz/posts/2023-07-11-how-to-install-openjdk-on-macos>):
+	* To install OpenJDK on your computer, you must have [Homebrew installed first](#installing-homebrew). Install the current stable OpenJDK with: 
 	
 		```shell
 		brew install openjdk
@@ -151,11 +144,11 @@ You will need the Java Development Kit (OpenJDK) java environment installed:
 		
 	* To finish the installation, you'll need to run the line they give you in the success dialog (this adds a necessary line to your `.zshrc` file):
 
-	```shell
-	echo 'export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"' >> ~/.zshrc
-	```
+		```shell
+		echo 'export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"' >> ~/.zshrc
+		```
 	
-	* Now, you'll need to restart your terminal to be able to successfully run the java version check again:
+* Now, you'll need to restart your terminal to be able to successfully run the java version check again:
 
 	```shell
 	java -version
@@ -167,6 +160,22 @@ You will need the Java Development Kit (OpenJDK) java environment installed:
 
 * To make things simpler for yourself, use the same alias names that I use in this tutorial, so when we're working on this in class, there's no confusion if your alias has a different name than mine.
 
+* We also suggest you install 3 more helpful command line tools via Homebrew:
+
+	```shell
+ 	brew install bat
+ 	```
+
+	```shell
+ 	brew install xmlstarlet
+ 	``` 
+
+	*(macOS only)*
+  
+	```shell
+ 	brew install xq
+ 	```
+ 
 *********************
 
 # XProc Processors
@@ -177,27 +186,42 @@ This is an XProc processor that you can use with the ixml processor [**CoffeePot
 
 ### Installing Calabash
 
-* Get it from here: <https://github.com/xmlcalabash/xmlcalabash3/releases> and look for the **xmlcalabash zip file** in the latest release, after the release notes. The zip directory you need is the third one from the top (named something like this with the version number in the name): **xmlcalabash-3.0.0-alpha18.zip**
-* Unzip this and move it somewhere central where it's easy to work with. I set my unzipped xmlcalabash folder in my GitHub directory so it's near where I work on code.
-* Open your shell and navigate to your new xmlcalabash folder. For this to work we need to be able to use Java to execute the .jar file inside.
-       Test if your Java installation works. This 'help' shell command will show you all the different commands available **(ADAPT THIS LINE TO APPLY TO YOUR VERSION NUMBER AS NEEDED!)**:
+* Visit the [xmlcalabash github repo](https://github.com/xmlcalabash/xmlcalabash3/releases) and look for the latest release (**alpha20 is the latest release as of 17 February 2025**).
+* Download the xmlcalabash zip directory (`xmlcalabash-3.0.0-alpha20.zip`)
+* Unzip this directory and place the unzipped folder it your GitHub directory.
+* Open your terminal and navigate to your new xmlcalabash folder:
+
+	```shell
+ 	cd /Documents/GitHub/xmlcalabash-3.0.0-alpha20
+ 	```
+ 
+* Test if your Java installation works **(ADAPT THIS LINE TO APPLY TO YOUR VERSION NUMBER OF XMLCALABASH AS NEEDED!)**:
 	
 	```shell
-	java -jar xmlcalabash-app-3.0.0-alpha18.jar help
+	java -jar xmlcalabash-app-3.0.0-alpha20.jar help
 	```
-	
-	* NOTE: on the XML Calabash repo, they left out the `.jar` portion of the filename, so their line won't work
-	* NOTE: **alpha18 is the latest release as of 2 February 2025** 
+* If successful, this 'help' shell command will show you all the different xmlcalabash commands available.
 
 ### Graphviz
 
-* **Test if you have graphviz** by entering this in your terminal: 
+* **Test if you have Graphviz installed** by entering this in your terminal: 
 
 	```shell
 	dot -V
 	```
 	
-* You will probably need to install GraphViz, and you can do that with `brew install graphviz`. 
+* If this returns an error, you will need to install Graphviz.
+* **In your "home" directory, paste and run this command:**
+
+	```shell
+	brew install graphviz
+ 	```
+
+* Now, run the first command again to verify the installation worked:
+
+	```shell
+	dot -V
+	```
 
 ### CoffeeSacks
 
@@ -214,17 +238,13 @@ This is an XProc processor that you can use with the ixml processor [**CoffeePot
     * NOTE: We will NOT be using Saxon EE at all.
     * We need to know where Homebrew installed graphviz. Double-check by navigating to see if Homebrew installed it in the default location: `/opt/homebrew/bin/dot` .
         * In my (probably extra special and weird) case, it did not. **I found out where graphviz was installed by typing in `where dot` and following the paths**. Mine is "symlinked" from `/usr/local/bin` which eventually showed me my way to the exact location on my machine (which was `/usr/local/Cellar/graphviz/12.2.1/bin`). This may be because I've installed a few different versions of graphviz for Python and other applications over the years. Anyway, just check and make sure you know where Homebrew installed graphviz and its executable `dot`. You will need this path.
-* Back in your "home" directory, make the new file. You can copy in this command in your terminal (with that leading dot exactly like this): 
-
-	```shell
-	touch .xmlcalabash3
-	```
-	
-* Open up the file in `nano` to edit: 
+* Back in your "home" directory, we will now make a new file. You can copy & paste this command into your terminal (with that leading dot exactly like this):
 
 	```shell
 	nano .xmlcalabash3
 	```
+
+This will create and open the new system file for editing.
 	
 * Here's what you'll need inside (copy/paste):
 
@@ -259,7 +279,7 @@ This alias will execute a pretty long command, so you'll definitely want to use 
     * Here's what my calabash execution alias looks like in my `.zshrc` file, giving it the name "calabash"
 
 	```shell
-	alias calabash='/Users/eeb4/Documents/GitHub/xmlcalabash-3.0.0-alpha18/xmlcalabash.sh --init:org.nineml.coffeesacks.RegisterCoffeeSacks'
+	alias calabash='/Users/eeb4/Documents/GitHub/xmlcalabash-3.0.0-alpha20/xmlcalabash.sh --init:org.nineml.coffeesacks.RegisterCoffeeSacks'
 	```
 	
    * NOTE: If you're copying this line and just changing the username to match your own, make sure you also check that the name of the calabash directory is the same (version name) as yours.
@@ -268,13 +288,12 @@ This alias will execute a pretty long command, so you'll definitely want to use 
 
    * To "smoke test" (or see if your installation is working) navigate to your xmlcalabash repo and enter this command: `calabash helloWorld.xpl`. If your installation was successful you should see the following:
      
-
-```shell
-	=== result :: 1 :: file:/Users/eeb4/Documents/GitHub/xmlcalabash-3.0.0-alpha18/helloWorld.xpl ===
-	<helloWorld>This is XML Calabash version 3.0.0-alpha18.
-	Share and enjoy!</helloWorld>
-	==========================================================================================================
-```	
+		```shell
+		=== result :: 1 :: file:/Users/eeb4/Documents/GitHub/xmlcalabash-3.0.0-alpha20/helloWorld.xpl ===
+		<helloWorld>This is XML Calabash version 3.0.0-alpha20.
+		Share and enjoy!</helloWorld>
+		==========================================================================================================
+		```	
     
    * *For future reference*: As soon as we have an XProc pipeline file (`.xpl`) ready to run, we'll be running with a command like this, using the alias you created: `calabash filename.xpl` ). And we can see some nifty graphviz sketches of our pipeline if we append this to the command (including the dot at the end: `--graphs:.` like so: `calabash filename.xpl --graphs:.`
 
@@ -290,36 +309,32 @@ This is an XProc processor that you can use with more complex ixml contexts and 
 
 ### Installing SchXslt
 
-* Now we're going to install [SchXslt](https://git.sr.ht/~dmaus/schxslt2) (which is pronounced "Shicksilt" ... be careful with that one!) This is an XSLT-based Schematron processor that can handle Schematron validation.
-    * On this sourcehut page, find the installation in the top center under "refs", and follow the link to "release notes" (As of 2 February 2025, the current SchXslt2 release is <https://git.sr.ht/~dmaus/schxslt2/refs/v1.3.1>)
+* Now we're going to install [SchXslt](https://git.sr.ht/~dmaus/schxslt2/refs) (which is pronounced "Shicksilt" ... be careful with that one!) This is an XSLT-based Schematron processor that can handle Schematron validation.
+	* Find the latest version, and download the `.zip` file.
+		* (As of 17 February 2025, the current SchXslt2 release is <https://git.sr.ht/~dmaus/schxslt2/refs/v1.3.4>)
+	* Unzip the file into your GitHub directory.
 
 ### Configuring Morgana
 
 * Let's navigate to your "home" directory (where your `.zshrc` lives), and we'll set up a `morgana-config.xml` configuration file there. For this configuration, you're going to need to have some inforamtion ready:
-    * You'll need the path to the SchXSLT transpile.xsl file: You'll find that in the main directory of the schxslt directory you just saved. (Mine is here: `/Users/eeb4/Documents/GitHub/schxslt2-v1.3.1`
+    * You'll need the path to the SchXSLT transpile.xsl file: You'll find that in the main directory of the schxslt directory you just saved. (Mine is here: `/Users/eeb4/Documents/GitHub/schxslt2-v1.3.4`
     * You'll need the path to a Saxon processor that can run XSLT and XQuery and such. You have this already if you installed Calabash: Saxon-HE comes in its library or "lib" folder: 
-    Find/copy the path to the Saxon_HE jar file in your xml-calabash lib. (Here's mine:  `/Users/eeb4/Documents/GitHub/xmlcalabash-3.0.0-alpha18/lib/Saxon-HE-12.5.jar`)
+    Find/copy the path to the Saxon_HE jar file in your xml-calabash lib. (Here's mine:  `/Users/eeb4/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar`)
   * We presume you're going to be installing [Markup Blitz](#markup-blitz) for your ixml processor (so our configuration settings for Morgana will be set to Markup Blitz).
  
-* In your "home" directory, make the configuration file:
-
-	```shell
-	touch morgana-config.xml
-	```
-	
-* Open up the file in `nano` to edit:
+* In your "home" directory, make and open the configuration file:
 
 	```shell
 	nano morgana-config.xml
 	```
-	
+
 * Paste in the following:    
 
     ```shell
     <morgana-config xmlns="http://www.xml-project.com/morganaxproc">
 	<!-- Relative paths are resolved by uri of this file -->
 	
-	    <path_to_SchXSLT2_transpiler>/Users/eeb4/Documents/GitHub/schxslt2-1.3.1/transpile.xsl</path_to_SchXSLT2_transpiler>
+	    <path_to_SchXSLT2_transpiler>/Users/eeb4/Documents/GitHub/schxslt2-1.3.4/transpile.xsl</path_to_SchXSLT2_transpiler>
 		
 	    <XSLTValidationMode>LAX</XSLTValidationMode>
 	
@@ -327,7 +342,7 @@ This is an XProc processor that you can use with more complex ixml contexts and 
 	    <xquery-connector>Saxon12-3</xquery-connector>
 	    <schematron-connector>schxslt2</schematron-connector>
 
-	    <xslt-config>/Users/eeb4/Documents/GitHub/xmlcalabash-3.0.0-alpha18/lib/Saxon-HE-12.5.jar</xslt-config>
+	    <xslt-config>/Users/eeb4/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar</xslt-config>
 	    <xslt-config></xslt-config>
           <silent>true</silent>
     
@@ -365,7 +380,7 @@ Okay, now it's time to make an alias for Morgana!
 * My morgana alias looks like this:
 
     ```shell
-    alias morgana='/Users/eeb4/Documents/GitHub/MorganaXProc-IIIse-1.4.10/Morgana.sh -config=/Users/eeb4/morgana-config.xml'
+    alias morgana='/Users/eeb4/Documents/GitHub/MorganaXProc-IIIse-1.5/Morgana.sh -config=/Users/eeb4/morgana-config.xml'
     ```
 
   * You will need to **adapt** my sample alias to represent the locations of: 
@@ -418,7 +433,7 @@ Now, we need to make sure Morgana's executable script (the Morgana.sh file) can 
 
 	```shell
 	#Local customization
-	SAXON_JAR=/Users/eeb4/Documents/GitHub/xmlcalabash-3.0.0-alpha18/lib/Saxon-HE-12.5.jar
+	SAXON_JAR=/Users/eeb4/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar
 	COFFEEGRINDER_JAR=/Users/eeb4/Documents/GitHub/coffeegrinder-3.2.7/CoffeeGrinder-3.2.7.jar
 	COFFEEFILTER_JAR=/Users/eeb4/Documents/GitHub/coffeefilter-3.2.7/CoffeeFilter-3.2.7.jar
 	BLITZ_JAR=/Users/eeb4/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar
@@ -443,7 +458,7 @@ Now, we need to make sure Morgana's executable script (the Morgana.sh file) can 
 	MORGANA_LIB=$MORGANA_HOME/MorganaXProc-IIIse_lib/*
 	
 	#Local customization
-	SAXON_JAR=/Users/eeb4/Documents/GitHub/xmlcalabash-3.0.0-alpha18/lib/Saxon-HE-12.5.jar
+	SAXON_JAR=/Users/eeb4/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar
 	COFFEEGRINDER_JAR=/Users/eeb4/Documents/GitHub/coffeegrinder-3.2.7/CoffeeGrinder-3.2.7.jar
 	COFFEEFILTER_JAR=/Users/eeb4/Documents/GitHub/coffeefilter-3.2.7/CoffeeFilter-3.2.7.jar
 	BLITZ_JAR=/Users/eeb4/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar
@@ -510,13 +525,7 @@ You may think you installed this already, but that was "CoffeeSacks" (made by th
 
 * To do things with CoffeePot, we need to create a system dot-file named `.nineml.properties` in the same "home" location as your `zshrc`. This contains some default settings for pretty-printing your output XML and your graphviz visualizations. You'll need to note (again) where your GraphViz bin/dot is located, and you've entered that already in your `.xmlcalabash3` file, so use the same filepath location here.
 
-* In your "home" (same place where you open `.zshrc`) create a new system file with 
-
-	```shell
-	touch .nineml.properties
-	```
-	
-* Edit your file:
+* In your "home" directory, make and open the dot-file:
 
 	```shell
 	nano .nineml.properties
