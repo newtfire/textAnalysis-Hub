@@ -1,0 +1,8 @@
+start = \text
+\text = element text { twinkie }
+twinkie = element stuff {text}
+
+# ebb: You could also do this with a backslash:
+# start = \text
+# \text = element text {stuff}
+
