@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="reserveWord.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="reserve-class.rnc" type="application/relax-ng-compact-syntax"?>
 <text>
+    <ho/>
     <stuff>Hi there</stuff>
+   
 </text>
