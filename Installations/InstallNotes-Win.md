@@ -96,7 +96,7 @@ First, make sure you have developer (jdk) java installed:
 
 	You should see the current JDK that you installed with chocolatey.
 
-* Next we need to make sure the location of the JDK you installed is set in your system environment variables. In your Search bar, look for "System" or "Control Panel" (or Edit the System Environment Variables). Find the tab to edit the Environment Variables and look for JAVA_HOME. Click "Edit User Variable" and paste in the new filepath of your Java. (Find that in Git Bash with `where java`)
+* Next we need to make sure the location of the JDK you installed is set in your system environment variables. In your Search bar, look for "System" or "Control Panel" (or Edit the System Environment Variables). Find the tab to edit the Environment Variables and look for JAVA_HOME. Click "Edit User Variable" and paste in the new filepath of your Java. (You can see that in Git Bash with `where java`) **NOTE** : For the Windows installations to work, we will need to the User Path to be set to the jdk folder that's inside OpenJDK, like so (depending on your version number): `C:\Program Files\OpenJDK\jdk-22.0.2\` . Your system should look something like this screen capture:
   
   ![](environvar-win.png)
   
