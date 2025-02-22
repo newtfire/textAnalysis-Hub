@@ -411,7 +411,7 @@ You may think you installed this already, but that was "CoffeeSacks" (made by th
 * Create an alias:
 
 	```shell
-	alias coffeepot='java -jar /Users/eebon/Documents/GitHub/coffeepot-3.2.7/coffeepot-3.2.7.jar'
+	alias coffeepot='java -jar /c/Users/ebbon/Documents/GitHub/coffeepot-3.2.7/coffeepot-3.2.7.jar'
 	```
 
     * Note the filepath that leads to the coffeepot jar (use `pwd` to help) and your alias might look something like mine (make sure yours applies the version number that you downloaded)
