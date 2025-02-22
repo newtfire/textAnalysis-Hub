@@ -431,7 +431,7 @@ You may think you installed this already, but that was "CoffeeSacks" (made by th
     * Code:
   
    	    ```shell
-	    graphviz=/Program Files/Graphviz/bin/dot.exe
+	    graphviz=/c/Program\ Files/Graphviz/bin/dot.exe
 	    ignore-trailing-whitespace=true
 	    pretty-print=true
 	    progress-bar=tty
