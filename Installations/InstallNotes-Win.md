@@ -314,8 +314,9 @@ Okay, now it's time to make an alias for Morgana!
 * My morgana alias looks like this:
 
     ```shell
-    alias morgana='~/Documents/GitHub/MorganaXProc-IIIse-1.4.10/Morgana.bat -config=C:/Users/eebon/morgana-config.xml'
+    alias morgana='~/Documents/GitHub/MorganaXProc-IIIse-1.5/Morgana.bat -config=C:/Users/eebon/morgana-config.xml'
     ```
+    **Double check the version number on your Morgana directory**: Yours may not match mine if there's been an update since I last posted these instructions!
 
   * You will need to **adapt** my sample alias to represent the locations of: 
      * Your Morgana.sh file in the Morgana directory (mine is in my "GitHub" folder). 
