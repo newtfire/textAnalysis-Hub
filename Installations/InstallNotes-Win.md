@@ -244,7 +244,7 @@ This is an XProc processor that you can use with more complex ixml contexts and 
 ### Installing SchXslt
 
 * Now we're going to install [SchXslt](https://git.sr.ht/~dmaus/schxslt2/refs) (which is pronounced "Shicksilt" ... be careful with that one!) This is an XSLT-based Schematron processor that can handle Schematron validation.
-     * Find the latest version, and download the .zip file. (As of 17 February 2025, the current SchXslt2 release is https://git.sr.ht/~dmaus/schxslt2/refs/v1.3.4)
+     * Find the latest version, and download the .zip file. **Double check your release number (it may not match ours)**: (As of 17 February 2025, the current SchXslt2 release is https://git.sr.ht/~dmaus/schxslt2/refs/v1.3.4)
      * Unzip the file into your GitHub directory.
 
 
