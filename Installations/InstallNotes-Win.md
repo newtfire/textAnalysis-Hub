@@ -236,7 +236,7 @@ This is an XProc processor that you can use with more complex ixml contexts and 
 ### Configuring Morgana
 
 * Let's navigate to your "home" directory (where your `.bashrc` lives), and we'll set up a `morgana-config.xml` configuration file there. For this configuration, you're going to need to have some inforamtion ready:
-    * You'll need the path to the SchXSLT transpile.xsl file: You'll find that in the main directory of the schxslt directory you just saved. (Mine is here: `C:/Users/eebon/Documents/GitHub/schxslt2-v1.3.4`
+    * You'll need the path to the SchXSLT transpile.xsl file: You'll find that in the main directory of the schxslt directory you just saved. (Mine is here: `/c/Users/ebbon/Documents/GitHub/schxslt2-v1.3.4`
     * You'll need the path to a Saxon processor that can run XSLT and XQuery and such. You have this already if you installed Calabash: Saxon-HE comes in its library or "lib" folder: 
     Find/copy the path to the Saxon_HE jar file in your xml-calabash lib. (Here's mine:  `C:/Users/eebon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar`)
   * We presume you're going to be installing [Markup Blitz](#markup-blitz) for your ixml processor (so our configuration settings for Morgana will be set to Markup Blitz).
@@ -253,7 +253,7 @@ This is an XProc processor that you can use with more complex ixml contexts and 
     <morgana-config xmlns="http://www.xml-project.com/morganaxproc">
 	<!-- Relative paths are resolved by uri of this file -->
 	
-	    <path_to_SchXSLT2_transpiler>C:/Users/eebon/Documents/GitHub/schxslt2-v1.3.1/transpile.xsl</path_to_SchXSLT2_transpiler>
+	    <path_to_SchXSLT2_transpiler>/c/Users/ebbon/Documents/GitHub/schxslt2-v1.3.4/transpile.xsl</path_to_SchXSLT2_transpiler>
 		
 	    <XSLTValidationMode>LAX</XSLTValidationMode>
 	
@@ -261,7 +261,7 @@ This is an XProc processor that you can use with more complex ixml contexts and 
 	    <xquery-connector>Saxon12-3</xquery-connector>
 	    <schematron-connector>schxslt2</schematron-connector>
 
-	    <xslt-config>C:/Users/eebon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar</xslt-config>
+	    <xslt-config>/c/Users/ebbon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar</xslt-config>
 	    <xslt-config></xslt-config>
           <silent>true</silent>
     
@@ -282,8 +282,8 @@ This is an XProc processor that you can use with more complex ixml contexts and 
     ```
 
 * **Adapt** these parts of the file:  
-     * Change the `<path_to_SchXSLT2_transpiler>` element contents to your path to the transpile.xsl file in schxslt directory. 
-     * Change the `<xslt-config>` element contents to your path to Saxon-HE.
+     * Change the `<path_to_SchXSLT2_transpiler>` element contents to your path to the transpile.xsl file in schxslt directory. **CHECK the schxslt version number** as this may have changed since we drafted this instructions!
+     * Change the `<xslt-config>` element contents to your path to Saxon-HE. **Notice that this is in your xmlcalabash directory** that you set up earlier!
      * One more thing: notice the contents of the `<ixml-connector>` element. That's not a filepath, but it is an indicator of which ixml processor you're using. Our active setting in the code below is for Markup Blitz, but you can set this to CoffeePot instead. (We think you can set it to CoffeePot by using the NineMLConnector version that is commented out above it, but we should check the documentation to be sure).
 
 ### Creating an Alias for Morgana
