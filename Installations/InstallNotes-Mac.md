@@ -311,7 +311,7 @@ This is an XProc processor that you can use with more complex ixml contexts and 
 
 * Now we're going to install [SchXslt](https://git.sr.ht/~dmaus/schxslt2/refs) (which is pronounced "Shicksilt" ... be careful with that one!) This is an XSLT-based Schematron processor that can handle Schematron validation.
 	* Find the latest version, and download the `.zip` file.
-		* (As of 17 February 2025, the current SchXslt2 release is <https://git.sr.ht/~dmaus/schxslt2/refs/v1.3.4>)
+		* **Double check your release number (it may not match ours)**: (As of 17 February 2025, the current SchXslt2 release is <https://git.sr.ht/~dmaus/schxslt2/refs/v1.3.4>)
 	* Unzip the file into your GitHub directory.
 
 ### Configuring Morgana
@@ -382,6 +382,7 @@ Okay, now it's time to make an alias for Morgana!
     ```shell
     alias morgana='/Users/eeb4/Documents/GitHub/MorganaXProc-IIIse-1.5/Morgana.sh -config=/Users/eeb4/morgana-config.xml'
     ```
+     **Double check the version number on your Morgana directory**: Yours may not match mine if there's been an update since I last posted these instructions!
 
   * You will need to **adapt** my sample alias to represent the locations of: 
      * Your Morgana.sh file in the Morgana directory (mine is in my "GitHub" folder). 
