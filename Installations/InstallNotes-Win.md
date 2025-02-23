@@ -152,7 +152,7 @@ This is an XProc processor that you can use with the ixml processor [**CoffeePot
 	```
 	
 	* NOTE: on the XML Calabash repo, they left out the `.jar` portion of the filename, so their line won't work
-	* NOTE: **alpha20 is the latest release as of 2 February 2025**
+	* NOTE: **The XML Calabash version number may have changed** since we drafted these instructions! Check the version number carefully as you adapt the following instructions, which will require you to enter a filepath to this xmlcalabash jar file.  
   
 ### Graphviz
 
