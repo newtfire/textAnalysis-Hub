@@ -64,7 +64,23 @@ You will also need to:
 
 * have a `.bashrc` file for storing aliases. An alias is a short word / phrase you can type in your shell to stand in for longer commands, and it will make it easy to run the programs we're installing.
 
-* find and edit your system PATH variables. Some of this can be done in your Control Panel. 
+* find and edit your system PATH variables. Some of this can be done in your Control Panel.
+
+* **Know how to enter Windows FilePaths**: Windows filepaths can be entered in three different ways (and you may see all three ways in these instructions).
+    * **With the drive letter**, like this. *This is usually how we prefer to enter absolute Windows paths in the scripts below.*
+      ```shell
+      /c/Users/ebbon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar
+      ```
+    * You will also see Windows paths that look like this with the drive letter capitalized and the path separators as backslashes `\`. That is more native to the Windows command line how you see them in the Windows System Properties Environment Variables where you set your JAVA_HOME variable:
+      ```shell
+      C:\Program Files\OpenJDK\jdk-22.0.2\
+      ```
+    * **With a tilda** `~` to stand in for the drive letter and path to your home directory (the filepath you go to when you enter `cd ` ). This can be a convenient shorter way to write the paths. *Sometimes we have entered the path with this notation. It is fine, just note what the ~ means.*
+      ```shell
+      ~/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar
+      ```
+    * **If you see filepaths written out for these Windows instructions that do NOT start with either the `~` or the drive letter, they are incorrect!** (Let us know if you spot these and we will revise them! These simply cannot work because Windows will supply some extra folders at the start of the filepath, leading to incorrect paths.)
+      
 
 ### Installing Chocolatey
 
@@ -238,7 +254,7 @@ This is an XProc processor that you can use with more complex ixml contexts and 
 * Let's navigate to your "home" directory (where your `.bashrc` lives), and we'll set up a `morgana-config.xml` configuration file there. For this configuration, you're going to need to have some inforamtion ready:
     * You'll need the path to the SchXSLT transpile.xsl file: You'll find that in the main directory of the schxslt directory you just saved. (Mine is here: `/c/Users/ebbon/Documents/GitHub/schxslt2-v1.3.4`
     * You'll need the path to a Saxon processor that can run XSLT and XQuery and such. You have this already if you installed Calabash: Saxon-HE comes in its library or "lib" folder: 
-    Find/copy the path to the Saxon_HE jar file in your xml-calabash lib. (Here's mine:  `C:/Users/eebon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar`)
+    Find/copy the path to the Saxon_HE jar file in your xml-calabash lib. (Here's mine:  `/c/Users/ebbon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar`)
   * We presume you're going to be installing [Markup Blitz](#markup-blitz) for your ixml processor (so our configuration settings for Morgana will be set to Markup Blitz).
 
 * In your "home" directory, make and open the configuration file:
