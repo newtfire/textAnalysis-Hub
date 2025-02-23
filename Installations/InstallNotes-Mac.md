@@ -317,7 +317,7 @@ This is an XProc processor that you can use with more complex ixml contexts and 
 ### Configuring Morgana
 
 * Let's navigate to your "home" directory (where your `.zshrc` lives), and we'll set up a `morgana-config.xml` configuration file there. For this configuration, you're going to need to have some inforamtion ready:
-    * You'll need the path to the SchXSLT transpile.xsl file: You'll find that in the main directory of the schxslt directory you just saved. (Mine is here: `/Users/eeb4/Documents/GitHub/schxslt2-v1.3.4`
+    * You'll need the path to the SchXSLT transpile.xsl file: You'll find that in the main directory of the schxslt directory you just saved. (Mine is here: `/Users/eeb4/Documents/GitHub/schxslt2-v1.3.4`   **CHECK the schxslt version number** as this may have changed since we drafted this instructions!
     * You'll need the path to a Saxon processor that can run XSLT and XQuery and such. You have this already if you installed Calabash: Saxon-HE comes in its library or "lib" folder: 
     Find/copy the path to the Saxon_HE jar file in your xml-calabash lib. (Here's mine:  `/Users/eeb4/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar`)
   * We presume you're going to be installing [Markup Blitz](#markup-blitz) for your ixml processor (so our configuration settings for Morgana will be set to Markup Blitz).
