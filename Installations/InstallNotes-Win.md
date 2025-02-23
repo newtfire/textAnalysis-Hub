@@ -151,7 +151,6 @@ This is an XProc processor that you can use with the ixml processor [**CoffeePot
 	java -jar xmlcalabash-app-3.0.0-alpha20.jar help
 	```
 	
-	* NOTE: on the XML Calabash repo, they left out the `.jar` portion of the filename, so their line won't work
 	* NOTE: **The XML Calabash version number may have changed** since we drafted these instructions! Check the version number carefully as you adapt the following instructions, which will require you to enter a filepath to this xmlcalabash jar file.  
   
 ### Graphviz
@@ -510,7 +509,7 @@ Working in our Git Bash shell on Windows, this line works to build our jar:
 * Make an alias for running your new markup-blitz.jar file. I called my alias "blitz" and my alias definition looks like this:
 
   ```shell
-  alias blitz='java -jar /Users/eebon/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar'
+  alias blitz='java -jar /c/Users/ebbon/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar'
   ```
 
 ### Running Markup Blitz
