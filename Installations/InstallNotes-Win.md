@@ -43,10 +43,12 @@ This is cool coffee art:
 		* [Installing CoffeePot](#installing-coffeepot)
 		* [Creating an Alias for CoffeePot](#creating-an-alias-for-coffeepot)
 		* [Configuring CoffeePot](#configuring-coffeepot)
+		* [Smoke Test for CoffeePot](#smoke-test-for-coffeepot)
 		* [Running CoffeePot](#running-coffeepot)
 	* [**Markup Blitz**](#markup-blitz)
 		* [Installing Markup Blitz](#installing-markup-blitz)
 		* [Creating an Alias for Markup Blitz](#creating-an-alias-for-markup-blitz)
+		* [Smoke Test for Markup Blitz](#smoke-test-for-markup-blitz)
 		* [Running Markup Blitz](#running-markup-blitz)
 * [**Completion**](#completion)
 
@@ -459,6 +461,14 @@ You may think you installed this already, but that was "CoffeeSacks" (made by th
 	    ```
 
   * If you ever need to adjust these settings or find out more, here's [the CoffeePot documentation](https://docs.nineml.org/current/coffeepot/bk02ch07.html).
+
+### Smoke Test for CoffeePot
+
+Open a shell anywhere and run `coffeepot` to test your alias. If all is well, you should see this single line appear in your shell:
+
+```
+Usage: ... -g:input.ixml -o:output.xml (--help for more details)
+```
       
 ### Running CoffeePot 
 * Run CoffeePot over an ixml grammar and a .txt file like this, using your alias: (Think of "g" as standing for "grammar" and "i" as "input file")
@@ -512,6 +522,16 @@ Working in our Git Bash shell on Windows, this line works to build our jar:
   ```shell
   alias blitz='java -jar /c/Users/ebbon/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar'
   ```
+
+### Smoke Test for Markup Blitz
+
+Open a shell anywhere and run `blitz` to test your alias. You should see a screen about compiling Invisible XML commands that starts like this:
+
+```
+Usage: java -jar markup-blitz.jar [<OPTION>...] [<GRAMMAR>] <INPUT>
+
+. . . more stuff below . . .
+```
 
 ### Running Markup Blitz
 

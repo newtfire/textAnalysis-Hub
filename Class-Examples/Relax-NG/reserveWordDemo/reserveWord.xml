@@ -2,7 +2,7 @@
 
 <?xml-model href="reserve-class.rnc" type="application/relax-ng-compact-syntax"?>
 <text>
-    <ho/>
+    <hi/>
     <stuff>Hi there</stuff>
    
 </text>
