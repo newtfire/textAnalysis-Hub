@@ -43,10 +43,12 @@ This is cool coffee art:
 		* [Installing CoffeePot](#installing-coffeepot)
 		* [Creating an Alias for CoffeePot](#creating-an-alias-for-coffeepot)
 		* [Configuring CoffeePot](#configuring-coffeepot)
+		* [Smoke Test for CoffeePot](#smoke-test-for-coffeepot)
 		* [Running CoffeePot](#running-coffeepot)
 	* [**Markup Blitz**](#markup-blitz)
 		* [Installing Markup Blitz](#installing-markup-blitz)
 		* [Creating an Alias for Markup Blitz](#creating-an-alias-for-markup-blitz)
+		* [Smoke Test for Markup Blitz](#smoke-test-for-markup-blitz)
 		* [Running Markup Blitz](#running-markup-blitz)
 * [**Completion**](#completion)
 
@@ -311,13 +313,13 @@ This is an XProc processor that you can use with more complex ixml contexts and 
 
 * Now we're going to install [SchXslt](https://git.sr.ht/~dmaus/schxslt2/refs) (which is pronounced "Shicksilt" ... be careful with that one!) This is an XSLT-based Schematron processor that can handle Schematron validation.
 	* Find the latest version, and download the `.zip` file.
-		* (As of 17 February 2025, the current SchXslt2 release is <https://git.sr.ht/~dmaus/schxslt2/refs/v1.3.4>)
+		* **Double check your release number (it may not match ours)**: (As of 17 February 2025, the current SchXslt2 release is <https://git.sr.ht/~dmaus/schxslt2/refs/v1.3.4>)
 	* Unzip the file into your GitHub directory.
 
 ### Configuring Morgana
 
 * Let's navigate to your "home" directory (where your `.zshrc` lives), and we'll set up a `morgana-config.xml` configuration file there. For this configuration, you're going to need to have some inforamtion ready:
-    * You'll need the path to the SchXSLT transpile.xsl file: You'll find that in the main directory of the schxslt directory you just saved. (Mine is here: `/Users/eeb4/Documents/GitHub/schxslt2-v1.3.4`
+    * You'll need the path to the SchXSLT transpile.xsl file: You'll find that in the main directory of the schxslt directory you just saved. (Mine is here: `/Users/eeb4/Documents/GitHub/schxslt2-v1.3.4`   **CHECK the schxslt version number** as this may have changed since we drafted this instructions!
     * You'll need the path to a Saxon processor that can run XSLT and XQuery and such. You have this already if you installed Calabash: Saxon-HE comes in its library or "lib" folder: 
     Find/copy the path to the Saxon_HE jar file in your xml-calabash lib. (Here's mine:  `/Users/eeb4/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar`)
   * We presume you're going to be installing [Markup Blitz](#markup-blitz) for your ixml processor (so our configuration settings for Morgana will be set to Markup Blitz).
@@ -382,6 +384,7 @@ Okay, now it's time to make an alias for Morgana!
     ```shell
     alias morgana='/Users/eeb4/Documents/GitHub/MorganaXProc-IIIse-1.5/Morgana.sh -config=/Users/eeb4/morgana-config.xml'
     ```
+     **Double check the version number on your Morgana directory**: Yours may not match mine if there's been an update since I last posted these instructions!
 
   * You will need to **adapt** my sample alias to represent the locations of: 
      * Your Morgana.sh file in the Morgana directory (mine is in my "GitHub" folder). 
@@ -566,6 +569,14 @@ You may think you installed this already, but that was "CoffeeSacks" (made by th
 
   * If you ever need to adjust these settings or find out more, here's [the CoffeePot documentation](https://docs.nineml.org/current/coffeepot/bk02ch07.html).
 
+### Smoke Test for CoffeePot
+
+Open a shell anywhere and run `coffeepot` to test your alias. If all is well, you should see this single line appear in your shell:
+
+```
+Usage: ... -g:input.ixml -o:output.xml (--help for more details)
+```
+
 ### Running CoffeePot 
 * Run CoffeePot over an ixml grammar and a .txt file like this, using your alias: (Think of "g" as standing for "grammar" and "i" as "input file")
 
@@ -618,6 +629,16 @@ To be used with the XProc processor [**Morgana**](#morgana). Up to this point, w
   ```shell
   alias blitz='java -jar /Users/eeb4/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar'
   ```
+
+### Smoke Test for Markup Blitz
+
+Open a shell anywhere and run `blitz` to test your alias. You should see a screen about compiling Invisible XML commands that starts like this:
+
+```
+Usage: java -jar markup-blitz.jar [<OPTION>...] [<GRAMMAR>] <INPUT>
+
+. . . more stuff below . . .
+```
 
 ### Running Markup Blitz
 

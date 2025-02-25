@@ -43,10 +43,12 @@ This is cool coffee art:
 		* [Installing CoffeePot](#installing-coffeepot)
 		* [Creating an Alias for CoffeePot](#creating-an-alias-for-coffeepot)
 		* [Configuring CoffeePot](#configuring-coffeepot)
+		* [Smoke Test for CoffeePot](#smoke-test-for-coffeepot)
 		* [Running CoffeePot](#running-coffeepot)
 	* [**Markup Blitz**](#markup-blitz)
 		* [Installing Markup Blitz](#installing-markup-blitz)
 		* [Creating an Alias for Markup Blitz](#creating-an-alias-for-markup-blitz)
+		* [Smoke Test for Markup Blitz](#smoke-test-for-markup-blitz)
 		* [Running Markup Blitz](#running-markup-blitz)
 * [**Completion**](#completion)
 
@@ -64,7 +66,23 @@ You will also need to:
 
 * have a `.bashrc` file for storing aliases. An alias is a short word / phrase you can type in your shell to stand in for longer commands, and it will make it easy to run the programs we're installing.
 
-* find and edit your system PATH variables. Some of this can be done in your Control Panel. 
+* find and edit your system PATH variables. Some of this can be done in your Control Panel.
+
+* **Know how to enter Windows FilePaths**: Windows filepaths can be entered in three different ways (and you may see all three ways in these instructions).
+    * **With the drive letter**, like this. *This is usually how we prefer to enter absolute Windows paths in the scripts below.*
+      ```shell
+      /c/Users/ebbon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar
+      ```
+    * You will also see Windows paths that look like this with the drive letter capitalized and the path separators as backslashes `\`. That is more native to the Windows command line how you see them in the Windows System Properties Environment Variables where you set your JAVA_HOME variable:
+      ```shell
+      C:\Program Files\OpenJDK\jdk-22.0.2\
+      ```
+    * **With a tilda** `~` to stand in for the drive letter and path to your home directory (the filepath you go to when you enter `cd ` ). This can be a convenient shorter way to write the paths. *Sometimes we have entered the path with this notation. It is fine, just note what the ~ means.*
+      ```shell
+      ~/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar
+      ```
+    * **If you see filepaths written out for these Windows instructions that do NOT start with either the `~` or the drive letter, they are incorrect!** (Let us know if you spot these and we will revise them! These simply cannot work because Windows will supply some extra folders at the start of the filepath, leading to incorrect paths.)
+      
 
 ### Installing Chocolatey
 
@@ -96,7 +114,7 @@ First, make sure you have developer (jdk) java installed:
 
 	You should see the current JDK that you installed with chocolatey.
 
-* Next we need to make sure the location of the JDK you installed is set in your system environment variables. In your Search bar, look for "System" or "Control Panel" (or Edit the System Environment Variables). Find the tab to edit the Environment Variables and look for JAVA_HOME. Click "Edit User Variable" and paste in the new filepath of your Java. (Find that in Git Bash with `where java`)
+* Next we need to make sure the location of the JDK you installed is set in your system environment variables. In your Search bar, look for "System" or "Control Panel" (or Edit the System Environment Variables). Find the tab to edit the Environment Variables and look for JAVA_HOME. Click "Edit User Variable" and paste in the new filepath of your Java. (You can see that in Git Bash with `where java`) **NOTE** : For the Windows installations to work, we will need to the User Path to be set to the jdk folder that's inside OpenJDK, like so (depending on your version number): `C:\Program Files\OpenJDK\jdk-22.0.2\` . Your system should look something like this screen capture:
   
   ![](environvar-win.png)
   
@@ -135,8 +153,7 @@ This is an XProc processor that you can use with the ixml processor [**CoffeePot
 	java -jar xmlcalabash-app-3.0.0-alpha20.jar help
 	```
 	
-	* NOTE: on the XML Calabash repo, they left out the `.jar` portion of the filename, so their line won't work
-	* NOTE: **alpha20 is the latest release as of 2 February 2025**
+	* NOTE: **The XML Calabash version number may have changed** since we drafted these instructions! Check the version number carefully as you adapt the following instructions, which will require you to enter a filepath to this xmlcalabash jar file.  
   
 ### Graphviz
 
@@ -229,16 +246,16 @@ This is an XProc processor that you can use with more complex ixml contexts and 
 ### Installing SchXslt
 
 * Now we're going to install [SchXslt](https://git.sr.ht/~dmaus/schxslt2/refs) (which is pronounced "Shicksilt" ... be careful with that one!) This is an XSLT-based Schematron processor that can handle Schematron validation.
-     * Find the latest version, and download the .zip file. (As of 17 February 2025, the current SchXslt2 release is https://git.sr.ht/~dmaus/schxslt2/refs/v1.3.4)
+     * Find the latest version, and download the .zip file. **Double check your release number (it may not match ours)**: (As of 17 February 2025, the current SchXslt2 release is https://git.sr.ht/~dmaus/schxslt2/refs/v1.3.4)
      * Unzip the file into your GitHub directory.
 
 
 ### Configuring Morgana
 
 * Let's navigate to your "home" directory (where your `.bashrc` lives), and we'll set up a `morgana-config.xml` configuration file there. For this configuration, you're going to need to have some inforamtion ready:
-    * You'll need the path to the SchXSLT transpile.xsl file: You'll find that in the main directory of the schxslt directory you just saved. (Mine is here: `C:/Users/eebon/Documents/GitHub/schxslt2-v1.3.4`
+    * You'll need the path to the SchXSLT transpile.xsl file: You'll find that in the main directory of the schxslt directory you just saved. (Mine is here: `/c/Users/ebbon/Documents/GitHub/schxslt2-v1.3.4`
     * You'll need the path to a Saxon processor that can run XSLT and XQuery and such. You have this already if you installed Calabash: Saxon-HE comes in its library or "lib" folder: 
-    Find/copy the path to the Saxon_HE jar file in your xml-calabash lib. (Here's mine:  `C:/Users/eebon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar`)
+    Find/copy the path to the Saxon_HE jar file in your xml-calabash lib. (Here's mine:  `/c/Users/ebbon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar`)
   * We presume you're going to be installing [Markup Blitz](#markup-blitz) for your ixml processor (so our configuration settings for Morgana will be set to Markup Blitz).
 
 * In your "home" directory, make and open the configuration file:
@@ -253,7 +270,7 @@ This is an XProc processor that you can use with more complex ixml contexts and 
     <morgana-config xmlns="http://www.xml-project.com/morganaxproc">
 	<!-- Relative paths are resolved by uri of this file -->
 	
-	    <path_to_SchXSLT2_transpiler>C:/Users/eebon/Documents/GitHub/schxslt2-v1.3.1/transpile.xsl</path_to_SchXSLT2_transpiler>
+	    <path_to_SchXSLT2_transpiler>/c/Users/ebbon/Documents/GitHub/schxslt2-v1.3.4/transpile.xsl</path_to_SchXSLT2_transpiler>
 		
 	    <XSLTValidationMode>LAX</XSLTValidationMode>
 	
@@ -261,7 +278,7 @@ This is an XProc processor that you can use with more complex ixml contexts and 
 	    <xquery-connector>Saxon12-3</xquery-connector>
 	    <schematron-connector>schxslt2</schematron-connector>
 
-	    <xslt-config>C:/Users/eebon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar</xslt-config>
+	    <xslt-config>/c/Users/ebbon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar</xslt-config>
 	    <xslt-config></xslt-config>
           <silent>true</silent>
     
@@ -282,8 +299,8 @@ This is an XProc processor that you can use with more complex ixml contexts and 
     ```
 
 * **Adapt** these parts of the file:  
-     * Change the `<path_to_SchXSLT2_transpiler>` element contents to your path to the transpile.xsl file in schxslt directory. 
-     * Change the `<xslt-config>` element contents to your path to Saxon-HE.
+     * Change the `<path_to_SchXSLT2_transpiler>` element contents to your path to the transpile.xsl file in schxslt directory. **CHECK the schxslt version number** as this may have changed since we drafted this instructions!
+     * Change the `<xslt-config>` element contents to your path to Saxon-HE. **Notice that this is in your xmlcalabash directory** that you set up earlier!
      * One more thing: notice the contents of the `<ixml-connector>` element. That's not a filepath, but it is an indicator of which ixml processor you're using. Our active setting in the code below is for Markup Blitz, but you can set this to CoffeePot instead. (We think you can set it to CoffeePot by using the NineMLConnector version that is commented out above it, but we should check the documentation to be sure).
 
 ### Creating an Alias for Morgana
@@ -299,8 +316,9 @@ Okay, now it's time to make an alias for Morgana!
 * My morgana alias looks like this:
 
     ```shell
-    alias morgana='~/Documents/GitHub/MorganaXProc-IIIse-1.4.10/Morgana.bat -config=C:/Users/eebon/morgana-config.xml'
+    alias morgana='~/Documents/GitHub/MorganaXProc-IIIse-1.5/Morgana.bat -config=C:/Users/eebon/morgana-config.xml'
     ```
+    **Double check the version number on your Morgana directory**: Yours may not match mine if there's been an update since I last posted these instructions!
 
   * You will need to **adapt** my sample alias to represent the locations of: 
      * Your Morgana.sh file in the Morgana directory (mine is in my "GitHub" folder). 
@@ -411,7 +429,7 @@ You may think you installed this already, but that was "CoffeeSacks" (made by th
 * Create an alias:
 
 	```shell
-	alias coffeepot='java -jar /Users/eebon/Documents/GitHub/coffeepot-3.2.7/coffeepot-3.2.7.jar'
+	alias coffeepot='java -jar /c/Users/ebbon/Documents/GitHub/coffeepot-3.2.7/coffeepot-3.2.7.jar'
 	```
 
     * Note the filepath that leads to the coffeepot jar (use `pwd` to help) and your alias might look something like mine (make sure yours applies the version number that you downloaded)
@@ -431,7 +449,7 @@ You may think you installed this already, but that was "CoffeeSacks" (made by th
     * Code:
   
    	    ```shell
-	    graphviz=/Program Files/Graphviz/bin/dot.exe
+	    graphviz=/c/Program\ Files/Graphviz/bin/dot.exe
 	    ignore-trailing-whitespace=true
 	    pretty-print=true
 	    progress-bar=tty
@@ -443,6 +461,14 @@ You may think you installed this already, but that was "CoffeeSacks" (made by th
 	    ```
 
   * If you ever need to adjust these settings or find out more, here's [the CoffeePot documentation](https://docs.nineml.org/current/coffeepot/bk02ch07.html).
+
+### Smoke Test for CoffeePot
+
+Open a shell anywhere and run `coffeepot` to test your alias. If all is well, you should see this single line appear in your shell:
+
+```
+Usage: ... -g:input.ixml -o:output.xml (--help for more details)
+```
       
 ### Running CoffeePot 
 * Run CoffeePot over an ixml grammar and a .txt file like this, using your alias: (Think of "g" as standing for "grammar" and "i" as "input file")
@@ -494,8 +520,18 @@ Working in our Git Bash shell on Windows, this line works to build our jar:
 * Make an alias for running your new markup-blitz.jar file. I called my alias "blitz" and my alias definition looks like this:
 
   ```shell
-  alias blitz='java -jar /Users/eebon/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar'
+  alias blitz='java -jar /c/Users/ebbon/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar'
   ```
+
+### Smoke Test for Markup Blitz
+
+Open a shell anywhere and run `blitz` to test your alias. You should see a screen about compiling Invisible XML commands that starts like this:
+
+```
+Usage: java -jar markup-blitz.jar [<OPTION>...] [<GRAMMAR>] <INPUT>
+
+. . . more stuff below . . .
+```
 
 ### Running Markup Blitz
 
