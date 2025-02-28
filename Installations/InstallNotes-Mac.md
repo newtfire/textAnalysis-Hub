@@ -344,8 +344,6 @@ This is an XProc processor that you can use with more complex ixml contexts and 
 	    <xquery-connector>Saxon12-3</xquery-connector>
 	    <schematron-connector>schxslt2</schematron-connector>
 
-	    <xslt-config>/Users/eeb4/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar</xslt-config>
-	    <xslt-config></xslt-config>
           <silent>true</silent>
     
 	<!--
