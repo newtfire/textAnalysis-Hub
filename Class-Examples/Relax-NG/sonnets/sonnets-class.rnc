@@ -1,0 +1,14 @@
+start = xml
+xml = element xml {title, author, sonnet+}
+title = element title {text}
+author = element author {text}
+
+sonnet = element sonnet {n, line+}
+n = attribute n {text}
+line = element line {text}
+
+
+
+
+
+
