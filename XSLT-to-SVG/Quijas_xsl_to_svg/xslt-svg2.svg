@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%">
+   <desc>SVG created from A Big Ball of Text with Special Whatsits Inside</desc>
+   <g transform="translate(20 350)">
+      <text x="200"
+            y="-250"
+            font-size="14"
+            text-anchor="middle"
+            fill="black">rocketShip 1</text>
+      <circle cx="200"
+              cy="-200"
+              r="40"
+              fill="blue"
+              stroke="black"
+              stroke-width="2"/>
+      <text x="200"
+            y="-140"
+            font-size="14"
+            text-anchor="middle"
+            fill="black">powerUp1</text>
+      <rect width="70"
+            height="70"
+            x="155"
+            y="-120"
+            fill="lightblue"
+            stroke="black"
+            stroke-width="2"
+            rx="0">
+         <animate attributeName="rx"
+                  values="0;15;0"
+                  dur="10s"
+                  repeatCount="indefinite"/>
+      </rect>
+      <text x="400"
+            y="-250"
+            font-size="14"
+            text-anchor="middle"
+            fill="black">rocketShip 2</text>
+      <circle cx="400"
+              cy="-200"
+              r="0"
+              fill="blue"
+              stroke="black"
+              stroke-width="2"/>
+      <text x="400"
+            y="-140"
+            font-size="14"
+            text-anchor="middle"
+            fill="black">powerUp2</text>
+      <rect width="70"
+            height="70"
+            x="155"
+            y="-120"
+            fill="lightblue"
+            stroke="black"
+            stroke-width="2"
+            rx="0">
+         <animate attributeName="rx"
+                  values="0;15;0"
+                  dur="10s"
+                  repeatCount="indefinite"/>
+      </rect>
+      <text x="600"
+            y="-250"
+            font-size="14"
+            text-anchor="middle"
+            fill="black">rocketShip 3</text>
+      <circle cx="600"
+              cy="-200"
+              r="0"
+              fill="blue"
+              stroke="black"
+              stroke-width="2"/>
+      <text x="600"
+            y="-140"
+            font-size="14"
+            text-anchor="middle"
+            fill="black">powerUp3</text>
+      <rect width="70"
+            height="70"
+            x="155"
+            y="-120"
+            fill="lightblue"
+            stroke="black"
+            stroke-width="2"
+            rx="0">
+         <animate attributeName="rx"
+                  values="0;15;0"
+                  dur="10s"
+                  repeatCount="indefinite"/>
+      </rect>
+   </g>
+</svg>

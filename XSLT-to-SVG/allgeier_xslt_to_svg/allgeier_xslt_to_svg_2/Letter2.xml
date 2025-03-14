@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="LetterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+   <meta>
+       <title titleID="Letter2">In Paris</title>
+       <date when="1955-07-19">July 19, 1955</date>
+       <source>John M. Lilley Library, Penn State Behrend Archives</source>
+       <summary>This letter recounts Mary Behrend's day in Paris on July 19, 1955, describing visits to landmarks, stores, and restaurants, along with personal observations and activities such as exploring the city by car, shopping, and attending an evening show.</summary>
+       <editors>
+           <editor>AMA</editor>
+           <editor>MRS</editor>
+       </editors>
+   </meta>
+       
+    <letter>
+        <page num="1" photo="docs/Images/Letter2.jpg">
+            <headLine><location loc="Paris, France" category="city">Paris</location> <date when="1955-07-19">July 19th. <imp type="writing">1955-</imp></date></headLine>
+            <p>
+                <ln n="1"/>Took a motor from<imp type="missing" corr=" "></imp>a travel agency- after breakfast in 
+                <ln n="2"/>our fancy round sitting room. Drove all around <location loc="Paris, France" category="city">Paris</location> 
+                <ln n="3"/>the driver named <person>Harvey</person> had a daughter named 
+                <ln n="4"/>at <location loc="Waycross, Georgia" category="city">Waycross Georgia</location>.   Went to <location loc="Parfums Lubin, Paris, France" category="store" desc="perfume store/brand">Lubin's</location> for <imp type="typo" corr="perfume">perfrume</imp> 
+                <ln n="5"/>(had the pink flannel <imp type="typo" corr="">f</imp>affair that <person>Harriet</person> had 
+                <ln n="6"/>given me- REsented') W<imp type="typo" corr=""> </imp>alked around the <location loc="Place Vendôme, Paris, France" category="square" desc="Paris, France">circle-Place 
+                    <ln n="7"/>de <imp type="typo" corr="Vendôme">Ven6ome</imp></location>  To Caron, <location loc="The Ritz Hotel, Paris, France" category="hotel">The Ritz Hotel</location>, and a <imp type="spelling" corr="jeweler's">jewellers</imp> 
+                <ln n="8"/>where I was intregue<imp type="writing" corr="d">s</imp> by a <imp type="writing">J</imp>ewelled bird. But did NOT 
+                <ln n="9"/>get it!   To a very nice resturant in <location loc="Bois de Boulogne, Paris, France" category="park">the Bois</location> for lunch 
+                <ln n="10"/><location loc="Le Pre Catalan, Paris, France" category="restaurant">Le Pre Catalan</location>. Went then<imp type="missing" corr=" "></imp>to both sides of the <location loc="Seine River, Paris, France" category="river"><imp type="spelling" corr="Seine">Siense</imp></location> 
+                <ln n="11"/>and got some little prints of Paris. R.R.<imp type="missing" corr=" "></imp>st<imp type="writing">a</imp>tion and 
+                <ln n="12"/>Tourist Agency<imp type="writing" corr=" ">/</imp>reg. tickets.    We had our evening meal 
+                <ln n="13"/>at the <location loc="Le Bristol Paris, Paris, France" category="hotel">Bristol</location> and then set out for the <location loc="Casino de Paris, Paris, France" category="casino" desc="Casino in Paris, France"><imp type="spelling" corr="Casino de Paris">Casion deParis</imp></location>. 
+                <ln n="14"/>Very amusing show- we stayed thro<imp type="writing">'</imp> <imp type="underline">half</imp> of it but felt 
+                <ln n="15"/>we needed <imp type="underline">sleep</imp>. <person>Gail</person> got a cab by her  shrill <imp type="underline">whistle</imp>!
+            </p>
+            
+            <drawing/>
+            
+        </page>
+        
+    </letter>
+</xml>

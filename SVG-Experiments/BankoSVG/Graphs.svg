@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="#f8f9fa"/>
+    
+    <!-- Bars -->
+    <rect x="50" y="50" width="50" height="202" fill="#007bff"/>
+    <rect x="150" y="187" width="50" height="65" fill="#28a745"/>
+    <rect x="250" y="152" width="50" height="100" fill="#dc3545"/>
+    
+    <!-- Labels -->
+    <text x="75" y="270" font-size="14" text-anchor="middle" fill="#333">Tahiti</text>
+    <text x="175" y="270" font-size="14" text-anchor="middle" fill="#333">Raiatea</text>
+    <text x="275" y="270" font-size="14" text-anchor="middle" fill="#333">Tongatapu</text>
+    
+    <!-- Title -->
+    <text x="200" y="30" font-size="18" text-anchor="middle" fill="#000">Island Area Comparison</text>
+</svg>

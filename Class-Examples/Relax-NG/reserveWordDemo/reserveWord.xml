@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="reserve-class.rnc" type="application/relax-ng-compact-syntax"?>
+<text>
+    <hi/>
+    <stuff>Hi there</stuff>
+   
+</text>

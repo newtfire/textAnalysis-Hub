@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="400%" height="700%">
+    <g alignment-baseline="baseline">
+        <!-- heding text for entire graph-->
+        <text x="90" y="40" font-size="15" font-weight="bold">Polynesian Islands: Representing Area in Square Miles</text>
+        
+        <!-- axes-->
+        <line x1="50" y1="350" x2="450" y2="350" stroke="black" stroke-width="2" /> 
+        <line x1="50" y1="30" x2="50" y2="350" stroke="black" stroke-width="2" /> 
+        
+        <!-- y-axis numerical labels/text-->
+        <text x="15" y="355" font-size="12">0</text>
+        <text x="15" y="296" font-size="12">100</text>
+        <text x="15" y="237" font-size="12">200</text>
+        <text x="15" y="178" font-size="12">300</text>
+        <text x="15" y="119" font-size="12">400</text>
+        <text x="15" y="60" font-size="12">500</text>
+        
+        <!-- bars representing each Polynesian island -->
+        <rect x="100" y="109" width="50" height="240" fill="#92DA87" />
+        <rect x="209" y="315" width="50" height="34" fill="#BDDAB8" />
+        <rect x="315" y="290" width="50" height="59" fill="#B1DAAB" />
+        
+        <!-- x-axis text-->
+        <text x="115" y="370" font-size="12">Tahiti</text>
+        <text x="215" y="370" font-size="12">Raiatea</text>
+        <text x="315" y="370" font-size="12">Tongatapu</text>
+        
+        <!-- y-axis text-->
+        <text x="-250" y="10" font-size="14" transform="rotate(-90)">Area in square miles </text>
+    </g>
+</svg>

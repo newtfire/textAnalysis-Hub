@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="#f8f9fa"/>
+    
+    <!-- Axes -->
+    <g transform="translate(50,280)">
+        <line x1="0" y1="0" x2="300" y2="0" stroke="#000" stroke-width="2"/>
+        <line x1="0" y1="0" x2="0" y2="-220" stroke="#000" stroke-width="2"/>
+    </g>
+    
+    <!-- Bars and animation -->
+    <g transform="translate(50,30)">
+        <rect x="0" y="78" width="50" height="0" fill="#007bff">
+            <animate attributeName="height" from="0" to="202" dur="1s" fill="freeze"/>
+        </rect>
+        <rect x="100" y="215" width="50" height="0" fill="#28a745">
+            <animate attributeName="height" from="0" to="65" dur="1s" fill="freeze"/>
+        </rect>
+        <rect x="200" y="150" width="50" height="0" fill="#dc3545">
+            <animate attributeName="height" from="0" to="100" dur="1s" fill="freeze"/>
+        </rect>
+    </g>
+    
+    <!-- Labels -->
+    <text x="75" y="300" font-size="14" text-anchor="middle" fill="#333">Tahiti</text>
+    <text x="175" y="300" font-size="14" text-anchor="middle" fill="#333">Raiatea</text>
+    <text x="275" y="300" font-size="14" text-anchor="middle" fill="#333">Tongatapu</text>
+    
+    <!-- Title -->
+    <text x="200" y="20" font-size="18" text-anchor="middle" fill="#000">Island Area Comparison</text>
+</svg>

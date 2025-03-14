@@ -10,5 +10,17 @@ Thumbs.db
 .idea/workspace.xml
 .env/
 .idea/
+<<<<<<< HEAD
 venv/
 __pycache__/
+=======
+.venv
+venv/
+__pycache__/
+Lib/
+Scripts/
+etc/
+pyvenv.cfg
+share/
+.ipynb_checkpoints/
+>>>>>>> 6c4497dbcdadac46ca0d876699992c91bdd7d7e9

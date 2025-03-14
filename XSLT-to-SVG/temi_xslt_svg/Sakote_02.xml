@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>The Recipe <rn>Shrewsbury Cakes</rn>
+    <!-- "rn" is recipe name -->
+    <or>Take a pound of fresh butter a pound of double refind sugar sifted fine a little beaten mace
+        &amp; 4 eggs beat them all together with. your hands till tis very leight &amp; looks
+        curdling you put thereto a pound &amp; 1/2 of flower roul them out into little cakes</or>
+    <!-- OR is Orignial Recipie -->
+    <nr>
+        <!-- "nr"is new recipe --> <descript>Our recipe (halved from the original)</descript> <ing>
+            <ing quant=".5" unit="Ib" key="but">1/2 lb. <alt quant="2" unit="stick">(2 sticks)</alt>
+                butter, softened</ing>
+            <ing quant=".5" unit="Ib">sugar</ing>
+            <ing quant=".25" unit="tsp">mace</ing>
+            <ing quant=".5" unit="tsp">cinnamon</ing>
+            <ing quant="2" unit="eggs">eggs</ing>
+            <ing quant=".75" unit="Ib">flour</ing>
+        </ing> 
+        <Instruct>
+            <Step>Using an electric mixer, cream together the <ing ref="but">butter</ing> and
+                <ing>sugar.</ing> </Step>
+           <step> Then add the <ing>eggs</ing> and mix at medium speed until the
+            mixture looks curdled.</step> 
+            <step>Sift together dry ingredients and add at low speed until just
+            combined.</step> 
+            <step>Scoop and roll the dough by hand into 1-tbsp. balls, then pat flat.</step> [You could
+            also refrigerate the dough until it’s firm enough to roll out on a flat surface and cut
+            out into rounds.] 
+            <step>Bake at 350F for 15-18 minutes (ours were about 1/3″ thick, so you
+            could roll them thinner and have a slightly shorter cooking time) </step>
+            <step>They’re done once they turn the slightest bit brown around the edges. This halved recipe yielded about two
+            dozen cookies.</step>
+        </Instruct>
+    </nr>
+</xml>

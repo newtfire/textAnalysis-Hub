@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc>Animated Bar Graph based on XML Data</desc>
+    <g transform="translate(100,500)">
+        <g>
+            <line x1="0" x2="600" y1="0" y2="0" stroke="black" stroke-width="2"/>
+            <line x1="0" x2="0" y1="0" y2="-400" stroke="black" stroke-width="2"/>
+        </g>
+        <g transform="translate(650,-350)">
+            <text x="0" y="-20" font-size="16" fill="black">Legend:</text>
+            <rect x="0" y="0" width="20" height="20" fill="rgb(255,182,193)"/>
+            <text x="30" y="15" font-size="14" fill="black">powerUp (3)</text>
+            <rect x="0" y="30" width="20" height="20" fill="rgb(255,105,180)"/>
+            <text x="30" y="45" font-size="14" fill="black">rocketShip (4)</text>
+            <rect x="0" y="60" width="20" height="20" fill="rgb(219,112,147)"/>
+            <text x="30" y="75" font-size="14" fill="black">magicEgg (14)</text>
+            <rect x="0" y="90" width="20" height="20" fill="rgb(199,21,133)"/>
+            <text x="30" y="105" font-size="14" fill="black">jabberwocky (1)</text>
+            <rect x="0" y="120" width="20" height="20" fill="rgb(186,85,211)"/>
+            <text x="30" y="135" font-size="14" fill="black">boss (1)</text>
+            <rect x="0" y="150" width="20" height="20" fill="rgb(138,43,226)"/>
+            <text x="30" y="165" font-size="14" fill="black">dragon (1)</text>
+            <rect x="0" y="180" width="20" height="20" fill="rgb(148,0,211)"/>
+            <text x="30" y="195" font-size="14" fill="black">shield (1)</text>
+            <rect x="0" y="210" width="20" height="20" fill="rgb(128,0,128)"/>
+            <text x="30" y="225" font-size="14" fill="black">invisibilityCloak (1)</text>
+        </g>
+        <g>
+            <rect x="0" y="0" width="40" height="0" fill="rgb(255,182,193)">
+                <animate attributeName="height" from="0" to="24" dur="1s" fill="freeze"/>
+                <animate attributeName="y" from="0" to="-24" dur="1s" fill="freeze"/>
+            </rect>
+            <text x="20" y="-30" text-anchor="middle" font-size="14" fill="black">3</text>
+        </g>
+        <g>
+            <rect x="80" y="0" width="40" height="0" fill="rgb(255,105,180)">
+                <animate attributeName="height" from="0" to="32" dur="1s" fill="freeze"/>
+                <animate attributeName="y" from="0" to="-32" dur="1s" fill="freeze"/>
+            </rect>
+            <text x="100" y="-38" text-anchor="middle" font-size="14" fill="black">4</text>
+        </g>
+        <g>
+            <rect x="160" y="0" width="40" height="0" fill="rgb(219,112,147)">
+                <animate attributeName="height" from="0" to="112" dur="1s" fill="freeze"/>
+                <animate attributeName="y" from="0" to="-112" dur="1s" fill="freeze"/>
+            </rect>
+            <text x="180" y="-118" text-anchor="middle" font-size="14" fill="black">14</text>
+        </g>
+        <g>
+            <rect x="240" y="0" width="40" height="0" fill="rgb(199,21,133)">
+                <animate attributeName="height" from="0" to="8" dur="1s" fill="freeze"/>
+                <animate attributeName="y" from="0" to="-8" dur="1s" fill="freeze"/>
+            </rect>
+            <text x="260" y="-14" text-anchor="middle" font-size="14" fill="black">1</text>
+        </g>
+        <g>
+            <rect x="320" y="0" width="40" height="0" fill="rgb(186,85,211)">
+                <animate attributeName="height" from="0" to="8" dur="1s" fill="freeze"/>
+                <animate attributeName="y" from="0" to="-8" dur="1s" fill="freeze"/>
+            </rect>
+            <text x="340" y="-14" text-anchor="middle" font-size="14" fill="black">1</text>
+        </g>
+        <g>
+            <rect x="400" y="0" width="40" height="0" fill="rgb(138,43,226)">
+                <animate attributeName="height" from="0" to="8" dur="1s" fill="freeze"/>
+                <animate attributeName="y" from="0" to="-8" dur="1s" fill="freeze"/>
+            </rect>
+            <text x="420" y="-14" text-anchor="middle" font-size="14" fill="black">1</text>
+        </g>
+        <g>
+            <rect x="480" y="0" width="40" height="0" fill="rgb(148,0,211)">
+                <animate attributeName="height" from="0" to="8" dur="1s" fill="freeze"/>
+                <animate attributeName="y" from="0" to="-8" dur="1s" fill="freeze"/>
+            </rect>
+            <text x="500" y="-14" text-anchor="middle" font-size="14" fill="black">1</text>
+        </g>
+        <g>
+            <rect x="560" y="0" width="40" height="0" fill="rgb(128,0,128)">
+                <animate attributeName="height" from="0" to="8" dur="1s" fill="freeze"/>
+                <animate attributeName="y" from="0" to="-8" dur="1s" fill="freeze"/>
+            </rect>
+            <text x="580" y="-14" text-anchor="middle" font-size="14" fill="black">1</text>
+        </g>
+    </g>
+</svg>
