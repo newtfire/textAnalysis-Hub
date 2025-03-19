@@ -16,10 +16,11 @@
 </xml>      
 }
 
-volume: -"SBS Volume ", num, newline+, chapter+.
-chapter: "Chapter ", num+, -comma, -space, page, newline+, (dialogue; extraStuff)+.
-num: digit.
-page: -"Page ", digit+.
+volume: -"SBS Volume ", vnum, newline+, chapter+.
+@vnum: digit+.
+chapter: "Chapter ", num, -comma, -space, page, newline+, (dialogue; extraStuff)+.
+@num: digit+, -comma, -space.
+@page: -"Page ", digit+.
 dialogue: speaker, say, -newline+.
 speaker: who.
 -who: ["A"-"Z"], -":".
