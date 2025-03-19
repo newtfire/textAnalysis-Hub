@@ -10,7 +10,7 @@
 
 volume: -"SBS Volume ", vnum, newline+, chapter+.
 @vnum: digit+.
-chapter: -"Chapter ", num, @page, newline+, textStream++newline.
+chapter: -"Chapter ", num, page, newline+, textStream++newline.
 @num: digit+, -comma, -space.
 @page: -"Page ", digit+.
 -newline: #d?,#a.
