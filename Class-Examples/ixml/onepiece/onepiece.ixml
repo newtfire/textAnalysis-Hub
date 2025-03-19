@@ -1,12 +1,7 @@
 { We are aiming for this structure: 
 <xml>
-<volume>
-<key>
-   <char>
-    <abbrev>[A-Z]</abbrev>
-    <expan>(...)</expan>
-   </char>
-</key>
+<volume num="["0"-"9"]">
+
 <chapter num="["0"-"9"]+" page="["0"-"9"]+">
    <dialogue>
        <sp>
@@ -21,24 +16,15 @@
 </xml>      
 }
 
-xml: volume+.
-volume: -"SBS Volume ", num, newline+, key, chapter+.
-key: -"Key:", -newline, char+.
-char: abbrev, expan, newline+.
-abbrev: ["A"-"Z"].
-expan: words.
-chapter: "Chapter ", num+, -comma, -space, page, (dialogue; extraStuff)+.
-@num: digit.
-@page: -"Page ", digit+.
-
+volume: -"SBS Volume ", num, newline+, chapter+.
+chapter: "Chapter ", num+, -comma, -space, page, newline+, (dialogue; extraStuff)+.
+num: digit.
+page: -"Page ", digit+.
 dialogue: speaker, say, -newline+.
-speaker: -newline*, who.
-@who: ["A"-"Z"], -":".
+speaker: who.
+-who: ["A"-"Z"], -":".
 say: textStream++newline.
-
 extraStuff: textStream++newline.
-
-
 -newline: #d?,#a.
 -digit: ["0"-"9"].
 -comma: ",".
