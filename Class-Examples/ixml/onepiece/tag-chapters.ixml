@@ -1,0 +1,8 @@
+volume: -"SBS Volume ", num, newline, newline, body.
+@num: digits.
+body: (chapter-head-line; chapter-body-line)++newline.
+chapter-head-line: -"Chapter ", num, -", Page ", page.
+chapter-body-line: ~["Chapter "], ~[#d;#a]+.
+@page: digits.
+-digits: ["0"-"9"]+.
+-newline: -#d?, #a.
