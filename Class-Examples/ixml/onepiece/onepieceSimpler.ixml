@@ -8,13 +8,13 @@
 </xml>      
 }
 
-volume: -"SBS Volume ", vnum, newline+, chapter+.
+volume: -"SBS Volume ", num, newline+, chapter+.
 @vnum: digit+.
-chapter: -"Chapter ", num, page, newline+, textStream++newline.
-@num: digit+, -comma, -space.
+chapter: -"Chapter ", num, -comma, -space, page, newline+, textStream++newline.
+@num: digit+.
 @page: -"Page ", digit+.
 -newline: #d?,#a.
 -digit: ["0"-"9"].
--comma: ",".
--space: " ".
+-comma: -",".
+-space: -" ".
 -textStream: ["A"-"Z"], ~[#d;#a]+, newline?.
