@@ -18,12 +18,12 @@
 
 volume: -"SBS Volume ", vnum, newline+, chapter+.
 @vnum: digit+.
-chapter: "Chapter ", num, -comma, -space, page, newline+, (dialogue; extraStuff)+.
+chapter: -"Chapter ", num, page, newline+, (dialogue; extraStuff)+.
 @num: digit+, -comma, -space.
 @page: -"Page ", digit+.
-dialogue: speaker, say, -newline+.
+dialogue: speaker, say, -newline*.
 speaker: who.
--who: ["A"-"Z"], -":".
+-who: ["A"-"Z"], -": ".
 say: textStream++newline.
 extraStuff: textStream++newline.
 -newline: #d?,#a.
@@ -31,4 +31,4 @@ extraStuff: textStream++newline.
 -comma: ",".
 -space: " ".
 -words: space?, -"(", ~[#d;#a]+, -")".
--textStream: ~[#d;#a]+.
+-textStream: "["?,["A"-"Z"],~[#d;#a]+.
