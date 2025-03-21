@@ -5,15 +5,28 @@
     <!-- ================================================================ -->
     <!-- Housekeeping-->
     <!-- ================================================================ -->
-    <p:input primary="true" port="source" content-types="text" href="source/vol-4.txt"/>
-    <p:output primary="true" port="result"/>
+    <p:input primary="true" sequence="false" port="source" content-types="text"
+        href="source/vol-4.txt"/>
+    <p:output primary="true" sequence="false" port="result" serialization="map {
+            'method' : 'xml',
+            'indent' : true()
+        }"/>
     <!-- ================================================================ -->
     <!-- Working steps                                                    -->
+    <!-- ================================================================ -->
+    <!-- Add basic XML markup, including chapter divisions                -->
+    <!-- Distinguish chapter header lines from other chapter lines        -->
+    <!-- No distinction yet between speech and aside ("extra stuff")      -->
     <!-- ================================================================ -->
     <p:invisible-xml>
         <p:with-input port="grammar">
             <p:document href="tag-chapters.ixml" content-type="text/plain"/>
         </p:with-input>
     </p:invisible-xml>
-    <p:identity/>
+    <!-- ================================================================ -->
+    <!-- Distinguish <sp> from <aside>, tag both                          -->
+    <!-- ================================================================ -->
+    <p:xslt>
+        <p:with-input port="stylesheet" href="tag-speech.xsl"/>
+    </p:xslt>
 </p:declare-step>
