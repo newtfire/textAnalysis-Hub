@@ -1,0 +1,62 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+# ebb: This is a Relax NG comment. 
+start = apollo13
+# start is a reserve word for the beginning of a schema. 
+
+apollo13 = element apollo13 {doc, head, body}
+# A schema line always takes the form: label = type name {content}
+# The comma , is a sequence indicator: the elements above must appear in this order.
+# The elements have no repetition indicators, so they are only allowed to appear once. 
+
+doc = element doc {source, type, empty}
+# empty is a reserve word, indicating this element is self-closing and contains nothing between tags.
+# The only things defined on this empty element are two attributes.
+
+source = attribute source {"nasa" | "rsa" | "esa"}
+type = attribute type {"techtranscript"}
+# This is how you define specific legal attribute values: Remember the quotation marks. 
+# The pipe character: | goes in between the values to indicate "or": "nasa" or "rsa" or "esa" may be used as a value.
+
+head = element head {crew, groundControl}
+body = element body {  (transmission | O2-tank-anomaly)*, closing }
+closing = element closing {text}
+O2-tank-anomaly = element O2-tank-anomaly {empty}
+# repetition indicators: 
+# ? zero or 1
+# + 1 or more
+# * zero or more
+
+crew = element crew {person+}
+groundControl = element groundControl {person+}
+person = element person {role, text}
+# role is an attribute. Since XML only allows a particular attribute to appear once, the only repetition indicator that makes sense
+# for an attribute in a content model is the ? (zero or one). IF the attribute is optional on an element, it will take a ?
+
+role = attribute role {xsd:ID}
+# xsd:ID is a special datatype for a distinct identifier. It means that whatever the value of this attribute, it may only be used once.
+
+transmission = element transmission {MET, com, mixed{(panel | MCandW)* }}
+# mixed{} content is special: This is when elements contain a mixture of text and other elements,
+# or what we call "element soup": elements floating in text.
+# If the elements can appear in ANY order, we use the "or" pipe: | between them. 
+# Parentheses set up a grouping. When the computer evaluates the rule above, it checks every element in the tag soup, 
+# to see whether it is either a panel or an MCandW. That combination: (panel | MCandW)* may apear ZERO or MORE times.
+# That is the most flexible definition. 
+# IF we used the comma sequence indicator and no parentheses, like this: mixed{panel*, MCandW*}, we would be calling for 
+# zero or more panel elements **followed by** zero or more MCandW elements.
+
+# Attributes are not really part of mixed{} content. We set them up first, and then move on to define what's inside the tags as the 
+# mixed{} content. 
+
+MET = attribute MET {xsd:duration} #xsd:duration is a standard datatype for an indication of length of time. 
+com = attribute com {xsd:IDREF} #xsd:IDREF is a special datatype that must be the value of an xsd:ID. It may appear multiple times, 
+# but must be the value of an xsd:ID defined elsewhere in the document.
+
+panel = element panel {text}
+MCandW = element MCandW {text}
+# text is a reserve word. Notice it comes up in blue as its own color.
+# If you define an element named <text>, you need to give it something else for a label.
+# like this:
+# textElement = element text {content}
+
+

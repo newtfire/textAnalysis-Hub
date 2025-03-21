@@ -1,0 +1,34 @@
+start = xml 
+xml = element xml {source, poem}
+
+source = element source {title, author, date }
+title = element title {level, text}
+level = attribute level {"book" | "inner" }
+author = element author { text}
+date = element date {when, empty }
+# I am going to choose to use the reserve word
+# even though you don't have to. Here is another
+# way to write this:
+# date = element date {when}
+when = attribute when {xsd:date | xsd:gYear}
+
+poem = element poem {title, lg+ }
+
+lg = element lg {ln+}
+ln = element ln {n, mixed{  (placeName | place | motif)*  } }
+placeName = element placeName {ref, text}
+place = element place {ref, text}
+motif = element motif {text}
+
+n = attribute n {xsd:integer}
+ref = attribute ref {"NYC-Harlem" | "NYC-Man" | text}
+
+
+
+
+
+
+
+
+
+

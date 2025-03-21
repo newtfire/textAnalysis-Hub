@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- In oXygen, go to Document >> Schema >> Associate Schema to associate
+the schema line. Browse to find it, and mark the checkbox indicating 
+"Use path relative to file location". oXygen will then create the schema line for you, and the schema 
+will be operational on the file. Expect to see errors being flagged
+in your XML: these will be schema validation errors for anything
+that your model didn't take into account. Either change your XML to match your schema,
+or fix the schema so it properly defines your XML structure. 
+The goal? A green square in oXygen.
+-->
+<?xml-model href="drbSchema-goodMorning.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <source>
+        <title level="book">Montage of a Dream Deferred</title>
+        <author>Langston Hughes</author>
+        <date when="1951"/>
+    </source>
+    <poem>
+        <title level="inner">Good Morning</title>
+        <lg>
+            <ln n="1">Good morning, daddy!</ln>
+            <ln n="2">I was born here, he said,</ln>
+            <ln n="3">watched <placeName ref="NYC-Harlem">Harlem</placeName> grow</ln>
+            <ln n="4">until colored folks spread</ln>
+            <ln n="5">from river to river</ln>
+            <ln n="6">across the middle of <placeName ref="NYC-Man">Manhattan</placeName></ln>
+            <ln n="7">out of <place ref="NYC-PennSt">Penn Station</place></ln>
+            <ln n="8">dark tenth of a nation,</ln>
+            <ln n="9">planes from <place ref="PR">Puerto Rico</place>,</ln>
+            <ln n="10">and holds of boats, chico,</ln>
+            <ln n="11">up from <place ref="Cuba">Cuba</place>
+                <place ref="Ha">Haiti</place>
+                <place ref="Ja">Jamaica</place>,</ln>
+            <ln n="12">In buses marked <place ref="NYC">New York</place></ln>
+            <ln n="13">from <place ref="Ga">Georgia</place>
+                <place ref="Fla">Florida</place>
+                <place ref="La">Louisiana</place></ln>
+            <ln n="14">to <place ref="NYC-Harlem">Harlem</place>
+                <place ref="NYC-Brook">Brooklyn</place>
+                <place ref="NYC-Bronx">the Bronx</place></ln>
+            <ln n="15">but most of all to <place ref="NYC-Harlem">Harlem</place></ln>
+            <ln n="16">dusky sash across <place ref="NYC-Man">Manhattan</place></ln>
+            <ln n="17">I've seen them come dark</ln>
+            <ln n="18">wondering</ln>
+            <ln n="19">wide-eyed</ln>
+            <ln n="20">dreaming</ln>
+            <ln n="21">out of <place ref="NYC-PennSt">Penn Station</place>—</ln>
+            <ln n="22">but the trains are late.</ln>
+            <ln n="23">The gates open—</ln>
+            <ln n="24">Yet there're bars</ln>
+            <ln n="25">at each gate.</ln>
+        </lg>
+        <lg>
+            <ln n="26">What happens</ln>
+            <ln n="27">to <motif>a dream deferred</motif>?</ln>
+        </lg>
+        <lg>
+            <ln n="28">Daddy, ain't you heard?</ln>
+        </lg>
+    </poem>
+</xml>
