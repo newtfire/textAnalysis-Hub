@@ -8,9 +8,9 @@
 </xml>      
 }
 
-volume: -"SBS Volume ", num, newline+, chapter+.
+volume: -"SBS Volume ", num, newline+, chapter++newline.
 @vnum: digit+.
-chapter: -"Chapter ", num, -comma, -space, page, newline+, textStream++newline.
+chapter: "Chapter ", num, -comma, -space, page, newline+, textStream++newline.
 @num: digit+.
 @page: -"Page ", digit+.
 -newline: #d?,#a.
