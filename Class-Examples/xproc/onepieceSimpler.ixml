@@ -1,15 +1,13 @@
 { We are aiming for this SIMPLE structure: 
-<xml>
 <volume num="["0"-"9"]">
 
 <chapter num="["0"-"9"]+" page="["0"-"9"]+">
    <stuff>....</stuff>
 </chapter>
-</xml>      
+</volume>      
 }
 
 volume: -"SBS Volume ", num, newline+, chapter++newline.
-@vnum: digit+.
 chapter: -"Chapter ", num, -comma, -space, page, newline+, textStream++newline.
 @num: digit+.
 @page: -"Page ", digit+.

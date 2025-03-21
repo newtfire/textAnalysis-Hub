@@ -31,7 +31,8 @@
     <p:identity message="Added markup with ixml"/>
     <p:store name="simple-XML" href="onepieceSimple.xml"/>
     <p:identity message="Stored some simple XML made by invisible XML grammar."/>
-    <p:xslt>
+ 
+ <p:xslt>
         <p:with-input port="source">
             <p:pipe step="simple-XML" port="result"/>
         </p:with-input>
