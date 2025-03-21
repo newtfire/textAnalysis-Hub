@@ -2,7 +2,22 @@ volume: -"SBS Volume ", num, newline, newline, body.
 @num: digits.
 body: (chapter-head-line; chapter-body-line)++newline.
 chapter-head-line: -"Chapter ", num, -", Page ", page.
-chapter-body-line: ~["Chapter "], ~[#d;#a]+.
-@page: digits.
+{
+    dialogue-line begins with single upper-case letter followed by colon and space
+    non-dialogue-line begins with anything except the preceding or the string "Chapter "
+    check for string in non-dialogue line by excluding, in an or-group, initial "C",
+        second character "h", third character "a", etc.
+    Thanks to Bethan Tovey-Walsh for the non-chapter suggestion
+}
+chapter-body-line = 
+    ~["C"], ~[#d;#a]* |
+    "C", (~["h"], ~[#d;#a]* |
+        "h", (~["a"], ~[#d;#a]* | 
+            "a", (~["p"], ~[#d;#a]* | 
+                "p", (~["t"], ~[#d;#a]* | 
+                    "t", (~["e"], ~[#d;#a]* | 
+                        "e", (~["r"], ~[#d;#a]* | 
+                            "r", ~[" "], ~[#d;#a]+)))))).
+page: digits.
 -digits: ["0"-"9"]+.
 -newline: -#d?, #a.
