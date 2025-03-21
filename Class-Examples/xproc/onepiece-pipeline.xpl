@@ -29,8 +29,21 @@
         </p:with-input>
     </p:invisible-xml>
     <p:identity message="Added markup with ixml"/>
-    <p:store href="onepieceSimple.xml"/>
-    
-    
-    
+    <p:store name="simple-XML" href="onepieceSimple.xml"/>
+    <p:identity message="Stored some simple XML made by invisible XML grammar."/>
+    <p:xslt>
+        <p:with-input port="source">
+            <p:pipe step="simple-XML" port="result"/>
+        </p:with-input>
+        <p:with-input port="stylesheet" href="id-transform-regex.xsl"/>
+    </p:xslt>
+    <p:identity message="Running the Identity Trnasformation XSLT to develop the XML"/>
+    <p:store href="onepieceFull.xml" serialization="map {
+        'method' : 'xml',
+        'indent' : true(),
+        'omit-xml-declaration' : false()
+        }"/>
+    <p:identity message="Saved finalized XML"/>
+    <!-- ebb: Later, let's put in a Relax NG, maybe Schematron validation steps here -->
+ 
 </p:declare-step>
