@@ -15,4 +15,7 @@ chapter: -"Chapter ", num, -comma, -space, page, newline+, textStream++newline.
 -digit: ["0"-"9"].
 -comma: -",".
 -space: -" ".
--textStream: ("[", ~[#d;#a]+, "]", newline?); (["A"-"Z"], ["A"-"Z"; "a"-"z"; ":'"]+, " ", ~["0"-"9"], ~[#d;#a]+, newline?).
+-textStream: (("[";"("), ~[#d;#a]+, newline*); 
+        (["A"-"Z"]?, ["a"-"z";"-"]*, ":", ~[#d;#a]+, newline*); 
+        (["0"-"9"], ~[#d;#a]+, newline*); 
+        (["A"-"Z";"a"-"z"], ["A"-"Z"; "a"-"z"; "'"]+, " ", ~["0"-"9"], ~[#d;#a]+, newline*).
