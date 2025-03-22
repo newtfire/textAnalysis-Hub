@@ -22,7 +22,9 @@
                 </d>
             </xsl:matching-substring>
             <xsl:non-matching-substring>
-               <info><xsl:value-of select="."/></info>
+               <xsl:if test="not(matches(., '^\s+$'))">
+                   <info><xsl:value-of select="normalize-space(.)"/></info>
+               </xsl:if>
             </xsl:non-matching-substring>
         </xsl:analyze-string>
     </xsl:template>

@@ -15,4 +15,4 @@ chapter: -"Chapter ", num, -comma, -space, page, newline+, textStream++newline.
 -digit: ["0"-"9"].
 -comma: -",".
 -space: -" ".
--textStream: ("[";["A"-"Z"]), ~[#d;#a]+, newline?.
+-textStream: ("[", ~[#d;#a]+, "]", newline?); (["A"-"Z"], ["A"-"Z"; "a"-"z"; ":'"]+, " ", ~["0"-"9"], ~[#d;#a]+, newline?).
