@@ -2,7 +2,7 @@
 <volume num="["0"-"9"]">
 
 <chapter num="["0"-"9"]+" page="["0"-"9"]+">
-   <stuff>....</stuff>
+   ....
 </chapter>
 </volume>      
 }
