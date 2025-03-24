@@ -11,9 +11,7 @@
 
    <p:directory-list name="sourceColl" path="source"
         include-filter="vol-[0-9].txt"
-        detailed="true"
-       
-    />
+        detailed="true"/>
     
     <p:for-each>
         

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <volume num="7">
-   <chapter num="54"
-            page="26">
+   <chapter num="54" page="26">
       <d>
          <char>D</char>
          <say> To Master Ei. What time is it now~?
@@ -45,8 +44,7 @@
       </d>
       <info>[Minatomo image goes here] (Text: "Don't joke around, punk!! Quit lookin' at me~").</info>
    </chapter>
-   <chapter num="55"
-            page="46">
+   <chapter num="55" page="46">
       <d>
          <char>D</char>
          <say> Why does Sanji-san's eyebrow curl up at the end? Is it for fashion? Make it clear!!
@@ -88,12 +86,10 @@
 </say>
       </d>
    </chapter>
-   <chapter num="56"
-            page="68">
+   <chapter num="56" page="68">
       <info>No SBS. Special feature on Pandaman.</info>
    </chapter>
-   <chapter num="57"
-            page="88">
+   <chapter num="57" page="88">
       <d>
          <char>D</char>
          <say> I have a question. How quickly can Captain Kuro run 100 meters?
@@ -145,8 +141,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="58"
-            page="108">
+   <chapter num="58" page="108">
       <d>
          <char>D</char>
          <say> Are those three-roped things of hair coming out of Zeff's nose a mustache? Or it is nose hair? Or fake hair?
@@ -200,8 +195,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="59"
-            page="128">
+   <chapter num="59" page="128">
       <d>
          <char>D</char>
          <say> Did you know that Koby's father is the world champion of jump-rope?
@@ -259,8 +253,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="60"
-            page="148">
+   <chapter num="60" page="148">
       <info>No SBS. Results of the First One Piece Character Poll.</info>
    </chapter>
 </volume>
