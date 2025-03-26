@@ -17,7 +17,7 @@ nltk.corpus.gutenberg.fileids()
 
 # print(text1)
 #print(text1.similar('monstrous'))
-print(set(text3))
+print(set(text4))
 
 
 # Let's open Crime & Punishment from Project Gutenberg to ask Python to read it.
