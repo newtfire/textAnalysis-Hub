@@ -16,6 +16,7 @@
     <p:for-each>
         
         <p:with-input select="//c:file"/>
+        <!-- ebb: Don't worry. The above line is NOT a literal filepath. It's just XProc-speak for each individual file in the directory. -->
         <p:variable name="filename" as="xs:string" select="//c:file/@name ! substring-before(., '.txt')"/>
         <p:load href="source/{//c:file/@name}"/>
         <!--ebb: The p:load line ensures that we are importing each text file for processing. -->
