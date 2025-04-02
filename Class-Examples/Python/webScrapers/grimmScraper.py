@@ -22,8 +22,8 @@ def get_tales():
         href = archive_url + link['href']
         download_links(href)
     print("All tales downloaded!")
-    # ebb: After class I realized the print line indicating
-    # all files downloaded needed to go after THIS loop finished.
+    # ebb: The print line indicating
+    # all files downloaded needs to go after THIS loop finished.
     # Do you see why it makes sense and works here?
     # Hint: it has to do with when we call the function download_links(href)
 def download_links(href):

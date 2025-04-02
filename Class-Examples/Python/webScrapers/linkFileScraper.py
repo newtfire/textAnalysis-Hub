@@ -42,6 +42,9 @@ def download_links(href):
     # download started
     with open(fileDeposit, 'wb') as f:
         for chunk in r.iter_content(chunk_size = 1024*1024):
+            # ebb what's the chunk stuff for?
+            # It's to "chunk" the contents we're scraping into manageable 1 MB units (= 1024 x 1024 bytes)
+            # literally, "megabyte-sized chunks"
             if chunk:
                 f.write(chunk)
                 print("Downloaded " + file_name)
