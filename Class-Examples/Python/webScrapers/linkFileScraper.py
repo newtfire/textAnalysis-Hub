@@ -34,6 +34,7 @@ def download_links(href):
     r = requests.get(href, stream = True)
 
     workingDir = os.getcwd()
+    # PREVIOUS LINE IS SUPER IMPORTANT! It defines a variable for MY CURRENT WORKING DIRECTORY!
     print("current working directory: " + workingDir)
     fileDeposit = os.path.join(workingDir, 'bojack', file_name)
     print(fileDeposit)

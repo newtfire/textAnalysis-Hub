@@ -30,11 +30,13 @@ def download_links(href):
     # obtain filename by splitting url and getting last string
     file_name = href.split('/')[-1]
     print("Downloading file: " + file_name)
+    # Convert to an f "picture string" just for fun. :-)
 
     # create response object
     r = requests.get(href, stream = True)
 
     workingDir = os.getcwd()
+    # PREVIOUS LINE IS SUPER IMPORTANT! It defines a variable for MY CURRENT WORKING DIRECTORY!
     print("current working directory: " + workingDir)
     fileDeposit = os.path.join(workingDir, 'grimmTales', file_name)
     print(fileDeposit)
