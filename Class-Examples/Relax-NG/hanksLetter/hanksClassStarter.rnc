@@ -1,0 +1,53 @@
+start = twinkie
+twinkie = element xml {dateLine, fw, greeting, p+, closing, signed?, metadata}
+
+dateLine = element dateLine {when, text}
+datePattern = (xsd:date | xsd:gYearMonth | xsd:gYear)
+# ebb: I'm just applying my datePattern from the tutorial here. 
+# The above line is not meant to define an element or attribute, 
+# but just a pattern of datatype options for three different standard
+# formats of a date:
+# xsd:date: yyyy-mm-dd
+# xsd:gYearMonth: yyyy-mm
+# xsd:gYear: yyyy 
+
+when = attribute when {datePattern}
+
+fw = element fw {line+}
+line = element line {text}
+
+greeting = element greeting {mixed{ mistake*} }
+
+mistake = element mistake {orig, reg}
+orig = element orig {text}
+reg = element reg {text}
+
+p = element p {mixed{ (rend | mistake)* }}
+rend = element rend {color, mixed{mistake*}}
+color = attribute color { "red" | "blue" | "green" }
+
+closing = element closing {text}
+
+signed = element signed {text}
+
+metadata = element metadata {source}
+source = element source {url, empty}
+url = attribute url {xsd:anyURI}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

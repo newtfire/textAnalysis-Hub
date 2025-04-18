@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 2024-09-16 ebb: Above is my associated schema line. In oXygen, go to
+Document >> Schema >> Associate Schema. Browse for your .rnc file and associate it,
+and choose Relative file association and Relax NG Compact Syntax.
+oXygen then generates this line for you.
+Use the red checkmark in oXygen to update validation as you make changes
+from here to either the XML or the RelaxNG !
+-->
+
+<?xml-model href="hanksClassStarter.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <dateLine when="2012-07-13">13 July 2012</dateLine>
+    <fw>
+        <line>PLAYTONE</line>
+        <line>Film Television Music Typewriters</line>
+    </fw>
+    <greeting>Dear Chris, Ashley, and all the diabolical
+                <mistake><orig>geniues</orig><reg>geniuses</reg></mistake> at Nerdist
+        Industries.</greeting>
+    <p>Just who do you think you are to try to <rend color="red"
+                    ><mistake><orig>briibe</orig><reg>bribe</reg></mistake> me</rend> into an
+        apperance on your 'thing' with this gift of the most fantastic
+                <mistake><orig>Cornona</orig><reg>Corona</reg></mistake> Silent typewriter made in
+        1934?</p>
+
+    <p>You are out of your minds if you think. . . that I. . . wow, this thing has great action. .
+        .and, this deep crimson color. . . Wait! I'm not so shallow as to. . . and it types nearly
+        silently. . . </p>
+    <p>Oh, OKAY!</p>
+    <p>I will have my people contact yours and work out some kind of interview process. . . </p>
+    <closing>Damn you all to hell,</closing>
+    <signed>Tom Hanks</signed>
+    <metadata><source url="https://flashbak.com/tom-hanks-writes-great-letter-1934-smith-corona-typerwriter-58609/"/></metadata>
+</xml>
