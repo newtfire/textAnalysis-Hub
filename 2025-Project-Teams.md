@@ -36,14 +36,14 @@
 * [Sam Sebulak](https://github.com/sam-seb/) **
 
 
-## Gretta Van Fleet vs. Led Zeppelin
-[Project GitHub](https://github.com/afish2003/GrettaVanZeppelin)
+## Greta Van *Zeppelin*
+[Project GitHub](https://github.com/afish2003/GretaVanZeppelin)
 
-[Website](https://afish2003.github.io/GrettaVanZeppelin/)
-* [Ashlynn Allgeier](https://github.com/ashlynnallgeier) 
-* [Connor Carpenter](https://github.com/connorcarpenter13)
+[Website](https://afish2003.github.io/GretaVanZeppelin/)
 * [Alexander Fisher](https://github.com/afish2003) **
+* [Ashlynn Allgeier](https://github.com/ashlynnallgeier)
 * [Michael Simons](https://github.com/mrs7068)
+* [Connor Carpenter](https://github.com/connorcarpenter13)
 
 ## Pokemon Movesets
 [Project GitHub](https://github.com/everhagen-23/DIGIT210-PokemonMoves)
