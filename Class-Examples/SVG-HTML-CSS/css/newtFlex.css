@@ -7,15 +7,19 @@ color:black;
 section#overview {color:maroon; display: flex; justify-content:flex-start; flex-direction:row;}
 section#overview p {flex:1;}
 /* Here I'm creating a box to contain the image and I'll control its dimensions with flex. It is kind of a picture frame that can scale without distorting my image. */
-section#overview div#newt-size {flex:2;}
+section#overview div#newt-size {flex:4;}
 /* Now, I'm setting a specific size for the image sitting inside its special div box: */
 div#newt-size img {width:1000px;}
 
 /* The next CSS rules control my <section id="main"> and set up a list */
 section#main {display:flex; justify-content:flex-start; flex-direction:row;}
-section#main div#newtTank {flex:2}
-section#main div#newtTank img{width:300px;}
-section#overview ol {flex:3;}
+section#main div#newtTank {flex:5}
+section#main div#newtTank img
+{
+width:500px;
+
+}
+section#overview ol {flex:2;}
 ol li {padding:.5em;}
 /* My page has sublists nested inside the ordered list. They are <ul> elements sitting inside <li> elements.  I want to make those sublists sit *horizontally* and centered on a line instead of their default vertical layout, and I can use a flex container for that. */
 ol li ul {display:flex; justify-content:center; flex-direction:row;}

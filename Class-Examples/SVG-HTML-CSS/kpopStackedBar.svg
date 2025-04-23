@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 550" preserveAspectRatio="xMinYMin meet">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" preserveAspectRatio="xMinYMin meet">
       <!--ebb: Adding a viewBox and the preserveAspectRatio attributes -->
    <g transform="translate(80, 500)">
       <line x1="0" y1="0" x2="500" y2="0" stroke="indigo"/>
