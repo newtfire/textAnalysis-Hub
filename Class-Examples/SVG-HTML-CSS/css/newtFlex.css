@@ -1,0 +1,32 @@
+/* Here's my CSS associated with my newts.html page. I usually start styling the <body> element to set some basic styling to be *inherited* by all the elements nested inside the body. The body is the part of the HTML document that actually displays in the browser window, really the outermost box.  */
+body {background-color:#c5d3d3; font-family:serif; padding:3em;
+color:black;
+}
+/* Below we isolate <section id="top"> using CSS's shorthand. There's a longhand way to refer to elements and their attributes that also works, like this: section[id="top"] */
+/* The CSS rules below control the section overview box with the newt tank. */
+section#overview {color:maroon; display: flex; justify-content:flex-start; flex-direction:row;}
+section#overview p {flex:1;}
+/* Here I'm creating a box to contain the image and I'll control its dimensions with flex. It is kind of a picture frame that can scale without distorting my image. */
+section#overview div#newt-size {flex:4;}
+/* Now, I'm setting a specific size for the image sitting inside its special div box: */
+div#newt-size img {width:1000px;}
+
+/* The next CSS rules control my <section id="main"> and set up a list */
+section#main {display:flex; justify-content:flex-start; flex-direction:row;}
+section#main div#newtTank {flex:5}
+section#main div#newtTank img
+{
+width:500px;
+
+}
+section#overview ol {flex:2;}
+ol li {padding:.5em;}
+/* My page has sublists nested inside the ordered list. They are <ul> elements sitting inside <li> elements.  I want to make those sublists sit *horizontally* and centered on a line instead of their default vertical layout, and I can use a flex container for that. */
+ol li ul {display:flex; justify-content:center; flex-direction:row;}
+/* This next line is styling ONLY the innermost li elements. If I want all these to have the same size, I don't need to set flex numbers at all. The default is that each has a 1:1 value with the others.  */
+ol li ul li {padding-left:1em; padding-right:2em;} 
+/* In the rule above, I set some padding to give some space between the list items so they don't run together.  */
+li.example {background-color:lavender;}
+/* Above, I'm showing a CSS selector that reaches for a class attribute. I made two elements hold class="example" so I could try to highlight those with my CSS.  */
+/* You can use <code> elements in HTML to help isolate anything that represents code. Take a look at how I did mine in the HTML file with escape characters so I can display angle brackets without it interrupting my file. I'm going to give these a nice bright color:  */
+code {color:red;}

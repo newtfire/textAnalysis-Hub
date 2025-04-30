@@ -1,0 +1,4718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="hughesSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+<scriptInfo>
+        <title>The Breakfast Club</title>
+               written and directed by
+               <dir>John Hughes</dir>
+BLANK SCREEN:
+     Against Black, TITLE CARD:
+
+           <quote>"...and these children that you spit on,
+            as they try to change their worlds are
+           immune to your consultations.  They're
+         quite aware of what they're going through..."
+                                        - David Bowie</quote>
+
+     The Blank Screen and Title Card SHATTER to reveal...
+</scriptInfo>
+<script>
+        <scene>
+1. <loc ext="true">EXT. SHERMER HIGH SCHOOL - DAY</loc>
+     <narr>
+     During <char who="brian">Brian</char>'s monologue, we see various views of things
+     inside the school including <char who="bender">Bender</char>'s locker.</narr>
+
+                          <d who="brian" vo="true">BRIAN (VO)
+               Saturday...March 24, 1984.  Shermer
+               High School, Shermer, Illinois.
+               60062.  Dear Mr. <char who="vernon">Vernon</char>...we accept
+               the fact that we had to sacrifice a
+               whole Saturday in detention for
+               whatever it was that we did wrong,
+               what we did was wrong.  But we think
+               you're crazy to make us write this
+               essay telling you who we think we
+               are, what do you care?  You see us
+               as you want to see us...in the
+               simplest terms and the most
+               convenient definitions.  You see us
+               as a brain, an athelete, a basket
+               case, a princess and a criminal.
+               Correct?  That's the way we saw each
+               other at seven o'clock this morning.
+               We were brainwashed...</d>
+
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+2. <loc int="true">INT. CLAIRE'S CAR - DAY</loc>
+     <narr>
+     We see <char who="claire">CLAIRE</char> and her FATHER sitting in their car in the
+     parking lot.</narr>
+     <narr>
+     <char who="claire">Claire</char> is the prom queen and is clearly a snob.</narr>
+
+                            <d who="claire">CLAIRE
+               I can't believe you can't get me
+               out of this...I mean it's so absurd
+               I have to be here on a Saturday!
+               It's not like I'm a defective or
+               anything...</d>
+
+                       <d who="misc">CLAIRE'S FATHER
+               I'll make it up to you...Honey,
+               ditching class to go shopping
+               doesn't make you a defective.  Have
+               a good day.</d>
+
+     <narr>
+     <char who="claire">Claire</char> rolls her eyes and gets out of the car and walks
+     up the school front steps</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+3. <loc int="true">INT. BRIAN'S CAR - DAY</loc>
+     <narr>
+     We are in <char who="brian">BRIAN</char>'s car.  His MOTHER is there and so is
+     his little SISTER.  He is sort of a nerd.</narr>
+
+                        <d who="misc">BRIAN'S MOTHER
+               Is this the first time or the last
+               time we do this?</d>
+
+                            <d who="brian">BRIAN
+                    <desc>(upset)</desc>
+               Last...</d>
+
+                        <d who="misc">BRIAN'S MOTHER
+               Well get in there and use the time
+               to your advantage...</d>
+
+                            <d who="brian">BRIAN
+               Mom, we're not supposed to study; we
+               just have to sit there and do
+               nothing.</d>
+
+                        <d who="misc">BRIAN'S MOTHER
+               Well mister you figure out a way to
+               study.</d>
+
+                    <d who="misc">BRIAN'S LITTLE SISTER
+                    <desc>(annoyingly)</desc>
+               Yeah!</d>
+
+                        <d who="misc">BRIAN'S MOTHER
+               Well go!</d>
+
+     <narr>
+     <char who="brian">Brian</char> gets out of the car and walks towards the school.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+4. <loc int="true">INT. ANDREW'S CAR - DAY</loc>
+     <narr>
+     We see <char who="andrew">ANDREW</char> and his FATHER.  <char who="andrew">Andrew</char> is clearly a jock;
+     he's wearing a letterman's jacket with lots of patches on it.</narr>
+
+                       <d who="misc">ANDREW'S FATHER
+               Hey, I screwed around...guys screw
+               around, there's nothing wrong with
+               that.  Except you got caught, Sport.</d>
+
+                            <d who="andrew">ANDREW
+               Yeah, Mom already reemed me, alright?</d>
+
+                       <d who="misc">ANDREW'S FATHER
+                    <desc>(angry)</desc>
+               You wanna miss a match?  You wanna
+               blow your ride?  Now no school's
+               gonna give a scholarship to a
+               discipline case.</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> gets out of the car and walks into the school.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+5. <loc ext="true">EXT. SHERMER PARKING LOT - DAY</loc>
+     <narr>
+     We see <char who="bender">JOHN BENDER</char> walking towards us.  He is wearing
+     sunglasses.  A car is coming towards him but he doesn't
+     stop walking.</narr>
+     <narr>
+     The car slams on its breaks directly in front of him.</narr>
+     <narr>
+     <char who="bender">Bender</char> gets out of the frame.  Out of the car steps
+     <char who="allison">ALLISON</char>.  She is dressed all in black.  She steps
+     forward to look in the car's front window and the car
+     drives away.</narr>
+                                                 <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+6. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     There are six tables in two rows of three.
+     <char who="claire">Claire</char> is sitting at the front table.  <char who="brian">Brian</char> comes in
+     and sits at the table behind her.</narr>
+     <narr>
+     <char who="andrew">Andrew</char> comes in and points at the chair next to <char who="claire">Claire</char>
+     at the front table.  She shrugs and he sits there.</narr>
+     <narr>
+     In walks <char who="bender">Bender</char>, he touches everything on the checkout
+     desk and takes a few things in the process.</narr>
+     <narr>
+     He walks over to where <char who="brian">Brian</char> is sitting and points to
+     the table on the opposite side of the Library.  <char who="brian">Brian</char>
+     reluctantly gets up and moves.</narr>
+     <narr>
+     <char who="bender">Bender</char> sits at the table where <char who="brian">Brian</char> was and puts his
+     feet up.</narr>
+     <narr>
+     <char who="allison">Allison</char> walks in.  She walks all the way around the
+     library and sits in the back corner table, just behind
+     <char who="brian">Brian</char>.</narr>
+     <narr>
+     <char who="andrew">Andrew</char> and <char who="claire">Claire</char> look at each other and snicker.</narr>
+     <narr>
+     <char who="brian">Brian</char> looks at her in confusion and then turns away.</narr>
+     <narr>
+     Enter <char who="vernon">RICHARD VERNON</char>, a teacher.  He holds a stack
+     of papers in his left hand.  He addresses the group with
+     such disrespect it makes you wonder how he ever got the
+     job.</narr>
+
+                            <d who="vernon">VERNON
+               Well...well.  Here we are!  I want
+               to congradulate you for being on
+               time...</d>
+
+     <narr>
+     <char who="claire">Claire</char> raises her hand.</narr>
+
+                            <d who="claire">CLAIRE
+               Excuse me, sir?  I think there's
+               been a mistake.  I know it's
+               detention, but...um...I don't think
+               I belong in here...</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> doesn't care.  He just continues to talk.</narr>
+
+                            <d who="vernon">VERNON
+               It is now seven-oh-six.  You have
+               exactly eight hours and fifty-four
+               minutes to think about why you're
+               here.  To ponder the error of your
+               ways...</d>
+
+     <narr>
+     <char who="bender">Bender</char> spits into the air and catches the spit in his
+     mouth again.</narr>
+     <narr>
+     <char who="claire">Claire</char> looks like she is going to gag.</narr>
+
+                            <d who="vernon">VERNON
+               ...and you may not talk.  You will
+               not move from these seats.</d>
+
+     <narr>
+     He glances up at <char who="bender">Bender</char> and points at him.</narr>
+
+                            <d who="vernon">VERNON
+               ...and you...</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> pulls the chair out from under <char who="bender">Bender</char>'s feet.</narr>
+
+                            <d who="vernon">VERNON
+               ...will not sleep.  Alright people,
+               we're gonna try something a little
+               different today.  We are going to
+               write an essay--of no less than a
+               thousand words--describing to me
+               who you think you are.</d>
+
+                            <d who="bender">BENDER
+               Is this a test?</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> passes out paper and pencils and takes no notice
+     of <char who="bender">Bender</char>.</narr>
+
+                            <d who="vernon">VERNON
+               And when I say essay...I mean essay.
+               I do not mean a single word repeated
+               a thousand times.  Is that clear Mr.
+               <char who="bender">Bender</char>?</d>
+
+     <narr>
+     <char who="bender">Bender</char> looks up.</narr>
+
+                            <d who="bender">BENDER
+               Crystal...</d>
+
+                            <d who="vernon">VERNON
+               Good.  Maybe you'll learn a little
+               something about yourself.  Maybe
+               you'll even--decide whether or not
+               you care to return.</d>
+
+     <narr>
+     <char who="brian">Brian</char> raises his hand and then stands.</narr>
+
+                            <d who="brian">BRIAN
+               You know, I can answer that right
+               now sir...That'd be "No", no for me.
+               'cause...</d>
+
+                            <d who="vernon">VERNON
+               Sit down Johnson...</d>
+
+                            <d who="brian">BRIAN
+               Thank you sir...</d>
+
+     <narr>
+     He sits.</narr>
+
+                            <d who="vernon">VERNON
+               My office...</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> points.</narr>
+
+                            <d who="vernon">VERNON
+               ...is right across that hall.  Any
+               monkey business is ill-advised...</d>
+
+     <narr>
+     He looks around at them.</narr>
+
+                            <d who="vernon">VERNON
+               ...any questions?</d>
+
+                            <d who="bender">BENDER
+               Yeah...I got a question.</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> looks at him suspiciously.</narr>
+
+                            <d who="bender">BENDER
+               Does Barry Manilow know you raid his
+               wardrobe?</d>
+
+                            <d who="vernon">VERNON
+               I'll give you the answer to that
+               question, Mr. <char who="bender">Bender</char>, next Saturday.
+               Don't mess with the bull young man,
+               you'll get the horns.</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> leaves.</narr>
+
+                            <d who="bender">BENDER
+               That man...is a brownie hound...</d>
+
+     <narr>
+     Everyone tries to get comfortable and we hear a loud
+     snapping sound.  <char who="brian">Brian</char> turns and looks and it is
+     <char who="allison">Allison</char>, biting her nails.</narr>
+     <narr>
+     <char who="bender">Bender</char>'s eyes widen as he turns to look.  Everyone is
+     looking now.  <char who="allison">Allison</char> notices them looking at her.</narr>
+
+                            <d who="bender">BENDER
+               You keep eating your hand and you're
+               not gonna be hungry for lunch...</d>
+
+     <narr>
+     <char who="allison">Allison</char> spits part of her nail at <char who="bender">Bender</char>.</narr>
+
+                            <d who="bender">BENDER
+               I've seen you before, you know...</d>
+
+     <narr>
+     We see <char who="vernon">Vernon</char> look out from his office.</narr>
+     <narr>
+     We see <char who="brian">Brian</char> playing with his pen.</narr>
+
+                            <d who="brian">BRIAN
+                    <desc>(quietly to himself)</desc>
+               Who do I think I am?  Who are you?
+               Who are you?</d>
+
+     <narr>
+     He attaches the pen to his bottom lip and puts the top
+     under his upper lip.</narr>
+
+                            <d who="brian">BRIAN
+               I am a walrus...</d>
+
+     <narr>
+     <char who="bender">Bender</char> looks at him in utter confusion.  <char who="brian">Brian</char> notices
+     this, laughs and takes the pen out of his mouth--
+     embarrassed.</narr>
+     <narr>
+     <char who="bender">Bender</char> and <char who="brian">Brian</char> begin to take their jackets off at the
+     same time.  They both notice this.  <char who="brian">Brian</char> stops removing
+     his jacket.</narr>
+     <narr>
+     <char who="bender">Bender</char> takes his all the way off.  <char who="brian">Brian</char> rubs his hands
+     together and pretends to be cold.  He pulls his jacket
+     back on.  He turns and looks at <char who="bender">Bender</char> who is still
+     staring at him.</narr>
+
+                            <d who="brian">BRIAN
+               It's the shits, huh?</d>
+
+     <narr>
+     <char who="bender">Bender</char> glares at him and <char who="brian">Brian</char> utters an uncomfortable
+     laugh.</narr>
+     <narr>
+     <char who="bender">Bender</char> turns away and crumples up his essay paper.  He
+     throws it at <char who="claire">Claire</char>.  It misses and goes over <char who="claire">Claire</char>'s
+     head.</narr>
+     <narr>
+     <char who="andrew">Andrew</char> and <char who="claire">Claire</char> acknowlege it but continue to ignore
+     <char who="bender">Bender</char>.</narr>
+     <narr>
+     <char who="bender">Bender</char> starts loudly "singing" the musical part of a
+     song.  "Nah, nah, nah, nah, nah, nah...nah, nah, nah..."</narr>
+
+                            <d who="claire">CLAIRE
+                    <desc>(to herself)</desc>
+               I can't believe this is really
+               happening to me...</d>
+
+     <narr>
+     <char who="bender">Bender</char> stops "singing" abruptly.</narr>
+
+                            <d who="bender">BENDER
+               Oh, shit!  What're we s'posed to do
+               if we hafta take a piss?</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(disgusted)</desc>
+               Please...</d>
+
+                            <d who="bender">BENDER
+               If you gotta go...</d>
+
+     <narr>
+     We hear <char who="bender">Bender</char> unzip his fly.</narr>
+
+                            <d who="bender">BENDER
+               You gotta go!</d>
+
+     <narr>
+     Everyone is now looking at <char who="bender">Bender</char>.</narr>
+
+                            <d who="claire">CLAIRE
+                   <desc>(disgusted)</desc>
+               Oh my God!</d>
+
+                            <d who="andrew">ANDREW
+               Hey, yer not urinating in here man!</d>
+
+                            <d who="bender">BENDER
+               Don't talk!  Don't talk!  It makes
+               it crawl back up!</d>
+
+                            <d who="andrew">ANDREW
+               You whip it out and you're dead
+               before the first drop hits the
+               floor!</d>
+
+     <narr>
+     <char who="bender">Bender</char> gasps mockingly.</narr>
+
+                            <d who="bender">BENDER
+               You're pretty sexy when you get
+               angry...grrr!</d>
+
+     <narr>
+     He turns to <char who="brian">Brian</char>.</narr>
+
+                            <d who="bender">BENDER
+               Hey, homeboy...</d>
+
+     <narr>
+     <char who="brian">Brian</char> points at himself with his pen.</narr>
+
+                            <d who="bender">BENDER
+              ...why don't you go close that door.
+               We'll get the prom queen--
+               impregnated!</d>
+
+     <narr>
+     <char who="claire">Claire</char> turns and glares at him.</narr>
+
+                            <d who="andrew">ANDREW
+               Hey!</d>
+
+     <narr>
+     <char who="bender">Bender</char> ignores him.</narr>
+
+                            <d who="andrew">ANDREW
+               Hey!</d>
+               
+                          <d who="bender">BENDER
+               What?</d>
+
+                            <d who="andrew">ANDREW
+               If I lose my temper, you're totalled
+               man!</d>
+
+                            <d who="bender">BENDER
+               Totally?</d>
+
+                            <d who="andrew">ANDREW
+               Totally!</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(to <char who="bender">Bender</char>)</desc>
+               Why don't you just shut up!  Nobody
+               here is interested!</d>
+
+                            <d who="andrew">ANDREW
+               Really!
+                    <desc>(to <char who="claire">Claire</char> about <char who="bender">Bender</char>)</desc>
+               Buttface!</d>
+
+                            <d who="bender">BENDER
+               Well hey Sporto!  What'd you do to
+               get in here?  Forget to wash your
+               jock?</d>
+
+                            <d who="brian">BRIAN
+                    <desc>(nervous)</desc>
+               Uh, excuse me, fellas?  I think we
+               should just write our papers...</d>
+
+                            <d who="andrew">ANDREW
+                    <desc>(to <char who="bender">Bender</char>)</desc>
+               Look, just because you live in here
+               doesn't give you the right to be a
+               pain in the ass...so knock it off!</d>
+
+     <narr>
+     <char who="bender">Bender</char> mockingly registers pain in his face.</narr>
+
+                            <d who="bender">BENDER
+               It's a free country...</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(to <char who="andrew">Andrew</char>)</desc>
+               He's just doing it to get a rise out
+               of you!  Just ignore him...</d>
+
+                            <d who="bender">BENDER
+                    <desc>(to <char who="claire">Claire</char>)</desc>
+               Sweets...you couldn't ignore me if
+               you tried!</d>
+
+     <narr>
+     <char who="claire">Claire</char> rolls her eyes.</narr>
+
+                           <d who="bender">BENDER
+               So...so!
+                    <desc>(to <char who="andrew">Andrew</char> and <char who="claire">Claire</char>)</desc>
+               Are you guys like boyfriend/girl-
+               friend?
+                    <desc>(a beat)</desc>
+               Steady dates?
+                    <desc>(another beat)</desc>
+               Lo--vers?
+                    <desc>(another beat)</desc>
+               Come on Sporto, level with me.  Do
+               you slip her the hot...beef...
+               injection?</d>
+
+     <narr>
+     <char who="claire">Claire</char> and <char who="andrew">Andrew</char> turn to face <char who="bender">Bender</char>, both furious.</narr>
+
+                            <d who="claire">CLAIRE
+                    <desc>(screams)</desc>
+               Go to hell!</d>
+
+                            <d who="andrew">ANDREW
+                    <desc>(screams)</desc>
+               Enough!</d>
+
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+7. <loc int="true">INT. VERNON'S OFFICE - DAY</loc>
+     <narr>
+     We see <char who="vernon">Vernon</char> in his office.</narr>
+
+                            <d who="vernon">VERNON
+                    <desc>(yells)</desc>
+               Hey!  What's going on in there?
+                    <desc>(to himself)</desc>
+               Smug little pricks!</d>
+
+                                                  <narr>CUT TO:</narr>
+
+8. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     They all look at each other.  <char who="andrew">Andrew</char> turns away from
+     <char who="bender">Bender</char>.</narr>
+
+                            <d who="andrew">ANDREW
+                    <desc>(to himself)</desc>
+               Scumbag!</d>
+
+     <narr>
+     <char who="bender">Bender</char> stands up and walks over to the railing.  He sits
+     on it.</narr>
+
+                            <d who="bender">BENDER
+               What do you say we close that door.
+               We can't have any kind of party
+               with <char who="vernon">Vernon</char> checking us out every
+               few seconds.</d>
+
+                            <d who="brian">BRIAN
+               Well, you know the door's s'posed to
+               stay open...</d>
+
+                           <d who="bender">BENDER
+               So what?</d>
+
+                           <d who="andrew">ANDREW
+               So why don't you just shut up!
+               There's four other people in here
+               you know...</d>
+
+                            <d who="bender">BENDER
+               God, you can count.  See!  I knew
+               you had to be smart to be a...a
+               wrestler.</d>
+
+                            <d who="andrew">ANDREW
+               Who the hell are you to judge
+               anybody anyway?</d>
+
+                            <d who="claire">CLAIRE
+               Really...</d>
+
+                            <d who="andrew">ANDREW
+               You know, <char who="bender">Bender</char>...you don't even
+               count.  I mean if you disappeared
+               forever it wouldn't make any
+               difference.  You may as well not
+               even exist at this school.</d>
+
+     <narr>
+     <char who="bender">Bender</char> probably is upset at this and he pauses a moment
+     before speaking.  He doesn't let his emotions out,
+     however.</narr>
+
+                            <d who="bender">BENDER
+               Well...I'll just run right out and
+               join the wrestling team.</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> and <char who="claire">Claire</char> look at each other and laugh at
+     <char who="bender">Bender</char>.</narr>
+
+                            <d who="bender">BENDER
+                    <desc>(to <char who="claire">Claire</char>)</desc>
+               Maybe the prep club too!  Student
+               council...</d>
+
+                            <d who="andrew">ANDREW
+               No, they wouldn't take you.</d>
+
+                            <d who="bender">BENDER
+               I'm hurt.</d>
+
+                            <d who="claire">CLAIRE
+               You know why guys like you knock
+               everything...</d>
+
+                            <d who="bender">BENDER
+                    <desc>(to himself)</desc>
+               Oh, this should be stunning...</d>
+
+                            <d who="claire">CLAIRE
+               It's 'cause you're afraid.</d>
+
+                            <d who="bender">BENDER
+                    <desc>(with mock enthusiasm)</desc>
+               Oh, God!  You ritchies are so smart,
+               that's exactly why I'm not heavy in
+               activities!</d>
+
+                            <d who="claire">CLAIRE
+               You're a big coward!</d>
+
+     <narr>
+     <char who="brian">Brian</char> feels left out.</narr>
+
+                            <d who="brian">BRIAN
+                    <desc>(to no one imparticular)</desc>
+               I'm in the math club...</d>
+
+                            <d who="claire">CLAIRE
+               See you're afraid that they won't
+               take you.  You don't belong so you
+               just have to dump all over it...</d>
+
+                            <d who="bender">BENDER
+               Well...it wouldn't have anything to
+               do with you activities people being
+               assholes...now would it?</d>
+
+                            <d who="claire">CLAIRE
+               Well you wouldn't know...You don't
+               even know any of us.</d>
+
+                            <d who="bender">BENDER
+               Well, I don't know any lepers
+               either, but I'm not gonna run out
+               and join one of their fucking clubs.</d>
+
+                            <d who="andrew">ANDREW
+               Hey let's watch the mouth, huh?</d>
+
+     <narr>
+     <char who="brian">Brian</char> again feels he needs to contribute.</narr>
+
+                            <d who="brian">BRIAN
+               I'm in the physics club too...</d>
+
+                            <d who="bender">BENDER
+                    <desc>(to <char who="claire">Claire</char>)</desc>
+               S'cuse me a sec...
+                    <desc>(to <char who="brian">Brian</char>)</desc>
+               What are you babbling about?</d>
+
+                            <d who="brian">BRIAN
+               Well, what I said was...I'm in the
+               math club, the Latin club and the
+               physics club...physics club.</d>
+
+     <narr>
+     <char who="bender">Bender</char> nods and turns to <char who="claire">Claire</char>.</narr>
+
+                            <d who="bender">BENDER
+               Hey...Cherry...do you belong to the
+               physics club?</d>
+
+                            <d who="claire">CLAIRE
+               That's an academic club...</d>
+
+                            <d who="bender">BENDER
+               So?</d>
+
+                            <d who="claire">CLAIRE
+               So...academic clubs aren't the same
+               as other kinds of clubs.</d>
+
+                            <d who="bender">BENDER
+               Oh, but to dorks like him...</d>
+
+     <narr>
+     <char who="bender">Bender</char> points at <char who="brian">Brian</char>.</narr>
+
+                            <d who="bender">BENDER
+               ...they are.
+                    <desc>(to <char who="brian">Brian</char>)</desc>
+               What do you guys do in your club?</d>
+
+                            <d who="brian">BRIAN
+               In physics, um, we ah, we talk about
+               physics...about properties of physics.</d>
+
+                            <d who="bender">BENDER
+               So it's sorta social...demented and
+               sad, but social.  Right?</d>
+
+                            <d who="brian">BRIAN
+               Yeah, well, I guess you could
+               consider it a social situation.  I
+               mean there are other children in my
+               club and uh, at the end of the year
+               we have, um, you know, a big
+               banquet, at the, uh, at the Hilton.</d>
+
+                            <d who="bender">BENDER
+               You load up, you party...</d>
+
+                            <d who="brian">BRIAN
+               Well, no, we get dressed up...I
+               mean, but, we don't...we don't get
+               high.</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(to <char who="bender">Bender</char>)</desc>
+               Only burners like you get high...</d>
+
+                            <d who="brian">BRIAN
+               And, uh, I didn't have any shoes.
+               So I had to borrow my dad's.  It
+               was kinda weird 'cause my mom doesn't
+               like me to wear other people's
+               shoes.  And, uh, my cousin Kent...my
+               cousin Kendall from, uh, Indiana...
+               He got high once and you know, he
+               started eating like really weird
+               foods.  And uh, and then he just
+               felt like he didn't belong anywhere.
+               You know, kinda like, you know
+               "Twilight Zone" kinda.</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(laughs)</desc>
+                    <desc>(to <char who="bender">Bender</char>)</desc>
+               Sounds like you...</d>
+
+                            <d who="andrew">ANDREW
+               Look, you guys keep up your talking
+               and <char who="vernon">Vernon</char>'s gonna come right in
+               here...I got a meet this Saturday
+               and I'm not gonna miss it on account
+               of you boneheads...</d>
+
+                            <d who="bender">BENDER
+                    <desc>(to <char who="andrew">Andrew</char>)</desc>
+               Oh and wouldn't that be a bite...</d>
+
+     <narr>
+     <char who="bender">Bender</char> lets out a moan of fake agony.</narr>
+
+                            <d who="bender">BENDER
+               Missing a whole wrestling meet!</d>
+
+                            <d who="andrew">ANDREW
+               Well you wouldn't know anything
+               about it, faggot!  You never competed
+               in your whole life!</d>
+
+                            <d who="bender">BENDER
+                    <desc>(with mock hurt)</desc>
+               Oh, I know...I feel all empty inside
+               because of it.  I have such a deep
+               admiration for guys that roll around
+               on the floor with other guys!</d>
+
+                            <d who="andrew">ANDREW
+               Ahhh...you'd never miss it.  You
+               don't have any goals.</d>
+
+                            <d who="bender">BENDER
+               Oh, but I do!</d>
+
+                            <d who="andrew">ANDREW
+               Yeah?</d>
+
+                            <d who="bender">BENDER
+               I wanna be just--like--you!  I
+               figure all I need's a labotamy and
+               some tights!</d>
+
+     <narr>
+     <char who="brian">Brian</char> becomes interested.</narr>
+
+                            <d who="brian">BRIAN
+               You wear tights?</d>
+
+                            <d who="andrew">ANDREW
+                    <desc>(to <char who="brian">Brian</char>)</desc>
+               No I don't wear tights, I wear the
+               required uniform...</d>
+
+                            <d who="brian">BRIAN
+               Tights...</d>
+
+                            <d who="andrew">ANDREW
+                    <desc>(defensive)</desc>
+               Shut up!</d>
+
+     <narr>
+     They hear <char who="vernon">Vernon</char> moving around out in the hall so <char who="bender">Bender</char>
+     quickly comes and sits in the chair between <char who="claire">Claire</char> and
+     <char who="andrew">Andrew</char>.  He folds his hands on the table.
+     <char who="vernon">Vernon</char> goes back into his office.  <char who="bender">Bender</char> laughs and
+     gets up.  He starts walking towards the double doors
+     that separate the library from the hallway.</narr>
+
+                            <d who="brian">BRIAN
+               You know there's not s'posed to be
+               any monkey business!</d>
+
+     <narr>
+     <char who="bender">Bender</char> turns and points at <char who="brian">Brian</char>.</narr>
+
+                            <d who="bender">BENDER
+                    <desc>(in a stern voice)</desc>
+               Young man...have you finished your
+               paper?</d>
+
+     <narr>
+     <char who="bender">Bender</char> turns back away and goes to the door.  He looks
+     around cautiously and removes a screw from the door.</narr>
+
+                            <d who="claire">CLAIRE
+               What are you gonna do?</d>
+
+                            <d who="andrew">ANDREW
+               Drop dead, I hope!</d>
+
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+9. <loc int="true">INT. HALLWAY - DAY</loc>
+     <narr>
+     We see <char who="vernon">Vernon</char> getting a drink at the fountain. He stands
+     up and checks the way he looks in a mirror.  He does a
+     muscular pose and utters some manly jibberish �Cobadonga!�</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+10. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     <char who="brian">Brian</char> looks up.  <char who="bender">Bender</char> is messing with the door to the
+     library.</narr>
+
+                            <d who="brian">BRIAN
+               <char who="bender">Bender</char>, that's, that's school
+               property there...you know, it doesn't
+               belong to us.  It's something not to
+               be toyed with.</d>
+
+     <narr>
+     The door slams shut.  <char who="bender">Bender</char> runs back to his seat.</narr>
+
+                            <d who="andrew">ANDREW
+               That's very funny, come on, fix it!</d>
+
+                            <d who="brian">BRIAN
+               You should really fix that!</d>
+
+                            <d who="bender">BENDER
+               Am I a genius?</d>
+
+                            <d who="andrew">ANDREW
+               No, you're an asshole!</d>
+
+                            <d who="bender">BENDER
+               What a funny guy!</d>
+
+                            <d who="andrew">ANDREW
+               Fix the door <char who="bender">Bender</char>!</d>
+
+                            <d who="bender">BENDER
+               Everyone just shhh!</d>
+
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+11. <loc int="true">INT. HALLWAY - DAY</loc>
+     <narr>
+     We see <char who="vernon">Vernon</char> walking back to his office.  He stops and
+     listens to them through the closed door.</narr>
+
+                         <d who="bender" os="true">BENDER (OS)
+               I've been here before, I know what
+               I'm doing!</d>
+
+                         <d who="andrew" os="true">ANDREW (OS)
+               No!  Fix the door, get up there and
+               fix it!</d>
+
+                         <d who="bender" os="true">BENDER (OS)
+                    <desc>(screams)</desc>
+               Shut up!</d>
+
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+12. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     We see <char who="brian">Brian</char> as we hear <char who="vernon">Vernon</char> in the hall.</narr>
+
+                         <d who="vernon" os="true">VERNON (OS)
+               God damnit!</d>
+
+     <narr>
+     He opens the door and storms in.</narr>
+
+                            <d who="vernon">VERNON
+               Why is that door closed?</d>
+
+     <narr>
+     For a few seconds no one says anything, they just stare
+     at <char who="vernon">Vernon</char>.</narr>
+
+                            <d who="vernon">VERNON
+               Why is that door closed?</d>
+
+                            <d who="bender">BENDER
+               How're we s'posed to know?  We're
+               not s'posed to move, right?</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> turns to <char who="claire">Claire</char>.</narr>
+
+                            <d who="vernon">VERNON
+               Why?</d>
+
+                            <d who="claire">CLAIRE
+               We were just sitting here, like we
+               were s'posed to...</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> looks around and looks at <char who="bender">Bender</char>.</narr>
+
+                            <d who="vernon">VERNON
+               Who closed that door?</d>
+
+                            <d who="bender">BENDER
+               I think a screw fell out of it...</d>
+
+                            <d who="andrew">ANDREW
+               It just closed, sir...</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> looks at <char who="allison">Allison</char> in the back.</narr>
+
+                            <d who="vernon">VERNON
+               Who?</d>
+
+     <narr>
+     <char who="allison">Allison</char> lets out a squeak and slams her face onto the
+     table, hiding in her jacket hood.</narr>
+
+                            <d who="bender">BENDER
+               She doesn't talk, sir...</d>
+
+                            <d who="vernon">VERNON
+                    <desc>(to <char who="bender">Bender</char>)</desc>
+               Give me that screw...</d>
+
+                            <d who="bender">BENDER
+              I don't have it...</d>
+
+                            <d who="vernon">VERNON
+               You want me to yank you outta that
+               seat and shake it out of you?</d>
+
+                            <d who="bender">BENDER
+               I don't have it...screws fall out
+               all of the time, the world's an
+               imperfect place...</d>
+
+                            <d who="vernon">VERNON
+               Give it to me, <char who="bender">Bender</char>...</d>
+
+                            <d who="claire">CLAIRE
+               Excuse me, sir, why would anybody
+               want to steal a screw?</d>
+
+                            <d who="vernon">VERNON
+                    <desc>(to <char who="claire">Claire</char>)</desc>
+               Watch it, young lady...</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> goes over to the door.  He tries to hold it open
+     by putting a folding chair in front of it.</narr>
+
+                            <d who="bender">BENDER
+               The door's way too heavy, sir.</d>
+
+     <narr>
+     The door slams shut despite the chair.</narr>
+
+                         <d who="vernon" os="true">VERNON (OS)
+               God damnit!</d>
+
+     <narr>
+     They laugh.</narr>
+     <narr>
+     <char who="vernon">Vernon</char> opens the door again.  He comes back in.</narr>
+
+                            <d who="vernon">VERNON
+                    <desc>(pointing)</desc>
+               <char who="andrew">Andrew</char> Clark...get up here.  Come on,
+               front and center, let's go.</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> gets up and walks over to <char who="vernon">Vernon</char>.</narr>
+
+                            <d who="bender">BENDER
+               Hey, how come <char who="andrew">Andrew</char> gets to get up?
+               If he gets up, we'll all get up,
+               it'll be anarchy!</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> and <char who="andrew">Andrew</char> are now attempting to move the steel
+     magazine rack in front of the door.</narr>
+
+                            <d who="vernon">VERNON
+              Okay, now, watch the magazines!</d>
+
+                            <d who="bender">BENDER
+               It's out of my hands...</d>
+
+     <narr>
+     They get it into the doorway and it blocks the entire
+     door.</narr>
+
+                            <d who="bender">BENDER
+               That's very clever sir, but what if
+               there's a fire?  I think violating
+               fire codes and endangering the
+               lives of children would be unwise
+               at this juncture in your career, sir.</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> thinks about it.  He turns to <char who="andrew">Andrew</char>.</narr>
+
+                            <d who="vernon">VERNON
+               Alright, what are you doing with
+               this?  Get this outta here for God's
+               sake!  What's the matter with you?
+               Come on!</d>
+
+                            <d who="brian">BRIAN
+               You know the school comes equipped
+               with fire exits at either end of the
+               library.</d>
+
+     <narr>
+     <char who="brian">Brian</char> points at them and <char who="bender">Bender</char> glares at him.</narr>
+
+                            <d who="bender">BENDER
+                    <desc>(to <char who="brian">Brian</char>)</desc>
+               Show Dick some respect!</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> and <char who="vernon">Vernon</char> come back into the main section of
+     the library.</narr>
+
+                            <d who="vernon">VERNON
+                    <desc>(to <char who="andrew">Andrew</char>)</desc>
+               Let's go...go!  Get back into your
+               seat.</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> sits.</narr>
+
+                            <d who="vernon">VERNON
+                    <desc>(to <char who="andrew">Andrew</char>)</desc>
+               I expected a little more from a
+               varsity letterman!
+                    <desc>(to <char who="bender">Bender</char>)</desc>
+               You're not fooling anybody, <char who="bender">Bender</char>!
+               The next screw that falls out is
+               gonna be you!</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> turns to leave.</narr>
+
+                            <d who="bender">BENDER
+                    <desc>(under his breath)</desc>
+               Eat my shorts...</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> spins in his tracks and faces <char who="bender">Bender</char> again.</narr>
+
+                            <d who="vernon">VERNON
+               What was that?</d>
+
+                            <d who="bender">BENDER
+                    <desc>(loudly)</desc>
+               Eat my shorts!</d>
+
+                            <d who="vernon">VERNON
+               You just bought yourself another
+               Saturday, mister!</d>
+
+                            <d who="bender">BENDER
+               Oh, Christ...</d>
+
+                            <d who="vernon">VERNON
+               You just bought one more right
+               there!</d>
+
+                            <d who="bender">BENDER
+               Well, I'm free the Saturday after
+               that...beyond that, I'm gonna have
+               to check my calendar!</d>
+
+                            <d who="vernon">VERNON
+               Good!  'Cause it's gonna be filled,
+               we'll keep goin'!  You want another
+               one?  Say the word, just say the
+               word!  Instead of going to prison,
+               you'll come here!  Are you through.</d>
+
+                            <d who="bender">BENDER
+               No!</d>
+
+                            <d who="vernon">VERNON
+               I'm doing society a favor!</d>
+
+                            <d who="bender">BENDER
+               So?</d>
+
+                            <d who="vernon">VERNON
+               That's another one, right now!  I've
+               got you for the rest of your natural
+               born life if you don't watch your
+               step!  You want another one?</d>
+
+                            <d who="bender">BENDER
+               Yes!</d>
+
+                            <d who="vernon">VERNON
+               You got it!  You got another one,
+               right there!  That's another one
+               pal!</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(worried)</desc>
+               Cut it out!</d>
+
+     <narr>
+     <char who="claire">Claire</char> mouths the word "Stop" to <char who="bender">Bender</char>.</narr>
+
+                            <d who="vernon">VERNON
+               You through?</d>
+
+                            <d who="bender">BENDER
+               Not even close, bud!</d>
+
+                            <d who="vernon">VERNON
+               Good!  You got one more, right
+               there!</d>
+
+                            <d who="bender">BENDER
+               Do you really think I give a shit?</d>
+
+                            <d who="vernon">VERNON
+               Another...</d>
+
+     <narr>
+     <char who="bender">Bender</char> glares at him.</narr>
+
+                            <d who="vernon">VERNON
+               You through?</d>
+
+                            <d who="bender">BENDER
+               How many is that?</d>
+
+                            <d who="brian">BRIAN
+               That's seven including the one when
+               we first came in and you asked Mr.
+               <char who="vernon">Vernon</char> here whether Barry Manilow
+               knew that he raided his closet.</d>
+
+                            <d who="vernon">VERNON
+                    <desc>(to <char who="bender">Bender</char>)</desc>
+               Now it's eight...
+                    <desc>(to <char who="brian">Brian</char>)</desc>
+               You stay out of it!</d>
+
+                            <d who="brian">BRIAN
+               Excuse me, sir, it's seven!</d>
+
+                            <d who="vernon">VERNON
+               Shut up, Peewee!
+                    <desc>(to <char who="bender">Bender</char>)</desc>
+               You're mine <char who="bender">Bender</char>...for two months
+               I gotcha!  I gotcha!</d>
+
+                            <d who="bender">BENDER
+               What can I say?  I'm thrilled!</d>
+
+                            <d who="vernon">VERNON
+               Oh, I'm sure that's exactly what you
+               want these people to believe.  You
+               know something, <char who="bender">Bender</char>?  You ought
+               to spend a little more time trying
+               to do something with yourself and a
+               little less time trying to impress
+               people.  You might be better off.
+                    <desc>(to everyone)</desc>
+               Alright, that's it!  I'm going to
+               be right outside those doors.  The
+               next time I hafta come in here...I'm
+               cracking skulls!  <desc>(<char who="bender">Bender</char> mouths "I'm
+               cracking skulls")</desc></d>
+
+     <narr>
+     <char who="vernon">Vernon</char> leaves and closes the door.  A musical riff
+     builds to a climax as <char who="bender">Bender</char> screams.</narr>
+
+                            <d who="bender">BENDER
+                    <desc>(screams)</desc>
+               Fuck you!</d>
+
+     <narr>
+     We see the clock, it reads a quarter to eight.</narr>
+     <narr>
+     We see <char who="bender">Bender</char>, lighting his shoe on fire and lighting a
+     cigarette with his shoe.</narr>
+     <narr>
+     We see <char who="claire">Claire</char> thinking.</narr>
+     <narr>
+     We see <char who="brian">Brian</char> playing with his balls.</narr>
+     <narr>
+     We see <char who="andrew">Andrew</char> playing with his sweatshirt.</narr>
+     <narr>
+     We see <char who="allison">Allison</char> pulling a string around her finger and
+     making it turn purple.</narr>
+     <narr>
+     We see <char who="bender">Bender</char> put the flames on his shoe out.  He then
+     plays air guitar.</narr>
+     <narr>
+     We see <char who="allison">Allison</char> drawing.</narr>
+     <narr>
+     We see <char who="andrew">Andrew</char> playing paper football.  He cheers
+     silently.</narr>
+     <narr>
+     <char who="allison">Allison</char> shakes dandruff from her hair onto her picture.</narr>
+     <narr>
+     We see everyone fall asleep.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+13. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     Later.</narr>
+     <narr>
+     <char who="vernon">Vernon</char> is standing there staring at the sleeping kids.</narr>
+
+                            <d who="vernon">VERNON
+               Wake up!  Who has to go to the
+               lavatory?</d>
+
+     <narr>
+     Everyone raises their hands.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+14. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     Later.</narr>
+     <narr>
+     We see the clock, it now says 10:22.</narr>
+     <narr>
+     We see <char who="andrew">Andrew</char> stretching.  We see <char who="bender">Bender</char> tearing pages
+     out of a book.  He is tossing them around.</narr>
+
+                            <d who="andrew">ANDREW
+               That's real intelligent.</d>
+
+                            <d who="bender">BENDER
+               You're right...it's wrong to
+               destroy literature...</d>
+
+     <narr>
+     He continues to tear pages out.</narr>
+
+                            <d who="bender">BENDER
+               It's such fun to read...and, Molet
+               really pumps my nads!</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(pronouncing it correctly)</desc>
+               Mol-yare.</d>
+
+                            <d who="brian">BRIAN
+              I love his work.</d>
+
+     <narr>
+     <char who="bender">Bender</char> tosses the rest of the pages at <char who="brian">Brian</char>.  He picks
+     up the card catalogue drawer and begins to take cards
+     out.</narr>
+
+                            <d who="bender">BENDER
+               Big deal...nothing to do when you're
+               locked in a vacancy..</d>
+
+                           <d who="andrew">ANDREW
+               Speak for yourself...</d>
+
+                            <d who="bender">BENDER
+               Do you think I'd speak for you?  I
+               don't even know your language!</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> turns to <char who="claire">Claire</char>.</narr>
+
+                            <d who="andrew">ANDREW
+               Hey, you grounded tonight?</d>
+
+     <narr>
+     <char who="claire">Claire</char> shrugs.</narr>
+
+                            <d who="claire">CLAIRE
+               I don't know, my mom said I was but
+               by dad told me to just blow her off.</d>
+
+                            <d who="andrew">ANDREW
+               Big party at Stubbies, parents are
+               in Europe.  Should be pretty wild...</d>
+
+                            <d who="claire">CLAIRE
+               Yeah?</d>
+
+                            <d who="andrew">ANDREW
+               Yeah, can you go?</d>
+
+                            <d who="claire">CLAIRE
+               I doubt it...</d>
+
+                            <d who="andrew">ANDREW
+               How come?</d>
+
+                            <d who="claire">CLAIRE
+               Well 'cause if I do what my mother
+               tells me not to do, it's because
+               because my father says it's okay.
+               There's like this whole big monster
+               deal, it's endless and it's a total
+               drag.  It's like any minute...
+               divorce...</d>
+
+                            <d who="bender">BENDER
+               Who do you like better?</d>
+
+                            <d who="claire">CLAIRE
+               What?</d>
+
+                            <d who="bender">BENDER
+               You like your old man better than
+               your mom?</d>
+
+                            <d who="claire">CLAIRE
+               They're both strict.</d>
+
+                            <d who="bender">BENDER
+               No, I mean, if you had to choose
+               between them.</d>
+
+                            <d who="claire">CLAIRE
+               I dunno, I'd probably go live with
+               my brother.  I mean, I don't think
+               either one of them gives a shit
+               about me...it's like they use me
+               just to get back at each other.</d>
+
+     <narr>
+     Suddenly, from the back of the room.  <char who="allison">Allison</char> speaks.</narr>
+
+                           <d who="allison">ALLISON
+                    <desc>(loudly)</desc>
+               Ha!!!</d>
+
+     <narr>
+     Everyone looks at her shocked.  <char who="allison">Allison</char> blows her hair
+     out of her eyes and grins.</narr>
+
+                            <d who="claire">CLAIRE
+               Shut up!</d>
+
+                            <d who="andrew">ANDREW
+               You're just feeling sorry for
+               yourself...</d>
+
+                            <d who="claire">CLAIRE
+               Yeah, well if I didn't nobody else
+               would.</d>
+
+                            <d who="andrew">ANDREW
+               Aw...you're breaking my heart...</d>
+
+                            <d who="bender">BENDER
+               Sporto...</d>
+
+                            <d who="andrew">ANDREW
+               What?</d>
+
+     <narr>
+     <char who="bender">Bender</char> jumps down and goes next to <char who="andrew">Andrew</char>.</narr>
+
+                            <d who="bender">BENDER
+               You get along with your parents?</d>
+
+                            <d who="andrew">ANDREW
+               Well if I say yes, I'm an idiot,
+               right?</d>
+
+                            <d who="bender">BENDER
+               You're an idiot anyway...But if you
+               say you get along with your parents
+               well you're a liar too!</d>
+
+     <narr>
+     <char who="bender">Bender</char> turns and walks away from him.  <char who="andrew">Andrew</char> follows
+     and pushes <char who="bender">Bender</char>.</narr>
+
+                            <d who="andrew">ANDREW
+               You know something, man...If we
+               weren't in school right now, I'd
+               waste you!</d>
+
+     <narr>
+     <char who="bender">Bender</char> points his middle finger at the floor.</narr>
+
+                            <d who="bender">BENDER
+               Can you hear this?  Want me to turn
+               it up?</d>
+
+     <narr>
+     <char who="bender">Bender</char> flips his hand around so he is now giving <char who="andrew">Andrew</char>
+     the bird.</narr>
+     <narr>
+     <char who="brian">Brian</char> comes over and puts a hand on each of the guy's
+     shoulders.</narr>
+
+                            <d who="brian">BRIAN
+               Hey fellas, I mean...</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> pushes away from <char who="brian">Brian</char>.</narr>
+
+                            <d who="brian">BRIAN
+               ...I don't like my parents either,
+               I don't...I don't get along with
+               them...their idea of parental
+               compassion is just, you know, wacko!</d>
+
+     <narr>
+     <char who="bender">Bender</char> turns to <char who="brian">Brian</char>.</narr>
+
+                            <d who="bender">BENDER
+               Dork...</d>
+
+                            <d who="brian">BRIAN
+              Yeah?</d>
+
+                            <d who="bender">BENDER
+               You are a parent's wet dream, okay?</d>
+
+     <narr>
+     <char who="bender">Bender</char> starts to walk away.</narr>
+
+                            <d who="brian">BRIAN
+               Well that's a problem!</d>
+
+                            <d who="bender">BENDER
+               Look, I can see you getting all
+               bunged up for them making you wear
+               these kinda clothes.  But face it,
+               you're a Neo-Maxi-Zoom-Dweebie!
+               What would you be doing if you
+               weren't out making yourself a better
+               citizen?</d>
+
+                            <d who="andrew">ANDREW
+               Why do you have to insult everybody?</d>
+
+                            <d who="bender">BENDER
+               I'm being honest, asshole!  I would
+               expect you...to know the difference!</d>
+
+                            <d who="andrew">ANDREW
+               Yeah well, he's gotta name!</d>
+
+                            <d who="bender">BENDER
+               Yeah?</d>
+
+                            <d who="andrew">ANDREW
+               Yeah,
+                    <desc>(to <char who="brian">Brian</char>)</desc>
+               What's your name?</d>
+
+                            <d who="brian">BRIAN
+               <char who="brian">Brian</char>...</d>
+
+                            <d who="andrew">ANDREW
+               See...</d>
+
+                            <d who="bender">BENDER
+                    <desc>(to <char who="brian">Brian</char>)</desc>
+               My condolences...</d>
+
+     <narr>
+     <char who="bender">Bender</char> walks away.</narr>
+
+                            <d who="claire">CLAIRE
+                    <desc>(to <char who="bender">Bender</char>)</desc>
+               What's your name?</d>
+
+                            <d who="bender">BENDER
+               What's yours?</d>
+
+                            <d who="claire">CLAIRE
+               <char who="claire">Claire</char>...</d>
+
+                            <d who="bender">BENDER
+               Ka-Laire?</d>
+
+                            <d who="claire">CLAIRE
+               <char who="claire">Claire</char>...it's a family name!</d>
+
+                            <d who="bender">BENDER
+               Nooo...It's a fat girl's name!</d>
+
+                            <d who="claire">CLAIRE
+               Well thank you...</d>
+
+                            <d who="bender">BENDER
+               You're welcome...</d>
+
+                            <d who="claire">CLAIRE
+               I'm not fat!</d>
+
+                            <d who="bender">BENDER
+               Well not at present but I could see
+               you really pushing maximum density!
+               You see, I'm not sure if you know
+               this...but there are two kinds of
+               fat people.  There's fat people that
+               were born to be fat, and then there's
+               fat people that were once thin but
+               they became fat...so when you look
+               at them you can sorta see that thin
+               person inside!  You see, you're
+               gonna get married, you're gonna
+               squeeze out a few puppies and then,
+               uh...</d>
+
+     <narr>
+     He mimes becoming fat, making noises.</narr>
+     <narr>
+     <char who="claire">Claire</char> gives him the finger.</narr>
+
+                            <d who="bender">BENDER
+               Oh...obscene finger gestures from
+               such a pristine girl!</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(resentfully)</desc>
+               I'm not that pristine!</d>
+
+     <narr>
+     <char who="bender">Bender</char> bends down closer to <char who="claire">Claire</char>.</narr>
+
+                            <d who="bender">BENDER
+               Are you a virgin?
+                    <desc>(a beat)</desc>
+               I'll bet you a million dollars that
+               you are!  Let's end the suspense!
+               Is it gonna be...
+                    <desc>(another beat)</desc>
+               ...a white weddin?</d>
+
+                            <d who="claire">CLAIRE
+               Why don't you just shut up?</d>
+
+                            <d who="bender">BENDER
+               Have you ever kissed a boy on the
+               mouth?
+                    <desc>(a beat)</desc>
+               Have you ever been felt up?  Over
+               the bra, under the blouse, shoes
+               off...hoping to God your parents
+               don't walk in?</d>
+
+     <narr>
+     <char who="claire">Claire</char> is getting upset.</narr>
+
+                            <d who="claire">CLAIRE
+               Do you want me to puke?</d>
+
+                            <d who="bender">BENDER
+               Over the panties, no bra, blouse
+               unbuttoned, Calvin's in a ball on
+               the front seat past eleven on a
+               school night?</d>
+
+                            <d who="andrew">ANDREW
+               Leave her alone!</d>
+
+     <narr>
+     <char who="bender">Bender</char> slowly stands and faces <char who="andrew">Andrew</char>.</narr>
+
+                            <d who="andrew">ANDREW
+               I said leave her alone!</d>
+
+                            <d who="bender">BENDER
+               You gonna make me?</d>
+
+                            <d who="andrew">ANDREW
+               Yeah...</d>
+
+     <narr>
+     <char who="bender">Bender</char> walks over to where <char who="andrew">Andrew</char> is standing.</narr>
+
+                            <d who="bender">BENDER
+               You and how many of your friends?</d>
+
+                            <d who="andrew">ANDREW
+               Just me, just you and me.  Two hits.
+               Me hitting you, you hitting the
+               floor!  Anytime you're ready, pal!</d>
+
+     <narr>
+     <char who="bender">Bender</char> goes to hit him but <char who="andrew">Andrew</char> gets <char who="bender">Bender</char> down on
+     the ground with a wrestling move.</narr>
+
+                            <d who="bender">BENDER
+               I don't wanna get into to this with
+               you man...</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> gets up.</narr>
+
+                            <d who="andrew">ANDREW
+               Why not?</d>
+
+     <narr>
+     <char who="bender">Bender</char> gets up.</narr>
+
+                            <d who="bender">BENDER
+               'Cause I'd kill you...It's real simple.
+               I'd kill you and your fucking parents
+               would sue me and it would be a big
+               mess and I don't care enough about
+               you to bother.</d>
+
+                            <d who="andrew">ANDREW
+               Chicken shit...</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> turns and walks away.  <char who="bender">Bender</char> takes out a
+     switchblade and opens it.</narr>
+     <narr>
+     He stabs the switchblade into a chair.</narr>
+
+                            <d who="andrew">ANDREW
+               Let's end this right now.  You don't
+               talk to her...you don't look at her
+               and you don't even think about her!
+               You understand me?</d>
+
+                            <d who="bender">BENDER
+               I'm trying to help her!.</d>
+
+     <narr>
+     We see the janitor, <char who="carl">CARL</char> come into the room.</narr>
+
+                             <d who="carl">CARL
+               <char who="brian">Brian</char>, how you doing?</d>
+
+                            <d who="bender">BENDER
+               Your dad works here?</d>
+
+     <narr>
+     <char who="brian">Brian</char> is embarrassed.</narr>
+
+                            <d who="bender">BENDER
+               Uh, <char who="carl">Carl</char>?</d>
+
+                             <d who="carl">CARL
+               What?</d>
+
+                            <d who="bender">BENDER
+               Can I ask you a question?</d>
+
+                             <d who="carl">CARL
+               Sure...</d>
+
+                            <d who="bender">BENDER
+               How does one become a janitor?</d>
+
+                             <d who="carl">CARL
+               You wanna be a janitor?</d>
+
+                            <d who="bender">BENDER
+               No I just wanna know how one becomes
+               a janitor because <char who="andrew">Andrew</char> here, is
+               very interested in persuing a
+               career in the custodial arts...</d>
+
+                             <d who="carl">CARL
+               Oh, really?  You guys think I'm
+               just some untouchable peasant?  Peon?
+               Huh?  Maybe so, but following
+               a broom around after shitheads like
+               you for the past eight years I've
+               learned a couple of things...I look
+               through your letters, I look through
+               your lockers...I listen to your
+               conversations, you don't know that
+               but I do...I am the eyes and ears of
+               this institution my friends.  By the
+               way, that clock's twenty minutes
+               fast!</d>
+
+     <narr>
+     Everyone groans.  <char who="bender">Bender</char> smiles.</narr>
+
+                            <d who="andrew">ANDREW
+               Shit!</d>
+
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+15. <loc int="true">INT. VERNON'S OFFICE - DAY</loc>
+     <narr>
+     The clock says 11:30.  <char who="vernon">Vernon</char> gets up and leaves.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+16. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     <char who="bender">Bender</char> starts to whistle a marching tune and everybody
+     joins in.</narr>
+     <narr>
+     <char who="vernon">Vernon</char> enters.  <char who="bender">Bender</char> begins to whistle Beethoven's
+     5th.</narr>
+
+                            <d who="vernon">VERNON
+               Allright girls, that's thirty
+               minutes for lunch...</d>
+
+                            <d who="andrew">ANDREW
+               Here?</d>
+
+                            <d who="vernon">VERNON
+               Here...</d>
+
+                            <d who="andrew">ANDREW
+               Well I think the cafeteria would be
+               a more suitable place for us to eat
+               lunch in, sir!</d>
+
+                            <d who="vernon">VERNON
+               Well, I don't care what you think,
+               <char who="andrew">Andrew</char>!</d>
+
+                            <d who="bender">BENDER
+               Uh, Dick?  Excuse me, Rich...will
+               milk be made available to us?</d>
+
+                            <d who="andrew">ANDREW
+               We're extremely thirsty sir...</d>
+
+                            <d who="claire">CLAIRE
+               I have a very low tolerance for
+               dehydration.</d>
+
+                            <d who="andrew">ANDREW
+               I've seen her dehydrate sir, it's
+               pretty gross.</d>
+
+     <narr>
+     <char who="bender">Bender</char> stands.</narr>
+
+                            <d who="bender">BENDER
+               Relax, I'll get it!</d>
+
+                            <d who="vernon">VERNON
+               Ah, ah, ah grab some wood there, bub!</d>
+
+     <narr>
+     <char who="bender">Bender</char> grins.</narr>
+
+                            <d who="vernon">VERNON
+               What do you think, I was born
+               yesterday?  You think I'm gonna
+               have you roaming these halls?</d>
+
+     <narr>
+     He points at <char who="andrew">Andrew</char>.</narr>
+
+                            <d who="vernon">VERNON
+               You!</d>
+
+     <narr>
+     He points at <char who="allison">Allison</char>.</narr>
+
+                            <d who="vernon">VERNON
+               And you!  Hey!  What's her name?
+               Wake her!  Wake her up!
+                    <desc>(to <char who="allison">Allison</char>)</desc>
+               Come on, on your feet missy!  Let's
+               go!  This is no rest home!</d>
+
+     <narr>
+     <char who="allison">Allison</char> gets up.</narr>
+
+                            <d who="vernon">VERNON
+               There's a soft drink machine in the
+               teacher's lounge.  Lets go!</d>
+
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+16. <loc int="true">INT. HALLWAY - DAY</loc>
+     <narr>
+     <char who="andrew">Andrew</char> and <char who="allison">Allison</char> are walking in the hall.</narr>
+
+                            <d who="andrew">ANDREW
+               So, what's your poison?</d>
+
+     <narr>
+     <char who="allison">Allison</char> doesn't answer.</narr>
+
+                            <d who="andrew">ANDREW
+               What do you drink?</d>
+
+     <narr>
+     <char who="allison">Allison</char> still doesn't answer.</narr>
+
+                            <d who="andrew">ANDREW
+               Okay...forget I asked...</d>
+
+     <narr>
+     <char who="allison">Allison</char> waits for two beats and then speaks.</narr>
+
+                           <d who="allison">ALLISON
+               Vodka...</d>
+
+                            <d who="andrew">ANDREW
+               Vodka?  When do you drink vodka?</d>
+
+                           <d who="allison">ALLISON
+               Whenever...</d>
+
+                            <d who="andrew">ANDREW
+              A lot?</d>
+
+     <narr>
+     <char who="allison">Allison</char> smiles.</narr>
+
+                           <d who="allison">ALLISON
+               Tons...</d>
+
+                            <d who="andrew">ANDREW
+               Is that why you're here today?</d>
+
+     <narr>
+     <char who="allison">Allison</char> doesn't answer.</narr>
+
+                            <d who="andrew">ANDREW
+               Why are you here?</d>
+
+     <narr>
+     <char who="allison">Allison</char> snaps back.</narr>
+
+                           <d who="allison">ALLISON
+               Why are you here?</d>
+
+     <narr>
+     They stop walking and <char who="andrew">Andrew</char> leans against the wall.</narr>
+
+                            <d who="andrew">ANDREW
+               Um, I'm here today...because uh,
+               because my coach and my father don't
+               want me to blow my ride.  See I get
+               treated differently because uh,
+               Coach thinks I'm a winner.  So does
+               my old man.  I'm not a winner
+               because I wanna be one... I'm a
+               winner because I got strength and
+               speed.  Kinda like a race horse.
+               That's about how involved I am in
+               what's happening to me.</d>
+
+                           <d who="allison">ALLISON
+               Yeah?  That's very interesting.
+               Now why don't you tell me why you're
+               really in here.</d>
+
+                            <d who="andrew">ANDREW
+               Forget it!</d>
+
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+17. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     <char who="claire">Claire</char> and <char who="bender">Bender</char> and <char who="brian">Brian</char> are all sitting around
+     waiting for the Cokes.</narr>
+
+                            <d who="bender">BENDER
+               <char who="claire">Claire</char>...you wanna see a picture of
+               a guy with elephantitus of the nuts?
+               It's pretty tasty...</d>
+
+                            <d who="claire">CLAIRE
+               No thank you...</d>
+
+                            <d who="bender">BENDER
+               How do you think he rides a bike?</d>
+
+     <narr>
+     <char who="claire">Claire</char> rolls her eyes and turns away in disgust.</narr>
+
+                            <d who="bender">BENDER
+               Oh, <char who="claire">Claire</char>...would you ever consider
+               dating a guy like this?</d>
+
+                            <d who="claire">CLAIRE
+               Can't you just leave me alone?</d>
+
+                            <d who="bender">BENDER
+               I mean if he had a great personality
+               and was a good dancer and had a cool
+               car...Although you'd probably have
+               to ride in the back seat 'cause his
+               nuts would ride shotgun.</d>
+
+                            <d who="claire">CLAIRE
+               You know what I wish I was doing?</d>
+
+                            <d who="bender">BENDER
+               Op, watch what you say, <char who="brian">Brian</char> here
+               is a cherry.</d>
+
+                            <d who="brian">BRIAN
+               A cherry?</d>
+
+                            <d who="claire">CLAIRE
+               I wish I was on a plane to France.</d>
+
+                            <d who="brian">BRIAN
+               I'm not a cherry.</d>
+
+                            <d who="bender">BENDER
+                    <desc>(to <char who="brian">Brian</char>)</desc>
+               When have you ever gotten laid?</d>
+
+                            <d who="brian">BRIAN
+               I've laid, lotsa times!</d>
+
+                            <d who="bender">BENDER
+               Name one!</d>
+
+                            <d who="brian">BRIAN
+               She lives in Canada, met her at
+               Niagra Falls.  You wouldn't know
+               her.</d>
+
+                            <d who="bender">BENDER
+               Ever laid anyone around here.</d>
+
+     <narr>
+     <char who="brian">Brian</char> shushes <char who="bender">Bender</char> and points at <char who="claire">Claire</char> whos back is
+     still turned.</narr>
+
+                            <d who="brian">BRIAN
+                    Oh, you and <char who="claire">Claire</char>, did it!</d>
+
+     <narr>
+     <char who="claire">Claire</char> spins around.</narr>
+
+                            <d who="claire">CLAIRE
+              What are you talking about?</d>
+
+                            <d who="brian">BRIAN
+                    <desc>(to <char who="claire">Claire</char>)</desc>
+               Nothin', nothin!
+                    <desc>(to <char who="bender">Bender</char>)</desc>
+               Let's just drop it, we'll talk about
+               it later!</d>
+
+                            <d who="claire">CLAIRE
+               No!  Drop what, what're you talking
+               about?</d>
+
+                            <d who="bender">BENDER
+               Well, <char who="brian">Brian</char>'s trying to tell me that
+               in addition to the number of girls
+               in the Niagra Falls area, that
+               presently you and he are, riding
+               the hobby horse!</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(to <char who="brian">Brian</char>)</desc>
+               Little pig!</d>
+
+                            <d who="brian">BRIAN
+               No I'm not!  I'm not!  John said I
+               was a cherry and I said I wasn't,
+               that's it, that's all that was said!</d>
+
+                            <d who="bender">BENDER
+               Well then what were you motioning to
+               <char who="claire">Claire</char> for?</d>
+
+                            <d who="claire">CLAIRE
+               You know I don't appreciate this
+               very much, <char who="brian">Brian</char>.</d>
+
+                            <d who="brian">BRIAN
+               He is lying!</d>
+
+                            <d who="bender">BENDER
+               Oh you weren't motioning to <char who="claire">Claire</char>?</d>
+
+                            <d who="brian">BRIAN
+               You know he's lying, right?</d>
+
+                            <d who="bender">BENDER
+               Were you or were you not motioning
+               to <char who="claire">Claire</char>?</d>
+
+                            <d who="brian">BRIAN
+               Yeah, but it was only...was only
+               because I didn't want her to know
+               that I was a virgin, okay?</d>
+
+     <narr>
+     <char who="bender">Bender</char> just stares at him.</narr>
+
+                            <d who="brian">BRIAN
+               Excuse me for being a virgin, I'm
+               sorry...</d>
+
+     <narr>
+     <char who="claire">Claire</char> laughs.</narr>
+
+                            <d who="claire">CLAIRE
+               Why didn't you want me to know you
+               were a virgin?</d>
+
+                            <d who="brian">BRIAN
+               Because it's personal business, it's
+               my personal, private business.</d>
+
+                            <d who="bender">BENDER
+               Well <char who="brian">Brian</char>, it doesn't sound like
+               you're doing any business...</d>
+
+                            <d who="claire">CLAIRE
+               I think it's okay for a guy to be a
+               virgin...</d>
+
+     <narr>
+     <char who="bender">Bender</char> looks suprised.</narr>
+
+                            <d who="brian">BRIAN
+               You do?</d>
+
+     <narr>
+     <char who="claire">Claire</char> smiles and nods.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+18.  <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     Later.</narr>
+     <narr>
+     Everybody has lunches now.</narr>
+     <narr>
+     <char who="claire">Claire</char> begins to take hers out of a small shopping bag.</narr>
+
+                            <d who="bender">BENDER
+               What's in there?</d>
+
+                            <d who="claire">CLAIRE
+               Guess, where's your lunch?</d>
+
+                            <d who="bender">BENDER
+               You're wearing it...</d>
+
+                            <d who="claire">CLAIRE
+               You're nauseating...</d>
+
+     <narr>
+     <char who="bender">Bender</char> grabs a Coke and tosses it over to <char who="allison">Allison</char> who
+     catches it without even looking up.</narr>
+     <narr>
+     <char who="bender">Bender</char> then watches <char who="claire">Claire</char> set up a sushi platter.</narr>
+
+                            <d who="bender">BENDER
+               What's that?</d>
+
+                            <d who="claire">CLAIRE
+               Sushi...</d>
+
+                            <d who="bender">BENDER
+               Sushi?</d>
+
+                            <d who="claire">CLAIRE
+               Rice, uh, raw fish and seaweed.</d>
+
+                            <d who="bender">BENDER
+               You won't accept a guys tongue in
+               your mouth and you're gonna eat
+               that?</d>
+
+                            <d who="claire">CLAIRE
+               Can I eat?</d>
+
+                            <d who="bender">BENDER
+               I don't know...give it a try...</d>
+
+     <narr>
+     We now watch <char who="andrew">Andrew</char> take a couple sandwiches out of his
+     bag, a bag of potato chips, an apple, a banana, a bag
+     of cookies and a carton of milk.</narr>
+     <narr>
+     <char who="allison">Allison</char> opens her Coke and it fizzes over.  She loudly
+     slurps it up off the table and her fingers.</narr>
+     <narr>
+     <char who="andrew">Andrew</char> sees <char who="bender">Bender</char> looking at him.</narr>
+
+                            <d who="andrew">ANDREW
+               What's your problem?</d>
+
+     <narr>
+     <char who="allison">Allison</char> opens her sandwich and and tosses the meat up.
+     It lands on the sculpture above.</narr>
+     <narr>
+     She opens some pixie stix and pours the sugar on the
+     sandwich and then puts Cap'n Crunch on top of that.
+     She crushes the sandwich together and loudly eats it.</narr>
+     <narr>
+     <char who="bender">Bender</char> goes over and sits by <char who="brian">Brian</char>, <char who="bender">Bender</char> takes
+     <char who="brian">Brian</char>'s bag lunch.</narr>
+
+                            <d who="bender">BENDER
+               What're we having?</d>
+
+                            <d who="brian">BRIAN
+               Uh, it's your standard, regular
+               lunch I guess...</d>
+
+     <narr>
+     <char who="bender">Bender</char> reaches in the bag and pulls out a thermos.  He
+     sets it on the table and points at it.</narr>
+
+                            <d who="bender">BENDER
+               Milk?</d>
+
+                            <d who="brian">BRIAN
+               Soup.</d>
+
+     <narr>
+     <char who="bender">Bender</char> goes in again and pulls out a juice box.
+     <char who="brian">Brian</char> reaches toward the bag and <char who="bender">Bender</char> slaps his hand.</narr>
+
+                            <d who="brian">BRIAN
+               That's apple juice...</d>
+
+                            <d who="bender">BENDER
+               I can read!  PB &amp; J with the crusts
+               cut off...Well <char who="brian">Brian</char>, this is a
+               very nutritous lunch, all the food
+               groups are represented.  Did your
+               mom marry Mr. Rogers?</d>
+
+                            <d who="brian">BRIAN
+               Uh, no, Mr. Johnson...</d>
+
+                            <d who="bender">BENDER
+               Ahhh....</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> and <char who="claire">Claire</char> smile at each other.  <char who="bender">Bender</char> stands.</narr>
+
+                            <d who="bender">BENDER
+               Here's my impression of life at big
+               Bri's house...
+                    <desc>(in a loud and friendly voice)</desc>
+               Son!
+                    <desc>(in a kiddie voice)</desc>
+               Yeah Dad?
+                    <desc>(loud)</desc>
+               How's your day, pal?
+                    <desc>(kiddie)</desc>
+               Great Dad, how's yours?
+                    <desc>(loud)</desc>
+               Super, say son, how'd you like to go
+               fishing this weekend?
+                    <desc>(kiddie)</desc>
+               Great Dad, but I've got homework to
+               do!
+                    <desc>(loud)</desc>
+               That's alright son, you can do it,
+               on the boat!
+                    <desc>(kiddie)</desc>
+               Geee!!!
+                    <desc>(loud)</desc>
+               Dear, isn't our son swell?
+                    <desc>(quiet and motherly)</desc>
+               Yes Dear, isn't life swell?</d>
+
+     <narr>
+     <char who="bender">Bender</char> mimes mother kissing father and then father
+     kissing mother and then father punching mother in the
+     face.</narr>
+     <narr>
+     Suddenly it's not so funny anymore.</narr>
+
+                            <d who="andrew">ANDREW
+               Alright, what about your family?</d>
+
+                            <d who="bender">BENDER
+               Oh, mine?</d>
+
+                            <d who="andrew">ANDREW
+               That's real easy!</d>
+
+     <narr>
+     <char who="bender">Bender</char> stands again and points forward.</narr>
+
+                            <d who="bender">BENDER
+                    <desc>(as his father)</desc>
+               Stupid, worthless, no good, God
+               damned, freeloading, son of a bitch,
+               retarded, bigmouth, know it all,
+               asshole, jerk!
+                       <desc>(as his mother)</desc>
+               You forgot ugly, lazy and
+               disrespectful.</d>
+
+     <narr>
+     <char who="bender">Bender</char> slams his hand back to slap his invisable
+     mother.</narr>
+
+                            <d who="bender">BENDER
+                    <desc>(as his father)</desc>
+               Shut up bitch!  Go fix me a turkey
+               pot pie!
+                    <desc>(as himself)</desc>
+               What about you Dad?
+                    <desc>(as his father)</desc>
+               Fuck you!
+                    <desc>(as himself)</desc>
+               No, Dad, what about you?
+                    <desc>(as his father)</desc>
+               Fuck you!
+                    <desc>(as himself--yelling)</desc>
+               No, Dad, what about you?
+                    <desc>(as his father--yelling)</desc>
+               Fuck you!</d>
+
+     <narr>
+     He reaches out and pretend he's his father hitting him.</narr>
+
+                            <d who="brian">BRIAN
+               Is that for real?</d>
+
+                            <d who="bender">BENDER
+                    <desc>(to <char who="brian">Brian</char>)</desc>
+               You wanna come over sometime?</d>
+
+                            <d who="andrew">ANDREW
+               That's bullshit.  It's all part of
+               your image, I don't believe a word
+               of it.</d>
+
+     <narr>
+     <char who="bender">Bender</char> actually looks hurt.</narr>
+
+                     <d who="bender">BENDER
+               You don't believe me?</d>
+
+                            <d who="andrew">ANDREW
+               No...</d>
+
+                            <d who="bender">BENDER
+               No?</d>
+
+                            <d who="andrew">ANDREW
+               Did I stutter?</d>
+
+     <narr>
+     <char who="bender">Bender</char> comes over to <char who="andrew">Andrew</char> and rolls up his right
+     sleeve to reveal a circular shaped burn.</narr>
+
+                            <d who="bender">BENDER
+               Do you believe this?  Huh?  It's
+               about the size of a cigar...Do I
+               stutter?  You see, this is what you
+               get in my house when you spill paint
+               in the garage.</d>
+
+     <narr>
+     <char who="bender">Bender</char> begins to walk away.</narr>
+
+                            <d who="bender">BENDER
+               See I don't think that I need to
+               sit here with you fuckin' dildos anymore!</d>
+
+     <narr>
+     <char who="bender">Bender</char> walks over to a map table and throws all the
+     maps on the floor.  He climbs up on top of the table and
+     then up to the second floor balcony.</narr>
+
+                            <d who="claire">CLAIRE
+                    <desc>(to <char who="andrew">Andrew</char>)</desc>
+               You shouldn't have said that!</d>
+
+                            <d who="andrew">ANDREW
+               How would I know, I mean he lies
+               about everything anyway!</d>
+
+                                                 <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+19. <loc int="true">INT. VERNON'S OFFICE - DAY</loc>
+     <narr>
+     <char who="vernon">Vernon</char> puts an orange in his mouth and then attempts to
+     pour coffee out of his thermos.  The top comes off and
+     the coffee goes all over his desk.</narr>
+
+                            <d who="vernon">VERNON
+               Oh, shit!</d>
+
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+20. <loc int="true">INT. HALLWAY - DAY</loc>
+     <narr>
+     <char who="vernon">Vernon</char> walks into the hallway, talking to himself.</narr>
+
+                            <d who="vernon">VERNON
+               Coffee...looks like they scrape it
+               off the bottom of the Mississippi
+               river.  Everything's polluted,
+               everything's polluted...the coffee.</d>
+
+     <narr>
+     <char who="bender">Bender</char> comes out of the library doors followed
+     bye veryone else.</narr>
+     <narr>
+     <char who="bender">Bender</char> and <char who="claire">Claire</char> are walking next to each other.
+     <char who="brian">Brian</char> and <char who="andrew">Andrew</char> are walking next to each other and at the
+     end of the line, <char who="allison">Allison</char> is following.</narr>
+
+                            <d who="claire">CLAIRE
+                    <desc>(to <char who="bender">Bender</char>)</desc>
+               How do you know where <char who="vernon">Vernon</char> went?</d>
+
+                            <d who="bender">BENDER
+               I don't...</d>
+
+                            <d who="claire">CLAIRE
+               Well then, how do you know when he'll
+               be back?</d>
+
+                            <d who="bender">BENDER
+               I don't...being bad feels pretty
+               good, huh?</d>
+
+                            <d who="brian">BRIAN
+                    <desc>(to <char who="andrew">Andrew</char>)</desc>
+               What's the point in going to <char who="bender">Bender</char>'s
+               locker?</d>
+
+                            <d who="andrew">ANDREW
+               Beats me...</d>
+
+                            <d who="brian">BRIAN
+               This is so stupid...Why do you think,
+               why are we risking getting caught?</d>
+
+                            <d who="andrew">ANDREW
+               I dunno...</d>
+
+                            <d who="brian">BRIAN
+               So then what are we doing?</d>
+
+                            <d who="andrew">ANDREW
+               You ask me one more question and I'm
+               beating the shit out of you!</d>
+
+                            <d who="brian">BRIAN
+               Sorry...</d>
+
+     <narr>
+     <char who="bender">Bender</char> opens his locker.</narr>
+
+                            <d who="andrew">ANDREW
+               Slob!</d>
+
+                            <d who="bender">BENDER
+               My maid's on vacation.</d>
+
+     <narr>
+     <char who="bender">Bender</char> pulls out a bag of marijuana.</narr>
+
+                            <d who="brian">BRIAN
+               Drugs...</d>
+
+                            <d who="andrew">ANDREW
+              Screw that <char who="bender">Bender</char>...put it back!</d>
+
+     <narr>
+     <char who="bender">Bender</char> walks away.</narr>
+
+                         <d who="brian">BRIAN
+               Drugs...the boy had marijuana.</d>
+
+     <narr>
+     <char who="claire">Claire</char> walks after <char who="bender">Bender</char>.</narr>
+
+                            <d who="brian">BRIAN
+               That was marijuana!</d>
+
+                            <d who="andrew">ANDREW
+               Shut up!</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> follows the other two.  <char who="brian">Brian</char> looks at <char who="allison">Allison</char>
+     who is standing there with her mouth open.</narr>
+
+                            <d who="brian">BRIAN
+               Do you approve of this?</d>
+
+     <narr>
+     <char who="brian">Brian</char> turns and leaves.  <char who="allison">Allison</char> steals the lock off of
+     <char who="bender">Bender</char>'s locker.</narr>
+     <narr>
+     We see the crowd walking down the hall.</narr>
+
+                            <d who="bender">BENDER
+               We'll cross through the lab, and
+               then we'll double back.</d>
+
+                            <d who="andrew">ANDREW
+               You better be right, if <char who="vernon">Vernon</char> cuts
+               us off it's your fault, asshole!</d>
+
+                            <d who="brian">BRIAN
+                    <desc>(to <char who="claire">Claire</char>)</desc>
+               What'd he say?  Where're we going?</d>
+
+     <narr>
+     They see <char who="vernon">Vernon</char> down one of the halls.  We have various
+     sequences of them running around and seeing <char who="vernon">Vernon</char>
+     until they stop.</narr>
+
+                            <d who="bender">BENDER
+               Wait!  Wait, hold it!  Hold it!  We
+               have to go through the cafeteria!</d>
+
+                            <d who="andrew">ANDREW
+               No, the activities hall.</d>
+
+                            <d who="bender">BENDER
+               Hey man, you don't know what you're
+               talking about!</d>
+
+                            <d who="andrew">ANDREW
+               No you don't know what you're
+               talking about!</d>
+
+     <narr>
+     <char who="allison">Allison</char> squeaks.</narr>
+
+                            <d who="andrew">ANDREW
+               Now we're through listening to you,
+               we're going this way.</d>
+
+     <narr>
+     They all go <char who="andrew">Andrew</char>'s way and run into a hall closed by
+     an iron gate.</narr>
+
+                            <d who="andrew">ANDREW
+               Shit!</d>
+
+                            <d who="bender">BENDER
+               Great idea Jagoff!</d>
+
+                            <d who="andrew">ANDREW
+               Fuck you!</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(to <char who="andrew">Andrew</char>)</desc>
+               Fuck you!  Why didn't you listen to
+               John?</d>
+
+                            <d who="brian">BRIAN
+               We're dead!</d>
+
+                            <d who="bender">BENDER
+               No, just me!</d>
+
+                            <d who="brian">BRIAN
+               What do you mean?</d>
+
+                            <d who="bender">BENDER
+               Get back to the library, keep your
+               unit on this!</d>
+
+     <narr>
+     <char who="bender">Bender</char> puts his bag of marijuana into <char who="brian">Brian</char>'s
+     underwear.</narr>
+     <narr>
+     <char who="bender">Bender</char> runs away singing loudly.  "I wanna be an
+     airborne ranger..."</narr>
+     <narr>
+     We see <char who="vernon">Vernon</char> hear <char who="bender">Bender</char>.</narr>
+     <narr>
+     The rest of them run.</narr>
+
+                            <d who="vernon">VERNON
+               That son of a bitch!</d>
+
+     <narr>
+     We see <char who="vernon">Vernon</char> looking for <char who="bender">Bender</char> until he finds him in
+     the gym.</narr>
+     <narr>
+     <char who="bender">Bender</char> is going up for a basket.</narr>
+
+                            <d who="bender">BENDER
+               Three...two...one!</d>
+
+     <narr>
+     He dunks the ball.  <char who="vernon">Vernon</char> enters.</narr>
+
+                            <d who="vernon">VERNON
+               <char who="bender">Bender</char>!  <char who="bender">Bender</char>!  <char who="bender">Bender</char>!  What is
+               this?  What are you doing here, what
+               is this?</d>
+
+                            <d who="bender">BENDER
+               Oh, hi!</d>
+
+                            <d who="vernon">VERNON
+               Out!  That's it <char who="bender">Bender</char>!  Out, it's
+               over!</d>
+
+                            <d who="bender">BENDER
+               Don't you wanna hear my excuse?</d>
+
+                            <d who="vernon">VERNON
+               Out!</d>
+
+                            <d who="bender">BENDER
+               I'm thinking of trying out for a
+               scholarship.</d>
+
+                            <d who="vernon">VERNON
+               Gimmie the ball, <char who="bender">Bender</char>.</d>
+
+     <narr>
+     <char who="bender">Bender</char> fakes the ball at <char who="vernon">Vernon</char>.  He then sets the ball
+     down and rolls it at <char who="vernon">Vernon</char> who kicks it back at him.</narr>
+     <narr>
+     They leave.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+21. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     The rest of the kids are all sitting back in their
+     seats when <char who="bender">Bender</char> and <char who="vernon">Vernon</char> enter.  <char who="vernon">Vernon</char> pushes <char who="bender">Bender</char>.</narr>
+
+                            <d who="vernon">VERNON
+               Get your stuff, let's go!
+                    <desc>(to everyone)</desc>
+               Mr. Wiseguy here has taken it upon
+               himself to go to the gymnasium.  I'm
+               sorry to inform you, you're going to
+               be without his services for the rest
+               of the day.</d>
+
+                            <d who="bender">BENDER
+                    <desc>(to <char who="vernon">Vernon</char>)</desc>
+               B-O-O H-O-O!</d>
+
+                            <d who="vernon">VERNON
+               Everything's a big joke, huh <char who="bender">Bender</char>?
+               The false alarm you pulled, Friday,
+               false alarms are really funny,
+               aren't they...What if your home,
+               what if your family...
+                    <desc>(a beat)</desc>
+               ...what if your dope was on fire?</d>
+
+                            <d who="bender">BENDER
+               Impossible, sir...It's in Johnson's
+               underwear...</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> laughs.</narr>
+
+                            <d who="vernon">VERNON
+                    <desc>(to <char who="andrew">Andrew</char>)</desc>
+               You think he's funny?  You think
+               this is cute?  You think he's
+               bitchin', is that it?  Lemme tell
+               you something.  Look at him, he's a
+               bum.
+                    <desc>(to everybody)</desc>
+               You wanna see something funny?  You
+               go visit John <char who="bender">Bender</char> in five years!
+               You'll see how God damned funny he
+               is!
+                    <desc>(to <char who="bender">Bender</char>)</desc>
+               What's the matter, John?  You gonna
+               cry?  Let's go...</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> grabs <char who="bender">Bender</char>'s shoulder.</narr>
+
+                            <d who="bender">BENDER
+               Hey keep your fuckin' hands off me!
+               I expect better manners from you,
+               Dick!</d>
+
+     <narr>
+     <char who="bender">Bender</char> takes his sunglasses out of his pocket and lays
+     them in front of <char who="andrew">Andrew</char>.</narr>
+
+                            <d who="bender">BENDER
+               For better hallway vision!</d>
+
+     <narr>
+     <char who="bender">Bender</char> leaves but not before pushing stuff over on the
+     way.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+21. <loc int="true">INT. CLOSET - DAY</loc>
+     <narr>
+     <char who="vernon">Vernon</char> has put <char who="bender">Bender</char> in a closet and is in there
+     talking to him.</narr>
+
+                            <d who="vernon">VERNON
+               That's the last time, <char who="bender">Bender</char>.  That's
+               the last time you ever make me look
+               bad in front of those kids, do you
+               hear me?  I make $31,000 dollars a
+               year and I have a home and I'm not
+               about to throw it away on some punk
+               like you...But someday, man, someday.
+               When you're outta here and you've
+               forgotten all about this place...
+               And they've forgotten all about you
+               and you're wrapped up in your own
+               pathetic life...I'm gonna be there.
+               That's right.  And I'm gonna kick
+               the living shit out of you, man, I'm
+               gonna knock your dick in the dirt!</d>
+
+                            <d who="bender">BENDER
+               Are you threatening me?</d>
+
+                            <d who="vernon">VERNON
+               What're you gonna do about it?  You
+               think anybody's gonna believe you?
+               You think anybody's gonna take your
+               word over mine?  I'm a man of
+               respect around here.  They love me
+               around here, I'm a swell guy...you're
+               a lying sack of shit!  And everybody
+               knows it.  Oh, you're a real tough
+               guy...come on, come on...get on your
+               feet, pal!  Let's find out how
+               tough you are!  I wanna know right
+               now, how tough you are!  Come on!
+               I'll give you the first punch, let's
+               go!  Come on, right here, just take
+               the first shot!  Please, I'm begging
+               you, take a shot!  Come on, just
+               take one shot, that's all I need,
+               just one swing...</d>
+
+     <narr>
+     <char who="bender">Bender</char> just sits there staring at <char who="vernon">Vernon</char>.  <char who="vernon">Vernon</char> fakes
+     a punch and <char who="bender">Bender</char> flinches.</narr>
+
+                            <d who="vernon">VERNON
+               That's what I though...you're a
+               gutless turd!</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> leaves and locks the closet door after him.
+     <char who="bender">Bender</char> climbs into a hatch in the ceiling and
+     disappears.</narr>
+                                                 <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+22. <loc int="true">INT. HEATING DUCT - DAY</loc>
+     <narr>
+     <char who="bender">Bender</char> is slowly crawling through a heating duct.</narr>
+
+                            <d who="bender">BENDER
+                    <desc>(to himself)</desc>
+               A naked blond walks into a bar, with
+               a poodle under one arm and a two
+               foot salami under the other.  She
+               lays the poodle on the table.  Bar-
+               tender says: "I suppose you won't
+               be needing a drink."  The naked
+               lady says...</d>
+
+     <narr>
+     The ceiling under <char who="bender">Bender</char> gives and he falls through.</narr>
+
+                            <d who="bender">BENDER
+                    <desc>(screaming)</desc>
+               Oh shit!!!!</d>
+
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+23. <loc int="true">INT. FACILTY BATHROOM - DAY</loc>
+     <narr>
+     We see the door to the bathroom.  We hear <char who="vernon">Vernon</char>
+     inside.</narr>
+
+                         <d who="vernon" os="true">VERNON (OS)
+               Jesus Christ, allmighty!</d>
+
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+24. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     <char who="bender">Bender</char> walks down the stairs.</narr>
+
+                            <d who="bender">BENDER
+               I forgot my pencil...</d>
+
+     <narr>
+     We hear <char who="vernon">Vernon</char> in the hall.</narr>
+
+                         <d who="vernon" os="true">VERNON (OS)
+               God damnit!  What in God's name is
+               going on in here?</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> enters.</narr>
+
+                            <d who="vernon">VERNON
+              What was that ruckus?</d>
+
+                            <d who="andrew">ANDREW
+               Uh, what ruckus?</d>
+
+                            <d who="vernon">VERNON
+               I was just in my office and I heard
+               a ruckus!</d>
+
+                            <d who="brian">BRIAN
+               Could you describe the ruckus, sir?</d>
+
+                            <d who="vernon">VERNON
+               Watch your tongue young man, watch
+               it!</d>
+
+     <narr>
+     We see <char who="bender">Bender</char> under the table by <char who="claire">Claire</char>'s legs.  He
+     sits up and bangs his head on the table.  He groans.</narr>
+     <narr>
+     Above the table, <char who="andrew">Andrew</char> and <char who="claire">Claire</char> try to take credit
+     for the noise by making more noise.</narr>
+
+                            <d who="vernon">VERNON
+               What is that?  What, what is that,
+               what is that noise?</d>
+
+     <narr>
+     Under the table, <char who="bender">Bender</char> looks between <char who="claire">Claire</char>'s legs and
+     can see her panties.  He puts his head between <char who="claire">Claire</char>'s
+     legs.</narr>
+
+                            <d who="andrew">ANDREW
+               What noise?</d>
+
+                            <d who="claire">CLAIRE
+               Really, sir, there wasn't any noise...</d>
+
+     <narr>
+     <char who="claire">Claire</char> squeels.  She squeezes <char who="bender">Bender</char>'s head between her
+     knees.</narr>
+     <narr>
+     Everyone starts faking a coughing fit.</narr>
+
+                            <d who="claire">CLAIRE
+                    <desc>(flustered)</desc>
+               That noise?  Was that the noise you
+               were talking about?</d>
+
+                            <d who="vernon">VERNON
+               No, it wasn't.  That was not the
+               noise I was talking about.  Now, I
+               may not have caught you in the act
+               this time, but you can bet I will.</d>
+
+     <narr>
+     <char who="allison">Allison</char> laughs at <char who="vernon">Vernon</char>.</narr>
+
+                            <d who="vernon">VERNON
+               You make book on that missy!
+                    <desc>(to <char who="claire">Claire</char>)</desc>
+               And you!  I will not be made a fool
+               of!</d>
+
+     <narr>
+     He turns and walks away.  We see that he still has the
+     toilet seat cover stuck to his pants.
+     <char who="vernon">Vernon</char> leaves.</narr>
+     <narr>
+     Everyone laughs except <char who="claire">Claire</char> who lets <char who="bender">Bender</char> out to a
+     barage of slaps.</narr>
+
+                            <d who="bender">BENDER
+               It was an accident!</d>
+
+                           <d who="claire">CLAIRE
+               You're an asshole!</d>
+
+                            <d who="bender">BENDER
+               So sue me...</d>
+
+     <narr>
+     <char who="bender">Bender</char> gets up and walks over to <char who="brian">Brian</char>.</narr>
+
+                            <d who="bender">BENDER
+               So, Ahab...Kybo Mein Doobage...</d>
+
+     <narr>
+     <char who="brian">Brian</char> gives <char who="bender">Bender</char> his bag of marajuana.  <char who="bender">Bender</char> turns
+     and walks away.</narr>
+
+                            <d who="andrew">ANDREW
+               Yo waistoid...you're not gonna blaze
+               up in here!</d>
+
+     <narr>
+     <char who="claire">Claire</char> gets up and goes after him.  Then <char who="brian">Brian</char>.</narr>
+
+                            <d who="andrew">ANDREW
+               Shit...</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> goes.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+25. <loc int="true">INT. STAIRS - DAY</loc>
+     <narr>
+     We see <char who="vernon">Vernon</char> go down the stairs.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+26. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     <char who="brian">Brian</char>, <char who="bender">Bender</char> and <char who="claire">Claire</char> are sitting in a circle and
+     laughing hysterically.</narr>
+     <narr>
+     <char who="bender">Bender</char> lights <char who="claire">Claire</char> up and she coughs the smoke out.
+     <char who="brian">Brian</char> laughs at her.  He exhales and tries to eat the
+     smoke.  He talks in a really weird voice.</narr>
+
+                            <d who="brian">BRIAN
+               Chicks, cannot hold der smoke!  That's
+               what it is!</d>
+
+                            <d who="claire">CLAIRE
+               Do you know how popular I am?  I'm
+               so popular, everybody loves me so
+               much, at this school...</d>
+
+                            <d who="bender">BENDER
+               Poor baby.</d>
+
+     <narr>
+     <char who="brian">Brian</char> waves <char who="claire">Claire</char> over to him and he falls over.</narr>
+     <narr>
+     We see <char who="andrew">Andrew</char> emerge from a really smokey room.  He
+     inhales another puff and then starts dancing to
+     everybody's applause.</narr>
+     <narr>
+     He goes back in the room he was in.  He screams and it
+     shatters the glass in the door.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+27. <loc int="true">INT. BASEMENT - DAY</loc>
+     <narr>
+     <char who="vernon">Vernon</char> is glancing through the confidential files in
+     the
+     school basement.</narr>
+
+                            <d who="vernon">VERNON
+                    <desc>(to himself)</desc>
+               Mister, oh mister Tearney...a
+               history of slight mental illness?
+               Wooh, no wonder he's so fucked up!</d>
+
+     <narr>
+     <char who="carl">Carl</char> enters.</narr>
+
+                             <d who="carl">CARL
+               Afternoon, Dick...</d>
+
+                            <d who="vernon">VERNON
+               Hey <char who="carl">Carl</char>, how you doin'?</d>
+
+                             <d who="carl">CARL
+               Good...</d>
+
+                            <d who="vernon">VERNON
+               Good, what's up?</d>
+
+                             <d who="carl">CARL
+               Not much, what's happening, what
+               are you doing in the basement files?</d>
+
+                            <d who="vernon">VERNON
+               Oh, nothin' here.  I'm just
+               doin' a little homework here...</d>
+
+                             <d who="carl">CARL
+               Homework, huh?</d>
+
+                            <d who="vernon">VERNON
+               Yeah...</d>
+
+     <narr>
+     <char who="carl">Carl</char>, laughing, comes over and looks at the files that
+     <char who="vernon">Vernon</char> was looking at.</narr>
+
+                             <d who="carl">CARL
+               Confidential files...hmmm?</d>
+
+                            <d who="vernon">VERNON
+               Look, <char who="carl">Carl</char>...this is a highly
+               sensitive area and I, I tell you
+               something...certain people would be
+               very very embarrassed.  I would really
+               appreciate it if if if if this would
+               be something that, that you and I
+               could keep between us...</d>
+
+                             <d who="carl">CARL
+               What're you gonna do for me, man?</d>
+
+                            <d who="vernon">VERNON
+               Well, well what would you like?</d>
+
+                             <d who="carl">CARL
+               Got fifty bucks?</d>
+
+                            <d who="vernon">VERNON
+               What?</d>
+
+                             <d who="carl">CARL
+               Fifty bucks...</d>
+
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+28. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     We see <char who="andrew">Andrew</char> and <char who="brian">Brian</char> laughing.  <char who="allison">Allison</char> is hanging
+     out over by the statue in the back of the library.</narr>
+
+                            <d who="andrew">ANDREW
+               No no man, no; you got a middle
+               name?</d>
+
+                            <d who="brian">BRIAN
+               Yeah, guess...</d>
+
+     <narr>
+     <char who="allison">Allison</char> suddenly takes interest in the conversation and
+     as she speaks, she moves over and sits next to the two.</narr>
+
+                           <d who="allison">ALLISON
+               Your middle name is Ralph, as in
+               puke...</d>
+
+     <narr>
+     <char who="brian">Brian</char> and <char who="andrew">Andrew</char> look at her in confusion.</narr>
+
+                           <d who="allison">ALLISON
+               ...your birthday is March 12th,
+               you're five-nine and a half you
+               weigh a hundred and thirty pounds
+               and your social security number is
+               0-4-9-3-8-0-9-1
+                    <desc>(a beat)</desc>
+               3.</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> is impressed.</narr>
+
+                            <d who="andrew">ANDREW
+               Wow!  Are you psychic?</d>
+
+                           <d who="allison">ALLISON
+               No...</d>
+
+                            <d who="brian">BRIAN
+               Well would you mind telling me how
+               you know all this about me?</d>
+
+     <narr>
+     <char who="allison">Allison</char> reaches in her bag.</narr>
+
+                           <d who="allison">ALLISON
+               I stole your wallet...</d>
+
+     <narr>
+     She produces it in her hands and grins.</narr>
+
+                            <d who="brian">BRIAN
+               Give it to me...</d>
+
+                           <d who="allison">ALLISON
+               No...</d>
+
+                            <d who="brian">BRIAN
+               Give it!</d>
+
+     <narr>
+     <char who="allison">Allison</char> reluctantly hands over the wallet and <char who="brian">Brian</char>
+     glances through it to make sure nothing is missing.</narr>
+
+                            <d who="brian">BRIAN
+               This is great...you're a thief too!
+               Huh?</d>
+
+                           <d who="allison">ALLISON
+               I'm not a thief!</d>
+
+                            <d who="brian">BRIAN
+               Multi-talented!</d>
+
+                           <d who="allison">ALLISON
+               What's there to steal?  Two bucks
+               and a beaver shot!</d>
+
+                            <d who="andrew">ANDREW
+               A what?</d>
+
+                          <d who="allison">ALLISON
+               He's got a nudie picture in there!
+               I saw it, it's perverted!</d>
+
+                            <d who="andrew">ANDREW
+               Alright, let's see it!</d>
+
+     <narr>
+     We see <char who="bender">Bender</char>, he is brushing his teeth with one of
+     <char who="claire">Claire</char>'s cosmetic brushes.</narr>
+     <narr>
+     We see <char who="claire">Claire</char> looking through <char who="bender">Bender</char>'s wallet pictures.</narr>
+
+                            <d who="claire">CLAIRE
+               Are all these your girlfriends?</d>
+
+                            <d who="bender">BENDER
+               Some of them...</d>
+
+                            <d who="claire">CLAIRE
+               What about the others?</d>
+
+                            <d who="bender">BENDER
+               Well, some I consider my girlfriends
+               and some...I just consider...</d>
+
+                            <d who="claire">CLAIRE
+               Consider what?</d>
+
+                            <d who="bender">BENDER
+               Whether or not, I wanna hang out
+               with them...</d>
+
+                            <d who="claire">CLAIRE
+               You don't believe in just one guy,
+               one girl?</d>
+
+                            <d who="bender">BENDER
+               Do you?</d>
+
+                            <d who="claire">CLAIRE
+               Yeah...that's the way it should be.</d>
+
+                            <d who="bender">BENDER
+               Well, not for me...</d>
+
+                            <d who="claire">CLAIRE
+               Why not?</d>
+
+     <narr>
+     <char who="bender">Bender</char> clearly doesn't want to answer that.  He acts
+     defensive.</narr>
+
+                            <d who="bender">BENDER
+               How come you got so much shit in
+               your purse?</d>
+
+                            <d who="claire">CLAIRE
+               How come you got so many
+               girlfriends?</d>
+
+                            <d who="bender">BENDER
+               I asked you first...</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(shrugs)</desc>
+               I dunno...I guess I never throw
+               anything away.</d>
+
+                            <d who="bender">BENDER
+               Neither do I...</d>
+
+                            <d who="claire">CLAIRE
+               Oh...</d>
+
+     <narr>
+     We cut back to where <char who="andrew">Andrew</char>, <char who="brian">Brian</char> and <char who="allison">Allison</char> are
+     sitting, <char who="andrew">Andrew</char> is looking through <char who="brian">Brian</char>'s wallet.</narr>
+
+                            <d who="andrew">ANDREW
+               This is the worst fake ID I've ever
+               seen...</d>
+
+     <narr>
+     <char who="brian">Brian</char> laughs.</narr>
+
+                            <d who="andrew">ANDREW
+               Do you realize you made yourself
+               sixty eight?</d>
+
+                            <d who="brian">BRIAN
+               Oh, I know...I know, I goofed it...</d>
+
+                            <d who="andrew">ANDREW
+               What do you need a fake ID for?</d>
+
+                            <d who="brian">BRIAN
+                    <desc>(like it's obvious)</desc>
+               So I can vote!</d>
+
+     <narr>
+     <char who="allison">Allison</char> looks up suddenly.</narr>
+
+                           <d who="allison">ALLISON
+               You wanna see what's in my bag?</d>
+
+                        <d who="andrew, brian">BRIAN &amp; ANDREW
+               No!</d>
+
+     <narr>
+     <char who="allison">Allison</char> looks hurt and then resentful.  Just to spite
+     them, she dumps the contents of her bag onto the couch.</narr>
+     <narr>
+     Lots of stuff comes out.</narr>
+
+                            <d who="andrew">ANDREW
+               Holy shit!  What is all that stuff?</d>
+
+                            <d who="brian">BRIAN
+               Do you always carry this much shit
+               in your bag?</d>
+
+                           <d who="allison">ALLISON
+               Yeah...I always carry this much shit
+               ...in my bag...You never know when
+               you may have to jam...</d>
+
+                            <d who="brian">BRIAN
+               Are you gonna be like a shopping
+               bag lady?  You know like, sit in
+               alleyways and like talk to buildings
+               and wear men's shoes and that kinda
+               thing?</d>
+
+                           <d who="allison">ALLISON
+               I'll do what I have to do...</d>
+
+                            <d who="brian">BRIAN
+               Why do you have to do anything?</d>
+
+                           <d who="allison">ALLISON
+                    <desc>(with feeling)</desc>
+               My home life is un...satisfying...</d>
+
+                            <d who="brian">BRIAN
+               So you're saying you'd subject
+               yourself to the violent dangers of
+               the Chicago streets because your
+               homelife is unsatisfying?</d>
+
+                           <d who="allison">ALLISON
+               I don't have to run away and live
+               in the street...I can run away and,
+               go to the ocean, I can go to the
+               country, I can go to the mountains.
+               I can go to Israel, Africa,
+               Afghanistan...</d>
+
+     <narr>
+     <char who="brian">Brian</char> looks at her and then moves over to <char who="andrew">Andrew</char>.</narr>
+
+                            <d who="brian">BRIAN
+               Andy...you wanna get in on this?
+               <char who="allison">Allison</char> here says, she wants to run
+               away, because her home life is
+               unsatisfying...</d>
+
+                            <d who="andrew">ANDREW
+               Well everyone's home lives are un-
+               satisfying...If it wasn't, people
+               would live with there parents
+               forever...</d>
+
+                            <d who="brian">BRIAN
+               Yeah, yeah I understand.  But I
+               think that her's goes beyond, you
+               know, what guys like you and me...
+               consider normal unsatisfying...</d>
+
+                           <d who="allison">ALLISON
+               Nevermind...forget it, everything's
+               cool!</d>
+
+     <narr>
+     <char who="allison">Allison</char> starts putting everything back in her purse.</narr>
+
+                            <d who="andrew">ANDREW
+               What's the deal?</d>
+
+                           <d who="allison">ALLISON
+               No!  There's no deal, Sporto.
+               Forget it, leave me alone.</d>
+
+                            <d who="andrew">ANDREW
+               Wait a minute, now you're carrying
+               all that crap around in your purse.
+               Either you really wanna run away or
+               you want people to think you wanna
+               run away.</d>
+
+                           <d who="allison">ALLISON
+               Eat shit!</d>
+
+     <narr>
+     <char who="allison">Allison</char> gets up and walks away.</narr>
+
+                            <d who="brian">BRIAN
+               The girl is an island, with herself.
+               Okay?</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> gets up and goes after her.</narr>
+
+                            <d who="andrew">ANDREW
+               Hi, you wanna talk?</d>
+
+                           <d who="allison">ALLISON
+               No!</d>
+
+                            <d who="andrew">ANDREW
+               Why not?</d>
+
+                           <d who="allison">ALLISON
+               Go away...</d>
+
+                            <d who="andrew">ANDREW
+               Where do you want me to go?</d>
+
+                           <d who="allison">ALLISON
+               GO away!</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> turns away and <char who="allison">Allison</char> starts to cry.</narr>
+
+                           <d who="allison">ALLISON
+               You have problems...</d>
+
+                            <d who="andrew">ANDREW
+               Oh, I have problems?</d>
+
+                           <d who="allison">ALLISON
+               You do everything everybody ever
+               tells you to do, that is a problem!</d>
+
+                            <d who="andrew">ANDREW
+               Okay, fine...but I didn't dump my
+               purse out on the couch and invite
+               people into my problems...Did I?
+               So what's wrong?  What is it?  Is
+               is bad?  Real bad?  Parents?</d>
+
+     <narr>
+     <char who="allison">Allison</char> is silently crying.</narr>
+
+                           <d who="allison">ALLISON
+               Yeah...</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> nods.</narr>
+
+                            <d who="andrew">ANDREW
+               What do they do to you?</d>
+
+                           <d who="allison">ALLISON
+              They ignore me...</d>
+
+                            <d who="andrew">ANDREW
+               Yeah...yeah...</d>
+
+     <narr>
+     They both are crying silently.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+29. <loc int="true">INT. BASEMENT - DAY</loc>
+     <narr>
+     <char who="vernon">Vernon</char> and <char who="carl">Carl</char> are sitting talking.</narr>
+
+                            <d who="vernon">VERNON
+               What did you want to be when you
+               were young?</d>
+
+                             <d who="carl">CARL
+               When I was a kid, I wanted to be
+               John Lennon...</d>
+
+                            <d who="vernon">VERNON
+               <char who="carl">Carl</char> don't be a goof!  I'm trying
+               to make a serious point here...I've
+               been teaching, for twenty two years,
+               and each year...these kids get more
+               and more arrogant.</d>
+
+                             <d who="carl">CARL
+               Aw bull shit, man.  Come on Vern,
+               the kids haven't changed, you have!
+               You took a teaching position, 'cause
+               you thought it'd be fun, right?
+               Thought you could have summer
+               vacations off...and then you found
+               out it was actually work...and that
+               really bummed you out.</d>
+
+                            <d who="vernon">VERNON
+               These kids turned on me...they think
+               I'm a big fuckin' joke...</d>
+
+                             <d who="carl">CARL
+               Come on...listen Vern, if you were
+               sixteen, what would you think of
+               you, huh?</d>
+
+                            <d who="vernon">VERNON
+               Hey...<char who="carl">Carl</char>, you think I give one
+               rat's ass what these kids think of
+               me?</d>
+
+                             <d who="carl">CARL
+               Yes I do...</d>
+
+                            <d who="vernon">VERNON
+               You think about this...when you get
+               old, these kids; when I get old,
+               they're gonna be runnin' the country.</d>
+
+                             <d who="carl">CARL
+               Yeah?</d>
+
+                            <d who="vernon">VERNON
+               Now this is the thought that wakes
+               me up in the middle of the night...
+               That when I get older, these kids
+               are gonna take care of me...</d>
+
+                             <d who="carl">CARL
+               I wouldn't count on it!</d>
+
+     <narr>
+     <char who="vernon">Vernon</char> ponders that statement for a moment.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+30. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     They are sitting on the floor in a circle.</narr>
+
+                            <d who="andrew">ANDREW
+               What would I do for a million bucks?
+               Well, I guess I'd do as little as I
+               had to...</d>
+
+                            <d who="claire">CLAIRE
+               That's boring...</d>
+
+                            <d who="andrew">ANDREW
+               Well, how'm I s'posed to answer?</d>
+
+                            <d who="claire">CLAIRE
+               The idea is to like search your mind
+               for the absolute limit.  Like, uh,
+               would you drive to school naked?</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> laughs.</narr>
+
+                            <d who="andrew">ANDREW
+               Um, uh...would I have to get out of
+               the car?</d>
+
+                            <d who="claire">CLAIRE
+               Of course...</d>
+
+                            <d who="andrew">ANDREW
+               In the spring, or winter?</d>
+
+                            <d who="claire">CLAIRE
+               It doesn't matter...spring...</d>
+
+                            <d who="andrew">ANDREW
+               In front of the school or in back
+               of the school?</d>
+
+                            <d who="claire">CLAIRE
+               Either one...</d>
+
+                            <d who="andrew">ANDREW
+               Yes...</d>
+
+                           <d who="allison">ALLISON
+               I'd do that!</d>
+
+     <narr>
+     They all look at her.</narr>
+
+                           <d who="allison">ALLISON
+               I'll do anything sexual, I don't
+               need a million dollars to do it
+               either...</d>
+
+                            <d who="claire">CLAIRE
+               You're lying...</d>
+
+                           <d who="allison">ALLISON
+               I already have...I've done just
+               about everything there is except a
+               few things that are illegal...I'm a
+               nymphomaniac!</d>
+
+     <narr>
+     <char who="claire">Claire</char> rolls her eyes.</narr>
+
+                            <d who="claire">CLAIRE
+               Lie...</d>
+
+                            <d who="brian">BRIAN
+               Are your parents aware of this?</d>
+
+                           <d who="allison">ALLISON
+               The only person I told was my
+               shrink...</d>
+
+                            <d who="andrew">ANDREW
+               And what'd he do when you told him?</d>
+
+                           <d who="allison">ALLISON
+               He nailed me...</d>
+
+                            <d who="claire">CLAIRE
+               Very nice...</d>
+
+                           <d who="allison">ALLISON
+               I don't think that from a legal
+               standpoint what he did can be
+               construed as rape since I paid him.</d>
+
+                            <d who="claire">CLAIRE
+               He's an adult!</d>
+
+     <narr>
+     <char who="allison">Allison</char> is relishing this attention.</narr>
+
+                           <d who="allison">ALLISON
+               Yeah...he's married too!</d>
+
+     <narr>
+     <char who="claire">Claire</char> notes her disgust.</narr>
+
+                            <d who="claire">CLAIRE
+               Do you have any idea how completely
+               gross that is?</d>
+
+                           <d who="allison">ALLISON
+               Well, the first few times...</d>
+
+                            <d who="claire">CLAIRE
+               First few times?  You mean he did it
+               more than once?</d>
+
+                           <d who="allison">ALLISON
+               Sure...</d>
+
+                            <d who="claire">CLAIRE
+               Are you crazy?</d>
+
+                            <d who="brian">BRIAN
+               Obviously she's crazy if she's
+               screwing her shrink...</d>
+
+                           <d who="allison">ALLISON
+                    <desc>(to <char who="claire">Claire</char>)</desc>
+               Have you ever done it?</d>
+
+                            <d who="claire">CLAIRE
+               I don't even have a psychiatrist...</d>
+
+                           <d who="allison">ALLISON
+               Have you ever done it with a normal
+               person?</d>
+
+                            <d who="claire">CLAIRE
+               Now, didn't we already cover this?</d>
+
+                            <d who="bender">BENDER
+               You never answered the question...</d>
+
+                            <d who="claire">CLAIRE
+               Look, I'm not gonna discuss my
+               private life with total strangers.</d>
+
+                           <d who="allison">ALLISON
+               It's kind of a double-edged sword,
+               isn't it?</d>
+
+                            <d who="claire">CLAIRE
+               A what?</d>
+
+                           <d who="allison">ALLISON
+               Well, if you say you haven't...
+               you're a prude.  If you say you
+               have...you're a slut!  It's a trap.
+               You want to but you can't but when
+               you do you wish you didn't, right?</d>
+
+                            <d who="claire">CLAIRE
+               Wrong...</d>
+
+                           <d who="allison">ALLISON
+               Or, are you a tease?</d>
+
+                            <d who="andrew">ANDREW
+               She's a tease...</d>
+
+                            <d who="claire">CLAIRE
+               Oh why don't you just forget it...</d>
+
+                            <d who="andrew">ANDREW
+               You're a tease and you know it, all
+               girls are teases!</d>
+
+                            <d who="bender">BENDER
+                    <desc>(to <char who="andrew">Andrew</char>)</desc>
+               She's only a tease if what she does
+               gets you hot...</d>
+
+                            <d who="claire">CLAIRE
+               I don't do anything!</d>
+
+                           <d who="allison">ALLISON
+               That's why you're a tease...</d>
+
+                            <d who="claire">CLAIRE
+               Okay, lemme ask you a few questions.</d>
+
+     <narr>
+     <char who="allison">Allison</char> is suddenly defensive.</narr>
+
+                           <d who="allison">ALLISON
+               I've already told you everything!</d>
+
+                            <d who="claire">CLAIRE
+               No!  Doesn't it bother you to sleep
+               around without being in love.  I
+               mean don't you want any respect?</d>
+
+                           <d who="allison">ALLISON
+               I don't screw to get respect...That's
+               the difference between you and me...</d>
+
+                            <d who="claire">CLAIRE
+               Not the only difference, I hope.</d>
+
+                            <d who="bender">BENDER
+               Face it, you're a tease.</d>
+
+                            <d who="claire">CLAIRE
+               I'm not a tease!</d>
+
+                            <d who="bender">BENDER
+               Sure you are!  You said it yourself
+               sex is a weapon, you use it to get
+               respect!</d>
+
+                            <d who="claire">CLAIRE
+               No, I never said that, she twisted
+               my words around.</d>
+
+                            <d who="bender">BENDER
+               Oh then what do you use it for?</d>
+
+                            <d who="claire">CLAIRE
+               I don't use it period!</d>
+
+     <narr>
+     <char who="claire">Claire</char> is on the verge of tears.</narr>
+
+                            <d who="bender">BENDER
+               Oh, are you medically frigid or is
+               it psychological?</d>
+
+                            <d who="claire">CLAIRE
+               I didn't mean it that way!  You guys
+               are putting words into my mouth!</d>
+
+                            <d who="bender">BENDER
+               Well if you'd just answer the
+               question...</d>
+
+                            <d who="brian">BRIAN
+               Why don't you just answer the
+               question?</d>
+
+                            <d who="andrew">ANDREW
+               Be honest...</d>
+
+                            <d who="bender">BENDER
+               No big deal...</d>
+
+                            <d who="brian">BRIAN
+               Yeah, answer it!</d>
+
+                            <d who="andrew">ANDREW
+               Answer the question, <char who="claire">Claire</char>!</d>
+
+                            <d who="bender">BENDER
+               Talk to us!</d>
+
+                       <d who="andrew, brian">ANDREW &amp; BRIAN
+               Come on, answer the question!</d>
+
+                            <d who="bender">BENDER
+               It's easy, it's only one question!</d>
+
+     <narr>
+     <char who="claire">Claire</char> silences all of them by screaming.</narr>
+
+                            <d who="claire">CLAIRE
+                    <desc>(screaming)</desc>
+               No!  I never did it!</d>
+
+     <narr>
+     Silence for two beats.</narr>
+
+                           <d who="allison">ALLISON
+               I never did it either, I'm not a
+               nymphomaniac...I'm a compulsive
+               liar...</d>
+
+                            <d who="claire">CLAIRE
+               You are such a bitch!  You did that
+               on purpose just to fuck me over!</d>
+
+                           <d who="allison">ALLISON
+               I would do it though...If you love
+               someone it's okay...</d>
+
+                            <d who="claire">CLAIRE
+               I can't believe you, you're so
+               weird.  You don't say anything all
+               day and then when you open your
+               mouth...you unload all these
+               tremendous lies all over me!</d>
+
+                            <d who="andrew">ANDREW
+               You're just pissed off because she
+               got you to admit something you didn't
+               want to admit to...</d>
+
+                            <d who="claire">CLAIRE
+               Okay, fine, but that doesn't make it
+               any less bizarre...</d>
+
+                            <d who="andrew">ANDREW
+               What's bizarre?  I mean we're all
+               pretty bizarre!  Some of us are just
+               better at hiding it, that's all.</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(to <char who="andrew">Andrew</char>)</desc>
+               How are you bizarre?</d>
+
+     <narr>
+     <char who="allison">Allison</char> decides to field that question.</narr>
+
+                           <d who="allison">ALLISON
+               He can't think for himself...</d>
+
+                            <d who="andrew">ANDREW
+               She's right...do you guys know what,
+               uh, what I did to get in here?  I
+               taped Larry Lester's buns together.</d>
+
+     <narr>
+     <char who="claire">Claire</char> laughs.</narr>
+
+                            <d who="brian">BRIAN
+                    <desc>(to <char who="andrew">Andrew</char>)</desc>
+               That was you?</d>
+
+                           <d who="andrew">ANDREW
+                    <desc>(to <char who="brian">Brian</char>)</desc>
+               Yeah, you know him?</d>
+
+                            <d who="brian">BRIAN
+               Yeah, I know him...</d>
+
+                            <d who="andrew">ANDREW
+               Well then you know how hairy he is,
+               right?  Well, when they pulled the
+               tape off, most of his hair came off
+               and some, some skin too...</d>
+
+                            <d who="claire">CLAIRE
+               Oh my God...</d>
+
+                            <d who="andrew">ANDREW
+               And the bizarre thing is, is that
+               I did it for my old man...I
+               tortured this poor kid, because I
+               wanted him to think that I was cool.
+               He's always going off about, you
+               know, when he was in school...all
+               the wild things he used to do.  And
+               I got the feeling that he was
+               disappointed that I never cut loose
+               on anyone, right...So, I'm...I'm
+               sitting in the locker room, and I'm
+               taping up my knee.  And Larry's
+               undressing a couple lockers down
+               from me.  Yeah...he's kinda...
+               he's kinda skinny, weak.  And I
+               started thinking about my father,
+               and his attitude about weakness.
+               And the next thing I knew, I uh, I
+               jumped on top of him and started
+               wailing on him...And my friends,
+               they just laughed and cheered me on.
+               And afterwards, when I was sittin'
+               in <char who="vernon">Vernon</char>'s office, all I could
+               think about was Larry's father. And
+               Larry havin' to go home and...and
+               explain what happened to him.  And
+               the humiliation...fucking
+               humiliation he mustuv felt.  It
+               mustuv been unreal...I mean,
+                    <desc>(he's crying)</desc>
+               I mean, how do you apologize for
+               something like that?  There's no
+               way...it's all because of me and
+               my old man.  Oh God, I fucking hate
+               him!  He's like this...he's like
+               this mindless machine that I can't
+               even relate to anymore..."<char who="andrew">Andrew</char>,
+               you've got to be number one!  I
+               won't tolerate any losers in this
+               family...Your intensity is for shit!
+               Win.  Win!  WIN!!!"  You son of a
+               bitch!  You know, sometimes, I wish
+               my knee would give...and I wouldn't
+               be able to wrestle anymore.  And he
+               could forget all about me...</d>
+
+                            <d who="bender">BENDER
+               I think your old man and my old man
+               should get together and go bowling.</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> laughs briefly.</narr>
+
+                            <d who="brian">BRIAN
+               It's like me, you know, with my
+               grades...like, when I, when I
+               step outside myself kinda, and
+               when I, when I look in at myself
+               you know?  And I see me and I don't
+               like what I see, I really don't.</d>
+
+                            <d who="claire">CLAIRE
+               What's wrong with you?  Why don't
+               you like yourself?</d>
+
+                            <d who="brian">BRIAN
+               'Cause I'm stupid...'cause I'm failing
+               shop.  See we had this assignment,
+               to make this ceramic elephant, and
+               um...and we had eight weeks to do
+               it and we're s'posed ta, and it was
+               like a lamp, and when you pull the
+               trunk the light was s'posed to go
+               on...my light didn't go on, I got a
+               F on it.  Never got a F in my life...
+               When I signed up, you know, for the
+               course I mean.  I thought I was
+               playing it real smart, you know.
+               'Cause I thought, I'll take shop,
+               it'll be such an easy way to
+               maintain my grade point average...</d>
+
+                            <d who="bender">BENDER
+               Why'd you think it'd be easy?</d>
+
+                            <d who="brian">BRIAN
+               Have you seen some of the dopes that
+               take shop?</d>
+
+                            <d who="bender">BENDER
+               I take shop...you must be a fuckin'
+               idiot!</d>
+
+                            <d who="brian">BRIAN
+               I'm a fuckin' idiot because I can't
+               make a lamp?</d>
+
+                            <d who="bender">BENDER
+               No, you're a genius because you
+               can't make a lamp...</d>
+
+                            <d who="brian">BRIAN
+               What do you know about Trigonometry?</d>
+
+                            <d who="bender">BENDER
+               I could care less about
+               Trigonometry...</d>
+
+                            <d who="brian">BRIAN
+               <char who="bender">Bender</char>, did you know without
+               Trigonometry there'd be no
+               engineering?</d>
+
+                            <d who="bender">BENDER
+               Without lamps, there'd be no light!</d>
+
+                            <d who="claire">CLAIRE
+              Okay so neither one of you is any
+               better than the other one...</d>
+
+     <narr>
+     <char who="allison">Allison</char> feels left out.</narr>
+
+                           <d who="allison">ALLISON
+               I can write with my toes!  I can
+               also eat, brush my teeth...</d>
+
+                            <d who="claire">CLAIRE
+               With your feet?</d>
+
+                           <d who="allison">ALLISON
+               ...play Heart &amp; Soul on the piano.</d>
+
+                            <d who="brian">BRIAN
+               I can make spaghetti!</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(to <char who="andrew">Andrew</char>)</desc>
+               What can you do?</d>
+
+                            <d who="andrew">ANDREW
+               I can...uh...tape all your buns
+               together...</d>
+
+                            <d who="bender">BENDER
+               I wanna see what <char who="claire">Claire</char> can do!</d>
+
+                            <d who="claire">CLAIRE
+               I can't do anything.</d>
+
+                            <d who="bender">BENDER
+               Now, everybody can do something...</d>
+
+                            <d who="claire">CLAIRE
+               There's one thing I can do, no
+               forget it, it's way too embarrassing.</d>
+
+                            <d who="bender">BENDER
+               You ever seen Wild Kingdom?  I mean
+               that guy's been doing that show for
+               thirty years.</d>
+
+                            <d who="claire">CLAIRE
+               Okay, but you have to swear to God
+               you won't laugh...I can't believe
+               I'm actually doing this...</d>
+
+     <narr>
+     <char who="claire">Claire</char> takes lipstick out and opens it.  She places it
+     between her breasts and applies it from her cleavage.</narr>
+     <narr>
+     When she lifts her head, her lipstick is perfect.</narr>
+
+     <narr>Everyone claps.  <char who="bender">Bender</char>'s clap is sarcastic and slow.</narr>
+
+                            <d who="andrew">ANDREW
+               All right, great!  Where'd you learn
+               to do that?</d>
+
+                            <d who="claire">CLAIRE
+               Camp, seventh grade...</d>
+
+                            <d who="bender">BENDER
+               That was great, <char who="claire">Claire</char>...my image of
+               you is totally blown...</d>
+
+                           <d who="allison">ALLISON
+               You're a shit!  Don't do that to her
+               you swore to God you wouldn't laugh!</d>
+
+                            <d who="bender">BENDER
+               Am I laughing?</d>
+
+                            <d who="andrew">ANDREW
+               You fucking prick!</d>
+
+     <narr>
+     <char who="bender">Bender</char> turns to <char who="andrew">Andrew</char>.  As he speaks, we can see his
+     words hitting home.</narr>
+
+                            <d who="bender">BENDER
+               What do you care what I think,
+               anyway?  I don't even count, right?
+               I could disappear forever and it
+               wouldn't make any difference...I may
+               as well not even exist at this
+               school, remember?
+                    <desc>(he turns to <char who="claire">Claire</char>)</desc>
+               And you...don't like me anyway!</d>
+
+                            <d who="claire">CLAIRE
+               You know, I have just as many
+               feelings as you do and it hurts
+               just as much when somebody steps
+               all over them!</d>
+
+                            <d who="bender">BENDER
+               God, you're so pathetic!
+                    <desc>(furious)</desc>
+               Don't you ever...ever!  Compare
+               yourself to me!  Okay?  You got
+               everything, and I got shit!  Fuckin'
+               Rapunzel, right?  School would
+               probably fucking shut down if you
+               didn't show up!  "Queenie isn't
+               here!"  I like those earrings <char who="claire">Claire</char>.</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(quietly)</desc>
+               Shut up...</d>
+
+                            <d who="bender">BENDER
+               Are those real diamonds, <char who="claire">Claire</char>?</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(angry)</desc>
+               Shut up!</d>
+
+                            <d who="bender">BENDER
+               I bet they are...did you
+               work, for the money
+               for those earrings?</d>
+
+                             <d who="claire">CLAIRE
+                Shut... Your mouth!</d>
+
+                            <d who="bender">BENDER
+               Or did your daddy buy those?</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(furious)</desc>
+               Shut up!</d>
+
+     <narr>
+     <char who="claire">Claire</char> starts crying.</narr>
+
+                            <d who="bender">BENDER
+               I bet he bought those for you!  I
+               bet those are a Christmas gift!
+               Right?  You know what I got for
+               Christmas this year?  It was a
+               banner fuckin' year at the old
+               <char who="bender">Bender</char> family!  I got a carton of
+               cigarettes.  The old man grabbed me
+               and said "Hey!  Smoke up Johnny!"
+               Okay, so go home'n cry to your
+               daddy, don't cry here, okay?</d>
+
+     <narr>
+     There are a few beats.</narr>
+
+                            <d who="andrew">ANDREW
+               My God, are we gonna be like our
+               parents?</d>
+
+                            <d who="claire">CLAIRE
+               Not me...ever...</d>
+
+                           <d who="allison">ALLISON
+               It's unavoidable, it just happens.</d>
+
+                            <d who="claire">CLAIRE
+               What happens?</d>
+
+                           <d who="allison">ALLISON
+               When you grow up, your heart dies.</d>
+
+                            <d who="bender">BENDER
+               Who cares?</d>
+
+     <narr>
+     <char who="allison">Allison</char> is on the verge of tears herself.</narr>
+
+                           <d who="allison">ALLISON
+               I care...</d>
+
+                            <d who="brian">BRIAN
+               Um, I was just thinking, I mean.  I
+               know it's kind of a weird time, but
+               I was just wondering, um, what is
+               gonna happen to us on Monday?  When
+               we're all together again?  I mean I
+               consider you guys my friends, I'm
+               not wrong, am I?</d>
+
+                            <d who="andrew">ANDREW
+               No...</d>
+
+                            <d who="brian">BRIAN
+               So, so on Monday...what happens?</d>
+
+                            <d who="claire">CLAIRE
+               Are we still friends, you mean?
+               If we're friends now, that is?</d>
+
+                            <d who="brian">BRIAN
+               Yeah...</d>
+
+                            <d who="claire">CLAIRE
+               Do you want the truth?</d>
+
+                            <d who="brian">BRIAN
+               Yeah, I want the truth...</d>
+
+                            <d who="claire">CLAIRE
+               I don't think so...</d>
+
+                           <d who="allison">ALLISON
+               Well, do you mean all of us or just
+               John?</d>
+
+                            <d who="claire">CLAIRE
+               With all of you...</d>
+
+                            <d who="andrew">ANDREW
+               That's a real nice attitude, <char who="claire">Claire</char>!</d>
+
+                            <d who="claire">CLAIRE
+               Oh, be honest, Andy...if <char who="brian">Brian</char> came
+               walking up to you in the hall on
+               Monday, what would you do?  I mean
+               picture this, you're there with all
+               the sports.  I know exactly what
+               you'd do, you'd say hi to him and
+               when he left you'd cut him all up
+               so your friends wouldn't think you
+               really liked him!</d>
+
+                            <d who="andrew">ANDREW
+               No way!</d>
+
+                           <d who="allison">ALLISON
+               'Kay, what if I came up to you?</d>
+
+                            <d who="claire">CLAIRE
+               Same exact thing!</d>
+
+                            <d who="bender">BENDER
+                    <desc>(furious and screaming at <char who="claire">Claire</char>)</desc>
+               You are a bitch!</d>
+
+                            <d who="claire">CLAIRE
+               Why?  'Cause I'm telling the truth,
+               that makes me a bitch?</d>
+
+                            <d who="bender">BENDER
+               No!  'Cause you know how shitty that
+               is to do to someone!  And you don't
+               got the balls to stand up to your
+               friends and tell 'em that you're
+               gonna like who you wanna like!</d>
+
+                            <d who="claire">CLAIRE
+               Okay, what about you, you hypocrite!
+               Why don't you take <char who="allison">Allison</char> to one of
+               your heavy metal vomit parties?  Or
+               take <char who="brian">Brian</char> out to the parking lot at
+               lunch to get high?  What about Andy
+               for that matter, what about me?
+               What would your friends say if we
+               were walking down the hall together.
+               They'd laugh their asses off and
+               you'd probably tell them you were
+               doing it with me so they'd forgive
+               you for being seen with me.</d>
+
+                            <d who="bender">BENDER
+                    <desc>(furious once again)</desc>
+               Don't you ever talk about my
+               friends!  You don't know any of my
+               friends, you don't look at any of my
+               friends and you certainly wouldn't
+               condescend to speak to any of my
+               friends so you just stick to the
+               things you know, shopping, nail
+               polish, your father's BMW and your
+               poor--rich--drunk mother in the
+               Carribean!</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(furious and sobbing)</desc>
+               Shut up!</d>
+
+                            <d who="bender">BENDER
+               And as far as being concerned about
+               what's gonna happen when you and I
+               walk down the hallways at school,
+               you can forget it!  'Cause it's never
+               gonna happen!  Just bury your head
+               in the sand...and wait for your
+               fuckin' prom!</d>
+
+                            <d who="claire">CLAIRE
+               I hate you!</d>
+
+                            <d who="bender">BENDER
+               Yeah?  Good!</d>
+
+     <narr>
+     There is silence until <char who="brian">Brian</char> speaks.</narr>
+
+                            <d who="brian">BRIAN
+               Then I assume <char who="allison">Allison</char> and I are
+               better people than you guys, huh?
+               Us weirdos...
+                    <desc>(to <char who="allison">Allison</char>)</desc>
+               Do you, would you do that to me?</d>
+
+                           <d who="allison">ALLISON
+               I don't have any friends...</d>
+
+                            <d who="brian">BRIAN
+               Well if you did?</d>
+
+                           <d who="allison">ALLISON
+               No...I don't think the kind of
+               friends I'd have would mind...</d>
+
+                            <d who="brian">BRIAN
+               I just wanna tell, each of you,
+               that I wouldn't do that...I wouldn't
+               and I will not!  'Cause I think that's
+               real shitty...</d>
+
+                            <d who="claire">CLAIRE
+               Your friends wouldn't mind because
+               they look up to us...</d>
+
+     <narr>
+     <char who="brian">Brian</char> laughs at her.</narr>
+
+                            <d who="brian">BRIAN
+               You're so conceited, <char who="claire">Claire</char>.  You're
+               so conceited.  You're so, like, full
+               of yourself, why are you like that?</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(crying again)</desc>
+               I'm not saying that to be conceited!
+               I hate it!  I hate having to go
+               along with everything my friends say!</d>
+
+                            <d who="brian">BRIAN
+               Well then why do you do it?</d>
+
+                            <d who="claire">CLAIRE
+               I don't know, I don't...you don't
+               understand..you don't.  You're not
+               friends with the same kind of people
+               that Andy and I are friends with!
+               You know, you just don't understand
+               the pressure that they can put on
+               you!</d>
+
+     <narr>
+     <char who="brian">Brian</char> is shocked.</narr>
+
+                            <d who="brian">BRIAN
+               I don't understand what?  You think
+               I don't understand pressure, <char who="claire">Claire</char>?
+               Well fuck you!  Fuck you!</d>
+
+     <narr>
+     <char who="brian">Brian</char> hides his head in his arm because he is crying.</narr>
+
+                            <d who="brian">BRIAN
+               Know why I'm here today?  Do you?
+               I'm here because Mr. Ryan found a
+               gun in the locker...</d>
+
+                            <d who="andrew">ANDREW
+               Why'd you have a gun in your locker?</d>
+
+                            <d who="brian">BRIAN
+               I tried.  You pull the fuckin' trunk
+               on it and the light's s'posed to go
+               on...and it didn't go on, I mean,
+               I...</d>
+
+                            <d who="andrew">ANDREW
+               What's the gun for <char who="brian">Brian</char>?</d>
+
+                            <d who="brian">BRIAN
+               Just forget it...</d>
+
+                            <d who="andrew">ANDREW
+               You brought it up, man!</d>
+
+                            <d who="brian">BRIAN
+               I can't have an F, I can't have it
+               and I know my parents can't have it!
+               Even if I aced the rest of the
+               semester, I'm still only a B.  And
+               everything's ruined for me!</d>
+
+                            <d who="claire">CLAIRE
+                    <desc>(with pity)</desc>
+               Oh <char who="brian">Brian</char>...</d>
+
+     <narr>
+     <char who="brian">Brian</char> bashes a chair over.</narr>
+
+                            <d who="brian">BRIAN
+               So I considered my options, you
+               know?</d>
+
+                            <d who="claire">CLAIRE
+               No!  Killing yourself is not an
+               option!</d>
+
+                            <d who="brian">BRIAN
+               Well I didn't do it, did I?  No, I
+               don't think so!</d>
+
+                           <d who="allison">ALLISON
+               It was a hand gun?</d>
+
+                            <d who="brian">BRIAN
+               No, it was a flare gun, went off
+               in my locker.</d>
+
+                            <d who="andrew">ANDREW
+               Really?</d>
+
+     <narr>
+     <char who="andrew">Andrew</char> starts to laugh.</narr>
+
+                            <d who="brian">BRIAN
+               It's not funny...</d>
+
+     <narr>
+     They all start to laugh, including <char who="brian">Brian</char>.</narr>
+
+                            <d who="brian">BRIAN
+               Yes it is...fuckin' elephant was
+               destroyed!</d>
+
+                           <d who="allison">ALLISON
+               You wanna know what I did to get in
+               here?  Nothing...I didn't have
+               anything better to do.</d>
+
+     <narr>
+     Everyone laughs.</narr>
+
+                           <d who="allison">ALLISON
+               You're laughing at me...</d>
+
+                            <d who="andrew">ANDREW
+               No!</d>
+
+     <narr>
+     <char who="allison">Allison</char> starts to laugh too.</narr>
+
+                           <d who="allison">ALLISON
+               Yeah you are!</d>
+
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+31. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     Later.</narr>
+     <narr>
+     We see <char who="brian">Brian</char> putting a record on and then music starts.</narr>
+     <narr>
+     We see them all dancing.  This goes on for the duration
+     of the song.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+32. <loc int="true">INT. HEATING DUCT - DAY</loc>
+     <narr>
+     We see <char who="bender">Bender</char> crawling back through the heating duct.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+33. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     <char who="andrew">Andrew</char>, <char who="allison">Allison</char>, <char who="claire">Claire</char> and <char who="brian">Brian</char> are sitting, in that
+     order on the railing.</narr>
+
+                            <d who="claire">CLAIRE
+               <char who="brian">Brian</char>?</d>
+
+                            <d who="brian">BRIAN
+               Yeah?</d>
+
+                            <d who="claire">CLAIRE
+               Are you gonna write your paper?</d>
+
+                            <d who="brian">BRIAN
+               Yeah, why?</d>
+
+                            <d who="claire">CLAIRE
+               Well, it's kinda a waste for all of
+               us to write our paper, don't you
+               think?</d>
+
+                            <d who="brian">BRIAN
+               Oh, but that's what <char who="vernon">Vernon</char> wants us
+               to do...</d>
+
+                            <d who="claire">CLAIRE
+               True, but I think we'd all kinda
+               say the same thing.</d>
+
+                            <d who="brian">BRIAN
+               You just don't want to write your
+               paper...Right?</d>
+
+                            <d who="claire">CLAIRE
+               True, but, you're the smartest,
+               right?</d>
+
+                            <d who="brian">BRIAN
+                    <desc>(with pride)</desc>
+               Oh, well...</d>
+
+                            <d who="claire">CLAIRE
+               We trust you...</d>
+
+     <narr>
+     <char who="brian">Brian</char> glances over at <char who="allison">Allison</char> and <char who="andrew">Andrew</char> who nod in
+     approval.</narr>
+
+                            <d who="andrew">ANDREW
+               Yeah...</d>
+
+                            <d who="brian">BRIAN
+               All right, I'll do it...</d>
+
+                            <d who="claire">CLAIRE
+               Great...</d>
+
+     <narr>
+     <char who="claire">Claire</char> looks at <char who="allison">Allison</char> who looks back.</narr>
+
+                            <d who="claire">CLAIRE
+                    <desc>(to <char who="allison">Allison</char>)</desc>
+               Come on...</d>
+
+                           <d who="allison">ALLISON
+               Where're we going?</d>
+
+                            <d who="claire">CLAIRE
+               Come on!</d>
+
+     <narr>
+     We see <char who="claire">Claire</char> putting eye make-up on <char who="allison">Allison</char>.</narr>
+
+                            <d who="claire">CLAIRE
+               Don't be afraid.</d>
+
+                           <d who="allison">ALLISON
+               Don't stick that in my eye!</d>
+
+                            <d who="claire">CLAIRE
+               I'm not sticking it, just close...
+               just go like that...</d>
+
+     <narr>
+     <char who="claire">Claire</char> closes her eyes.  <char who="allison">Allison</char> mimics her.</narr>
+
+                            <d who="claire">CLAIRE
+               Good...</d>
+
+     <narr>
+     <char who="claire">Claire</char> puts the make-up on her and <char who="allison">Allison</char> squeals.</narr>
+
+                            <d who="claire">CLAIRE
+               You know you really do look a lot
+               better without all that black shit
+               on your eyes...</d>
+
+                           <d who="allison">ALLISON
+               Hey...I like that black shit...</d>
+
+                            <d who="claire">CLAIRE
+               This looks a lot better...look up.</d>
+
+     <narr>
+     We see <char who="brian">Brian</char> thinking about what he's going to write.</narr>
+     <narr>
+     We see <char who="andrew">Andrew</char> just thinking.</narr>
+     <narr>
+     We see <char who="allison">Allison</char> and <char who="claire">Claire</char> again.  <char who="claire">Claire</char> is still
+     putting make-up on <char who="allison">Allison</char>.</narr>
+
+                           <d who="allison">ALLISON
+               Please, why're you being so nice to
+               me?</d>
+
+                            <d who="claire">CLAIRE
+               'Cause you're letting me.</d>
+
+     <narr>
+     We see <char who="brian">Brian</char> begin to write.</narr>
+     <narr>
+     We see <char who="andrew">Andrew</char>, still deep in thought.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+34. <loc int="true">INT. CLOSET - DAY</loc>
+     <narr>
+     We see <char who="bender">Bender</char>, in the closet once again.  <char who="claire">Claire</char> opens
+     the door and enters.</narr>
+
+                            <d who="bender">BENDER
+               You lost?</d>
+
+     <narr>
+     <char who="claire">Claire</char> stares at him.</narr>
+     <narr>
+     <char who="bender">Bender</char> smiles.</narr>
+     <narr>
+     <char who="claire">Claire</char> smiles.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+35. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     <char who="brian">Brian</char> is busily preparing the essay.</narr>
+     <narr>
+     <char who="andrew">Andrew</char> looks up and sees the newly made over <char who="allison">Allison</char>
+     and is in awe.</narr>
+     <narr>
+     <char who="allison">Allison</char> walks towards him and stops when she notices
+     <char who="brian">Brian</char> staring at her with his mouth open.</narr>
+     <narr>
+     She glares at him.</narr>
+
+                            <d who="brian">BRIAN
+               Cool!</d>
+
+                           <d who="allison">ALLISON
+                    <desc>(smiling)</desc>
+               Thank you!</d>
+
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+36. <loc int="true">INT. CLOSET - DAY</loc>
+     <narr>
+     <char who="claire">Claire</char> kisses <char who="bender">Bender</char>, then she breaks the kiss.</narr>
+
+                            <d who="bender">BENDER
+               Why'd you do that?</d>
+
+                            <d who="claire">CLAIRE
+               'Cause I knew you wouldn't.</d>
+
+                            <d who="bender">BENDER
+               You know how you said before, how
+               your parents used you to get back
+               at each other...wouldn't I be
+               outstanding in that capacity?</d>
+
+                            <d who="claire">CLAIRE
+               Were you really disgusted about
+               what I did with my lipstick?</d>
+
+                            <d who="bender">BENDER
+               Truth?</d>
+
+                            <d who="claire">CLAIRE
+               Truth...</d>
+
+     <narr>
+     <char who="bender">Bender</char> nods and speaks at the same time.</narr>
+
+                            <d who="bender">BENDER
+               No...</d>
+
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+37. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     We see <char who="brian">Brian</char> lift up his paper and kiss it.</narr>
+     <narr>
+     We see <char who="andrew">Andrew</char> and <char who="allison">Allison</char>.</narr>
+
+                            <d who="andrew">ANDREW
+               What happened to you?</d>
+
+                           <d who="allison">ALLISON
+        Why?  <char who="claire">Claire</char> did it!  What's wrong?</d>
+
+                            <d who="andrew">ANDREW
+               Nothing's wrong, it's just so
+               different.  I can see your face.</d>
+
+                           <d who="allison">ALLISON
+               Is that good or bad?</d>
+
+                            <d who="andrew">ANDREW
+                    <desc>(laughing)</desc>
+               It's good!</d>
+
+     <narr>
+     <char who="allison">Allison</char> smiles.</narr>
+     <narr>
+     We see <char who="brian">Brian</char> laugh and give himself a congratulatory
+     punch in the arm.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+38. <loc int="true">INT. HALLWAY - DAY</loc>
+     <narr>
+     The five are walking down the hall where they are met
+     by <char who="carl">Carl</char>, sweeping up.  <char who="brian">Brian</char> nods at him.</narr>
+
+                             <d who="carl">CARL
+               See ya <char who="brian">Brian</char>...</d>
+
+                            <d who="brian">BRIAN
+               Hey <char who="carl">Carl</char>...</d>
+
+                            <d who="bender">BENDER
+                    <desc>(to <char who="carl">Carl</char>)</desc>
+               See you next Saturday...</d>
+
+                             <d who="carl">CARL
+               You bet!</d>
+
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+39. <loc ext="true">EXT. PARKING LOT - DAY</loc>
+     <narr>
+     <char who="brian">Brian</char> gets into his dad's car and leaves.
+     <char who="andrew">Andrew</char> and <char who="allison">Allison</char> kiss, <char who="allison">Allison</char> rips a patch off
+     <char who="andrew">Andrew</char>'s jacket and gets into the car.</narr>
+     <narr>
+     <char who="andrew">Andrew</char>'s dad arrives and looks at him, then at <char who="allison">Allison</char>.</narr>
+     <narr>
+     <char who="andrew">Andrew</char> gets into the car and they drive off.</narr>
+     <narr>
+     We see <char who="claire">Claire</char> take out one of her diamond earrings
+     and put it into <char who="bender">Bender</char>s hand.  They kiss and she gets
+     into her car.  She leaves.</narr>
+     <narr>
+     We see <char who="bender">Bender</char> put the earring in his ear.</narr>
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+40. <loc int="true">INT. LIBRARY - DAY</loc>
+     <narr>
+     We see <char who="vernon">Vernon</char> pick up <char who="brian">Brian</char>'s essay and begin to read.</narr>
+
+                          <d who="brian" vo="true">BRIAN (VO)
+               Dear Mr. <char who="vernon">Vernon</char>, we accept the fact
+               that we had to sacrifice a whole
+               Saturday in detention for whatever
+               it was we did wrong.  But we think
+               you're crazy to make an essay
+               telling you who we think we are.
+               You see us as you want to see us...
+               In the simplest terms, in the most
+               convenient definitions.</d>
+
+                                                  <narr>CUT TO:</narr>
+        </scene>
+        <scene>
+41. <loc ext="true">EXT. FOOTBALL FIELD - DAY</loc>
+     <narr>
+     We see <char who="bender">Bender</char> walking towards us as <char who="brian">Brian</char>'s monologue
+     continues.</narr>
+
+                          <d who="brian" vo="true">BRIAN (VO)
+                    <desc>(CONT'D)</desc>
+               But what we found out is that each
+               one of us is a brain...</d>
+
+                        <d who="andrew" vo="true">ANDREW (VO)
+               ...and an athlete...</d>
+
+                         <d who="allison" vo="true">ALLISON (VO)
+               ...and a basket case...</d>
+
+                         <d who="claire" vo="true">CLAIRE (VO)
+               ...a princess...</d>
+
+                         <d who="bender" vo="true">BENDER (VO)
+               ...and a criminal...</d>
+
+                          <d who="brian" vo="true">BRIAN (VO)
+               Does that answer your question?
+               Sincerely yours, the Breakfast Club.</d>
+
+     <narr>
+     We see <char who="bender">Bender</char> walking across the football field
+     as he thrusts his fist into the air in a silent cheer
+     and freezes there.</narr>
+        </scene>
+
+                      <credits>The Breakfast Club
+                             Starring...
+          Andrew Clark.............Emilio Estevez
+          Richard Vernon...........Paul Gleason
+          Brian Johnson............Anthony Michael Hall
+          Carl.....................John Kapelos
+          John Bender..............Judd Nelson
+          Claire Standish..........Molly Ringwald
+          Allison Reynolds.........Ally Sheedy</credits>
+</script>
+</root>
