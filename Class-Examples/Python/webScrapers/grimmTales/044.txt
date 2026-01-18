@@ -1,0 +1,114 @@
+	Rumpelstiltskin
+
+Once there was a miller who was poor, but who had a beautiful
+daughter.  Now it happened that he had to go and speak to the
+king, and in order to make himself appear important he said
+to him, I have a daughter who can spin straw into gold.  The
+king said to the miller, that is an art which
+pleases me well, if your daughter is as clever as you say, bring
+her to-morrow to my palace, and I will put her to the test.
+
+And when the girl was brought to him he took her into a room
+which was quite full of straw, gave her a spinning-wheel and a
+reel, and said, now set to work, and if by to-morrow morning
+early you have not spun this straw into gold during the night,
+you must die.  Thereupon he himself locked up the room, and
+left her in it alone.  So there sat the poor miller's daughter,
+and for the life of her could not tell what to do, she had no
+idea how straw could be spun into gold, and she grew more and
+more frightened, until at last she began to weep.
+
+But all at once the door opened, and in came a little man,
+and said, good evening, mistress miller, why are you crying so.
+Alas, answered the girl, I have to spin straw into gold, and I do
+not know how to do it.  What will you give me, said the
+manikin, if I do it for you.  My necklace, said the girl.  The
+little man took the necklace, seated himself in front of the
+wheel, and whirr, whirr, whirr, three turns, and the reel was
+full, then he put another on, and whirr, whirr, whirr, three times
+round, and the second was full too.  And so it went on until
+the morning, when all the straw was spun, and all the reels
+were full of gold.
+
+By daybreak the king was already there, and
+when he saw the gold he was astonished and delighted, but his
+heart became only more greedy.  He had the miller's daughter
+taken into another room full of straw, which was much larger,
+and commanded her to spin that also in one night if she valued
+her life.  The girl knew not how to help herself, and was
+crying, when the door opened again, and the little man appeared,
+and said, what will you give me if I spin that straw into gold
+for you.  The ring on my finger, answered the girl.  The little
+man took the ring, again began to turn the wheel, and by
+morning had spun all the straw into glittering gold.
+
+The king rejoiced beyond measure at the sight, but still he had
+not gold enough, and he had the miller's daughter taken into
+a still larger room full of straw, and said, you must spin this,
+too, in the course of this night, but if you succeed, you shall
+be my wife.
+
+Even if she be a miller's daughter, thought he, I could not
+find a richer wife in the whole world.
+
+When the girl was alone the manikin came again for the third
+time, and said, what will you give me if I spin the straw for
+you this time also.  I have nothing left that I could give,
+answered the girl.  Then promise me, if you should become queen,
+to give me your first child.  Who knows whether that will
+ever happen, thought the miller's daughter, and, not knowing
+how else to help herself in this strait, she promised the
+manikin what he wanted, and for that he once more spun the
+straw into gold.
+
+And when the king came in the morning, and found all as he
+had wished, he took her in marriage, and the pretty miller's
+daughter became a queen.
+
+A year after, she brought a beautiful child into the world,
+and she never gave a thought to the manikin.  But suddenly he
+came into her room, and said, now give me what you promised.
+
+The queen was horror-struck, and offered the manikin all the
+riches of the kingdom if he would leave her the child.  But the
+manikin said, no, something alive is dearer to me than all the
+treasures in the world.  Then the queen began to lament and cry,
+so that the manikin pitied her.  I will give you three days,
+time, said he, if by that time you find out my name, then shall
+you keep your child.
+
+So the queen thought the whole night of all the names that
+she had ever heard, and she sent a messenger over the country to
+inquire, far and wide, for any other names that there might be.
+When the manikin came the next day, she began with caspar,
+melchior, balthazar, and said all the names she knew, one
+after another, but to every one the little man said, that is not
+my name.  On the second day she had inquiries made in the
+neighborhood as to the names of the people there, and she
+repeated to the manikin the most uncommon and curious.  Perhaps
+your name is shortribs, or sheepshanks, or laceleg, but he
+always answered, that is not my name.
+
+On the third day the messenger came back again, and said, I
+have not been able to find a single new name, but as I came to
+a high mountain at the end of the forest, where the fox and the hare
+bid each other good night, there I saw a little house, and
+before the house a fire was burning, and round about the fire
+quite a ridiculous little man was jumping, he hopped upon
+one leg, and shouted -
+          to-day I bake, to-morrow brew,
+          the next I'll have the young queen's child.
+          Ha, glad am I that no one knew
+          that Rumpelstiltskin I am styled.
+
+You may imagine how glad the queen was when she heard the
+name.  And when soon afterwards the little man came in, and
+asked, now, mistress queen, what is my name, at first she
+said, is your name Conrad?  No.  Is your name Harry?  No.
+Perhaps your name is Rumpelstiltskin?
+
+The devil has told you that!  The devil has told you that, cried
+the little man, and in his anger he plunged his right foot so
+deep into the earth that his whole leg went in, and then in
+rage he pulled at his left leg so hard with both hands that
+he tore himself in two.

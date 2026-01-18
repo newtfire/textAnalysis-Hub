@@ -1,0 +1,26 @@
+{ We are aiming for this structure: 
+ <film>
+  <title>Goodbye to All That</title>
+  <year>1930</year>
+  <country>UK</country>
+  <runtime>9 min</runtime>
+</film>
+}
+
+xml: firstline, film++newline.
+firstline: "title", tab, "year", tab, "country", tab, "runtime", newline?.
+film: title, year, country, runtime, newline?.
+
+{title: quote?, titleWord++space, quote?.}
+title: -quote?, ~[#22;#9;#d;#a]+, -quote?.
+year: -tab, ["12"],["910"],["0"-"9"],["0"-"9"].
+{ebb: This should match a year in the 1900s and 2000s to the 2010s if represented.}
+country: -tab, quote?, word++space, quote?.
+runtime: -tab, (["0"-"9"],["0"-"9"]?, ["0"-"9"]?, space, "min"; "N", "/","A"), space?.
+-newline: #d?,#a.
+{-titleWord: (["A"-"z"];["0"-"9"];["!?,.:"];"-";"'")+.}
+-word: ["A"-"z";",";"/"]+.
+-space:" ".
+-tab: -#9.
+-quote: -#22.
+-digit: ["0"-"9"].

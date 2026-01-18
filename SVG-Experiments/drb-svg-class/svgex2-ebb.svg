@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc>island sizes</desc>
+    <g alignment-baseline="baseline">
+        <!--Write your SVG line and rectangle and text elements here!-->  
+        <g transform="translate(100, 600)">    
+            
+            
+            <g>
+                <rect x="100" y="-500" width="50" height="500" fill="red"></rect>
+                <rect x="300" y="-100" width="50" height="100" fill="yellow"></rect>
+                <rect x="500" y="-200" width="50" height="200" fill="blue"></rect>
+                
+            </g>
+            <g>
+                <text x="200" y="650">Tahiti</text>
+                <text x="400" y="650">Raiatea</text>
+                <text x="600" y="650">Tongatapu</text>
+                <text x="300" y="50" font-size="50">Island Sizes</text>
+            </g>
+            <g>
+                <text x="25" y="600">(0 sq mi)</text>
+                <text x="25" y="500">(65 sq mi)</text>
+                <text x="25" y="400">(100 sq mi)</text>
+                <text x="25" y="100">(404 sq mi)</text>
+                <text x="25" y="300">(200 sq mi)</text>
+                <text x="25" y="200">(300 sq mi)</text>
+            </g>
+            <g id="axes">
+                <line x1="0" y1="0" x2="700" y2="0" stroke="red" ></line>
+                <line x1="0" y1="0" x2="0" y2="-600" stroke="green"></line>
+            </g>
+            
+            
+        </g>
+       
+    </g>
+    
+    
+    
+    
+</svg>

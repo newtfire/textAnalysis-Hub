@@ -1,0 +1,20 @@
+start = apollo13
+apollo13 = element apollo13 {doc, head, body}
+doc = element doc {source, type?, empty}
+source = attribute source {"nasa" | "esa" | "rsa"}
+type = attribute type {"techtranscript"}
+
+head = element head {crew, groundControl}
+crew = element crew {person+}
+person = element person {role, text}
+role = attribute role {xsd:ID}
+groundControl = element groundControl {person+}
+
+body = element body {(transmission | O2-tank-anomaly)*}
+O2-tank-anomaly = element O2-tank-anomaly {empty}
+transmission = element transmission {MET, com, mixed{ (panel | MCandW)* } }
+panel = element panel {text}
+MCandW = element MCandW {text}
+MET = attribute MET {xsd:duration}
+com = attribute com {xsd:IDREF}
+
