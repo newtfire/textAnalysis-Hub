@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+
+    <g alignment-baseline="baseline"/>
+    
+    <g id="mommacaterpillar">
+    <desc>caterpillar body</desc>
+    <circle cx="600" cy="300" r="70" stroke="green" stroke-width="4" fill="green"/>
+    <circle cx="675" cy="420" r="70" stroke="green" stroke-width="4" fill="green"/>
+    <circle cx="778" cy="520" r="70" stroke="green" stroke-width="4" fill="green"/>
+    
+    <desc>caterpillar antennae</desc>
+    <path d="M 610 230 Q 500 100 670 150" stroke="green" stroke-width="4" fill="transparent"/>
+    <path d="M 490 230 Q 500 100 570 250" stroke="green" stroke-width="4" fill="transparent"/>
+    
+    <desc>caterpillar legs</desc>
+    <line x1="630" y1="475" x2="590" y2="510" style="stroke:green;stroke-width:4"/>
+    <line x1="620" y1="465" x2="580" y2="500" style="stroke:green;stroke-width:4"/>
+    <line x1="820" y1="565" x2="680" y2="610" style="stroke:green;stroke-width:4"/>
+    <line x1="810" y1="555" x2="670" y2="600" style="stroke:green;stroke-width:4"/>
+    </g>
+    
+    <g id="papacaterpillar">
+        <desc>caterpillar body</desc>
+        <circle cx="900" cy="290" r="80" stroke="green" stroke-width="4" fill="darkgreen"/>
+        <circle cx="975" cy="410" r="80" stroke="green" stroke-width="4" fill="darkgreen"/>
+        <circle cx="1078" cy="510" r="80" stroke="green" stroke-width="4" fill="darkgreen"/>
+        
+        <desc>caterpillar antennae</desc>
+        <path d="M 910 230 Q 800 95 970 150" stroke="darkgreen" stroke-width="4" fill="transparent"/>
+        <path d="M 790 230 Q 800 95 870 250" stroke="darkgreen" stroke-width="4" fill="transparent"/>
+        
+        <desc>caterpillar legs</desc>
+        <line x1="930" y1="475" x2="890" y2="510" style="stroke:darkgreen;stroke-width:4"/>
+        <line x1="920" y1="465" x2="880" y2="500" style="stroke:darkgreen;stroke-width:4"/>
+        <line x1="1120" y1="565" x2="980" y2="610" style="stroke:darkgreen;stroke-width:4"/>
+        <line x1="1110" y1="555" x2="970" y2="600" style="stroke:darkgreen;stroke-width:4"/>
+    </g>
+    <g id="babycaterpillar">
+        <desc>caterpillar body</desc>
+        <circle cx="450" cy="410" r="40" stroke="lightgreen" stroke-width="4" fill="lightgreen"/>
+        <circle cx="485" cy="480" r="40" stroke="lightgreen" stroke-width="4" fill="lightgreen"/>
+        <circle cx="530" cy="550" r="40" stroke="lightgreen" stroke-width="4" fill="lightgreen"/>
+        
+        <desc>caterpillar antennae</desc>
+        <path d="M 420 390 Q 400 200 350 350" stroke="lightgreen" stroke-width="4" fill="transparent"/>
+        <path d="M 470 390 Q 400 200 500 350" stroke="lightgreen" stroke-width="4" fill="transparent"/>
+        
+        
+    </g>
+</svg>
