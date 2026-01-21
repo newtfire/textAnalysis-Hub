@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+        
+        <text x="300" y="30" text-anchor="middle" font-size="18" letter-spacing="1"> Relative Size (sq miles) of Polynesian Islands 
+                <animateTransform
+                        attributeName="transform"
+                        begin="0s"
+                        dur="1s"
+                        type="rotate"
+                        from="0 85 85"
+                        to="360 85 85"
+                        repeatCount="1" />
+        
+        </text>
+        
+
+        <line x1="80" y1="60" x2="80" y2="330" style="stroke:black;stroke-width:2">
+                <animateMotion
+                        path="M0,0 q5,0 0,0 q5,-20 0,0"
+                        begin="0s"
+                        dur="10s"
+                        repeatCount="indefinite" />
+        </line>
+        
+        
+
+        <line x1="80" y1="330" x2="540" y2="330" style="stroke:black;stroke-width:2">
+                <animateMotion
+                        path="M0,2 q20,2 2,2 q8,-18 5,5"
+                        begin="0s"
+                        dur="10s"
+                        repeatCount="indefinite" />
+                
+        </line>
+        
+
+        <rect x="140" y="130" width="80" height="199" fill="lightblue">
+                <animateMotion
+                        path="M0,2 8,2 2,2 q8,-18 5,5"
+                        begin="0s"
+                        dur="10s"
+                        repeatCount="indefinite" />
+                
+        </rect>
+        <text x="180" y="120" text-anchor="middle">404
+                <animateTransform
+                        attributeName="transform"
+                        begin="0s"
+                        dur="1s"
+                        type="rotate"
+                        from="0 200 200"
+                        to="360 200 0"
+                        repeatCount="5s" />
+        
+        </text>
+        <text x="180" y="350" text-anchor="middle">Tahiti</text>
+        
+
+        <rect x="270" y="274" width="80" height="55" fill="lightgreen">
+                <animateMotion
+                        path="M0,-2 -8,2 2,6 q4,-18 1,5"
+                        begin="0s"
+                        dur="10s"
+                        repeatCount="indefinite" />
+                
+                
+        </rect>
+        <text x="310" y="264" text-anchor="middle">100
+                <animateTransform
+                        attributeName="transform"
+                        begin="0s"
+                        dur="1s"
+                        type="rotate"
+                        from="0 500 500"
+                        to="360 200 0"
+                        repeatCount="5s" />
+        
+        </text>
+        <text x="310" y="350" text-anchor="middle">Tongatapu</text>
+        
+
+        <rect x="400" y="289" width="80" height="40" fill="orange">
+                <animateMotion
+                        path="M0,0 4,2 5,6 q6,-20 1,5"
+                        begin="0s"
+                        dur="10s"
+                        repeatCount="indefinite" />
+                
+                
+        </rect>
+        <text x="440" y="279" text-anchor="middle">65
+                <animateTransform
+                        attributeName="transform"
+                        begin="0s"
+                        dur="1s"
+                        type="rotate"
+                        from="0 700 300"
+                        to="360 200 400"
+                        repeatCount="5s" />
+        </text>
+        <text x="440" y="350" text-anchor="middle">Raiatea</text>
+        
+
+        <text x="30" y="220" transform="rotate(-90 30,220)" font-size="14" letter-spacing="2"> Area (Square Miles) 
+                <animateTransform
+                        attributeName="transform"
+                        begin="0s"
+                        dur="1s"
+                        type="rotate"
+                        from="0 100 100"
+                        to="360 85 85"
+                        repeatCount="1" />
+        </text>
+        
+</svg>
+    
