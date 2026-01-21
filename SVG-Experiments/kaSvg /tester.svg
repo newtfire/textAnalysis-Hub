@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc>Island SVG File</desc>
+   <desc>For this assigment I tried to create circles in relation to how big each island would be from each other. I know that the scale isn't
+   correct to how big each island actually looks next to each other, but I thought a visual with the square miles might be interesting. I also know that 
+   these islands aren't stacked on top of each other like it is in the file but I just wanted to try different things out.</desc>
+    <g>
+        <line x1="500" y1="900" x2="500" y2="5" stroke="#7DF9FF" stroke-width="2000"/>
+        <!-- 7DF9FF is electric blue --> 
+    </g>
+        <g>
+            <text x="20" y="100">Pacific Ocean</text>  
+            
+        </g>
+        <g class="special shapes"> 
+        <circle cx="400" cy="300" r="100" fill="green"/>
+            
+            <text x="450" y="200">Tahiti </text>
+            
+            <text x="335" y="300">404 Square Miles</text>
+        </g>
+        
+        <g class="special shapes"> 
+            <circle cx="600" cy="400" r="70" fill="orange"/>
+            
+            <text x="650" y="320">Tongatapu </text>
+            
+            <text x="545" y="400">100 Square Miles</text>
+        </g>
+        
+        <g class="special shapes"> 
+            <circle cx="725" cy="500" r="60" fill="purple"/>
+            
+            <text x="735" y="430">Raiatea </text>
+            
+            <text x="675" y="500">65 Square Miles</text>
+            
+        </g>
+   
+    
+    <!--    <g transform="translate(50, 500)">
+     <desc>ebb: transform="translate(x, y)" moves 0,0 over and own by the x and y value you input.
+      You can use this to move 0,0 down the screen to make it easier to plot things above it.
+      What goes *above* 0,0 can just be expressed using negative values.</desc>
+        
+      <line x1="20" y1="0" x2="500" y2="0" stroke="purple" stroke-width="10"/>
+        
+      <line x1="20" y1="0" x2="20" y2="-300" stroke="green" stroke-width="5"/>
+    </g>   -->
+    
+    <!--<g >
+        <line x1="20" y1="30" x2="500" y2="30" stroke="purple" stroke-width="5"/>
+        
+        <line x1="20" y1="30" x2="20" y2="500" stroke="green" stroke-width="5"/>
+        
+        
+        <line x1="20" y1="500" x2="500" y2="500" stroke="purple" stroke-width="5"/>
+        
+        <g class="specialShapes"> 
+            <line x1="100" y1="200" x2="100" y2="500" stroke="orange" stroke-width="5"/>
+            <circle cx="100" cy="200" r="50" fill="purple" />
+        </g>
+        
+    </g>-->
+    
+    
+    <!-- <line x1="30" y1="45" x2="600" y2="45" stroke="orange" stroke-width="7"/> 
+        
+        <line x1="60" y1="50" x2="800" y2="80" stroke="purple" stroke-width="9"/>
+        
+        <line x1="100" y1="70" x2="900" y2="100" stroke="green" stroke-width="15"/>-->
+    
+</svg>
