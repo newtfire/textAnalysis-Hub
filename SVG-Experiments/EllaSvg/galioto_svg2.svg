@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="250">
+    <g id="axes" transform="translate(5,5) rotate(0)" style="stroke:black;stroke-width:8">
+        <animateMotion 
+            path="M0,0 q60,100 100, 0 q60,-20 100,0"
+            begin="0s"
+            dur="10s"
+            repeatCount="indefinite"/>
+        <line x1="5" x2="5" y1="5" y2="240"/>
+        <line x1="5" x2="280" y1="240" y2="240"/>
+    </g>
+
+    <g id="dataPoints" transform="translate(5,6)" style="stroke-width:20">
+        <animateMotion 
+            path="M0,0 q60,100 100, 0 q60,-20 100,0"
+            begin="0s"
+            dur="10s"
+            repeatCount="indefinite"/>
+        <line x1="60" x2="60" y1="100" y2="235" style="stroke:red"/>
+        <line x1="140" x2="140" y1="50" y2="235" style="stroke:blue"/>
+        <line x1="220" x2="220" y1="20" y2="235" style="stroke:purple"/>
+    </g>
+
+    <g id="descriptions">
+        <animateMotion 
+            path="M0,0 q60,100 100, 0 q60,-20 100,0"
+            begin="0s"
+            dur="10s"
+            repeatCount="indefinite"/>
+        <text x="15" y="100">Raiatea 65 sq mi</text>
+        <text x="70" y="50">Tongatapu 100 sq mi</text>
+        <text x="170" y="20">Tahiti 404 sq mi;</text>
+    </g>
+</svg>
