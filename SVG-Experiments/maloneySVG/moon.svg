@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc>This is a moon made of two circle SVGs</desc>
+    <defs>
+        <filter id="f1">
+            <feGaussianBlur stdDeviation="3"/>
+        </filter>
+    </defs>
+    <script type="text/javascript" src="moonMove.js"/>    
+    <circle cx="200" cy="150" r="100" stroke="black" fill="yellow" stroke-width="4"/>
+    <circle cx="220" cy="150" r="80" stroke="black" fill="black" stroke-width="4" filter="url(#f1)"/>
+    <polygon id="star" points="100,10 40,198 190,78 10,78 160,198"
+        style="fill:yellow;stroke:orange;stroke-width:5;" transform="scale(.5)"/>
+</svg>
+<!--You can click and drag the SVG btw-->
