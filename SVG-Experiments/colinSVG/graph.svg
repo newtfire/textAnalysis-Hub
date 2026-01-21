@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc>Graph</desc>
+    <g alignment-baseline="baseline"></g>
+    <!--Background-->
+<g>
+    <line x1="550" y1="280" x2="545" y2="300" stroke="lightblue" stroke-width="1000000000"></line>
+</g>
+<g>
+    <polygon points="100 100, 100 600, 1000 600, 1000 100 " fill="white"/>
+</g>
+<g>
+    <text x="300" y="140" fill="black" font-size="25">Number of Superbowl Wins Between 4 NFL Teams</text>
+</g>
+<g>
+    <line x1="150" y1="150" x2="150" y2="500" stroke="black" stroke-width="5"></line>
+    <line x1="147.5" y1="500" x2="900" y2="500" stroke="black" stroke-width="5"></line>
+</g>
+    <g>
+        <desc>Steelers</desc>
+        <rect width="125" height="301" x="200" y="196" fill="yellow" />
+        <text x="190" y="530" fill="black" font-size="17">Pittsburgh Steelers (6)</text>
+    </g>
+    <g>
+        <desc>Raiders</desc>
+        <rect width="125" height="150" x="375" y="347" fill="grey" />
+        <text x="375" y="530" fill="black" font-size="17">Oakland Raiders (3)</text>
+    </g>
+    <g>
+        <desc>Packers</desc>
+        <rect width="125" height="200" x="550" y="297" fill="red" />
+        <text x="540" y="530" fill="black" font-size="17">Kansas City Chiefs (4)</text>
+    </g>
+    <g>
+        <desc>Browns</desc>
+        <text x="720" y="530" fill="black" font-size="17">Cleveland Browns (0)</text>
+        <rect width="125" height="5" x="725" y="493" fill="orange" />
+    </g>
+    <desc>animating</desc>
+    <text x="900" y="100" fill="black" font-size="20"></text>
+    <circle cx="950" cy="150" r="40" fill="purple">
+        <animate
+            attributeName="cx"
+            begin="0s"
+            dur="3s"
+            from="950"
+            to="1100"
+            repeatCount="indefinite"
+            
+        />
+        <animate
+            attributeName="cy"
+            begin="0s"
+            dur="3s"
+            from="150"
+            to="400"
+            repeatCount="indefinite"
+            
+        />
+    </circle>
+</svg>
+
