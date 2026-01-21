@@ -1,0 +1,62 @@
+<svg width="300" height="300" viewBox="0 0 300 300"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- merging the head and ears -->
+  <path d="
+    M90 235
+    Q45 210 55 165
+    Q60 135 75 115
+    Q40 45 95 70
+    Q135 100 120 125
+    Q135 115 150 115
+    Q165 115 180 125
+    Q165 100 205 70
+    Q260 45 225 115
+    Q240 135 245 165
+    Q255 210 210 235
+    Q150 265 90 235
+    Z"
+    fill="none"
+    stroke="black"
+    stroke-width="8"
+    stroke-linecap="round"
+    stroke-linejoin="round" />
+
+  <!-- drawing the eyes -->
+  <circle cx="120" cy="155" r="10"
+          fill="none" stroke="black" stroke-width="8" />
+  <circle cx="180" cy="155" r="10"
+          fill="none" stroke="black" stroke-width="8" />
+
+  <!-- drawing the nose -->
+  <circle cx="150" cy="175" r="4"
+          fill="none" stroke="black" stroke-width="8" />
+
+  <!-- drawing the mouth -->
+  <path d="M150 185 Q138 198 120 198"
+        fill="none" stroke="black" stroke-width="8"
+        stroke-linecap="round" />
+  <path d="M150 185 Q162 198 180 198"
+        fill="none" stroke="black" stroke-width="8"
+        stroke-linecap="round" />
+
+  <!-- drawing the whiskers -->
+  <g fill="none" stroke="black" stroke-width="4" stroke-linecap="round">
+    <path d="M90 175 Q120 170 135 175" />
+    <path d="M90 192 Q120 187 135 192" />
+    <path d="M210 175 Q180 170 165 175" />
+    <path d="M210 192 Q180 187 165 192" />
+  </g>
+
+  <!-- adding some ear details -->
+  <g fill="none" stroke="black" stroke-width="4" stroke-linecap="round">
+    <!-- left ear -->
+    <path d="M90 95 Q80 85 85 75" />
+    <path d="M105 105 Q95 90 100 80" />
+
+    <!-- right ear -->
+    <path d="M210 95 Q220 85 215 75" />
+    <path d="M195 105 Q205 90 200 80" />
+  </g>
+
+</svg>
