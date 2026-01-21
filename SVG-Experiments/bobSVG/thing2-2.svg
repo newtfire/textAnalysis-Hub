@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg" width="100%" height="100%" viewBox="0 0 2100 1450">
+<desc>three largest islands by landmass, scaled with borneo as the base</desc>
+
+	<!-- background fill -->
+		<rect width="100%" height="100%" x="0" y="0" fill="#FEE8C8"/>
+		
+	<!-- label -->
+		<text style="fill:black; font-size:100px" x="20" y="100">
+			Three Largest Islands In The World (By Landmass)
+		</text>
+	
+	<!-- Kalimantan -->
+		<g>
+			<!-- country flag -->
+				<g>
+					<path d="M 100 400 A 200 200 0 1 1 500 400" stroke="#FF0000" stroke-width="1" fill="#FF0000" />
+					<path d="M 100 400 A 200 200 0 1 0 500 400" stroke="#FFFFFF" stroke-width="1" fill="#FFFFFF" />
+				</g>
+			<!-- label -->
+				<g>
+					<circle id="borneo" cx="300" cy="400" r="200" fill="none" stroke="none" stroke-width="5"/>
+					<text style="fill:%23000000; font-size:50px">
+						<textPath href="#borneo" textLength="100%" startOffset="660">
+							Kalimantan: 748.168 sq.km
+						</textPath>
+					</text>
+				</g>
+		</g>
+	
+	<!-- Kalaallit Nunaat -->
+		<g>
+			<!-- country flag -->
+				<g>
+					<path d="M 530 850 A 570 570 0 1 1 1670 850" stroke="#D00C33" stroke-width="1" fill="#D00C33" />
+					<path d="M 530 850 A 570 570 0 1 0 1670 850" stroke="#FFFFFF" stroke-width="1" fill="#FFFFFF" />
+				</g>
+			<!-- label -->
+				<g>
+				<circle id="greenland" cx="1100" cy="850" r="570" fill="none" stroke="none" stroke-width="5"/>
+				<text style="fill:black; font-size:142px; anchor:right">
+					<textPath href="#greenland" startOffset="1680" textLength="100%">
+						Kalaallit Nunaat: 2.130.800 sq.km
+					</textPath>
+				</text>
+				</g>
+			
+		</g>
+		
+	<!-- Niugini -->
+		<g>
+			<!-- country flag -->
+				<g>
+					<path d="M 151.507576 1051.507576 A 210 210 0 1 1 448.492424 1348.492424" stroke="#C8102E" stroke-width="1" fill="#C8102E" />
+					<path d="M 151.507576 1051.507576 A 210 210 0 1 0 448.492424 1348.492424" stroke="#000000" stroke-width="1" fill="#000000" />
+				</g>
+			<!-- label -->
+				<g>
+					<circle id="papua" cx="300" cy="1200" r="210" fill="none" stroke="none" stroke-width="5"/>
+					<text style="fill:black; font-size:53px">
+						<textPath href="#papua" textLength="100%" startOffset="735">
+							Niugini: 785.753 sq.km
+						</textPath>
+					</text>
+					<!-- incredibly simplified Raggiana bird-of-paradise -->
+						<circle cx="374.246212" cy="1125.753788" r="50" fill="#FFCD00" stroke="none"/>
+					<!-- incredibly simplified stars -->
+						<circle cx="220" cy="1165" r="20" fill="#FFFFFF" stroke="none"/>
+						<circle cx="180" cy="1210" r="20" fill="#FFFFFF" stroke="none"/>
+						<circle cx="260" cy="1210" r="20" fill="#FFFFFF" stroke="none"/>
+						<circle cx="220" cy="1280" r="20" fill="#FFFFFF" stroke="none"/>
+						<circle cx="240" cy="1245" r="10" fill="#FFFFFF" stroke="none"/>
+				</g>
+			
+		</g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg" width="100%" height="100%" viewBox="0 0 1920 1440">
+<desc>three largest islands by landmass, scaled with borneo as the base</desc> 
+
+	<text style="fill:black; font-size:100px" x="5" y="100">
+		Three Largest Islands In The World (By Landmass)
+	</text>
+	<g>
+		<circle id="borneoIsland" cx="300" cy="400" r="200" fill="none" stroke="black" stroke-width="5"/>
+		<text style="fill:black; font-size:50px">
+			<textPath href="#borneoIsland" textLength="100%" startOffset="700">
+				Borneo: 748.168 sq. km
+			</textPath>
+		</text>
+	</g>
+	<g>
+		<circle id="greenland" cx="1100" cy="850" r="570" fill="none" stroke="black" stroke-width="5"/>
+		<text style="fill:black; font-size:142px">
+			<textPath href="#greenland" textLength="100%" startOffset="2000">
+				Kalaallit Nunaat: 2.130.800 sq. km
+			</textPath>
+		</text>
+	</g>
+	<g>
+		<circle id="newGuinea" cx="300" cy="1150" r="210" fill="none" stroke="black" stroke-width="5"/>
+		<text style="fill:black; font-size:53px">
+			<textPath href="#newGuinea" textLength="100%" startOffset="675">
+				New Guinea: 785.753 sq. km
+			</textPath>
+		</text>
+	</g>
+</svg>
