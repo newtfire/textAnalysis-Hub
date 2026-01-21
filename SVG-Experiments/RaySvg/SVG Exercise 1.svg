@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <rect width="300" height="100" x="10" y="10"/>
+    <circle r="30" cx="45" cy="45" fill="orange" stroke="teal" stroke-width="2"/>
+    <ellipse rx="100" ry="50" cx="250" cy="300" fill="red" stroke="gold" stroke-width="5"/>
+    <polygon points="300,20 350,190 250,190" style="fill:blue;stroke:black;stroke-width:4"/>
+    <polyline points="500,0 540,150 580,70 600,195 650,40" style="fill:none;stroke:green;stroke-width:2"/>
+</svg>
