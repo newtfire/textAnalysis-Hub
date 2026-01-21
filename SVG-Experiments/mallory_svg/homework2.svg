@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400">
+ 
+    <line x1="50" y1="250" x2="450" y2="250" stroke="black" />
+    <line x1="50" y1="50"  x2="50"  y2="250" stroke="black" />
+    
+
+    
+    <rect x="90" y="150" width="60" height="100" fill="pink">
+        <animateTransform attributeName="transform" begin="0s" dur="15s" type="rotate" from="0 85 85" to="360 85 85" repeatCount="1"/></rect>
+    <text x="120" y="145" text-anchor="middle" font-size="12">100</text>
+    <text x="120" y="270" text-anchor="middle">Island A</text>
+   
+    
+   
+    <rect x="210" y="100" width="60" height="150" fill="lightblue"> 
+        <animateTransform attributeName="transform" begin="0s" dur="8s" type="rotate" from="0 85 85" to="360 85 85" repeatCount="2"/></rect>
+    <text x="240" y="95" text-anchor="middle" font-size="12">150</text>
+    <text x="240" y="270" text-anchor="middle">Island B</text>
+    
+ 
+    <rect x="330" y="200" width="60" height="50" fill="purple"> 
+   <animateTransform attributeName="transform" begin="0s" dur="5s" type="rotate" from="0 85 85" to="360 85 85" repeatCount="3"/></rect>
+    <text x="360" y="195" text-anchor="middle" font-size="12">50</text>
+    <text x="360" y="270" text-anchor="middle">Island C</text>
+ 
+    <text x="250" y="30" text-anchor="middle" font-size="18">
+        Island Area Comparison
+    </text>
+</svg>
