@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+ 
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+
+    <text x="300" y="30" font-size="20" text-anchor="middle"> Relative Size of Three Pacific Islands
+        (Square Miles) </text>
+
+
+    <line x1="80" y1="80" x2="80" y2="300" stroke="black"/>
+    <line x1="80" y1="300" x2="500" y2="300" stroke="black"/>
+
+
+    <text x="20" y="200" font-size="14" transform="rotate(-90 20,200)"> Area (square miles) </text>
+
+
+    <g class="Tahiti">
+        <rect x="120" y="98" width="60" height="202" fill="steelblue"><animate
+                attributeName="height"
+                begin="0s"
+                dur="3s"
+                from="267.5"
+                to="235"
+                ></animate></rect>
+        <text x="150" y="320" text-anchor="middle">Tahiti</text>
+        <text x="150" y="90" text-anchor="middle" font-size="12">404</text>
+    </g>
+
+
+    <g class="Tongatapu">
+        <rect x="220" y="250" width="60" height="50" fill="seagreen"><animate
+                attributeName="height"
+                begin="0s"
+                dur="3s"
+                from="267.5"
+                to="235"
+                ></animate></rect>
+        <text x="250" y="320" text-anchor="middle">Tongatapu</text>
+        <text x="250" y="245" text-anchor="middle" font-size="12">100</text>
+    </g>
+
+
+    <g class="Raiatea">
+        <rect x="320" y="267.5" width="60" height="32.5" fill="tomato">
+            <animate
+                attributeName="height"
+                begin="0s"
+                dur="3s"
+                from="267.5"
+                to="235"
+                ></animate>
+        </rect>
+        <text x="350" y="320" text-anchor="middle">Raiatea</text>
+        <text x="350" y="262" text-anchor="middle" font-size="12">65</text>
+    </g>
+
+    <g><image xlink:href="gapyuqjpd06e1.jpeg" width="100" height="75" x="395" y="235" ></image></g>
+    
+
+</svg>

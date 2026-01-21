@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600">
+    <desc/>
+    <g alignment-baseline="baseline"/>
+    <circle r="300" fill="gray" cx="300" cy="300"/>
+    <circle r="275" fill="pink" cx="300" cy="300"/>
+    <circle r="250" opacity="40%" cx="300" cy="300" fill="url(#patt1)"/>
+    <text x="75" y="325" fill="white" stroke="purple" stroke-width="2.5" font-size="125"
+        filter="url(#f1)">GwR419</text>
+    <defs>
+        <pattern id="patt1" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+            <circle cx="10" cy="10" r="10" fill="purple" opacity="40%"/>
+        </pattern>
+    </defs>
+    <line x1="75" y1="335" x2="525" y2="335" style="stroke:black;stroke-width:4"></line>
+    <line x1="80" y1="340" x2="515" y2="340" style="stroke:black;stroke-width:4"></line>
+</svg>
