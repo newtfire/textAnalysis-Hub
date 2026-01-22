@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150" height="100" xmlns="http://www.w3.org/2000/svg">
+    <!--Line to make the aqua rectangle in the background-->
+    <rect width="100%" height="100%" fill="aqua"/>
+    <!--Line to make the blue circle in the middle-->
+    <circle cx="75" cy="50" r="40" fill="blue"/>
+    <!--Line to make the text in the middle of the circle, text-anchor locks it in place-->
+    <text x="75" y="60" font-size="30" text-anchor="middle" fill="black">TXT</text>
+    <!--Lines to make the lines through the middle and left side-->
+    <line x1="0" y1="60" x2="200" y2="100" stroke="red" stroke-width="5"/>
+    <line x1="20" y1="0" x2="100" y2="200" stroke="yellow" stroke-width="5"/>
+</svg>
