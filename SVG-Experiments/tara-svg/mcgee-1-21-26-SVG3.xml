@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="350" viewBox="0 0 500 350" xmlns="http://www.w3.org/2000/svg">
+
+    <desc> Bar Graph - svg </desc>
+    <rect width="100%" height="100%" fill="#ffffff"/>
+
+
+    <g transform="translate(60,300)">
+
+
+        <line x1="0" y1="0" x2="360" y2="0" stroke="black"/>
+        <line x1="0" y1="0" x2="0" y2="-240" stroke="black"/>
+
+
+        <g fill="#BBA6DD">
+
+            <rect x="40" y="-100" width="40" height="100"> </rect>
+        </g>
+        <g fill="#8C7DA8">
+            <rect x="120" y="-160" width="40" height="160"> </rect>
+        </g>
+        <g fill="#64557b">
+            <rect x="200" y="-70" width="40" height="70"> </rect>
+
+        </g>
+
+    </g>
+</svg>
