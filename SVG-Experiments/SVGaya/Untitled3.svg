@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <rect width="300" height="100" x="50" y="20" fill="blue">
+    </rect>
+    <circle cx="100" cy="100" r="50" color="green">
+        <animate
+            attributeName="cx"
+            begin="0s"
+            dur="8s"
+            from="10"
+            to="30%"
+            repeatCount="indefinite" />
+    </circle>
+    <circle r="50" cy="100" cx="300">
+        <animate
+            attributeName="cx"
+            begin="0s"
+            dur="8s"
+            from="10"
+            to="30%"
+            repeatCount="indefinite" />
+    </circle>
+    <svg height="150" width="500" xmlns="http://www.w3.org/2000/svg">
+        <ellipse cx="55" cy="5.5" rx="40" ry="15" fill="blue" /> 
+        <ellipse cx="66" cy="5.6" rx="80" ry="30" fill="red" /> 
+        <ellipse cx="77" cy="5.7" rx="10" ry="55" fill="yellow" /> 
+    </svg> 
+</svg>

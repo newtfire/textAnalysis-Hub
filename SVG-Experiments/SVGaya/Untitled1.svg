@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc></desc>
+    <g alignment-baseline="baseline"></g>
+    <g transform="translate (100,700)"></g>
+    <g id="axes">
+        <line x1="0" y1="100" stroke="red"></line>
+        <line x1="100" y1="0" stroke="black"></line>
+        <line x1="100" y1="100" x2="0" y2="0" style="stroke:black;stroke-width:10"/>
+        <line x1="0" y1="0" x2="300" y2="200" style="stroke:red;stroke-width:2" />
+    </g>
+</svg>
