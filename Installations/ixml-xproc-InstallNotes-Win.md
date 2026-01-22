@@ -86,6 +86,8 @@ You will also need to:
 
 ### Installing Chocolatey
 
+<img src="images/chocolatey.png" alt="Chocolatey logo" width="500"/>
+
 First, install the chocolatey package manager for Windows. This will help you to install packages at the command line.
 
 * Use your Windows PowerShell in "Run as Administrator" mode, and follow [Chocolatey's installation instructions](https://chocolatey.org/install)).
@@ -116,7 +118,7 @@ First, make sure you have developer (jdk) java installed:
 
 * Next we need to make sure the location of the JDK you installed is set in your system environment variables. In your Search bar, look for "System" or "Control Panel" (or Edit the System Environment Variables). Find the tab to edit the Environment Variables and look for JAVA_HOME. Click "Edit User Variable" and paste in the new filepath of your Java. (You can see that in Git Bash with `where java`) **NOTE** : For the Windows installations to work, we will need to the User Path to be set to the jdk folder that's inside OpenJDK, like so (depending on your version number): `C:\Program Files\OpenJDK\jdk-22.0.2\` . Your system should look something like this screen capture:
   
-  ![](environvar-win.png)
+  ![](images/environment_variables-win.png)
   
 ### Suggestions
 
