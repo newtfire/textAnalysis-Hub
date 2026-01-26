@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc> informational svg: espresso, milk, foam ratio</desc>
+  
+    <!-- latte 2/3 espresso 1/3 steamed milk-->
+
+    <!-- espresso (bottom 2/3) -->
+    <polygon points="118,110 202,110 189,210 131,210" fill="#422707"/>
+    <!-- foam (top 1/3) -->
+    <polygon points="110,60 210,60 202,110 118,110" fill="#F5F1EC"/>
+    <!-- cup -->
+    <polygon points="110,60  210,60  190,210  130,210" fill="none" stroke="black" stroke-width="5"/>
+
+
+
+    <!-- flat white 1/3 espresso 2/3 steamed milk-->
+
+    <!-- milk first -->
+    <polygon points="230,60 330,60 315,160 245,160" fill="#EAD7C1"/>
+    <!-- espresso -->
+    <polygon points="245,160 315,160 309,210 251,210" fill="#422707"/>
+    <!-- cup -->
+    <polygon points="230,60  330,60  310,210  250,210" fill="none" stroke="black" stroke-width="5"/>
+
+
+    <!-- cappuccino 1/3 espresso 1/3 steamed milk 1/3 foam milk-->
+
+    <!-- foam (top 1/3) -->
+    <polygon points="350,60 450,60 443,110 357,110" fill="#F5F1EC"/>
+    <!-- steamed milk (middle 1/3) -->
+    <polygon points="357,110 443,110 437,160 363,160" fill="#EAD7C1"/>
+    <!-- espresso (bottom 1/3) -->
+    <polygon points="363,160 437,160 429,210 371,210" fill="#422707"/>
+    <!-- cup -->
+    <polygon points="350,60  450,60  430,210  370,210" fill="none" stroke="black" stroke-width="5"/>
+
+
+
+</svg>
