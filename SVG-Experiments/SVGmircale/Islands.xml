@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+    
+    <!-- Axes -->
+    <line x1="50" y1="50" x2="50" y2="450" stroke="black" stroke-width="4"/>
+    <line x1="50" y1="450" x2="450" y2="450" stroke="black" stroke-width="4"/>
+    
+    <!-- Title -->
+    <text x="250" y="40" text-anchor="middle" font-size="20">
+        The areas in square miles of three Polynesian islands
+    </text>
+    
+    <!-- Circles and Labels -->
+    <circle cx="200" cy="80" r="30" fill="green" stroke="black" stroke-width="4"/>
+    <text x="200" y="85" font-size="14" fill="orange" text-anchor="middle">Raiatea 65 sq mi</text>
+    
+    <circle cx="200" cy="200" r="50" fill="purple" stroke="black" stroke-width="4"/>
+    <text x="200" y="205" font-size="14" fill="orange" text-anchor="middle">Tongatapu 100 sq mi</text>
+    
+    <circle cx="200" cy="360" r="80" fill="lightblue" stroke="black" stroke-width="4"/>
+    <text x="200" y="365" font-size="14" fill="orange" text-anchor="middle">Tahiti 404 sq mi</text>
+    
+</svg>
