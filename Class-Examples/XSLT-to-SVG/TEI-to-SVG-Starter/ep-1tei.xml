@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:id="s1e1" n="1">That's How Love Starts, Ya Know!</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="event" xml:id="s1e1-event1" corresp="#i1-event1">
+            <stage type="location" where="outsideSchool"/>
+            <sp who="BullyA">
+               <speaker>Bully A</speaker>
+               <p>I said, if you ain't lendin' me money, then no date today. Oh, but I'd be okay if
+                  you finally put out instead. You'll pay for the love hotel, though.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>You need to be punched!</p>
+            </sp>
+            <move who="Momo" where="BullyA" type="kick" style="physical"/>
+            <move who="BullyA" where="Momo" type="kick" style="physical"/>
+            <sp who="BullyA">
+               <speaker>Bully A</speaker>
+               <p>Why you little… You're full of it! I've had enough of you! Yer broke and ya ain't
+                  puttin' out! Get lost!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Gimme a break, moron! Octopus! Squid! Tuna!</p>
+            </sp>
+
+            <stage type="location" where="classroom">
+               <sp who="Muko">
+                  <speaker>Muko</speaker>
+                  <p>Totes funny! Seafood names aren't insults.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Come on, comfort me! He was my first boyfriend.</p>
+               </sp>
+               <sp who="Muko">
+                  <speaker>Muko</speaker>
+                  <p>That's why I told you to not go for him. What was so good about him,
+                     anyway?</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>He looked like Ken Takakura. </p>
+               </sp>
+               <sp who="Muko">
+                  <speaker>Muko</speaker>
+                  <p>Oh, there you go. You're so annoying.</p>
+               </sp>
+               <sp who="Miko">
+                  <speaker>Miko</speaker>
+                  <p>Oh, there you go. You're so annoying.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Nothing wrong with that! I like masculine guys like Ken Takakura!</p>
+               </sp>
+               <sp who="Muko">
+                  <speaker>Muko</speaker>
+                  <p>"I am an awkward fellow, after all." Dudes like that are extinct.</p>
+               </sp>
+               <sp who="Miko">
+                  <speaker>Miko</speaker>
+                  <p> Dudes like that are extinct.</p>
+               </sp>
+            </stage>
+         </div>
+         <div type="event" xml:id="s1e1-event2" corresp="#i1-event2">
+            <stage type="location" where="hallway">
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>What the hell. Will I not be able to meet another Mr. Ken in my lifetime? Come
+                     on, someone comfort me! Such a cruel world.</p>
+               </sp>
+               <sp who="Extra">
+                  <speaker>Extra</speaker>
+                  <p>-Damn it! -You missed?</p>
+               </sp>
+               <sp who="Extra">
+                  <speaker>Extra</speaker>
+                  <p>-I did miss. -Don't look over here. Gross.</p>
+               </sp></stage>
+            <stage type="location" where="classroom">
+               <sp who="Extra">
+                  <speaker>Extra</speaker>
+                  <p>-We have this, too. -Nice.</p>
+               </sp>
+               <sp who="Extra">
+                  <speaker>Extra</speaker>
+                  <p>Put a magnet inside. </p>
+               </sp>
+               <sp who="Extra">
+                  <speaker>Extra</speaker>
+                  <p>This'll hurt, won't it? </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>What are you reading there? </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>Oh? Uh, um… </p>
+               </sp>
+               <cbml:caption source="magazine">BIRTH OF THE AEROSPACE SELF-DEFENSE FORCE GUARDING OUTER
+                  SPACE!!</cbml:caption>
+            </stage>
+            <stage type="location" where="hallway"><sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>How lame. Do only scum live in this world? Man, I've had enough. Where can I
+                     relieve all this stress?</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p> Miss Momo Ayase! -I know you're in love!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>-Huh? </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>I know you're in love! </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>How many times you gonna say that? </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>Someone like Miss Ayase talking to me? That's gotta be the only reason!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p> Maybe you got the wrong idea? It's not like I wanna get chummy with you or
+                     anything. Forget all that earlier.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>This is what I'm talking about! </p>
+               </sp>
+               <cbml:caption source="magazine">The President has already gone to Mars! What is the
+                  entirety of Project Pegasus?!</cbml:caption>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Huh? What? </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>You're a fan of the occult!</p>
+               </sp>
+               <sp who="Momo"><speaker>Momo</speaker>
+                  <p>Oh, I don't believe in UFOs or aliens or stuff like that.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>I'm not talking about a UFO, but a UAP! Unidentified Aerial Phenomena!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Hey, you're being a pest. </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>The U.S. military has officially acknowledged the existence of UAPs and
+                     reformed the Space Force! Japan has also newly created an Aerospace
+                     Self-Defense Force! Any way you look at it, they're getting ready for Space
+                     Wars!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Can I go now? </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>What? No, wait! This has the newest image of Nessie, too. Here! It also talks
+                     about Lieutenant Colonel Jim Channon and Skinwalker Ranch!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Shut up! I just got dumped so I don't want any of this. How you push stuff at
+                     me is so typical of otaku and really annoying! That's why you have no friends!
+                     Don't talk to me like you know me. Sorry, that was a bit much.</p>
+               </sp>
+               <cbml:caption source="magazine">YOUR TRUE POWERS AND POTENTIAL HAVE YET TO
+                  AWAKEN…</cbml:caption>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p> Here. I don't believe in aliens. But I do believe in ghosts.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>Oh no, there's no such thing as ghosts. </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I matched the conversation topic to yours, but you outright deny that?! Don't
+                     you mock the occult! Just so you know, my grandma is a spirit medium.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>What? </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Have you ever seen an exorcism? It's really wicked! The possessed person goes
+                     into convulsions! You can go into convulsions from illness, too.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>It's not proof that ghosts are out there. </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Then have you ever had an alien let you ride a UFO?!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>Your logic is jumping too far! Are you an idiot?!</p>
+               </sp>
+               <sp who="Muko">
+                  <speaker>Muko</speaker>
+                  <p>Huh? She gave up on Ken Takakura and went after an otaku?</p>
+               </sp>
+               <sp who="Miko">
+                  <speaker>Miko</speaker>
+                  <p>Look. It's like she doesn't care what other people would think.</p>
+               </sp>
+               <sp who="Muko">
+                  <speaker>Muko</speaker>
+                  <p>Can't say I hate it. </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Then let's have a contest, dammit! If there really are ghosts, you'll be
+                     serving me as a gofer!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>I'll show you UFOs, I mean, UAPs! If you're able to see one, M-Miss Ayase,
+                     you'll be my gofer instead!</p>
+               </sp></stage>
+         </div>
+         <div type="event" xml:id="s1e1-event3" corresp="#i1-event3">
+            <stage type="location" where="hospital">
+               <cbml:caption source="sign">NAGI GENERAL HOSPITAL</cbml:caption>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>What is this place? It's way too scary! What part of this is a UFO hotspot?</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>They call that Nagi Hospital a sanctuary for UFOs! If you call for a UFO on the
+                     roof, you will experience an Abduction!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>What's an Abduction? </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>That's when an alien kidnaps you and experiments with your body.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p> Wait, hold on! Have you been experimented on before?!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>There is a chance that I have! </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Huh? </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>Many people who experience an Abduction have their memories erased.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Hey, you. You've never seen a UFO before, have you?</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>Do you know about regressive hypnosis? </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Don't change the subject on me. </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>It's not an issue of whether or not you've seen one! The point is whether or
+                     not there's proper proof that they exist! </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Shut up! Anyway, how are things on your end?</p>
+               </sp></stage>
+            <stage type="location" where="tunnel">
+               <cbml:caption source="sign">KEEP OUT </cbml:caption>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>I have arrived. At the spiritual hotspot. Now, I'll go and prove it right now…
+                     that there are no such things as ghosts!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Hey, you aren't freaking out, are you? By the way, that spot is famous on the
+                     'net for something definitely being there.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>Too shy, shy boy, in this moment! </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>They say speaking loudly is the most dangerous thing to do.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>Too shy, shy boy… </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>On the 'net. </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>You've been mentioning the 'net a lot. So have you seen a ghost, Miss
+                     Ayase?</p>
+               </sp></stage>
+            <stage type="location" where="hospital">
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Nope. </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>What? How dare you talk so authoritatively earlier!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>My bad! </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>Take back that attitude you've been giving me! It's absurd that you've never
+                     seen a ghost but believe in them!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>It's not absurd. I told you my grandma's a spirit medium. I love my grandma a
+                     lot since I don't have parents.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>Oh, I see. </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Why are you getting all meek and stuff? Get a load of this. My family is
+                     seriously weird.</p>
+               </sp></stage>
+            <stage where="flashback"><sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p> I always had to perform a good luck ritual before stepping outside. I was
+                     always forced to do it the entire way to school. And of course, I was the
+                     laughingstock of all the boys. If I don't do it, Grandma got pissed. It was the
+                     pits. But the toughest part of it all… was when the boy I liked made fun of me.
+                     I really hated my grandma. "Because of that weird ritual, the boy I like hates
+                     me." I think I said something horrible like that to Grandma.</p>
+               </sp></stage>
+            <stage type="location" where="hospital"><sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Since then, I didn't talk to Grandma until recently, and I stopped doing the
+                     ritual. But you know, I get pissed when someone else makes fun of my family.
+                     That's when I realized…</p>
+               </sp></stage>
+            <stage type="location" where="flashback"><sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I didn't hate the fact that the boy I liked didn't like me. I hated the fact
+                     that the boy I liked made fun of my grandma. In reality, I loved both Grandma
+                     and her job as a spirit medium, because it felt special. How she decided to
+                     take me in, and lovingly raised me all by herself… I have faith in my
+                     grandma.</p>
+               </sp></stage>
+            <stage where="hospital">
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p> That's why I believe in ghosts. So anyway, why do you believe in aliens?</p>
+               </sp></stage>
+            <stage where="tunnel">
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>That really doesn't matter, right? </p>
+               </sp>
+            </stage>
+            <stage where="hospital">
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>What's with that? You don't have any reasons? Do you need a reason to like
+                     something? Well, you have a point. More like, Occult-kun, you sure talk bluntly
+                     over the phone.</p>
+               </sp></stage>
+            <stage where="tunnel">
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>I-Is that so? Miss Ayase, you're pretty easy to talk to.</p>
+               </sp>
+            </stage>
+         </div>
+         <div type="event" xml:id="s1e1-event4" corresp="#i1-event4">
+            <stage type="location" where="tunnel">
+               <sp who="turboGranny">
+                  <speaker>Turbo Granny</speaker>
+                  <p>I'll let you suckle my teats, so… lemme gobble that weenie.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>Ghost!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Hold on! You shouldn't run there! Hey, Occult-kun!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>No way! Impossible! -That was just an ordinary granny!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>-Oc… kun… -Stop right now!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>-That's it. -Just an ordinary granny!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>-They say on the 'net she's bad news! </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>I'm pretty sure I misunderstood something. I simply bumped into a lewd
+                     granny!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p> They say you can't let her outrun you at any cost! If you lose a race against
+                     Turbo Granny, you'll be cursed! Hey, Occult-kun! Are you listening? Hello?
+                     Answer me! You're kidding me, right?</p>
+               </sp></stage>
+            <stage type="location" where="hospital"><sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p> I'll head over there right now! Just hang on! What are those things?
+                     Seriously, cut it out.</p>
+               </sp></stage>
+            <stage type="location" where="spaceship"><sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>Hello, woman person. We are Serpoians. We are called that because we come from
+                     the planet Serpo.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Aliens? </p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>Don't be afraid. We are a friendly people. </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Friendly guys don't strip girls naked, you know! Where are my clothes?</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>We have taken proper care of your belongings.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>They're all tattered! Pay for damages! And I wanna go home, so can you take
+                     this off?</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p> Our kind only has males. Thus, we reproduce through clone technology. </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Are you even listening? </p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>However, identical units do not instigate biological evolution. Conflict, as
+                     well as basic emotions, were annihilated. Therefore, for us to regain
+                     reproductive function similar to humans, we want your "bananas." We will now
+                     have sex. After having sex with you, we will extract your uterus and your
+                     banana for research.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Gimme a break! I did date a douchebag, but I didn't let him take my virginity!
+                     My chastity has been saved for a Ken Takakura I have yet to meet! No way some
+                     creepy alien is gonna take it from me! </p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>In order to arouse your desire, we will use psychokinesis to control your brain
+                     waves. How is it? Isn't the temperature of your body getting warmer? What's
+                     this? She is resisting the psychokinesis. What incredible spiritual power.
+                     However… Let us begin.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>No… Stop!</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>A phone call? Someone sure has a really bad sense of timing.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>Miss Ayase! I'm sorry! There was a ghost! Turbo Granny has cursed me!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Occult-kun! I'm glad! Can you help me?</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>Who are you? Infiltrating using a smartphone. Not even we have technology like
+                     that.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Cursed Ken</speaker>
+                  <p>Please help! I can't control myself! </p>
+               </sp>
+               <sp who="turboGranny">
+                  <speaker>Cursed Ken</speaker>
+                  <p>Lemme gobble that weenie!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Come on, get a grip! </p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>Man person over there. We did not authorize your intrusion. Leave immediately,
+                     or else… Please give us your banana.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Gross!</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>Six Sense Organs! So fast! I cannot set my psychokinesis. Our cherished
+                     bananas! You banana thief! Serpoian Form Serpo-Grammetry!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Occult-kun! </p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>We have never encountered someone so aggressive. We have an amiable
+                     relationship with humans. So give us your bananas. </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Cursed Ken</speaker>
+                  <p>I'll give it to you! Anything if it's mine! I've been wanting to see aliens for
+                     the longest time! Because I didn't have any friends, I thought at least aliens
+                     would be my friends. I've been calling to the skies for a UFO since grade
+                     school! But you never came! No matter how much I called for you, you never
+                     showed up! Other humans bullied me to pass their time. Aliens didn't give me
+                     the time of day. Nobody ever acknowledged my existence. But Miss Ayase…. She
+                     actually stood up for me, despite that! So don't you lay a finger on her! I
+                     won't allow anyone to hurt her! If it's for her sake, I'll even become a
+                     monster!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Keep at it, Occult-kun! Show 'em what a man you are!</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>Fie!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p> Miss Ayase… It looks impossible after all.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p> You gave up really fast there! </p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>We cannot become friends with a violent person like you. Besides, we like woman
+                     persons more than man persons. Now, once again, I shall arouse your desire.</p>
+               </sp>
+               <sp who="Seiko">
+                  <speaker>Seiko</speaker>
+                  <p>Take your chi out. </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Kid Momo</speaker>
+                  <p>I don't wanna. My friends make fun of me every single day because of that.</p>
+               </sp>
+               <sp who="Seiko">
+                  <speaker>Seiko</speaker>
+                  <p> What are you talking about? If you have your chi out, you won't get hurt or
+                     sick. Bad things can't get near you. First, firm up your lower abs. Imagine
+                     having your chi shoot up from the top of your head.</p>
+               </sp>
+               <sp who="Extra">
+                  <speaker>Extra</speaker>
+                  <p>She's doing it again! </p>
+               </sp>
+               <sp who="Extra">
+                  <speaker>Extra</speaker>
+                  <p>Is she communicating with aliens or something?</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I hate it! I'm never doing it again! </p>
+               </sp>
+               <sp who="Seiko">
+                  <speaker>Seiko</speaker>
+                  <p>Momo! Hold on! </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I hate you, Grandma! You fake spirit medium!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Why am I remembering the past right now? I'm sorry, Grandma. I just felt
+                     embarrassed back then.</p>
+               </sp>
+               <sp who="Seiko">
+                  <speaker>Seiko</speaker>
+                  <p>Firm up your lower abs. Chi shoot up from the top of your head.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>No way! What?</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Cursed Ken</speaker>
+                  <p>Miss Ayase, you can use psychic powers? </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Well, I'm surprised by that myself! </p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>Unbelievable! My psychokinesis is being pushed back! Why? Did I stimulate her
+                     brain waves too much and cause the woman person's chakra to open up?</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p> She was for real. Grandma was a real spirit medium! Thank you, Grandma! With
+                     this, I can take those scumbags… and send them flying! What is this? That was a
+                     UFO? Occult-kun, are you okay? Let's get outta here! Ow! What are you doing,
+                     idiot! Regain your sanity already! Damn you! Turbo Granny?</p>
+               </sp>
+               <sp who="turboGranny">
+                  <speaker>Turbo Granny</speaker>
+                  <p>Who the hell are you? </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>His curse hasn't lifted! Granny is out of his body, though!</p>
+               </sp>
+               <sp who="turboGranny">
+                  <speaker>Turbo Granny</speaker>
+                  <p>I have possession of that kid's weenie. As long as I have his weenie, that
+                     kid's curse won't be lifted. If you want it back, come to the tunnel. This
+                     place is too far for me. I'll take you on as much as you want if it's in the
+                     tunnel, gaudy hag.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p> Who you calling a gaudy hag, you old bag of crap! Give him back his thingy!
+                     Crap! If we don't escape, we're gonna die! Get a grip, you idiot! We're gonna
+                     escape! </p>
+               </sp></stage>
+         </div>
+         <div type="event" xml:id="s1e1-event5" corresp="#i1-event5">
+            <stage type="location" where="road">
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p> This is the worst. I'll believe in aliens. Like, I was kidnapped and all.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p> I'll believe in ghosts, too. I got cursed after all.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>So, what should we do from here? </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>What should we do? </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>You lose control of yourself if I don't hold the curse back with psychic
+                     powers.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>I'm sorry. </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I lost my uniform, my wallet, my smartphone. Everything.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>How can I lift this curse? </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>You have to beat the crap out of Turbo Granny. She's the cause of the
+                     curse.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>I see. Then I'll head on over there. </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Huh? Right now? </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>Miss Ayase, please wear my clothes back home.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Hold on! You'll lose control without me! </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>All of this happened because of what I did. I can't get you involved in it
+                     anymore, Miss Ayase. I'll use willpower to make it to the tunnel, and then make
+                     it work somehow.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Why can't you ask me to come with you? After that experience earlier, I can't
+                     leave you alone! You would've died earlier if I wasn't around!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p> Is it okay for you to help someone like me?</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Stuff like that is such a hassle. Come on, put some clothes on. Let's go! </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>I'm sorry. I am an awkward fellow, after all. Miss Ayase, please put some
+                     clothes on. If you don't, I can't bring myself to speak properly.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p> No way. Why is my heart racing? This can't be. I was just surprised because he
+                     happened to recite one of Ken Takakura's lines. I need to calm down for now. By
+                     the way, what's your name? I'm terrible at remembering names. Oh? Um…</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>I'm Ken Takakura. </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Aliens really did exist! </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>Ghosts exist, too! The existence of aliens and ghosts being proven means that
+                     there's a possibility of supernatural phenomena, UMA, and all other things that
+                     were said to be absurd can be proven as well.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>Oh, fine, I get it! Ready. </p>
+               </sp></stage>
+         </div>
+      </body>
+
+      <!-- DIVS
+      1: Breakup! Ends when Momo goes out into hallway
+      2: First meeting! Ends when Momo/Ken go to their respective locations
+      3: Search Time! Ends when supernatural entity is found
+      4: Supernatural Attack! Ends when spaceship crashes
+      5: Reflection! Ends at the end of the epsiode
+      -->
+
+      <!--  Need to Add:
+         -Attacks!!
+      -->
+   </text>
+</TEI>
