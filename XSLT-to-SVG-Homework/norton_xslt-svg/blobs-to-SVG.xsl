@@ -29,6 +29,10 @@
                 0,0 will move down the screen to 20, 500. 
             See https://www.w3schools.com/graphics/svg_transformations.asp 
             -->
+            <g transform="translate(20 50)">
+                <text font-size="40">The More Loving One - W. H. Auden</text>
+                <text y="30" font-size="26">Punction Count</text>
+            </g>
            <g transform="translate(20 500)">
             
             <xsl:for-each select="descendant::stanza">
@@ -43,8 +47,8 @@
                     r="120"
                     fill="black"
                     stroke="black"
-                    stroke-width="2"
-                />
+                    stroke-width="2"/>
+                    
                 
                 <circle
                     cx="{250 * position()}"
@@ -55,14 +59,7 @@
                     stroke-width="2"
                 />
                 
-                <circle
-                    cx="{250 * position()}"
-                    cy="{(-230 mod position() * 20) - 180}"
-                    r="{$countprd * 20}"
-                    fill="maroon"
-                    stroke="white"
-                    stroke-width="2"
-                />
+                
                 
                 
                 <g transform="translate(20)">
@@ -76,13 +73,44 @@
                 <text x="40" y="40">Periods</text>
                 </g>
 <!--                a bit brittle but...-->
+                
+                <circle
+                    cx="{250 * position()}"
+                    cy="{(-230 mod position() * 20) - 180}"
+                    r="{$countprd * 20}"
+                    fill="maroon"
+                    stroke="white"
+                    stroke-width="2"
+                    >
+                    <!--cy="{(-230 mod position() * 20) - 180}"-->
+                    <animateMotion
+                        path=" 
+                        M0,-40
+                        m{$countcma * 20 + 10}, 0
+                        a{$countcma * 20 + 10},{$countcma * 20 + 10} 0 1,0 {($countcma * 20 + 10) * -2},0
+                        a{$countcma * 20 + 10},{$countcma * 20 + 10} 0 1,0  {($countcma * 20 + 10) * 2},0
+                        "
+                        begin="0s"
+                        dur="{((position() + .3) div position())+2.5}s"
+                        repeatCount="indefinite"/>
+                </circle>
                 <text x="{250 * position() -5}" 
                     y="{(-230 mod position() * 20) - 220 + 5}" stroke="white" fill="white">
                     <xsl:value-of select="$countcma"/></text>
                 
                 <text x="{250 * position() -5}"
                     y="{(-230 mod position() * 20) - 180 + 5}" 
-                    stroke="white" fill="white"><xsl:value-of select="$countprd"/></text>
+                    stroke="white" fill="white"><xsl:value-of select="$countprd"/>
+                    <animateMotion
+                        path=" 
+                        M0,-40
+                        m{$countcma * 20 + 10}, 0
+                        a{$countcma * 20 + 10},{$countcma * 20 + 10} 0 1,0 {($countcma * 20 + 10) * -2},0
+                        a{$countcma * 20 + 10},{$countcma * 20 + 10} 0 1,0  {($countcma * 20 + 10) * 2},0
+                        "
+                        begin="0s"
+                        dur="{((position() + .3) div position())+2.5}s"
+                        repeatCount="indefinite"/></text>
                 
             </xsl:for-each>
            </g>
