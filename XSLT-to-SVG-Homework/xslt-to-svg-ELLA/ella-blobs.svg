@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%">
+   <desc>SVG created from A Big Ball of Text with Special Whatsits Inside</desc>
+   <g transform="translate(20 500)">
+      <g>
+         <desc>Axis lines and legend</desc>
+         <line x1="0"
+               x2="800"
+               y1="0"
+               y2="0"
+               stroke-width="4"
+               stroke="#990099"/>
+         <line x1="0"
+               x2="800"
+               y1="-100"
+               y2="-100"
+               stroke-width="2"
+               stroke="#dcb6de"/>
+         <line x2="0"
+               x1="800"
+               y1="-100"
+               y2="-100"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x2="0"
+               x1="800"
+               y1="-200"
+               y2="-200"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x2="0"
+               x1="800"
+               y1="-300"
+               y2="-300"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x2="0"
+               x1="800"
+               y1="-400"
+               y2="-400"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x1="0"
+               x2="800"
+               y1="-200"
+               y2="-200"
+               stroke-width="2"
+               stroke="#dcb6de"/>
+         <line x2="0"
+               x1="800"
+               y1="-100"
+               y2="-100"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x2="0"
+               x1="800"
+               y1="-200"
+               y2="-200"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x2="0"
+               x1="800"
+               y1="-300"
+               y2="-300"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x2="0"
+               x1="800"
+               y1="-400"
+               y2="-400"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x1="0"
+               x2="800"
+               y1="-300"
+               y2="-300"
+               stroke-width="2"
+               stroke="#dcb6de"/>
+         <line x2="0"
+               x1="800"
+               y1="-100"
+               y2="-100"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x2="0"
+               x1="800"
+               y1="-200"
+               y2="-200"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x2="0"
+               x1="800"
+               y1="-300"
+               y2="-300"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x2="0"
+               x1="800"
+               y1="-400"
+               y2="-400"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x1="0"
+               x2="800"
+               y1="-400"
+               y2="-400"
+               stroke-width="2"
+               stroke="#dcb6de"/>
+         <line x2="0"
+               x1="800"
+               y1="-100"
+               y2="-100"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x2="0"
+               x1="800"
+               y1="-200"
+               y2="-200"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x2="0"
+               x1="800"
+               y1="-300"
+               y2="-300"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x2="0"
+               x1="800"
+               y1="-400"
+               y2="-400"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x1="0"
+               x2="800"
+               y1="-500"
+               y2="-500"
+               stroke-width="2"
+               stroke="#dcb6de"/>
+         <line x2="0"
+               x1="800"
+               y1="-100"
+               y2="-100"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x2="0"
+               x1="800"
+               y1="-200"
+               y2="-200"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x2="0"
+               x1="800"
+               y1="-300"
+               y2="-300"
+               stroke-width="4"
+               stroke="#330066"/>
+         <line x2="0"
+               x1="800"
+               y1="-400"
+               y2="-400"
+               stroke-width="4"
+               stroke="#330066"/>
+         <g>
+            <desc>Magic egg data</desc>
+            <circle cx="200"
+                    cy="-150"
+                    r="50"
+                    fill="rgb(220, 280, 222)"
+                    stroke="black"
+                    stroke-width="2"/>
+            <text x="200" y="-150" text-anchor="middle">Magic Eggs: 50</text>
+         </g>
+         <g>
+            <desc>All other specials</desc>
+            <rect x="200"
+                  y="-350"
+                  width="70"
+                  height="70"
+                  fill="orange"
+                  stroke="black"
+                  stroke-width="2"/>
+            <text x="200" y="-350" text-anchor="middle">All other special items: 70</text>
+         </g>
+         <g>
+            <desc>Magic egg data</desc>
+            <circle cx="400"
+                    cy="-150"
+                    r="50"
+                    fill="rgb(220, 80, 222)"
+                    stroke="black"
+                    stroke-width="2"/>
+            <text x="400" y="-150" text-anchor="middle">Magic Eggs: 50</text>
+         </g>
+         <g>
+            <desc>All other specials</desc>
+            <rect x="400"
+                  y="-350"
+                  width="20"
+                  height="20"
+                  fill="orange"
+                  stroke="black"
+                  stroke-width="2"/>
+            <text x="400" y="-350" text-anchor="middle">All other special items: 20</text>
+         </g>
+         <g>
+            <desc>Magic egg data</desc>
+            <circle cx="600"
+                    cy="-150"
+                    r="40"
+                    fill="rgb(220, 120, 222)"
+                    stroke="black"
+                    stroke-width="2"/>
+            <text x="600" y="-150" text-anchor="middle">Magic Eggs: 40</text>
+         </g>
+         <g>
+            <desc>All other specials</desc>
+            <rect x="600"
+                  y="-350"
+                  width="30"
+                  height="30"
+                  fill="orange"
+                  stroke="black"
+                  stroke-width="2"/>
+            <text x="600" y="-350" text-anchor="middle">All other special items: 30</text>
+         </g>
+      </g>
+   </g>
+</svg>
