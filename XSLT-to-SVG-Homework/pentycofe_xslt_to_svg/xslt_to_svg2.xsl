@@ -51,13 +51,14 @@
                 </g>
             
                 <g transform="translate(90, -100)"> <line x1="0" y1="0" x2="0" y2="100" stroke="green" stroke-width="4" />
-                    
+                    <g>
                     <circle cx="0" cy="-20" r="15" fill="pink" opacity="0.8" />
                     <circle cx="0" cy="20" r="15" fill="pink" opacity="0.8" />
                     <circle cx="-20" cy="0" r="15" fill="pink" opacity="0.8" />
                     <circle cx="20" cy="0" r="15" fill="pink" opacity="0.8" />
-                    
+                        <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 0 0" to="360 0 0" dur="3s" repeatCount="indefinite" /></g>
                     <circle cx="0" cy="0" r="10" fill="yellow" stroke="orange" stroke-width="2" />
+                    
                 </g>
                 </g>
              </svg>
