@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%">
+   <desc>SVG created from That's How Love Starts, Ya Know!</desc>
+   <g transform="translate(20 500)">
+      <g class="wholeEpisode"><!--
+                       Stage locations: outsideSchool classroom hallway classroom hallway hospital tunnel hospital flashback hospital flashback hospital tunnel hospital tunnel tunnel hospital spaceship road
+                       Distinct stage locations: classroom flashback hallway hospital outsideSchool road spaceship tunnel-->
+         <g class="LocationType"><!--classroom--><!--
+                           How many speeches here? 14--></g>
+         <g class="LocationType"><!--flashback--><!--
+                           How many speeches here? 2--></g>
+         <g class="LocationType"><!--hallway--><!--
+                           How many speeches here? 33--></g>
+         <g class="LocationType"><!--hospital--><!--
+                           How many speeches here? 24--></g>
+         <g class="LocationType"><!--outsideSchool--><!--
+                           How many speeches here? 4--></g>
+         <g class="LocationType"><!--road--><!--
+                           How many speeches here? 23--></g>
+         <g class="LocationType"><!--spaceship--><!--
+                           How many speeches here? 49--></g>
+         <g class="LocationType"><!--tunnel--><!--
+                           How many speeches here? 18--></g>--&gt;
+          
+               </g>
+   </g>
+</svg>
