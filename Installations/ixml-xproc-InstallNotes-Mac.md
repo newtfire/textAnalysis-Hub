@@ -58,7 +58,7 @@ This is cool coffee art:
 
 ### Installing Homebrew
 
-<img src="homebrew.png" alt="homebrew logo" width="500"/>
+<img src="images/homebrew.png" alt="homebrew logo" width="500"/>
 
 Homebrew is a package manager that helps you install things on your Mac quickly in your Terminal. We'll use it for installing OpenJDK Java, but it's a great tool to have in your toolbag for other future installations. You can [view their website](https://brew.sh) for full instructions and nerdy stuff, but we have the instructions here:
 	

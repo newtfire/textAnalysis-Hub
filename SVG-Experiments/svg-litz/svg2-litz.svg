@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc></desc>
+    <g alignment-baseline="baseline">
+        <!--Write your SVG line and rectangle and text elements here!-->
+    </g>
+    
+    <rect width="100%" height="100%"  x="10" y="10" rx="20" ry="20" fill="lightblue"/>
+    
+    <g>
+    <rect x="100" y="210" width="40" height="137" fill="purple">
+        <animateTransform
+            attributeName="transform"
+            begin="0s"
+            dur="5s"
+            type="rotate"
+            from="0 85 85"
+            to="360 85 85"
+            repeatCount="1" />
+    </rect>
+    <rect x="200" y="150" width="40" height="200" fill="orange">
+        
+        <animateTransform
+            attributeName="transform"
+            begin="0s"
+            dur="8s"
+            type="rotate"
+            from="0 85 85"
+            to="360 85 85"
+            repeatCount="1" />
+    </rect>
+    <rect x="300" y="270" width="40" height="80" fill="teal">
+        <animateTransform
+            attributeName="transform"
+            begin="0s"
+            dur="10s"
+            type="rotate"
+            from="0 85 85"
+            to="360 85 85"
+            repeatCount="1" />
+    </rect>
+    </g>
+    
+    <g>
+        <line x1="60" y1="350" x2="400" y2="350" style="stroke:white;stroke-width:5" /> 
+      
+        
+        <text x="230" y="410" font-size="20" text-anchor="middle" fill="white">Jewelry</text>
+    </g>
+    
+    <g>
+        <text x="120" y="370" font-size="20" text-anchor="middle" fill="white">Rings</text>
+        <text x="220" y="370" font-size="20" text-anchor="middle" fill="white">Necklaces</text>
+        <text x="320" y="370" font-size="20" text-anchor="middle" fill="white">Earrings</text>
+    </g>
+    
+    <text x="50" y="200" font-size="20" text-anchor="middle" fill="white" transform="rotate(-90 40 200)"
+       >Amount</text>
+    
+    <g>
+        <text x="118" y="200" font-size="20" text-anchor="middle" fill="white">20
+            <animateMotion
+                path="M0,0 q60,100 100,0 q60,-20 100,0"
+                begin="0s"
+                dur="5s"
+                repeatCount="1" />
+        </text>
+        <text x="220" y="140" font-size="20" text-anchor="middle" fill="white">50
+            <animateMotion
+                path="M0,0 q60,100 100,0 q60,-20 100,0"
+                begin="0s"
+                dur="8s"
+                repeatCount="1" />
+        </text>
+        <text x="320" y="260" font-size="20" text-anchor="middle" fill="white">10
+            <animateMotion
+                path="M0,0 q60,100 100,0 q60,-20 100,0"
+                begin="0s"
+                dur="10s"
+                repeatCount="1" />
+        </text>
+    </g>
+    
+    <g>
+        <rect x="55" y="52" width="5" height="300" fill="white"/>
+        <text x="200" y="70" font-size="30" text-anchor="middle" fill="white">Data Table</text>
+    </g>
+    
+</svg>
