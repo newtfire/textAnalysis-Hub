@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%">
+   <desc>SVG created from That's How Love Starts, Ya Know!</desc>
+   <g transform="translate(20 500)">
+      <g class="division"><!--
+                       Stage locations: outsideSchool classroom
+                       Distinct stage locations: outsideSchool classroom-->
+         <g class="LocationType"><!--
+                           How many speeches here? 4--></g>
+         <g class="LocationType"><!--
+                           How many speeches here? 14--></g>
+      </g>
+      <g class="division"><!--
+                       Stage locations: hallway classroom hallway
+                       Distinct stage locations: hallway classroom-->
+         <g class="LocationType"><!--
+                           How many speeches here? 33--></g>
+         <g class="LocationType"><!--
+                           How many speeches here? 14--></g>
+      </g>
+      <g class="division"><!--
+                       Stage locations: hospital tunnel hospital flashback hospital flashback hospital tunnel hospital tunnel
+                       Distinct stage locations: hospital tunnel flashback-->
+         <g class="LocationType"><!--
+                           How many speeches here? 24--></g>
+         <g class="LocationType"><!--
+                           How many speeches here? 18--></g>
+         <g class="LocationType"><!--
+                           How many speeches here? 2--></g>
+      </g>
+      <g class="division"><!--
+                       Stage locations: tunnel hospital spaceship
+                       Distinct stage locations: tunnel hospital spaceship-->
+         <g class="LocationType"><!--
+                           How many speeches here? 18--></g>
+         <g class="LocationType"><!--
+                           How many speeches here? 24--></g>
+         <g class="LocationType"><!--
+                           How many speeches here? 49--></g>
+      </g>
+      <g class="division"><!--
+                       Stage locations: road
+                       Distinct stage locations: road-->
+         <g class="LocationType"><!--
+                           How many speeches here? 23--></g>
+      </g>
+   </g>
+</svg>
