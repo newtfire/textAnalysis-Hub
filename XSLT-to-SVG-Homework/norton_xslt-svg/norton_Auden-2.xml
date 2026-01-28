@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+    <metadata>
+        <date when="1957-09"/>
+        <name id="WH">Wystan Hugh Auden</name>
+        <name id="CB">Curtis Brown</name>
+    </metadata>
+    <title>The More Loving One</title>
+    <author idRef="#WH">W. H. Auden</author>
+    <poem form="4x4">
+        <stanza>
+            <ln>Looking up at the stars,<cma/> I know quite well</ln>
+            <ln>That,<cma/> for all they care,<cma/> I can go to hell,<cma/></ln>
+            <ln>But on earth indifference is the least</ln>
+            <ln>We have to dread from man or beast.<prd/></ln>
+        </stanza>
+        <stanza>
+            <ln>How should we like it were stars to burn</ln>
+            <ln>With a passion for us we could not return?<qsn/></ln>
+            <ln>If equal affection cannot be,<cma/></ln>
+            <ln>Let the more loving one be me.<prd/></ln>
+        </stanza>
+        <stanza>
+            <ln>Admirer as I think I am</ln>
+            <ln>Of stars that do not give a damn,<cma/></ln>
+            <ln>I cannot,<cma/> now I see them,<cma/> say</ln>
+            <ln>I missed one terribly all day.<prd/></ln>
+        </stanza>
+        <stanza>
+            <ln>Were all stars to disappear or die,<cma/></ln>
+            <ln>I should learn to look at an empty sky</ln>
+            <ln>And feel its total dark sublime</ln>
+            <ln>Though this might take me a little time.<prd/></ln>
+        </stanza>
+    </poem>
+    <copyright><name idRef="#WH">W. H. Auden</name>, "<title>The More Loving One</title>" from
+            <source med="book">Homage to Clio</source>. Copyright © <date when="1960">1960</date> by
+        The Estate of <name idRef="#WH">W. H. Auden</name>. Reprinted by permission of <name
+            idRef="#CB">Curtis Brown</name>, Ltd. All rights reserved.</copyright>
+</page>
