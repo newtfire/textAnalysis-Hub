@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+   <rect width="100%" height="100%" fill="lightblue"/>
+   <text x="50%"
+         y="50"
+         font-family="Arial"
+         font-size="30"
+         fill="white"
+         text-anchor="middle">
+                Telegram to SVG
+            </text>
+   <g transform="translate(50,150)">
+      <g transform="translate(100,0) scale(4)">
+         <circle r="10" fill="pink" stroke="black" stroke-width="2"/>
+      </g>
+      <g transform="translate(200,0) scale(4)">
+         <circle r="10" fill="pink" stroke="black" stroke-width="2"/>
+      </g>
+      <g transform="translate(300,0) scale(4)">
+         <circle r="10" fill="pink" stroke="black" stroke-width="2"/>
+      </g>
+      <g transform="translate(400,0) scale(4)">
+         <circle r="10" fill="pink" stroke="black" stroke-width="2"/>
+      </g>
+      <g transform="translate(500,0) scale(4)">
+         <circle r="10" fill="pink" stroke="black" stroke-width="2"/>
+      </g>
+      <g transform="translate(600,0) scale(4)">
+         <circle r="10" fill="pink" stroke="black" stroke-width="2"/>
+      </g>
+   </g>
+</svg>
