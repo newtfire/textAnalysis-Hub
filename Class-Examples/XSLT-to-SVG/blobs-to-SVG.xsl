@@ -29,21 +29,31 @@
                 0,0 will move down the screen to 20, 500. 
             See https://www.w3schools.com/graphics/svg_transformations.asp 
             -->
-           <g transform="translate(20 500)">
-            
-            <xsl:for-each select="descendant::blob">
+            <g transform="translate(50 500)">
                 
-                <xsl:variable name="count" select="count(descendant::special[@whatsIt='magicEgg'])"/>
-                
-                <!-- We'll process the blob elements in here and output a shape 
-                    for each one -->
-                <circle cx="{$x-spacer * position()}"
-                    cy="{-250}" 
-                    r="{$count * $y-spacer}"
-                    fill="rgb(0, {$count* 50}, {$count})"
-                    stroke="black"
-                    stroke-width="2"
-                />
+                <xsl:for-each select="descendant::blob">
+                    
+                    <xsl:variable name="eggCount" select="count(descendant::special[@whatsIt='magicEgg'])"/>
+                    <xsl:variable name="allCount" select="count(descendant::special)"/>
+                    
+                    <rect x="{$x-spacer * position() - 25}" 
+                        y="-{$allCount * $y-spacer}" 
+                        width="50" 
+                        height="{$allCount * $y-spacer}" 
+                        fill="lightgray" 
+                        stroke="black"/>
+                    
+                    <circle cx="{$x-spacer * position()}"
+                        cy="-{$eggCount * $y-spacer}" 
+                        r="{$eggCount * 5}"
+                        fill="purple"
+                        stroke="black"
+                        stroke-width="2"
+                    />
+                    
+                </xsl:for-each>
+            </g>
+                    
                 
             </xsl:for-each>
            </g>
