@@ -52,16 +52,18 @@
                 
                 <circle
                     cx="{250 * position()}"
-                    cy="{(-230 mod position() * 20) - 220}"
+                    cy="-230"
                     r="{$countcma * 20}"
                     fill="red"
                     stroke="white"
                     stroke-width="2"
                 />
-                
-                
-                
-                
+                <!--ebb: You had this complicated construction: cy="{(-230 mod position() * 20) - 220}, 
+                    but you don't need it, when we realize that position()
+                    is just controlling horizontal spacing, and the level of these circles is always
+                    the same, so just give it -230 for y if you want something a bit off-center! 
+                   -->
+
                 <g transform="translate(20)">
                     <circle cx="20" cy="-45" r="10" fill="black" stroke="white" stroke-width="2"/>
                 <text x="40" y="-40">Stanza</text>
@@ -73,10 +75,17 @@
                 <text x="40" y="40">Periods</text>
                 </g>
 <!--                a bit brittle but...-->
+                <!--ebb: Okay, down here, I think you're setting the center of the little traveling circle for periods
+                to be somewhere around the perimeter of the comma circle, yes? So... the perimeter at the center
+                plus the radius: 
+                
+                Wouldn't that be (from your comma circle):
+                -230 + ($countcma * 20) 
+                -->
                 
                 <circle
                     cx="{250 * position()}"
-                    cy="{(-230 mod position() * 20) - 180}"
+                    cy="{-230 + $countcma * 20}"
                     r="{$countprd * 20}"
                     fill="maroon"
                     stroke="white"
@@ -101,6 +110,9 @@
                 <text x="{250 * position() -5}"
                     y="{(-230 mod position() * 20) - 180 + 5}" 
                     stroke="white" fill="white"><xsl:value-of select="$countprd"/>
+                    <!-- ebb: I haven't tried to adjust this yet, as it's not currently rolling around
+                    the new coordinates I set. But I am investigating to see how animateMotion can be sent around
+                    a circle....-->
                     <animateMotion
                         path=" 
                         M0,-40
