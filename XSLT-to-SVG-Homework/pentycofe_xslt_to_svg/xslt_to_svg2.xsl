@@ -49,7 +49,17 @@
                     </text>
                     <text x="550" y="50" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold">Other Tags</text>
                 </g>
-                
-            </g> </svg>
+            
+                <g transform="translate(90, -100)"> <line x1="0" y1="0" x2="0" y2="100" stroke="green" stroke-width="4" />
+                    
+                    <circle cx="0" cy="-20" r="15" fill="pink" opacity="0.8" />
+                    <circle cx="0" cy="20" r="15" fill="pink" opacity="0.8" />
+                    <circle cx="-20" cy="0" r="15" fill="pink" opacity="0.8" />
+                    <circle cx="20" cy="0" r="15" fill="pink" opacity="0.8" />
+                    
+                    <circle cx="0" cy="0" r="10" fill="yellow" stroke="orange" stroke-width="2" />
+                </g>
+                </g>
+             </svg>
     </xsl:template>
 </xsl:stylesheet>
