@@ -20,9 +20,9 @@
     -->
     
     
-    <xsl:variable name="x-spacer" select="200"/>
+    <xsl:variable name="x-spacer" as="xs:integer" select="200"/>
     
-    <xsl:variable name="y-spacer" select="10"/>
+    <xsl:variable name="y-spacer" as="xs:integer" select="10"/>
     <!-- Here (above) are the spacer variables we set up for a previous example. Change the numbers so they make sense for your plot. -->
     
     <xsl:variable name="xml-tree" as="document-node()" select="doc('ep-1tei.xml')"/>
@@ -40,26 +40,31 @@
             See https://www.w3schools.com/graphics/svg_transformations.asp 
             -->
            <g transform="translate(20 500)">
-            
-            <xsl:for-each select="descendant::div">
+      
                <!-- We can explore and output, using XSLT, which locations are in each structural <div> of this episode! -->
-               <g class="division">
+               <g class="wholeEpisode">
                    <xsl:variable name="stageLocations" as="attribute()+" 
                        select="descendant::stage/@where"/>
                    <xsl:variable name="distinctStageLocs" as="xs:string+" 
-                       select="$stageLocations => distinct-values()"/>
+                       select="$stageLocations => distinct-values() => sort()"/>
                    <xsl:comment>
                        Stage locations: <xsl:value-of select="$stageLocations"/>
                        Distinct stage locations: <xsl:value-of select="$distinctStageLocs"/>
                    </xsl:comment>
                    
-                   <xsl:for-each select="$distinctStageLocs">
+                 <xsl:for-each select="$distinctStageLocs">
                        <!--ebb: We go through and look at each distinct stage location as a string. -->
                        <g class="LocationType">
+                           <xsl:comment>
+                               <xsl:value-of select="current()"/>
+                           </xsl:comment>
+                           
+                           
                            <!-- ebb: This is a very challenging variable! We're going 
                            to count the following sibling <sp> elements after each <stage>, 
                            but *before* the next <stage>. -->
-                           <xsl:variable name="currentStage" as="element()+" select="$xml-tree//stage[@where=current()]"/>
+                           <xsl:variable name="currentStage" as="element()+" 
+                               select="$xml-tree//stage[@where=current()]"/>
                            <!--ebb: This returns the matching elements (may be more than one) for this string.   -->
                            
                          <xsl:variable name="countSpeechesHere" as="xs:integer"
@@ -71,10 +76,9 @@
                            
                        </g>
    
-                   </xsl:for-each>
+                   </xsl:for-each>-->
           
                </g> 
-            </xsl:for-each>
            </g>
         </svg>  
     </xsl:template>
