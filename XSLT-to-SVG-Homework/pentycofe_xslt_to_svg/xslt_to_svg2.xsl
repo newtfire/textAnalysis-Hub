@@ -24,7 +24,7 @@
                 <xsl:variable name="scale" select="40"/>
                 
                 <g>
-                    <circle cx="150" cy="-120" r="50" fill="#00CED1" stroke="#008B8B" stroke-width="3"> 
+                    <circle cx="150" cy="-120" r="50" fill="black" stroke="orange" stroke-width="3"> 
                         <animateMotion path="M3,4 q75,175 120,-4 q80,-40 200,30" begin="0s" dur="10" repeatCount="indefinite" /></circle>
                     <text x="150" y="{-($totalBlobs * $scale) - 65}" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold">
                         <xsl:value-of select="$totalBlobs"/>
@@ -33,7 +33,7 @@
                 </g>
                 
                 <g>
-                    <circle cx="350" cy="-140" r="50" fill="#FFD700" stroke="#DAA520" stroke-width="3">
+                    <circle cx="350" cy="-140" r="50" fill="green" stroke="brown" stroke-width="3">
                         <animateMotion path="M0,0 q60,100 100,0 q60,-20 100,0" begin="0s" dur="10s" repeatCount="indefinite" /></circle>
                     <text x="350" y="{-($totalEggs * $scale) - 65}" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold">
                         <xsl:value-of select="$totalEggs"/>
@@ -42,7 +42,7 @@
                 </g>
                 
                 <g>
-                    <circle cx="550" cy="-150" r="50" fill="#9370DB" stroke="#4B0082" stroke-width="3">
+                    <circle cx="550" cy="-150" r="50" fill="purple" stroke="red" stroke-width="3">
                         <animateMotion path="M1,1 q65,100 110,2 q70,-35 150,2" begin="0s" dur="10s" repeatCount="indefinite" /></circle>
                     <text x="550" y="{-($totalOthers * $scale) - 65}" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold">
                         <xsl:value-of select="$totalOthers"/>
