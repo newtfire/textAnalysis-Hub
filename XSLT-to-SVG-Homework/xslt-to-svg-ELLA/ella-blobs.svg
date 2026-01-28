@@ -164,63 +164,69 @@
             <desc>Magic egg data</desc>
             <circle cx="200"
                     cy="-150"
-                    r="50"
-                    fill="rgb(220, 280, 222)"
+                    r="51"
+                    fill="rgb(60, 30, 150)"
                     stroke="black"
                     stroke-width="2"/>
             <text x="200" y="-150" text-anchor="middle">Magic Eggs: 50</text>
          </g>
          <g>
             <desc>All other specials</desc>
-            <rect x="200"
-                  y="-350"
-                  width="70"
-                  height="70"
-                  fill="orange"
-                  stroke="black"
-                  stroke-width="2"/>
+            <g transform="translate (-75,-50)">
+               <rect x="200"
+                     y="-350"
+                     width="150"
+                     height="100"
+                     fill="rgb(50, 100, 200)"
+                     stroke="black"
+                     stroke-width="2"/>
+            </g>
             <text x="200" y="-350" text-anchor="middle">All other special items: 70</text>
          </g>
          <g>
             <desc>Magic egg data</desc>
             <circle cx="400"
                     cy="-150"
-                    r="50"
-                    fill="rgb(220, 80, 222)"
+                    r="51"
+                    fill="rgb(120, 60, 150)"
                     stroke="black"
                     stroke-width="2"/>
             <text x="400" y="-150" text-anchor="middle">Magic Eggs: 50</text>
          </g>
          <g>
             <desc>All other specials</desc>
-            <rect x="400"
-                  y="-350"
-                  width="20"
-                  height="20"
-                  fill="orange"
-                  stroke="black"
-                  stroke-width="2"/>
+            <g transform="translate (-75,-50)">
+               <rect x="400"
+                     y="-350"
+                     width="150"
+                     height="100"
+                     fill="rgb(100, 200, 400)"
+                     stroke="black"
+                     stroke-width="2"/>
+            </g>
             <text x="400" y="-350" text-anchor="middle">All other special items: 20</text>
          </g>
          <g>
             <desc>Magic egg data</desc>
             <circle cx="600"
                     cy="-150"
-                    r="40"
-                    fill="rgb(220, 120, 222)"
+                    r="51"
+                    fill="rgb(180, 90, 150)"
                     stroke="black"
                     stroke-width="2"/>
             <text x="600" y="-150" text-anchor="middle">Magic Eggs: 40</text>
          </g>
          <g>
             <desc>All other specials</desc>
-            <rect x="600"
-                  y="-350"
-                  width="30"
-                  height="30"
-                  fill="orange"
-                  stroke="black"
-                  stroke-width="2"/>
+            <g transform="translate (-75,-50)">
+               <rect x="600"
+                     y="-350"
+                     width="150"
+                     height="100"
+                     fill="rgb(150, 300, 600)"
+                     stroke="black"
+                     stroke-width="2"/>
+            </g>
             <text x="600" y="-350" text-anchor="middle">All other special items: 30</text>
          </g>
       </g>
