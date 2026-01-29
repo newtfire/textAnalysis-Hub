@@ -5,35 +5,104 @@
          x2="150"
          y2="500"
          style="stroke:green; stroke-width:5"/>
+   <defs>
+      <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+         <stop offset="0%" stop-color="pink"/>
+         <stop offset="100%" stop-color="purple"/>
+      </radialGradient>
+   </defs>
    <ellipse rx="60"
             ry="30"
             cx="105"
             cy="120"
-            fill="purple"
+            fill="url(#grad1)"
             transform="rotate(8)"/>
+   <defs>
+      <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+         <stop offset="0%" stop-color="pink"/>
+         <stop offset="100%" stop-color="purple"/>
+      </radialGradient>
+   </defs>
    <ellipse rx="60"
             ry="30"
             cx="195"
             cy="160"
-            fill="purple"
+            fill="url(#grad1)"
             transform="rotate(-8)"/>
+   <defs>
+      <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+         <stop offset="0%" stop-color="pink"/>
+         <stop offset="100%" stop-color="purple"/>
+      </radialGradient>
+   </defs>
    <ellipse rx="60"
             ry="30"
             cx="90"
             cy="-150"
-            fill="purple"
+            fill="url(#grad1)"
             transform="rotate(90)"/>
+   <defs>
+      <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+         <stop offset="0%" stop-color="pink"/>
+         <stop offset="100%" stop-color="purple"/>
+      </radialGradient>
+   </defs>
    <ellipse rx="60"
             ry="30"
             cx="120"
             cy="-200"
-            fill="purple"
+            fill="url(#grad1)"
             transform="rotate(120)"/>
+   <defs>
+      <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+         <stop offset="0%" stop-color="pink"/>
+         <stop offset="100%" stop-color="purple"/>
+      </radialGradient>
+   </defs>
    <ellipse rx="60"
             ry="30"
             cx="260"
             cy="-80"
-            fill="purple"
+            fill="url(#grad1)"
             transform="rotate(65)"/>
-   <circle cx="150" cy="150" r="40" fill="yellow"/>
+   <defs>
+      <radialGradient id="grad2" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+         <stop offset="0%" stop-color="yellow"/>
+         <stop offset="100%" stop-color="orange"/>
+      </radialGradient>
+   </defs>
+   <circle cx="150" cy="150" r="40" fill="url(#grad2)"/>
+   <pattern id="stripe"
+            width="10"
+            height="10"
+            patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="yellow"/>
+      <line x1="0"
+            y1="0"
+            x2="0"
+            y2="10"
+            style="stroke:black; stroke-width:8"/>
+   </pattern>
+   <polygon points="300,80 270,90 270,70"/>
+   <ellipse rx="30" ry="20" cx="250" cy="80" fill="url(#stripe)"/>
+   <filter id="f1" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+   </filter>
+   <ellipse rx="20"
+            ry="10"
+            cx="240"
+            cy="-30"
+            fill="lightgray"
+            transform="rotate(20)"
+            filter="url(#f1)"/>
+   <filter id="f1" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+   </filter>
+   <ellipse rx="20"
+            ry="10"
+            cx="230"
+            cy="140"
+            fill="lightgray"
+            transform="rotate(-20)"
+            filter="url(#f1)"/>
 </svg>

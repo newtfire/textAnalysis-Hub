@@ -19,6 +19,12 @@
             />
             <!--petals-->
             <xsl:for-each select="flowerHead/petals/petal">
+                <defs>
+                    <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+                        <stop offset="0%" stop-color="pink" />
+                        <stop offset="100%" stop-color="purple" />
+                    </radialGradient>
+                </defs>
                 <ellipse      
                 rx="{@rx}" 
                 ry="{@ry}" 
@@ -29,12 +35,45 @@
                 />
             </xsl:for-each>           
             <!--flower head-->
+            <defs>
+                <radialGradient id="grad2" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+                    <stop offset="0%" stop-color="yellow" />
+                    <stop offset="100%" stop-color="orange" />
+                </radialGradient>
+            </defs>
             <circle 
                 cx="150" 
                 cy="150" 
                 r="{flowerHead/middle/@radius}" 
                 fill="{flowerHead/middle/@color}"
-            />     
+            />
+            <pattern id="stripe" width="10" height="10" patternUnits="userSpaceOnUse">
+                <rect width="10" height="10" fill="yellow" />
+                <line x1="0" y1="0" x2="0" y2="10" style="stroke:black; stroke-width:8" />
+            </pattern>
+            <!--bee-->
+            <polygon points="300,80 270,90 270,70"/>
+            <ellipse
+                rx="{flowerHead/bee/@rx}"
+                ry="{flowerHead/bee/@ry}"
+                cx="{flowerHead/bee/@cx}"
+                cy="{flowerHead/bee/@cy}"
+                fill="{flowerHead/bee/@color}"
+            />
+            <xsl:for-each select="flowerHead/wings/wing">
+                <filter id="f1" x="0" y="0" xmlns="http://www.w3.org/2000/svg">
+                    <feGaussianBlur in="SourceGraphic" stdDeviation="1" />
+                </filter>
+                <ellipse
+                    rx="{@rx}"
+                    ry="{@ry}"
+                    cx="{@cx}"
+                    cy="{@cy}"
+                    fill="{@color}"
+                    transform="{@transform}"
+                    filter="{@filter}"
+                    />
+            </xsl:for-each>     
         </svg>            
     </xsl:template>
     
