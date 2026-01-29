@@ -32,7 +32,7 @@ This is cool coffee art:
 		* [Installing CoffeePot](#installing-coffeepot)
 		* [Creating an Alias for CoffeePot](#creating-an-alias-for-coffeepot)
 		* [Configuring CoffeePot](#configuring-coffeepot)
-		* [Testing CoffeePot](#testing-coffeepot)
+		* [Smoke Test for CoffeePot](#smoke-test-for-coffeepot)
 	* [**Markup Blitz**](#markup-blitz)
 		* [Installing Markup Blitz](#installing-markup-blitz)
 		* [Creating an Alias for Markup Blitz](#creating-an-alias-for-markup-blitz)
@@ -155,6 +155,7 @@ Graphviz is required for CoffeePot and Calabash to render pipeline diagrams.
 
 * There are a lot of installations throughout this process. To keep them organized, *it is a good idea to place them all in your GitHub directory since you should be familiar with that directory at this point.*
 * To make things simpler for yourself, use the same alias names that I use in this tutorial, so when we're working on this in class, there's no confusion if your alias has a different name than mine.
+* To **"smoke test"** means to see if your installation is working without running an actual file (using supplied test files or methods). It is important you do these at the end of each installation to verify everything should work properly when you use your own files.
 * We also suggest you install 3 more helpful command-line tools via Homebrew:
 
 	```shell
@@ -217,7 +218,7 @@ CoffeePot is a command-line ixml processor.
 
 ### Configuring CoffeePot
 
-CoffeePot uses a `.nineml.properties` file.
+CoffeePot uses a `.nineml.properties` file in your home directory. This contains some helpful default settings when using CoffeePot such as "pretty-printing" your xml output.
 
 1. Create the file in your home directory:
 
@@ -239,7 +240,7 @@ CoffeePot uses a `.nineml.properties` file.
 	trailing-newline-on-output=true
 	```
 
-### Testing CoffeePot
+### Smoke Test for CoffeePot
 
 1. Run the alias:
 
@@ -247,7 +248,25 @@ CoffeePot uses a `.nineml.properties` file.
 	coffeepot
 	```
 
-1. You should see a usage message.
+1. You should see the usage message:
+
+	```
+ 	Usage: ... -g:input.ixml -o:output.xml (--help for more details)
+ 	```
+
+ 	*  Key piece of info missing from this message:
+  	 	Use: **`-i.filename.txt`** after `-g:input.ixml` to point to your input file.
+    *  *Think of `-g` as standing for "grammar", `-i` as "input file", `and `-o` as "output file".*
+
+1. If you have some ixml and a text file to run it on, go ahead and try it!
+
+   	```shell
+	coffeepot -g:filename.ixml -i:filename.txt
+	```
+
+	*  You can add a couple of things to this command for more fun:
+		*  **`--analyze-ambiguity`** *(so: `coffeepot -g:filename.ixml -i:filename.txt --analyze-ambiguity`)*
+		*  **`--graph:filename.svg`** *(so: `coffeepot -g:filename.ixml -i:filename.txt --graph.filename.svg`)* to get some SVG output. This is meant for small, simple things. CoffeePot won't be able to generate the SVG if it's going to be a large, complicated file.
 
 ## Markup Blitz
 
