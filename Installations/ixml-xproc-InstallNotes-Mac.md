@@ -33,10 +33,11 @@ This is cool coffee art:
 		* [Creating an Alias for CoffeePot](#creating-an-alias-for-coffeepot)
 		* [Configuring CoffeePot](#configuring-coffeepot)
 		* [Smoke Test for CoffeePot](#smoke-test-for-coffeepot)
+    	* [Running CoffeePot](#running-coffeepot)
 	* [**Markup Blitz**](#markup-blitz)
 		* [Installing Markup Blitz](#installing-markup-blitz)
 		* [Creating an Alias for Markup Blitz](#creating-an-alias-for-markup-blitz)
-		* [Testing Markup Blitz](#testing-markup-blitz)
+		* [Smoke Test for Markup Blitz](#smoke-test-for-markup-blitz)
 		* [Running Markup Blitz](#running-markup-blitz)
 * [**XProc Processors**](#xproc-processors)
 	* [**Calabash**](#calabash)
@@ -208,7 +209,7 @@ CoffeePot is a command-line ixml processor.
 	nano ~/.zshrc
 	```
 
-1. Add an alias pointing to the CoffeePot JAR **(replace `VERSION` in this line with the latest version of CoffeePot that you downloaded—the version in the unzipped directory name)**:
+1. Add an alias pointing to the CoffeePot JAR **(replace `USERNAME` with your username and `VERSION` with the latest version of CoffeePot that you downloaded—the version in the unzipped directory name)**:
 
 	```shell
 	alias coffeepot='java -jar /Users/USERNAME/Documents/GitHub/coffeepot-VERSION/coffeepot-VERSION.jar'
@@ -258,21 +259,26 @@ CoffeePot uses a `.nineml.properties` file in your home directory. This contains
   	 	Use: **`-i.filename.txt`** after `-g:input.ixml` to point to your input file.
     *  *Think of `-g` as standing for "grammar", `-i` as "input file", `and `-o` as "output file".*
 
+### Running CoffeePot
+
 1. If you have some ixml and a text file to run it on, go ahead and try it!
 
    	```shell
 	coffeepot -g:filename.ixml -i:filename.txt
 	```
 
-	*  You can add a couple of things to this command for more fun:
-		*  **`--analyze-ambiguity`** *(so: `coffeepot -g:filename.ixml -i:filename.txt --analyze-ambiguity`)*
-		*  **`--graph:filename.svg`** *(so: `coffeepot -g:filename.ixml -i:filename.txt --graph.filename.svg`)* to get some SVG output. This is meant for small, simple things. CoffeePot won't be able to generate the SVG if it's going to be a large, complicated file.
+2. You can add a couple of things to this command for more fun:
+	*  **`--analyze-ambiguity`** *(so: `coffeepot -g:filename.ixml -i:filename.txt --analyze-ambiguity`)*
+	*  **`--graph:filename.svg`** *(so: `coffeepot -g:filename.ixml -i:filename.txt --graph.filename.svg`)* to get some SVG output.
+		* This is meant for small, simple things. CoffeePot won't be able to generate the SVG if it's going to be a large, complicated file.
 
 ## Markup Blitz
 
-Markup Blitz is used for ixml processing with Morgana.
+Markup Blitz is used for ixml processing with Morgana. Like CoffeePot, it can also be used at command line.
 
 ### Installing Markup Blitz
+
+*This step will follow the official Markup Blitz instructions which can be found in their [GitHub repository](https://github.com/GuntherRademacher/markup-blitz).*
 
 1. Clone the repository:
 
@@ -302,13 +308,13 @@ Markup Blitz is used for ixml processing with Morgana.
 	nano ~/.zshrc
 	```
 
-1. Add the alias:
+1. Add the alias **(replace `USERNAME` with your username)**:
 
 	```shell
 	alias blitz='java -jar /Users/USERNAME/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar'
 	```
 
-### Testing Markup Blitz
+### Smoke Testing Markup Blitz
 
 1. Run:
 
@@ -316,7 +322,13 @@ Markup Blitz is used for ixml processing with Morgana.
 	blitz
 	```
 
-1. You should see a usage message showing compilation of Invisible XML commands.
+1. You should see the usage message:
+
+   	```shell
+	Usage: java -jar markup-blitz.jar [<OPTION>...] [<GRAMMAR>] <INPUT>
+	
+	. . . more stuff below . . .
+    ```
 
 ### Running Markup Blitz
 
