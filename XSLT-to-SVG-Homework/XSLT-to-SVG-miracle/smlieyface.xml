@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smiley>
+    <face radius="200" color="yellow"/>
+    <eyes>
+        <eye cx="180" cy="200" r="15"/>
+        <eye cx="320" cy="200" r="15"/>
+    </eyes>
+    <mouth color="black"/>
+    
+</smiley>

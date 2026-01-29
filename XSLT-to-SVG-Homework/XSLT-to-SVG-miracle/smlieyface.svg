@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="500"
+     height="500"
+     viewBox="0 0 500 500">
+   <circle cx="250"
+           cy="250"
+           r="200"
+           fill="yellow"
+           stroke="red"
+           stroke-width="4"/>
+   <circle cx="180" cy="200" r="15" fill="blue"/>
+   <circle cx="320" cy="200" r="15" fill="blue"/>
+   <path d="M 150 280 Q 250 360 350 280"
+         stroke="black"
+         stroke-width="6"
+         fill="none"/>
+</svg>

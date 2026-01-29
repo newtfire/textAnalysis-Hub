@@ -146,13 +146,13 @@ This is an XProc processor that you can use with the ixml processor [**CoffeePot
 
 ### Installing Calabash
   
-* Get it from here: <https://github.com/xmlcalabash/xmlcalabash3/releases> and look for the **xmlcalabash zip file** in the latest release, after the release notes. The zip directory you need is the third one from the top (named something like this with the version number in the name): **xmlcalabash-3.0.0-alpha20.zip**
+* Get it from [the xmlcalabash Codeberg repo](https://codeberg.org/xmlcalabash/xmlcalabash3/releases) and look for the **xmlcalabash zip file** in the latest release, after the release notes. The zip directory you need is the third one from the top (named something like this with the version number in the name): **xmlcalabash-3.0.37.zip**
 * Unzip this and move it somewhere central where it's easy to work with. I set my unzipped xmlcalabash folder in my GitHub directory so it's near where I work on code.
 * Open your shell and navigate to your new xmlcalabash folder. For this to work we need to be able to use Java to execute the .jar file inside.
        Test if your Java installation works. This 'help' shell command will show you all the different commands available **(ADAPT THIS LINE TO APPLY TO YOUR VERSION NUMBER AS NEEDED!)**:
 	
 	```shell
-	java -jar xmlcalabash-app-3.0.0-alpha20.jar help
+	java -jar xmlcalabash-app-3.0.37.jar help
 	```
 	
 	* NOTE: **The XML Calabash version number may have changed** since we drafted these instructions! Check the version number carefully as you adapt the following instructions, which will require you to enter a filepath to this xmlcalabash jar file.  
@@ -224,13 +224,16 @@ This alias will execute a pretty long command, so you'll definitely want to use 
 
 * To "smoke test" (or see if your installation is working) navigate to your xmlcalabash repo and enter this command: `calabash helloWorld.xpl`. If your installation was successful you should see the following:
 
-	```shell
-	  === result :: 1 :: file:/C:/Users/ebbon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/helloWorld.xpl ===
-	<?xml version="1.0" encoding="windows-1252"?>
-	<helloWorld>This is XML Calabash version 3.0.0-alpha20.
-	Share and enjoy!</helloWorld>
-	=====================================================================================================
-	```
+	You should see the following output in your shell:
+
+```xml
+This message is printed when the identity step runs.
+It contains “😻” (U+201C, U+1F63B, U+201D) to test
+the console encoding's ability to display Unicode.
+<helloWorld>This is XML Calabash version 3.0.37.
+Share and enjoy!</helloWorld>%
+```
+
 
 * *For future reference*: As soon as we have our own XProc pipeline files (`.xpl`) ready to run, we'll be running with a command like this, using the alias you created: `calabash filename.xpl` ). And we can see some nifty graphviz sketches of our pipeline if we append this to the command (including the dot at the end: `--graphs:.` like so: `calabash filename.xpl --graphs:.`
 
