@@ -53,7 +53,7 @@ This is cool coffee art:
 		* [Installing CoffeeGrinder and CoffeeFilter](#installing-coffeegrinder-and-coffeefilter)
 		* [Configuring Morgana](#configuring-morgana)
 		* [Creating an Alias for Morgana](#creating-an-alias-for-morgana)
-		* [Testing Morgana](#testing-morgana)
+		* [Smoke Test for Morgana](#smoke-test-for-morgana)
 * [**Completion**](#completion)
 
 *********************
@@ -439,61 +439,90 @@ CoffeeSacks is required to use ixml when running a pipeline with Calabash.
 
 ## Morgana
 
-Morgana is an XProc processor for complex pipelines.
+Morgana is an XProc processor for complex pipelines. It works well with [Markup Blitz](#markup-blitz).
+
+Official documentation: <https://www.xml-project.com/manual/index.html>
 
 ### Installing Morgana
 
 1. Download MorganaXProc-IIIse from:
-	<https://www.xml-project.com/manual/index.html>
+	<https://sourceforge.net/projects/morganaxproc-iiise/>
 1. Unzip it into your GitHub directory.
 
 ### Installing SchXslt2
 
+SchXslt2 (pronounced "Shicksilt" ... be careful with that one!) is an XSLT-based Schematron processor that can handle Schematron validation.
+
 1. Visit the SchXslt2 releases page:
 	<https://codeberg.org/SchXslt/schxslt2/releases>
-1. Download **SchXslt2 version 1.7.2**.
+1. Download the ZIP directory from the latest release.
 1. Unzip it into your GitHub directory.
 
 ### Installing CoffeeGrinder and CoffeeFilter
+
+Calabash (being created by NineML's developers) comes with the JAR files for CoffeeGrinder and CoffeeFilter. In order to use CoffeeTools with Morgana, we can download and point to them separately.
 
 1. Download CoffeeGrinder and CoffeeFilter from:
 	<https://codeberg.org/NineML/nineml/releases>
 1. Unzip both into your GitHub directory.
 
+***UNDER DEVELOPMENT: Modifying Morgana.sh to point to COFFEE***
+
 ### Configuring Morgana
 
-1. Create a configuration file:
+1. Create the configuration file in your home directory:
 
 	```shell
 	nano ~/morgana-config.xml
 	```
 
-1. Add and adapt paths:
+1. Add **(replace `USERNAME` with your username and `VERSION` with the latest version that you downloaded—the version in the unzipped directory name)**:
 
 	```xml
 	<morgana-config xmlns="http://www.xml-project.com/morganaxproc">
-	  <path_to_SchXSLT2_transpiler>/Users/USERNAME/Documents/GitHub/schxslt2-1.7.2/transpile.xsl</path_to_SchXSLT2_transpiler>
-	  <xslt-connector>Saxon12-3</xslt-connector>
-	  <schematron-connector>schxslt2</schematron-connector>
-	  <ixml-connector>com.xml_project.morganaxproc3.ninemlConnector.NineMLConnector</ixml-connector>
+	<!-- Relative paths are resolved by uri of this file -->
+ 
+		 <path_to_SchXSLT2_transpiler>/Users/USERNAME/Documents/GitHub/schxslt2-VERSION/transpile.xsl</path_to_SchXSLT2_transpiler>
+
+ 		 <XSLTValidationMode>LAX</XSLTValidationMode>
+ 		 <silent>true</silent>
+ 
+		 <xslt-connector>Saxon12-3</xslt-connector>
+ 		 <xquery-connector>Saxon12-3</xquery-connector>
+		 <schematron-connector>schxslt2</schematron-connector>
+
+ 		 <!-- Switch between these for Coffee or Markup Blitz)
+ 		 <!-- <ixml-connector>com.xml_project.morganaxproc3.ninemlConnector.NineMLConnector</ixml-connector> -->
+		 <ixml-connector>com.xml_project.morganaxproc3.markupblitzConnector.MarkupBlitzConnector</ixml-connector>
 	</morgana-config>
 	```
 
 ### Creating an Alias for Morgana
 
-1. Edit `.zshrc`.
-1. Add:
+1. Open your `.zshrc` file:
+
+	```shell
+	nano ~/.zshrc
+	```
+ 
+1. Add **(replace `USERNAME` with your username and `VERSION` with the latest version that you downloaded—the version in the unzipped directory name)**:
 
 	```shell
 	alias morgana='/Users/USERNAME/Documents/GitHub/MorganaXProc-IIIse-VERSION/Morgana.sh -config=/Users/USERNAME/morgana-config.xml'
 	```
 
-### Testing Morgana
+### Smoke Test for Morgana
 
 1. Run:
 
 	```shell
 	morgana pipeline.xpl
+	```
+
+ 1. You should see the following message:
+
+	```shell
+	Hello world. This is an XProc 3.0 pipeline running.
 	```
 
 *********************
