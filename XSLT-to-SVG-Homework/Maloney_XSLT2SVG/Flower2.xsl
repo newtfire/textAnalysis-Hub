@@ -52,14 +52,25 @@
                 <line x1="0" y1="0" x2="0" y2="10" style="stroke:black; stroke-width:8" />
             </pattern>
             <!--bee-->
-            <polygon points="300,80 270,90 270,70"/>
+            <polygon points="300,80 270,90 270,70">
+                <animateMotion
+                    path="M 50, 100 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0"
+                    begin="0s"
+                    dur="5s"
+                    repeatCount="indefinite"/>
+            </polygon>
             <ellipse
                 rx="{flowerHead/bee/@rx}"
                 ry="{flowerHead/bee/@ry}"
                 cx="{flowerHead/bee/@cx}"
                 cy="{flowerHead/bee/@cy}"
-                fill="{flowerHead/bee/@color}"
-            />
+                fill="{flowerHead/bee/@color}">
+                <animateMotion
+                    path="M 50, 100 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0"
+                    begin="0s"
+                    dur="5s"
+                    repeatCount="indefinite"/>
+            </ellipse>
             <xsl:for-each select="flowerHead/wings/wing">
                 <filter id="f1" x="0" y="0" xmlns="http://www.w3.org/2000/svg">
                     <feGaussianBlur in="SourceGraphic" stdDeviation="1" />
@@ -71,10 +82,14 @@
                     cy="{@cy}"
                     fill="{@color}"
                     transform="{@transform}"
-                    filter="{@filter}"
-                    />
+                    filter="{@filter}">
+                    <animateMotion
+                        path="M 50, 100 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0"
+                        begin="0s"
+                        dur="5s"
+                        repeatCount="indefinite" />
+                </ellipse>
             </xsl:for-each>     
         </svg>            
-    </xsl:template>
-    
+    </xsl:template>   
 </xsl:stylesheet>

@@ -74,8 +74,8 @@
         ry="20" 
         cx="250" 
         cy="80" 
-        color="url(#stripe)" 
-    />
+        color="url(#stripe)"
+    />   
     <wings>
         <filter id="f1" x="0" y="0" xmlns="http://www.w3.org/2000/svg">
             <feGaussianBlur in="SourceGraphic" stdDeviation="1" />
@@ -88,7 +88,7 @@
             color="lightgray"
             transform="rotate(20)"
             filter="url(#f1)"
-        /> 
+        />        
         <wing 
             rx="20"
             ry="10" 
