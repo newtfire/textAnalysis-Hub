@@ -45,7 +45,8 @@ This is cool coffee art:
 		* [Installing CoffeeSacks](#installing-coffeesacks)
 		* [Configuring Calabash](#configuring-calabash)
 		* [Creating an Alias for Calabash](#creating-an-alias-for-calabash)
-		* [Testing Calabash](#testing-calabash)
+		* [Smoke Test for Calabash](#smoke-test-for-calabash)
+    	* [Running Calabash](#running-calabash)
 	* [**Morgana**](#morgana)
 		* [Installing Morgana](#installing-morgana)
 		* [Installing SchXslt2](#installing-schxslt2)
@@ -192,7 +193,7 @@ Latest releases for all Coffee tools:
 
 ## CoffeePot
 
-CoffeePot is a command-line ixml processor.
+CoffeePot is a command-line ixml processor. It's good for simple grammars and small input files.
 
 ### Installing CoffeePot
 
@@ -274,7 +275,7 @@ CoffeePot uses a `.nineml.properties` file in your home directory. This contains
 
 ## Markup Blitz
 
-Markup Blitz is used for ixml processing with Morgana. Like CoffeePot, it can also be used at command line.
+Markup Blitz is used for ixml processing with Morgana. Like CoffeePot, it can also be used at command line. It is better at handling more complex grammars and larger input files.
 
 ### Installing Markup Blitz
 
@@ -344,7 +345,7 @@ Markup Blitz is used for ixml processing with Morgana. Like CoffeePot, it can al
 
 ## Calabash
 
-Calabash is an XProc 3.0 processor.
+Calabash is an XProc 3.0 processor developed by the same people that made the CoffeeTools.
 
 ### Installing Calabash
 
@@ -352,13 +353,13 @@ Calabash is an XProc 3.0 processor.
 	<https://codeberg.org/xmlcalabash/xmlcalabash3/releases>
 1. Download the latest release ZIP.
 1. Unzip it into your GitHub directory.
-1. Navigate to the directory:
+1. Navigate to the directory **(replace `VERSION` with the latest version that you downloaded—the version in the unzipped directory name)**:
 
 	```shell
 	cd ~/Documents/GitHub/xmlcalabash-VERSION
 	```
 
-1. Test:
+1. Test **(replace `VERSION` with the latest version that you downloaded—the version in the unzipped directory name)**:
 
 	```shell
 	java -jar xmlcalabash-app-VERSION.jar help
@@ -366,13 +367,15 @@ Calabash is an XProc 3.0 processor.
 
 ### Installing CoffeeSacks
 
+CoffeeSacks is required to use ixml when running a pipeline with Calabash.
+
 1. Download CoffeeSacks from:
 	<https://codeberg.org/NineML/nineml/releases>
 1. Copy the CoffeeSacks JAR into the `extra/` directory of Calabash.
 
 ### Configuring Calabash
 
-1. Create the configuration file:
+1. Create the configuration file in your home directory:
 
 	```shell
 	nano ~/.xmlcalabash3
@@ -388,20 +391,49 @@ Calabash is an XProc 3.0 processor.
 
 ### Creating an Alias for Calabash
 
-1. Edit `.zshrc`.
-1. Add:
+1. Open your `.zshrc` file:
+
+	```shell
+	nano ~/.zshrc
+	```
+
+1. Add **(replace `USERNAME` with your username and `VERSION` with the latest version that you downloaded—the version in the unzipped directory name)**:
 
 	```shell
 	alias calabash='/Users/USERNAME/Documents/GitHub/xmlcalabash-VERSION/xmlcalabash.sh --init:org.nineml.coffeesacks.RegisterCoffeeSacks'
 	```
 
-### Testing Calabash
+### Smoke Test for Calabash
 
 1. Run:
 
 	```shell
 	calabash helloWorld.xpl
 	```
+
+ 1. You should see the following message:
+
+	```xml
+	This message is printed when the identity step runs.
+	It contains “😻” (U+201C, U+1F63B, U+201D) to test
+	the console encoding's ability to display Unicode.
+	<helloWorld>This is XML Calabash version 3.0.37.
+	Share and enjoy!</helloWorld>%
+ 	```
+
+ ### Running Calabash
+
+ 1. When you have an XProc pipeline file (`.xpl`) ready to run:
+
+	```shell
+ 	calabash filename.xpl
+ 	```
+
+ 2. To see some nifty Graphviz sketches of your pipeline, add `--graphs:.` to the command:
+
+    ```shell
+ 	calabash filename.xpl --graphs:.
+ 	```
 
 *********************
 
@@ -468,13 +500,28 @@ Morgana is an XProc processor for complex pipelines.
 
 # Completion
 
-You now have:
+Congratulations! You have everything you need to:
+*  Convert text files to XML according to your ixml grammar definition, AND
+*  Set that ixml conversion into a processing pipeline that can also apply XSLT, XQuery, and Schematron to the XML that you create with ixml!
 
-1. Invisible XML processing via CoffeePot
-1. Markup Blitz for ixml with Morgana
-1. XProc pipelines via Calabash and Morgana
-1. Integrated ixml, XSLT, XQuery, and Schematron processing
+Have fun pouring text through grammars, filters, grinders, and pipelines!
 
-Have fun pouring text through grammars, filters, grinders, and pipelines.
-
+                      .
+                        `:.
+                          `:.
+                  .:'     ,::
+                 .:'      ;:'
+                 ::      ;:'
+                  :    .:'
+                   `.  :.
+          _________________________
+         : _ _ _ _ _ _ _ _ _ _ _ _ :
+     ,---:".".".".".".".".".".".".":
+    : ,'"`::.:.:.:.:.:.:.:.:.:.:.::'
+    `.`.  `:-===-===-===-===-===-:'
+      `.`-._:                   :
+        `-.__`.               ,' met.
+    ,--------`"`-------------'--------.
+     `"--.__                   __.--"'
+            `""-------------""'
 *ASCII art credits: <https://ascii.co.uk/art/cup>*
