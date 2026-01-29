@@ -188,21 +188,36 @@ This is an XProc processor that you can use with the ixml processor [**CoffeePot
 
 ### Installing Calabash
 
-* Visit the [xmlcalabash github repo](https://github.com/xmlcalabash/xmlcalabash3/releases) and look for the latest release (**alpha20 is the latest release as of 17 February 2025**).
-* Download the xmlcalabash zip directory (`xmlcalabash-3.0.0-alpha20.zip`)
+* Visit the [xmlcalabash Codeberg repo](https://codeberg.org/xmlcalabash/xmlcalabash3/releases) and look for the latest release (**3.0.37 is the latest release as of 29 January 2026**).
+* Download the xmlcalabash zip directory (`xmlcalabash-3.0.37.zip`)
 * Unzip this directory and place the unzipped folder it your GitHub directory.
 * Open your terminal and navigate to your new xmlcalabash folder:
 
 	```shell
- 	cd /Documents/GitHub/xmlcalabash-3.0.0-alpha20
+ 	cd /Documents/GitHub/xmlcalabash-3.0.37
  	```
  
 * Test if your Java installation works **(ADAPT THIS LINE TO APPLY TO YOUR VERSION NUMBER OF XMLCALABASH AS NEEDED!)**:
 	
 	```shell
-	java -jar xmlcalabash-app-3.0.0-alpha20.jar help
+	java -jar xmlcalabash-app-3.0.37.jar help
 	```
-* If successful, this 'help' shell command will show you all the different xmlcalabash commands available.
+* If successful, this 'help' shell command will show you all the different xmlcalabash commands available. 
+* Now try running the sample helloWorld.xpl XProc script that comes packaged with xmlcalabash:
+
+```shell
+java -jar xmlcalabash-app-3.0.37.jar helloWorld.xpl
+```
+You should see the following output in your shell:
+
+```xml
+This message is printed when the identity step runs.
+It contains “😻” (U+201C, U+1F63B, U+201D) to test
+the console encoding's ability to display Unicode.
+<helloWorld>This is XML Calabash version 3.0.37.
+Share and enjoy!</helloWorld>%
+```
+
 
 ### Graphviz
 
