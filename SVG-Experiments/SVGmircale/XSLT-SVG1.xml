@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sales>
+    <month name="Jan" value="120"/>
+    <month name="Feb" value="200"/>
+    <month name="Mar" value="150"/>
+    <month name="Apr" value="90"/>
+</sales>
