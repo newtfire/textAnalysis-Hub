@@ -33,6 +33,11 @@ This is cool coffee art:
 		* [Creating an Alias for CoffeePot](#creating-an-alias-for-coffeepot)
 		* [Configuring CoffeePot](#configuring-coffeepot)
 		* [Testing CoffeePot](#testing-coffeepot)
+	* [**Markup Blitz**](#markup-blitz)
+		* [Installing Markup Blitz](#installing-markup-blitz)
+		* [Creating an Alias for Markup Blitz](#creating-an-alias-for-markup-blitz)
+		* [Testing Markup Blitz](#testing-markup-blitz)
+		* [Running Markup Blitz](#running-markup-blitz)
 * [**XProc Processors**](#xproc-processors)
 	* [**Calabash**](#calabash)
 		* [Installing Calabash](#installing-calabash)
@@ -106,19 +111,21 @@ The Java Development Kit (OpenJDK) java environment is required for some of the 
 
 ## Installing Graphviz
 
-Graphviz is required for diagram generation in both CoffeePot and XProc tools.
+Graphviz is required for CoffeePot and Calabash to render pipeline diagrams.
 
-1. Test whether Graphviz is installed:
+1. Test for Graphviz:
 
 	```shell
 	dot -V
 	```
 
-1. If it is not installed, install it using Homebrew:
+1. If missing, install it:
 
 	```shell
 	brew install graphviz
 	```
+
+*********************
 
 ## Suggestions
 
@@ -215,6 +222,64 @@ CoffeePot uses a `.nineml.properties` file.
 	```
 
 1. You should see a usage message.
+
+## Markup Blitz
+
+Markup Blitz is used for ixml processing with Morgana.
+
+### Installing Markup Blitz
+
+1. Clone the repository:
+
+	```shell
+	git clone https://github.com/GuntherRademacher/markup-blitz.git
+	```
+
+1. Navigate to the cloned folder:
+
+	```shell
+	cd markup-blitz
+	```
+
+1. Build the JAR (macOS/Unix):
+
+	```shell
+	./gradlew clean jar
+	```
+
+1. The JAR will be in `build/libs/markup-blitz.jar`.
+
+### Creating an Alias for Markup Blitz
+
+1. Open your `.zshrc` file:
+
+	```shell
+	nano ~/.zshrc
+	```
+
+1. Add the alias:
+
+	```shell
+	alias blitz='java -jar /Users/USERNAME/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar'
+	```
+
+### Testing Markup Blitz
+
+1. Run:
+
+	```shell
+	blitz
+	```
+
+1. You should see a usage message showing compilation of Invisible XML commands.
+
+### Running Markup Blitz
+
+1. To process an ixml grammar and input file:
+
+	```shell
+	blitz filename.ixml filename.txt
+	```
 
 *********************
 
@@ -349,6 +414,7 @@ Morgana is an XProc processor for complex pipelines.
 You now have:
 
 1. Invisible XML processing via CoffeePot
+1. Markup Blitz for ixml with Morgana
 1. XProc pipelines via Calabash and Morgana
 1. Integrated ixml, XSLT, XQuery, and Schematron processing
 
