@@ -27,7 +27,7 @@ This is cool coffee art:
 	* [Installing Graphviz](#installing-graphviz)
 	* [Suggestions](#suggestions)
 * [**Invisible XML (ixml) Processors**](#invisible-xml-ixml-processors)
-	* [About the Coffee Tools](#about-the-coffee-tools)
+	* [About the CoffeeTools](#about-the-coffeetools)
 	* [**CoffeePot**](#coffeepot)
 		* [Installing CoffeePot](#installing-coffeepot)
 		* [Creating an Alias for CoffeePot](#creating-an-alias-for-coffeepot)
@@ -164,8 +164,6 @@ Canonical documentation for all Coffee tools:
 Latest releases for all Coffee tools:
 <https://codeberg.org/NineML/nineml/releases>
 
-Download the four ZIP files with version numbers in their names.
-
 ## CoffeePot
 
 CoffeePot is a command-line ixml processor.
@@ -207,8 +205,12 @@ CoffeePot uses a `.nineml.properties` file.
 
 	```shell
 	graphviz=/opt/homebrew/bin/dot
+	ignore-trailing-whitespace=true
 	pretty-print=true
 	progress-bar=tty
+	assert-valid-xml-characters=true
+	assert-valid-xml-names=true
+	ignore-bom=true
 	normalize-line-endings=true
 	trailing-newline-on-output=true
 	```
