@@ -60,18 +60,35 @@ This is cool coffee art:
 
 ## Installing Homebrew
 
+<img src="images/homebrew.png" alt="homebrew logo" width="500"/>
+
 Homebrew is a package manager for macOS. It will help you install things quickly from your Terminal. We'll use it for installing OpenJDK, but it's a great tool to have in your toolbag for other future installations. You can [view their website](https://brew.sh/) for full instructions and other nerdy stuff.
 
 1. Open a new terminal window.
-1. Run the Homebrew installation command:
+1. Run the Homebrew installation command from their website:
 
 	```shell
 	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 	```
 
 1. You'll be asked to enter your password. This means the local password you use to login to your computer. *The password will not appear as you type it. This is a security feature.*
+	* You *might* receive an error for sudo (**s**ubstitude **u**ser **do**)
+		* To fix this error, take the download code line for homebrew and add `sudo ` before it: 
+
+		```shell
+		sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+		``` 
+	
+	* After running this line, you will be asked to enter your password.
+	* Once you enter your password, the terminal will the state `Checking for sudo access (which may request your password)... Don't run this as root!`
+	* After receiving this error, rerun the orginal Homebrew installation command:
+	
+		```shell
+		/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+		```
+
 1. Follow the on-screen instructions.
-1. When installation completes, run the three commands Homebrew provides to add it to your PATH.
+1. When installation completes, run the three commands Homebrew provides to add it to your PATH (run each line separately).
 1. Verify installation:
 
 	```shell
@@ -88,8 +105,9 @@ The Java Development Kit (OpenJDK) java environment is required for some of the 
 	java -version
 	```
 
-1. If Oracle Java is installed, uninstall it:
+	* If Oracle Java is installed, uninstall it:
 	<https://www.java.com/en/download/help/mac_uninstall_java.html>
+
 1. Install OpenJDK using Homebrew:
 
 	```shell
@@ -125,13 +143,19 @@ Graphviz is required for CoffeePot and Calabash to render pipeline diagrams.
 	brew install graphviz
 	```
 
+ 1. Verify installation:
+
+	```shell
+	dot -V
+	```
+
 *********************
 
 ## Suggestions
 
 * There are a lot of installations throughout this process. To keep them organized, *it is a good idea to place them all in your GitHub directory since you should be familiar with that directory at this point.*
 * To make things simpler for yourself, use the same alias names that I use in this tutorial, so when we're working on this in class, there's no confusion if your alias has a different name than mine.
-* We also suggest you install 3 more helpful command line tools via Homebrew:
+* We also suggest you install 3 more helpful command-line tools via Homebrew:
 
 	```shell
 	brew install bat
@@ -153,12 +177,12 @@ Graphviz is required for CoffeePot and Calabash to render pipeline diagrams.
 
 Invisible XML processing in this course uses four tools developed by the NineML project:
 
-1. CoffeePot
-1. CoffeeGrinder
-1. CoffeeFilter
-1. CoffeeSacks
+*  CoffeeGrinder (Earley and GLL parsers)
+*  CoffeeFilter (An Invisible XML parser)
+*  CoffeePot (An Invisible XML processor)
+*  CoffeeSacks (Saxon APIs for Invisible XML)
 
-Canonical documentation for all Coffee tools:
+Canonical documentation for all CoffeeTools:
 <https://nineml.org/>
 
 Latest releases for all Coffee tools:
@@ -172,7 +196,7 @@ CoffeePot is a command-line ixml processor.
 
 1. Visit the NineML releases page:
 	<https://codeberg.org/NineML/nineml/releases>
-1. Download the CoffeePot ZIP file.
+1. Download the CoffeePot ZIP file from the latest release.
 1. Unzip it into your GitHub directory.
 
 ### Creating an Alias for CoffeePot
@@ -183,7 +207,7 @@ CoffeePot is a command-line ixml processor.
 	nano ~/.zshrc
 	```
 
-1. Add an alias pointing to the CoffeePot JAR:
+1. Add an alias pointing to the CoffeePot JAR **(replace `VERSION` in this line with the latest version of CoffeePot that you downloaded—the version in the unzipped directory name)**:
 
 	```shell
 	alias coffeepot='java -jar /Users/USERNAME/Documents/GitHub/coffeepot-VERSION/coffeepot-VERSION.jar'
