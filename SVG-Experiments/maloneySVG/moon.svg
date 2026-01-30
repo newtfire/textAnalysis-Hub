@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 200 800">
+    <!-- ebb: To get your JavaScript to work, we needed to add a few crucial pieces.
+    The JS depends on a viewBox, which basically creates a little canvas stretching from an xy coordinate at top left
+    to an xy at bottom right. So your top left I set to 0,0 and your bottom right to 200,800. 
+    Try what happens if you make the bottom right coordinates larger or smaller: you can basically shrink your plot
+    by enlarging those values! 
+    
+    Anyway, your JS functions are reaching for a viewBox so the user can click and drag the plot.
+    I also needed to add an initiator function to your JavaScript file so it would load the first function as the 
+    browser window loads the file. 
+    -->
+    
     <desc>This is a moon made of two circle SVGs</desc>
+    <script type="text/javascript" href="moonMove.js"/>
     <defs>
         <filter id="f1">
             <feGaussianBlur stdDeviation="3"/>
         </filter>
     </defs>
-    <script type="text/javascript" src="moonMove.js"/>    
+       
     <circle cx="200" cy="150" r="100" stroke="black" fill="yellow" stroke-width="4"/>
     <circle cx="220" cy="150" r="80" stroke="black" fill="black" stroke-width="4" filter="url(#f1)"/>
     <polygon id="star" points="100,10 40,198 190,78 10,78 160,198"
