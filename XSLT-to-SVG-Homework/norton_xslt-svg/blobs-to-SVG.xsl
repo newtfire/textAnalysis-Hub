@@ -39,6 +39,8 @@
                 
                 <xsl:variable name="countcma" select="count(descendant::cma)"/>
                 <xsl:variable name="countprd" select="count(descendant::prd)"/>
+                <xsl:variable name="bigRedOrbit" select="1 div (($countcma + 1) * (($countcma + 1) div 180))"/>
+                
                 
                 <!-- We'll process the blob elements in here and output a shape 
                     for each one -->
@@ -48,11 +50,11 @@
                     fill="black"
                     stroke="black"
                     stroke-width="2"/>
-                    
-                
+                    <g>
+<!--                big red-->
                 <circle
                     cx="{250 * position()}"
-                    cy="-230"
+                    cy="-210"
                     r="{$countcma * 20}"
                     fill="red"
                     stroke="white"
@@ -64,16 +66,7 @@
                     the same, so just give it -230 for y if you want something a bit off-center! 
                    -->
 
-                <g transform="translate(20)">
-                    <circle cx="20" cy="-45" r="10" fill="black" stroke="white" stroke-width="2"/>
-                <text x="40" y="-40">Stanza</text>
                 
-                <circle cx="20" cy="-5" r="10" fill="red" stroke="white" stroke-width="2"/>
-                <text x="40" >Commas</text>
-                
-                <circle cx="20" cy="35" r="10" fill="maroon" stroke="white" stroke-width="2"/>
-                <text x="40" y="40">Periods</text>
-                </g>
 <!--                a bit brittle but...-->
                 <!--ebb: Okay, down here, I think you're setting the center of the little traveling circle for periods
                 to be somewhere around the perimeter of the comma circle, yes? So... the perimeter at the center
@@ -86,7 +79,7 @@
 <!--                tiny baby circle-->
                 <circle
                     cx="{250 * position()}"
-                    cy="-230"
+                    cy="-210"
                     r="{$countprd * 20}"
                     fill="maroon"
                     stroke="white"
@@ -95,7 +88,7 @@
                     <!--cy="{(-230 mod position() * 20) - 180}"-->
                     <animateMotion
                         path=" 
-                        M0,-40
+                        M0, 0
                         m{$countcma * 20 + 10}, 0
                         a{$countcma * 20 + 10},{$countcma * 20 + 10} 0 1,0 {($countcma * 20 + 10) * -2},0
                         a{$countcma * 20 + 10},{$countcma * 20 + 10} 0 1,0  {($countcma * 20 + 10) * 2},0
@@ -105,18 +98,18 @@
                         repeatCount="indefinite"/>
                 </circle>
                 <text x="{250 * position() -5}" 
-                    y="{(-230 mod position() * 20) - 220 + 5}" stroke="white" fill="white">
+                    y="-205" stroke="white" fill="white">
                     <xsl:value-of select="$countcma"/></text>
                 
                 <text x="{250 * position() -5}"
-                    y="{(-230 mod position() * 20) - 180 + 5}" 
+                    y="-205" 
                     stroke="white" fill="white"><xsl:value-of select="$countprd"/>
                     <!-- ebb: I haven't tried to adjust this yet, as it's not currently rolling around
                     the new coordinates I set. But I am investigating to see how animateMotion can be sent around
                     a circle....-->
                     <animateMotion
                         path=" 
-                        M0,-40
+                        M0,0
                         m{$countcma * 20 + 10}, 0
                         a{$countcma * 20 + 10},{$countcma * 20 + 10} 0 1,0 {($countcma * 20 + 10) * -2},0
                         a{$countcma * 20 + 10},{$countcma * 20 + 10} 0 1,0  {($countcma * 20 + 10) * 2},0
@@ -124,7 +117,28 @@
                         begin="0s"
                         dur="{((position() + .3) div position())+2.5}s"
                         repeatCount="indefinite"/></text>
+                        <animateMotion
+                            path=" 
+                            M0,-40
+                            m{$bigRedOrbit}, 0
+                            a{$bigRedOrbit},{$bigRedOrbit} 0 1,0 {$bigRedOrbit * -2},0
+                            a{$bigRedOrbit},{$bigRedOrbit} 0 1,0  {$bigRedOrbit * 2},0
+                            "
+                            begin="0s"
+                            dur="{((position() + .3) div position())+2.5}s"
+                            repeatCount="indefinite"/>
+                    </g>
                 
+                <g transform="translate(20)">
+                    <circle cx="20" cy="-45" r="10" fill="black" stroke="white" stroke-width="2"/>
+                    <text x="40" y="-40">Stanza</text>
+                    
+                    <circle cx="20" cy="-5" r="10" fill="red" stroke="white" stroke-width="2"/>
+                    <text x="40" >Commas</text>
+                    
+                    <circle cx="20" cy="35" r="10" fill="maroon" stroke="white" stroke-width="2"/>
+                    <text x="40" y="40">Periods</text>
+                </g>
             </xsl:for-each>
            </g>
         </svg>  
