@@ -33,12 +33,20 @@
     
     <xsl:template match="/">
         <svg width="100%">
+            
             <desc>SVG created from <xsl:apply-templates select="//title"/></desc>
-            <rect width="100%" height="100%" fill="rgb(40,1,55)"></rect>
+            <defs>
+                <filter id="f1" x="0" y="0" xmlns="http://www.w3.org/2000/svg">
+                    <feGaussianBlur in="SourceGraphic" stdDeviation="15" />
+                </filter>
+            </defs>
+            
+            
+            <rect width="100%" height="100%" fill="rgb(40,1,55)" stroke="black"></rect>
             
             <circle r="100" cx="140" cy="140"  fill="rgb(148,144,141)"></circle>
             <circle r="100" cx="150" cy="150"  fill="rgb(240,240,240)"></circle>
-            <rect y="700" width="100%" height="200" fill="white"></rect>
+            <rect y="700" width="100%" height="400" fill="white"></rect>
             <!-- I'm applying transform="translate()" to anticipate that I need a plot with y values in the 500s.
                 0,0 will move down the screen to 20, 500. 
             See https://www.w3schools.com/graphics/svg_transformations.asp 
@@ -67,6 +75,22 @@
                   
                   
               </xsl:for-each>
+               
+              <xsl:for-each select="//sp[@who='Ken']">
+                  
+                  <xsl:variable name="rng" select="random-number-generator(position())"/>
+                  <xsl:variable name="x" select="position() * 50 + ($rng?number * 30)"/>
+                  <xsl:variable name="y" select="$rng?next()?number * 400"/>
+                  
+                  <circle cx="{$x}" cy="{$y}" r="2" fill="white" stroke="yellow">
+                      <animate attributeName="r" from="2" to="3" begin="0s" dur="2s" repeatCount="indefinite" fill="freeze"></animate>
+                  </circle>
+                  
+                  
+                
+              </xsl:for-each>
+                   
+               
                            
              </g>
    
