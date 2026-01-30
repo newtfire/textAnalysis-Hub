@@ -2,9 +2,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1000">
    <desc>SVG created from That's How Love Starts, Ya Know!</desc>
    <g transform="translate(20 900)">
-      <g class="wholeEpisode"><!--Color intensifier factor: 31.875--><!--
+      <g class="wholeEpisode"><!--
+                          SORTED stage locations:: spaceship hallway hospital road tunnel classroom outsideSchool flashback--><!--Color intensifier factor: 31.875--><!--
                        Stage locations: outsideSchool classroom hallway classroom hallway hospital tunnel hospital flashback hospital flashback hospital tunnel hospital tunnel tunnel hospital spaceship road
-                       Distinct stage locations: classroom flashback hallway hospital outsideSchool road spaceship tunnel
+                       Distinct stage locations: outsideSchool classroom hallway hospital tunnel flashback spaceship road
                        Count of all speeches: 167
                        Count of all speeches * y-spacer: -835-->
          <text x="0" y="-850" style="text-anchor: middle; font-size:1.5em;">How much talking is happening in the locations of
@@ -16,108 +17,108 @@
                y1="0"
                y2="-835"
                stroke="rgb(200,200,200)"/>
-         <g class="LocationType"><!--classroom: 
+         <g class="location"><!--spaceship: 
                                Position 1--><!--
-                           How many speeches here? 14--><!--
+                           How many speeches here? 49--><!--
                                   All the previous counts: 0-->
             <line x1="0"
                   x2="0"
                   y1="0"
-                  y2="-70"
-                  stroke-width="200"
-                  stroke="rgb(31.875,200,200)"/>
-            <text x="200" y="-35" style="text-anchor: middle">classroom: 14 speeches
-                           </text>
-         </g>
-         <g class="LocationType"><!--flashback: 
-                               Position 2--><!--
-                           How many speeches here? 2--><!--
-                                  All the previous counts: 14-->
-            <line x1="0"
-                  x2="0"
-                  y1="-70"
-                  y2="-80"
-                  stroke-width="200"
-                  stroke="rgb(63.75,200,200)"/>
-            <text x="200" y="-75" style="text-anchor: middle">flashback: 2 speeches
-                           </text>
-         </g>
-         <g class="LocationType"><!--hallway: 
-                               Position 3--><!--
-                           How many speeches here? 33--><!--
-                                  All the previous counts: 14 2-->
-            <line x1="0"
-                  x2="0"
-                  y1="-80"
                   y2="-245"
                   stroke-width="200"
-                  stroke="rgb(95.625,200,200)"/>
-            <text x="200" y="-162.5" style="text-anchor: middle">hallway: 33 speeches
+                  stroke="rgb(31.875,200,200)"/>
+            <text x="200" y="-122.5" style="text-anchor: middle">spaceship: 49 speeches
                            </text>
          </g>
-         <g class="LocationType"><!--hospital: 
-                               Position 4--><!--
-                           How many speeches here? 24--><!--
-                                  All the previous counts: 14 2 33-->
+         <g class="location"><!--hallway: 
+                               Position 2--><!--
+                           How many speeches here? 33--><!--
+                                  All the previous counts: 49-->
             <line x1="0"
                   x2="0"
                   y1="-245"
-                  y2="-365"
+                  y2="-410"
+                  stroke-width="200"
+                  stroke="rgb(63.75,200,200)"/>
+            <text x="200" y="-327.5" style="text-anchor: middle">hallway: 33 speeches
+                           </text>
+         </g>
+         <g class="location"><!--hospital: 
+                               Position 3--><!--
+                           How many speeches here? 24--><!--
+                                  All the previous counts: 49 33-->
+            <line x1="0"
+                  x2="0"
+                  y1="-410"
+                  y2="-530"
+                  stroke-width="200"
+                  stroke="rgb(95.625,200,200)"/>
+            <text x="200" y="-470" style="text-anchor: middle">hospital: 24 speeches
+                           </text>
+         </g>
+         <g class="location"><!--road: 
+                               Position 4--><!--
+                           How many speeches here? 23--><!--
+                                  All the previous counts: 49 33 24-->
+            <line x1="0"
+                  x2="0"
+                  y1="-530"
+                  y2="-645"
                   stroke-width="200"
                   stroke="rgb(127.5,200,200)"/>
-            <text x="200" y="-305" style="text-anchor: middle">hospital: 24 speeches
+            <text x="200" y="-587.5" style="text-anchor: middle">road: 23 speeches
                            </text>
          </g>
-         <g class="LocationType"><!--outsideSchool: 
+         <g class="location"><!--tunnel: 
                                Position 5--><!--
-                           How many speeches here? 4--><!--
-                                  All the previous counts: 14 2 33 24-->
+                           How many speeches here? 18--><!--
+                                  All the previous counts: 49 33 24 23-->
             <line x1="0"
                   x2="0"
-                  y1="-365"
-                  y2="-385"
+                  y1="-645"
+                  y2="-735"
                   stroke-width="200"
                   stroke="rgb(159.375,200,200)"/>
-            <text x="200" y="-375" style="text-anchor: middle">outsideSchool: 4 speeches
+            <text x="200" y="-690" style="text-anchor: middle">tunnel: 18 speeches
                            </text>
          </g>
-         <g class="LocationType"><!--road: 
+         <g class="location"><!--classroom: 
                                Position 6--><!--
-                           How many speeches here? 23--><!--
-                                  All the previous counts: 14 2 33 24 4-->
+                           How many speeches here? 14--><!--
+                                  All the previous counts: 49 33 24 23 18-->
             <line x1="0"
                   x2="0"
-                  y1="-385"
-                  y2="-500"
+                  y1="-735"
+                  y2="-805"
                   stroke-width="200"
                   stroke="rgb(191.25,200,200)"/>
-            <text x="200" y="-442.5" style="text-anchor: middle">road: 23 speeches
+            <text x="200" y="-770" style="text-anchor: middle">classroom: 14 speeches
                            </text>
          </g>
-         <g class="LocationType"><!--spaceship: 
+         <g class="location"><!--outsideSchool: 
                                Position 7--><!--
-                           How many speeches here? 49--><!--
-                                  All the previous counts: 14 2 33 24 4 23-->
+                           How many speeches here? 4--><!--
+                                  All the previous counts: 49 33 24 23 18 14-->
             <line x1="0"
                   x2="0"
-                  y1="-500"
-                  y2="-745"
+                  y1="-805"
+                  y2="-825"
                   stroke-width="200"
                   stroke="rgb(223.125,200,200)"/>
-            <text x="200" y="-622.5" style="text-anchor: middle">spaceship: 49 speeches
+            <text x="200" y="-815" style="text-anchor: middle">outsideSchool: 4 speeches
                            </text>
          </g>
-         <g class="LocationType"><!--tunnel: 
+         <g class="location"><!--flashback: 
                                Position 8--><!--
-                           How many speeches here? 18--><!--
-                                  All the previous counts: 14 2 33 24 4 23 49-->
+                           How many speeches here? 2--><!--
+                                  All the previous counts: 49 33 24 23 18 14 4-->
             <line x1="0"
                   x2="0"
-                  y1="-745"
+                  y1="-825"
                   y2="-835"
                   stroke-width="200"
                   stroke="rgb(255,200,200)"/>
-            <text x="200" y="-790" style="text-anchor: middle">tunnel: 18 speeches
+            <text x="200" y="-830" style="text-anchor: middle">flashback: 2 speeches
                            </text>
          </g>
       </g>

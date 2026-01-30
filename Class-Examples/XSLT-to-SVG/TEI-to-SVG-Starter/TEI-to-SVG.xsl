@@ -60,12 +60,27 @@
                    <xsl:variable name="stageLocations" as="attribute()+" 
                        select="descendant::stage/@where"/>
                    <xsl:variable name="distinctStageLocs" as="xs:string+" 
-                       select="$stageLocations => distinct-values() => sort()"/>
+                       select="$stageLocations => distinct-values()"/>
                    <!-- ebb: Each location will be a segment of the whole episode in the SVG plot. I'm going to try
                    making a color intensifer variable based on the count of all the locations. We'll try basing
                    this one one of the three rgb(?,?,?) values when we set colors for the stacked portion, remembering
                    that each of these is based on 255. 
                    -->
+                   <!-- We WERE sorting these alphabetically, but we really want to sort them
+                   based on the counts of speeches inside each <stage> element. So let's construct a variable
+                   to do that here: -->
+                   
+                  <xsl:variable name="sortedStageLocs" as="xs:string+">
+                      <xsl:for-each select="$distinctStageLocs">
+                          <xsl:sort select="$xml-tree//stage[@where=current()]//sp => count()" 
+                              order="descending"/>
+                          <xsl:value-of select="current()"/>
+                      </xsl:for-each>                   
+                  </xsl:variable>
+                      <xsl:comment>
+                          SORTED stage locations:: <xsl:value-of select="$sortedStageLocs"/>
+                      </xsl:comment>
+                   
                    <xsl:variable name="colorIntensifier" select="255 div $distinctStageLocs => count()"/>
                    <xsl:comment>Color intensifier factor: <xsl:value-of select="$colorIntensifier"/></xsl:comment>
                    
@@ -92,9 +107,9 @@
                        To make greys, set rgb values equal. -->
                    
 
-                 <xsl:for-each select="$distinctStageLocs">
+                 <xsl:for-each select="$sortedStageLocs">
                        <!--ebb: We go through and look at each distinct stage location as a string. -->
-                       <g class="LocationType">
+                      <g class="location">
                            <xsl:variable name="LocationType" select="current()"/>
                            <xsl:variable name="LocationPosition" select="position()"/>
                            <!-- Position is going to be SUPER helpful inside an <xsl:for-each>: Each value
@@ -111,28 +126,28 @@
                            matches up with the current location text-string. 
                            -->
                            <xsl:variable name="currentStage" as="element()+" 
-                               select="$xml-tree//stage[@where=current()]"/>
+                               select="$xml-tree//stage[@where=$LocationType]"/>
                            <!--ebb: This returns the matching elements (may be more than one) for this string.   -->
-                           
-                         <xsl:variable name="countSpeechesHere" as="xs:integer"
-                         select="$currentStage//sp => count()"/>
+                           <xsl:variable name="countSpeechesHere" as="xs:integer"
+                               select="$currentStage//sp => count()"/>
+                         
                            
                            <xsl:comment>
                            How many speeches here? <xsl:value-of select="$countSpeechesHere"/>
                           </xsl:comment>
                            
-                           <!-- ebb: Stacking happens here! 
+             
+                           <!-- ebb: STACKING HAPPENS HERE!
                            We'll take the sum of the previous positions (and if it's first position, we plot from zero). 
                            -->
 
-                           
                                 <xsl:variable name="previousCounts" as="xs:integer+">
                                     <!-- By typing this as xs:integer+ we say we expect 1 or more integers: We're going to use
                                     a sum() function to add up all the numbers we output here so we know how tall the preceding
                                     portion-stack was. -->
                                     <xsl:choose>
                                         <xsl:when test="$LocationPosition gt 1">
-                                   <xsl:for-each select="$distinctStageLocs[position() lt $LocationPosition]">
+                                   <xsl:for-each select="$sortedStageLocs[position() lt $LocationPosition]">
                                        <xsl:value-of 
                                            select="$xml-tree//stage[@where=current()]//sp => count()"/>
                                    </xsl:for-each>
@@ -159,8 +174,7 @@
                            </text>
             
                            
-                       </g>
-   
+                         </g>
                    </xsl:for-each>
           
                </g> 
