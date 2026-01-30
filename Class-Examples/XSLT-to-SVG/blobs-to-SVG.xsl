@@ -23,7 +23,7 @@
     
     <xsl:template match="/">
         <svg width="100%">
-            <desc>SVG created from <xsl:apply-templates select="//title"/></desc>
+            <desc> SVG created from <xsl:apply-templates select="//title"/></desc>
             
             <!-- I'm applying transform="translate()" to anticipate that I need a plot with y values in the 500s.
                 0,0 will move down the screen to 20, 500. 
