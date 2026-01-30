@@ -83,9 +83,10 @@
                 -230 + ($countcma * 20) 
                 -->
                 
+<!--                tiny baby circle-->
                 <circle
                     cx="{250 * position()}"
-                    cy="{-230 + $countcma * 20}"
+                    cy="-230"
                     r="{$countprd * 20}"
                     fill="maroon"
                     stroke="white"
