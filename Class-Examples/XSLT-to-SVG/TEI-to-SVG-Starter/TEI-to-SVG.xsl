@@ -17,6 +17,13 @@
         Every <div> element is a scene location. You could plot something based on counts 
         of who or what is happening in the div elements: do some document analysis and see what
         makes sense! 
+        
+        We're making a stacked bar plot out of all the speeches in each location of a Dandandan episode!
+        
+        2026-01-30: IMPROVEMENTS TO TRY:
+        * Sort the bars so they're based on counts rather than alphabetical by location.
+        highest counts at the bottom to plot first (lowest positions). 
+        * Animate each stack so it grows into position, following its sequence.
     -->
     
     
@@ -90,6 +97,11 @@
                        <g class="LocationType">
                            <xsl:variable name="LocationType" select="current()"/>
                            <xsl:variable name="LocationPosition" select="position()"/>
+                           <!-- Position is going to be SUPER helpful inside an <xsl:for-each>: Each value
+                               gets a distinct position number showing its order of processing. We can use
+                               that number to put each stack on top of each other, calculate its color and more.
+        
+                          -->
                            <xsl:comment>
                                <xsl:value-of select="$LocationType"/>: 
                                Position <xsl:value-of select="$LocationPosition"/>
