@@ -39,8 +39,7 @@
             Count of categories in Pokemon Moves file: <xsl:value-of select="$countCats"/>
         </xsl:comment>
               <!-- Plot something that represents the total count of everything (the whole; all the Pokemon move categories). -->
-            
-    
+ 
               <!-- Then you can use <xsl:for-each> on the distinct category strings. 
                   Inside <xsl:for-each> define some variables:
                   * a variable to hold the current() value
