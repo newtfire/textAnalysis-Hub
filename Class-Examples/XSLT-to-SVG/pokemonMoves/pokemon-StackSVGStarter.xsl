@@ -20,9 +20,12 @@
     <!-- *************************************************************************-->
     <!-- Stacking question: How many Pokemon moves are classified in each category? 
         
-    *  If you want to base your whole plot on a percentage, the total count = 100%: 
+        Your SVG plot can go any direction or build a "stack" of parts in a whole in any way you wish, 
+        as long as you plot it with XSLT. 
+    
+    *  Suggestion: If you want to base your whole plot on a percentage, the total count = 100%: 
        You could plan your plot to be based on 100 percent units * $y-spacer
-    *  Parts of the plot would be count-of-moves-in-each-category div total count * 100
+    *  Portions of the stacked plot would be count-of-moves-in-each-category div total count * 100
     -->
     <!-- *************************************************************************-->
 
@@ -45,11 +48,11 @@
                       Here is a handy XPath for this variable: $xml-tree//move[category="current()"] => count()
                  * a variable to store the position() number inside the xsl:for-each. 
                  
-                 You can keep testing your variables in <xsl:comment> just to check them 
-                 before plotting in SVG elements.
-                      
-                 If you want to plot a percentage-based drawing, divide the count of moves for the current category 
-                 by the total count and multiply by 100. (You don't have to plot this way, but you may find it convenient.)
+                 We recommend that you keep testing your variables in <xsl:comment> 
+                 just to check their values before plotting in SVG elements.
+    
+                 Study how we created the stacked plots based on position in our example code from class:
+             https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/XSLT-to-SVG/TEI-to-SVG-Starter/TEI-to-SVG.xsl#L140 
               -->
                
            </g>
