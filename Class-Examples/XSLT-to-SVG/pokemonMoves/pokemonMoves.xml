@@ -1,0 +1,6541 @@
+<?xml version='1.0' encoding='utf-8'?>
+<moveSet>
+  <move>
+    <gen>gen6</gen>
+    <name>Aromatic Mist</name>
+    <category>Fairy</category>
+    <type>status</type>
+    <description>Raises Special Defense of an ally.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Baby-Doll Eyes</name>
+    <category>Fairy</category>
+    <type>status</type>
+    <description>Always goes first. Lowers the target's attack.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Belch</name>
+    <category>Poison</category>
+    <type>special</type>
+    <description>User must have consumed a Berry.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Boomburst</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>Hits all adjacent Pokémon.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Celebrate</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>The Pokémon congratulates you on your special day. No battle effect.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Confide</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Lowers opponent's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Crafty Shield</name>
+    <category>Fairy</category>
+    <type>status</type>
+    <description>Protects the Pokémon from status moves.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Dazzling Gleam</name>
+    <category>Fairy</category>
+    <type>special</type>
+    <description>Hits all adjacent opponents.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Diamond Storm</name>
+    <category>Rock</category>
+    <type>physical</type>
+    <description>May sharply raise user's Defense.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Disarming Voice</name>
+    <category>Fairy</category>
+    <type>special</type>
+    <description>Ignores Accuracy and Evasiveness.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Dragon Ascent</name>
+    <category>Flying</category>
+    <type>physical</type>
+    <description>Lowers user's Defense and Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Draining Kiss</name>
+    <category>Fairy</category>
+    <type>special</type>
+    <description>User recovers most the HP inflicted on opponent.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Eerie Impulse</name>
+    <category>Electric</category>
+    <type>status</type>
+    <description>Sharply lowers opponent's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Electric Terrain</name>
+    <category>Electric</category>
+    <type>status</type>
+    <description>Prevents all Pokémon from falling asleep for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Electrify</name>
+    <category>Electric</category>
+    <type>status</type>
+    <description>Changes the target's move to Electric type.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Fairy Lock</name>
+    <category>Fairy</category>
+    <type>status</type>
+    <description>Prevents fleeing in the next turn.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Fairy Wind</name>
+    <category>Fairy</category>
+    <type>special</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Fell Stinger</name>
+    <category>Bug</category>
+    <type>physical</type>
+    <description>Drastically raises user's Attack if target is KO'd.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Flower Shield</name>
+    <category>Fairy</category>
+    <type>status</type>
+    <description>Sharply raises Defense of all Grass-type Pokémon on the field.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Flying Press</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Deals Fighting and Flying type damage.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Forest's Curse</name>
+    <category>Grass</category>
+    <type>status</type>
+    <description>Adds Grass type to opponent.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Freeze-Dry</name>
+    <category>Ice</category>
+    <type>special</type>
+    <description>May freeze opponent. Super-effective against Water types.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Geomancy</name>
+    <category>Fairy</category>
+    <type>status</type>
+    <description>Charges on first turn, sharply raises user's Sp. Attack, Sp. Defense and Speed on the second.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Grassy Terrain</name>
+    <category>Grass</category>
+    <type>status</type>
+    <description>Restores a little HP of all Pokémon for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Happy Hour</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Doubles prize money from trainer battles.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Hold Back</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Always leaves opponent with at least 1 HP.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Hold Hands</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Makes the user and an ally very happy.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Hyperspace Fury</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Lowers user's Defense. Can strike through Protect/Detect.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Hyperspace Hole</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Can strike through Protect/Detect.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Infestation</name>
+    <category>Bug</category>
+    <type>special</type>
+    <description>Traps opponent, damaging them for 4-5 turns.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Ion Deluge</name>
+    <category>Electric</category>
+    <type>status</type>
+    <description>Changes Normal-type moves to Electric-type.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>King's Shield</name>
+    <category>Steel</category>
+    <type>status</type>
+    <description>Protects the user and lowers opponent's Attack on contact.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Land's Wrath</name>
+    <category>Ground</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Light of Ruin</name>
+    <category>Fairy</category>
+    <type>special</type>
+    <description>User receives recoil damage.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Magnetic Flux</name>
+    <category>Electric</category>
+    <type>status</type>
+    <description>Raises Defense and Sp. Defense of Plus/Minus Pokémon.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Mat Block</name>
+    <category>Fighting</category>
+    <type>status</type>
+    <description>Protects teammates from damaging moves.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Misty Terrain</name>
+    <category>Fairy</category>
+    <type>status</type>
+    <description>Protects the field from status conditions for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Moonblast</name>
+    <category>Fairy</category>
+    <type>special</type>
+    <description>May lower opponent's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Mystical Fire</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>Lowers opponent's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Noble Roar</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Lowers opponent's Attack and Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Nuzzle</name>
+    <category>Electric</category>
+    <type>physical</type>
+    <description>Paralyzes opponent.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Oblivion Wing</name>
+    <category>Flying</category>
+    <type>special</type>
+    <description>User recovers most of the HP inflicted on opponent.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Origin Pulse</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>Hits all adjacent opponents.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Parabolic Charge</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>User recovers half the HP inflicted on opponent.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Parting Shot</name>
+    <category>Dark</category>
+    <type>status</type>
+    <description>Lowers opponent's Attack and Special Attack then switches out.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Petal Blizzard</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>Hits all adjacent Pokémon.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Phantom Force</name>
+    <category>Ghost</category>
+    <type>physical</type>
+    <description>Disappears on first turn, attacks on second. Can strike through Protect/Detect.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Play Nice</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Lowers opponent's Attack. Always hits.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Play Rough</name>
+    <category>Fairy</category>
+    <type>physical</type>
+    <description>May lower opponent's Attack.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Powder</name>
+    <category>Bug</category>
+    <type>status</type>
+    <description>Damages Pokémon using Fire type moves.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Power-Up Punch</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Raises Attack.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Precipice Blades</name>
+    <category>Ground</category>
+    <type>physical</type>
+    <description>Hits all adjacent opponents.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Rototiller</name>
+    <category>Ground</category>
+    <type>status</type>
+    <description>Raises Attack and Special Attack of Grass-types.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Spiky Shield</name>
+    <category>Grass</category>
+    <type>status</type>
+    <description>Protects the user and inflicts damage on contact.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Steam Eruption</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>May burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Sticky Web</name>
+    <category>Bug</category>
+    <type>status</type>
+    <description>Lowers opponent's Speed when switching into battle.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Thousand Arrows</name>
+    <category>Ground</category>
+    <type>physical</type>
+    <description>Makes Flying-type Pokémon vulnerable to Ground moves.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Thousand Waves</name>
+    <category>Ground</category>
+    <type>physical</type>
+    <description>Opponent cannot flee or switch.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Topsy-Turvy</name>
+    <category>Dark</category>
+    <type>status</type>
+    <description>Reverses stat changes of opponent.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Trick-or-Treat</name>
+    <category>Ghost</category>
+    <type>status</type>
+    <description>Adds Ghost type to opponent.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Venom Drench</name>
+    <category>Poison</category>
+    <type>status</type>
+    <description>Lowers poisoned opponent's Special Attack and Speed.</description>
+  </move>
+  <move>
+    <gen>gen6</gen>
+    <name>Water Shuriken</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>Hits 2-5 times in one turn.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>10,000,000 Volt Thunderbolt</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>Pikachu-exclusive Z-Move. High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Accelerock</name>
+    <category>Rock</category>
+    <type>physical</type>
+    <description>User attacks first.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Acid Downpour</name>
+    <category>Poison</category>
+    <type></type>
+    <description>Poison type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>All-Out Pummeling</name>
+    <category>Fighting</category>
+    <type></type>
+    <description>Fighting type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Anchor Shot</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>The user entangles the target with its anchor chain while attacking. The target becomes unable to flee.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Aurora Veil</name>
+    <category>Ice</category>
+    <type>status</type>
+    <description>Halves damage from Physical and Special attacks for five turns.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Baddy Bad</name>
+    <category>Dark</category>
+    <type>special</type>
+    <description>Reduces damage from Physical attacks.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Baneful Bunker</name>
+    <category>Poison</category>
+    <type>status</type>
+    <description>Protects the user and poisons opponent on contact.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Beak Blast</name>
+    <category>Flying</category>
+    <type>physical</type>
+    <description>The user first heats up its beak, and then it attacks the target. Making direct contact with the Pokémon while it's heating up its beak results in a burn.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Black Hole Eclipse</name>
+    <category>Dark</category>
+    <type></type>
+    <description>Dark type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Bloom Doom</name>
+    <category>Grass</category>
+    <type></type>
+    <description>Grass type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Bouncy Bubble</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>User recovers half the HP inflicted on opponent.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Breakneck Blitz</name>
+    <category>Normal</category>
+    <type></type>
+    <description>Normal type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Brutal Swing</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>The user swings its body around violently to inflict damage on everything in its vicinity.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Burn Up</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>To inflict massive damage, the user burns itself out. After using this move, the user will no longer be Fire type.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Buzzy Buzz</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>Paralyzes the opponent.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Catastropika</name>
+    <category>Electric</category>
+    <type>physical</type>
+    <description>Pikachu-exclusive Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Clanging Scales</name>
+    <category>Dragon</category>
+    <type>special</type>
+    <description>Lowers user's Defense.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Clangorous Soulblaze</name>
+    <category>Dragon</category>
+    <type>special</type>
+    <description>Kommo-o exclusive Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Continental Crush</name>
+    <category>Rock</category>
+    <type></type>
+    <description>Rock type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Core Enforcer</name>
+    <category>Dragon</category>
+    <type>special</type>
+    <description>Suppresses the target's ability if the target has already moved.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Corkscrew Crash</name>
+    <category>Steel</category>
+    <type></type>
+    <description>Steel type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Darkest Lariat</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Ignores opponent's stat changes.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Devastating Drake</name>
+    <category>Dragon</category>
+    <type></type>
+    <description>Dragon type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Double Iron Bash</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>Hits twice in one turn; may cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Dragon Hammer</name>
+    <category>Dragon</category>
+    <type>physical</type>
+    <description>The user uses its body like a hammer to attack the target and inflict damage.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Extreme Evoboost</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Eevee-exclusive Z-Move. Sharply raises all stats.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Fire Lash</name>
+    <category>Fire</category>
+    <type>physical</type>
+    <description>The user strikes the target with a burning lash. This also lowers the target's Defense stat.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>First Impression</name>
+    <category>Bug</category>
+    <type>physical</type>
+    <description>Although this move has great power, it only works the first turn the user is in battle.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Fleur Cannon</name>
+    <category>Fairy</category>
+    <type>special</type>
+    <description>Sharply lowers user's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Floaty Fall</name>
+    <category>Flying</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Floral Healing</name>
+    <category>Fairy</category>
+    <type>status</type>
+    <description>The user restores the target's HP by up to half of its max HP. It restores more HP when the terrain is grass.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Freezy Frost</name>
+    <category>Ice</category>
+    <type>special</type>
+    <description>Resets all stat changes.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Gear Up</name>
+    <category>Steel</category>
+    <type>status</type>
+    <description>The user engages its gears to raise the Attack and Sp. Atk stats of ally Pokémon with the Plus or Minus Ability.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Genesis Supernova</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Mew-exclusive Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Gigavolt Havoc</name>
+    <category>Electric</category>
+    <type></type>
+    <description>Electric type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Glitzy Glow</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Reduces damage from Special attacks.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Guardian of Alola</name>
+    <category>Fairy</category>
+    <type>special</type>
+    <description>Tapu-exclusive Z-move. Cuts opponent's HP by 75%.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>High Horsepower</name>
+    <category>Ground</category>
+    <type>physical</type>
+    <description>The user fiercely attacks the target using its entire body.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Hydro Vortex</name>
+    <category>Water</category>
+    <type></type>
+    <description>Water type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Ice Hammer</name>
+    <category>Ice</category>
+    <type>physical</type>
+    <description>The user swings and hits with its strong, heavy fist. It lowers the user's Speed, however.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Inferno Overdrive</name>
+    <category>Fire</category>
+    <type></type>
+    <description>Fire type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Instruct</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Allows an ally to use a move instead.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Laser Focus</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User's next attack is guaranteed to result in a critical hit.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Leafage</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>Strikes opponent with leaves.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Let's Snuggle Forever</name>
+    <category>Fairy</category>
+    <type>physical</type>
+    <description>Mimikyu-exclusive Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Light That Burns the Sky</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Ultra Necrozma-exclusive Z-Move. Ignores target's ability; uses highest Attack stat.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Liquidation</name>
+    <category>Water</category>
+    <type>physical</type>
+    <description>May lower opponent's Defense.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Lunge</name>
+    <category>Bug</category>
+    <type>physical</type>
+    <description>The user makes a lunge at the target, attacking with full force. This also lowers the target's Attack stat.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Malicious Moonsault</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Incineroar-exclusive Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Menacing Moonraze Maelstrom</name>
+    <category>Ghost</category>
+    <type>special</type>
+    <description>Lunala-exclusive Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Mind Blown</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>User receives recoil damage.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Moongeist Beam</name>
+    <category>Ghost</category>
+    <type>special</type>
+    <description>Ignores the target's ability.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Multi-Attack</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Type matches Memory item held.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Nature's Madness</name>
+    <category>Fairy</category>
+    <type>special</type>
+    <description>Halves the foe's HP.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Never-Ending Nightmare</name>
+    <category>Ghost</category>
+    <type></type>
+    <description>Ghost type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Oceanic Operetta</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>Primarina-exclusive Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Photon Geyser</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Uses Attack or Special Attack stat, whichever is higher.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Pika Papow</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>Power increases when player's bond is stronger.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Plasma Fists</name>
+    <category>Electric</category>
+    <type>physical</type>
+    <description>Changes Normal-type moves to Electric-type moves.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Pollen Puff</name>
+    <category>Bug</category>
+    <type>special</type>
+    <description>Deals damage to opponent or restores HP of teammate.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Power Trip</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>The user boasts its strength and attacks the target. The more the user's stats are raised, the greater the move's power.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Prismatic Laser</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>The user shoots powerful lasers using the power of a prism. The user can't move on the next turn.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Psychic Fangs</name>
+    <category>Psychic</category>
+    <type>physical</type>
+    <description>The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Psychic Terrain</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Prevents priority moves from being used for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Pulverizing Pancake</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Snorlax-exclusive Normal type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Purify</name>
+    <category>Poison</category>
+    <type>status</type>
+    <description>The user heals the target's status condition. If the move succeeds, it also restores the user's own HP.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Revelation Dance</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>Type changes based on Oricorio's form.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Sappy Seed</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>Drains HP from opponent each turn.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Savage Spin-Out</name>
+    <category>Bug</category>
+    <type></type>
+    <description>Bug type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Searing Sunraze Smash</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>Solgaleo-exclusive Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Shadow Bone</name>
+    <category>Ghost</category>
+    <type>physical</type>
+    <description>May lower opponent's Defense.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Shattered Psyche</name>
+    <category>Psychic</category>
+    <type></type>
+    <description>Psychic type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Shell Trap</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>Deals more damage to opponent if hit by a Physical move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Shore Up</name>
+    <category>Ground</category>
+    <type>status</type>
+    <description>The user regains up to half of its max HP. It restores more HP in a sandstorm.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Sinister Arrow Raid</name>
+    <category>Ghost</category>
+    <type>physical</type>
+    <description>Decidueye-exclusive Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Sizzly Slide</name>
+    <category>Fire</category>
+    <type>physical</type>
+    <description>Burns the opponent.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Smart Strike</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>The user stabs the target with a sharp horn. This attack never misses.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Solar Blade</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>Charges on first turn, attacks on second.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Soul-Stealing 7-Star Strike</name>
+    <category>Ghost</category>
+    <type>physical</type>
+    <description>Marshadow-exclusive Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Sparkling Aria</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>Heals the burns of its target.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Sparkly Swirl</name>
+    <category>Fairy</category>
+    <type>special</type>
+    <description>Cures all status problems in the party Pokémon.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Spectral Thief</name>
+    <category>Ghost</category>
+    <type>physical</type>
+    <description>The user hides in the target's shadow, steals the target's stat boosts, and then attacks.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Speed Swap</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>The user exchanges Speed stats with the target.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Spirit Shackle</name>
+    <category>Ghost</category>
+    <type>physical</type>
+    <description>Prevents the opponent from switching out.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Splintered Stormshards</name>
+    <category>Rock</category>
+    <type>physical</type>
+    <description>Lycanroc-exclusive Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Splishy Splash</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>May paralyze opponent.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Spotlight</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>The user shines a spotlight on the target so that only the target will be attacked during the turn.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Stoked Sparksurfer</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>Alolan Raichu-exclusive Electric type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Stomping Tantrum</name>
+    <category>Ground</category>
+    <type>physical</type>
+    <description>Driven by frustration, the user attacks the target. If the user's previous move has failed, the power of this move doubles.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Strength Sap</name>
+    <category>Grass</category>
+    <type>status</type>
+    <description>The user restores its HP by the same amount as the target's Attack stat. It also lowers the target's Attack stat.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Subzero Slammer</name>
+    <category>Ice</category>
+    <type></type>
+    <description>Ice type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Sunsteel Strike</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>Ignores the target's ability.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Supersonic Skystrike</name>
+    <category>Flying</category>
+    <type></type>
+    <description>Flying type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Tearful Look</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>The user gets teary eyed to make the target lose its combative spirit. This lowers the target's Attack and Sp. Atk stats.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Tectonic Rage</name>
+    <category>Ground</category>
+    <type></type>
+    <description>Ground type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Throat Chop</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Prevents use of sound moves for two turns.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Toxic Thread</name>
+    <category>Poison</category>
+    <type>status</type>
+    <description>Poisons opponent and lowers its Speed.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Trop Kick</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>Lowers opponent's Attack.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Twinkle Tackle</name>
+    <category>Fairy</category>
+    <type></type>
+    <description>Fairy type Z-Move.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Veevee Volley</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Power increases when player's bond is stronger.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Zing Zap</name>
+    <category>Electric</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen7</gen>
+    <name>Zippy Zap</name>
+    <category>Electric</category>
+    <type>physical</type>
+    <description>Always results in a critical hit.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Absorb</name>
+    <category>Grass</category>
+    <type>special</type>
+    <description>User recovers half the HP inflicted on opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Acid</name>
+    <category>Poison</category>
+    <type>special</type>
+    <description>May lower opponent's Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Acid Armor</name>
+    <category>Poison</category>
+    <type>status</type>
+    <description>Sharply raises user's Defense.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Agility</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Sharply raises user's Speed.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Amnesia</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Sharply raises user's Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Aurora Beam</name>
+    <category>Ice</category>
+    <type>special</type>
+    <description>May lower opponent's Attack.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Barrage</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Hits 2-5 times in one turn.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Barrier</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Sharply raises user's Defense.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Bide</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>User takes damage for two turns then strikes back double.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Bind</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Traps opponent, damaging them for 4-5 turns.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Bite</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Blizzard</name>
+    <category>Ice</category>
+    <type>special</type>
+    <description>May freeze opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Body Slam</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>May paralyze opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Bone Club</name>
+    <category>Ground</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Bonemerang</name>
+    <category>Ground</category>
+    <type>physical</type>
+    <description>Hits twice in one turn.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Bubble</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>May lower opponent's Speed.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Bubble Beam</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>May lower opponent's Speed.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Clamp</name>
+    <category>Water</category>
+    <type>physical</type>
+    <description>Traps opponent, damaging them for 4-5 turns.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Comet Punch</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Hits 2-5 times in one turn.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Confuse Ray</name>
+    <category>Ghost</category>
+    <type>status</type>
+    <description>Confuses opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Confusion</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>May confuse opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Constrict</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>May lower opponent's Speed by one stage.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Conversion</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Changes user's type to that of its first move.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Counter</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>When hit by a Physical Attack, user strikes back with 2x power.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Crabhammer</name>
+    <category>Water</category>
+    <type>physical</type>
+    <description>High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Cut</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Defense Curl</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Raises user's Defense.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Dig</name>
+    <category>Ground</category>
+    <type>physical</type>
+    <description>Digs underground on first turn, attacks on second. Can also escape from caves.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Disable</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Opponent can't use its last attack for a few turns.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Dizzy Punch</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>May confuse opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Double Kick</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Hits twice in one turn.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Double Slap</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Hits 2-5 times in one turn.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Double Team</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Raises user's Evasiveness.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Double-Edge</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>User receives recoil damage.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Dragon Rage</name>
+    <category>Dragon</category>
+    <type>special</type>
+    <description>Always inflicts 40 HP.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Dream Eater</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>User recovers half the HP inflicted on a sleeping opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Drill Peck</name>
+    <category>Flying</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Earthquake</name>
+    <category>Ground</category>
+    <type>physical</type>
+    <description>Power is doubled if opponent is underground from using Dig.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Egg Bomb</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Ember</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>May burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Explosion</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>User faints.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Fire Blast</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>May burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Fire Punch</name>
+    <category>Fire</category>
+    <type>physical</type>
+    <description>May burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Fire Spin</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>Traps opponent, damaging them for 4-5 turns.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Fissure</name>
+    <category>Ground</category>
+    <type>physical</type>
+    <description>One-Hit-KO, if it hits.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Flamethrower</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>May burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Flash</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Lowers opponent's Accuracy.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Fly</name>
+    <category>Flying</category>
+    <type>physical</type>
+    <description>Flies up on first turn, attacks on second turn.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Focus Energy</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Increases critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Fury Attack</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Hits 2-5 times in one turn.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Fury Swipes</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Hits 2-5 times in one turn.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Glare</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Paralyzes opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Growl</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Lowers opponent's Attack.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Growth</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Raises user's Attack and Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Guillotine</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>One-Hit-KO, if it hits.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Gust</name>
+    <category>Flying</category>
+    <type>special</type>
+    <description>Hits Pokémon using Fly/Bounce/Sky Drop with double power.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Harden</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Raises user's Defense.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Haze</name>
+    <category>Ice</category>
+    <type>status</type>
+    <description>Resets all stat changes.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Headbutt</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>High Jump Kick</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>If it misses, the user loses half their HP.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Horn Attack</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Horn Drill</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>One-Hit-KO, if it hits.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Hydro Pump</name>
+    <category>Water</category>
+    <type>special</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Hyper Beam</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>User must recharge next turn.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Hyper Fang</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Hypnosis</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Puts opponent to sleep.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Ice Beam</name>
+    <category>Ice</category>
+    <type>special</type>
+    <description>May freeze opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Ice Punch</name>
+    <category>Ice</category>
+    <type>physical</type>
+    <description>May freeze opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Jump Kick</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>If it misses, the user loses half their HP.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Karate Chop</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Kinesis</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Lowers opponent's Accuracy.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Leech Life</name>
+    <category>Bug</category>
+    <type>physical</type>
+    <description>User recovers half the HP inflicted on opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Leech Seed</name>
+    <category>Grass</category>
+    <type>status</type>
+    <description>Drains HP from opponent each turn.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Leer</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Lowers opponent's Defense.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Lick</name>
+    <category>Ghost</category>
+    <type>physical</type>
+    <description>May paralyze opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Light Screen</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Halves damage from Special attacks for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Lovely Kiss</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Puts opponent to sleep.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Low Kick</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>The heavier the opponent, the stronger the attack.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Meditate</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Raises user's Attack.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Mega Drain</name>
+    <category>Grass</category>
+    <type>special</type>
+    <description>User recovers half the HP inflicted on opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Mega Kick</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Mega Punch</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Metronome</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User performs almost any move in the game at random.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Mimic</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Copies the opponent's last move.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Minimize</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Sharply raises user's Evasiveness.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Mirror Move</name>
+    <category>Flying</category>
+    <type>status</type>
+    <description>User performs the opponent's last move.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Mist</name>
+    <category>Ice</category>
+    <type>status</type>
+    <description>User's stats cannot be changed for a period of time.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Night Shade</name>
+    <category>Ghost</category>
+    <type>special</type>
+    <description>Inflicts damage equal to user's level.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Pay Day</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Money is earned after the battle.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Peck</name>
+    <category>Flying</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Petal Dance</name>
+    <category>Grass</category>
+    <type>special</type>
+    <description>User attacks for 2-3 turns but then becomes confused.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Pin Missile</name>
+    <category>Bug</category>
+    <type>physical</type>
+    <description>Hits 2-5 times in one turn.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Poison Gas</name>
+    <category>Poison</category>
+    <type>status</type>
+    <description>Poisons opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Poison Powder</name>
+    <category>Poison</category>
+    <type>status</type>
+    <description>Poisons opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Poison Sting</name>
+    <category>Poison</category>
+    <type>physical</type>
+    <description>May poison the opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Pound</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Psybeam</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>May confuse opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Psychic</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>May lower opponent's Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Psywave</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Inflicts damage 50-150% of user's level.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Quick Attack</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>User attacks first.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Rage</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Raises user's Attack when hit.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Razor Leaf</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Razor Wind</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>Charges on first turn, attacks on second. High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Recover</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User recovers half its max HP.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Reflect</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Halves damage from Physical attacks for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Rest</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>User sleeps for 2 turns, but user is fully healed.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Roar</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>In battles, the opponent switches. In the wild, the Pokémon runs.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Rock Slide</name>
+    <category>Rock</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Rock Throw</name>
+    <category>Rock</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Rolling Kick</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Sand Attack</name>
+    <category>Ground</category>
+    <type>status</type>
+    <description>Lowers opponent's Accuracy.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Scratch</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Screech</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Sharply lowers opponent's Defense.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Seismic Toss</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Inflicts damage equal to user's level.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Self-Destruct</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>User faints.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Sharpen</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Raises user's Attack.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Sing</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Puts opponent to sleep.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Skull Bash</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Raises Defense on first turn, attacks on second.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Sky Attack</name>
+    <category>Flying</category>
+    <type>physical</type>
+    <description>Charges on first turn, attacks on second. May cause flinching. High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Slam</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Slash</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Sleep Powder</name>
+    <category>Grass</category>
+    <type>status</type>
+    <description>Puts opponent to sleep.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Sludge</name>
+    <category>Poison</category>
+    <type>special</type>
+    <description>May poison opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Smog</name>
+    <category>Poison</category>
+    <type>special</type>
+    <description>May poison opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Smokescreen</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Lowers opponent's Accuracy.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Soft-Boiled</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User recovers half its max HP.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Solar Beam</name>
+    <category>Grass</category>
+    <type>special</type>
+    <description>Charges on first turn, attacks on second.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Sonic Boom</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>Always inflicts 20 HP.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Spike Cannon</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Hits 2-5 times in one turn.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Splash</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Doesn't do ANYTHING.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Spore</name>
+    <category>Grass</category>
+    <type>status</type>
+    <description>Puts opponent to sleep.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Stomp</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Strength</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>String Shot</name>
+    <category>Bug</category>
+    <type>status</type>
+    <description>Sharply lowers opponent's Speed.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Struggle</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Only usable when all PP are gone. Hurts the user.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Stun Spore</name>
+    <category>Grass</category>
+    <type>status</type>
+    <description>Paralyzes opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Submission</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>User receives recoil damage.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Substitute</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Uses HP to creates a decoy that takes hits.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Super Fang</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Always takes off half of the opponent's HP.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Supersonic</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Confuses opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Surf</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>Hits all adjacent Pokémon.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Swift</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>Ignores Accuracy and Evasiveness.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Swords Dance</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Sharply raises user's Attack.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Tackle</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Tail Whip</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Lowers opponent's Defense.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Take Down</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>User receives recoil damage.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Teleport</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Allows user to flee wild battles; also warps player to last PokéCenter.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Thrash</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>User attacks for 2-3 turns but then becomes confused.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Thunder</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>May paralyze opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Thunder Punch</name>
+    <category>Electric</category>
+    <type>physical</type>
+    <description>May paralyze opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Thunder Shock</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>May paralyze opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Thunder Wave</name>
+    <category>Electric</category>
+    <type>status</type>
+    <description>Paralyzes opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Thunderbolt</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>May paralyze opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Toxic</name>
+    <category>Poison</category>
+    <type>status</type>
+    <description>Badly poisons opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Transform</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User takes on the form and attacks of the opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Tri Attack</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>May paralyze, burn or freeze opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Twineedle</name>
+    <category>Bug</category>
+    <type>physical</type>
+    <description>Hits twice in one turn. May poison opponent.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Vine Whip</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Vise Grip</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Water Gun</name>
+    <category>Water</category>
+    <type>special</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Waterfall</name>
+    <category>Water</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Whirlwind</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>In battles, the opponent switches. In the wild, the Pokémon runs.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Wing Attack</name>
+    <category>Flying</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Withdraw</name>
+    <category>Water</category>
+    <type>status</type>
+    <description>Raises user's Defense.</description>
+  </move>
+  <move>
+    <gen>gen1</gen>
+    <name>Wrap</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Traps opponent, damaging them for 4-5 turns.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Aeroblast</name>
+    <category>Flying</category>
+    <type>special</type>
+    <description>High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Ancient Power</name>
+    <category>Rock</category>
+    <type>special</type>
+    <description>May raise all user's stats at once.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Attract</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>If opponent is the opposite gender, it's less likely to attack.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Baton Pass</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User switches out and gives stat changes to the incoming Pokémon.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Beat Up</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Each Pokémon in user's party attacks.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Belly Drum</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User loses 50% of its max HP, but Attack raises to maximum.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Bone Rush</name>
+    <category>Ground</category>
+    <type>physical</type>
+    <description>Hits 2-5 times in one turn.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Charm</name>
+    <category>Fairy</category>
+    <type>status</type>
+    <description>Sharply lowers opponent's Attack.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Conversion 2</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User changes type to become resistant to opponent's last move.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Cotton Spore</name>
+    <category>Grass</category>
+    <type>status</type>
+    <description>Sharply lowers opponent's Speed.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Cross Chop</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Crunch</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>May lower opponent's Defense.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Curse</name>
+    <category>Ghost</category>
+    <type>status</type>
+    <description>Ghosts lose 50% of max HP and curse the opponent; Non-Ghosts raise Attack, Defense and lower Speed.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Destiny Bond</name>
+    <category>Ghost</category>
+    <type>status</type>
+    <description>If the user faints, the opponent also faints.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Detect</name>
+    <category>Fighting</category>
+    <type>status</type>
+    <description>Protects the user, but may fail if used consecutively.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Dragon Breath</name>
+    <category>Dragon</category>
+    <type>special</type>
+    <description>May paralyze opponent.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Dynamic Punch</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Confuses opponent.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Encore</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Forces opponent to keep using its last move for 3 turns.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Endure</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Always left with at least 1 HP, but may fail if used consecutively.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Extreme Speed</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>User attacks first.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>False Swipe</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Always leaves opponent with at least 1 HP.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Feint Attack</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Ignores Accuracy and Evasiveness.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Flail</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>The lower the user's HP, the higher the power.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Flame Wheel</name>
+    <category>Fire</category>
+    <type>physical</type>
+    <description>May burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Foresight</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Resets opponent's Evasiveness, and allows Normal- and Fighting-type attacks to hit Ghosts.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Frustration</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Power decreases with higher Friendship.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Fury Cutter</name>
+    <category>Bug</category>
+    <type>physical</type>
+    <description>Power increases each turn.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Future Sight</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Damage occurs 2 turns later.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Giga Drain</name>
+    <category>Grass</category>
+    <type>special</type>
+    <description>User recovers half the HP inflicted on opponent.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Heal Bell</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Heals the user's party's status conditions.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Hidden Power</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>Type and power depends on user's IVs.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Icy Wind</name>
+    <category>Ice</category>
+    <type>special</type>
+    <description>Lowers opponent's Speed.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Iron Tail</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>May lower opponent's Defense.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Lock-On</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User's next attack is guaranteed to hit.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Mach Punch</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>User attacks first.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Magnitude</name>
+    <category>Ground</category>
+    <type>physical</type>
+    <description>Hits with random power.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Mean Look</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Opponent cannot flee or switch.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Megahorn</name>
+    <category>Bug</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Metal Claw</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>May raise user's Attack.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Milk Drink</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User recovers half its max HP.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Mind Reader</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User's next attack is guaranteed to hit.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Mirror Coat</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>When hit by a Special Attack, user strikes back with 2x power.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Moonlight</name>
+    <category>Fairy</category>
+    <type>status</type>
+    <description>User recovers HP. Amount varies with the weather.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Morning Sun</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User recovers HP. Amount varies with the weather.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Mud-Slap</name>
+    <category>Ground</category>
+    <type>special</type>
+    <description>Lowers opponent's Accuracy.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Nightmare</name>
+    <category>Ghost</category>
+    <type>status</type>
+    <description>The sleeping opponent loses 25% of its max HP each turn.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Octazooka</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>May lower opponent's Accuracy.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Outrage</name>
+    <category>Dragon</category>
+    <type>physical</type>
+    <description>User attacks for 2-3 turns but then becomes confused.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Pain Split</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>The user's and opponent's HP becomes the average of both.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Perish Song</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Any Pokémon in play when this attack is used faints in 3 turns.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Powder Snow</name>
+    <category>Ice</category>
+    <type>special</type>
+    <description>May freeze opponent.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Present</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Either deals damage or heals.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Protect</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Protects the user, but may fail if used consecutively.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Psych Up</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Copies the opponent's stat changes.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Pursuit</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Double power if the opponent is switching out.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Rain Dance</name>
+    <category>Water</category>
+    <type>status</type>
+    <description>Makes it rain for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Rapid Spin</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Raises user's Speed and removes entry hazards and trap move effects.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Return</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Power increases with higher Friendship.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Reversal</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>The lower the user's HP, the higher the power.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Rock Smash</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>May lower opponent's Defense.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Rollout</name>
+    <category>Rock</category>
+    <type>physical</type>
+    <description>Doubles in power each turn for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Sacred Fire</name>
+    <category>Fire</category>
+    <type>physical</type>
+    <description>May burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Safeguard</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>The user's party is protected from status conditions.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Sandstorm</name>
+    <category>Rock</category>
+    <type>status</type>
+    <description>Creates a sandstorm for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Scary Face</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Sharply lowers opponent's Speed.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Shadow Ball</name>
+    <category>Ghost</category>
+    <type>special</type>
+    <description>May lower opponent's Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Sketch</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Permanently copies the opponent's last move.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Sleep Talk</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User performs one of its own moves while sleeping.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Sludge Bomb</name>
+    <category>Poison</category>
+    <type>special</type>
+    <description>May poison opponent.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Snore</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>Can only be used if asleep. May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Spark</name>
+    <category>Electric</category>
+    <type>physical</type>
+    <description>May paralyze opponent.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Spider Web</name>
+    <category>Bug</category>
+    <type>status</type>
+    <description>Opponent cannot escape/switch.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Spikes</name>
+    <category>Ground</category>
+    <type>status</type>
+    <description>Damages opponents switching into battle.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Spite</name>
+    <category>Ghost</category>
+    <type>status</type>
+    <description>The opponent's last move loses 2-5 PP.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Steel Wing</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>May raise user's Defense.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Sunny Day</name>
+    <category>Fire</category>
+    <type>status</type>
+    <description>Makes it sunny for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Swagger</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Confuses opponent, but sharply raises its Attack.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Sweet Kiss</name>
+    <category>Fairy</category>
+    <type>status</type>
+    <description>Confuses opponent.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Sweet Scent</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Lowers opponent's Evasiveness.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Synthesis</name>
+    <category>Grass</category>
+    <type>status</type>
+    <description>User recovers HP. Amount varies with the weather.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Thief</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Also steals opponent's held item.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Triple Kick</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Hits thrice in one turn at increasing power.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Twister</name>
+    <category>Dragon</category>
+    <type>special</type>
+    <description>May cause flinching. Hits Pokémon using Fly/Bounce with double power.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Vital Throw</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>User attacks last, but ignores Accuracy and Evasiveness.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Whirlpool</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>Traps opponent, damaging them for 4-5 turns.</description>
+  </move>
+  <move>
+    <gen>gen2</gen>
+    <name>Zap Cannon</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>Paralyzes opponent.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Aerial Ace</name>
+    <category>Flying</category>
+    <type>physical</type>
+    <description>Ignores Accuracy and Evasiveness.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Air Cutter</name>
+    <category>Flying</category>
+    <type>special</type>
+    <description>High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Arm Thrust</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Hits 2-5 times in one turn.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Aromatherapy</name>
+    <category>Grass</category>
+    <type>status</type>
+    <description>Cures all status problems in your party.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Assist</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User performs a move known by its allies at random.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Astonish</name>
+    <category>Ghost</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Blast Burn</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>User must recharge next turn.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Blaze Kick</name>
+    <category>Fire</category>
+    <type>physical</type>
+    <description>High critical hit ratio. May burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Block</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Opponent cannot flee or switch.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Bounce</name>
+    <category>Flying</category>
+    <type>physical</type>
+    <description>Springs up on first turn, attacks on second. May paralyze opponent.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Brick Break</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Breaks through Reflect and Light Screen barriers.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Bulk Up</name>
+    <category>Fighting</category>
+    <type>status</type>
+    <description>Raises user's Attack and Defense.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Bullet Seed</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>Hits 2-5 times in one turn.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Calm Mind</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Raises user's Special Attack and Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Camouflage</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Changes user's type according to the location.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Charge</name>
+    <category>Electric</category>
+    <type>status</type>
+    <description>Raises user's Special Defense and next Electric move's power increases.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Cosmic Power</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Raises user's Defense and Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Covet</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Opponent's item is stolen by the user.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Crush Claw</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>May lower opponent's Defense.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Dive</name>
+    <category>Water</category>
+    <type>physical</type>
+    <description>Dives underwater on first turn, attacks on second turn.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Doom Desire</name>
+    <category>Steel</category>
+    <type>special</type>
+    <description>Damage occurs 2 turns later.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Dragon Claw</name>
+    <category>Dragon</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Dragon Dance</name>
+    <category>Dragon</category>
+    <type>status</type>
+    <description>Raises user's Attack and Speed.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Endeavor</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Reduces opponent's HP to same as user's.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Eruption</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>Stronger when the user's HP is higher.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Extrasensory</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Facade</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Power doubles if user is burned, poisoned, or paralyzed.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Fake Out</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>User attacks first, foe flinches. Only usable on first turn.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Fake Tears</name>
+    <category>Dark</category>
+    <type>status</type>
+    <description>Sharply lowers opponent's Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Feather Dance</name>
+    <category>Flying</category>
+    <type>status</type>
+    <description>Sharply lowers opponent's Attack.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Flatter</name>
+    <category>Dark</category>
+    <type>status</type>
+    <description>Confuses opponent, but raises its Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Focus Punch</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>If the user is hit before attacking, it flinches instead.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Follow Me</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>In Double Battle, the user takes all the attacks.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Frenzy Plant</name>
+    <category>Grass</category>
+    <type>special</type>
+    <description>User must recharge next turn.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Grass Whistle</name>
+    <category>Grass</category>
+    <type>status</type>
+    <description>Puts opponent to sleep.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Grudge</name>
+    <category>Ghost</category>
+    <type>status</type>
+    <description>If the users faints after using this move, the PP for the opponent's last move is depleted.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Hail</name>
+    <category>Ice</category>
+    <type>status</type>
+    <description>Non-Ice types are damaged for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Heat Wave</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>May burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Helping Hand</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>In Double Battles, boosts the power of the partner's move.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Howl</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Raises Attack of allies.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Hydro Cannon</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>User must recharge next turn.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Hyper Voice</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Ice Ball</name>
+    <category>Ice</category>
+    <type>physical</type>
+    <description>Doubles in power each turn for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Icicle Spear</name>
+    <category>Ice</category>
+    <type>physical</type>
+    <description>Hits 2-5 times in one turn.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Imprison</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Opponent is unable to use moves that the user also knows.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Ingrain</name>
+    <category>Grass</category>
+    <type>status</type>
+    <description>User restores HP each turn. User cannot escape/switch.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Iron Defense</name>
+    <category>Steel</category>
+    <type>status</type>
+    <description>Sharply raises user's Defense.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Knock Off</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Removes opponent's held item for the rest of the battle.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Leaf Blade</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Luster Purge</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>May lower opponent's Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Magic Coat</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Reflects moves that cause status conditions back to the attacker.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Magical Leaf</name>
+    <category>Grass</category>
+    <type>special</type>
+    <description>Ignores Accuracy and Evasiveness.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Memento</name>
+    <category>Dark</category>
+    <type>status</type>
+    <description>User faints, sharply lowers opponent's Attack and Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Metal Sound</name>
+    <category>Steel</category>
+    <type>status</type>
+    <description>Sharply lowers opponent's Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Meteor Mash</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>May raise user's Attack.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Mist Ball</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>May lower opponent's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Mud Shot</name>
+    <category>Ground</category>
+    <type>special</type>
+    <description>Lowers opponent's Speed.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Mud Sport</name>
+    <category>Ground</category>
+    <type>status</type>
+    <description>Weakens the power of Electric-type moves.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Muddy Water</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>May lower opponent's Accuracy.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Nature Power</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Uses a certain move based on the current terrain.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Needle Arm</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Odor Sleuth</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Resets opponent's Evasiveness, and allows Normal- and Fighting-type attacks to hit Ghosts.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Overheat</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>Sharply lowers user's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Poison Fang</name>
+    <category>Poison</category>
+    <type>physical</type>
+    <description>May badly poison opponent.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Poison Tail</name>
+    <category>Poison</category>
+    <type>physical</type>
+    <description>High critical hit ratio. May poison opponent.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Psycho Boost</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Sharply lowers user's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Recycle</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User's used hold item is restored.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Refresh</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Cures paralysis, poison, and burns.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Revenge</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Power increases if user was hit first.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Rock Blast</name>
+    <category>Rock</category>
+    <type>physical</type>
+    <description>Hits 2-5 times in one turn.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Rock Tomb</name>
+    <category>Rock</category>
+    <type>physical</type>
+    <description>Lowers opponent's Speed.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Role Play</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>User copies the opponent's Ability.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Sand Tomb</name>
+    <category>Ground</category>
+    <type>physical</type>
+    <description>Traps opponent, damaging them for 4-5 turns.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Secret Power</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Effects of the attack vary with the location.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Shadow Punch</name>
+    <category>Ghost</category>
+    <type>physical</type>
+    <description>Ignores Accuracy and Evasiveness.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Sheer Cold</name>
+    <category>Ice</category>
+    <type>special</type>
+    <description>One-Hit-KO, if it hits.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Shock Wave</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>Ignores Accuracy and Evasiveness.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Signal Beam</name>
+    <category>Bug</category>
+    <type>special</type>
+    <description>May confuse opponent.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Silver Wind</name>
+    <category>Bug</category>
+    <type>special</type>
+    <description>May raise all stats of user at once.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Skill Swap</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>The user swaps Abilities with the opponent.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Sky Uppercut</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Hits the opponent, even during Fly.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Slack Off</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User recovers half its max HP.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Smelling Salts</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Power doubles if opponent is paralyzed, but cures it.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Snatch</name>
+    <category>Dark</category>
+    <type>status</type>
+    <description>Steals the effects of the opponent's next move.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Spit Up</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>Power depends on how many times the user performed Stockpile.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Stockpile</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Stores energy for use with Spit Up and Swallow.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Superpower</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Lowers user's Attack and Defense.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Swallow</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>The more times the user has performed Stockpile, the more HP is recovered.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Tail Glow</name>
+    <category>Bug</category>
+    <type>status</type>
+    <description>Drastically raises user's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Taunt</name>
+    <category>Dark</category>
+    <type>status</type>
+    <description>Opponent can only use moves that attack.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Teeter Dance</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Confuses all Pokémon.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Tickle</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Lowers opponent's Attack and Defense.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Torment</name>
+    <category>Dark</category>
+    <type>status</type>
+    <description>Opponent cannot use the same move in a row.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Trick</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Swaps held items with the opponent.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Uproar</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>User attacks for 3 turns and prevents sleep.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Volt Tackle</name>
+    <category>Electric</category>
+    <type>physical</type>
+    <description>User receives recoil damage. May paralyze opponent.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Water Pulse</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>May confuse opponent.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Water Sport</name>
+    <category>Water</category>
+    <type>status</type>
+    <description>Weakens the power of Fire-type moves.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Water Spout</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>The higher the user's HP, the higher the damage caused.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Weather Ball</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>Move's power and type changes with the weather.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Will-O-Wisp</name>
+    <category>Fire</category>
+    <type>status</type>
+    <description>Burns opponent.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Wish</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>The user recovers HP in the following turn.</description>
+  </move>
+  <move>
+    <gen>gen3</gen>
+    <name>Yawn</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Puts opponent to sleep in the next turn.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Acupressure</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Sharply raises a random stat.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Air Slash</name>
+    <category>Flying</category>
+    <type>special</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Aqua Jet</name>
+    <category>Water</category>
+    <type>physical</type>
+    <description>User attacks first.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Aqua Ring</name>
+    <category>Water</category>
+    <type>status</type>
+    <description>Restores a little HP each turn.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Aqua Tail</name>
+    <category>Water</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Assurance</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Power doubles if opponent already took damage in the same turn.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Attack Order</name>
+    <category>Bug</category>
+    <type>physical</type>
+    <description>High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Aura Sphere</name>
+    <category>Fighting</category>
+    <type>special</type>
+    <description>Ignores Accuracy and Evasiveness.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Avalanche</name>
+    <category>Ice</category>
+    <type>physical</type>
+    <description>Power doubles if user took damage first.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Brave Bird</name>
+    <category>Flying</category>
+    <type>physical</type>
+    <description>User receives recoil damage.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Brine</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>Power doubles if opponent's HP is less than 50%.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Bug Bite</name>
+    <category>Bug</category>
+    <type>physical</type>
+    <description>Receives the effect from the opponent's held berry.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Bug Buzz</name>
+    <category>Bug</category>
+    <type>special</type>
+    <description>May lower opponent's Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Bullet Punch</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>User attacks first.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Captivate</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Sharply lowers opponent's Special Attack if opposite gender.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Charge Beam</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>May raise user's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Chatter</name>
+    <category>Flying</category>
+    <type>special</type>
+    <description>Confuses opponent.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Close Combat</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Lowers user's Defense and Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Copycat</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Copies opponent's last move.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Cross Poison</name>
+    <category>Poison</category>
+    <type>physical</type>
+    <description>High critical hit ratio. May poison opponent.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Crush Grip</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>More powerful when opponent has higher HP.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Dark Pulse</name>
+    <category>Dark</category>
+    <type>special</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Dark Void</name>
+    <category>Dark</category>
+    <type>status</type>
+    <description>Puts all adjacent opponents to sleep.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Defend Order</name>
+    <category>Bug</category>
+    <type>status</type>
+    <description>Raises user's Defense and Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Defog</name>
+    <category>Flying</category>
+    <type>status</type>
+    <description>Lowers opponent's Evasiveness and clears fog.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Discharge</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>May paralyze opponent.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Double Hit</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Hits twice in one turn.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Draco Meteor</name>
+    <category>Dragon</category>
+    <type>special</type>
+    <description>Sharply lowers user's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Dragon Pulse</name>
+    <category>Dragon</category>
+    <type>special</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Dragon Rush</name>
+    <category>Dragon</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Drain Punch</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>User recovers half the HP inflicted on opponent.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Earth Power</name>
+    <category>Ground</category>
+    <type>special</type>
+    <description>May lower opponent's Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Embargo</name>
+    <category>Dark</category>
+    <type>status</type>
+    <description>Opponent cannot use items.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Energy Ball</name>
+    <category>Grass</category>
+    <type>special</type>
+    <description>May lower opponent's Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Feint</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Only hits if opponent uses Protect or Detect in the same turn.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Fire Fang</name>
+    <category>Fire</category>
+    <type>physical</type>
+    <description>May cause flinching and/or burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Flare Blitz</name>
+    <category>Fire</category>
+    <type>physical</type>
+    <description>User receives recoil damage. May burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Flash Cannon</name>
+    <category>Steel</category>
+    <type>special</type>
+    <description>May lower opponent's Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Fling</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Power depends on held item.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Focus Blast</name>
+    <category>Fighting</category>
+    <type>special</type>
+    <description>May lower opponent's Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Force Palm</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>May paralyze opponent.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Gastro Acid</name>
+    <category>Poison</category>
+    <type>status</type>
+    <description>Cancels out the effect of the opponent's Ability.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Giga Impact</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>User must recharge next turn.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Grass Knot</name>
+    <category>Grass</category>
+    <type>special</type>
+    <description>The heavier the opponent, the stronger the attack.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Gravity</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Prevents moves like Fly and Bounce and the Ability Levitate for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Guard Swap</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>User and opponent swap Defense and Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Gunk Shot</name>
+    <category>Poison</category>
+    <type>physical</type>
+    <description>May poison opponent.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Gyro Ball</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>The slower the user, the stronger the attack.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Hammer Arm</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Lowers user's Speed.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Head Smash</name>
+    <category>Rock</category>
+    <type>physical</type>
+    <description>User receives recoil damage.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Heal Block</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Prevents the opponent from restoring HP for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Heal Order</name>
+    <category>Bug</category>
+    <type>status</type>
+    <description>User recovers half its max HP.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Healing Wish</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>The user faints and the next Pokémon released is fully healed.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Heart Swap</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Stat changes are swapped with the opponent.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Ice Fang</name>
+    <category>Ice</category>
+    <type>physical</type>
+    <description>May cause flinching and/or freeze opponent.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Ice Shard</name>
+    <category>Ice</category>
+    <type>physical</type>
+    <description>User attacks first.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Iron Head</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Judgment</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>Type depends on the Arceus Plate being held.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Last Resort</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Can only be used after all other moves are used.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Lava Plume</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>May burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Leaf Storm</name>
+    <category>Grass</category>
+    <type>special</type>
+    <description>Sharply lowers user's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Lucky Chant</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Opponent cannot land critical hits for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Lunar Dance</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>The user faints but the next Pokémon released is fully healed.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Magma Storm</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>Traps opponent, damaging them for 4-5 turns.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Magnet Bomb</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>Ignores Accuracy and Evasiveness.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Magnet Rise</name>
+    <category>Electric</category>
+    <type>status</type>
+    <description>User becomes immune to Ground-type moves for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Me First</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User copies the opponent's attack with 1.5× power.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Metal Burst</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>Deals damage equal to 1.5x opponent's attack.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Miracle Eye</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Resets opponent's Evasiveness, removes Dark's Psychic immunity.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Mirror Shot</name>
+    <category>Steel</category>
+    <type>special</type>
+    <description>May lower opponent's Accuracy.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Mud Bomb</name>
+    <category>Ground</category>
+    <type>special</type>
+    <description>May lower opponent's Accuracy.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Nasty Plot</name>
+    <category>Dark</category>
+    <type>status</type>
+    <description>Sharply raises user's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Natural Gift</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Power and type depend on the user's held berry.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Night Slash</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Ominous Wind</name>
+    <category>Ghost</category>
+    <type>special</type>
+    <description>May raise all user's stats at once.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Payback</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Power doubles if the user was attacked first.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Pluck</name>
+    <category>Flying</category>
+    <type>physical</type>
+    <description>If the opponent is holding a berry, its effect is stolen by user.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Poison Jab</name>
+    <category>Poison</category>
+    <type>physical</type>
+    <description>May poison the opponent.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Power Gem</name>
+    <category>Rock</category>
+    <type>special</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Power Swap</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>User and opponent swap Attack and Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Power Trick</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>User's own Attack and Defense switch.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Power Whip</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Psycho Cut</name>
+    <category>Psychic</category>
+    <type>physical</type>
+    <description>High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Psycho Shift</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Transfers user's status condition to the opponent.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Punishment</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Power increases when opponent's stats have been raised.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Roar of Time</name>
+    <category>Dragon</category>
+    <type>special</type>
+    <description>User must recharge next turn.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Rock Climb</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>May confuse opponent.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Rock Polish</name>
+    <category>Rock</category>
+    <type>status</type>
+    <description>Sharply raises user's Speed.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Rock Wrecker</name>
+    <category>Rock</category>
+    <type>physical</type>
+    <description>User must recharge next turn.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Roost</name>
+    <category>Flying</category>
+    <type>status</type>
+    <description>User recovers half of its max HP and loses the Flying type temporarily.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Seed Bomb</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Seed Flare</name>
+    <category>Grass</category>
+    <type>special</type>
+    <description>May lower opponent's Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Shadow Claw</name>
+    <category>Ghost</category>
+    <type>physical</type>
+    <description>High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Shadow Force</name>
+    <category>Ghost</category>
+    <type>physical</type>
+    <description>Disappears on first turn, attacks on second. Can strike through Protect/Detect.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Shadow Sneak</name>
+    <category>Ghost</category>
+    <type>physical</type>
+    <description>User attacks first.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Spacial Rend</name>
+    <category>Dragon</category>
+    <type>special</type>
+    <description>High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Stealth Rock</name>
+    <category>Rock</category>
+    <type>status</type>
+    <description>Damages opponents switching into battle.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Stone Edge</name>
+    <category>Rock</category>
+    <type>physical</type>
+    <description>High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Sucker Punch</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>User attacks first, but only works if opponent is readying an attack.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Switcheroo</name>
+    <category>Dark</category>
+    <type>status</type>
+    <description>Swaps held items with the opponent.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Tailwind</name>
+    <category>Flying</category>
+    <type>status</type>
+    <description>Doubles Speed for 4 turns.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Thunder Fang</name>
+    <category>Electric</category>
+    <type>physical</type>
+    <description>May cause flinching and/or paralyze opponent.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Toxic Spikes</name>
+    <category>Poison</category>
+    <type>status</type>
+    <description>Poisons opponents switching into battle.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Trick Room</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Slower Pokémon move first in the turn for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Trump Card</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>The lower the PP, the higher the power.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>U-turn</name>
+    <category>Bug</category>
+    <type>physical</type>
+    <description>User switches out immediately after attacking.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Vacuum Wave</name>
+    <category>Fighting</category>
+    <type>special</type>
+    <description>User attacks first.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Wake-Up Slap</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Power doubles if opponent is asleep, but wakes it up.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Wood Hammer</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>User receives recoil damage.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Worry Seed</name>
+    <category>Grass</category>
+    <type>status</type>
+    <description>Changes the opponent's Ability to Insomnia.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Wring Out</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>The higher the opponent's HP, the higher the damage.</description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>X-Scissor</name>
+    <category>Bug</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen4</gen>
+    <name>Zen Headbutt</name>
+    <category>Psychic</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Apple Acid</name>
+    <category>Grass</category>
+    <type>special</type>
+    <description>Lowers target's Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Astral Barrage</name>
+    <category>Ghost</category>
+    <type>special</type>
+    <description>The user attacks by sending a frightful amount of small ghosts at opposing Pokémon.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Aura Wheel</name>
+    <category>Electric</category>
+    <type>physical</type>
+    <description>Changes type based on Morpeko's Mode.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Barb Barrage</name>
+    <category>Poison</category>
+    <type>physical</type>
+    <description>May poison opponent; inflicts double damage if the target is already poisoned.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Behemoth Bash</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>Damage doubles if target is Dynamaxed.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Behemoth Blade</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>Damage doubles if target is Dynamaxed.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Bitter Malice</name>
+    <category>Ghost</category>
+    <type>special</type>
+    <description>Lowers opponent's Attack.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Bleakwind Storm</name>
+    <category>Flying</category>
+    <type>special</type>
+    <description>May lower opponent's Speed.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Body Press</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>The higher the user's Defense, the stronger the attack.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Bolt Beak</name>
+    <category>Electric</category>
+    <type>physical</type>
+    <description>If the user attacks before the target, the power of this move is doubled.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Branch Poke</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Breaking Swipe</name>
+    <category>Dragon</category>
+    <type>physical</type>
+    <description>Hits multiple opponents and lowers their attack.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Burning Jealousy</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>Hits all opponents, and burns any that have had their stats boosted.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Ceaseless Edge</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Sets up Spikes.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Chloroblast</name>
+    <category>Grass</category>
+    <type>special</type>
+    <description>User receives recoil damage.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Clangorous Soul</name>
+    <category>Dragon</category>
+    <type>status</type>
+    <description>Raises all user's stats but loses HP.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Coaching</name>
+    <category>Fighting</category>
+    <type>status</type>
+    <description>Boosts Attack and Defense of a teammate.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Corrosive Gas</name>
+    <category>Poison</category>
+    <type>status</type>
+    <description>Removes opponent's items.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Court Change</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Swaps the effects on either side of the field.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Decorate</name>
+    <category>Fairy</category>
+    <type>status</type>
+    <description>Sharply raises target's Attack and Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Dire Claw</name>
+    <category>Poison</category>
+    <type>physical</type>
+    <description>May poison, paralyze or put the opponent to sleep.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Dragon Darts</name>
+    <category>Dragon</category>
+    <type>physical</type>
+    <description>User attacks twice.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Dragon Energy</name>
+    <category>Dragon</category>
+    <type>special</type>
+    <description>The higher the user's HP, the higher the power.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Drum Beating</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>Lowers opponent's Speed.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Dual Wingbeat</name>
+    <category>Flying</category>
+    <type>physical</type>
+    <description>The user slams the target with its wings. The target is hit twice in a row.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Dynamax Cannon</name>
+    <category>Dragon</category>
+    <type>special</type>
+    <description>Damage doubles if opponent is Dynamaxed.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Eerie Spell</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Deals damage and reduces opponent's PP.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Esper Wing</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>High critical hit ratio. Raises user's Speed.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Eternabeam</name>
+    <category>Dragon</category>
+    <type>special</type>
+    <description>User can't move on the next turn.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Expanding Force</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Increases power and hits all opponents on Psychic Terrain.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>False Surrender</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Ignores Accuracy and Evasiveness.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Fiery Wrath</name>
+    <category>Dark</category>
+    <type>special</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Fishious Rend</name>
+    <category>Water</category>
+    <type>physical</type>
+    <description>If the user attacks before the target, the power of this move is doubled.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Flip Turn</name>
+    <category>Water</category>
+    <type>physical</type>
+    <description>After making its attack, the user rushes back to switch places with a party Pokémon in waiting.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Freezing Glare</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>May freeze opponent.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Befuddle</name>
+    <category>Bug</category>
+    <type></type>
+    <description>Butterfree-exclusive G-Max Move. Poisons, paralyzes, or puts opponent to sleep.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Cannonade</name>
+    <category>Water</category>
+    <type></type>
+    <description>Blastoise-exclusive G-Max Move. Damages non-Water types for 4 turns.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Centiferno</name>
+    <category>Fire</category>
+    <type></type>
+    <description>Centiskorch-exclusive G-Max Move. Traps opponents for 4-5 turns.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Chi Strike</name>
+    <category>Fighting</category>
+    <type></type>
+    <description>Machamp-exclusive G-Max Move. Increases critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Cuddle</name>
+    <category>Normal</category>
+    <type></type>
+    <description>Eevee-exclusive G-Max Move. Infatuates opponents.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Depletion</name>
+    <category>Dragon</category>
+    <type></type>
+    <description>Duraludon-exclusive G-Max Move. Reduces opponent's PP.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Drum Solo</name>
+    <category>Grass</category>
+    <type></type>
+    <description>Rillaboom-exclusive G-Max Move. Ignores target's ability.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Finale</name>
+    <category>Fairy</category>
+    <type></type>
+    <description>Alcremie-exclusive G-Max Move. Heals the user's team.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Fireball</name>
+    <category>Fire</category>
+    <type></type>
+    <description>Cinderace-exclusive G-Max Move. Ignores target's ability.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Foam Burst</name>
+    <category>Water</category>
+    <type></type>
+    <description>Kingler-exclusive G-Max Move. Harshly lowers opponents' Speed.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Gold Rush</name>
+    <category>Normal</category>
+    <type></type>
+    <description>Meowth-exclusive G-Max Move. Confuses opponents and earns more money.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Gravitas</name>
+    <category>Psychic</category>
+    <type></type>
+    <description>Orbeetle-exclusive G-Max Move. Summons Gravity for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Hydrosnipe</name>
+    <category>Water</category>
+    <type></type>
+    <description>Inteleon-exclusive G-Max Move. Ignores target's ability.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Malodor</name>
+    <category>Poison</category>
+    <type></type>
+    <description>Garbodor-exclusive G-Max Move. Poisons opponents.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Meltdown</name>
+    <category>Steel</category>
+    <type></type>
+    <description>Melmetal-exclusive G-Max Move. Prevents opponents using the same move twice in a row.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max One Blow</name>
+    <category>Dark</category>
+    <type></type>
+    <description>Urshifu Single-Strike Style-exclusive G-Max Move. Strikes through Max Guard and Protect.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Rapid Flow</name>
+    <category>Water</category>
+    <type></type>
+    <description>Urshifu Rapid-Strike Style-exclusive G-Max Move. Strikes through Max Guard and Protect.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Replenish</name>
+    <category>Normal</category>
+    <type></type>
+    <description>Snorlax-exclusive G-Max Move. Recycles Berries.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Resonance</name>
+    <category>Ice</category>
+    <type></type>
+    <description>Lapras-exclusive G-Max Move. Reduces damage for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Sandblast</name>
+    <category>Ground</category>
+    <type></type>
+    <description>Sandaconda-exclusive G-Max Move. Traps opponents for 4-5 turns.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Smite</name>
+    <category>Fairy</category>
+    <type></type>
+    <description>Hatterene-exclusive G-Max Move. Confuses opponents.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Snooze</name>
+    <category>Dark</category>
+    <type></type>
+    <description>Grimmsnarl-exclusive G-Max Move. Makes opponents drowsy.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Steelsurge</name>
+    <category>Steel</category>
+    <type></type>
+    <description>Copperajah-exclusive G-Max Move. Sets up Spikes on the field.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Stonesurge</name>
+    <category>Water</category>
+    <type></type>
+    <description>Drednaw-exclusive G-Max Move. Sets up Stealth Rock.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Stun Shock</name>
+    <category>Electric</category>
+    <type></type>
+    <description>Toxtricity-exclusive G-Max Move. Poisons or paralyzes opponents.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Sweetness</name>
+    <category>Grass</category>
+    <type></type>
+    <description>Appletun-exclusive G-Max Move. Heals status conditions of user's team.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Tartness</name>
+    <category>Grass</category>
+    <type></type>
+    <description>Flapple-exclusive G-Max Move. Reduces opponents' evasiveness.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Terror</name>
+    <category>Ghost</category>
+    <type></type>
+    <description>Gengar-exclusive G-Max Move. Prevents opponent from switching out.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Vine Lash</name>
+    <category>Grass</category>
+    <type></type>
+    <description>Venusaur-exclusive G-Max Move. Damages non-Grass types for 4 turns.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Volcalith</name>
+    <category>Rock</category>
+    <type></type>
+    <description>Coalossal-exclusive G-Max Move. Deals damage for 4 turns.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Volt Crash</name>
+    <category>Electric</category>
+    <type></type>
+    <description>Pikachu-exclusive G-Max Move. Paralyzes opponents.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Wildfire</name>
+    <category>Fire</category>
+    <type></type>
+    <description>Charizard-exclusive G-Max Move. Damages non-Fire types for 4 turns.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>G-Max Wind Rage</name>
+    <category>Flying</category>
+    <type></type>
+    <description>Corviknight-exclusive G-Max Move. Removes battlefield hazards.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Glacial Lance</name>
+    <category>Ice</category>
+    <type>physical</type>
+    <description>The user attacks by hurling a blizzard-cloaked icicle lance at opposing Pokémon.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Grassy Glide</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>High priority during Grassy Terrain.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Grav Apple</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>Lowers the opponent's Defense stat.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Headlong Rush</name>
+    <category>Ground</category>
+    <type>physical</type>
+    <description>Lowers user's Defense.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Infernal Parade</name>
+    <category>Ghost</category>
+    <type>special</type>
+    <description>Inflicts double damage if the target has a status condition.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Jaw Lock</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Prevents user and opponent from switching out.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Jungle Healing</name>
+    <category>Grass</category>
+    <type>status</type>
+    <description>Restores team's HP and cures status conditions.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Lash Out</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Double power if stats were lowered during the turn.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Life Dew</name>
+    <category>Water</category>
+    <type>status</type>
+    <description>User and teammates recover HP.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Lunar Blessing</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Heals user's status conditions and recovers HP.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Magic Powder</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Changes target's type to Psychic.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Airstream</name>
+    <category>Flying</category>
+    <type></type>
+    <description>Flying type Dynamax move. Raises the team's Speed.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Darkness</name>
+    <category>Dark</category>
+    <type></type>
+    <description>Dark type Dynamax move. Lowers the target's Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Flare</name>
+    <category>Fire</category>
+    <type></type>
+    <description>Fire type Dynamax move. Summons harsh sunlight.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Flutterby</name>
+    <category>Bug</category>
+    <type></type>
+    <description>Bug type Dynamax move. Lowers the target's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Geyser</name>
+    <category>Water</category>
+    <type></type>
+    <description>Water type Dynamax move. Summons heavy rain.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Guard</name>
+    <category>Normal</category>
+    <type></type>
+    <description>Status category Dynamax move. Protects the user.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Hailstorm</name>
+    <category>Ice</category>
+    <type></type>
+    <description>Ice type Dynamax move. Summons hail.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Knuckle</name>
+    <category>Fighting</category>
+    <type></type>
+    <description>Fighting type Dynamax move. Increases the team's Attack.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Lightning</name>
+    <category>Electric</category>
+    <type></type>
+    <description>Electric type Dynamax move. Summons Electric Terrain.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Mindstorm</name>
+    <category>Psychic</category>
+    <type></type>
+    <description>Psychic type Dynamax move. Summons Psychic Terrain.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Ooze</name>
+    <category>Poison</category>
+    <type></type>
+    <description>Poison type Dynamax move. Increases the team's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Overgrowth</name>
+    <category>Grass</category>
+    <type></type>
+    <description>Grass type Dynamax move. Summons Grassy Terrain.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Phantasm</name>
+    <category>Ghost</category>
+    <type></type>
+    <description>Ghost type Dynamax move. Lowers the target's Defense.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Quake</name>
+    <category>Ground</category>
+    <type></type>
+    <description>Ground type Dynamax move. Increases the team's Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Rockfall</name>
+    <category>Rock</category>
+    <type></type>
+    <description>Rock type Dynamax move. Summons a sandstorm.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Starfall</name>
+    <category>Fairy</category>
+    <type></type>
+    <description>Fairy type Dynamax move. Summons Misty Terrain.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Steelspike</name>
+    <category>Steel</category>
+    <type></type>
+    <description>Steel type Dynamax move. Raises the team's Defense.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Strike</name>
+    <category>Normal</category>
+    <type></type>
+    <description>Normal type Dynamax move. Lowers the target's Speed.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Max Wyrmwind</name>
+    <category>Dragon</category>
+    <type></type>
+    <description>Dragon type Dynamax move. Lowers the target's Attack.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Meteor Assault</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>User must recharge next turn.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Meteor Beam</name>
+    <category>Rock</category>
+    <type>special</type>
+    <description>User gathers space power and boosts its Sp. Atk stat, then attacks the target on the next turn.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Misty Explosion</name>
+    <category>Fairy</category>
+    <type>special</type>
+    <description>Power increases on Misty Terrain.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Mountain Gale</name>
+    <category>Ice</category>
+    <type>physical</type>
+    <description>Lowers user's Speed.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Mystical Power</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Raises user's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>No Retreat</name>
+    <category>Fighting</category>
+    <type>status</type>
+    <description>Raises all stats but user cannot switch out.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Obstruct</name>
+    <category>Dark</category>
+    <type>status</type>
+    <description>Protects the user and sharply lowers Defence on contact.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Octolock</name>
+    <category>Fighting</category>
+    <type>status</type>
+    <description>Lowers opponent's Defense and Special Defense every turn, and they cannot flee or switch out.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Overdrive</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>Hits all adjacent opponents.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Poltergeist</name>
+    <category>Ghost</category>
+    <type>physical</type>
+    <description>Fails if the target doesn’t have an item.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Power Shift</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Switches Attack and Defense stats.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Psyshield Bash</name>
+    <category>Psychic</category>
+    <type>physical</type>
+    <description>Raises user's Defense and Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Pyro Ball</name>
+    <category>Fire</category>
+    <type>physical</type>
+    <description>May burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Raging Fury</name>
+    <category>Fire</category>
+    <type>physical</type>
+    <description>User attacks for 2-3 turns but then becomes confused.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Rising Voltage</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>Power doubles on Electric Terrain.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Sandsear Storm</name>
+    <category>Ground</category>
+    <type>special</type>
+    <description>May burn target.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Scale Shot</name>
+    <category>Dragon</category>
+    <type>physical</type>
+    <description>Hits 2-5 times in one turn. Boosts user's Speed but lowers its Defense.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Scorching Sands</name>
+    <category>Ground</category>
+    <type>special</type>
+    <description>May burn the target.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Shell Side Arm</name>
+    <category>Poison</category>
+    <type>special</type>
+    <description>May poison opponent. Inflicts either Special or Physical damage, whichever is better.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Shelter</name>
+    <category>Steel</category>
+    <type>status</type>
+    <description>Raises user's Defense.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Skitter Smack</name>
+    <category>Bug</category>
+    <type>physical</type>
+    <description>Lowers opponent's Sp. Attack.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Snap Trap</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>Traps opponent, damaging them for 4-5 turns.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Snipe Shot</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>Ignores moves and abilities that draw in moves. High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Spirit Break</name>
+    <category>Fairy</category>
+    <type>physical</type>
+    <description>Lowers opponent's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Springtide Storm</name>
+    <category>Fairy</category>
+    <type>special</type>
+    <description>Boosts user's stats in Incarnate Forme, or lowers opponent's stats in Therian Forme.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Steel Beam</name>
+    <category>Steel</category>
+    <type>special</type>
+    <description>User loses 50% of its HP.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Steel Roller</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>Fails if no Terrain in effect.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Stone Axe</name>
+    <category>Rock</category>
+    <type>physical</type>
+    <description>Sets up Stealth Rock.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Strange Steam</name>
+    <category>Fairy</category>
+    <type>special</type>
+    <description>May confuse opponent.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Stuff Cheeks</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>The user eats its held Berry, then sharply raises its Defense stat.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Surging Strikes</name>
+    <category>Water</category>
+    <type>physical</type>
+    <description>Always results in a critical hit and ignores stat changes.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Take Heart</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Heals user's status conditions and raises its stats.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Tar Shot</name>
+    <category>Rock</category>
+    <type>status</type>
+    <description>Lowers the opponent's Speed and makes them weaker to Fire-type moves.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Teatime</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Forces all Pokémon on the field to eat their berries.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Terrain Pulse</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>Type and power change depending on the Terrain in effect.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Thunder Cage</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>Deals damage and traps opponent, damaging them for 4-5 turns.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Thunderous Kick</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Lowers opponent's Defense.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Triple Arrows</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>High critical hit ratio. May lower opponent's Defense or cause them to flinch.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Triple Axel</name>
+    <category>Ice</category>
+    <type>physical</type>
+    <description>Attacks thrice with more power each time.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Victory Dance</name>
+    <category>Fighting</category>
+    <type>status</type>
+    <description>Raises Attack and Defense.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Wave Crash</name>
+    <category>Water</category>
+    <type>physical</type>
+    <description>User receives recoil damage.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Wicked Blow</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Always results in a critical hit and ignores stat changes.</description>
+  </move>
+  <move>
+    <gen>gen8</gen>
+    <name>Wildbolt Storm</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>May paralyze target.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Alluring Voice</name>
+    <category>Fairy</category>
+    <type>special</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Aqua Cutter</name>
+    <category>Water</category>
+    <type>physical</type>
+    <description>High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Aqua Step</name>
+    <category>Water</category>
+    <type>physical</type>
+    <description>Raises user's Speed.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Armor Cannon</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>Lowers user's Defense and Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Axe Kick</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>May confuse opponent. If it misses, the user loses HP.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Bitter Blade</name>
+    <category>Fire</category>
+    <type>physical</type>
+    <description>User recovers half the HP inflicted on opponent.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Blazing Torque</name>
+    <category>Fire</category>
+    <type>physical</type>
+    <description>May burn the opponent.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Blood Moon</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>Cannot be used twice in a row.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Burning Bulwark</name>
+    <category>Fire</category>
+    <type>status</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Chilling Water</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>Lowers opponent's Attack.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Chilly Reception</name>
+    <category>Ice</category>
+    <type>status</type>
+    <description>Switches out and summons a snowstorm lasting 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Collision Course</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Boosted even more if it's super-effective.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Combat Torque</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>May paralyze the opponent.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Comeuppance</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Deals more damage to the opponent that last inflicted damage on it.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Doodle</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Changes the abilities of the user and its teammates to that of the target.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Double Shock</name>
+    <category>Electric</category>
+    <type>physical</type>
+    <description>After using this move, the user will no longer be Electric type.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Dragon Cheer</name>
+    <category>Dragon</category>
+    <type>status</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Electro Drift</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>Boosted even more if it's super-effective.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Electro Shot</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>Charges on first turn, attacks on second.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Fickle Beam</name>
+    <category>Dragon</category>
+    <type>special</type>
+    <description>May deal double damage.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Fillet Away</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Lowers HP but sharply boosts Attack, Special Attack, and Speed.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Flower Trick</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>Never misses; always results in a critical hit.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Gigaton Hammer</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>Cannot be used twice in a row.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Glaive Rush</name>
+    <category>Dragon</category>
+    <type>physical</type>
+    <description>Attacks from opposing Pokémon during the next turn cannot miss and will inflict double damage.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Hard Press</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Hydro Steam</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>Power increases in harsh sunlight.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Hyper Drill</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Can strike through Protect/Detect.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Ice Spinner</name>
+    <category>Ice</category>
+    <type>physical</type>
+    <description>Removes effects of Terrain.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Ivy Cudgel</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>High critical hit ratio. Type changes based on form.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Jet Punch</name>
+    <category>Water</category>
+    <type>physical</type>
+    <description>Always goes first.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Kowtow Cleave</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Always hits.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Last Respects</name>
+    <category>Ghost</category>
+    <type>physical</type>
+    <description>Damages increases the more party Pokémon have been defeated.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Lumina Crash</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Harshly lowers target’s Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Magical Torque</name>
+    <category>Fairy</category>
+    <type>physical</type>
+    <description>May confuse the opponent.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Make It Rain</name>
+    <category>Steel</category>
+    <type>special</type>
+    <description>Lowers user's Special Attack. Money is earned after the battle.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Malignant Chain</name>
+    <category>Poison</category>
+    <type>special</type>
+    <description>May poison the opponent.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Matcha Gotcha</name>
+    <category>Grass</category>
+    <type>special</type>
+    <description>Deals damage, restores HP, may burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Mighty Cleave</name>
+    <category>Rock</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Mortal Spin</name>
+    <category>Poison</category>
+    <type>physical</type>
+    <description>Removes entry hazards and trap move effects, and poisons opposing Pokémon.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Noxious Torque</name>
+    <category>Poison</category>
+    <type>physical</type>
+    <description>May poison the opponent.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Order Up</name>
+    <category>Dragon</category>
+    <type>physical</type>
+    <description>Boosts Attack/Defense/Speed depending on ally Tatsugiri.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Population Bomb</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Hits 1-10 times in a row.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Pounce</name>
+    <category>Bug</category>
+    <type>physical</type>
+    <description>Lowers opponent's Speed.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Psyblade</name>
+    <category>Psychic</category>
+    <type>physical</type>
+    <description>Power increases on Electric Terrain.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Psychic Noise</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Deals damage and prevents target from healing.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Rage Fist</name>
+    <category>Ghost</category>
+    <type>physical</type>
+    <description>The more times the user has been hit by attacks, the greater the move's power.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Raging Bull</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Type depends on the user’s form. Breaks through Reflect and Light Screen barriers.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Revival Blessing</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Revives a fainted party Pokémon to half HP.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Ruination</name>
+    <category>Dark</category>
+    <type>special</type>
+    <description>Halves the opponent's HP.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Salt Cure</name>
+    <category>Rock</category>
+    <type>physical</type>
+    <description>Deals damage each turn; Steel and Water types are more affected.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Shed Tail</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Creates a substitute, then swaps places with a party Pokémon in waiting.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Silk Trap</name>
+    <category>Bug</category>
+    <type>status</type>
+    <description>Protects the user and lowers opponent's Speed on contact.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Snowscape</name>
+    <category>Ice</category>
+    <type>status</type>
+    <description>Raises Defense of Ice types for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Spicy Extract</name>
+    <category>Grass</category>
+    <type>status</type>
+    <description>Harshly lowers the opponent's Defense and sharply raises their Attack.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Spin Out</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>Harshly lowers user’s Speed.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Supercell Slam</name>
+    <category>Electric</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Syrup Bomb</name>
+    <category>Grass</category>
+    <type>special</type>
+    <description>Lowers opponent's Speed each turn for 3 turns.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Tachyon Cutter</name>
+    <category>Steel</category>
+    <type>special</type>
+    <description>Guaranteed to hit twice in a row.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Temper Flare</name>
+    <category>Fire</category>
+    <type>physical</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Tera Blast</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>Changes type when the user has Terastallized.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Tera Starstorm</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description></description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Thunderclap</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>Strikes before a target's move.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Tidy Up</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Removes the effects of entry hazards and Substitute, and boosts user’s Attack and Speed.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Torch Song</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>Raises user's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Trailblaze</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>Raises user's Speed.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Triple Dive</name>
+    <category>Water</category>
+    <type>physical</type>
+    <description>Hits 3 times in a row.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Twin Beam</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Hits twice in one turn.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Upper Hand</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Strikes before a target's priority move.</description>
+  </move>
+  <move>
+    <gen>gen9</gen>
+    <name>Wicked Torque</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>May put opponent to sleep.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Acid Spray</name>
+    <category>Poison</category>
+    <type>special</type>
+    <description>Sharply lowers opponent's Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Acrobatics</name>
+    <category>Flying</category>
+    <type>physical</type>
+    <description>Stronger when the user does not have a held item.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>After You</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Gives target priority in the next turn.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Ally Switch</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>User switches with opposite teammate.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Autotomize</name>
+    <category>Steel</category>
+    <type>status</type>
+    <description>Reduces weight and sharply raises Speed.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Bestow</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Gives the user's held item to the target.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Blue Flare</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>May burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Bolt Strike</name>
+    <category>Electric</category>
+    <type>physical</type>
+    <description>May paralyze opponent.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Bulldoze</name>
+    <category>Ground</category>
+    <type>physical</type>
+    <description>Lowers opponent's Speed.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Chip Away</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Ignores opponent's stat changes.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Circle Throw</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>In battles, the opponent switches. In the wild, the Pokémon runs.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Clear Smog</name>
+    <category>Poison</category>
+    <type>special</type>
+    <description>Removes all of the target's stat changes.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Coil</name>
+    <category>Poison</category>
+    <type>status</type>
+    <description>Raises user's Attack, Defense and Accuracy.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Cotton Guard</name>
+    <category>Grass</category>
+    <type>status</type>
+    <description>Drastically raises user's Defense.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Dragon Tail</name>
+    <category>Dragon</category>
+    <type>physical</type>
+    <description>In battles, the opponent switches. In the wild, the Pokémon runs.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Drill Run</name>
+    <category>Ground</category>
+    <type>physical</type>
+    <description>High critical hit ratio.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Dual Chop</name>
+    <category>Dragon</category>
+    <type>physical</type>
+    <description>Hits twice in one turn.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Echoed Voice</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>Power increases each turn.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Electro Ball</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>The faster the user, the stronger the attack.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Electroweb</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>Lowers opponent's Speed.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Entrainment</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Makes target's ability same as user's.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Fiery Dance</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>May raise user's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Final Gambit</name>
+    <category>Fighting</category>
+    <type>special</type>
+    <description>Inflicts damage equal to the user's remaining HP. User faints.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Fire Pledge</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>Added effects appear if combined with Grass Pledge or Water Pledge.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Flame Burst</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>May also injure nearby Pokémon.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Flame Charge</name>
+    <category>Fire</category>
+    <type>physical</type>
+    <description>Raises user's Speed.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Foul Play</name>
+    <category>Dark</category>
+    <type>physical</type>
+    <description>Uses the opponent's Attack stat.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Freeze Shock</name>
+    <category>Ice</category>
+    <type>physical</type>
+    <description>Charges on first turn, attacks on second. May paralyze opponent.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Frost Breath</name>
+    <category>Ice</category>
+    <type>special</type>
+    <description>Always results in a critical hit.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Fusion Bolt</name>
+    <category>Electric</category>
+    <type>physical</type>
+    <description>Power increases if Fusion Flare is used in the same turn.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Fusion Flare</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>Power increases if Fusion Bolt is used in the same turn.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Gear Grind</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>Hits twice in one turn.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Glaciate</name>
+    <category>Ice</category>
+    <type>special</type>
+    <description>Lowers opponent's Speed.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Grass Pledge</name>
+    <category>Grass</category>
+    <type>special</type>
+    <description>Added effects appear if preceded by Water Pledge or succeeded by Fire Pledge.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Guard Split</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Averages Defense and Special Defense with the target.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Head Charge</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>User receives recoil damage.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Heal Pulse</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Restores half the target's max HP.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Heart Stamp</name>
+    <category>Psychic</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Heat Crash</name>
+    <category>Fire</category>
+    <type>physical</type>
+    <description>The heavier the user, the stronger the attack.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Heavy Slam</name>
+    <category>Steel</category>
+    <type>physical</type>
+    <description>The heavier the user, the stronger the attack.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Hex</name>
+    <category>Ghost</category>
+    <type>special</type>
+    <description>Inflicts more damage if the target has a status condition.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Hone Claws</name>
+    <category>Dark</category>
+    <type>status</type>
+    <description>Raises user's Attack and Accuracy.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Horn Leech</name>
+    <category>Grass</category>
+    <type>physical</type>
+    <description>User recovers half the HP inflicted on opponent.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Hurricane</name>
+    <category>Flying</category>
+    <type>special</type>
+    <description>May confuse opponent.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Ice Burn</name>
+    <category>Ice</category>
+    <type>special</type>
+    <description>Charges on first turn, attacks on second. May burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Icicle Crash</name>
+    <category>Ice</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Incinerate</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>Destroys the target's held berry.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Inferno</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>Burns opponent.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Leaf Tornado</name>
+    <category>Grass</category>
+    <type>special</type>
+    <description>May lower opponent's Accuracy.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Low Sweep</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Lowers opponent's Speed.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Magic Room</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Suppresses the effects of held items for five turns.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Night Daze</name>
+    <category>Dark</category>
+    <type>special</type>
+    <description>May lower opponent's Accuracy.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Power Split</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Averages Attack and Special Attack with the target.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Psyshock</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Inflicts damage based on the target's Defense, not Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Psystrike</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Inflicts damage based on the target's Defense, not Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Quash</name>
+    <category>Dark</category>
+    <type>status</type>
+    <description>Makes the target act last this turn.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Quick Guard</name>
+    <category>Fighting</category>
+    <type>status</type>
+    <description>Protects the user's team from high-priority moves.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Quiver Dance</name>
+    <category>Bug</category>
+    <type>status</type>
+    <description>Raises user's Special Attack, Special Defense and Speed.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Rage Powder</name>
+    <category>Bug</category>
+    <type>status</type>
+    <description>Forces attacks to hit user, not team-mates.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Razor Shell</name>
+    <category>Water</category>
+    <type>physical</type>
+    <description>May lower opponent's Defense.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Reflect Type</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>User becomes the target's type.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Relic Song</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>May put the target to sleep.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Retaliate</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Inflicts double damage if a teammate fainted on the last turn.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Round</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>Power increases if teammates use it in the same turn.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Sacred Sword</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Ignores opponent's stat changes.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Scald</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>May burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Searing Shot</name>
+    <category>Fire</category>
+    <type>special</type>
+    <description>May burn opponent.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Secret Sword</name>
+    <category>Fighting</category>
+    <type>special</type>
+    <description>Inflicts damage based on the target's Defense, not Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Shell Smash</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Sharply raises user's Attack, Special Attack and Speed but lowers Defense and Special Defense.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Shift Gear</name>
+    <category>Steel</category>
+    <type>status</type>
+    <description>Raises user's Attack and sharply raises Speed.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Simple Beam</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Changes target's ability to Simple.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Sky Drop</name>
+    <category>Flying</category>
+    <type>physical</type>
+    <description>Takes opponent into the air on first turn, drops them on second turn.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Sludge Wave</name>
+    <category>Poison</category>
+    <type>special</type>
+    <description>May poison opponent.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Smack Down</name>
+    <category>Rock</category>
+    <type>physical</type>
+    <description>Makes Flying-type Pokémon vulnerable to Ground moves.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Snarl</name>
+    <category>Dark</category>
+    <type>special</type>
+    <description>Lowers opponent's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Soak</name>
+    <category>Water</category>
+    <type>status</type>
+    <description>Changes the target's type to water.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Steamroller</name>
+    <category>Bug</category>
+    <type>physical</type>
+    <description>May cause flinching.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Stored Power</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Power increases when user's stats have been raised.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Storm Throw</name>
+    <category>Fighting</category>
+    <type>physical</type>
+    <description>Always results in a critical hit.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Struggle Bug</name>
+    <category>Bug</category>
+    <type>special</type>
+    <description>Lowers opponent's Special Attack.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Synchronoise</name>
+    <category>Psychic</category>
+    <type>special</type>
+    <description>Hits any Pokémon that shares a type with the user.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Tail Slap</name>
+    <category>Normal</category>
+    <type>physical</type>
+    <description>Hits 2-5 times in one turn.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Techno Blast</name>
+    <category>Normal</category>
+    <type>special</type>
+    <description>Type depends on the Drive being held.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Telekinesis</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Ignores opponent's Evasiveness for three turns, add Ground immunity.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>V-create</name>
+    <category>Fire</category>
+    <type>physical</type>
+    <description>Lowers user's Defense, Special Defense and Speed.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Venoshock</name>
+    <category>Poison</category>
+    <type>special</type>
+    <description>Inflicts double damage if the target is poisoned.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Volt Switch</name>
+    <category>Electric</category>
+    <type>special</type>
+    <description>User must switch out after attacking.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Water Pledge</name>
+    <category>Water</category>
+    <type>special</type>
+    <description>Added effects appear if preceded by Fire Pledge or succeeded by Grass Pledge.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Wide Guard</name>
+    <category>Rock</category>
+    <type>status</type>
+    <description>Protects the user's team from multi-target attacks.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Wild Charge</name>
+    <category>Electric</category>
+    <type>physical</type>
+    <description>User receives recoil damage.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Wonder Room</name>
+    <category>Psychic</category>
+    <type>status</type>
+    <description>Swaps every Pokémon's Defense and Special Defense for 5 turns.</description>
+  </move>
+  <move>
+    <gen>gen5</gen>
+    <name>Work Up</name>
+    <category>Normal</category>
+    <type>status</type>
+    <description>Raises user's Attack and Special Attack.</description>
+  </move>
+</moveSet>

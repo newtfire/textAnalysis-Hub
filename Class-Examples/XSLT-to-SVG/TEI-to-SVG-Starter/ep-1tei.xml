@@ -18,7 +18,7 @@
    <text>
       <body>
          <div type="event" xml:id="s1e1-event1" corresp="#i1-event1">
-            <stage type="location" where="outsideSchool"/>
+            <stage type="location" where="outsideSchool">
             <sp who="BullyA">
                <speaker>Bully A</speaker>
                <p>I said, if you ain't lendin' me money, then no date today. Oh, but I'd be okay if
@@ -39,7 +39,7 @@
                <speaker>Momo</speaker>
                <p>Gimme a break, moron! Octopus! Squid! Tuna!</p>
             </sp>
-
+            </stage>
             <stage type="location" where="classroom">
                <sp who="Muko">
                   <speaker>Muko</speaker>

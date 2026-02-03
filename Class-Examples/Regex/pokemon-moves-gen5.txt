@@ -1,0 +1,105 @@
+Name
+	
+Type
+	
+Cat.
+	
+Power
+	
+Acc.
+	
+PP
+	
+Effect
+Acid Spray	Poison	Special 	40 	100 	20 	Sharply lowers opponent's Special Defense.
+Acrobatics	Flying	Physical 	55 	100 	15 	Stronger when the user does not have a held item.
+After You	Normal	Status 	— 	— 	15 	Gives target priority in the next turn.
+Ally Switch	Psychic	Status 	— 	— 	15 	User switches with opposite teammate.
+Autotomize	Steel	Status 	— 	— 	15 	Reduces weight and sharply raises Speed.
+Bestow	Normal	Status 	— 	— 	15 	Gives the user's held item to the target.
+Blue Flare	Fire	Special 	130 	85 	5 	May burn opponent.
+Bolt Strike	Electric	Physical 	130 	85 	5 	May paralyze opponent.
+Bulldoze	Ground	Physical 	60 	100 	20 	Lowers opponent's Speed.
+Chip Away	Normal	Physical 	70 	100 	20 	Ignores opponent's stat changes.
+Circle Throw	Fighting	Physical 	60 	90 	10 	In battles, the opponent switches. In the wild, the Pokémon runs.
+Clear Smog	Poison	Special 	50 	— 	15 	Removes all of the target's stat changes.
+Coil	Poison	Status 	— 	— 	20 	Raises user's Attack, Defense and Accuracy.
+Cotton Guard	Grass	Status 	— 	— 	10 	Drastically raises user's Defense.
+Dragon Tail	Dragon	Physical 	60 	90 	10 	In battles, the opponent switches. In the wild, the Pokémon runs.
+Drill Run	Ground	Physical 	80 	95 	10 	High critical hit ratio.
+Dual Chop	Dragon	Physical 	40 	90 	15 	Hits twice in one turn.
+Echoed Voice	Normal	Special 	40 	100 	15 	Power increases each turn.
+Electro Ball	Electric	Special 	— 	100 	10 	The faster the user, the stronger the attack.
+Electroweb	Electric	Special 	55 	95 	15 	Lowers opponent's Speed.
+Entrainment	Normal	Status 	— 	100 	15 	Makes target's ability same as user's.
+Fiery Dance	Fire	Special 	80 	100 	10 	May raise user's Special Attack.
+Final Gambit	Fighting	Special 	— 	100 	5 	Inflicts damage equal to the user's remaining HP. User faints.
+Fire Pledge	Fire	Special 	80 	100 	10 	Added effects appear if combined with Grass Pledge or Water Pledge.
+Flame Burst	Fire	Special 	70 	100 	15 	May also injure nearby Pokémon.
+Flame Charge	Fire	Physical 	50 	100 	20 	Raises user's Speed.
+Foul Play	Dark	Physical 	95 	100 	15 	Uses the opponent's Attack stat.
+Freeze Shock	Ice	Physical 	140 	90 	5 	Charges on first turn, attacks on second. May paralyze opponent.
+Frost Breath	Ice	Special 	60 	90 	10 	Always results in a critical hit.
+Fusion Bolt	Electric	Physical 	100 	100 	5 	Power increases if Fusion Flare is used in the same turn.
+Fusion Flare	Fire	Special 	100 	100 	5 	Power increases if Fusion Bolt is used in the same turn.
+Gear Grind	Steel	Physical 	50 	85 	15 	Hits twice in one turn.
+Glaciate	Ice	Special 	65 	95 	10 	Lowers opponent's Speed.
+Grass Pledge	Grass	Special 	80 	100 	10 	Added effects appear if preceded by Water Pledge or succeeded by Fire Pledge.
+Guard Split	Psychic	Status 	— 	— 	10 	Averages Defense and Special Defense with the target.
+Head Charge	Normal	Physical 	120 	100 	15 	User receives recoil damage.
+Heal Pulse	Psychic	Status 	— 	— 	10 	Restores half the target's max HP.
+Heart Stamp	Psychic	Physical 	60 	100 	25 	May cause flinching.
+Heat Crash	Fire	Physical 	— 	100 	10 	The heavier the user, the stronger the attack.
+Heavy Slam	Steel	Physical 	— 	100 	10 	The heavier the user, the stronger the attack.
+Hex	Ghost	Special 	65 	100 	10 	Inflicts more damage if the target has a status condition.
+Hone Claws	Dark	Status 	— 	— 	15 	Raises user's Attack and Accuracy.
+Horn Leech	Grass	Physical 	75 	100 	10 	User recovers half the HP inflicted on opponent.
+Hurricane	Flying	Special 	110 	70 	10 	May confuse opponent.
+Ice Burn	Ice	Special 	140 	90 	5 	Charges on first turn, attacks on second. May burn opponent.
+Icicle Crash	Ice	Physical 	85 	90 	10 	May cause flinching.
+Incinerate	Fire	Special 	60 	100 	15 	Destroys the target's held berry.
+Inferno	Fire	Special 	100 	50 	5 	Burns opponent.
+Leaf Tornado	Grass	Special 	65 	90 	10 	May lower opponent's Accuracy.
+Low Sweep	Fighting	Physical 	65 	100 	20 	Lowers opponent's Speed.
+Magic Room	Psychic	Status 	— 	— 	10 	Suppresses the effects of held items for five turns.
+Night Daze	Dark	Special 	85 	95 	10 	May lower opponent's Accuracy.
+Power Split	Psychic	Status 	— 	— 	10 	Averages Attack and Special Attack with the target.
+Psyshock	Psychic	Special 	80 	100 	10 	Inflicts damage based on the target's Defense, not Special Defense.
+Psystrike	Psychic	Special 	100 	100 	10 	Inflicts damage based on the target's Defense, not Special Defense.
+Quash	Dark	Status 	— 	100 	15 	Makes the target act last this turn.
+Quick Guard	Fighting	Status 	— 	— 	15 	Protects the user's team from high-priority moves.
+Quiver Dance	Bug	Status 	— 	— 	20 	Raises user's Special Attack, Special Defense and Speed.
+Rage Powder	Bug	Status 	— 	— 	20 	Forces attacks to hit user, not team-mates.
+Razor Shell	Water	Physical 	75 	95 	10 	May lower opponent's Defense.
+Reflect Type	Normal	Status 	— 	— 	15 	User becomes the target's type.
+Relic Song	Normal	Special 	75 	100 	10 	May put the target to sleep.
+Retaliate	Normal	Physical 	70 	100 	5 	Inflicts double damage if a teammate fainted on the last turn.
+Round	Normal	Special 	60 	100 	15 	Power increases if teammates use it in the same turn.
+Sacred Sword	Fighting	Physical 	90 	100 	15 	Ignores opponent's stat changes.
+Scald	Water	Special 	80 	100 	15 	May burn opponent.
+Searing Shot	Fire	Special 	100 	100 	5 	May burn opponent.
+Secret Sword	Fighting	Special 	85 	100 	10 	Inflicts damage based on the target's Defense, not Special Defense.
+Shell Smash	Normal	Status 	— 	— 	15 	Sharply raises user's Attack, Special Attack and Speed but lowers Defense and Special Defense.
+Shift Gear	Steel	Status 	— 	— 	10 	Raises user's Attack and sharply raises Speed.
+Simple Beam	Normal	Status 	— 	100 	15 	Changes target's ability to Simple.
+Sky Drop	Flying	Physical 	60 	100 	10 	Takes opponent into the air on first turn, drops them on second turn.
+Sludge Wave	Poison	Special 	95 	100 	10 	May poison opponent.
+Smack Down	Rock	Physical 	50 	100 	15 	Makes Flying-type Pokémon vulnerable to Ground moves.
+Snarl	Dark	Special 	55 	95 	15 	Lowers opponent's Special Attack.
+Soak	Water	Status 	— 	100 	20 	Changes the target's type to water.
+Steamroller	Bug	Physical 	65 	100 	20 	May cause flinching.
+Stored Power	Psychic	Special 	20 	100 	10 	Power increases when user's stats have been raised.
+Storm Throw	Fighting	Physical 	60 	100 	10 	Always results in a critical hit.
+Struggle Bug	Bug	Special 	50 	100 	20 	Lowers opponent's Special Attack.
+Synchronoise	Psychic	Special 	120 	100 	10 	Hits any Pokémon that shares a type with the user.
+Tail Slap	Normal	Physical 	25 	85 	10 	Hits 2-5 times in one turn.
+Techno Blast	Normal	Special 	120 	100 	5 	Type depends on the Drive being held.
+Telekinesis	Psychic	Status 	— 	— 	15 	Ignores opponent's Evasiveness for three turns, add Ground immunity.
+V-create	Fire	Physical 	180 	95 	5 	Lowers user's Defense, Special Defense and Speed.
+Venoshock	Poison	Special 	65 	100 	10 	Inflicts double damage if the target is poisoned.
+Volt Switch	Electric	Special 	70 	100 	20 	User must switch out after attacking.
+Water Pledge	Water	Special 	80 	100 	10 	Added effects appear if preceded by Fire Pledge or succeeded by Grass Pledge.
+Wide Guard	Rock	Status 	— 	— 	10 	Protects the user's team from multi-target attacks.
+Wild Charge	Electric	Physical 	90 	100 	15 	User receives recoil damage.
+Wonder Room	Psychic	Status 	— 	— 	10 	Swaps every Pokémon's Defense and Special Defense for 5 turns.
+Work Up	Normal	Status 	— 	— 	30 	Raises user's Attack and Special Attack.
