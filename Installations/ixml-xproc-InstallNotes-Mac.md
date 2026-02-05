@@ -42,7 +42,6 @@ This is cool coffee art:
 * [**XProc Processors**](#xproc-processors)
 	* [**Calabash**](#calabash)
 		* [Installing Calabash](#installing-calabash)
-		* [Installing CoffeeSacks](#installing-coffeesacks)
 		* [Configuring Calabash](#configuring-calabash)
 		* [Creating an Alias for Calabash](#creating-an-alias-for-calabash)
 		* [Smoke Test for Calabash](#smoke-test-for-calabash)
@@ -366,14 +365,6 @@ Calabash is an XProc 3.0 processor developed by the same people that made the Co
 	java -jar xmlcalabash-app-VERSION.jar help
 	```
 
-### Installing CoffeeSacks
-
-CoffeeSacks is required to use ixml when running a pipeline with Calabash.
-
-1. Download CoffeeSacks from:
-	<https://codeberg.org/NineML/nineml/releases>
-1. Copy the CoffeeSacks JAR into the `extra/` directory of Calabash.
-
 ### Configuring Calabash
 
 1. Create the configuration file in your home directory:
@@ -401,7 +392,7 @@ CoffeeSacks is required to use ixml when running a pipeline with Calabash.
 1. Add **(replace `USERNAME` with your username and `VERSION` with the latest version that you downloaded—the version in the unzipped directory name)**:
 
 	```shell
-	alias calabash='/Users/USERNAME/Documents/GitHub/xmlcalabash-VERSION/xmlcalabash.sh --init:org.nineml.coffeesacks.RegisterCoffeeSacks'
+	alias calabash='/Users/USERNAME/Documents/GitHub/xmlcalabash-VERSION/xmlcalabash.sh'
 	```
 
 ### Smoke Test for Calabash
@@ -418,7 +409,7 @@ CoffeeSacks is required to use ixml when running a pipeline with Calabash.
 	This message is printed when the identity step runs.
 	It contains “😻” (U+201C, U+1F63B, U+201D) to test
 	the console encoding's ability to display Unicode.
-	<helloWorld>This is XML Calabash version 3.0.37.
+	<helloWorld>This is XML Calabash version *[3.0.37]*.
 	Share and enjoy!</helloWorld>%
  	```
 
@@ -528,7 +519,7 @@ Now, we need to make sure Morgana’s executable script (`Morgana.sh`) can locat
 	Edit it so that it includes all of the local customization variables. It should look like this:
 
 	```shell
-	CLASSPATH=$BLITZ_JAR:$COFFEEGRINDER_JAR:$COFFEEFILTER_JAR:$SAXON_JAR:$MORGANA_LIB:$MORGANA_HOME/MorganaXProc-IIIse.jar
+	CLASSPATH=$MORGANA_LIB:$MORGANA_HOME/MorganaXProc-IIIse.jar:$BLITZ_JAR:$COFFEEGRINDER_JAR:$COFFEEFILTER_JAR:$SAXON_JAR
 	```
 
 	Basically, this pours Markup Blitz through a coffee grinder, into a coffee filter, and then through some Saxon, all before landing in a Morgana mug.
