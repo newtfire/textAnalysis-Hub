@@ -397,6 +397,7 @@ Calabash is an XProc 3.0 processor developed by the same people that made the Co
 
 ### Smoke Test for Calabash
 
+1. Navigate to your `xmlcalabash-VERSION` directory.
 1. Run:
 
 	```shell
