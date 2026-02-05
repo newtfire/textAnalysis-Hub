@@ -574,6 +574,7 @@ Morgana is now configured to use Markup Blitz (or the CoffeeTools) for ixml proc
 
 ### Smoke Test for Morgana
 
+1. Navigate to your `MorganaXProc-IIIse-VERSION` directory.
 1. Run:
 
 	```shell
