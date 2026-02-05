@@ -1,9 +1,12 @@
 # Invisible XML (ixml) / XProc Installations (for Windows)
 
-This document is a detailed set of installation/configuration instructions for Windows users, developed from
-<http://dh.obdurodon.org/ixml-and-xproc-configuration.xhtml>.
+This document provides installation and configuration instructions for Windows users.
 
-This is related to a tutorial under development at <http://dh.obdurodon.org/ixml-and-xproc-lesson-plan.xhtml>. 
+These instructions are adapted from:
+<http://dh.obdurodon.org/ixml-and-xproc-configuration.xhtml>
+
+This setup supports a tutorial initially developed in Spring 2025:
+<http://dh.obdurodon.org/ixml-and-xproc-lesson-plan.xhtml>
 
 This is cool coffee art:
 
@@ -19,122 +22,168 @@ This is cool coffee art:
 # Table of Contents
 
 * [**Preliminary Installations & Suggestions**](#preliminary-installations--suggestions)
+  	* [Windows Specifics](#windows-specifics)
 	* [Installing Chocolatey](#installing-chocolatey)
 	* [Installing JDK](#installing-jdk)
+	* [Installing Graphviz](#installing-graphviz)
 	* [Suggestions](#suggestions)
-* [**XProc Processors**](#xproc-processors)
-	* [**Calabash**](#calabash)
-		* [Installing Calabash](#installing-calabash)
-		* [Graphviz](#graphviz)
-		* [CoffeeSacks](#coffeesacks)
-		* [Configuring Calabash](#configuring-calabash)
-		* [Creating an Alias for Calabash](#creating-an-alias-for-calabash)
-		* [Testing Calabash](#testing-calabash)
-	* [**Morgana**](#morgana)
-		* [Installing Morgana](#installing-morgana)
-		* [Installing SchXslt](#installing-schxslt)
-		* [Configuring Morgana](#configuring-morgana)
-		* [Creating an Alias for Morgana](#creating-an-alias-for-morgana)
-		* [Installing CoffeeFilter and CoffeeGrinder](#installing-coffeefilter-and-coffeegrinder)
-		* [More Morgana Configuration](#more-morgana-configuration)
-		* [Testing Morgana](#testing-morgana)
 * [**Invisible XML (ixml) Processors**](#invisible-xml-ixml-processors)
+	* [About the CoffeeTools](#about-the-coffeetools)
 	* [**CoffeePot**](#coffeepot)
 		* [Installing CoffeePot](#installing-coffeepot)
 		* [Creating an Alias for CoffeePot](#creating-an-alias-for-coffeepot)
 		* [Configuring CoffeePot](#configuring-coffeepot)
 		* [Smoke Test for CoffeePot](#smoke-test-for-coffeepot)
-		* [Running CoffeePot](#running-coffeepot)
+    	* [Running CoffeePot](#running-coffeepot)
 	* [**Markup Blitz**](#markup-blitz)
 		* [Installing Markup Blitz](#installing-markup-blitz)
 		* [Creating an Alias for Markup Blitz](#creating-an-alias-for-markup-blitz)
 		* [Smoke Test for Markup Blitz](#smoke-test-for-markup-blitz)
 		* [Running Markup Blitz](#running-markup-blitz)
+* [**XProc Processors**](#xproc-processors)
+	* [**Calabash**](#calabash)
+		* [Installing Calabash](#installing-calabash)
+		* [Installing CoffeeSacks](#installing-coffeesacks)
+		* [Configuring Calabash](#configuring-calabash)
+		* [Creating an Alias for Calabash](#creating-an-alias-for-calabash)
+		* [Smoke Test for Calabash](#smoke-test-for-calabash)
+    	* [Running Calabash](#running-calabash)
+	* [**Morgana**](#morgana)
+		* [Installing Morgana](#installing-morgana)
+		* [Installing SchXslt2](#installing-schxslt2)
+		* [Installing CoffeeGrinder and CoffeeFilter](#installing-coffeegrinder-and-coffeefilter)
+        * [Modifying Morgana.sh](#modifying-morganash)
+		* [Configuring Morgana](#configuring-morgana)
+		* [Creating an Alias for Morgana](#creating-an-alias-for-morgana)
+		* [Smoke Test for Morgana](#smoke-test-for-morgana)
 * [**Completion**](#completion)
 
 *********************
 
 # Preliminary Installations & Suggestions
 
-On Windows, you will need to move between different shells to handle installations. You will get to know:
+## Windows Specifics
 
-* Windows Power Shell, Run in Administrator mode
+You will need to be familiar with two different shells for these installations:
 
-* Git Bash Shell (where you use git commands / interface with GitHub)
+* Windows PowerShell Admin mode (select *Run in Administrator*)
+* Git Bash Shell (to interface with GitHub)
 
-You will also need to: 
+You will also need to:
 
-* have a `.bashrc` file for storing aliases. An alias is a short word / phrase you can type in your shell to stand in for longer commands, and it will make it easy to run the programs we're installing.
+* Create a `.bashrc` file for storing aliases (similar to `.zshrc` on macOS)
+* Find and edit system PATH variables. Some of this can be done in Control Panel.
+* Know how to work with Windows filepaths. Windows filepaths can be typed in three different ways (and you may see all three ways in these instructions):
+	
+	* **Native Windows format**. This will be used for anything in the Program Files folder (note the capital drive letter followed by a colon, and the back slashes).
+		
+	```shell
+	C:\Program Files\...
+	```
+		  
+	* **Full filepaths**.
+		
+	```shell
+	/c/Users/USERNAME/Documents/GitHub/...
+	```
+		  
+	* **Abbreviated filepaths**.
+		
+	```shell
+	~/Documents/GitHub/...
+	```
 
-* find and edit your system PATH variables. Some of this can be done in your Control Panel.
+## Installing Chocolatey
 
-* **Know how to enter Windows FilePaths**: Windows filepaths can be entered in three different ways (and you may see all three ways in these instructions).
-    * **With the drive letter**, like this. *This is usually how we prefer to enter absolute Windows paths in the scripts below.*
-      ```shell
-      /c/Users/ebbon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar
-      ```
-    * You will also see Windows paths that look like this with the drive letter capitalized and the path separators as backslashes `\`. That is more native to the Windows command line how you see them in the Windows System Properties Environment Variables where you set your JAVA_HOME variable:
-      ```shell
-      C:\Program Files\OpenJDK\jdk-22.0.2\
-      ```
-    * **With a tilda** `~` to stand in for the drive letter and path to your home directory (the filepath you go to when you enter `cd ` ). This can be a convenient shorter way to write the paths. *Sometimes we have entered the path with this notation. It is fine, just note what the ~ means.*
-      ```shell
-      ~/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar
-      ```
-    * **If you see filepaths written out for these Windows instructions that do NOT start with either the `~` or the drive letter, they are incorrect!** (Let us know if you spot these and we will revise them! These simply cannot work because Windows will supply some extra folders at the start of the filepath, leading to incorrect paths.)
-      
+<img src="images/chocolatey.png" alt="chocolatey logo" width="500"/>
 
-### Installing Chocolatey
+Chocolatey is a package manager for Windows. It will help you install things quickly at command line. We'll use it for installing OpenJDK, but it's a great tool to have in your toolbag for other future installations. You can [view their website](https://chocolatey.org/install) for full instructions and other nerdy stuff.
 
-<img src="images/chocolatey.png" alt="Chocolatey logo" width="500"/>
+1. Open Windows PowerShell in administrator mode ("Run as Administrator").
+1. Run the following command:
 
-First, install the chocolatey package manager for Windows. This will help you to install packages at the command line.
+   ```shell
+   Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+   ```
+   
+1. Verify installation by installing [Marktext](https://marktext.me/), a popular free markdown editor which you will find very helpful for writing markdown:
 
-* Use your Windows PowerShell in "Run as Administrator" mode, and follow [Chocolatey's installation instructions](https://chocolatey.org/install)).
+	```shell
+	choco install marktext
+	```
 
-* You can quickly test out your new installation of Chocolatey by installing Marktext, popular free markdown editor for Windows (which I'm using to write up this guide). Try the command `choco install marktext` You should see the new software come up in your taskbar and you can try it out!
+## Installing JDK
 
-### Installing JDK
+The Java Development Kit (OpenJDK) java environment is required for some of the ixml and XProc tools.
 
-First, make sure you have developer (jdk) java installed:
+1. Open Windows PowerShell in administrator mode ("Run as Administrator").
+1. Check whether Java is installed:
 
-* To check if you have java, you can use your Git Bash shell to enter `which java` or `where java`(Those commands won't work in PowerShell, but all the shells will respond to `java -version` (which tells you if you have an old version or nothing at all.)
-  * Dr. B here: My version was Java 19 (from 2022) on my Lenovo laptop. For the invisible XML / XProc work we're doing here, I'm going ahead and installing the latest easily available OpenJDK developer version for Windows.
-* Most likely, you'll need to install OpenJDK java. We'll use chocolatey to install it. Open your PowerShell (running as Administrator) and enter:
+	```shell
+	java -version
+	```
+
+	* If Oracle Java is installed, uninstall it:
+	<https://www.java.com/en/download/help/uninstall_java.html>
+
+1. Install OpenJDK using Chocolatey:
 
 	```shell
 	choco install openjdk
 	```
 
-  (When doing all these shell installations be sure you read the responses and enter "Y" as needed to continue processes.)
+1. Open up the app called System Properties.
+1. Navigate to Advanced > Environment Variables... > JAVA_HOME
+1. Edit the `JAVA HOME` variable and paste the location where OpenJDK was installed (if you are unsure where this is, you can open a Git Bash shell, type `where java`, and copy that filepath).
+   * *Note: the path needs to be to the folder that's inside `OpenJDK`. It should look something like `C:\Program Files\OpenJDK\jdk-22.0.2\`.*
+   * *See the image below for this process:*
 
-* Now when you check your version of java:
-* 
+   ![](images/environment_variables-win.png)
+1. Restart your shell.
+1. Verify installation:
+
 	```shell
 	java -version
 	```
 
-	You should see the current JDK that you installed with chocolatey.
+## Installing Graphviz
 
-* Next we need to make sure the location of the JDK you installed is set in your system environment variables. In your Search bar, look for "System" or "Control Panel" (or Edit the System Environment Variables). Find the tab to edit the Environment Variables and look for JAVA_HOME. Click "Edit User Variable" and paste in the new filepath of your Java. (You can see that in Git Bash with `where java`) **NOTE** : For the Windows installations to work, we will need to the User Path to be set to the jdk folder that's inside OpenJDK, like so (depending on your version number): `C:\Program Files\OpenJDK\jdk-22.0.2\` . Your system should look something like this screen capture:
-  
-  ![](images/environment_variables-win.png)
-  
-### Suggestions
+Graphviz is required for CoffeePot and Calabash to render pipeline diagrams.
 
-* There are a lot of installations throughout this process. To keep them organized, *it is a good idea to place them all in your GitHub directory since you should be familiar with that directory at this point.*
+1. Test for Graphviz in a Git Bash Shell:
 
+	```shell
+	dot -V
+	```
+
+1. If missing, install it:
+
+	```shell
+	choco install graphviz
+	```
+
+ 1. Verify installation:
+
+	```shell
+	dot -V
+	```
+
+*********************
+
+## Suggestions
+
+* There are a lot of installations throughout this process. To keep them organized, *it is a good idea to place them all in your GitHub directory (inside your non-OneDrive synced Documents folder) since you should be familiar with that directory at this point.*
 * To make things simpler for yourself, use the same alias names that I use in this tutorial, so when we're working on this in class, there's no confusion if your alias has a different name than mine.
-
-* We also suggest you install 2 more helpful command line tools via Chocolatey:
-
-	```shell
- 	choco install bat
- 	```
+* To **"smoke test"** means to see if your installation is working without running an actual file (using supplied test files or methods). It is important you do these at the end of each installation to verify everything should work properly when you use your own files.
+* We also suggest you install 2 more helpful command-line tools via Chocolatey:
 
 	```shell
- 	choco install xmlstarlet
- 	``` 
+	chocolatey install bat
+	```
+
+	```shell
+	chocolatey install xmlstarlet
+	```
 
 *********************
 
