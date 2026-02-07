@@ -64,12 +64,16 @@
             <xsl:variable name="x" select="position() * 30 + ($rng?number * 30)"/>
             <xsl:variable name="y" select="$rng?next()?number * 800"/>
                   
-                  <circle cx="{$x}" cy="{$y}" r="6" fill="white" stroke="black"><animate attributeName="cy"
+                  <circle cx="{$x}" cy="{$y}" r="6" fill="white" stroke="black"><!--<animate attributeName="cy"
                           from="{$y}"
                           to="1000"
                           dur="10s"
                           begin="0s"
-                          repeatCount="indefinite"/></circle>
+                          repeatCount="indefinite"/>-->
+                  <!-- ebb: This <animate> element is creating the snowfall effect. It starts from your cy 
+                  (center y position of your circl), and then moves that center down the screen to 1000. 
+                  I commented it out to hold the circles in place at their original position. -->
+                  </circle>
                
                   
                   
@@ -81,6 +85,10 @@
                   <xsl:variable name="rng" select="random-number-generator(position())"/>
                   <xsl:variable name="x" select="position() * 50 + ($rng?number * 30)"/>
                   <xsl:variable name="y" select="$rng?next()?number * 400"/>
+                  <xsl:comment>
+                      What is $rng? <xsl:sequence select="$rng?number"/>
+                      What is $x? <xsl:sequence select="$y"/>
+                  </xsl:comment>
                   
                   <circle cx="{$x}" cy="{$y}" r="2" fill="white" stroke="yellow">
                       <animate attributeName="r" from="2" to="3" begin="0s" dur="2s" repeatCount="indefinite" fill="freeze"></animate>
