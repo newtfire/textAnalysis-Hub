@@ -1,9 +1,12 @@
 # Invisible XML (ixml) / XProc Installations (for Windows)
 
-This document is a detailed set of installation/configuration instructions for Windows users, developed from
-<http://dh.obdurodon.org/ixml-and-xproc-configuration.xhtml>.
+This document provides installation and configuration instructions for Windows users.
 
-This is related to a tutorial under development at <http://dh.obdurodon.org/ixml-and-xproc-lesson-plan.xhtml>. 
+These instructions are adapted from:
+<http://dh.obdurodon.org/ixml-and-xproc-configuration.xhtml>
+
+This setup supports a tutorial initially developed in Spring 2025:
+<http://dh.obdurodon.org/ixml-and-xproc-lesson-plan.xhtml>
 
 This is cool coffee art:
 
@@ -19,122 +22,335 @@ This is cool coffee art:
 # Table of Contents
 
 * [**Preliminary Installations & Suggestions**](#preliminary-installations--suggestions)
+  	* [Windows Specifics](#windows-specifics)
 	* [Installing Chocolatey](#installing-chocolatey)
 	* [Installing JDK](#installing-jdk)
+	* [Installing Graphviz](#installing-graphviz)
 	* [Suggestions](#suggestions)
-* [**XProc Processors**](#xproc-processors)
-	* [**Calabash**](#calabash)
-		* [Installing Calabash](#installing-calabash)
-		* [Graphviz](#graphviz)
-		* [CoffeeSacks](#coffeesacks)
-		* [Configuring Calabash](#configuring-calabash)
-		* [Creating an Alias for Calabash](#creating-an-alias-for-calabash)
-		* [Testing Calabash](#testing-calabash)
-	* [**Morgana**](#morgana)
-		* [Installing Morgana](#installing-morgana)
-		* [Installing SchXslt](#installing-schxslt)
-		* [Configuring Morgana](#configuring-morgana)
-		* [Creating an Alias for Morgana](#creating-an-alias-for-morgana)
-		* [Installing CoffeeFilter and CoffeeGrinder](#installing-coffeefilter-and-coffeegrinder)
-		* [More Morgana Configuration](#more-morgana-configuration)
-		* [Testing Morgana](#testing-morgana)
 * [**Invisible XML (ixml) Processors**](#invisible-xml-ixml-processors)
+	* [About the CoffeeTools](#about-the-coffeetools)
 	* [**CoffeePot**](#coffeepot)
 		* [Installing CoffeePot](#installing-coffeepot)
 		* [Creating an Alias for CoffeePot](#creating-an-alias-for-coffeepot)
 		* [Configuring CoffeePot](#configuring-coffeepot)
 		* [Smoke Test for CoffeePot](#smoke-test-for-coffeepot)
-		* [Running CoffeePot](#running-coffeepot)
+    	* [Running CoffeePot](#running-coffeepot)
 	* [**Markup Blitz**](#markup-blitz)
 		* [Installing Markup Blitz](#installing-markup-blitz)
 		* [Creating an Alias for Markup Blitz](#creating-an-alias-for-markup-blitz)
 		* [Smoke Test for Markup Blitz](#smoke-test-for-markup-blitz)
 		* [Running Markup Blitz](#running-markup-blitz)
+* [**XProc Processors**](#xproc-processors)
+	* [**Calabash**](#calabash)
+		* [Installing Calabash](#installing-calabash)
+		* [Configuring Calabash](#configuring-calabash)
+		* [Creating an Alias for Calabash](#creating-an-alias-for-calabash)
+		* [Smoke Test for Calabash](#smoke-test-for-calabash)
+    	* [Running Calabash](#running-calabash)
+	* [**Morgana**](#morgana)
+		* [Installing Morgana](#installing-morgana)
+		* [Installing SchXslt2](#installing-schxslt2)
+		* [Installing CoffeeGrinder and CoffeeFilter](#installing-coffeegrinder-and-coffeefilter)
+        * [Modifying Morgana.bat](#modifying-morganabat)
+		* [Configuring Morgana](#configuring-morgana)
+		* [Creating an Alias for Morgana](#creating-an-alias-for-morgana)
+		* [Smoke Test for Morgana](#smoke-test-for-morgana)
 * [**Completion**](#completion)
 
 *********************
 
 # Preliminary Installations & Suggestions
 
-On Windows, you will need to move between different shells to handle installations. You will get to know:
+## Windows Specifics
 
-* Windows Power Shell, Run in Administrator mode
+You will need to be familiar with two different shells for these installations:
 
-* Git Bash Shell (where you use git commands / interface with GitHub)
+* Windows PowerShell Admin mode (select *Run in Administrator*)
+* Git Bash Shell (to interface with GitHub)
 
-You will also need to: 
+You will also need to:
 
-* have a `.bashrc` file for storing aliases. An alias is a short word / phrase you can type in your shell to stand in for longer commands, and it will make it easy to run the programs we're installing.
+* Create a `.bashrc` file for storing aliases (similar to `.zshrc` on macOS)
+* Find and edit system PATH variables. Some of this can be done in Control Panel.
+* Know how to work with Windows filepaths. Windows filepaths can be typed in three different ways (and you may see all three ways in these instructions):
+	
+	* **Native Windows format**. This will be used for anything in the Program Files folder (note the capital drive letter followed by a colon, and the back slashes).
+		
+	```shell
+	C:\Program Files\...
+	```
+		  
+	* **Full filepaths**.
+		
+	```shell
+	/c/Users/USERNAME/Documents/GitHub/...
+	```
+		  
+	* **Abbreviated filepaths**.
+		
+	```shell
+	~/Documents/GitHub/...
+	```
 
-* find and edit your system PATH variables. Some of this can be done in your Control Panel.
+## Installing Chocolatey
 
-* **Know how to enter Windows FilePaths**: Windows filepaths can be entered in three different ways (and you may see all three ways in these instructions).
-    * **With the drive letter**, like this. *This is usually how we prefer to enter absolute Windows paths in the scripts below.*
-      ```shell
-      /c/Users/ebbon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar
-      ```
-    * You will also see Windows paths that look like this with the drive letter capitalized and the path separators as backslashes `\`. That is more native to the Windows command line how you see them in the Windows System Properties Environment Variables where you set your JAVA_HOME variable:
-      ```shell
-      C:\Program Files\OpenJDK\jdk-22.0.2\
-      ```
-    * **With a tilda** `~` to stand in for the drive letter and path to your home directory (the filepath you go to when you enter `cd ` ). This can be a convenient shorter way to write the paths. *Sometimes we have entered the path with this notation. It is fine, just note what the ~ means.*
-      ```shell
-      ~/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar
-      ```
-    * **If you see filepaths written out for these Windows instructions that do NOT start with either the `~` or the drive letter, they are incorrect!** (Let us know if you spot these and we will revise them! These simply cannot work because Windows will supply some extra folders at the start of the filepath, leading to incorrect paths.)
-      
+<img src="images/chocolatey.png" alt="chocolatey logo" width="500"/>
 
-### Installing Chocolatey
+Chocolatey is a package manager for Windows. It will help you install things quickly at command line. We'll use it for installing OpenJDK, but it's a great tool to have in your toolbag for other future installations. You can [view their website](https://chocolatey.org/install) for full instructions and other nerdy stuff.
 
-<img src="images/chocolatey.png" alt="Chocolatey logo" width="500"/>
+1. Open Windows PowerShell in administrator mode ("Run as Administrator").
+1. Run the following command:
 
-First, install the chocolatey package manager for Windows. This will help you to install packages at the command line.
+   ```shell
+   Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+   ```
+   
+1. Verify installation by installing [Marktext](https://marktext.me/), a popular free markdown editor which you will find very helpful for writing markdown:
 
-* Use your Windows PowerShell in "Run as Administrator" mode, and follow [Chocolatey's installation instructions](https://chocolatey.org/install)).
+	```shell
+	choco install marktext
+	```
 
-* You can quickly test out your new installation of Chocolatey by installing Marktext, popular free markdown editor for Windows (which I'm using to write up this guide). Try the command `choco install marktext` You should see the new software come up in your taskbar and you can try it out!
+## Installing JDK
 
-### Installing JDK
+The Java Development Kit (OpenJDK) java environment is required for some of the ixml and XProc tools.
 
-First, make sure you have developer (jdk) java installed:
+1. Open Windows PowerShell in administrator mode ("Run as Administrator").
+1. Check whether Java is installed:
 
-* To check if you have java, you can use your Git Bash shell to enter `which java` or `where java`(Those commands won't work in PowerShell, but all the shells will respond to `java -version` (which tells you if you have an old version or nothing at all.)
-  * Dr. B here: My version was Java 19 (from 2022) on my Lenovo laptop. For the invisible XML / XProc work we're doing here, I'm going ahead and installing the latest easily available OpenJDK developer version for Windows.
-* Most likely, you'll need to install OpenJDK java. We'll use chocolatey to install it. Open your PowerShell (running as Administrator) and enter:
+	```shell
+	java -version
+	```
+
+	* If Oracle Java is installed, uninstall it:
+	<https://www.java.com/en/download/help/uninstall_java.html>
+
+1. Install OpenJDK using Chocolatey:
 
 	```shell
 	choco install openjdk
 	```
 
-  (When doing all these shell installations be sure you read the responses and enter "Y" as needed to continue processes.)
+1. Open up the app called System Properties.
+1. Navigate to Advanced > Environment Variables... > JAVA_HOME
+1. Edit the `JAVA HOME` variable and paste the location where OpenJDK was installed (if you are unsure where this is, you can open a Git Bash shell, type `where java`, and copy that filepath).
+   * *Note: the path needs to be to the folder that's inside `OpenJDK`. It should look something like `C:\Program Files\OpenJDK\jdk-22.0.2\`.*
+   * *See the image below for this process:*
 
-* Now when you check your version of java:
-* 
+   ![](images/environment_variables-win.png)
+1. Restart your shell.
+1. Verify installation:
+
 	```shell
 	java -version
 	```
 
-	You should see the current JDK that you installed with chocolatey.
+## Installing Graphviz
 
-* Next we need to make sure the location of the JDK you installed is set in your system environment variables. In your Search bar, look for "System" or "Control Panel" (or Edit the System Environment Variables). Find the tab to edit the Environment Variables and look for JAVA_HOME. Click "Edit User Variable" and paste in the new filepath of your Java. (You can see that in Git Bash with `where java`) **NOTE** : For the Windows installations to work, we will need to the User Path to be set to the jdk folder that's inside OpenJDK, like so (depending on your version number): `C:\Program Files\OpenJDK\jdk-22.0.2\` . Your system should look something like this screen capture:
-  
-  ![](images/environment_variables-win.png)
-  
-### Suggestions
+Graphviz is required for CoffeePot and Calabash to render pipeline diagrams.
 
-* There are a lot of installations throughout this process. To keep them organized, *it is a good idea to place them all in your GitHub directory since you should be familiar with that directory at this point.*
-
-* To make things simpler for yourself, use the same alias names that I use in this tutorial, so when we're working on this in class, there's no confusion if your alias has a different name than mine.
-
-* We also suggest you install 2 more helpful command line tools via Chocolatey:
+1. Test for Graphviz in a Git Bash Shell:
 
 	```shell
- 	choco install bat
+	dot -V
+	```
+
+1. If missing, install it:
+
+	```shell
+	choco install graphviz
+	```
+
+ 1. Verify installation:
+
+	```shell
+	dot -V
+	```
+
+*********************
+
+## Suggestions
+
+* There are a lot of installations throughout this process. To keep them organized, *it is a good idea to place them all in your GitHub directory (inside your non-OneDrive synced Documents folder) since you should be familiar with that directory at this point.*
+* To make things simpler for yourself, use the same alias names that I use in this tutorial, so when we're working on this in class, there's no confusion if your alias has a different name than mine.
+* To **"smoke test"** means to see if your installation is working without running an actual file (using supplied test files or methods). It is important you do these at the end of each installation to verify everything should work properly when you use your own files.
+* We also suggest you install 2 more helpful command-line tools via Chocolatey:
+
+	```shell
+	chocolatey install bat
+	```
+
+	```shell
+	chocolatey install xmlstarlet
+	```
+
+*********************
+
+# Invisible XML (ixml) Processors
+
+## About the CoffeeTools
+
+Invisible XML processing in this course uses four tools developed by the NineML project:
+
+*  CoffeeGrinder (Earley and GLL parsers)
+*  CoffeeFilter (An Invisible XML parser)
+*  CoffeePot (An Invisible XML processor)
+*  CoffeeSacks (Saxon APIs for Invisible XML)
+
+Canonical documentation for all CoffeeTools:
+<https://nineml.org/>
+
+Latest releases for all Coffee tools:
+<https://codeberg.org/NineML/nineml/releases>
+
+## CoffeePot
+
+CoffeePot is a command-line ixml processor. It's good for simple grammars and small input files.
+
+### Installing CoffeePot
+
+1. Visit the NineML releases page:
+	<https://codeberg.org/NineML/nineml/releases>
+1. Download the CoffeePot ZIP file from the latest release.
+1. Unzip it into your GitHub directory.
+
+### Creating an Alias for CoffeePot
+
+1. Open your `.bashrc` file:
+
+	```shell
+	nano ~/.bashrc
+	```
+
+1. Add an alias pointing to the CoffeePot JAR **(replace `USERNAME` with your username and `VERSION` with the latest version of CoffeePot that you downloaded—the version in the unzipped directory name)**:
+
+	```shell
+	alias coffeepot='java -jar /c/Users/USERNAME/Documents/GitHub/coffeepot-VERSION/coffeepot-VERSION.jar'
+	```
+
+1. Save and reload your shell.
+
+### Configuring CoffeePot
+
+CoffeePot uses a `.nineml.properties` file in your home directory. This contains some helpful default settings when using CoffeePot such as "pretty-printing" your xml output.
+
+1. Create the file in your home directory:
+
+	```shell
+	nano ~/.nineml.properties
+	```
+
+1. Add configuration settings:
+
+	```shell
+	graphviz=/c/Program Files/Graphviz/bin/dot.exe
+	ignore-trailing-whitespace=true
+	pretty-print=true
+	progress-bar=tty
+	assert-valid-xml-characters=true
+	assert-valid-xml-names=true
+	ignore-bom=true
+	normalize-line-endings=true
+	trailing-newline-on-output=true
+	```
+
+### Smoke Test for CoffeePot
+
+1. Run the alias:
+
+	```shell
+	coffeepot
+	```
+
+1. You should see the usage message:
+
+	```
+ 	Usage: ... -g:input.ixml -o:output.xml (--help for more details)
  	```
 
+ 	*  Key piece of info missing from this message:
+  	 	Use: **`-i.filename.txt`** after `-g:input.ixml` to point to your input file.
+    *  *Think of `-g` as standing for "grammar", `-i` as "input file", `and `-o` as "output file".*
+
+### Running CoffeePot
+
+1. If you have some ixml and a text file to run it on, go ahead and try it!
+
+   	```shell
+	coffeepot -g:filename.ixml -i:filename.txt
+	```
+
+2. You can add a couple of things to this command for more fun:
+	*  **`--analyze-ambiguity`** *(so: `coffeepot -g:filename.ixml -i:filename.txt --analyze-ambiguity`)*
+	*  **`--graph:filename.svg`** *(so: `coffeepot -g:filename.ixml -i:filename.txt --graph.filename.svg`)* to get some SVG output.
+		* This is meant for small, simple things. CoffeePot won't be able to generate the SVG if it's going to be a large, complicated file.
+
+## Markup Blitz
+
+Markup Blitz is used for ixml processing with Morgana. Like CoffeePot, it can also be used at command line. It is better at handling more complex grammars and larger input files.
+
+### Installing Markup Blitz
+
+*This step will follow the official Markup Blitz instructions which can be found in their [GitHub repository](https://github.com/GuntherRademacher/markup-blitz).*
+
+1. Open Git Bash Shell.
+1. Clone the repository:
+
 	```shell
- 	choco install xmlstarlet
- 	``` 
+	git clone https://github.com/GuntherRademacher/markup-blitz.git
+	```
+
+1. Navigate to the cloned folder:
+
+	```shell
+	cd markup-blitz
+	```
+
+1. Build the JAR:
+
+	```shell
+	./gradlew clean jar
+	```
+
+1. The JAR will be in `build/libs/markup-blitz.jar`.
+
+### Creating an Alias for Markup Blitz
+
+1. Open your `.bashrc` file:
+
+	```shell
+	nano ~/.bashrc
+	```
+
+1. Add the alias **(replace `USERNAME` with your username)**:
+
+	```shell
+	alias blitz='java -jar /c/Users/USERNAME/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar'
+	```
+
+### Smoke Test for Markup Blitz
+
+1. Run:
+
+	```shell
+	blitz
+	```
+
+1. You should see the usage message:
+
+   	```shell
+	Usage: java -jar markup-blitz.jar [<OPTION>...] [<GRAMMAR>] <INPUT>
+	
+	. . . more stuff below . . .
+    ```
+
+### Running Markup Blitz
+
+1. To process an ixml grammar and input file:
+
+	```shell
+	blitz filename.ixml filename.txt
+	```
 
 *********************
 
@@ -142,410 +358,237 @@ First, make sure you have developer (jdk) java installed:
 
 ## Calabash
 
-This is an XProc processor that you can use with the ixml processor [**CoffeePot**](#coffeepot) that's good for simple grammars and input files that aren't super large.
+Calabash is an XProc 3.0 processor developed by the same people that made the CoffeeTools.
 
 ### Installing Calabash
-  
-* Get it from here: <https://github.com/xmlcalabash/xmlcalabash3/releases> and look for the **xmlcalabash zip file** in the latest release, after the release notes. The zip directory you need is the third one from the top (named something like this with the version number in the name): **xmlcalabash-3.0.0-alpha20.zip**
-* Unzip this and move it somewhere central where it's easy to work with. I set my unzipped xmlcalabash folder in my GitHub directory so it's near where I work on code.
-* Open your shell and navigate to your new xmlcalabash folder. For this to work we need to be able to use Java to execute the .jar file inside.
-       Test if your Java installation works. This 'help' shell command will show you all the different commands available **(ADAPT THIS LINE TO APPLY TO YOUR VERSION NUMBER AS NEEDED!)**:
-	
-	```shell
-	java -jar xmlcalabash-app-3.0.0-alpha20.jar help
-	```
-	
-	* NOTE: **The XML Calabash version number may have changed** since we drafted these instructions! Check the version number carefully as you adapt the following instructions, which will require you to enter a filepath to this xmlcalabash jar file.  
-  
-### Graphviz
 
-* **Test if you have graphviz** by entering this in your terminal: 
+1. Visit:
+	<https://codeberg.org/xmlcalabash/xmlcalabash3/releases>
+1. Download the latest release ZIP.
+1. Unzip it into your GitHub directory.
+1. Navigate to the directory **(replace `VERSION` with the latest version that you downloaded—the version in the unzipped directory name)**:
 
 	```shell
-	dot -V
+	cd ~/Documents/GitHub/xmlcalabash-VERSION
 	```
-	
-* You will probably need to install GraphViz, and you can do that with `choco install graphviz`.
 
-### CoffeeSacks
+1. Test **(replace `VERSION` with the latest version that you downloaded—the version in the unzipped directory name)**:
 
-*(This is needed for Calabash)*
-  
-  * Pick up CoffeeSacks from the versioned releases on the repo, here: https://github.com/nineml/coffeesacks/releases and find the latest one to download.
-  * Copy the **CoffeeSacks jar** file into your XML Calabash `extra/` subdirectory.
+	```shell
+	java -jar xmlcalabash-app-VERSION.jar help
+	```
 
 ### Configuring Calabash
 
-***Making the .xmlcalabash3 dot-file:***
- 
-* Navigate to your "home" directory (which is where you set up your .bash_profile file and establish your aliases and environment variables and such like). In this location we'll be storing a dot-file which will help Calabash to run.
-    * NOTE: We will NOT be using Saxon EE at all.
-    * We need to know where Chocolatey installed graphviz.
-    * Use the Git Bash shell and type `where dot` . Mine is given as `C:\Program Files\Graphviz\bin\dot.exe` You will need this path.
-* Back in your "home" directory, we will now make a new file. You can copy in this command in your Git Bash terminal (with that leading dot exactly like this). 
+1. Create the configuration file in your home directory:
 
 	```shell
-	nano .xmlcalabash3
+	nano ~/.xmlcalabash3
 	```
 
-This will create and open the new system file for editing.
-	
-* Here's what you'll need inside (copy/paste):
+1. Add:
 
-
-    * *You will need to edit the `@dot` attribute on the `<cc:graphviz>` element to point it to YOUR location for graphviz up to the dot.exe*
-  
-   ```shell
-      <cc:xml-calabash xmlns:cc="https://xmlcalabash.com/ns/configuration">
-         <cc:graphviz dot="C:\Program Files\Graphviz\bin\dot.exe"/>
-      </cc:xml-calabash>
-   ```
+	```xml
+	<cc:xml-calabash xmlns:cc="https://xmlcalabash.com/ns/configuration">
+	  <cc:graphviz dot="C:\Program Files\Graphviz\bin\dot.exe"/>
+	</cc:xml-calabash>
+	```
 
 ### Creating an Alias for Calabash
-This alias will execute a pretty long command, so you'll definitely want to use it instead of typing the whole command each time.
 
-* Open up your `.bashrc` in your Git Bash terminal:
-
-	```shell
-	nano .bashrc
-	```
-
-    * You need the filepath of where you installed Calabash (I put mine in my GitHub directory). You'll be pointing your script to the `xmlcalabash.sh` file inside.
-
-    * Here's what my calabash execution alias looks like in my `.bashrc` file, giving it the name "calabash"
+1. Open your `.bashrc` file:
 
 	```shell
-	alias calabash='~/Documents/GitHub/xmlcalabash-3.0.0-alpha20/xmlcalabash.sh --init:org.nineml.coffeesacks.RegisterCoffeeSacks'
+	nano ~/.bashrc
 	```
-	
-   * NOTE: If you're copying this line and just changing the username to match your own, make sure you also check that the name of the calabash directory is the same (version name) as yours.
 
-### Testing Calabash
-
-* To "smoke test" (or see if your installation is working) navigate to your xmlcalabash repo and enter this command: `calabash helloWorld.xpl`. If your installation was successful you should see the following:
+1. Add **(replace `USERNAME` with your username and `VERSION` with the latest version that you downloaded—the version in the unzipped directory name)**:
 
 	```shell
-	  === result :: 1 :: file:/C:/Users/ebbon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/helloWorld.xpl ===
-	<?xml version="1.0" encoding="windows-1252"?>
-	<helloWorld>This is XML Calabash version 3.0.0-alpha20.
-	Share and enjoy!</helloWorld>
-	=====================================================================================================
+	alias calabash='/c/Users/USERNAME/Documents/GitHub/xmlcalabash-VERSION/xmlcalabash.sh'
 	```
 
-* *For future reference*: As soon as we have our own XProc pipeline files (`.xpl`) ready to run, we'll be running with a command like this, using the alias you created: `calabash filename.xpl` ). And we can see some nifty graphviz sketches of our pipeline if we append this to the command (including the dot at the end: `--graphs:.` like so: `calabash filename.xpl --graphs:.`
+### Smoke Test for Calabash
 
+1. Navigate to your `xmlcalabash-VERSION` directory.
+1. Run:
+
+	```shell
+	calabash helloWorld.xpl
+	```
+
+ 1. You should see the following message:
+
+	```xml
+	This message is printed when the identity step runs.
+	It contains “😻” (U+201C, U+1F63B, U+201D) to test
+	the console encoding's ability to display Unicode.
+	<helloWorld>This is XML Calabash version *[3.0.37]*.
+	Share and enjoy!</helloWorld>%
+ 	```
+
+ ### Running Calabash
+
+ 1. When you have an XProc pipeline file (`.xpl`) ready to run:
+
+	```shell
+ 	calabash filename.xpl
+ 	```
+
+ 2. To see some nifty Graphviz sketches of your pipeline, add `--graphs:.` to the command:
+
+    ```shell
+ 	calabash filename.xpl --graphs:.
+ 	```
+
+*********************
 
 ## Morgana
 
-This is an XProc processor that you can use with more complex ixml contexts and for processing lots of input. It works with the ixml processor [**Markup Blitz**](#markup-blitz).
+Morgana is an XProc processor for complex pipelines. It works well with [Markup Blitz](#markup-blitz).
+
+Official documentation: <https://www.xml-project.com/manual/index.html>
 
 ### Installing Morgana
 
-* Official documentation: <https://www.xml-project.com/manual/index.html>
-* Download MorganaXProc-IIIse from [Sourceforge](https://sourceforge.net/projects/morganaxproc-iiise/) and unzip the folder.
-     * Unzip the folder and extract it to your GitHub folder (so it's near your projects). 
+1. Download MorganaXProc-IIIse from:
+	<https://sourceforge.net/projects/morganaxproc-iiise/>
+1. Unzip it into your GitHub directory.
 
-### Installing SchXslt
+### Installing SchXslt2
 
-* Now we're going to install [SchXslt](https://git.sr.ht/~dmaus/schxslt2/refs) (which is pronounced "Shicksilt" ... be careful with that one!) This is an XSLT-based Schematron processor that can handle Schematron validation.
-     * Find the latest version, and download the .zip file. **Double check your release number (it may not match ours)**: (As of 17 February 2025, the current SchXslt2 release is https://git.sr.ht/~dmaus/schxslt2/refs/v1.3.4)
-     * Unzip the file into your GitHub directory.
+SchXslt2 (pronounced "Shicksilt" ... be careful with that one!) is an XSLT-based Schematron processor that can handle Schematron validation.
 
+1. Visit the SchXslt2 releases page:
+	<https://codeberg.org/SchXslt/schxslt2/releases>
+1. Download the ZIP directory from the latest release.
+1. Unzip it into your GitHub directory.
 
-### Configuring Morgana
+### Installing CoffeeGrinder and CoffeeFilter
 
-* Let's navigate to your "home" directory (where your `.bashrc` lives), and we'll set up a `morgana-config.xml` configuration file there. For this configuration, you're going to need to have some inforamtion ready:
-    * You'll need the path to the SchXSLT transpile.xsl file: You'll find that in the main directory of the schxslt directory you just saved. (Mine is here: `/c/Users/ebbon/Documents/GitHub/schxslt2-v1.3.4`
-    * You'll need the path to a Saxon processor that can run XSLT and XQuery and such. You have this already if you installed Calabash: Saxon-HE comes in its library or "lib" folder: 
-    Find/copy the path to the Saxon_HE jar file in your xml-calabash lib. (Here's mine:  `/c/Users/ebbon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar`)
-  * We presume you're going to be installing [Markup Blitz](#markup-blitz) for your ixml processor (so our configuration settings for Morgana will be set to Markup Blitz).
+Calabash (being created by NineML's developers) comes with the JAR files for CoffeeGrinder and CoffeeFilter. In order to use CoffeeTools with Morgana, we can download and point to them separately.
 
-* In your "home" directory, make and open the configuration file:
+1. Download CoffeeGrinder and CoffeeFilter from:
+	<https://codeberg.org/NineML/nineml/releases>
+1. Unzip both into your GitHub directory.
 
-	```shell
-	nano morgana-config.xml
-	```
-	
-* Paste in the following:    
+### Modifying Morgana.bat
 
-    ```shell
-    <morgana-config xmlns="http://www.xml-project.com/morganaxproc">
-	<!-- Relative paths are resolved by uri of this file -->
-	
-	    <path_to_SchXSLT2_transpiler>/c/Users/ebbon/Documents/GitHub/schxslt2-v1.3.4/transpile.xsl</path_to_SchXSLT2_transpiler>
-		
-	    <XSLTValidationMode>LAX</XSLTValidationMode>
-	
-	    <xslt-connector>Saxon12-3</xslt-connector>
-	    <xquery-connector>Saxon12-3</xquery-connector>
-	    <schematron-connector>schxslt2</schematron-connector>
+Now, we need to make sure Morgana’s executable script (`Morgana.bat`) can locate the external JAR files required for ixml processing, including CoffeeGrinder, CoffeeFilter, and Markup Blitz.
 
-          <silent>true</silent>
-    
-	<!--
-	<fo-connector>com.xml_project.morganaxproc3.fop2x.ApacheFOP2xConnector</fo-connector>
-	<fo-connector>com.xml_project.fosupport.AHFormatterV65.AHF65Connector</fo-connector>
-	-->
-	
-	<!-- <ixml-connector>com.xml_project.morganaxproc3.ninemlConnector.NineMLConnector</ixml-connector> -->`
-	<ixml-connector>com.xml_project.morganaxproc3.markupblitzConnector.MarkupBlitzConnector</ixml-connector>
-
-	<!--
-	<mediatype-mapping>
-		<map file-extension="123" media-type="application/xml" />
-	</mediatype-mapping>
-	-->
-    </morgana-config>
-    ```
-
-* **Adapt** these parts of the file:  
-     * Change the `<path_to_SchXSLT2_transpiler>` element contents to your path to the transpile.xsl file in schxslt directory. **CHECK the schxslt version number** as this may have changed since we drafted this instructions!
-     * Change the `<xslt-config>` element contents to your path to Saxon-HE. **Notice that this is in your xmlcalabash directory** that you set up earlier!
-     * One more thing: notice the contents of the `<ixml-connector>` element. That's not a filepath, but it is an indicator of which ixml processor you're using. Our active setting in the code below is for Markup Blitz, but you can set this to CoffeePot instead. (We think you can set it to CoffeePot by using the NineMLConnector version that is commented out above it, but we should check the documentation to be sure).
-
-### Creating an Alias for Morgana
-
-Okay, now it's time to make an alias for Morgana!
-
-* Open up your `.bashrc` :
+1. Navigate in your shell to the directory where you unzipped Morgana **(replace `VERSION` with the version in the directory name)**:
 
 	```shell
-	nano .bashrc
+	cd ~/Documents/GitHub/MorganaXProc-IIIse-VERSION
 	```
 
-* My morgana alias looks like this:
-
-    ```shell
-    alias morgana='~/Documents/GitHub/MorganaXProc-IIIse-1.5/Morgana.bat -config=C:/Users/eebon/morgana-config.xml'
-    ```
-    **Double check the version number on your Morgana directory**: Yours may not match mine if there's been an update since I last posted these instructions!
-
-  * You will need to **adapt** my sample alias to represent the locations of: 
-     * Your Morgana.sh file in the Morgana directory (mine is in my "GitHub" folder). 
-     * Your morgana-config.xml file (in your "home").
-
-### Installing CoffeeFilter and CoffeeGrinder
-
-***Time for some coffee!***
-
-* Download and install CoffeeFilter and CoffeeGrinder from <https://github.com/nineml>. (As usual I'm setting coffee stuff in my GitHub folder.)
-    * Download [the most recent CoffeeFilter](https://github.com/nineml/coffeefilter/releases), unzip it into your GitHub folder.
-    * Download [the most recent CoffeeGrinder](https://github.com/nineml/coffeegrinder/releases), unzip it into your GitHub folder.
-
-### More Morgana Configuration
-
-**Modifying Morgana.bat**
-
-Now we need to make sure Morgana's Windows batch executable script (the Morgana.bat file) can find its way to the CoffeeGrinder and CoffeeFilter jar files you just unpacked.
-
-* Navigate to your Morgana directory (where you unzipped the "MorganaXProc-IIIse-1.4.10" folder) and open the `Morgana.bat` file:
+1. Open `Morgana.bat` for editing:
 
 	```shell
 	nano Morgana.bat
 	```
-  
-* **You'll need to add and adjust the lines marked `REM Local customization`** to identify the location of Saxon-HE (we'll use the one in Calabash library), the CoffeeGrinder and CoffeeFilter .jar files, and finally the location of the Markup Blitz .jar file (after you install [Markup Blitz](#markup-blitz)).
+ 
+1. This should be the first line:
+
+   ```shell
+   #CURRENT_SCRIPT="$(readlink -f "$0")"  #resolves symlinks on unix based systems (Does not work on BSD systems like MacOS)
+   ```
+   
+1. Locate the section marked `REM Local customization`.
+
+	Add and adjust the following lines **(replace `USERNAME` with your username and `VERSION` with the version numbers in the unzipped directory names)**:
 
 	```shell
-	REM Local customization
-	set SAXON_JAR="/c/Users/ebbon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar"
-	set COFFEEGRINDER_JAR="/c/Users/ebbon/Documents/GitHub/coffeegrinder-3.2.7/CoffeeGrinder-3.2.7.jar"
-	set COFFEEFILTER_JAR="/c/Users/ebbon/Documents/GitHub/coffeefilter-3.2.7/CoffeeFilter-3.2.7.jar"
-	set BLITZ_JAR="/c/Users/ebbon/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar"
-	```
-	
-	* NOTE: the line noting the `markup-blitz.jar` file is assuming you install it in your GitHub folder. If you do this step first, make sure you know where you are going to install Markup Blitz. If you're unsure, **make sure you come back to this step and confirm the filepath is correct.**
-
-* **Edit the `CLASSPATH`** near the end of the file: Basically you need to add all the local customization variables here, and it will be kind of like pouring Markup Blitz through a coffee grinder, into a coffee filter, and then through some saxon into a morgana mug. :-) Here's how the CLASSPATH should be edited, and you just need to make sure that each of these variables has been defined in order for Morgana to run.
-
-	```
-	set CLASSPATH="%BLITZ_JAR%;%COFFEEGRINDER_JAR%;%COFFEEFILTER_JAR%;%SAXON_JAR%;%LIB_PATH%;%PROG_PATH%"
+	#REM Local customization
+	set SAXON_JAR=/c/Users/USERNAME/Documents/GitHub/xmlcalabash-VERSION/lib/Saxon-HE-VERSION.jar
+	set COFFEEGRINDER_JAR=/c/Users/USERNAME/Documents/GitHub/coffeegrinder-VERSION/CoffeeGrinder-VERSION.jar
+	set COFFEEFILTER_JAR=/c/Users/USERNAME/Documents/GitHub/coffeefilter-VERSION/CoffeeFilter-VERSION.jar
+	set BLITZ_JAR=/c/Users/USERNAME/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar
 	```
 
-* Here is what my `Morgana.bat` looks like after I've located (and installed) everything:
+	*NOTE: The `markup-blitz.jar` path assumes you installed Markup Blitz in your GitHub directory following the earlier instructions. If you installed it elsewhere, adjust the path accordingly.*
+
+1. Near the end of the file, locate the `CLASSPATH` definition.
+
+	Edit it so that it includes all of the local customization variables. It should look like this:
 
 	```shell
-	@echo off
-	setlocal
-	
-	set MORGANADIR=%~dp0
-	
-	REM All related jars are expected to be in $MORGANA_LIB. For externals jars: Add them to $CLASSPATH
-	set PROG_PATH="%MORGANADIR%MorganaXProc-IIIse.jar"
-	set LIB_PATH="%MORGANADIR%MorganaXProc-IIIse_lib/*"
-	
-	REM Local customization
-	set SAXON_JAR="/c/Users/ebbon/Documents/GitHub/xmlcalabash-3.0.0-alpha20/lib/Saxon-HE-12.5.jar"
-	set COFFEEGRINDER_JAR="/c/Users/ebbon/Documents/GitHub/coffeegrinder-3.2.7/CoffeeGrinder-3.2.7.jar"
-	set COFFEEFILTER_JAR="/c/Users/ebbon/Documents/GitHub/coffeefilter-3.2.7/CoffeeFilter-3.2.7.jar"
-	set BLITZ_JAR="/c/Users/ebbon/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar"
-	
-	
-	set CLASSPATH="%BLITZ_JAR%;%COFFEEGRINDER_JAR%;%COFFEEFILTER_JAR%;%SAXON_JAR%;%LIB_PATH%;%PROG_PATH%"
-	
-	REM Settings for JAVA_AGENT: Only for Java 8 we have to use -javaagent.
-	@for /f tokens^=2-5^ delims^=.-_^" %%j in ('java -fullversion 2^>^&1') do set "JAVA_VERSION=%%j%%k"
-	
-	set JAVA_AGENT=
-	if %JAVA_VERSION% EQU 18 (set JAVA_AGENT="-javaagent:%MORGANADIR%MorganaXProc-IIIse_lib/quasar-core-0.7.9.jar")
-	
-	java %JAVA_AGENT% -cp %CLASSPATH% com.xml_project.morganaxproc3.XProcEngine %*
-	
+	set CLASSPATH=$MORGANA_LIB:$MORGANA_HOME/MorganaXProc-IIIse.jar:$BLITZ_JAR:$COFFEEGRINDER_JAR:$COFFEEFILTER_JAR:$SAXON_JAR
 	```
 
-### Testing Morgana
+	Basically, this pours Markup Blitz through a coffee grinder, into a coffee filter, and then through some Saxon, all before landing in a Morgana mug.
 
-* To "smoke test" Morgana to see if it is properly installed, navigate to your Morgana repo and enter `morgana pipeline.xpl`. If your installation was successful, you will see the following:
+1. Save the file and exit the editor.
+
+Morgana is now configured to use Markup Blitz (or the CoffeeTools) for ixml processing.
+
+### Configuring Morgana
+
+1. Create the configuration file in your home directory:
 
 	```shell
-	$ morgana pipeline.xpl
+	nano ~/morgana-config.xml
+	```
+
+1. Add **(replace `USERNAME` with your username and `VERSION` with the latest version that you downloaded—the version in the unzipped directory name)**:
+
+	```xml
+	<morgana-config xmlns="http://www.xml-project.com/morganaxproc">
+	<!-- Relative paths are resolved by uri of this file -->
+ 
+		 <path_to_SchXSLT2_transpiler>/c/Users/USERNAME/Documents/GitHub/schxslt2-VERSION/transpile.xsl</path_to_SchXSLT2_transpiler>
+
+ 		 <XSLTValidationMode>LAX</XSLTValidationMode>
+ 		 <silent>true</silent>
+ 
+		 <xslt-connector>Saxon12-3</xslt-connector>
+ 		 <xquery-connector>Saxon12-3</xquery-connector>
+		 <schematron-connector>schxslt2</schematron-connector>
+
+ 		 <!-- Switch between these for Coffee or Markup Blitz)
+ 		 <!-- <ixml-connector>com.xml_project.morganaxproc3.ninemlConnector.NineMLConnector</ixml-connector> -->
+		 <ixml-connector>com.xml_project.morganaxproc3.markupblitzConnector.MarkupBlitzConnector</ixml-connector>
+	</morgana-config>
+	```
+
+### Creating an Alias for Morgana
+
+1. Open your `.bashrc` file:
+
+	```shell
+	nano ~/.bashrc
+	```
+ 
+1. Add **(replace `USERNAME` with your username and `VERSION` with the latest version that you downloaded—the version in the unzipped directory name)**:
+
+	```shell
+	alias morgana='/c/Users/USERNAME/Documents/GitHub/MorganaXProc-IIIse-VERSION/Morgana.sh -config=/c/Users/USERNAME/morgana-config.xml'
+	```
+
+### Smoke Test for Morgana
+
+1. Navigate to your `MorganaXProc-IIIse-VERSION` directory.
+1. Run:
+
+	```shell
+	morgana pipeline.xpl
+	```
+
+ 1. You should see the following message:
+
+	```shell
 	Hello world. This is an XProc 3.0 pipeline running.
 	```
 
 *********************
 
-# Invisible XML (ixml) Processors
-
-## CoffeePot
-
-...to be used with the XProc processor [**Calabash**](#calabash).
-You may think you installed this already, but that was "CoffeeSacks" (made by the same NineML developers) which we needed for Calabash to run, and we'll see a running theme on "coffee" related installations in our XProc and ixml setup. :-) 
-
-### Installing CoffeePot
-
-* Here's the [CoffeePot](https://github.com/nineml/coffeepot) repo, and here's where to [download the latest release](https://github.com/nineml/coffeepot/releases).
-    * Surprise: I'm storing CoffeePot in my GitHub directory along with everything else from this tutorial :)
-
-### Creating an Alias for CoffeePot
-
-* We need to **create an alias for the coffeepot .jar file** in your `.bashrc` file. 
-
-* Open up your `.bashrc` :
-
-	```shell
-	nano .bashrc
-	```
-
-* Create an alias:
-
-	```shell
-	alias coffeepot='java -jar /c/Users/ebbon/Documents/GitHub/coffeepot-3.2.7/coffeepot-3.2.7.jar'
-	```
-
-    * Note the filepath that leads to the coffeepot jar (use `pwd` to help) and your alias might look something like mine (make sure yours applies the version number that you downloaded)
-
-### Configuring CoffeePot
-
-* To do things with CoffeePot, we need to create a system dot-file named `.nineml.properties` in the same "home" location as your `bashrc`. This contains some default settings for pretty-printing your output XML and your graphviz visualizations. You'll need to note (again) where your GraphViz bin/dot is located, and you've entered that already in your `.xmlcalabash3` file, so use the same filepath location here.
-
-* In your "home" directory, make and open the dot-file:
-
-	```shell
-	nano .nineml.properties
-	```
-
-* **Adapt** the following (using your own filepath to graphviz that you copied from `.xmlcalabash3`):
-
-    * Code:
-  
-   	    ```shell
-	    graphviz=/c/Program\ Files/Graphviz/bin/dot.exe
-	    ignore-trailing-whitespace=true
-	    pretty-print=true
-	    progress-bar=tty
-	    assert-valid-xml-characters=true
-	    assert-valid-xml-names=true
-	    ignore-bom=true
-	    normalize-line-endings=true
-	    trailing-newline-on-output=true
-	    ```
-
-  * If you ever need to adjust these settings or find out more, here's [the CoffeePot documentation](https://docs.nineml.org/current/coffeepot/bk02ch07.html).
-
-### Smoke Test for CoffeePot
-
-Open a shell anywhere and run `coffeepot` to test your alias. If all is well, you should see this single line appear in your shell:
-
-```
-Usage: ... -g:input.ixml -o:output.xml (--help for more details)
-```
-      
-### Running CoffeePot 
-* Run CoffeePot over an ixml grammar and a .txt file like this, using your alias: (Think of "g" as standing for "grammar" and "i" as "input file")
-
-	```shell
-	coffeepot -g:filename.ixml -i:filename.txt
-	``` 
-
-* You can add a couple of things to this command to check for ambiguities in the ixml, and to visualize the output:
-    * Try adding `--analyze-ambiguity` like so: `coffeepot -g:filename.ixml -i:filename.txt --analyze-ambiguity`
-    * Try adding `--graph:filename.svg` to get some SVG output, like so: `coffeepot -g:filename.ixml -i:filename.txt --graph:filename.svg`
-        * NOTE: The SVG option is meant for simple/small things. CoffeePot won't be able to generate the SVG if it's going to be a large and complicated file. 
-
-## Markup Blitz
-
-To be used with the XProc processor [**Morgana**](#morgana). Up to this point, we have been unpacking a lot of jar (java archive) files. This time, we're actually going to *build* the jar for Markup Blitz in order to install it. 
-
-### Installing Markup Blitz
-
-* For this, we'll follow the [official Markup Blitz instructions (on the README)](https://github.com/GuntherRademacher/markup-blitz).
-* Begin by cloning the markup-blitz repo in your GitHub directory:
-
-	```shell
-	git clone https://github.com/GuntherRademacher/markup-blitz.git
-	```
-	
-* Navigate to the new directory you just cloned:
-
-	```shell
-	cd markup-blitz
-	```
-	
-Working in our Git Bash shell on Windows, this line works to build our jar:
-
-```shell
- 	./gradlew clean jar
-```
-	
-* When Gradle finishes building, you'll be returned to the command prompt. Check for the new jar, which you should now find in the repo in `build/libs/markup-blitz.jar`.
-
-### Creating an Alias for Markup Blitz
-
-* Finally, go to "home" to your `.bashrc` and open it with
-
-	```shell
-	nano .bashrc
-	```
-
-* Make an alias for running your new markup-blitz.jar file. I called my alias "blitz" and my alias definition looks like this:
-
-  ```shell
-  alias blitz='java -jar /c/Users/ebbon/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar'
-  ```
-
-### Smoke Test for Markup Blitz
-
-Open a shell anywhere and run `blitz` to test your alias. You should see a screen about compiling Invisible XML commands that starts like this:
-
-```
-Usage: java -jar markup-blitz.jar [<OPTION>...] [<GRAMMAR>] <INPUT>
-
-. . . more stuff below . . .
-```
-
-### Running Markup Blitz
-
-* To run Markup Blitz to process an ixml grammar and an input .txt file, use your new alias like this:
-
-  ```shell
-  blitz filename.ixml filename.txt
-  ```
-
-********************
-
 # Completion
 
-When you have finished all these installations, congratulations! You have everything you need (with Coffee Pot and Markup Blitz) to apply invisible xml to convert text files to xml according to your grammar definition. And you have everything you need (with Calabash and Morgana) to set that ixml conversion into a processing pipeline that can apply XSLT, XQuery, and Schematron to the XML that you create with ixml! 
+Congratulations! You have everything you need to:
+*  Convert text files to XML according to your ixml grammar definition, AND
+*  Set that ixml conversion into a processing pipeline that can also apply XSLT, XQuery, and Schematron to the XML that you create with ixml!
+
+Have fun pouring text through grammars, filters, grinders, and pipelines!
 
                       .
                         `:.
@@ -561,9 +604,8 @@ When you have finished all these installations, congratulations! You have everyt
     : ,'"`::.:.:.:.:.:.:.:.:.:.:.::'
     `.`.  `:-===-===-===-===-===-:'
       `.`-._:                   :
-        `-.__`.               ,' met.
+        `-.__`.               ,'
     ,--------`"`-------------'--------.
      `"--.__                   __.--"'
             `""-------------""'
 *ASCII art credits: <https://ascii.co.uk/art/cup>*
-
