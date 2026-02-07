@@ -64,6 +64,15 @@
             <xsl:variable name="x" select="position() * 30 + ($rng?number * 30)"/>
             <xsl:variable name="y" select="$rng?next()?number * 800"/>
                   
+                  <!-- ebb: Your application of random-number-generator() is pretty cool here. I don't know if I'd use
+                  it to really understand a total count of something, but here's what's happening:
+                  
+                  You're using random-number-generator() to plot positions at x and y randomly on the screen, 
+                  and I see your total number of circles represents the number of times Momo talks. 
+                  (That's a nifty, unusual visualization!) It basically means that you're plotting a set quantity of small circles
+                  (it's hard to count them all because every single speech by Momo makes a little circle.) And same thing for Ken. 
+                  -->
+                  
                   <circle cx="{$x}" cy="{$y}" r="6" fill="white" stroke="black"><!--<animate attributeName="cy"
                           from="{$y}"
                           to="1000"
@@ -74,9 +83,6 @@
                   (center y position of your circl), and then moves that center down the screen to 1000. 
                   I commented it out to hold the circles in place at their original position. -->
                   </circle>
-               
-                  
-                  
                   
               </xsl:for-each>
                
