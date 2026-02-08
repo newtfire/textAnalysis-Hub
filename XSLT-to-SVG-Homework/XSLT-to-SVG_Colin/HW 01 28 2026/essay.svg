@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xhtml="http://www.w3.org/1999/xhtml"
+     width="100%">
+   <desc>SVG created from </desc>
+   <g>
+      <rect width="100%" height="100%" fill="pink"/>
+      <text x="180" y="515" fill="blue" font-size="14">Essay.html to Bar Graph</text>
+      <text x="350" y="300" font-size="25">X</text>
+      <text x="200" y="100" font-size="25">Y</text>
+      <text x="200" y="275" font-size="18">(0,0)</text>
+      <text x="300" y="25" font-size="18">Types of Words Said in my Essay in DIGIT 100</text>
+   </g>
+   <text x="300" y="275" fill="black" font-size="17">The</text>
+   <text x="400" y="275" fill="black" font-size="17">This</text>
+   <rect width="50" height="180" x="290" y="70" fill="green"/>
+   <rect width="50" height="40" x="390" y="210" fill="yellow"/>
+   <line x1="0"
+         y1="250"
+         x2="500"
+         y2="250"
+         stroke="black"
+         stroke-width="4"/>
+   <line x1="250"
+         y1="0"
+         x2="250"
+         y2="500"
+         stroke="black"
+         stroke-width="4"/>
+</svg>
