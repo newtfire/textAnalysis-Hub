@@ -33,18 +33,17 @@
             
             <xsl:for-each select="descendant::blob">
                 
-                <xsl:variable name="count" select="count(descendant::special[@whatsIt='magicEgg'])"/>
-                
                 <!-- We'll process the blob elements in here and output a shape 
                     for each one -->
                 <circle cx="{$x-spacer * position()}"
                     cy="{-250}" 
-                    r="{$count * $y-spacer}"
-                    fill="rgb(0, {$count* 50}, {$count})"
+                    r="{count(descendant::special[@whatsIt='magicEgg']) * $y-spacer}"
+                    fill="rgb({count(descendant::special[@whatsIt='magicEgg'])* 50}, {count(descendant::special[@whatsIt='magicEgg'])* 50}, 0)"
                     stroke="black"
                     stroke-width="2"
                 />
                 
+ 
             </xsl:for-each>
            </g>
         </svg>  
