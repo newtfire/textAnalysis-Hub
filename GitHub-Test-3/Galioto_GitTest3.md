@@ -1,18 +1,18 @@
 # GitHub Test 3 - Markdown Practice
 
-# Things I practiced
-- Creating and switching between branches
+Things I did for my test:
+- Create and switch between branches
 - Writing markdown
-- Opening a pull request
+- Making a pull request
 
-# Example Code
-
-```xml
+XML code example:
+```
 <note>
-<to> Class </to>
-<from> Ella </from>
-<message> Hello GitHub! </message>
+  <to>Class</to>
+  <from>Ben</from>
+  <message>Hello GitHub!</message>
 </note>
+```
 
 
 
