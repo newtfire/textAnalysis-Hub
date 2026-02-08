@@ -24,7 +24,7 @@
                 <xsl:variable name="scale" select="40"/>
                 
                 <g>
-                    <circle cx="150" cy="-120" r="50" fill="#00CED1" stroke="#008B8B" stroke-width="3"> 
+                    <circle cx="150" cy="-120" r="50" fill="rgb(0,255,140)" stroke="orange" stroke-width="3"> 
                         <animateMotion path="M3,4 q75,175 120,-4 q80,-40 200,30" begin="0s" dur="10" repeatCount="indefinite" /></circle>
                     <text x="150" y="{-($totalBlobs * $scale) - 65}" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold">
                         <xsl:value-of select="$totalBlobs"/>
@@ -33,7 +33,7 @@
                 </g>
                 
                 <g>
-                    <circle cx="350" cy="-140" r="50" fill="#FFD700" stroke="#DAA520" stroke-width="3">
+                    <circle cx="350" cy="-140" r="50" fill="rgb(90,181,250)" stroke="rgb(150,81,196)" stroke-width="3">
                         <animateMotion path="M0,0 q60,100 100,0 q60,-20 100,0" begin="0s" dur="10s" repeatCount="indefinite" /></circle>
                     <text x="350" y="{-($totalEggs * $scale) - 65}" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold">
                         <xsl:value-of select="$totalEggs"/>
@@ -42,14 +42,25 @@
                 </g>
                 
                 <g>
-                    <circle cx="550" cy="-150" r="50" fill="#9370DB" stroke="#4B0082" stroke-width="3">
+                    <circle cx="550" cy="-150" r="50" fill="rgb(250,170,90)" stroke="red" stroke-width="3">
                         <animateMotion path="M1,1 q65,100 110,2 q70,-35 150,2" begin="0s" dur="10s" repeatCount="indefinite" /></circle>
                     <text x="550" y="{-($totalOthers * $scale) - 65}" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold">
                         <xsl:value-of select="$totalOthers"/>
                     </text>
                     <text x="550" y="50" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold">Other Tags</text>
                 </g>
-                
-            </g> </svg>
+            
+                <g transform="translate(90, -100)"> <line x1="0" y1="0" x2="0" y2="100" stroke="green" stroke-width="4" />
+                    <g>
+                    <circle cx="0" cy="-20" r="15" fill="pink" opacity="0.8" />
+                    <circle cx="0" cy="20" r="15" fill="pink" opacity="0.8" />
+                    <circle cx="-20" cy="0" r="15" fill="pink" opacity="0.8" />
+                    <circle cx="20" cy="0" r="15" fill="pink" opacity="0.8" />
+                        <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 0 0" to="360 0 0" dur="3s" repeatCount="indefinite" /></g>
+                    <circle cx="0" cy="0" r="10" fill="yellow" stroke="orange" stroke-width="2" />
+                    
+                </g>
+                </g>
+             </svg>
     </xsl:template>
 </xsl:stylesheet>
