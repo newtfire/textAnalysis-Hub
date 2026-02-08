@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="400">
+   <rect x="0" y="0" width="500" height="400" fill="#f5f5f5"/>
+   <text x="250"
+         y="30"
+         text-anchor="middle"
+         font-size="20"
+         fill="black">
+                Monthly Sales
+            </text>
+   <rect x="90" y="230" width="50" height="120" fill="steelblue"/>
+   <text x="115" y="370" text-anchor="middle" font-size="12">Jan</text>
+   <rect x="180" y="150" width="50" height="200" fill="steelblue"/>
+   <text x="205" y="370" text-anchor="middle" font-size="12">Feb</text>
+   <rect x="270" y="200" width="50" height="150" fill="steelblue"/>
+   <text x="295" y="370" text-anchor="middle" font-size="12">Mar</text>
+   <rect x="360" y="260" width="50" height="90" fill="steelblue"/>
+   <text x="385" y="370" text-anchor="middle" font-size="12">Apr</text>
+</svg>
