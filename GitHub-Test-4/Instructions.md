@@ -11,4 +11,4 @@ To proceed with completing this portion of the test:
 Your file should be one of your XML or XSLT homework files from DIGIT 210 so far, it should contain some lines of code and comments that are yours (not mine).
 
 1. Push your branch to the remote repo and issue a new pull request asking someone from the class to merge your branch into the main branch.
-You are finished for now. **Do NOT merge anyone's pull request yet!**  Post a link to your pull request on Canvas to complete this stage. 
+You are finished for now. **Do NOT merge anyone's pull request yet!**  Post the URL of your pull request on Canvas to complete this stage. 
