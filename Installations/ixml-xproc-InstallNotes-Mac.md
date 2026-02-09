@@ -42,7 +42,6 @@ This is cool coffee art:
 * [**XProc Processors**](#xproc-processors)
 	* [**Calabash**](#calabash)
 		* [Installing Calabash](#installing-calabash)
-		* [Installing CoffeeSacks](#installing-coffeesacks)
 		* [Configuring Calabash](#configuring-calabash)
 		* [Creating an Alias for Calabash](#creating-an-alias-for-calabash)
 		* [Smoke Test for Calabash](#smoke-test-for-calabash)
@@ -51,6 +50,7 @@ This is cool coffee art:
 		* [Installing Morgana](#installing-morgana)
 		* [Installing SchXslt2](#installing-schxslt2)
 		* [Installing CoffeeGrinder and CoffeeFilter](#installing-coffeegrinder-and-coffeefilter)
+        * [Modifying Morgana.sh](#modifying-morganash)
 		* [Configuring Morgana](#configuring-morgana)
 		* [Creating an Alias for Morgana](#creating-an-alias-for-morgana)
 		* [Smoke Test for Morgana](#smoke-test-for-morgana)
@@ -155,7 +155,7 @@ Graphviz is required for CoffeePot and Calabash to render pipeline diagrams.
 
 ## Suggestions
 
-* There are a lot of installations throughout this process. To keep them organized, *it is a good idea to place them all in your GitHub directory since you should be familiar with that directory at this point.*
+* There are a lot of installations throughout this process. To keep them organized, *it is a good idea to place them all in your GitHub directory (inside your non-iCloud synced Documents folder) since you should be familiar with that directory at this point.*
 * To make things simpler for yourself, use the same alias names that I use in this tutorial, so when we're working on this in class, there's no confusion if your alias has a different name than mine.
 * To **"smoke test"** means to see if your installation is working without running an actual file (using supplied test files or methods). It is important you do these at the end of each installation to verify everything should work properly when you use your own files.
 * We also suggest you install 3 more helpful command-line tools via Homebrew:
@@ -315,7 +315,7 @@ Markup Blitz is used for ixml processing with Morgana. Like CoffeePot, it can al
 	alias blitz='java -jar /Users/USERNAME/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar'
 	```
 
-### Smoke Testing Markup Blitz
+### Smoke Test for Markup Blitz
 
 1. Run:
 
@@ -365,14 +365,6 @@ Calabash is an XProc 3.0 processor developed by the same people that made the Co
 	java -jar xmlcalabash-app-VERSION.jar help
 	```
 
-### Installing CoffeeSacks
-
-CoffeeSacks is required to use ixml when running a pipeline with Calabash.
-
-1. Download CoffeeSacks from:
-	<https://codeberg.org/NineML/nineml/releases>
-1. Copy the CoffeeSacks JAR into the `extra/` directory of Calabash.
-
 ### Configuring Calabash
 
 1. Create the configuration file in your home directory:
@@ -400,11 +392,12 @@ CoffeeSacks is required to use ixml when running a pipeline with Calabash.
 1. Add **(replace `USERNAME` with your username and `VERSION` with the latest version that you downloaded—the version in the unzipped directory name)**:
 
 	```shell
-	alias calabash='/Users/USERNAME/Documents/GitHub/xmlcalabash-VERSION/xmlcalabash.sh --init:org.nineml.coffeesacks.RegisterCoffeeSacks'
+	alias calabash='/Users/USERNAME/Documents/GitHub/xmlcalabash-VERSION/xmlcalabash.sh'
 	```
 
 ### Smoke Test for Calabash
 
+1. Navigate to your `xmlcalabash-VERSION` directory.
 1. Run:
 
 	```shell
@@ -417,7 +410,7 @@ CoffeeSacks is required to use ixml when running a pipeline with Calabash.
 	This message is printed when the identity step runs.
 	It contains “😻” (U+201C, U+1F63B, U+201D) to test
 	the console encoding's ability to display Unicode.
-	<helloWorld>This is XML Calabash version 3.0.37.
+	<helloWorld>This is XML Calabash version *[3.0.37]*.
 	Share and enjoy!</helloWorld>%
  	```
 
@@ -466,7 +459,75 @@ Calabash (being created by NineML's developers) comes with the JAR files for Cof
 	<https://codeberg.org/NineML/nineml/releases>
 1. Unzip both into your GitHub directory.
 
-***UNDER DEVELOPMENT: Modifying Morgana.sh to point to COFFEE***
+### Modifying Morgana.sh
+
+Now, we need to make sure Morgana’s executable script (`Morgana.sh`) can locate the external JAR files required for ixml processing, including CoffeeGrinder, CoffeeFilter, and Markup Blitz.
+
+1. Navigate in your shell to the directory where you unzipped Morgana **(replace `VERSION` with the version in the directory name)**:
+
+	```shell
+	cd ~/Documents/GitHub/MorganaXProc-IIIse-VERSION
+	```
+
+1. Confirm that the directory contains a file named `Morgana.sh`:
+
+	```shell
+	ls
+	```
+
+1. Check the file permissions:
+
+	```shell
+	ls -lisa Morgana.sh
+	```
+
+	The permissions will likely look something like this:
+
+	```
+	-rw-r--r--@
+	```
+
+	Morgana.sh must be executable in order to run.
+
+1. Make `Morgana.sh` executable:
+
+	```shell
+	chmod +x Morgana.sh
+	```
+
+1. Open `Morgana.sh` for editing:
+
+	```shell
+	nano Morgana.sh
+	```
+
+1. Locate the section marked `#Local customization`.
+
+	Add and adjust the following lines **(replace `USERNAME` with your username and `VERSION` with the version numbers in the unzipped directory names)**:
+
+	```shell
+	#Local customization
+	SAXON_JAR=/Users/USERNAME/Documents/GitHub/xmlcalabash-VERSION/lib/Saxon-HE-VERSION.jar
+	COFFEEGRINDER_JAR=/Users/USERNAME/Documents/GitHub/coffeegrinder-VERSION/CoffeeGrinder-VERSION.jar
+	COFFEEFILTER_JAR=/Users/USERNAME/Documents/GitHub/coffeefilter-VERSION/CoffeeFilter-VERSION.jar
+	BLITZ_JAR=/Users/USERNAME/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar
+	```
+
+	*NOTE: The `markup-blitz.jar` path assumes you installed Markup Blitz in your GitHub directory following the earlier instructions. If you installed it elsewhere, adjust the path accordingly.*
+
+1. Near the end of the file, locate the `CLASSPATH` definition.
+
+	Edit it so that it includes all of the local customization variables. It should look like this:
+
+	```shell
+	CLASSPATH=$MORGANA_LIB:$MORGANA_HOME/MorganaXProc-IIIse.jar:$BLITZ_JAR:$COFFEEGRINDER_JAR:$COFFEEFILTER_JAR:$SAXON_JAR
+	```
+
+	Basically, this pours Markup Blitz through a coffee grinder, into a coffee filter, and then through some Saxon, all before landing in a Morgana mug.
+
+1. Save the file and exit the editor.
+
+Morgana is now configured to use Markup Blitz (or the CoffeeTools) for ixml processing.
 
 ### Configuring Morgana
 
@@ -513,6 +574,7 @@ Calabash (being created by NineML's developers) comes with the JAR files for Cof
 
 ### Smoke Test for Morgana
 
+1. Navigate to your `MorganaXProc-IIIse-VERSION` directory.
 1. Run:
 
 	```shell

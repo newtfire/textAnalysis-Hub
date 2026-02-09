@@ -36,6 +36,7 @@
                <!-- Figure out a transform="translate()" that makes sense based on the size of your plot... -->
         <xsl:comment>
             Call some variables in here to see what they are.
+            Wait...what are the categories? <xsl:value-of select="$pokemonCategories"/>
             Count of categories in Pokemon Moves file: <xsl:value-of select="$countCats"/>
         </xsl:comment>
               <!-- Plot something that represents the total count of everything (the whole; all the Pokemon move categories). -->
@@ -44,7 +45,7 @@
                   Inside <xsl:for-each> define some variables:
                   * a variable to hold the current() value
                   * a variable to reach into the $xml-tree to find out count of moves that hold each category:
-                      Here is a handy XPath for this variable: $xml-tree//move[category="current()"] => count()
+                      Here is a handy XPath for this variable: $xml-tree//move[category=current()] => count()
                  * a variable to store the position() number inside the xsl:for-each. 
                  
                  We recommend that you keep testing your variables in <xsl:comment> 
