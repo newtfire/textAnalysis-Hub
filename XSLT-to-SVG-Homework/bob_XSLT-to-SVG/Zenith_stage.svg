@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200">
+   <style>
+                text {
+                font-family: "Lucida Console";
+                font-size: 14px;
+                fill: #343434;
+                }
+                circle { opacity: 0.77; }
+            </style>
+   <g>
+      <text x="600" y="30" text-anchor="middle" font-size="21">
+                    Item Stages in the Zenith Crafting Tree
+                </text>
+   </g>
+   <g>
+      <g transform="rotate(0 600 600)">
+         <circle cx="600" cy="350" r="210" fill="hsl(90, 65%, 55%)">
+            <animateTransform attributeName="transform"
+                              type="rotate"
+                              from="0 600 600"
+                              to="360 600 600"
+                              dur="12s"
+                              repeatCount="indefinite"/>
+         </circle>
+         <text x="600" y="135" text-anchor="middle">pre-hardmode
+                            (21)
+                            <animateTransform attributeName="transform"
+                              type="rotate"
+                              from="0 600 600"
+                              to="360 600 600"
+                              dur="12s"
+                              repeatCount="indefinite"/>
+         </text>
+      </g>
+      <g transform="rotate(120 600 600)">
+         <circle cx="600" cy="350" r="150" fill="hsl(180, 65%, 55%)">
+            <animateTransform attributeName="transform"
+                              type="rotate"
+                              from="0 600 600"
+                              to="360 600 600"
+                              dur="12s"
+                              repeatCount="indefinite"/>
+         </circle>
+         <text x="600" y="195" text-anchor="middle">hardmode
+                            (15)
+                            <animateTransform attributeName="transform"
+                              type="rotate"
+                              from="0 600 600"
+                              to="360 600 600"
+                              dur="12s"
+                              repeatCount="indefinite"/>
+         </text>
+      </g>
+      <g transform="rotate(240 600 600)">
+         <circle cx="600" cy="350" r="20" fill="hsl(270, 65%, 55%)">
+            <animateTransform attributeName="transform"
+                              type="rotate"
+                              from="0 600 600"
+                              to="360 600 600"
+                              dur="12s"
+                              repeatCount="indefinite"/>
+         </circle>
+         <text x="600" y="325" text-anchor="middle">post-MoonLord
+                            (2)
+                            <animateTransform attributeName="transform"
+                              type="rotate"
+                              from="0 600 600"
+                              to="360 600 600"
+                              dur="12s"
+                              repeatCount="indefinite"/>
+         </text>
+      </g>
+   </g>
+</svg>
