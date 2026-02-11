@@ -26,7 +26,17 @@
                         <spk><xsl:value-of select="regex-group(1)"/></spk>
                     </xsl:matching-substring>
                     <xsl:non-matching-substring>
-                        <xsl:apply-templates select="."/>
+                        <xsl:analyze-string select="." regex="(^[A-Z].+?)\s$">
+                            <xsl:matching-substring>
+                                <spk><xsl:value-of select="regex-group(1)"/></spk>
+                            </xsl:matching-substring>
+                            <xsl:non-matching-substring>
+                                <xsl:analyze-string select="." regex="^:">
+                                    <xsl:matching-substring></xsl:matching-substring>
+                                    <xsl:non-matching-substring><xsl:value-of select="."/></xsl:non-matching-substring>
+                                </xsl:analyze-string>
+                            </xsl:non-matching-substring>
+                        </xsl:analyze-string>
                     </xsl:non-matching-substring>
                 </xsl:analyze-string>
             </xsl:non-matching-substring>
