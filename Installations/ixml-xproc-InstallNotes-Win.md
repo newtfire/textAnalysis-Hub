@@ -380,6 +380,13 @@ Calabash is an XProc 3.0 processor developed by the same people that made the Co
 
 ### Configuring Calabash
 
+1. 1. First, find out where your graphviz "dot" is installed by entering this command:
+
+    ```shell
+    which dot
+    ```
+ Copy the file location you see. You'll use this in the next step.
+ 
 1. Create the configuration file in your home directory:
 
 	```shell
@@ -390,9 +397,11 @@ Calabash is an XProc 3.0 processor developed by the same people that made the Co
 
 	```xml
 	<cc:xml-calabash xmlns:cc="https://xmlcalabash.com/ns/configuration">
-	  <cc:graphviz dot="C:\Program Files\Graphviz\bin\dot.exe"/>
+	  <cc:graphviz dot="C:\PATH\TO\YOUR\bin\dot"/>
 	</cc:xml-calabash>
 	```
+Change that value to wherever your local dot is stored (as in `dot="C:\ProgramData\Chocolatey\bin\dot"`). 
+
 
 ### Creating an Alias for Calabash
 
