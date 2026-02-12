@@ -1,9 +1,9 @@
 # Invisible XML (ixml) & XProc Setup Guides
 
 <p align="left">
-  <a href="https://invisiblexml.org"><img src="Installations/images/ixml-cat.png" width="200" alt="Invisible XML"></a><!--
+  <a href="https://invisiblexml.org"><img src="images/ixml-cat.png" width="200" alt="Invisible XML"></a><!--
   --><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><!--
-  --><a href="https://xproc.org"><img src="Installations/images/xproc-fish.png" width="340" alt="XProc"></a>
+  --><a href="https://xproc.org"><img src="images/xproc-fish.png" width="340" alt="XProc"></a>
 </p>
 
 This directory contains step-by-step installation and configuration guides for setting up **[Invisible XML (ixml)](https://invisiblexml.org/)** and **[XProc](https://xproc.org/)** tools for course tutorials and hands-on XML processing work.
