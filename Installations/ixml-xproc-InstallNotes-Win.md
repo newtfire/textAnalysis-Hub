@@ -177,11 +177,11 @@ Graphviz is required for CoffeePot and Calabash to render pipeline diagrams.
 * We also suggest you install 2 more helpful command-line tools via Chocolatey:
 
 	```shell
-	chocolatey install bat
+	choco install bat
 	```
 
 	```shell
-	chocolatey install xmlstarlet
+	choco install xmlstarlet
 	```
 
 *********************
@@ -212,7 +212,13 @@ CoffeePot is a command-line ixml processor. It's good for simple grammars and sm
 1. Visit the NineML releases page:
 	<https://codeberg.org/NineML/nineml/releases>
 1. Download the CoffeePot ZIP file from the latest release.
-1. Unzip it into your GitHub directory.
+1. Unzip it into your GitHub directory. About this:
+    * **Be patient** if you're on campus wifi: it might
+take a minute to fully download.
+    * When you unzip / "extract to" a directory, modify it to just go into GitHub.
+     (Don't unpack it into a "coffeepot" folder or you'll have a coffeepot inside a coffeepot and the 
+next instructions will be confusing.)     
+          
 
 ### Creating an Alias for CoffeePot
 
