@@ -177,11 +177,11 @@ Graphviz is required for CoffeePot and Calabash to render pipeline diagrams.
 * We also suggest you install 2 more helpful command-line tools via Chocolatey:
 
 	```shell
-	chocolatey install bat
+	choco install bat
 	```
 
 	```shell
-	chocolatey install xmlstarlet
+	choco install xmlstarlet
 	```
 
 *********************
@@ -212,7 +212,13 @@ CoffeePot is a command-line ixml processor. It's good for simple grammars and sm
 1. Visit the NineML releases page:
 	<https://codeberg.org/NineML/nineml/releases>
 1. Download the CoffeePot ZIP file from the latest release.
-1. Unzip it into your GitHub directory.
+1. Unzip it into your GitHub directory. About this:
+    * **Be patient** if you're on campus wifi: it might
+take a minute to fully download.
+    * When you unzip / "extract to" a directory, modify it to just go into GitHub.
+     (Don't unpack it into a "coffeepot" folder or you'll have a coffeepot inside a coffeepot and the 
+next instructions will be confusing.)     
+          
 
 ### Creating an Alias for CoffeePot
 
@@ -380,6 +386,13 @@ Calabash is an XProc 3.0 processor developed by the same people that made the Co
 
 ### Configuring Calabash
 
+1. 1. First, find out where your graphviz "dot" is installed by entering this command:
+
+    ```shell
+    which dot
+    ```
+ Copy the file location you see. You'll use this in the next step.
+ 
 1. Create the configuration file in your home directory:
 
 	```shell
@@ -390,9 +403,11 @@ Calabash is an XProc 3.0 processor developed by the same people that made the Co
 
 	```xml
 	<cc:xml-calabash xmlns:cc="https://xmlcalabash.com/ns/configuration">
-	  <cc:graphviz dot="C:\Program Files\Graphviz\bin\dot.exe"/>
+	  <cc:graphviz dot="C:\PATH\TO\YOUR\bin\dot"/>
 	</cc:xml-calabash>
 	```
+Change that value to wherever your local dot is stored (as in `dot="C:\ProgramData\Chocolatey\bin\dot"`). 
+
 
 ### Creating an Alias for Calabash
 
