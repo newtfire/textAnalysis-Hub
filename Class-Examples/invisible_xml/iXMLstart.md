@@ -194,7 +194,7 @@ For example:
 num: [N].
 ```
 
-Instead of listing every digit manually, you can use the Unicode character class `N` which will match all numeric digits.
+Instead of listing every digit manually, you can use the Unicode character class `N` which will match all numeric digits. Unlike character sets, these do not need quotation marks.
 
 ### Excluding a Character Set or Class
 
@@ -219,6 +219,8 @@ You may find the following values useful as you construct your ixml grammar:
 | Newline (CR?, LF) | `#d?, #a` |
 | Em dash| `#2014` |
 | Space | `#20` |
+
+**Helpful reference!** It will often be necessary to write rules that match when the input is *not* a newline character. A handy line we use often is `~[#d;#a]+`, which reads: "multiple of anything that is not a Windows or Posix (Mac/Linux) newline return character."
 
 ## Further Readings
 
