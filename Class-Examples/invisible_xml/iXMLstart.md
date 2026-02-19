@@ -1,4 +1,5 @@
 # Writing Your First ixml
+by Lauren McCurdy and Molly Wright, Penn State Behrend Digit Program
 
 This guide was written in reference to Norm Tovey-Walsh's [Writing Invisible XML Grammars](https://www.xml.com/articles/2025/12/16/invisible-xml-grammars-update/). 
 
@@ -93,7 +94,7 @@ num: [N].
 -slash: -#2F.
 ```
 
-The hyphen `-` before the `slash` terminal means that the `<slash>` **element** will not appear in the final output. The hyphen `-` before `#2F` suppresses the slash itself.
+The hyphen `-` before the `slash`nonterminal means that the `<slash>` **element** will not appear in the final output. The hyphen `-` before `#2F` suppresses the slash itself.
 
 
 ### Attributes
@@ -164,7 +165,7 @@ num: ["0"-"5"].
 
 This is a **range**, which consists of a character string containing a single character (or an encoded character) followed by a hyphen, followed by another single character string (or encoded character).
 
-This example will match any digit from 0 to 5, inclusive. Keep in mind that the quotation marks are necessary.
+This example will match any digit from 0 to 5, inclusive. Keep in mind that the quotation marks are necessary. This different from regex ranges! Don't forget the quotes around *any* text pattern you're defining. 
 
 
 ## Unicode Characters and Classes
