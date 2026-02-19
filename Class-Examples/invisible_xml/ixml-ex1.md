@@ -94,7 +94,7 @@ We found that some of our handling of spaces could introduce problems with ambig
 Try to account for the possible presence of a space before the tab. You might think of these as separator characters that you don't need to appear in the XML nodes that you are constructing. 
 
 ## When you're finished 
-When you're producing good XML in your shell, you want to save that! With coffeepot, you add the `-o:` command at the end to define where you want to save output. When you run this, you won't see the XML output in your shell anymore. Browse to where you said to save the file and open it in oXygen to see it!.
+When you're producing good XML in your shell, you want to save that! With coffeepot, you add the `-o:` command at the end to define where you want to save output. When you run this, you won't see the XML output in your shell anymore. Browse to where you said to save the file and open it in oXygen to see how it turned out!
 
 ```shell
 coffeepot -g:yourGrammar.ixml -i:pokemon-moves-gen5.txt  -o:pokeMovesGen5.xml
@@ -108,4 +108,4 @@ blitz yourGrammar.ixml  pokemon-moves-gen5.txt  > pokeMovesGen5.xml
 
 * your Invisible XML grammar (.ixml)
 * the output XML (.xml) if you were successful)
-* a message in the text box if you weren't successful indicating what's wrong and what you attempted to fix it.
+* a message in the text box on how this went, if you produced ambiguous XML, or (if you weren't successful with outputting XML) indicating what's wrong and what you attempted to fix it.
