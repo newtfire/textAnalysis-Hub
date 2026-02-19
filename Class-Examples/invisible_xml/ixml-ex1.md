@@ -1,6 +1,11 @@
 # Invisible XML (ixml) Exercise 1
 
-Let's start with [this plain text document representing data about Pokemon moves from generation 5](https://raw.githubusercontent.com/newtfire/textAnalysis-Hub/refs/heads/main/Class-Examples/invisible_xml/pokemon-moves-gen5.txt). You can follow the link to download and save this directly, or use `git pull` on the main branch of  the textAnalysis-Hub/Class-Examples/invisible_xml/pokemon-moves-gen5.txt. Save it in a folder with your personal repo / homework to work on together.
+## Source file: Pokemon Moves Generation 5
+Let's start with this plain text document representing data about Pokemon moves from generation 5, sourced from [the Pokemon Database](https://pokemondb.net/move/generation/5).
+
+<https://raw.githubusercontent.com/newtfire/textAnalysis-Hub/refs/heads/main/Class-Examples/invisible_xml/pokemon-moves-gen5.txt> 
+
+You can follow the link to download and save this directly, or use `git pull` on the main branch of  the textAnalysis-Hub/Class-Examples/invisible_xml/pokemon-moves-gen5.txt. Save it in a folder with your personal repo / homework to work on together with an invisible xml grammar file.
 
 The file has newlines and tab characters giving it a clear structure. The first 13 lines are meant to be column headers, but were formatted differently. The rest of the file uses tab characters to provide information about:
 *  the **name** of a move 
@@ -18,8 +23,8 @@ Your task is to create an invisible XML grammar that represents a good XML model
 ## Setting up your workspace
 
 * We suggest opening the text file in oXygen
-* Open a second text file to save with the **`.ixml`** extension to write your Invisible XML grammar. 
-* Make sure that you can see all the different space characters (just like for Regex tasks): If this is turned off, go to your oXygen XML Editor Settings (or Options >> Preferences), choose Editor >> tick the two checkboxes for "Show TAB/NBSB/EOL/EOF marks" and "Show SPACE marks". 
+* Open a second text file to save with the **`.ixml`** extension to write your Invisible XML grammar, and save it in the same directory with the pokemon-moves-gen5.txt file.
+* Make sure that you can see all the different space characters (just like for Regex tasks): If this is turned off, go to your oXygen XML Editor Settings (or Options >> Preferences), choose Editor and tick the two checkboxes for "Show TAB/NBSB/EOL/EOF marks" and "Show SPACE marks". 
 * Split your windows in oXygen (as we suggest for working on CSS or Relax NG files) using **Window >> Tile Editors Vertically**.
 
 ## Guidance 
