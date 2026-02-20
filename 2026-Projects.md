@@ -32,7 +32,7 @@ Project GitHub | Website
 * [Gavin Redding](https://github.com/GwR419)**
 * [Micaiah Ross](https://github.com/MicaiahRoss)
 
-<!-- ## Pokemon White and Black [??]
+<!--  ## Pokemon White and Black [??]
 Project GitHub | Website
 
 * [Kelly  Anderson](https://github.com/KellyofSpades)**
@@ -49,7 +49,7 @@ Project GitHub | Website
 
 * [Evan Bartley](https://github.com/EvanB6)**
 * [Tori Cain](https://github.com/toricain)
-* [Jessica Michel](https://github.com/jvm7131)
+<!--- [??]  * [Jessica Michel](https://github.com/jvm7131) -->
 
 ## Warframe
 Project GitHub | Website
