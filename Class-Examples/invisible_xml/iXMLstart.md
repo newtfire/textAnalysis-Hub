@@ -218,9 +218,11 @@ You may find the following values useful as you construct your ixml grammar:
 | Quotation mark (") | `#22` |
 | Newline (CR?, LF) | `#d?, #a` |
 | Em dash| `#2014` |
-| Space | `#20` |
+| Spacebar space | `#20` |
 
 **Helpful reference!** It will often be necessary to write rules that match when the input is *not* a newline character. A handy line we use often is `~[#d;#a]+`, which reads: "multiple of anything that is not a Windows or Posix (Mac/Linux) newline return character."
+
+Spaces can be tricky to  account for in real-time project data! A wider variety of "spacebar spaces" used in older documents from ASCII or early Unicode can be defined with the Character code `[Zs]`.
 
 ## Further Readings
 
