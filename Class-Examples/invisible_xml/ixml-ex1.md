@@ -72,7 +72,7 @@ You can be creative with storing some information in attributes or letting it be
  Because this text is very regularly formatted,  you want to skim through it and take some notes first on the formatting of the different pieces. 
 
 * The *name* will have to account for one- *or* two-word names (there will sometimes, but not always be a space in between upper- and lower-case letters).
-* You want to be specifying the tab characters as distinct from simple spaces and newlines in your grammar. (Unlike regex, there isn't a single character class for all the different kinds of spaces, and for *this* document you really want to differentiate the kinds of spaces in your grammar.)
+* You want to be specifying the tab characters as distinct from simple spaces and newlines in your grammar because they help show you how to distinguish the regular parts of the document. (You could try this regex-like character class for most kinds of spaces `[s]` but for *this* document you really want to differentiate the kinds of spaces in your grammar.)
 	* You can use the `#9` character code for tabs
 	* You can use the `#20` character code for the spacebar spaces. 
 	* Note: **you don't want quotation marks** around these character codes, or around character classes either. 
