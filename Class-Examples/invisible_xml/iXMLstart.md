@@ -229,4 +229,5 @@ Spaces can be tricky to  account for in real-time project data! A wider variety 
 Here are some more helpful resources to check out as you continue learning about Invisible XML and writing grammar:
 
 * Steven Pemberton, "[Invisible XML (ixml) Tutorial](https://www.xml.com/articles/2022/03/28/writing-invisible-xml-grammars/)"
+* [John Lumley’s Invisible XML Workbench](https://johnlumley.github.io/jwiXML.xhtml) (great for testing little samples as you're learning)
 * David J. Birnbaum, "[Invisible XML and Ambiguity](http://dh.obdurodon.org/ixml-ambiguity.xhtml)"
