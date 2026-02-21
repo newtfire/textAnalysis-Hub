@@ -406,7 +406,7 @@ Calabash is an XProc 3.0 processor developed by the same people that made the Co
 	  <cc:graphviz dot="C:\PATH\TO\YOUR\bin\dot"/>
 	</cc:xml-calabash>
 	```
-Change that value to wherever your local dot is stored (as in `dot="C:\ProgramData\Chocolatey\bin\dot"`). 
+Change that value to wherever your local dot is stored (as in `dot="C:\ProgramData\Chocolatey\bin\dot"`).  If it's a `dot.exe` file, you may want to end the path with `bin\dot.exe` .
 
 
 ### Creating an Alias for Calabash
@@ -420,7 +420,7 @@ Change that value to wherever your local dot is stored (as in `dot="C:\ProgramDa
 1. Add **(replace `USERNAME` with your username and `VERSION` with the latest version that you downloaded—the version in the unzipped directory name)**:
 
 	```shell
-	alias calabash='/c/Users/USERNAME/Documents/GitHub/xmlcalabash-VERSION/xmlcalabash.sh'
+	alias calabash='java -jar /c/Users/USERNAME/Documents/GitHub/xmlcalabash-VERSION/xmlcalabash-app-VERSION.jar'
 	```
 
 ### Smoke Test for Calabash
