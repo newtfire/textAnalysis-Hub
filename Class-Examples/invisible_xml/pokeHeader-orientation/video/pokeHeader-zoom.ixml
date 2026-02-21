@@ -1,0 +1,8 @@
+xml: heading.
+heading: label++spacePattern.
+{This is an ixml comment marked in curly braces.}
+{label: ["A"-"Z"],["A"-"z"]+, -"."?.}
+label: ~[#d;#a;#9;"."]+,-"."?.
+-spacePattern: newline, tab, newline.
+-newline: -#d?, -#a.
+-tab: -#9.
