@@ -1,5 +1,11 @@
 # Invisible XML (ixml) Exercise 1
 
+## Video orientation
+Here's a video recording to  guide you through the opening stages, setting up your workspace (also documented here) in case it helps you to follow along with preparing your very first Invisible XML.
+
+<div id="kaltura_player_1984805838" style="width:720px;height:405px;"></div>
+<script type="text/javascript" src="https://cdnapisec.kaltura.com/p/2356971/embedPlaykitJs/uiconf_id/56368382?autoembed=true&targetId=kaltura_player_1984805838&entry_id=1_11sjo0ry&config[provider]=%7B%22widgetId%22%3A%221_6hko2bqh%22%7D"></script>
+
 ## Source file: Pokemon Moves Generation 5
 Let's start with this plain text document representing data about Pokemon moves from generation 5, sourced from [the Pokemon Database](https://pokemondb.net/move/generation/5).
 
