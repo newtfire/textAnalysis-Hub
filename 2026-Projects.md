@@ -32,11 +32,11 @@ Project GitHub | Website
 * [Gavin Redding](https://github.com/GwR419)**
 * [Micaiah Ross](https://github.com/MicaiahRoss)
 
-<!--  ## Pokemon White and Black [??]
+## Pokemon White and Black [??]
 Project GitHub | Website
 
 * [Kelly  Anderson](https://github.com/KellyofSpades)**
-* [Aya Sharbaji](https://github.com/ams12447-lang) -->
+* [Aya Sharbaji](https://github.com/ams12447-lang)
 
 ## Silent Hill
 Project GitHub | Website
