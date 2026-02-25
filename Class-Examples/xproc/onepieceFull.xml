@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <volume num="4">
-   <chapter num="27"
-            page="28">
+   <chapter num="27" page="28">
       <d>
          <char>O</char>
          <say> As announced in Volume 2, the SBS Corner is now created. I received a lot of letters, thanks to everyone that sent them. And now, I will give an answer to all of you reader's questions and comments.
@@ -38,8 +37,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="28"
-            page="48">
+   <chapter num="28" page="48">
       <d>
          <char>D</char>
          <say> There's something I've always wanted to ask you, Sensei. What do you do with the things that the readers send you?
@@ -72,8 +70,7 @@
       </d>
       <info>[Vol 4 hair1 goes here] Translation (left to right): "Humor me by dying", "Hey! Humor me by giving me back my hat!", "Yes, it's my actual hair."</info>
    </chapter>
-   <chapter num="29"
-            page="70">
+   <chapter num="29" page="70">
       <d>
          <char>D</char>
          <say> How come Luffy never feels "nervous" or intimidated?
@@ -117,8 +114,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="30"
-            page="90">
+   <chapter num="30" page="90">
       <d>
          <char>D</char>
          <say> How far can Luffy's arms stretch? Please tell me.
@@ -160,8 +156,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="31"
-            page="110">
+   <chapter num="31" page="110">
       <d>
          <char>D</char>
          <say> Sensei, do you like animals? Because there seems to be at least one animal in each splash page....
@@ -211,8 +206,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="32"
-            page="130">
+   <chapter num="32" page="130">
       <d>
          <char>D</char>
          <say> I have a question.... Why does Zoro always use that old people's clothing that he wears around his stomach (haramaki)?
@@ -240,8 +234,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="33"
-            page="150">
+   <chapter num="33" page="150">
       <d>
          <char>D</char>
          <say> How many "Devil Fruit" are there? And, what kind of fruit are they?
@@ -253,8 +246,7 @@
 </say>
       </d>
    </chapter>
-   <chapter num="34"
-            page="170">
+   <chapter num="34" page="170">
       <info>Eight requests from the readers and the announcement of "Usopp Gallery Pirates".</info>
    </chapter>
 </volume>

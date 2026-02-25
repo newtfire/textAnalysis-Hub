@@ -1,0 +1,5 @@
+header: Label++SpacePattern.
+Label: ["A"-"z"]+, "."?.
+-SpacePattern: newline, tab, newline.
+-newline: -#d?, -#a.
+-tab: -[#9].
