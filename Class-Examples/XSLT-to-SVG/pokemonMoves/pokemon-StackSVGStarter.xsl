@@ -1,61 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+<xsl:stylesheet type="text/xsl" href="pokemon-StackSVGStarter.xsl"
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
     exclude-result-prefixes="xs math"
     version="3.0">
     
-    <xsl:output method="xml"/>
+    <xsl:output method="xml" indent="yes"/>
     
-    <xsl:variable name="xml-tree" select="doc('pokemonmoves.xml')"/>
+    <xsl:variable name="xml-tree" select="doc('pokemonMoves.xml')"/>
     
     <xsl:variable name="pokemonCategories" select="$xml-tree//category => distinct-values()"/>
-    <!-- text strings of the distinct categories -->
-    
     <xsl:variable name="countCats" select="$pokemonCategories => count()"/>
     
-    
-    <!-- set up some spacing and coloring variables, like an x-spacer, y-spacer, etc.  -->
-
-    <!-- *************************************************************************-->
-    <!-- Stacking question: How many Pokemon moves are classified in each category? 
-        
-        Your SVG plot can go any direction or build a "stack" of parts in a whole in any way you wish, 
-        as long as you plot it with XSLT. 
-    
-    *  Suggestion: If you want to base your whole plot on a percentage, the total count = 100%: 
-       You could plan your plot to be based on 100 percent units * $y-spacer
-    *  Portions of the stacked plot would be count-of-moves-in-each-category div total count * 100
-    -->
-    <!-- *************************************************************************-->
-
+    <xsl:variable name="y-spacer" select="10"/>
+    <xsl:variable name="bar-width" select="100"/>
+    <xsl:variable name="totalMoves" select="$xml-tree//move => count()"/>
     
     <xsl:template match="/">
-       <svg>
-           <g>
-               <!-- Figure out a transform="translate()" that makes sense based on the size of your plot... -->
-        <xsl:comment>
-            Call some variables in here to see what they are.
-            Wait...what are the categories? <xsl:value-of select="$pokemonCategories"/>
-            Count of categories in Pokemon Moves file: <xsl:value-of select="$countCats"/>
-        </xsl:comment>
-              <!-- Plot something that represents the total count of everything (the whole; all the Pokemon move categories). -->
- 
-              <!-- Then you can use <xsl:for-each> on the distinct category strings. 
-                  Inside <xsl:for-each> define some variables:
-                  * a variable to hold the current() value
-                  * a variable to reach into the $xml-tree to find out count of moves that hold each category:
-                      Here is a handy XPath for this variable: $xml-tree//move[category=current()] => count()
-                 * a variable to store the position() number inside the xsl:for-each. 
-                 
-                 We recommend that you keep testing your variables in <xsl:comment> 
-                 just to check their values before plotting in SVG elements.
-    
-                 Study how we created the stacked plots based on position in our example code from class:
-             https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/XSLT-to-SVG/TEI-to-SVG-Starter/TEI-to-SVG.xsl#L140 
-              -->
-               
-           </g>
+        <svg viewBox="0 0 500 {$totalMoves * $y-spacer + 100}" xmlns="http://www.w3.org/2000/svg">
+            <g transform="translate(50, 50)"> <xsl:comment>
+                    Categories: <xsl:value-of select="$pokemonCategories"/>
+                    Total Categories: <xsl:value-of select="$countCats"/>
+                </xsl:comment>
+                
+                <rect x="0" y="0" width="{$bar-width}" height="{$totalMoves * $y-spacer}" 
+                    fill="none" stroke="black" stroke-width="2"/>
+                
+                <xsl:for-each select="$pokemonCategories">
+                    <xsl:variable name="currentCat" select="current()"/>
+                    <xsl:variable name="catCount" select="$xml-tree//move[category=$currentCat] => count()"/>
+                    <xsl:variable name="pos" select="position()"/>
+                    
+                    <xsl:variable name="y-pos" select="sum(for $i in (1 to $pos - 1) 
+                        return $xml-tree//move[category = $pokemonCategories[$i]] => count())"/>
+                    
+                    <rect x="0" y="{$y-pos * $y-spacer}" 
+                        width="{$bar-width}" height="{$catCount * $y-spacer}" 
+                        fill="hsl({$pos * 30}, 70%, 50%)" stroke="white">
+                        <title><xsl:value-of select="$currentCat"/>: <xsl:value-of select="$catCount"/></title>
+                    </rect>
+                    
+                    <text x="{$bar-width + 10}" y="{$y-pos * $y-spacer + ($catCount * $y-spacer div 2)}" 
+                        font-family="sans-serif" font-size="12" alignment-baseline="middle">
+                        <xsl:value-of select="$currentCat"/> (<xsl:value-of select="$catCount"/>)
+                    </text>
+                </xsl:for-each>
+                
+            </g>
         </svg>
     </xsl:template>
     
