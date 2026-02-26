@@ -8,21 +8,37 @@ Pipelines in processing text / media are all about scripting changes in stages t
 
 We usually apply XProc to script a pipeline of processes that take an input file (or collection of input files), runs it through a series of processes and produces one or more outputs at each stage. Here's an example of a fairly detailed pipeline of processes to support  that we can script with XProc and run with Calabash or Morgana.
 
-![diagram of an XProc pipeline process described below](xprocSamplePipeline-mermaid.svg)
+<section class="flex" style="display:flex">
+<figure class="samplePipeline" style="flex:1">
+<img src="xprocSamplePipeline-mermaid.svg" alt="diagram of an XProc pipeline process described below" height="800/>
+<figcaption>diagram of a sample XProc pipeline process that starts wtih plain text, applies invisible XML, XSLT, and Relax NG validation, and produces multiple outputs in .xml and .svg</figcaption>
+</figure>
 
 
-
-* **Start** by identifying a source text file (or collection of texts) to take as the beginning input.
-*  **Pipe** that source into parsing with an invisible XML grammar file.
-*  **Store** the output of the grammar (in memory or saved on your computer as an output stage).
-*  **Pipe** that output to XSLT to make changes, add more markup by processing regular expressions with `<xsl:analyze-string>` .
-*  **Store** the output of XSLT (in memory or saved on your computer as an output stage).
-*  **Pipe** that output **test** it with a Relax NG schema validation step and let you know if it's valid to your project schema.
-     *  **If the XML is valid to the schema**: 
-          *  **Pipe** it to a second XSLT file to output an SVG visualization 
-          *  **Store** the SVG directly to a web-publishing directory to publish on a website.
-**
-     * **Otherwise, stop and output an error message** identifying what's wrong with the XML.
+<div class="samplePipeline" style="flex:3">
+<ul>
+    <li><strong>Start</strong> by identifying a source text file (or collection of texts) to take as the beginning input.
+ </li>
+ <li><strong>Pipe</strong> that source into parsing with an invisible XML grammar file.</li>
+<li><strong>Store</strong> the output of the grammar (in memory or saved on your computer as an output stage).
+</li>
+<li><strong>Pipe</strong> that output to XSLT to make changes, add more markup by processing regular expressions with <code><xsl:analyze-string></code> .</li>
+<li><strong>Store</strong> the output of XSLT (in memory or saved on your computer as an output stage).</li>
+<li> <strong>Pipe</strong> that output to <strong>test</strong> it with a Relax NG schema validation step and let you know if it's valid to your project schema.
+   <ul>
+        <li><strong>If the XML is NOT valid to the schema: stop and output an error message</strong> identifying what's wrong with the XML.
+        </li>
+   	<li><strong>If the XML is valid to the schema</strong>:
+   	    <ul>
+   	       <li><strong>Pipe</strong> it to a second XSLT file to output an SVG visualization.</li>
+   	       <li><strong>Store</strong> the SVG directly (perhaps to a web-publishing directory to publish on a website).
+   	   </ul>
+   	</li>
+   </ul>
+</li>
+</ul>
+</div>
+</section>
 
 That's an ambitious pipeline that comes after a lot of preparation! Each of those stages requires some work to prepare individually, and assembling them into a pipeline makes it easy to update your source files, make changes at some stage of the process, and quickly run Calabash or Morgana to see the results. 
 
