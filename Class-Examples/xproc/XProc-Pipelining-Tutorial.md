@@ -9,13 +9,13 @@ Pipelines in processing text / media are all about scripting changes in stages t
 We usually apply XProc to script a pipeline of processes that take an input file (or collection of input files), runs it through a series of processes and produces one or more outputs at each stage. Here's an example of a fairly detailed pipeline of processes to support  that we can script with XProc and run with Calabash or Morgana.
 
 <section class="flex" style="display:flex">
-<figure class="samplePipeline" style="flex:1">
+<figure class="samplePipeline" style="flex:2">
 <img src="xprocSamplePipeline-mermaid.svg" alt="diagram of an XProc pipeline process described below" height="800"/>
-<figcaption>diagram of a sample XProc pipeline process that starts wtih plain text, applies invisible XML, XSLT, and Relax NG validation, and produces multiple outputs in .xml and .svg</figcaption>
+<figcaption style="font-style:italic">Diagram of a sample XProc pipeline process that starts wtih plain text, applies invisible XML, XSLT, and Relax NG validation, and produces multiple outputs in .xml and .svg</figcaption>
 </figure>
 
 
-<div class="samplePipeline" style="flex:3">
+<div class="samplePipeline" style="flex:1">
 <ul>
     <li><strong>Start</strong> by identifying a source text file (or collection of texts) to take as the beginning input.
  </li>
