@@ -10,7 +10,7 @@ We usually apply XProc to script a pipeline of processes that take an input file
 
 <section class="flex" style="display:flex">
 <figure class="samplePipeline" style="flex:2">
-<img src="xprocSamplePipeline-mermaid.svg" alt="diagram of an XProc pipeline process described below" height="800"/>
+<img src="xprocSamplePipeline-mermaid.svg" alt="diagram of an XProc pipeline process described below" height="100%"/>
 <figcaption style="font-style:italic">Diagram of a sample XProc pipeline process that starts wtih plain text, applies invisible XML, XSLT, and Relax NG validation, and produces multiple outputs in .xml and .svg</figcaption>
 </figure>
 
