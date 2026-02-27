@@ -1,18 +1,14 @@
 flowchart TD
-    A[Source Text / Collection] -->|Pipe| B[(store)]
-    B --> |Pipe| C[[ixml grammar parse]]
-    C -->|Pipe| D[(store)] 
-    C --> |output| E[[start.xml]]
+    A([Source Text / Collection]) --> |Pipe| B[[ixml grammar parse]]
+    B -->|Pipe| C --> |output| E[[ixml-out.xml]]
    
-    D -->|Pipe| F{{XSLT 1}} --> G[(store)]
-
-
-    G -->|Pipe| I(((Relax NG Test)))
+    C -->|Pipe| F{{XSLT 1}} 
+    F -->|output| H[[revised.xml]]
+    F -->|Pipe| I(((Relax NG Test)))
     I -->|Not Valid| J((  STOP<br/>Send error message! ))
-    I -->|Valid| K[(store)]
-    I -->|output| H[[revised.xml]]
+    I -->|Valid| L{{XSLT 2}}
+   
 
-    K -->|Pipe| L{{XSLT 2}}
     L -->|output| M[[awesomeVis.svg]]
 
 %% Custom styles
