@@ -30,11 +30,11 @@ You'll be constructing a pipeline process in XProc that does the following:
      ```
      In the oXygen XPath window that would tokenize all the words in each transcript element.
      In XSLT you could make a global variable near the top of the document that stores the total count of *all* the words in all the transcript nodes.
-     Then you can get a count of tokens in each time segment  in a template rule with: 
+     Then you can get a count of tokens in each time segment  in a template rule with something like this ( **Caution**: I'm typing this from memory so there may be syntax to check:) 
      
      ```xml
      <xsl:for-each select="transcript">
-           <xsl:variable name="wordTokens" select="text() ! tokenize(., '\s+)"/>
+           <xsl:variable name="wordTokens" select="text() ! tokenize(., '\s+')"/>
            <xsl:variable name="countTokens" select="count($wordTokens)"/>
            
            <xsl:value-of select="$countTokens div $totalTokens"/>
