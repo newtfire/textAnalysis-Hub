@@ -1,6 +1,13 @@
 # XProc Pipelining Tutorial
 *by Elisa Beshero-Bondar for the Penn State Behrend Digit Program*
 
+<h2>The Big Picture: Pipelines for Projects </h2>
+<p>Pipelines in processing text / media are all about scripting changes in stages that you define. XProc gives us a method to do this with "XML stack" technologies for transforming text and checking outputs. </p>
+
+<p> XProc pipeline files are saved with the extension <strong><code>.xpl</code></strong>.</p>
+
+<p>We usually apply XProc to script a pipeline of processes that take an input file (or collection of input files), runs it through a series of processes and produces one or more outputs at each stage. Here's an example of a fairly detailed pipeline of processes to support  that we can script with XProc and run with Calabash or Morgana.
+</p>
 
 
 
@@ -14,13 +21,6 @@
 
 
 <div class="samplePipeline" style="flex:1">
-<h2>The Big Picture: Pipelines for Projects </h2>
-<p>Pipelines in processing text / media are all about scripting changes in stages that you define. XProc gives us a method to do this with "XML stack" technologies for transforming text and checking outputs. </p>
-
-<p> XProc pipeline files are saved with the extension <strong><code>.xpl</code></strong>.</p>
-
-<p>We usually apply XProc to script a pipeline of processes that take an input file (or collection of input files), runs it through a series of processes and produces one or more outputs at each stage. Here's an example of a fairly detailed pipeline of processes to support  that we can script with XProc and run with Calabash or Morgana.
-</p>
 
 <ul>
     <li><strong>Start</strong> by identifying a source text file (or collection of texts) to take as the beginning input.
@@ -43,7 +43,8 @@
    </ul>
 </li>
 </ul>
-<p>That's an ambitious pipeline that comes after a lot of preparation! Each of those stages requires some work to prepare individually, and assembling them into a pipeline makes it easy to update your source files, make changes at some stage of the process, and quickly run Calabash or Morgana to see the results. </p>
+<p>A pipeline like this requires a lot of preparation! Each of those stages requires some work to prepare individually, and assembling them into a pipeline makes it easy to update your source files, make changes at some stage of the process, and quickly run Calabash or Morgana to see the results. </p>
+</section>
 
 <h3>Outputs of XProc are usually...</h3>
 <ul>
@@ -54,14 +55,17 @@
 
 <p>Pipelines can branch and sprout, depending on what you want to script, or they can  just be a straight line!</p>
 </div>
-</section>
+
 
 
 ## Learning how to script a pipeline
 
-We've been learning how to write pipelines by looking at examples and tinkering with the XProc syntax to apply them to our own scripts. So that is what we're going to do with this exercise. We'll eventually ask you to construct a pipeline as part of your project, so it will help to study how a pipeline is written, and then try to make a simple pipeline of your own based on our work in the Digit 210 class so far. 
+We'll eventually ask you to construct a pipeline as part of your project, so it will help to study how a pipeline is written, and then try to make a simple pipeline of your own based on our work in the Digit 210 class so far. It will help to study some complete pipelines for projects.
 
-Our example completed pipeline is from the [Onepiece project](https://github.com/sam-seb/op-sbs) from Spring 2025. You can study the pipeline files and their stored outputs on our class GitHub at <https://github.com/newtfire/textAnalysis-Hub/tree/main/Class-Examples/xproc/onepiece-project>. 
+The example code we provide below comes from the [Onepiece project](https://github.com/sam-seb/op-sbs) from Spring 2025. You can study the pipeline files and their stored outputs on our class GitHub at <https://github.com/newtfire/textAnalysis-Hub/tree/main/Class-Examples/xproc/onepiece-project>.  The Onepiece project prepared two XProc files:
+
+1. The [first XProc](https://github.com/newtfire/textAnalysis-Hub/tree/main/Class-Examples/xproc/onepiece-project/onepiece-pipeline.xml) took **a single text file** input and output single files.
+2. The [second XProc](https://github.com/newtfire/textAnalysis-Hub/tree/main/Class-Examples/xproc/onepiece-project/onepieceColl-pipeline.xpl) **processes a collection** of text files in a directory and outputs a new directory of similarly named output files.
 
 ### Running a pipeline (.xpl) file
 **Run your pipeline frequently, as you write each new stage!**  Read the output in your shell carefully watching for error messages and try to debug as you go. You can explore and test by running your pipelines on your system with Calabash or Morgana. (If you want to make changes to these files, please check out your own branch or copy and move the files outside our class GitHub repo.) To run a pipeline with Calabash: 
