@@ -1,0 +1,23 @@
+flowchart TD
+    A([Source Text / Collection]) --> |Pipe| B[[ixml grammar parse]]
+    B -->|Pipe| C --> |output| E[[ixml-out.xml]]
+   
+    C -->|Pipe| F{{XSLT 1}} 
+    F -->|output| H[[revised.xml]]
+    F -->|Pipe| I(((Relax NG Test)))
+    I -->|Not Valid| J((  STOP<br/>Send error message! ))
+    I -->|Valid| L{{XSLT 2}}
+   
+
+    L -->|output| M[[awesomeVis.svg]]
+
+%% Custom styles
+style J fill:red,color:white,font-weight:bold
+style C fill:#01cefc
+style F fill:#01cefc
+style L fill:#01cefc
+style I fill:#F4F186 
+style A fill:#7BC882
+style E fill:#7BC882,font-weight:bold  
+style H fill:#7BC882,font-weight:bold
+style M fill:#7BC882,font-weight:bold
