@@ -21,7 +21,7 @@ You'll be constructing a pipeline process in XProc that does the following:
     * You could use the native XProc transformations to "wrap" or "unwrap" elements, or add attributes or delete nodes. 
     * You could write an XSLT identity transformation and apply `<xsl:analyze-string>` to match string patterns and add more markup.
    
-* Sends that output to at least one more pipeline processing step. You could:
+* Sends that output to at least one more pipeline processing step. **These are just some options to try: (Feel free to take this your own direction)!:**
      * Write XSLT to SVG from the output of the previous step to visualize some data that you're able to quantity in any way that you like.
      * Or, write XSLT to HTML to extract some information in a list or chart, or create a reading view. 
      * If working with Zoom transcript data, you could try isolating the spoken transcript portions and get a word count or `string-length()` value for each, and find out where the time segment with the most spoken words is located. To get a word count with XSLT, you can tokenize the text nodes with the `tokenize()` XPath function, and split the text apart on space characters like this:
@@ -34,7 +34,7 @@ You'll be constructing a pipeline process in XProc that does the following:
      
      ```xml
      <xsl:for-each select="transcript">
-           <xsl:variable name="wordTokens" select="tex() ! tokenize(., '\s+)"/>
+           <xsl:variable name="wordTokens" select="text() ! tokenize(., '\s+)"/>
            <xsl:variable name="countTokens" select="count($wordTokens)"/>
            
            <xsl:value-of select="$countTokens div $totalTokens"/>
