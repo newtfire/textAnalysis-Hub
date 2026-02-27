@@ -38,13 +38,14 @@ You'll be constructing a pipeline process in XProc that does the following:
            <xsl:variable name="countTokens" select="count($wordTokens)"/>
            
            <xsl:value-of select="$countTokens div $totalTokens"/>
-           
+         
        </xsl:for-each>
       ```  
       
-      How would you want to output that information? Inspect it and maybe limit the output to the to 10 longest or shortest segments: these would show whether the people are talking a lot faster in certain points and a lot slower than others.
       
-      You can plot that sort of thing with SVG and we want you to be able to do this for your projects. 
+How would you want to output that information? Inspect it and maybe limit the output to the to 10 longest or shortest segments: these would show whether the people are talking a lot faster in certain points and a lot slower than others. 
+
+You can plot that sort of thing with SVG and we want you to be able to do this for your projects. So try an XSLT-to-SVG transformation in your XProc pipeline.
       
 ## Script a pipeline in XProc     
 Follow our examples and guidance in the [XProc Pipelining Tutorial](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/xproc/XProc-Pipelining-Tutorial.md) and construct your pipeline. Run it with Calabash or Morgana to test this in stages as you go to help you debug if things go wrong.
