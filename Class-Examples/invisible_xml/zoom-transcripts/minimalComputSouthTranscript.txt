@@ -1,0 +1,11190 @@
+1
+00:00:03,350 --> 00:00:04,350
+Hi, Felix.
+
+2
+00:00:04,530 --> 00:00:06,110
+Hi, Elisa.
+
+3
+00:00:06,230 --> 00:00:08,130
+Yeah. So we have
+started recording.
+
+4
+00:00:09,710 --> 00:00:16,750
+We are redoing portions
+of our discussion
+
+5
+00:00:16,750 --> 00:00:19,570
+on minimal computing,
+this time to
+
+6
+00:00:19,570 --> 00:00:23,070
+record them and
+hopefully be able to
+
+7
+00:00:23,070 --> 00:00:27,230
+work with them. So I
+think I'm scrolling
+
+8
+00:00:27,230 --> 00:00:30,710
+through here. Oh,
+and you have, I see,
+
+9
+00:00:30,710 --> 00:00:33,330
+already fleshed out
+your introduction.
+
+10
+00:00:34,370 --> 00:00:36,370
+You like that portion,
+because I was going
+
+11
+00:00:36,370 --> 00:00:38,450
+to start by saying,
+Felix, tell us
+
+12
+00:00:38,450 --> 00:00:40,330
+about your background
+with minimal computing,
+
+13
+00:00:40,330 --> 00:00:41,850
+but I think you've
+already got that.
+
+14
+00:00:41,850 --> 00:00:42,410
+Yes.
+
+15
+00:00:44,150 --> 00:00:46,250
+Where should we begin?
+
+16
+00:00:47,810 --> 00:00:51,150
+Do you want to talk about
+
+17
+00:00:51,150 --> 00:00:55,550
+your experiences
+in Nigeria?
+
+18
+00:00:57,410 --> 00:01:01,010
+with minimal, and how
+that has influenced
+
+19
+00:01:01,010 --> 00:01:03,790
+your perspective
+on our discussions
+
+20
+00:01:03,790 --> 00:01:06,810
+of minimal computing
+generally. Is
+
+21
+00:01:06,810 --> 00:01:08,410
+that a good starting
+point? Because
+
+22
+00:01:08,410 --> 00:01:11,790
+you had a lot to
+say, and it was very,
+
+23
+00:01:13,470 --> 00:01:16,050
+it was very
+important, I think,
+
+24
+00:01:16,050 --> 00:01:17,830
+for this piece
+to have that.
+
+25
+00:01:19,770 --> 00:01:21,750
+I guess that's
+a big question.
+
+26
+00:01:22,020 --> 00:01:24,350
+I think I would like
+to begin with the fact
+
+27
+00:01:24,350 --> 00:01:29,030
+that the concept
+of the term minimum
+
+28
+00:01:29,030 --> 00:01:32,490
+computing, was it a
+thing, was not a thing.
+
+29
+00:01:33,490 --> 00:01:35,850
+If I should talk
+retrospectively
+
+30
+00:01:35,910 --> 00:01:39,310
+from 2017 to 2021,
+
+31
+00:01:39,750 --> 00:01:44,130
+so maybe what would
+be the term would
+
+32
+00:01:44,130 --> 00:01:49,750
+be lack of funding
+lack of resources,
+
+33
+00:01:50,990 --> 00:01:55,390
+lack of infrastructure,
+what do we do?
+
+34
+00:01:55,390 --> 00:02:00,390
+So I think the
+drive sincerely back
+
+35
+00:02:00,390 --> 00:02:04,830
+then was to get people
+to know about DH.
+
+36
+00:02:05,530 --> 00:02:09,570
+The drive wasn't
+really that much about
+
+37
+00:02:09,570 --> 00:02:14,830
+projects. The drive was
+all about human capacity
+
+38
+00:02:14,830 --> 00:02:19,710
+development it's obvious
+not in humanities
+
+39
+00:02:19,710 --> 00:02:23,190
+alone across sciences
+and other disciplines
+
+40
+00:02:23,190 --> 00:02:25,670
+i'll take a quick example
+from sciences where
+
+41
+00:02:25,670 --> 00:02:29,030
+a phd student in
+biochemistry or any of the
+
+42
+00:02:29,030 --> 00:02:31,550
+sciences would like
+to run a lab session
+
+43
+00:02:31,550 --> 00:02:35,970
+for a dissertation she
+or she would need a
+
+44
+00:02:35,970 --> 00:02:38,790
+chemical and most likely
+they buy it from the
+
+45
+00:02:38,790 --> 00:02:42,520
+west it takes a long
+time to ship it down if
+
+46
+00:02:42,610 --> 00:02:46,730
+that person is unfortunate
+to have a pei we
+
+47
+00:02:46,730 --> 00:02:50,550
+don't call it pei a
+supervisor who holds a
+
+48
+00:02:50,550 --> 00:02:55,130
+lab who has funding who
+can buy the chemicals
+
+49
+00:02:55,130 --> 00:02:57,790
+otherwise they will
+have to be in rotation
+
+50
+00:02:57,790 --> 00:03:00,530
+until one finishes
+before the other can come
+
+51
+00:03:00,530 --> 00:03:03,090
+up so the humanity case
+is not out of point
+
+52
+00:03:03,090 --> 00:03:06,130
+it's a general norm
+so but the challenge
+
+53
+00:03:06,130 --> 00:03:11,590
+there would be we don't
+know can somebody teach
+
+54
+00:03:11,590 --> 00:03:14,970
+us to know have an idea
+so i think that was
+
+55
+00:03:14,970 --> 00:03:17,730
+pretty much that was
+the background of ddh
+
+56
+00:03:17,730 --> 00:03:20,050
+in nigeria from my own
+perspective the training
+
+57
+00:03:20,050 --> 00:03:22,250
+purposes let's get
+them trained let's
+
+58
+00:03:22,250 --> 00:03:25,270
+harm them the second
+shift which i really think
+
+59
+00:03:25,270 --> 00:03:27,570
+it's very important
+to talk about beyond
+
+60
+00:03:27,570 --> 00:03:29,890
+the human capacity
+development is to train
+
+61
+00:03:29,890 --> 00:03:34,550
+people to be able to
+use dh method in their
+
+62
+00:03:34,550 --> 00:03:39,250
+respective i will call
+it traditional research
+
+63
+00:03:40,110 --> 00:03:42,030
+you know it's a
+long journey now
+
+64
+00:03:42,030 --> 00:03:44,010
+to begin to talk
+about dh projects
+
+65
+00:03:44,290 --> 00:03:46,690
+which humanity um minimal
+
+66
+00:03:46,690 --> 00:03:49,630
+computing now
+becomes very a very
+
+67
+00:03:49,630 --> 00:03:52,670
+table tool i mean
+in terms of um
+
+68
+00:03:53,150 --> 00:03:55,130
+how do we do the
+project this is
+
+69
+00:03:55,130 --> 00:03:56,850
+not a question
+the question is we
+
+70
+00:03:56,850 --> 00:03:58,870
+don't really know
+about dh We want to
+
+71
+00:03:58,870 --> 00:04:01,030
+know about it.
+Now that you know,
+
+72
+00:04:01,370 --> 00:04:05,050
+let's lay our hands
+on a tiny research
+
+73
+00:04:05,050 --> 00:04:08,210
+within your own
+research and make a
+
+74
+00:04:08,210 --> 00:04:12,010
+paper publication
+and try Voyant or try
+
+75
+00:04:12,010 --> 00:04:14,690
+Hong Kong and see
+if you can tweak it
+
+76
+00:04:14,690 --> 00:04:18,870
+with African-American,
+Nigerian texts,
+
+77
+00:04:19,590 --> 00:04:22,210
+Nigerian literature,
+and see what happens
+
+78
+00:04:22,210 --> 00:04:25,570
+in Chinua Achebe's
+teens fall apart and see
+
+79
+00:04:25,570 --> 00:04:28,130
+how you can track places.
+that kind of thing
+
+80
+00:04:28,130 --> 00:04:32,450
+so that was that was
+rigorous i really
+
+81
+00:04:32,450 --> 00:04:35,990
+really want to point
+that out the the payoff
+
+82
+00:04:35,990 --> 00:04:38,690
+for the human capacity
+development really
+
+83
+00:04:38,690 --> 00:04:42,310
+really was a great deal
+so we started off from
+
+84
+00:04:42,310 --> 00:04:45,610
+the scratch um knowing
+about it and we scale
+
+85
+00:04:45,610 --> 00:04:49,030
+up from that i i
+could remember vividly
+
+86
+00:04:49,030 --> 00:04:53,150
+2021 um Professor
+Tunde, who happens to be
+
+87
+00:04:53,150 --> 00:04:58,030
+the Center for Digital
+Humanities in Lagos,
+
+88
+00:04:58,030 --> 00:05:00,990
+was able to bring
+people from not
+
+89
+00:05:00,990 --> 00:05:02,830
+only West Africa, I
+think West African
+
+90
+00:05:02,830 --> 00:05:04,710
+and East Africa
+early career
+
+91
+00:05:04,710 --> 00:05:08,110
+researchers to be
+trained. Of course,
+
+92
+00:05:08,430 --> 00:05:11,990
+thanks to the Volkswagen
+Foundation or the
+
+93
+00:05:11,990 --> 00:05:15,970
+German Foundation who
+always assist in training
+
+94
+00:05:15,970 --> 00:05:20,110
+and bringing people
+together. and many
+
+95
+00:05:20,110 --> 00:05:24,190
+from different disciplines
+from french from
+
+96
+00:05:24,190 --> 00:05:26,970
+english from humanities
+specific disciplines
+
+97
+00:05:26,970 --> 00:05:32,570
+came on board very excited
+to learn very happy
+
+98
+00:05:32,570 --> 00:05:35,890
+to see wow these two
+can do this one this
+
+99
+00:05:35,890 --> 00:05:39,490
+can turn my research
+around and within the
+
+100
+00:05:39,490 --> 00:05:43,370
+space of i mean a couple
+of couple of months
+
+101
+00:05:43,370 --> 00:05:47,890
+or let's say within
+that season what we
+
+102
+00:05:47,890 --> 00:05:51,830
+noticed of course i am a
+product of that noticeable
+
+103
+00:05:51,830 --> 00:05:57,190
+trend many got to
+western universities
+
+104
+00:05:57,190 --> 00:06:03,050
+to pursue that knowledge
+knowledge drive yeah
+
+105
+00:06:03,050 --> 00:06:05,930
+yeah so that was it
+picked you up and moved
+
+106
+00:06:05,930 --> 00:06:10,470
+you to new places and
+that also helps you
+
+107
+00:06:10,470 --> 00:06:14,090
+find new methods and
+new methods so it feels
+
+108
+00:06:14,090 --> 00:06:17,530
+like yeah we can't talk
+about minimal competing
+
+109
+00:06:17,530 --> 00:06:20,550
+in the global south
+without discussing
+
+110
+00:06:20,550 --> 00:06:25,250
+the importance of
+educating communities first
+
+111
+00:06:25,250 --> 00:06:29,170
+correct i i you you
+you have the right word
+
+112
+00:06:29,170 --> 00:06:32,570
+it's the community the
+community of practice
+
+113
+00:06:32,570 --> 00:06:36,390
+and you know what
+i'm pretty much sure
+
+114
+00:06:36,390 --> 00:06:38,810
+maybe from your background
+in the north that
+
+115
+00:06:38,810 --> 00:06:43,470
+might be similar there
+is this apathy against
+
+116
+00:06:43,470 --> 00:06:50,270
+learning or applying
+dh or dh2 or method to
+
+117
+00:06:50,270 --> 00:06:55,770
+our already registered
+long term over the
+
+118
+00:06:55,770 --> 00:07:00,550
+decade traditional
+research so the brevity of
+
+119
+00:07:01,730 --> 00:07:07,010
+to share, even when
+faculty members
+
+120
+00:07:07,330 --> 00:07:09,730
+don't like what
+he was doing.
+
+121
+00:07:10,600 --> 00:07:13,090
+Yeah, they don't
+want it. He is
+
+122
+00:07:13,090 --> 00:07:15,910
+a professor of
+digital studies,
+
+123
+00:07:16,150 --> 00:07:19,310
+where you call it
+discourse analysis.
+
+124
+00:07:19,490 --> 00:07:23,330
+And he works with
+political discourse of a
+
+125
+00:07:23,330 --> 00:07:25,890
+particular election
+year in 1993, which was
+
+126
+00:07:25,890 --> 00:07:28,820
+very, very funny. so
+he was able to produce
+
+127
+00:07:28,820 --> 00:07:32,610
+volumes and research in
+that area but when he
+
+128
+00:07:32,610 --> 00:07:37,090
+but when he traveled
+for his um um alexander
+
+129
+00:07:37,090 --> 00:07:41,610
+von um experience
+researcher fellowship
+
+130
+00:07:41,700 --> 00:07:45,490
+back then in germany he
+was introduced to the
+
+131
+00:07:45,490 --> 00:07:50,230
+edge so he came back
+he felt this is what is
+
+132
+00:07:50,230 --> 00:07:53,510
+going to happen now i
+have to train people
+
+133
+00:07:54,030 --> 00:07:57,310
+So he became the
+first person to be
+
+134
+00:07:57,310 --> 00:08:01,800
+called a professor
+in DH because he
+
+135
+00:08:01,800 --> 00:08:04,630
+brought everything
+down from Germany and
+
+136
+00:08:04,630 --> 00:08:08,690
+he brought trainer,
+coordinator, people
+
+137
+00:08:08,690 --> 00:08:10,830
+who can actually
+assist him. He brought
+
+138
+00:08:10,830 --> 00:08:13,670
+them down. And he
+also learned with
+
+139
+00:08:13,670 --> 00:08:16,590
+us, with the team
+and the community.
+
+140
+00:08:16,590 --> 00:08:18,870
+He learned together.
+He was able to
+
+141
+00:08:18,870 --> 00:08:21,970
+bring his expertise
+on board because
+
+142
+00:08:21,970 --> 00:08:23,570
+of his connections,
+to bring people
+
+143
+00:08:23,570 --> 00:08:25,510
+to come and train.
+Like I mentioned
+
+144
+00:08:25,510 --> 00:08:30,010
+last week, Alex
+was down in Lagos.
+
+145
+00:08:30,790 --> 00:08:32,590
+Ovin was in Lagos.
+
+146
+00:08:33,230 --> 00:08:35,310
+Dan and Old owner
+was in Lagos.
+
+147
+00:08:35,630 --> 00:08:36,950
+I mean, in person,
+
+148
+00:08:37,110 --> 00:08:40,370
+Queen did that remotely.
+
+149
+00:08:40,530 --> 00:08:42,270
+So a lot of people would
+
+150
+00:08:42,270 --> 00:08:44,110
+want to come
+down to teach.
+
+151
+00:08:44,150 --> 00:08:46,350
+That was the drive,
+and that was really
+
+152
+00:08:46,350 --> 00:08:49,770
+impactful. what we see
+um the trend we see
+
+153
+00:08:49,770 --> 00:08:54,230
+afterwards um was one two
+three four five number
+
+154
+00:08:54,230 --> 00:08:58,230
+keeps going on who
+went after beyond the
+
+155
+00:08:58,230 --> 00:09:00,750
+conferences and summer
+schools because he runs
+
+156
+00:09:00,750 --> 00:09:03,430
+summer schools and
+winter schools and
+
+157
+00:09:03,430 --> 00:09:07,150
+conferences then established
+through the training
+
+158
+00:09:07,150 --> 00:09:10,030
+established association
+like um like the
+
+159
+00:09:10,030 --> 00:09:12,490
+acm we have here uh digital
+humanity association
+
+160
+00:09:12,490 --> 00:09:15,620
+of nigeria and that
+was the first no
+
+161
+00:09:15,620 --> 00:09:17,730
+we don't we never had
+anyone that was the
+
+162
+00:09:17,730 --> 00:09:20,550
+first in the training
+so so what year was that
+
+163
+00:09:20,550 --> 00:09:24,430
+about just to put a
+pin on that and do you
+
+164
+00:09:24,430 --> 00:09:25,930
+know do you remember
+what year that was when
+
+165
+00:09:25,930 --> 00:09:29,990
+he had that first
+training 2017 yeah so
+
+166
+00:09:29,990 --> 00:09:33,850
+that's yes we had summer
+school we had conferences
+
+167
+00:09:33,850 --> 00:09:37,190
+uh 2018 the boss who
+again gave another
+
+168
+00:09:37,190 --> 00:09:41,590
+fund we have summer
+school 2019 till 2021
+
+169
+00:09:41,960 --> 00:09:46,070
+the 2021 was a
+combination of win either
+
+170
+00:09:46,070 --> 00:09:48,470
+winter school plus
+conference so we can wait
+
+171
+00:09:48,470 --> 00:09:53,570
+so it was busy with
+writing proposal for grants
+
+172
+00:09:53,620 --> 00:09:58,050
+i need help people
+need this people need
+
+173
+00:09:58,050 --> 00:10:00,870
+to and and the
+interesting part of it is
+
+174
+00:10:00,870 --> 00:10:03,790
+beyond the training
+like i mentioned we now
+
+175
+00:10:03,790 --> 00:10:08,930
+have an association of
+th um i think they run
+
+176
+00:10:08,930 --> 00:10:10,430
+i'm not pretty much
+sure if they run a
+
+177
+00:10:10,430 --> 00:10:13,530
+journal but the association
+was established and
+
+178
+00:10:13,530 --> 00:10:17,990
+the the migration of
+people to go to the
+
+179
+00:10:17,990 --> 00:10:21,030
+west to learn more was
+was really really um
+
+180
+00:10:21,030 --> 00:10:25,330
+interesting and from
+there we have postdocs
+
+181
+00:10:25,330 --> 00:10:29,930
+going into germany too
+through his own manpower
+
+182
+00:10:29,930 --> 00:10:32,130
+through his own
+connections through his
+
+183
+00:10:32,130 --> 00:10:35,350
+own training and these
+product students were
+
+184
+00:10:35,350 --> 00:10:39,110
+not the age inclined
+before they had a taste
+
+185
+00:10:39,110 --> 00:10:42,390
+of a summer school of
+a conference and they
+
+186
+00:10:42,390 --> 00:10:44,210
+just see oh this is
+what i'm doing i'm
+
+187
+00:10:44,210 --> 00:10:46,410
+being multimode at this
+course analysis i can
+
+188
+00:10:46,410 --> 00:10:49,470
+use it too okay and it
+became a postdoctoral
+
+189
+00:10:49,470 --> 00:10:52,110
+um training for them
+outside the country.
+
+190
+00:10:52,790 --> 00:10:55,950
+And to say the
+least, now we have a
+
+191
+00:10:55,950 --> 00:10:58,890
+subdiscipline branching
+out from there, which
+
+192
+00:10:58,890 --> 00:11:01,330
+is called corpus
+linguistics. They also
+
+193
+00:11:01,330 --> 00:11:04,590
+felt if Professor
+Tunde could take this
+
+194
+00:11:04,590 --> 00:11:07,550
+responsibility to train
+people, and they've
+
+195
+00:11:07,550 --> 00:11:10,350
+been doing some
+smaller data analysis,
+
+196
+00:11:10,430 --> 00:11:12,810
+this set of researchers,
+but they felt we
+
+197
+00:11:12,810 --> 00:11:15,810
+need a broad scale
+corpus. And they just
+
+198
+00:11:15,810 --> 00:11:19,630
+developed um that
+subdisciplines um from the
+
+199
+00:11:19,630 --> 00:11:23,100
+west um discipline of
+course linguistics so i
+
+200
+00:11:23,100 --> 00:11:26,470
+really really want to
+point that out i never
+
+201
+00:11:26,470 --> 00:11:29,630
+i wasn't sure i knew
+what of course um
+
+202
+00:11:29,630 --> 00:11:32,110
+when general came we
+heard about minimal
+
+203
+00:11:32,110 --> 00:11:34,870
+computing but do we really
+understand what minimal
+
+204
+00:11:34,870 --> 00:11:37,110
+computing is do we
+have cooperative
+
+205
+00:11:37,110 --> 00:11:39,670
+projects that we can sit
+down together like in
+
+206
+00:11:39,670 --> 00:11:41,590
+the west you have to
+work with other partners
+
+207
+00:11:41,590 --> 00:11:43,630
+do we have community
+partners that we want
+
+208
+00:11:43,630 --> 00:11:46,310
+to work together um
+to work on a project
+
+209
+00:11:46,310 --> 00:11:48,530
+and begin to think
+about what do we have
+
+210
+00:11:49,150 --> 00:11:52,610
+what approach we take
+we we don't have that
+
+211
+00:11:52,610 --> 00:11:55,370
+what do we need right
+what do we need and like
+
+212
+00:11:55,370 --> 00:11:57,930
+even what we would
+be willing to give up
+
+213
+00:11:57,930 --> 00:12:00,570
+you're just getting
+started so that last
+
+214
+00:12:00,570 --> 00:12:03,390
+question is sort of wait
+it's really maybe the
+
+215
+00:12:03,390 --> 00:12:05,790
+emphasis is on what
+do we need and what do
+
+216
+00:12:05,790 --> 00:12:08,290
+we have what do we
+have yeah so the the
+
+217
+00:12:08,290 --> 00:12:10,250
+approach to the questions
+will be different
+
+218
+00:12:10,250 --> 00:12:13,830
+from one global south
+country to another um
+
+219
+00:12:13,830 --> 00:12:16,650
+and i'm pretty much
+sure that's a good
+
+220
+00:12:16,650 --> 00:12:19,590
+consideration for us to
+talk about to really see
+
+221
+00:12:19,590 --> 00:12:23,550
+um the differences in
+approach even up even
+
+222
+00:12:23,550 --> 00:12:26,710
+when we in times
+conceptualize the minimum
+
+223
+00:12:26,710 --> 00:12:29,170
+computing in the global
+south we still have
+
+224
+00:12:29,170 --> 00:12:31,730
+to understand the
+background the cultural
+
+225
+00:12:31,730 --> 00:12:35,270
+differences and how that
+fits into the global
+
+226
+00:12:35,270 --> 00:12:37,670
+south i think that's
+a go start for me i
+
+227
+00:12:37,710 --> 00:12:41,290
+feel like listening to
+you describe this um
+
+228
+00:12:41,290 --> 00:12:45,630
+kind of the the
+origins of um digital
+
+229
+00:12:45,630 --> 00:12:51,990
+humanities um from what
+all the in in nigeria
+
+230
+00:12:51,990 --> 00:12:56,030
+and like sort of east
+africa right um west
+
+231
+00:12:56,030 --> 00:13:01,270
+africa yeah okay um the
+hearing you talk about
+
+232
+00:13:01,270 --> 00:13:03,350
+that because it was
+multiple countries and
+
+233
+00:13:03,350 --> 00:13:05,070
+many different people
+involved, but there's
+
+234
+00:13:05,070 --> 00:13:08,130
+this organizing effort
+and all of those.
+
+235
+00:13:08,850 --> 00:13:12,970
+One of the questions
+that might be directly
+
+236
+00:13:12,970 --> 00:13:14,990
+relevant to minimal
+computing in the
+
+237
+00:13:14,990 --> 00:13:19,090
+global South is what
+do we need to learn?
+
+238
+00:13:19,310 --> 00:13:26,330
+Because the decision
+that your mentor had
+
+239
+00:13:26,330 --> 00:13:28,490
+to make, you know the
+decisions that everyone
+
+240
+00:13:28,490 --> 00:13:32,410
+made in that moment
+were oh ant conch
+
+241
+00:13:32,410 --> 00:13:35,630
+is helpful to us or
+voyant is helpful as
+
+242
+00:13:35,630 --> 00:13:38,670
+a starting point and
+i remember making a
+
+243
+00:13:38,670 --> 00:13:41,190
+similar decision it's
+not related to your
+
+244
+00:13:41,190 --> 00:13:43,690
+situation but when new
+students are coming
+
+245
+00:13:43,690 --> 00:13:46,860
+to to learn what is
+digital humanities as
+
+246
+00:13:47,350 --> 00:13:51,150
+undergraduates even
+where i am i want them
+
+247
+00:13:51,150 --> 00:13:55,150
+to see oh a computer
+can look at text as
+
+248
+00:13:55,150 --> 00:13:57,230
+a bunch of little
+pieces and assemble them
+
+249
+00:13:57,230 --> 00:14:00,130
+and ant conch is my
+favorite i like voyant
+
+250
+00:14:00,130 --> 00:14:01,630
+too because it's
+pretty and it's easy
+
+251
+00:14:01,630 --> 00:14:05,470
+to use but ant conch
+is such a nice little
+
+252
+00:14:05,470 --> 00:14:09,610
+self-contained system
+and it's small and
+
+253
+00:14:09,730 --> 00:14:12,290
+you can learn how to
+customize it you can
+
+254
+00:14:12,290 --> 00:14:14,630
+learn how to customize
+both of those things
+
+255
+00:14:14,870 --> 00:14:17,370
+and i also liked
+working with them
+
+256
+00:14:17,370 --> 00:14:20,530
+together um to say
+look they work very
+
+257
+00:14:20,530 --> 00:14:22,830
+differently and
+you might want to
+
+258
+00:14:22,830 --> 00:14:24,370
+make a decision
+about which one of
+
+259
+00:14:24,370 --> 00:14:26,310
+these is better for
+what you're doing
+
+260
+00:14:27,250 --> 00:14:30,790
+and like right there
+we sort of shook hands
+
+261
+00:14:30,790 --> 00:14:34,250
+on a particular method
+i don't use voyant and
+
+262
+00:14:34,250 --> 00:14:37,150
+ant conch very much
+in my own professional
+
+263
+00:14:37,150 --> 00:14:39,830
+research but i like
+it as a starting point
+
+264
+00:14:39,830 --> 00:14:43,150
+to show people oh here's
+something interesting
+
+265
+00:14:43,150 --> 00:14:45,630
+you can do with
+computers and humanities
+
+266
+00:14:45,630 --> 00:14:48,910
+research questions so
+yeah and the linguistic
+
+267
+00:14:48,910 --> 00:14:51,610
+side of it is so
+important yeah i think
+
+268
+00:14:51,610 --> 00:14:53,750
+that's that's very
+important when we talk about
+
+269
+00:14:53,750 --> 00:14:58,650
+dh method in this method
+used in global stuff
+
+270
+00:14:58,650 --> 00:15:00,470
+i think it's very
+important to point to
+
+271
+00:15:00,470 --> 00:15:03,430
+that fact that if you
+want to train people the
+
+272
+00:15:03,430 --> 00:15:06,590
+community of practice
+the first thing would
+
+273
+00:15:06,590 --> 00:15:10,030
+be what do we train
+them um and what how
+
+274
+00:15:10,030 --> 00:15:13,010
+long can we go for them
+to really accumulate
+
+275
+00:15:13,010 --> 00:15:16,770
+and being able to use
+them so i remember um
+
+276
+00:15:16,770 --> 00:15:21,870
+priestly from canada
+also came to train us on
+
+277
+00:15:21,990 --> 00:15:25,490
+um buoyant and i think
+pretty much he brought
+
+278
+00:15:25,490 --> 00:15:29,230
+the book by rockwin
+and sinclair a
+
+279
+00:15:29,740 --> 00:15:34,830
+physical copy we should
+cite that in the paper
+
+280
+00:15:35,850 --> 00:15:40,750
+physical copy yeah
+physical books so
+
+281
+00:15:40,750 --> 00:15:43,230
+do you think
+why was that so
+
+282
+00:15:43,230 --> 00:15:44,950
+remarkable that it
+was a physical copy
+
+283
+00:15:44,950 --> 00:15:46,690
+and not just like a
+link that you would
+
+284
+00:15:46,690 --> 00:15:50,010
+look at it's I
+mean it's amazing
+
+285
+00:15:51,350 --> 00:15:53,810
+that we do physical
+books in digital
+
+286
+00:15:53,810 --> 00:15:58,810
+humanities I guess
+yeah like okay so
+
+287
+00:16:00,730 --> 00:16:06,570
+I remember before I
+could say I had that
+
+288
+00:16:06,570 --> 00:16:08,230
+much of the feeling
+was when I moved to
+
+289
+00:16:08,230 --> 00:16:11,610
+Loyola that my center
+has a copy. Then I
+
+290
+00:16:11,610 --> 00:16:14,690
+could grab it. I could
+read it. You know,
+
+291
+00:16:14,690 --> 00:16:17,030
+we talked about that
+last week. When you
+
+292
+00:16:17,030 --> 00:16:19,670
+talked about visiting
+the archives, Zit and
+
+293
+00:16:19,670 --> 00:16:22,840
+Lagos, I don't remember,
+but the physical
+
+294
+00:16:25,050 --> 00:16:28,210
+presence of resources,
+you couldn't take
+
+295
+00:16:28,210 --> 00:16:30,150
+that for granted.
+But if it was there,
+
+296
+00:16:30,690 --> 00:16:34,350
+being able to give
+somebody a book or share
+
+297
+00:16:34,350 --> 00:16:37,090
+it with somebody made
+a personal connection
+
+298
+00:16:37,090 --> 00:16:39,370
+with them or made
+it possible for you
+
+299
+00:16:39,370 --> 00:16:42,250
+to access an archive
+that you had to know
+
+300
+00:16:42,250 --> 00:16:44,230
+the humans involved.
+But like, do you
+
+301
+00:16:44,230 --> 00:16:46,790
+feel like that's also
+part of the digital
+
+302
+00:16:46,790 --> 00:16:50,910
+humanities training
+experience is there's
+
+303
+00:16:50,910 --> 00:16:53,410
+something reliable
+about having physical
+
+304
+00:16:53,410 --> 00:16:56,770
+resources that support
+your digital work?
+
+305
+00:16:56,790 --> 00:16:59,690
+I'm thinking about
+that in two ways. First
+
+306
+00:16:59,690 --> 00:17:03,170
+is the challenge of
+having access to resources
+
+307
+00:17:03,380 --> 00:17:06,130
+would be a major
+one. So when you now
+
+308
+00:17:06,130 --> 00:17:09,810
+see an example, you
+want to have that kind
+
+309
+00:17:09,810 --> 00:17:11,730
+of connection with
+the resources, either
+
+310
+00:17:11,730 --> 00:17:15,030
+manuscripts or textbook,
+and you would like to
+
+311
+00:17:15,030 --> 00:17:17,790
+continue to use them
+in such a way that you
+
+312
+00:17:17,790 --> 00:17:19,650
+know you don't have
+access to read again.
+
+313
+00:17:19,650 --> 00:17:21,030
+So I think the
+first thing
+
+314
+00:17:21,030 --> 00:17:22,380
+is the question
+of access.
+
+315
+00:17:22,550 --> 00:17:24,750
+Access. Access
+to funding,
+
+316
+00:17:24,850 --> 00:17:26,310
+access to resources,
+
+317
+00:17:26,450 --> 00:17:27,930
+access to textbook,
+
+318
+00:17:28,050 --> 00:17:30,370
+access to manuscript.
+It's a major challenge.
+
+319
+00:17:30,370 --> 00:17:32,750
+I remember when we
+were trained, at that
+
+320
+00:17:32,750 --> 00:17:35,990
+time, we were asked
+to check up Project
+
+321
+00:17:35,990 --> 00:17:41,170
+Gutenberg for copies of
+electronic books that
+
+322
+00:17:41,170 --> 00:17:44,090
+we can download. Because
+I remember AntCon
+
+323
+00:17:44,090 --> 00:17:47,750
+allows .txt files, so
+we have to convert the
+
+324
+00:17:47,750 --> 00:17:50,130
+PDF to .txt. That's
+part of the training.
+
+325
+00:17:50,130 --> 00:17:52,890
+Yeah, you have to learn
+document conversion.
+
+326
+00:17:53,370 --> 00:17:53,990
+Yeah.
+
+327
+00:17:54,950 --> 00:17:58,570
+But now we have the
+physical copy. So I
+
+328
+00:17:58,570 --> 00:18:00,730
+think that's very
+important. the second thing
+
+329
+00:18:00,730 --> 00:18:04,730
+that beyond access
+is um this kind of
+
+330
+00:18:04,730 --> 00:18:08,570
+sustained interest it
+gives you kind of sustained
+
+331
+00:18:08,570 --> 00:18:09,970
+interest when you
+have access to the
+
+332
+00:18:09,970 --> 00:18:12,430
+physical resources like
+the manuscripts in the
+
+333
+00:18:12,430 --> 00:18:16,110
+archives beyond the
+proposal beyond the
+
+334
+00:18:16,110 --> 00:18:19,650
+the the hamchair thinking
+about you want to
+
+335
+00:18:19,650 --> 00:18:21,470
+work on the research
+in the archive when
+
+336
+00:18:21,470 --> 00:18:23,980
+you have a touch with
+the physical material
+
+337
+00:18:23,980 --> 00:18:26,490
+the materiality gives
+you that kind of
+
+338
+00:18:26,490 --> 00:18:30,130
+sustained interest in
+that research it keeps you
+
+339
+00:18:30,130 --> 00:18:33,270
+awake helps you to
+think about it the the
+
+340
+00:18:33,270 --> 00:18:36,630
+archives of care if
+they they are fragile
+
+341
+00:18:36,630 --> 00:18:39,690
+the archive is or the
+material um material
+
+342
+00:18:39,690 --> 00:18:42,130
+effect is this so um i
+think the first thing
+
+343
+00:18:42,130 --> 00:18:44,150
+is the access the
+second one is the
+
+344
+00:18:44,150 --> 00:18:46,990
+sustained interest that
+the researcher get close
+
+345
+00:18:46,990 --> 00:18:50,050
+um get when they
+get close to to the
+
+346
+00:18:50,050 --> 00:18:53,750
+material object so it's
+it It kind of shapes
+
+347
+00:18:53,750 --> 00:18:57,170
+the paradigm of the
+traditional discipline.
+
+348
+00:18:57,210 --> 00:19:00,070
+When we read books,
+we do everything,
+
+349
+00:19:00,070 --> 00:19:02,610
+but this time around,
+you have a resource
+
+350
+00:19:02,610 --> 00:19:04,490
+to go back to like
+the human ethical
+
+351
+00:19:04,490 --> 00:19:07,190
+book. When you
+have issues with
+
+352
+00:19:07,190 --> 00:19:09,010
+and you have a book
+by your side, you
+
+353
+00:19:09,010 --> 00:19:11,610
+can flip through the
+pages and use it.
+
+354
+00:19:12,410 --> 00:19:13,790
+And I think,
+
+355
+00:19:14,230 --> 00:19:19,810
+I must say this, when
+rupico produced the um
+
+356
+00:19:19,810 --> 00:19:24,210
+edited digital black
+atlantic um professor
+
+357
+00:19:24,210 --> 00:19:27,790
+tunde um wrote a chapter
+and another scholar
+
+358
+00:19:27,790 --> 00:19:30,230
+from canada wrote
+another chapter i was in
+
+359
+00:19:30,230 --> 00:19:34,130
+nigeria i spoke with
+my brother in the u.s
+
+360
+00:19:34,130 --> 00:19:38,950
+paid for a physical
+copy i needed a physical
+
+361
+00:19:38,950 --> 00:19:41,770
+copy so when i moved
+in in january that was
+
+362
+00:19:41,770 --> 00:19:45,530
+my first welcome book
+i'm trying to see if i
+
+363
+00:19:45,530 --> 00:19:48,870
+have my physical copy
+here but i got a physical
+
+364
+00:19:48,870 --> 00:19:52,290
+copy of it too it
+might be in my office
+
+365
+00:19:52,290 --> 00:19:56,190
+school mine is in a chef
+with me here so when
+
+366
+00:19:56,190 --> 00:20:00,110
+i visited here it is
+oh cool physical book
+
+367
+00:20:00,110 --> 00:20:03,770
+yeah i want to read
+books like this in a
+
+368
+00:20:03,770 --> 00:20:07,030
+physical form yeah even
+though i don't know if
+
+369
+00:20:07,030 --> 00:20:09,210
+it's hard to get a
+digital copy but that's
+
+370
+00:20:09,210 --> 00:20:11,670
+just it you don't know
+if a digital copy is
+
+371
+00:20:11,670 --> 00:20:14,770
+available for free now
+it might be behind a
+
+372
+00:20:14,770 --> 00:20:17,430
+paywall i don't remember
+the situation with
+
+373
+00:20:17,430 --> 00:20:20,670
+this book but you know
+it's yeah i have this
+
+374
+00:20:20,670 --> 00:20:24,510
+book right someday
+it may be updated and
+
+375
+00:20:24,510 --> 00:20:28,570
+that's fine but i have
+the first one i mean just
+
+376
+00:20:28,570 --> 00:20:31,050
+to portray the fact
+of the fact of access
+
+377
+00:20:31,050 --> 00:20:35,050
+and the sustained
+interest i remember paying
+
+378
+00:20:35,050 --> 00:20:38,230
+in in of course
+conversion rate in nigeria
+
+379
+00:20:38,890 --> 00:20:41,910
+currency for my
+brother to keep to
+
+380
+00:20:41,910 --> 00:20:43,530
+to ship it to my
+brother's house in
+
+381
+00:20:43,530 --> 00:20:46,990
+the u.s and keep it
+for me when i came
+
+382
+00:20:46,990 --> 00:20:49,710
+i grab it this is
+my physical copy
+
+383
+00:20:50,590 --> 00:20:53,130
+it was like my
+introduction to
+
+384
+00:20:53,130 --> 00:20:56,690
+masters in dh in
+the u.s i have
+
+385
+00:20:56,690 --> 00:20:58,870
+that physical copy
+so when you see
+
+386
+00:20:59,030 --> 00:21:02,050
+when you see that
+you want to continue
+
+387
+00:21:02,050 --> 00:21:03,610
+in that path of
+the district where
+
+388
+00:21:03,610 --> 00:21:06,300
+you have access
+to resources which
+
+389
+00:21:06,300 --> 00:21:09,110
+is a challenge in
+the global stuff
+
+390
+00:21:09,110 --> 00:21:12,610
+access to resources
+access to manpower
+
+391
+00:21:12,950 --> 00:21:16,830
+access to manuscript
+it's a challenge even
+
+392
+00:21:16,830 --> 00:21:19,790
+when you think you have
+the limited access to
+
+393
+00:21:19,790 --> 00:21:23,050
+internet the wi-fi
+it's still a challenge
+
+394
+00:21:23,050 --> 00:21:27,170
+or limited limited access
+i remember was saying
+
+395
+00:21:27,170 --> 00:21:31,350
+this last week to the
+the power the power
+
+396
+00:21:31,350 --> 00:21:34,970
+source you don't have
+it all day so it's
+
+397
+00:21:34,970 --> 00:21:37,480
+still a challenge so
+imagine you want to run
+
+398
+00:21:37,480 --> 00:21:39,730
+some algorithm on your
+system and you have to
+
+399
+00:21:39,730 --> 00:21:41,370
+leave it so you have
+to look for whether
+
+400
+00:21:41,370 --> 00:21:43,650
+it's power source that
+can sustain your work
+
+401
+00:21:43,650 --> 00:21:46,970
+need electricity yeah
+and that's not granted
+
+402
+00:21:46,970 --> 00:21:50,870
+yeah oh it's it's a
+lot it's a lot because
+
+403
+00:21:50,870 --> 00:21:54,230
+we've learned to take
+up the challenge one
+
+404
+00:21:54,230 --> 00:21:56,610
+after the other I mean
+a little by little of
+
+405
+00:21:56,610 --> 00:22:00,390
+course minimally and to
+also see other resources
+
+406
+00:22:00,390 --> 00:22:03,470
+beyond the global
+south to ask for
+
+407
+00:22:03,470 --> 00:22:06,150
+resources beyond the global
+south I remember 2019
+
+408
+00:22:06,180 --> 00:22:09,490
+after the trainings
+we've had from Lagos
+
+409
+00:22:09,490 --> 00:22:14,590
+Professor Tunde was a
+chair within the Adho
+
+410
+00:22:14,590 --> 00:22:18,390
+2019 conference that
+specializes in training
+
+411
+00:22:18,390 --> 00:22:23,470
+african dh so i remember
+saying he sent it to
+
+412
+00:22:23,470 --> 00:22:26,550
+me and other people who
+had showed up during
+
+413
+00:22:26,550 --> 00:22:29,140
+some of the summer
+schools and conferences
+
+414
+00:22:29,140 --> 00:22:32,170
+you guys should apply
+he didn't tell us it
+
+415
+00:22:32,170 --> 00:22:34,270
+was part of the committee
+he just told us to
+
+416
+00:22:34,270 --> 00:22:38,180
+apply and we did and
+i think six of us or
+
+417
+00:22:38,180 --> 00:22:41,990
+if not less than six
+traveled to to the
+
+418
+00:22:41,990 --> 00:22:46,070
+netherlands to get a whole
+one week pre-conference
+
+419
+00:22:46,070 --> 00:22:48,670
+workshop so we had
+one week in lighting
+
+420
+00:22:48,670 --> 00:22:53,250
+2019 before we moved
+down to utrecht and the
+
+421
+00:22:53,250 --> 00:22:56,330
+training we got in in
+a week we're able to
+
+422
+00:22:56,330 --> 00:23:01,010
+produce a poster for the
+2019 dh conference um
+
+423
+00:23:01,010 --> 00:23:03,790
+poster session which
+was just within one
+
+424
+00:23:03,790 --> 00:23:10,160
+week so it's great that
+he did not bring um
+
+425
+00:23:10,160 --> 00:23:13,110
+trained people brought
+people to come and train
+
+426
+00:23:13,110 --> 00:23:16,730
+us he also took us out
+to go and experience
+
+427
+00:23:16,730 --> 00:23:18,470
+the professional
+connections the professional
+
+428
+00:23:18,470 --> 00:23:21,450
+network i remember i
+met jeffrey walkway
+
+429
+00:23:21,450 --> 00:23:24,590
+in person you know
+you've read a book you
+
+430
+00:23:24,590 --> 00:23:27,270
+saw him you know that
+conference was over a
+
+431
+00:23:27,270 --> 00:23:29,570
+thousand or so
+participants so it's very
+
+432
+00:23:29,570 --> 00:23:32,810
+difficult to really grab
+people i remember working
+
+433
+00:23:32,810 --> 00:23:34,710
+with him and asking
+him questions you know
+
+434
+00:23:34,710 --> 00:23:37,230
+very implicitly about
+this amenity code is
+
+435
+00:23:37,230 --> 00:23:40,590
+going on and on and
+on so i could see that
+
+436
+00:23:40,590 --> 00:23:44,370
+kind of um his way of
+connecting us with the
+
+437
+00:23:44,370 --> 00:23:46,470
+professional world
+beyond the global south
+
+438
+00:23:46,470 --> 00:23:50,170
+practice or struggling
+or lack of this or
+
+439
+00:23:50,170 --> 00:23:52,970
+that so he was able to
+ship us out you go have
+
+440
+00:23:52,970 --> 00:23:57,230
+experience to really
+see how dh work outside
+
+441
+00:23:57,230 --> 00:24:00,570
+so that's that's
+immensely um important
+
+442
+00:24:00,570 --> 00:24:02,670
+for me to stress so it
+was instrumental yeah
+
+443
+00:24:02,750 --> 00:24:09,050
+it It sounds like
+bringing people from West
+
+444
+00:24:09,050 --> 00:24:13,670
+Africa to the Netherlands
+wasn't just about,
+
+445
+00:24:13,850 --> 00:24:16,330
+you know, you're going
+to learn these tools
+
+446
+00:24:16,330 --> 00:24:19,250
+and methods, but it
+feels to me, and just
+
+447
+00:24:19,250 --> 00:24:21,380
+from my own experience
+of being at DH
+
+448
+00:24:21,380 --> 00:24:24,010
+conferences and workshops,
+that you have an
+
+449
+00:24:24,010 --> 00:24:26,390
+opportunity to have a
+conversation with the
+
+450
+00:24:26,390 --> 00:24:29,370
+makers of that tool.
+And that if I know
+
+451
+00:24:29,370 --> 00:24:32,630
+Jeffrey Rockwell, I
+bet he started thinking
+
+452
+00:24:32,630 --> 00:24:35,030
+about some of your
+questions and said, oh,
+
+453
+00:24:35,270 --> 00:24:37,430
+you know, wait, maybe
+we should change
+
+454
+00:24:37,430 --> 00:24:40,150
+the tool a certain way
+or maybe we can, you
+
+455
+00:24:40,150 --> 00:24:42,530
+know, like we have
+a new challenge to
+
+456
+00:24:42,530 --> 00:24:46,190
+address with analyzing
+texts thanks to what
+
+457
+00:24:46,190 --> 00:24:48,810
+you're bringing. You
+are very, very right,
+
+458
+00:24:48,810 --> 00:24:51,370
+because we were trained
+on the pedagogical
+
+459
+00:24:51,370 --> 00:24:54,690
+landscape. We're
+trained to learn
+
+460
+00:24:54,690 --> 00:24:58,870
+how DH works in terms
+of practice. And I
+
+461
+00:24:58,870 --> 00:25:00,510
+took up that challenge
+because I was teaching
+
+462
+00:25:00,510 --> 00:25:02,430
+in an undergrad four
+-year college. So
+
+463
+00:25:02,430 --> 00:25:04,190
+I took up that
+challenge to also train.
+
+464
+00:25:04,650 --> 00:25:08,890
+I became not just a
+participant in some
+
+465
+00:25:08,890 --> 00:25:10,630
+of the summer
+schools and I became
+
+466
+00:25:10,630 --> 00:25:14,770
+a coordinator or taking
+a session because
+
+467
+00:25:14,770 --> 00:25:18,090
+we can't keep the
+pace of hiring
+
+468
+00:25:18,090 --> 00:25:20,620
+people from outside
+again. So the first
+
+469
+00:25:20,620 --> 00:25:22,610
+two, three sessions
+were to train us.
+
+470
+00:25:22,610 --> 00:25:24,270
+So some of us took
+up the challenge to
+
+471
+00:25:24,270 --> 00:25:26,730
+train. So I became very
+invested in training,
+
+472
+00:25:26,730 --> 00:25:29,510
+buoyant and conch. So
+I just have to study
+
+473
+00:25:29,510 --> 00:25:31,390
+it. Then I can replicate
+it with people.
+
+474
+00:25:31,390 --> 00:25:34,970
+And that becomes my
+way of reformalizing
+
+475
+00:25:34,970 --> 00:25:37,430
+some of the systems
+that were built
+
+476
+00:25:37,430 --> 00:25:39,750
+for the North or for
+the Western world,
+
+477
+00:25:39,750 --> 00:25:42,790
+which might not be
+correctly amenable
+
+478
+00:25:42,790 --> 00:25:44,930
+to our own practice
+in the global
+
+479
+00:25:44,930 --> 00:25:46,750
+south. So I have those
+kind of questions,
+
+480
+00:25:46,950 --> 00:25:48,650
+especially formal
+questions about
+
+481
+00:25:48,650 --> 00:25:51,410
+how it might not
+be appropriate to
+
+482
+00:25:51,410 --> 00:25:53,870
+work with our own
+local languages.
+
+483
+00:25:53,870 --> 00:25:57,350
+If it's OK, how do
+we tweak it to be
+
+484
+00:25:57,350 --> 00:25:59,400
+able to work with a
+multilingual setting?
+
+485
+00:25:59,400 --> 00:26:01,250
+Because sometimes
+when we use sentences
+
+486
+00:26:01,250 --> 00:26:03,730
+in Nigeria, for
+instance, in English
+
+487
+00:26:03,730 --> 00:26:05,850
+sentences, it's
+always embedded in our
+
+488
+00:26:05,850 --> 00:26:08,710
+cultural practices. so
+you have to you have
+
+489
+00:26:08,710 --> 00:26:11,410
+to ask again felix
+so what do you say
+
+490
+00:26:11,410 --> 00:26:13,730
+in the last sentence
+because i might be
+
+491
+00:26:14,070 --> 00:26:17,330
+hoovering from my
+culture and you know but
+
+492
+00:26:17,330 --> 00:26:19,210
+i'm still expressing
+this in english so when
+
+493
+00:26:19,210 --> 00:26:21,990
+we now begin to harvest
+some of the um post
+
+494
+00:26:21,990 --> 00:26:25,570
+post um civil post
+-independence literature
+
+495
+00:26:25,570 --> 00:26:27,940
+or pre-independence
+literature in nigeria
+
+496
+00:26:27,940 --> 00:26:31,710
+before 1960 you might
+be shocked that the ant
+
+497
+00:26:31,710 --> 00:26:33,530
+song of voyant will
+bring great patterns
+
+498
+00:26:33,530 --> 00:26:36,250
+out but you have to
+understand the um the
+
+499
+00:26:36,250 --> 00:26:39,670
+embedded culture within
+those constructions um
+
+500
+00:26:39,670 --> 00:26:42,150
+so it's beyond just
+bringing out patterns
+
+501
+00:26:42,150 --> 00:26:46,390
+you have to not see how
+like the current llms
+
+502
+00:26:46,390 --> 00:26:48,510
+what event is would
+help us to understand
+
+503
+00:26:48,510 --> 00:26:52,350
+the context beyond um
+regular expressions or
+
+504
+00:26:52,350 --> 00:26:54,470
+keyword search the
+keyword search may be very
+
+505
+00:26:54,470 --> 00:26:56,970
+great the keyword in
+context in we aren't
+
+506
+00:26:56,970 --> 00:26:59,410
+in ant conk is very
+great like some words
+
+507
+00:26:59,410 --> 00:27:02,410
+before and some what
+after by seafield there
+
+508
+00:27:02,410 --> 00:27:06,250
+is this disconnect for
+from the real culture
+
+509
+00:27:06,250 --> 00:27:09,110
+of of practice which
+brings out the text
+
+510
+00:27:09,110 --> 00:27:13,490
+so it's just way way
+way way different but
+
+511
+00:27:13,490 --> 00:27:16,290
+actually making me it's
+making me think i wonder
+
+512
+00:27:16,290 --> 00:27:20,410
+is ant conk more
+useful than you know
+
+513
+00:27:20,410 --> 00:27:23,430
+like taking a large
+language model now for
+
+514
+00:27:23,430 --> 00:27:26,150
+studying like kind of
+multilingual context
+
+515
+00:27:26,150 --> 00:27:28,190
+because it doesn't make
+assumptions. It just
+
+516
+00:27:28,190 --> 00:27:30,670
+breaks up particles the
+way you say to do it.
+
+517
+00:27:30,790 --> 00:27:34,310
+And then you see, yeah,
+I have that hunch,
+
+518
+00:27:34,310 --> 00:27:36,150
+but I never, you
+know, because I don't
+
+519
+00:27:36,150 --> 00:27:39,530
+work in such a rich
+multilingual context as
+
+520
+00:27:39,530 --> 00:27:42,270
+you. Yeah. That
+affirms something I
+
+521
+00:27:42,270 --> 00:27:46,050
+wondered because I enjoy
+showing my students
+
+522
+00:27:46,050 --> 00:27:49,850
+what AntConc can do.
+And I like that it
+
+523
+00:27:49,850 --> 00:27:52,730
+seems simple. I know
+it isn't, but it's
+
+524
+00:27:53,010 --> 00:27:55,790
+certainly simpler than
+a large language model
+
+525
+00:27:55,790 --> 00:27:58,070
+where we don't have
+as much opportunity
+
+526
+00:27:58,070 --> 00:28:00,790
+to adjust the way it's
+working, right? It
+
+527
+00:28:00,790 --> 00:28:02,900
+gets like, ooh, the
+smaller tool matters.
+
+528
+00:28:03,330 --> 00:28:05,690
+Yeah. And I think
+you're right. We don't
+
+529
+00:28:05,690 --> 00:28:07,950
+have access to the
+black box. We don't have
+
+530
+00:28:07,950 --> 00:28:11,030
+access to the upper
+parameters tuning. We
+
+531
+00:28:11,030 --> 00:28:13,190
+don't have access to
+the training data behind
+
+532
+00:28:13,190 --> 00:28:15,590
+it. We don't have
+access to the power
+
+533
+00:28:15,590 --> 00:28:19,890
+compute imagine do we
+have hpc in africa uh
+
+534
+00:28:19,890 --> 00:28:22,810
+human um high performing
+computing that can
+
+535
+00:28:22,810 --> 00:28:25,910
+handle such yeah i
+don't know and then do
+
+536
+00:28:25,910 --> 00:28:29,870
+we need it you know
+do we need it and it's
+
+537
+00:28:29,870 --> 00:28:31,730
+like maybe the minimal
+computing contacts
+
+538
+00:28:31,730 --> 00:28:34,310
+are kind of getting
+us to shout wait we're
+
+539
+00:28:34,310 --> 00:28:36,570
+doing perfectly we're
+doing better over here
+
+540
+00:28:36,570 --> 00:28:38,990
+with these tools
+that we can we can do
+
+541
+00:28:38,990 --> 00:28:42,130
+use ourselves yeah
+Yeah. We really need it.
+
+542
+00:28:42,130 --> 00:28:44,210
+Ant Pug's getting a
+wonderful shout out.
+
+543
+00:28:44,450 --> 00:28:46,110
+And so is Boyan. Those
+
+544
+00:28:46,110 --> 00:28:47,670
+tools are good. Yeah.
+
+545
+00:28:47,910 --> 00:28:52,730
+So now my takeaway is
+if I have to not sit
+
+546
+00:28:52,730 --> 00:28:55,230
+within the concept
+of digital humanities
+
+547
+00:28:55,230 --> 00:28:57,480
+project in Nigeria,
+maybe I want to
+
+548
+00:28:57,480 --> 00:28:59,390
+collaborate. I want to
+sit on the board. I want
+
+549
+00:28:59,390 --> 00:29:02,870
+to come to understand
+how people walk.
+
+550
+00:29:02,870 --> 00:29:05,070
+I'll be the one shouting,
+do we need it? Do
+
+551
+00:29:05,070 --> 00:29:07,750
+we need it? Do we need
+it? And that is, of
+
+552
+00:29:07,750 --> 00:29:09,890
+course, a minimal
+competing question. yeah
+
+553
+00:29:09,890 --> 00:29:12,610
+what do we have what
+do we have don't tell
+
+554
+00:29:12,610 --> 00:29:15,570
+me because i'm in the
+west i should i should
+
+555
+00:29:15,570 --> 00:29:19,290
+ask i should stamp
+every request what do we
+
+556
+00:29:19,290 --> 00:29:23,370
+have i might be in the
+west but we are back
+
+557
+00:29:23,370 --> 00:29:26,450
+at home what do we
+have do we have um
+
+558
+00:29:26,450 --> 00:29:31,170
+spreadsheets can we use
+um collection builder
+
+559
+00:29:31,210 --> 00:29:36,250
+who with jekyll or can
+we use omeka sites to
+
+560
+00:29:36,250 --> 00:29:40,850
+just bring out those
+um instances of each
+
+561
+00:29:40,850 --> 00:29:45,270
+page or we use um wakutu
+if those are horror
+
+562
+00:29:45,270 --> 00:29:47,230
+history or collections
+from the community
+
+563
+00:29:47,230 --> 00:29:51,390
+what do we have and i
+think back to the question
+
+564
+00:29:51,390 --> 00:29:54,030
+of what do we teach
+which might be part
+
+565
+00:29:54,030 --> 00:29:56,850
+of what minima principles
+can be expanded
+
+566
+00:29:56,850 --> 00:29:59,110
+to in the global south
+what do we teach we
+
+567
+00:29:59,110 --> 00:30:02,730
+also consider open
+access to um to the tools
+
+568
+00:30:02,730 --> 00:30:06,390
+so that's why we went
+after aunt kong and
+
+569
+00:30:06,390 --> 00:30:08,390
+when i because they were
+free access you know
+
+570
+00:30:08,390 --> 00:30:10,550
+that kind of thing so
+it's very important
+
+571
+00:30:10,550 --> 00:30:13,270
+um in doing the h in
+the global south either
+
+572
+00:30:13,270 --> 00:30:15,570
+in practice or in
+training or in teaching
+
+573
+00:30:15,570 --> 00:30:18,350
+we also consider what
+we teach um because we
+
+574
+00:30:18,350 --> 00:30:20,750
+want to teach um
+tools that method that
+
+575
+00:30:20,750 --> 00:30:23,350
+people can use after the
+training without calling
+
+576
+00:30:23,350 --> 00:30:25,490
+you again without
+asking you for technical
+
+577
+00:30:25,490 --> 00:30:28,330
+help and without paying
+i remember professor
+
+578
+00:30:28,330 --> 00:30:31,250
+tunde was beforehand
+from general training
+
+579
+00:30:31,250 --> 00:30:34,350
+was using sketch engine
+which is not free
+
+580
+00:30:34,350 --> 00:30:36,670
+i mean you can you
+can see you can enjoy
+
+581
+00:30:36,670 --> 00:30:39,010
+the free features but
+when you want to do
+
+582
+00:30:39,010 --> 00:30:41,770
+real work you have to
+do so if he has one of
+
+583
+00:30:41,770 --> 00:30:44,110
+those tools where you
+have to you start to
+
+584
+00:30:44,110 --> 00:30:46,610
+realize its limits
+after a while yeah after
+
+585
+00:30:46,610 --> 00:30:50,150
+a while so if he has
+the bandwidth to pay um
+
+586
+00:30:50,150 --> 00:30:54,070
+at his own crater
+the the community he
+
+587
+00:30:54,070 --> 00:30:56,510
+brought together don't
+have the money to pay for
+
+588
+00:30:56,510 --> 00:30:58,720
+speech engine so we
+have to now streamline
+
+589
+00:30:58,720 --> 00:31:01,010
+who is coming to train
+us on the basis of
+
+590
+00:31:01,010 --> 00:31:04,410
+the open source software
+so what do we teach
+
+591
+00:31:04,410 --> 00:31:07,270
+is going to be and a
+good important principle
+
+592
+00:31:07,270 --> 00:31:09,390
+to add to the
+global south minimal
+
+593
+00:31:09,390 --> 00:31:12,670
+computing what do you
+teach and i had i had two
+
+594
+00:31:12,670 --> 00:31:14,870
+ideas here that like
+what do we teach is a
+
+595
+00:31:14,870 --> 00:31:18,710
+new question to add and
+also what what do we
+
+596
+00:31:18,710 --> 00:31:22,390
+need to change about
+our tools right because
+
+597
+00:31:22,390 --> 00:31:24,550
+right because that
+conversation as you
+
+598
+00:31:24,550 --> 00:31:27,210
+begin to use the tools
+in your own context that
+
+599
+00:31:27,210 --> 00:31:28,750
+are different from
+the way they were
+
+600
+00:31:28,750 --> 00:31:32,410
+originally written um
+the digital humanities
+
+601
+00:31:32,410 --> 00:31:36,530
+tools change maybe become
+more efficient maybe
+
+602
+00:31:36,530 --> 00:31:40,870
+handle a greater
+complexity of or you know
+
+603
+00:31:41,290 --> 00:31:44,810
+more use cases as you
+introduce them yeah
+
+604
+00:31:44,810 --> 00:31:47,530
+yeah i think it's a
+good question to really
+
+605
+00:31:47,530 --> 00:31:51,310
+think about um um what
+do we teach and what
+
+606
+00:31:51,310 --> 00:31:55,250
+do we change in the
+existing existing and i
+
+607
+00:31:55,250 --> 00:32:00,230
+think the goal will be
+for tools that are um
+
+608
+00:32:00,230 --> 00:32:04,240
+quite working well with
+um existing research
+
+609
+00:32:04,240 --> 00:32:06,390
+paradigms in the
+humanities in global south
+
+610
+00:32:06,410 --> 00:32:08,930
+that would be a good
+way to start um see
+
+611
+00:32:08,930 --> 00:32:10,630
+what you can do which
+is before you begin to
+
+612
+00:32:10,630 --> 00:32:15,070
+know the limitation
+that this tool doesn't
+
+613
+00:32:15,070 --> 00:32:17,970
+offer you. So the next
+stage will not be to
+
+614
+00:32:17,970 --> 00:32:22,150
+see what we have in
+terms of manpower. A CS
+
+615
+00:32:22,150 --> 00:32:25,510
+professor, an English
+professor might need
+
+616
+00:32:25,510 --> 00:32:28,250
+to come together having
+understood how buoyant
+
+617
+00:32:28,250 --> 00:32:30,910
+can work, but with
+the limitation of
+
+618
+00:32:30,910 --> 00:32:33,610
+multilingual setting or
+multilingual languages,
+
+619
+00:32:33,610 --> 00:32:35,430
+they might need to
+come together with a
+
+620
+00:32:35,430 --> 00:32:42,010
+simple page or whatever
+tool that would help
+
+621
+00:32:42,010 --> 00:32:45,610
+them to understand. So
+that commitment also is
+
+622
+00:32:45,610 --> 00:32:48,490
+very key. They can
+build up some little
+
+623
+00:32:48,490 --> 00:32:50,750
+structure or systems
+that will help them to
+
+624
+00:32:50,750 --> 00:32:53,570
+now understand their
+language and help people
+
+625
+00:32:53,570 --> 00:32:57,170
+to do research within
+that circle. So if we
+
+626
+00:32:57,170 --> 00:33:01,030
+graduate progressively
+from what do we teach
+
+627
+00:33:01,030 --> 00:33:05,070
+and what do we have
+to what tools do we
+
+628
+00:33:05,070 --> 00:33:08,270
+change, we could actually
+gain the manpower or
+
+629
+00:33:08,270 --> 00:33:10,870
+the expertise to be
+able to think critically
+
+630
+00:33:10,870 --> 00:33:15,730
+about software studies,
+critical understanding
+
+631
+00:33:15,730 --> 00:33:18,030
+of softwares and
+how those softwares
+
+632
+00:33:18,030 --> 00:33:24,170
+work. And we are not
+really keen about the
+
+633
+00:33:24,170 --> 00:33:26,670
+limitations. We just
+wanted to do something
+
+634
+00:33:26,670 --> 00:33:29,630
+for us. But I think
+after a while, we might
+
+635
+00:33:29,630 --> 00:33:32,360
+begin to think about
+what are the limitations
+
+636
+00:33:32,380 --> 00:33:35,690
+based on existing
+research we have used it
+
+637
+00:33:35,690 --> 00:33:37,970
+to carry out in our
+own personal research.
+
+638
+00:33:38,170 --> 00:33:40,950
+And the question we
+are asking now in
+
+639
+00:33:40,950 --> 00:33:42,950
+this research are
+not answered, what
+
+640
+00:33:42,950 --> 00:33:46,090
+tool do we need to
+change or features?
+
+641
+00:33:46,090 --> 00:33:47,990
+Before Consuelo
+jumps in, I
+
+642
+00:33:47,990 --> 00:33:50,710
+remember just
+an anecdote.
+
+643
+00:33:50,830 --> 00:33:54,130
+I was a fan,
+still in the same
+
+644
+00:33:54,130 --> 00:33:56,050
+space of minimal
+computing,
+
+645
+00:33:56,130 --> 00:33:57,810
+but not called
+minimal computing.
+
+646
+00:33:57,810 --> 00:33:59,590
+I was a fan of
+the reference
+
+647
+00:33:59,590 --> 00:34:01,210
+software management
+Mendeley,
+
+648
+00:34:01,390 --> 00:34:04,990
+which is different from
+Sotero in the West,
+
+649
+00:34:04,990 --> 00:34:08,230
+it's different from
+um um endnote a paid
+
+650
+00:34:08,230 --> 00:34:12,850
+version of the rest i
+did that successfully
+
+651
+00:34:12,850 --> 00:34:16,750
+training university
+students from school to
+
+652
+00:34:16,750 --> 00:34:20,490
+school because it it
+was free i still free
+
+653
+00:34:20,490 --> 00:34:25,490
+and and lcvia acquired
+it i remember the
+
+654
+00:34:25,490 --> 00:34:28,450
+question of what to do
+we need to change i went
+
+655
+00:34:28,450 --> 00:34:32,550
+during the 2019
+conference workshop I went
+
+656
+00:34:32,550 --> 00:34:35,710
+to Elsevier headquarters
+I left my oh my
+
+657
+00:34:35,710 --> 00:34:39,590
+goodness you went and
+bearded the tech giants
+
+658
+00:34:39,590 --> 00:34:42,390
+in their lair oh my
+god this is wonderful
+
+659
+00:34:42,390 --> 00:34:46,810
+okay and I asked them
+we need to make changes
+
+660
+00:34:46,810 --> 00:34:49,630
+in the tour I went
+with from Nigeria with
+
+661
+00:34:49,630 --> 00:34:53,110
+a proposal I am the
+one training and this
+
+662
+00:34:53,110 --> 00:34:57,820
+is what we found out
+can you at me uh-huh
+
+663
+00:34:57,820 --> 00:35:01,150
+can you make these changes
+for africa did they
+
+664
+00:35:01,150 --> 00:35:04,150
+do it i sat with the
+tech people you know
+
+665
+00:35:04,150 --> 00:35:07,110
+it was like a costly
+talk um walk walking
+
+666
+00:35:07,110 --> 00:35:09,790
+you know my host was
+able to take me through
+
+667
+00:35:09,790 --> 00:35:12,470
+the different sections
+of the tech tech and
+
+668
+00:35:12,910 --> 00:35:18,110
+i was serious like i
+need help all the way
+
+669
+00:35:18,110 --> 00:35:20,630
+from africa i was of
+course before that i
+
+670
+00:35:20,630 --> 00:35:22,750
+was an ambassador for
+mentally because i
+
+671
+00:35:22,750 --> 00:35:25,210
+trained so they support
+everything i do with
+
+672
+00:35:25,210 --> 00:35:27,630
+shipment for merchandise
+even when i go to
+
+673
+00:35:27,630 --> 00:35:29,590
+loyola we still have
+this is shipped something
+
+674
+00:35:29,590 --> 00:35:32,510
+back to loyola for me
+because loyola i mean
+
+675
+00:35:32,510 --> 00:35:34,290
+the west don't really
+do mendeley like
+
+676
+00:35:34,290 --> 00:35:36,670
+that so i couldn't
+sustain that in the west i
+
+677
+00:35:36,670 --> 00:35:38,930
+have to write a mail
+i said um i mean the
+
+678
+00:35:38,930 --> 00:35:40,870
+west now i'm not
+thinking mendeley will be
+
+679
+00:35:40,870 --> 00:35:44,750
+the thing it's zotero
+so yeah zotero is the
+
+680
+00:35:44,750 --> 00:35:47,730
+one i but i think
+once a group of people
+
+681
+00:35:47,730 --> 00:35:51,930
+invests heavily in a
+bibliography resource
+
+682
+00:35:51,930 --> 00:35:56,450
+software and then it
+does not meet your needs.
+
+683
+00:35:56,650 --> 00:35:59,450
+There's a great
+pain to that.
+
+684
+00:35:59,710 --> 00:36:02,110
+And the pain of
+transition is something
+
+685
+00:36:02,110 --> 00:36:05,230
+that people really
+get upset about.
+
+686
+00:36:05,690 --> 00:36:09,730
+Do you feel as if
+your trip to speak
+
+687
+00:36:09,730 --> 00:36:12,650
+to Elsevier, did
+they make any changes
+
+688
+00:36:12,650 --> 00:36:14,510
+or were they sort
+of not listening
+
+689
+00:36:14,510 --> 00:36:15,830
+in the same way
+that like Jeffrey
+
+690
+00:36:15,830 --> 00:36:18,490
+Rockwell would for
+making a change.
+
+691
+00:36:19,270 --> 00:36:22,190
+My proposal was
+accepted, but
+
+692
+00:36:22,190 --> 00:36:24,410
+was kept in the
+pipeline. They
+
+693
+00:36:24,410 --> 00:36:27,330
+had other features
+to roll out.
+
+694
+00:36:27,670 --> 00:36:31,910
+So mine would be a
+long time coming. So
+
+695
+00:36:31,910 --> 00:36:33,730
+they had other features
+to roll out from
+
+696
+00:36:33,730 --> 00:36:36,230
+the tech team, and
+they have to prioritize
+
+697
+00:36:36,230 --> 00:36:38,670
+those features before
+attending to my
+
+698
+00:36:38,670 --> 00:36:41,280
+proposal. That was
+2019. And maybe Elsevier
+
+699
+00:36:41,280 --> 00:36:44,470
+is too big. And so
+from the context of
+
+700
+00:36:44,470 --> 00:36:47,390
+minimal computing,
+that like industrial,
+
+701
+00:36:47,870 --> 00:36:50,910
+like, that's an
+interesting perspective
+
+702
+00:36:50,910 --> 00:36:52,510
+on minimalism
+that I don't know
+
+703
+00:36:52,510 --> 00:36:54,130
+that we talk about
+very much. But like
+
+704
+00:36:54,130 --> 00:36:57,350
+your decision to
+work with a tool now
+
+705
+00:36:57,350 --> 00:36:59,570
+might be different
+now that you've
+
+706
+00:36:59,570 --> 00:37:01,390
+had that experience,
+right? Correct.
+
+707
+00:37:01,450 --> 00:37:02,130
+Yeah.
+
+708
+00:37:02,130 --> 00:37:02,610
+Yeah.
+
+709
+00:37:02,770 --> 00:37:04,790
+The way software is made.
+
+710
+00:37:04,790 --> 00:37:06,830
+So Consuela, let's sum
+
+711
+00:37:06,830 --> 00:37:07,870
+up a little bit here.
+
+712
+00:37:07,870 --> 00:37:11,090
+Felix has been on fire.
+I've just been asking
+
+713
+00:37:11,090 --> 00:37:13,390
+him little questions.
+But we came up with
+
+714
+00:37:13,390 --> 00:37:15,950
+a couple of questions
+to add to the the
+
+715
+00:37:15,950 --> 00:37:17,690
+minimal computing,
+the standard minimal
+
+716
+00:37:17,690 --> 00:37:20,690
+computing list, which
+is minimal computing in
+
+717
+00:37:20,690 --> 00:37:24,070
+the global south, like
+helps us expand those
+
+718
+00:37:24,070 --> 00:37:27,090
+questions to what do
+we need to learn? And
+
+719
+00:37:27,090 --> 00:37:30,150
+what do we learn and
+teach? What do we need
+
+720
+00:37:30,150 --> 00:37:32,450
+to learn and teach?
+And what do we need to
+
+721
+00:37:32,450 --> 00:37:35,650
+change about our tech?
+And like those two
+
+722
+00:37:35,650 --> 00:37:37,630
+things, like that's what
+Felix has been going
+
+723
+00:37:37,630 --> 00:37:40,050
+on about. it's like
+well i i went to to
+
+724
+00:37:40,050 --> 00:37:42,110
+talk to these people
+and you've had a couple
+
+725
+00:37:42,110 --> 00:37:44,790
+of different stories
+about that where going
+
+726
+00:37:44,790 --> 00:37:47,510
+to the netherlands
+and talking to some dh
+
+727
+00:37:47,510 --> 00:37:50,130
+developers of voyant
+lets you realize oh
+
+728
+00:37:50,130 --> 00:37:52,070
+these people are
+approachable and now they're
+
+729
+00:37:52,070 --> 00:37:53,930
+really interested and
+now this is like a
+
+730
+00:37:53,930 --> 00:37:57,290
+scholarly product to
+you know keep applying
+
+731
+00:37:57,290 --> 00:38:00,490
+and changing the little
+things like voyant
+
+732
+00:38:00,490 --> 00:38:02,910
+and anconc right like
+those things you can
+
+733
+00:38:02,910 --> 00:38:06,470
+talk to the developers
+and when a tool is
+
+734
+00:38:06,470 --> 00:38:08,970
+like run by else severe
+you realize it's very
+
+735
+00:38:08,970 --> 00:38:11,990
+different to talk to
+those people yeah so
+
+736
+00:38:11,990 --> 00:38:14,130
+but then you start to
+have as you use the
+
+737
+00:38:14,130 --> 00:38:16,350
+tools in the global
+south and as people are
+
+738
+00:38:16,350 --> 00:38:18,630
+learning they start to
+recognize we need to
+
+739
+00:38:18,630 --> 00:38:20,870
+make changes so that
+this works with the
+
+740
+00:38:20,870 --> 00:38:24,010
+resources we have and
+what we need to do so
+
+741
+00:38:24,770 --> 00:38:28,170
+i guess that's i
+think the summary that
+
+742
+00:38:28,170 --> 00:38:30,750
+was a lot better
+than the ai summary
+
+743
+00:38:32,150 --> 00:38:34,990
+we started this
+conversation like hating the
+
+744
+00:38:34,990 --> 00:38:36,390
+ai summary because
+it actually made it
+
+745
+00:38:36,390 --> 00:38:39,370
+really hard to revise
+anything you know because
+
+746
+00:38:39,370 --> 00:38:42,090
+it sounds so
+authoritative and it's so
+
+747
+00:38:42,090 --> 00:38:44,610
+general and it lost all
+the little glimmering
+
+748
+00:38:44,610 --> 00:38:48,710
+details and it was just
+ah i know i was just
+
+749
+00:38:48,710 --> 00:38:51,490
+like saying like first
+thing the only help
+
+750
+00:38:51,490 --> 00:38:55,510
+you have is a chatbot
+which i probably hate
+
+751
+00:38:55,510 --> 00:38:58,550
+it uh because it never
+gives you the answer
+
+752
+00:38:58,550 --> 00:39:00,250
+it's like oh i can
+answer that but you will
+
+753
+00:39:00,250 --> 00:39:03,490
+ask me this and it's
+like nope i need you
+
+754
+00:39:03,490 --> 00:39:06,990
+to tell us what we
+said it is where it is
+
+755
+00:39:06,990 --> 00:39:10,800
+my transcription where
+it is my record still
+
+756
+00:39:11,000 --> 00:39:13,410
+still saying the same
+like oh it could take
+
+757
+00:39:13,410 --> 00:39:16,330
+days to be ready and
+it's like nope no no
+
+758
+00:39:16,330 --> 00:39:20,330
+just lost it somewhere
+it's somewhere in some
+
+759
+00:39:20,330 --> 00:39:23,690
+cloud maybe Felix do
+you remember hearing
+
+760
+00:39:23,690 --> 00:39:26,470
+the little voice saying
+recording in progress
+
+761
+00:39:26,470 --> 00:39:29,330
+because I don't know
+like yeah yes even
+
+762
+00:39:29,330 --> 00:39:33,010
+on my screen so it did
+get recorded yes yes
+
+763
+00:39:33,010 --> 00:39:35,090
+Because I asked you,
+did you hear it? And
+
+764
+00:39:35,090 --> 00:39:37,130
+Felix looked at me and
+said, yes, I hear it.
+
+765
+00:39:37,230 --> 00:39:38,710
+And I was like,
+okay. Okay,
+
+766
+00:39:38,710 --> 00:39:39,890
+so that wasn't just me.
+
+767
+00:39:39,910 --> 00:39:42,330
+I had the recording
+thing, because there
+
+768
+00:39:42,330 --> 00:39:44,410
+was two signs. It's
+the recording sign,
+
+769
+00:39:44,410 --> 00:39:46,480
+and it's the sign
+of the AI working.
+
+770
+00:39:46,670 --> 00:39:48,710
+And I have both
+of them on.
+
+771
+00:39:49,090 --> 00:39:51,710
+It's on now. I mean,
+it's also on right now.
+
+772
+00:39:51,710 --> 00:39:53,690
+The recording in
+progress is on. I don't
+
+773
+00:39:53,690 --> 00:39:55,950
+have the AI companion
+on because I hate it.
+
+774
+00:39:55,950 --> 00:39:58,290
+I actually wonder if
+the AI companion itself
+
+775
+00:39:58,290 --> 00:40:01,030
+interfered with
+accessing the recording.
+
+776
+00:40:01,310 --> 00:40:03,010
+This is a whole
+minimal competing
+
+777
+00:40:03,010 --> 00:40:05,050
+question, isn't
+it? Yeah. We are
+
+778
+00:40:05,050 --> 00:40:07,490
+relying on Zoom to
+provide a service,
+
+779
+00:40:07,490 --> 00:40:10,470
+and it is concealing
+things from us.
+
+780
+00:40:10,770 --> 00:40:11,690
+Yes.
+
+781
+00:40:11,690 --> 00:40:13,210
+I must say the only
+thing that I really
+
+782
+00:40:13,210 --> 00:40:15,130
+like, I didn't
+try it now, but it
+
+783
+00:40:15,130 --> 00:40:17,210
+has the possibility
+of translating
+
+784
+00:40:17,210 --> 00:40:19,470
+the notes. I didn't
+check how good they
+
+785
+00:40:19,470 --> 00:40:20,970
+were translated to
+other languages,
+
+786
+00:40:21,090 --> 00:40:24,290
+which is something
+interesting with AI.
+
+787
+00:40:24,370 --> 00:40:27,090
+It will help sometimes
+the miscommunications
+
+788
+00:40:27,090 --> 00:40:30,050
+that happen with
+multilingual culture
+
+789
+00:40:30,050 --> 00:40:33,690
+backgrounds. yeah felix
+was talking about that
+
+790
+00:40:33,690 --> 00:40:37,750
+too which we'll see
+like multilingual text
+
+791
+00:40:37,750 --> 00:40:40,250
+analysis when the
+conversation is meant
+
+792
+00:40:40,250 --> 00:40:43,810
+to have two languages
+in it is tough for ai
+
+793
+00:40:43,810 --> 00:40:47,910
+sometimes yeah yeah
+so yeah i i don't know
+
+794
+00:40:47,910 --> 00:40:50,650
+it's so i try to
+like get as much as
+
+795
+00:40:50,650 --> 00:40:53,250
+information i was able
+i was like give me like
+
+796
+00:40:53,550 --> 00:40:57,050
+points when like what
+people said don't give
+
+797
+00:40:57,050 --> 00:40:59,370
+me like a general idea
+that's that's when
+
+798
+00:40:59,370 --> 00:41:03,430
+i uh the like then like
+elisa said and felix
+
+799
+00:41:03,430 --> 00:41:05,890
+said and like i can
+assume our use points
+
+800
+00:41:06,110 --> 00:41:08,890
+exactly this could
+guide us throughout the
+
+801
+00:41:08,890 --> 00:41:12,010
+discussion kind of we
+we and and i suppose we
+
+802
+00:41:12,010 --> 00:41:13,710
+have a question of
+like you know how much
+
+803
+00:41:13,710 --> 00:41:15,790
+of this document that
+i'm looking at over on
+
+804
+00:41:15,790 --> 00:41:18,730
+the screen will we want
+to use because we're
+
+805
+00:41:18,730 --> 00:41:21,270
+about to get the
+transcript dump like in the
+
+806
+00:41:21,270 --> 00:41:23,130
+format that i showed
+you and like you know
+
+807
+00:41:23,130 --> 00:41:24,850
+we can remove all the
+time stamps and stuff
+
+808
+00:41:24,850 --> 00:41:26,950
+instead of move things
+into place so there's
+
+809
+00:41:26,950 --> 00:41:29,310
+going to be another
+layer of complexity but
+
+810
+00:41:29,310 --> 00:41:32,730
+I think having our own
+words is is going to
+
+811
+00:41:32,730 --> 00:41:34,730
+be important wherever
+we can sort of patch
+
+812
+00:41:34,730 --> 00:41:38,230
+them in and move
+things around I tried
+
+813
+00:41:38,370 --> 00:41:41,110
+reorganizing some things
+like Consuelo when you
+
+814
+00:41:41,110 --> 00:41:43,610
+had written a lot I
+tried to move some things
+
+815
+00:41:43,610 --> 00:41:45,830
+together to where they
+sort of seemed like
+
+816
+00:41:45,830 --> 00:41:48,210
+they were part of our
+conversation last week
+
+817
+00:41:48,480 --> 00:41:50,630
+so I guess I'm kind
+of looking to see
+
+818
+00:41:50,630 --> 00:41:52,970
+we needed a lot
+from Felix and a lot
+
+819
+00:41:52,970 --> 00:41:54,410
+of what you just
+said and Felix is
+
+820
+00:41:54,410 --> 00:41:56,290
+like so much more
+developed than what
+
+821
+00:41:56,290 --> 00:41:57,830
+you said last week.
+So I think it's
+
+822
+00:41:57,830 --> 00:42:01,090
+good we came back
+and did this anyway.
+
+823
+00:42:03,410 --> 00:42:06,370
+What do you think, I
+mean, part of the issue
+
+824
+00:42:06,370 --> 00:42:07,790
+here is like for a
+little while it was just
+
+825
+00:42:07,790 --> 00:42:09,590
+sort of me and Felix
+going back and forth.
+
+826
+00:42:09,690 --> 00:42:11,750
+So we might sort of
+artificially patch
+
+827
+00:42:11,750 --> 00:42:17,350
+Consuelo in, but is
+there a piece of this
+
+828
+00:42:17,470 --> 00:42:20,590
+where we should pick
+up and continue,
+
+829
+00:42:20,710 --> 00:42:22,410
+like from the document?
+
+830
+00:42:23,690 --> 00:42:25,750
+What do we have?
+What do we need?
+
+831
+00:42:28,810 --> 00:42:32,030
+I guess part of what
+we just did was reframe
+
+832
+00:42:32,030 --> 00:42:33,870
+the questions a little
+bit, add two new
+
+833
+00:42:33,870 --> 00:42:36,490
+questions. That's a
+substantial, big change.
+
+834
+00:42:36,670 --> 00:42:39,270
+Felix was tossing out
+source citations that
+
+835
+00:42:39,270 --> 00:42:41,290
+we need to put in. One
+of them was Jeffrey
+
+836
+00:42:41,290 --> 00:42:44,630
+Rockwell's book on,
+well, Jeffrey Rockwell
+
+837
+00:42:44,630 --> 00:42:47,410
+et al. on, was it
+Voyance? And the idea of
+
+838
+00:42:47,410 --> 00:42:50,570
+having physical books as
+resources and material
+
+839
+00:42:50,570 --> 00:42:53,590
+stuff was important.
+the hermeneutica
+
+840
+00:42:54,630 --> 00:43:00,730
+yes um yeah i think we
+have to add also um we
+
+841
+00:43:00,730 --> 00:43:03,030
+discussed this uh
+last week the other
+
+842
+00:43:03,030 --> 00:43:06,810
+question about like for
+whom we're making the
+
+843
+00:43:06,810 --> 00:43:09,350
+project okay and we
+talk about that i think
+
+844
+00:43:09,350 --> 00:43:12,450
+it's it's in here
+actually it's when i was
+
+845
+00:43:12,450 --> 00:43:15,130
+was it captured i
+mentioned at the beginning
+
+846
+00:43:15,130 --> 00:43:18,510
+of my introduction
+kind of okay was that
+
+847
+00:43:18,510 --> 00:43:21,230
+captured or we should
+or you can read was it
+
+848
+00:43:21,230 --> 00:43:22,930
+captured in the summary
+or we should just
+
+849
+00:43:22,930 --> 00:43:25,910
+yes i think it is in
+some ways it's not it's
+
+850
+00:43:25,910 --> 00:43:28,950
+good enough because yeah
+we're realizing like
+
+851
+00:43:28,950 --> 00:43:32,110
+it lost examples
+and details yes and
+
+852
+00:43:32,110 --> 00:43:36,790
+there's no bridge in the
+end of this i know um
+
+853
+00:43:37,310 --> 00:43:43,790
+yeah i let me see it
+does have a bridge but
+
+854
+00:43:43,790 --> 00:43:49,180
+it's not as good as our
+bridge yeah i i think
+
+855
+00:43:56,090 --> 00:44:00,150
+this was like balancing
+technical uh skills
+
+856
+00:44:00,150 --> 00:44:02,150
+and culture this is
+when felix started
+
+857
+00:44:02,150 --> 00:44:04,630
+talking about like the
+work in the archive
+
+858
+00:44:04,630 --> 00:44:09,230
+uh the work with the
+materials uh in nigeria
+
+859
+00:44:09,230 --> 00:44:12,230
+that the person is
+creating this archive and
+
+860
+00:44:12,230 --> 00:44:16,210
+going into and doing
+this by memory and
+
+861
+00:44:16,210 --> 00:44:19,350
+going into the community
+and build all the
+
+862
+00:44:19,350 --> 00:44:21,290
+materials with the community
+and we were talking
+
+863
+00:44:21,290 --> 00:44:23,670
+about all these
+things are like around
+
+864
+00:44:23,670 --> 00:44:28,730
+a digital printer
+necessarily and then uh
+
+865
+00:44:28,730 --> 00:44:31,860
+yeah like projects in
+multilingual environments
+
+866
+00:44:31,860 --> 00:44:38,590
+and we talked about
+the yeah like lack of
+
+867
+00:44:38,590 --> 00:44:41,890
+electricity and stuff
+too that yeah yeah
+
+868
+00:44:41,890 --> 00:44:45,230
+so it is on the balancing
+technical skills
+
+869
+00:44:45,230 --> 00:44:48,450
+and culture kind of
+point in the document um
+
+870
+00:44:51,010 --> 00:44:54,610
+so yeah it was like
+we were like how we
+
+871
+00:44:54,610 --> 00:44:56,990
+there's like different
+things like like
+
+872
+00:44:56,990 --> 00:45:00,370
+skills like i can't
+remember i say like
+
+873
+00:45:00,370 --> 00:45:03,170
+we if we have like
+we can have a project
+
+874
+00:45:03,170 --> 00:45:05,230
+with the best
+programmer server but
+
+875
+00:45:05,230 --> 00:45:07,430
+and the best technology
+but if we made
+
+876
+00:45:07,430 --> 00:45:09,160
+the whole project and
+it's not available
+
+877
+00:45:10,190 --> 00:45:14,090
+right availability yeah
+it happened with the
+
+878
+00:45:14,090 --> 00:45:16,370
+bamboo project when
+they were like doing an
+
+879
+00:45:16,370 --> 00:45:19,290
+archive for it was it
+was for a Caribbean
+
+880
+00:45:19,290 --> 00:45:22,990
+island it's Puerto Rico
+or something or Dominica
+
+881
+00:45:22,990 --> 00:45:26,790
+and I'm trying to
+remember they came to
+
+882
+00:45:26,790 --> 00:45:30,290
+do a talk in a class
+on that and they made
+
+883
+00:45:30,290 --> 00:45:33,250
+all this archive and
+when they get there their
+
+884
+00:45:33,250 --> 00:45:35,410
+internet weren't able
+to download or to
+
+885
+00:45:35,410 --> 00:45:39,290
+show the images so it
+was basically only to
+
+886
+00:45:39,290 --> 00:45:41,670
+show off outside the
+community that it was
+
+887
+00:45:41,670 --> 00:45:44,290
+meant for I think it
+was bamboo that had that
+
+888
+00:45:44,290 --> 00:45:49,300
+problem i cannot remember
+very well um when
+
+889
+00:45:50,830 --> 00:45:54,910
+we when you were
+discussing the rss feed and
+
+890
+00:45:54,910 --> 00:45:59,450
+how you came to um
+kind of appreciate that
+
+891
+00:45:59,720 --> 00:46:01,990
+i wonder if you want to
+say a little bit more
+
+892
+00:46:01,990 --> 00:46:03,990
+about like why that
+was so helpful in the
+
+893
+00:46:03,990 --> 00:46:06,050
+context of podcasting
+because like that's a
+
+894
+00:46:06,050 --> 00:46:14,710
+very yeah yeah yeah uh
+okay let's well so so
+
+895
+00:46:14,710 --> 00:46:16,450
+actually like and having
+just been listening
+
+896
+00:46:16,450 --> 00:46:18,130
+to felix like he was
+talking about like
+
+897
+00:46:18,130 --> 00:46:20,610
+the importance of
+getting people together
+
+898
+00:46:20,610 --> 00:46:24,050
+educating them and then
+like bringing people into
+
+899
+00:46:24,050 --> 00:46:26,250
+contact with each
+other like felix your
+
+900
+00:46:26,250 --> 00:46:28,890
+context was kind of
+physically moving people
+
+901
+00:46:28,890 --> 00:46:32,490
+physically accessing
+books like ripsy's digital
+
+902
+00:46:32,490 --> 00:46:34,390
+black atlantic which
+we both realized we
+
+903
+00:46:34,390 --> 00:46:36,310
+have physical copies
+of that we're really
+
+904
+00:46:36,310 --> 00:46:39,050
+happy that we have
+because that's a matter of
+
+905
+00:46:39,050 --> 00:46:41,750
+access so you're not
+sure if the digital is
+
+906
+00:46:41,750 --> 00:46:45,350
+going to be available
+if you have a book you
+
+907
+00:46:45,350 --> 00:46:47,230
+can share it with
+another human being in
+
+908
+00:46:47,230 --> 00:46:49,930
+your physical presence
+but like what we do
+
+909
+00:46:49,930 --> 00:46:52,310
+with digital things um
+when we're trying to
+
+910
+00:46:52,310 --> 00:46:56,550
+make them accessible when
+we don't have we can't
+
+911
+00:46:56,550 --> 00:46:58,450
+be sure from year to
+year if it's going
+
+912
+00:46:58,450 --> 00:47:02,450
+to be available things
+like rss feeds really
+
+913
+00:47:02,450 --> 00:47:06,890
+matter yes yeah right
+yeah they are amazing
+
+914
+00:47:07,050 --> 00:47:09,830
+i feel like i always
+like go crazy on
+
+915
+00:47:09,830 --> 00:47:12,490
+the rss well i mean
+it's just coming
+
+916
+00:47:12,490 --> 00:47:14,550
+back to that kids
+just to get it back
+
+917
+00:47:14,550 --> 00:47:18,380
+down in the recording
+yeah yeah podcasting
+
+918
+00:47:18,450 --> 00:47:20,210
+and audio it's like
+the career that
+
+919
+00:47:20,210 --> 00:47:23,820
+i don't have that
+i dream like my
+
+920
+00:47:24,210 --> 00:47:28,170
+sustain like my nine
+to five kind of um
+
+921
+00:47:29,170 --> 00:47:33,750
+no i think uh rsss are
+are amazing and it's
+
+922
+00:47:33,750 --> 00:47:35,930
+a great example of
+a minimal computing
+
+923
+00:47:35,930 --> 00:47:40,810
+tool in a way that
+they are very conscious
+
+924
+00:47:40,810 --> 00:47:44,690
+on the user point of
+view like when you're
+
+925
+00:47:44,690 --> 00:47:48,030
+making a project
+using errors files
+
+926
+00:47:48,030 --> 00:47:52,360
+there are there can be
+shared on um software
+
+927
+00:47:52,360 --> 00:47:54,790
+like a catcher like
+we call it a podcast
+
+928
+00:47:54,790 --> 00:47:57,250
+catcher audio catcher
+you can hear in there
+
+929
+00:47:57,250 --> 00:47:59,750
+you can put it like
+on your website uh
+
+930
+00:48:00,270 --> 00:48:03,570
+it's very easy doesn't
+need like high internet
+
+931
+00:48:03,570 --> 00:48:05,510
+it was made in the
+90s so it's thank you
+
+932
+00:48:05,510 --> 00:48:10,290
+for very very slow
+equipment and even in
+
+933
+00:48:10,290 --> 00:48:14,250
+case that you don't have
+anything like digital
+
+934
+00:48:14,250 --> 00:48:17,030
+like like a hardware
+to hear it you could
+
+935
+00:48:17,030 --> 00:48:22,470
+use radio if you're
+at those sources so i
+
+936
+00:48:22,470 --> 00:48:26,270
+know a couple of cases
+on um there is like the
+
+937
+00:48:26,270 --> 00:48:29,870
+first podcast that
+and i talk about this
+
+938
+00:48:29,870 --> 00:48:32,410
+and another chapter of
+another book but there
+
+939
+00:48:32,410 --> 00:48:34,750
+is this first podcast
+it's a mexican one
+
+940
+00:48:34,750 --> 00:48:38,390
+actually and it's from
+the 90s it's like even
+
+941
+00:48:38,390 --> 00:48:40,810
+early that the first
+thing we call podcast
+
+942
+00:48:40,810 --> 00:48:42,950
+but it's not on like
+history books because
+
+943
+00:48:44,050 --> 00:48:47,390
+usually podcasting
+and errors as files or
+
+944
+00:48:47,390 --> 00:48:50,790
+like the story of them
+it's very it's still
+
+945
+00:48:51,290 --> 00:48:54,710
+into the anglophone
+world it's only from the
+
+946
+00:48:54,710 --> 00:48:56,550
+first world perspective
+and they forget
+
+947
+00:48:56,550 --> 00:48:58,570
+like all these tiny
+things are happening and
+
+948
+00:48:58,570 --> 00:49:00,350
+this is very interesting
+it's like it's been
+
+949
+00:49:00,350 --> 00:49:04,010
+forever this show it's
+a news sarcastic kind
+
+950
+00:49:04,010 --> 00:49:07,410
+of show it's not an
+academic one um but
+
+951
+00:49:07,410 --> 00:49:10,450
+the interesting thing
+that they also use radio
+
+952
+00:49:10,450 --> 00:49:14,550
+for places they
+could not get to like
+
+953
+00:49:14,550 --> 00:49:17,050
+someone would not get
+like internet or like
+
+954
+00:49:17,050 --> 00:49:19,850
+permanent internet
+electricity whatever they
+
+955
+00:49:19,850 --> 00:49:23,410
+have video so i feel
+like this is a great
+
+956
+00:49:23,410 --> 00:49:26,510
+example of a tool and
+projects that are like
+
+957
+00:49:26,510 --> 00:49:30,430
+100 thinking on who's
+gonna hear how it's gonna
+
+958
+00:49:30,430 --> 00:49:33,950
+hear it where it's
+gonna hear it um when
+
+959
+00:49:33,950 --> 00:49:36,530
+i was making my vodkas
+i decided to make it
+
+960
+00:49:36,530 --> 00:49:38,650
+in spanish like there's
+all least the reason
+
+961
+00:49:38,650 --> 00:49:40,470
+that i think i'm funny
+i'm more intelligent
+
+962
+00:49:40,470 --> 00:49:43,390
+in spanish uh which
+is like the little
+
+963
+00:49:43,390 --> 00:49:49,270
+joke that goes uh but
+also um i was thinking
+
+964
+00:49:49,270 --> 00:49:52,010
+on and when when i
+was like deciding the
+
+965
+00:49:52,010 --> 00:49:54,190
+language and deciding to
+do it in spanish i was
+
+966
+00:49:54,190 --> 00:49:56,590
+thinking like in what
+they are hearing are
+
+967
+00:49:56,590 --> 00:49:58,750
+they using their cell
+phones do they have
+
+968
+00:49:58,750 --> 00:50:03,870
+mac products probably
+not so much uh i feel
+
+969
+00:50:03,870 --> 00:50:06,770
+like uh the apple i
+don't know if we will
+
+970
+00:50:06,770 --> 00:50:10,440
+name brands but the fruit
+brand the apple brand
+
+971
+00:50:10,440 --> 00:50:14,650
+um it wasn't a big
+thing it was really
+
+972
+00:50:14,650 --> 00:50:17,070
+hard to get it like
+until like recent years
+
+973
+00:50:17,070 --> 00:50:20,450
+at least in chile like
+and still like there's
+
+974
+00:50:20,450 --> 00:50:24,070
+a very heavy tax on
+who have it or not have
+
+975
+00:50:24,070 --> 00:50:28,390
+it and and kind of a
+money gatekeeping so
+
+976
+00:50:28,640 --> 00:50:31,150
+you have to think about
+like who is hearing
+
+977
+00:50:31,150 --> 00:50:34,530
+where is hearing what
+tools are using uh it's
+
+978
+00:50:34,530 --> 00:50:38,710
+gonna be radio or
+not and that give you
+
+979
+00:50:38,710 --> 00:50:44,890
+that freedom and that
+way of working with i'm
+
+980
+00:50:44,890 --> 00:50:48,650
+i feel i'm rumbling
+around but um it's just
+
+981
+00:50:48,650 --> 00:50:51,630
+i get excited when i
+think about this uh i
+
+982
+00:50:51,630 --> 00:50:53,770
+remember i have a
+professor in high school
+
+983
+00:50:53,770 --> 00:50:58,990
+that he was teaching kids
+from uh southern part
+
+984
+00:50:58,990 --> 00:51:01,390
+of chile that were
+living in like uh
+
+985
+00:51:01,390 --> 00:51:03,490
+indigenous communities
+that were like a bar so
+
+986
+00:51:03,490 --> 00:51:05,170
+they weren't able to
+go to school every day
+
+987
+00:51:05,170 --> 00:51:07,790
+they were he was teaching
+over radio how to
+
+988
+00:51:07,790 --> 00:51:11,830
+read to these kids they
+will have this radio
+
+989
+00:51:11,830 --> 00:51:13,830
+program teaching how
+to read and i was like
+
+990
+00:51:13,830 --> 00:51:16,570
+he had to travel every
+time to the southern
+
+991
+00:51:16,570 --> 00:51:19,390
+to to near to the place
+where this community
+
+992
+00:51:19,390 --> 00:51:22,810
+lives so he could do
+the radio and as i grew
+
+993
+00:51:22,810 --> 00:51:24,850
+up and i started working
+with podcasts and
+
+994
+00:51:24,850 --> 00:51:28,370
+and learning about uh
+the rsss i was like
+
+995
+00:51:28,370 --> 00:51:32,050
+uh anybody could be
+teaching those kids like
+
+996
+00:51:32,050 --> 00:51:34,010
+if you have someone
+that could be able to
+
+997
+00:51:34,010 --> 00:51:37,510
+pick that feed and put
+it on the radio signal
+
+998
+00:51:37,650 --> 00:51:40,150
+you could have everyone
+in the world teaching
+
+999
+00:51:40,150 --> 00:51:42,590
+whatever is necessary
+to escape not only
+
+1000
+00:51:42,590 --> 00:51:45,040
+how to read there is like
+so many possibilities
+
+1001
+00:51:45,520 --> 00:51:48,170
+um and this is coming
+back to what do
+
+1002
+00:51:48,170 --> 00:51:51,790
+we need to teach yes
+and learn yeah yeah and
+
+1003
+00:51:51,790 --> 00:51:55,150
+and what matters the
+most could make like
+
+1004
+00:51:55,150 --> 00:51:57,470
+like this teacher he was
+a high school teacher
+
+1005
+00:51:57,470 --> 00:52:01,010
+this year who was
+traveling every weekend
+
+1006
+00:52:01,010 --> 00:52:03,270
+and he was like taking
+like night buses
+
+1007
+00:52:03,270 --> 00:52:05,470
+all night buses to get
+to the place he did
+
+1008
+00:52:05,470 --> 00:52:10,570
+the radio program um it
+might not be necessary
+
+1009
+00:52:10,670 --> 00:52:12,650
+like you will have so
+many people you will
+
+1010
+00:52:12,650 --> 00:52:14,390
+have volunteers that
+are like from the
+
+1011
+00:52:14,390 --> 00:52:17,710
+comfort of their home
+teaching this kid a lot
+
+1012
+00:52:17,710 --> 00:52:20,200
+of skills that you
+could teach by audio and
+
+1013
+00:52:20,290 --> 00:52:23,210
+and there are tools like
+it's hard to imagine
+
+1014
+00:52:23,210 --> 00:52:25,610
+how to teach someone
+how to read using
+
+1015
+00:52:25,610 --> 00:52:29,250
+the radio um but it's
+possible and it's these
+
+1016
+00:52:29,250 --> 00:52:31,170
+cases show that it's
+possible we are just
+
+1017
+00:52:31,170 --> 00:52:32,950
+not thinking of it
+because we are not
+
+1018
+00:52:32,950 --> 00:52:35,050
+thinking outside the box
+which minimal computer
+
+1019
+00:52:35,050 --> 00:52:37,470
+let us think outside
+the box when we're
+
+1020
+00:52:37,470 --> 00:52:39,870
+making the the fourth
+question and now the the
+
+1021
+00:52:39,870 --> 00:52:42,870
+new questions um and
+i feel like it's like
+
+1022
+00:52:42,870 --> 00:52:45,970
+three questions like
+what we did um the
+
+1023
+00:52:45,970 --> 00:52:48,890
+second one that that uh
+you mentioned and what
+
+1024
+00:52:48,890 --> 00:52:51,230
+do we need to change
+what we need to change
+
+1025
+00:52:51,230 --> 00:52:54,410
+and for who we're making
+the project uh let
+
+1026
+00:52:54,410 --> 00:52:57,870
+us think outside the
+box and and think on
+
+1027
+00:52:57,870 --> 00:53:01,090
+the material world
+that it's around or
+
+1028
+00:53:01,090 --> 00:53:04,670
+hacking outside or coding
+outside or softwares
+
+1029
+00:53:05,010 --> 00:53:07,210
+outside our
+fancy equipment
+
+1030
+00:53:07,210 --> 00:53:08,470
+when we have women
+
+1031
+00:53:11,070 --> 00:53:14,190
+and yeah I feel
+like and all of that
+
+1032
+00:53:14,890 --> 00:53:16,330
+was like
+
+1033
+00:53:17,410 --> 00:53:18,610
+part of
+
+1034
+00:53:19,410 --> 00:53:21,810
+when I started into
+the documentaries
+
+1035
+00:53:21,810 --> 00:53:23,330
+when I started
+seeing podcasting
+
+1036
+00:53:23,330 --> 00:53:25,460
+when I started
+like seeing and I
+
+1037
+00:53:25,460 --> 00:53:27,990
+started like thinking
+on okay this is
+
+1038
+00:53:28,410 --> 00:53:30,470
+all these things
+are happening
+
+1039
+00:53:30,470 --> 00:53:32,610
+and kind of
+click in my head
+
+1040
+00:53:37,930 --> 00:53:39,990
+yeah well okay
+
+1041
+00:53:41,650 --> 00:53:44,310
+this is great
+so so i think
+
+1042
+00:53:44,310 --> 00:53:46,310
+we're we are
+expanding on our
+
+1043
+00:53:46,310 --> 00:53:48,590
+conversation last
+week quite a bit
+
+1044
+00:53:51,250 --> 00:53:53,630
+um let me see
+what else do we
+
+1045
+00:53:53,630 --> 00:53:55,270
+should we try
+to pick up here
+
+1046
+00:53:58,510 --> 00:54:00,870
+so I we could
+come back so I'm
+
+1047
+00:54:00,870 --> 00:54:02,010
+looking at some of
+the places where
+
+1048
+00:54:02,010 --> 00:54:03,750
+we have a lot
+of bullet points
+
+1049
+00:54:05,410 --> 00:54:10,630
+and um that's where
+we could come back I
+
+1050
+00:54:10,630 --> 00:54:12,730
+think it's in this area
+toward like late in
+
+1051
+00:54:12,730 --> 00:54:14,810
+the conversation when
+we were talking about
+
+1052
+00:54:14,810 --> 00:54:18,490
+the problems introduced
+now things that
+
+1053
+00:54:18,490 --> 00:54:20,170
+are different now
+than when we first had
+
+1054
+00:54:20,170 --> 00:54:23,170
+these conversations in
+2022 and one of them
+
+1055
+00:54:23,170 --> 00:54:26,090
+of course is the
+availability of ai and
+
+1056
+00:54:26,090 --> 00:54:28,730
+people telling us that
+oh ai will be your
+
+1057
+00:54:28,730 --> 00:54:31,110
+teacher now and it's you
+know maybe it's cheap
+
+1058
+00:54:31,110 --> 00:54:34,650
+and it's affordable
+and um i think we have
+
+1059
+00:54:34,650 --> 00:54:36,570
+some maybe strong
+feelings about that now
+
+1060
+00:54:36,570 --> 00:54:43,830
+um should we uh come
+back to um to some
+
+1061
+00:54:43,830 --> 00:54:47,610
+of that i was talking
+i remember about um
+
+1062
+00:54:47,610 --> 00:54:53,910
+the problems that I
+mainly been reading about
+
+1063
+00:54:53,910 --> 00:55:00,410
+where the big AI
+companies harvesting
+
+1064
+00:55:00,410 --> 00:55:03,550
+textual without
+accreditation and kind of
+
+1065
+00:55:03,550 --> 00:55:06,290
+pulling them into a black
+box. They're applying
+
+1066
+00:55:06,290 --> 00:55:08,770
+very powerful natural
+language processing
+
+1067
+00:55:08,770 --> 00:55:11,570
+tools that we are
+not permitted to see.
+
+1068
+00:55:11,570 --> 00:55:14,930
+And at the same time,
+like digesting that
+
+1069
+00:55:14,930 --> 00:55:17,570
+material and giving
+it back to us um to
+
+1070
+00:55:17,570 --> 00:55:23,670
+consume and in conversation
+and um that for
+
+1071
+00:55:23,670 --> 00:55:27,350
+many artists and
+creators and writers and
+
+1072
+00:55:27,350 --> 00:55:29,670
+thinkers around the
+world this is changing
+
+1073
+00:55:29,700 --> 00:55:33,130
+their livelihood it's
+changing the basis
+
+1074
+00:55:33,130 --> 00:55:36,390
+of their work and for
+us as digital humanities
+
+1075
+00:55:36,390 --> 00:55:39,550
+people it's raising
+a question of the
+
+1076
+00:55:39,550 --> 00:55:44,270
+kinds of tools that
+we want to use and um
+
+1077
+00:55:44,430 --> 00:55:47,810
+yeah like what what
+do we do about it like
+
+1078
+00:55:47,810 --> 00:55:50,810
+you know to some
+extent we rely on the
+
+1079
+00:55:50,810 --> 00:55:53,690
+things that big tech
+gives us and in the
+
+1080
+00:55:53,690 --> 00:55:57,750
+minimal computing context
+um perhaps there i
+
+1081
+00:55:57,750 --> 00:55:59,730
+mean one of the things
+we talked about last
+
+1082
+00:55:59,730 --> 00:56:03,290
+week was well ease of
+access is a priority
+
+1083
+00:56:03,290 --> 00:56:06,610
+that like if ai is
+available maybe we
+
+1084
+00:56:06,610 --> 00:56:09,750
+want to use it to help
+right help with things
+
+1085
+00:56:09,750 --> 00:56:11,890
+because it's the
+easiest you don't have
+
+1086
+00:56:11,890 --> 00:56:14,710
+to it has a low barrier
+of entry to have a
+
+1087
+00:56:14,710 --> 00:56:16,630
+conversation with a
+chat bot and let it
+
+1088
+00:56:16,630 --> 00:56:19,110
+handle some of the
+technical things for you
+
+1089
+00:56:20,570 --> 00:56:23,830
+um and then there's
+the problem of yeah
+
+1090
+00:56:23,830 --> 00:56:26,650
+every time you're using
+it it it's using you
+
+1091
+00:56:27,590 --> 00:56:29,930
+and your community and
+
+1092
+00:56:29,930 --> 00:56:31,650
+all of this. So, yeah.
+
+1093
+00:56:34,150 --> 00:56:36,050
+Yeah, I think it's
+very important
+
+1094
+00:56:36,050 --> 00:56:39,710
+to talk about
+post-2021, 2022,
+
+1095
+00:56:40,270 --> 00:56:44,070
+where this talk was
+originally situated to
+
+1096
+00:56:44,070 --> 00:56:47,030
+the present time. I'm
+thinking about it in
+
+1097
+00:56:47,030 --> 00:56:51,130
+two ways. One of it
+is still the same
+
+1098
+00:56:51,130 --> 00:56:54,770
+system that we face in
+the Global South where
+
+1099
+00:56:54,770 --> 00:56:56,510
+everything is shipped
+down to the global
+
+1100
+00:56:56,510 --> 00:56:59,270
+south in terms of
+technology infrastructure
+
+1101
+00:56:59,270 --> 00:57:05,610
+like the dh method dh
+tools we hardly had
+
+1102
+00:57:05,610 --> 00:57:07,350
+any contribution
+from the global south
+
+1103
+00:57:07,350 --> 00:57:11,010
+developing or contributing
+a theory or concept
+
+1104
+00:57:11,010 --> 00:57:14,930
+or software or two
+so the same embrace i
+
+1105
+00:57:14,930 --> 00:57:19,050
+call it warm embrace
+that we had with the
+
+1106
+00:57:19,050 --> 00:57:21,830
+knowledge shipment
+or knowledge transfer
+
+1107
+00:57:21,830 --> 00:57:24,030
+or knowledge mediation
+in the global south
+
+1108
+00:57:24,030 --> 00:57:27,830
+from the west is still
+the same lens. I'm
+
+1109
+00:57:27,830 --> 00:57:31,670
+thinking about the AI
+in that space. It's
+
+1110
+00:57:31,670 --> 00:57:34,510
+still from the west,
+if I should say that.
+
+1111
+00:57:34,510 --> 00:57:39,570
+So I think that will
+be a way to, I mean,
+
+1112
+00:57:39,570 --> 00:57:41,810
+I'm thinking about it
+if I have to put myself
+
+1113
+00:57:41,810 --> 00:57:43,670
+in the global south
+right now on spot. So
+
+1114
+00:57:43,670 --> 00:57:45,670
+I think the first
+would be how do I know
+
+1115
+00:57:45,670 --> 00:57:50,490
+how to use it to help
+me navigate what coding
+
+1116
+00:57:50,490 --> 00:57:54,350
+I should do if I want
+to learn DH and DH
+
+1117
+00:57:54,350 --> 00:57:56,230
+is saying I should learn
+how to code the hack
+
+1118
+00:57:56,230 --> 00:57:59,670
+and yak and the debates
+even in the West.
+
+1119
+00:57:59,670 --> 00:58:03,310
+So I think some of us
+will quickly take it
+
+1120
+00:58:03,310 --> 00:58:06,350
+up and learn the tools
+and use it to write
+
+1121
+00:58:06,350 --> 00:58:10,050
+CSS code or HTML code
+without really knowing
+
+1122
+00:58:10,050 --> 00:58:11,930
+what the code is all
+about. And if that
+
+1123
+00:58:11,930 --> 00:58:13,850
+works, then we can run
+with it. So it's still
+
+1124
+00:58:13,850 --> 00:58:15,610
+the same method of we
+want to learn the DH
+
+1125
+00:58:15,610 --> 00:58:18,150
+tools, DH method, even
+though we don't have
+
+1126
+00:58:18,150 --> 00:58:21,350
+power or opportunity
+to contribute to the
+
+1127
+00:58:21,350 --> 00:58:24,590
+development, but we
+are the receiving hand.
+
+1128
+00:58:24,590 --> 00:58:27,100
+We want to use it.
+So, and I think beyond
+
+1129
+00:58:27,100 --> 00:58:29,210
+the hype of AI, it's
+still going to be the
+
+1130
+00:58:29,210 --> 00:58:32,470
+same systemic structure.
+We want to use it
+
+1131
+00:58:32,470 --> 00:58:35,210
+to learn those things.
+I remember reading
+
+1132
+00:58:35,250 --> 00:58:40,880
+Rebecca Rissam's iteration
+or provocation about
+
+1133
+00:58:40,880 --> 00:58:43,490
+why she had to learn
+coding, even though
+
+1134
+00:58:43,490 --> 00:58:45,450
+the debate has always
+been you don't need
+
+1135
+00:58:45,450 --> 00:58:47,710
+to learn coding but she
+when she was working
+
+1136
+00:58:47,710 --> 00:58:51,050
+on our post post
+-colonial studies um the
+
+1137
+00:58:51,050 --> 00:58:55,370
+wb du bois projects she
+needed a hands on some
+
+1138
+00:58:55,370 --> 00:58:56,530
+of those things that
+they were building
+
+1139
+00:58:56,530 --> 00:58:59,530
+for her and she she
+wanted to get control she
+
+1140
+00:58:59,530 --> 00:59:01,550
+wanted to contribute
+to the building so
+
+1141
+00:59:01,550 --> 00:59:06,350
+she had to go learn java
+not not just css java
+
+1142
+00:59:06,350 --> 00:59:11,450
+and she's way more
+better for it now. I
+
+1143
+00:59:11,450 --> 00:59:14,070
+mean, over the years, of
+course, the progression,
+
+1144
+00:59:14,070 --> 00:59:16,130
+it's not one year,
+but over the years,
+
+1145
+00:59:16,130 --> 00:59:17,890
+so she can build
+on her own. She can
+
+1146
+00:59:17,890 --> 00:59:20,330
+contribute to a project
+where the technical team
+
+1147
+00:59:20,330 --> 00:59:22,660
+will be there. She could
+say something about
+
+1148
+00:59:22,660 --> 00:59:24,610
+a project. So I think
+that is the way-
+
+1149
+00:59:24,610 --> 00:59:26,230
+This is the surprising
+position where the
+
+1150
+00:59:26,230 --> 00:59:29,550
+digital humanist stands
+up to the know-it-all
+
+1151
+00:59:30,130 --> 00:59:32,630
+technician who has
+the sort of supreme
+
+1152
+00:59:32,630 --> 00:59:34,890
+authority on how your
+project is supposed to be
+
+1153
+00:59:34,890 --> 00:59:38,510
+made. and you say no
+i see how your tool
+
+1154
+00:59:38,510 --> 00:59:42,450
+works here and i need
+that to change yeah yeah
+
+1155
+00:59:42,450 --> 00:59:44,470
+and that's part of that
+change conversation
+
+1156
+00:59:44,470 --> 00:59:47,210
+we were just having
+right i think this is
+
+1157
+00:59:47,210 --> 00:59:49,890
+why it's important to
+code is so that but
+
+1158
+00:59:49,890 --> 00:59:54,690
+when when somebody like
+us and i i'm hoping
+
+1159
+00:59:54,690 --> 00:59:56,990
+is this in digital black
+atlantic is is this
+
+1160
+00:59:56,990 --> 00:59:58,950
+one of her contributions
+so she talks about
+
+1161
+00:59:58,950 --> 01:00:01,970
+this or just are
+anything most recent
+
+1162
+01:00:01,970 --> 01:00:05,550
+chapter maybe 2026 or
+2025 okay so this is very
+
+1163
+01:00:05,550 --> 01:00:07,790
+current stuff for her
+yeah it looks like
+
+1164
+01:00:07,790 --> 01:00:10,350
+the way we are talking
+about it so she also
+
+1165
+01:00:10,350 --> 01:00:12,250
+was like making that
+kind of provocation
+
+1166
+01:00:12,250 --> 01:00:14,990
+movement so it's not
+like you learn everything
+
+1167
+01:00:14,990 --> 01:00:16,970
+there is to know about
+a programming language
+
+1168
+01:00:16,970 --> 01:00:20,250
+but you learn how it
+affects your digital
+
+1169
+01:00:20,250 --> 01:00:23,390
+humanities project and
+you become an expert
+
+1170
+01:00:23,390 --> 01:00:26,510
+on this area that
+those those tech people
+
+1171
+01:00:26,510 --> 01:00:28,570
+have completely they
+have blind spots
+
+1172
+01:00:28,570 --> 01:00:31,170
+they're not looking they
+don't understand that
+
+1173
+01:00:31,170 --> 01:00:33,870
+tool is hurting people
+here right or this
+
+1174
+01:00:33,870 --> 01:00:36,450
+yeah and i know you
+said the same background
+
+1175
+01:00:36,450 --> 01:00:38,490
+if you were to share
+with us you also have
+
+1176
+01:00:38,490 --> 01:00:42,930
+to do your primor tech
+tech thing on your
+
+1177
+01:00:42,930 --> 01:00:44,950
+own i know you have
+some insight to share
+
+1178
+01:00:44,950 --> 01:00:48,430
+before we move to a console
+oh me about learning
+
+1179
+01:00:48,430 --> 01:00:51,750
+on my own so for me
+on this and i probably
+
+1180
+01:00:51,750 --> 01:00:53,670
+did talk about this
+in the ai summary
+
+1181
+01:00:53,670 --> 01:00:58,430
+would not pick it up so
+for me i started doing
+
+1182
+01:00:58,430 --> 01:01:01,470
+digital humanities,
+just I've been a
+
+1183
+01:01:01,470 --> 01:01:04,410
+traditional humanities
+scholar. I was an English
+
+1184
+01:01:05,090 --> 01:01:07,450
+literature PhD, and
+I work with Brit
+
+1185
+01:01:07,450 --> 01:01:09,050
+Lit. So I am
+like kind of, my
+
+1186
+01:01:09,050 --> 01:01:11,510
+background is not very
+Global South at all.
+
+1187
+01:01:11,510 --> 01:01:13,670
+But I just wanted
+to go into the
+
+1188
+01:01:13,670 --> 01:01:17,910
+archives and help
+make an edition of
+
+1189
+01:01:18,250 --> 01:01:22,080
+a 19th century woman
+writer's letters and
+
+1190
+01:01:22,080 --> 01:01:24,390
+productions, like her
+literary work. I just
+
+1191
+01:01:24,390 --> 01:01:27,870
+wanted to I wanted them
+to be available and
+
+1192
+01:01:27,870 --> 01:01:29,930
+you know at first
+there was a print book
+
+1193
+01:01:29,930 --> 01:01:33,450
+project but she wrote
+so much and she's not
+
+1194
+01:01:33,450 --> 01:01:36,750
+canon so the big
+publishing companies around
+
+1195
+01:01:36,750 --> 01:01:39,990
+2007 2008 weren't going
+to produce that and
+
+1196
+01:01:39,990 --> 01:01:43,690
+that was with a big
+scholar in my field like
+
+1197
+01:01:43,690 --> 01:01:45,810
+wanting to take on
+that edition and I was
+
+1198
+01:01:45,810 --> 01:01:48,650
+just going to help so
+I raised my hand at a
+
+1199
+01:01:48,650 --> 01:01:50,250
+conference and said
+can I help with this
+
+1200
+01:01:50,250 --> 01:01:52,670
+project and he said i'm
+sorry the publishing
+
+1201
+01:01:52,670 --> 01:01:55,330
+company has shut it down
+and that's really how
+
+1202
+01:01:55,330 --> 01:01:57,450
+i began my journey
+in digital humanities
+
+1203
+01:01:57,450 --> 01:02:00,390
+was what and i was
+learning there's these
+
+1204
+01:02:00,390 --> 01:02:03,390
+workshops on the tei
+and there's workshops on
+
+1205
+01:02:03,390 --> 01:02:06,030
+like digitizing texts
+and i found like oh
+
+1206
+01:02:06,030 --> 01:02:08,870
+there's a whole scholarly
+method here and over
+
+1207
+01:02:08,870 --> 01:02:11,750
+the next few years
+i got ****** into it
+
+1208
+01:02:11,750 --> 01:02:16,070
+and it felt like magic
+oh i can And I can make
+
+1209
+01:02:16,070 --> 01:02:20,130
+a document data model
+of my own that reflects
+
+1210
+01:02:20,130 --> 01:02:22,990
+where I want to see
+her personal life
+
+1211
+01:02:22,990 --> 01:02:25,950
+writing in connection
+with the plays that she's
+
+1212
+01:02:25,950 --> 01:02:27,870
+producing, which are
+very kind of artificial,
+
+1213
+01:02:27,870 --> 01:02:29,670
+very structured and
+formal. And then
+
+1214
+01:02:29,670 --> 01:02:32,590
+she's got these other
+literary genres. Wait,
+
+1215
+01:02:32,590 --> 01:02:34,570
+I'm going to need help.
+We need other people
+
+1216
+01:02:34,570 --> 01:02:37,090
+to help. I can't do
+this alone was another
+
+1217
+01:02:37,090 --> 01:02:39,130
+lesson. And like, what
+do I need? What do
+
+1218
+01:02:39,130 --> 01:02:43,170
+I want? It was 2013
+-ish, 2014, when I got
+
+1219
+01:02:43,170 --> 01:02:45,170
+started. And I don't
+know if we were using the
+
+1220
+01:02:45,170 --> 01:02:48,550
+phrase minimal computing
+then, but where
+
+1221
+01:02:48,550 --> 01:02:52,950
+I'm situated, I'm at
+regional university
+
+1222
+01:02:52,950 --> 01:02:56,030
+campuses. I was never
+at like a research hub,
+
+1223
+01:02:56,030 --> 01:02:58,310
+but I always had like
+interesting little
+
+1224
+01:02:58,310 --> 01:03:00,570
+projects and it's sort
+of like, you know, but I
+
+1225
+01:03:00,570 --> 01:03:04,530
+didn't have to worry
+so much as maybe others
+
+1226
+01:03:04,530 --> 01:03:07,730
+do. in maybe the
+research r1 context where
+
+1227
+01:03:07,730 --> 01:03:10,630
+i was situated in the
+regional campuses if
+
+1228
+01:03:10,630 --> 01:03:13,030
+you do something digital
+and you can bring
+
+1229
+01:03:13,030 --> 01:03:16,270
+students with you
+everybody's very excited
+
+1230
+01:03:16,270 --> 01:03:18,790
+because your little
+campus now has something
+
+1231
+01:03:18,790 --> 01:03:21,010
+to say and something
+to build with it and
+
+1232
+01:03:21,010 --> 01:03:23,750
+some things might be
+more possible in that
+
+1233
+01:03:23,750 --> 01:03:26,650
+sort of regional
+comprehensive context which
+
+1234
+01:03:26,650 --> 01:03:30,150
+is more about education
+primarily and where
+
+1235
+01:03:30,150 --> 01:03:33,430
+nobody's expecting you
+to do like the best
+
+1236
+01:03:33,430 --> 01:03:35,990
+research or the fastest
+research or producing
+
+1237
+01:03:35,990 --> 01:03:39,410
+the most books. So I
+got to have a little
+
+1238
+01:03:39,410 --> 01:03:42,560
+adventure with my life
+as an academic because
+
+1239
+01:03:42,560 --> 01:03:44,690
+I'm, you know, a
+little bit off center.
+
+1240
+01:03:45,510 --> 01:03:47,970
+And my experience
+of minimal
+
+1241
+01:03:47,970 --> 01:03:49,590
+competing was simply,
+
+1242
+01:03:49,990 --> 01:03:54,670
+oh don't rely on tech
+support don't rely
+
+1243
+01:03:54,670 --> 01:03:57,270
+on regular funding
+what are the tools that
+
+1244
+01:03:57,270 --> 01:04:00,430
+you can use that
+don't cost and so that
+
+1245
+01:04:00,430 --> 01:04:03,670
+leads to things like
+code repositories on
+
+1246
+01:04:03,670 --> 01:04:06,950
+github possibly
+codeberg now if that's
+
+1247
+01:04:06,950 --> 01:04:10,110
+strong enough right or
+like learning git and
+
+1248
+01:04:10,110 --> 01:04:12,410
+version control on
+your own that's a huge
+
+1249
+01:04:12,410 --> 01:04:14,490
+lift oh that means
+i have to learn
+
+1250
+01:04:14,490 --> 01:04:18,330
+command line just enough
+yeah um I can make a
+
+1251
+01:04:18,330 --> 01:04:21,010
+little shell script
+sometimes with help,
+
+1252
+01:04:21,010 --> 01:04:23,590
+right? But I'm not a
+computer scientist.
+
+1253
+01:04:23,710 --> 01:04:28,330
+I can teach
+students how I think
+
+1254
+01:04:28,330 --> 01:04:30,970
+about modeling
+documents with code
+
+1255
+01:04:30,970 --> 01:04:33,190
+and get them doing
+the same things.
+
+1256
+01:04:33,370 --> 01:04:36,790
+And it was kind of
+an adventure of,
+
+1257
+01:04:36,790 --> 01:04:39,730
+oh, learning to
+code meant learning.
+
+1258
+01:04:40,900 --> 01:04:43,670
+It meant that, oh, I
+can do these things
+
+1259
+01:04:43,670 --> 01:04:46,910
+low cost or no cost.
+It wasn't like if I do
+
+1260
+01:04:46,910 --> 01:04:49,630
+no code, I'm going to
+have to contend with
+
+1261
+01:04:49,630 --> 01:04:52,570
+broken plugins and
+people I can't rely on.
+
+1262
+01:04:52,590 --> 01:04:54,810
+Right. And it's kind
+of that simple. But
+
+1263
+01:04:54,810 --> 01:04:57,050
+it's it's even more than
+that. I mean, the code
+
+1264
+01:04:57,050 --> 01:05:02,650
+gives me creative
+license or it gives me
+
+1265
+01:05:02,650 --> 01:05:05,010
+and us like an opportunity
+to build some of
+
+1266
+01:05:05,010 --> 01:05:07,910
+our own tools and
+share them with others.
+
+1267
+01:05:07,910 --> 01:05:10,230
+And for me, that that's
+a potential energy
+
+1268
+01:05:10,230 --> 01:05:13,750
+that's more exciting
+than just studying
+
+1269
+01:05:13,750 --> 01:05:16,790
+literature and writing
+about it. so like when I
+
+1270
+01:05:16,790 --> 01:05:19,070
+say oh digital humanities
+it changed my life
+
+1271
+01:05:19,070 --> 01:05:22,250
+it did it's more
+exciting now uh but yeah
+
+1272
+01:05:22,250 --> 01:05:24,410
+like my minimal context
+is it's exciting
+
+1273
+01:05:24,410 --> 01:05:26,930
+because I'm pinched
+like I don't have access
+
+1274
+01:05:26,930 --> 01:05:29,130
+that other people do so
+I guess that's that's
+
+1275
+01:05:29,130 --> 01:05:33,210
+my simple yeah how
+does like the AI affect
+
+1276
+01:05:33,210 --> 01:05:36,830
+how does AI affect
+that like how have you
+
+1277
+01:05:36,830 --> 01:05:38,590
+seen it because like
+you have this the
+
+1278
+01:05:38,590 --> 01:05:44,490
+students coining and also
+like like it's tempting
+
+1279
+01:05:44,490 --> 01:05:46,370
+like sometimes you
+have a you're like
+
+1280
+01:05:46,370 --> 01:05:49,370
+spending hours and you're
+having like one error
+
+1281
+01:05:49,370 --> 01:05:51,850
+in one line and you
+cannot see it and
+
+1282
+01:05:51,850 --> 01:05:55,570
+you're like oh my god
+and you know there is you
+
+1283
+01:05:55,570 --> 01:05:58,450
+know there is a an ai
+available that could
+
+1284
+01:05:58,450 --> 01:06:01,210
+give you something in
+five seconds and so
+
+1285
+01:06:01,210 --> 01:06:03,930
+i do like i think
+that's okay like like to
+
+1286
+01:06:03,930 --> 01:06:07,290
+use it as a friend to
+your code like But then
+
+1287
+01:06:07,290 --> 01:06:10,210
+it's kind of a question
+where, you know,
+
+1288
+01:06:10,210 --> 01:06:13,550
+and I've had these
+weird relationships with
+
+1289
+01:06:13,550 --> 01:06:17,050
+AI over the past year
+because everyone around
+
+1290
+01:06:17,050 --> 01:06:19,110
+me, of course, is
+saying you should use
+
+1291
+01:06:19,110 --> 01:06:21,450
+AI, right? And you
+should tell us all about
+
+1292
+01:06:21,450 --> 01:06:23,570
+it. It's important for
+the university that
+
+1293
+01:06:23,570 --> 01:06:25,730
+you show you're using
+AI. It's like, okay.
+
+1294
+01:06:26,330 --> 01:06:30,570
+So definitely using it
+to help locate syntax
+
+1295
+01:06:30,570 --> 01:06:33,670
+errors. We would do
+syntax validation in
+
+1296
+01:06:33,670 --> 01:06:36,150
+a good code editor,
+too. Like I, you know,
+
+1297
+01:06:36,150 --> 01:06:39,270
+it's like one does not
+handwrite code, right?
+
+1298
+01:06:39,270 --> 01:06:45,830
+But then you start
+like to notice your AI
+
+1299
+01:06:45,830 --> 01:06:48,790
+bot has an assumption
+about your code. And
+
+1300
+01:06:48,790 --> 01:06:51,670
+if you start asking it
+bigger questions like,
+
+1301
+01:06:51,670 --> 01:06:55,050
+okay, I want to make
+this data structure
+
+1302
+01:06:55,160 --> 01:06:57,230
+or I want to make a data
+structure and I want
+
+1303
+01:06:57,230 --> 01:07:00,090
+you to figure it out
+for me. that's where
+
+1304
+01:07:00,090 --> 01:07:05,220
+you start to lose the
+lose the creative magic
+
+1305
+01:07:05,220 --> 01:07:07,670
+it's more exciting
+to use ai when you're
+
+1306
+01:07:07,670 --> 01:07:10,690
+like oh no no no i
+really want this and you
+
+1307
+01:07:10,690 --> 01:07:13,270
+have to help me because
+i'm stuck here right
+
+1308
+01:07:13,270 --> 01:07:15,630
+that's one thing but
+the other side of it
+
+1309
+01:07:15,630 --> 01:07:18,470
+is i don't know what
+to do um can you help
+
+1310
+01:07:18,470 --> 01:07:21,410
+and then i get the same
+kind of glossy stuff
+
+1311
+01:07:21,410 --> 01:07:24,650
+or even it'll give
+me back something i
+
+1312
+01:07:24,650 --> 01:07:26,590
+don't want and then
+have a fight with it but
+
+1313
+01:07:26,590 --> 01:07:30,450
+then at some point i
+start losing time so i
+
+1314
+01:07:30,450 --> 01:07:34,150
+think it it starts
+******* my time and energy
+
+1315
+01:07:34,150 --> 01:07:36,990
+and changing my way
+of thinking and and
+
+1316
+01:07:36,990 --> 01:07:39,030
+for that reason sort
+of pulling away back to
+
+1317
+01:07:39,030 --> 01:07:41,690
+the material world
+might be good like maybe
+
+1318
+01:07:41,690 --> 01:07:44,470
+i want to sit down
+with pen and paper and
+
+1319
+01:07:44,470 --> 01:07:47,290
+like mark my tax and
+figure out what what do
+
+1320
+01:07:47,290 --> 01:07:51,370
+i want and you know
+go from there um i i
+
+1321
+01:07:51,370 --> 01:07:54,090
+don't have a good
+answer for this, but the
+
+1322
+01:07:54,090 --> 01:07:59,030
+place I'm moving with
+AI right now is to try
+
+1323
+01:07:59,030 --> 01:08:03,170
+to minimize it. So that
+is relevant where I
+
+1324
+01:08:03,360 --> 01:08:06,110
+have a little research
+project right now that
+
+1325
+01:08:06,110 --> 01:08:08,290
+I'm going to be talking
+about, or I have
+
+1326
+01:08:08,290 --> 01:08:10,650
+started talking about
+it at conferences. My
+
+1327
+01:08:10,650 --> 01:08:13,030
+students want to learn
+about AI and I want
+
+1328
+01:08:13,030 --> 01:08:16,230
+to find a responsible
+way of working with it.
+
+1329
+01:08:16,230 --> 01:08:19,790
+With a very big old
+project like mine at
+
+1330
+01:08:19,790 --> 01:08:22,750
+the Digital Mitford.
+People come and go. We've
+
+1331
+01:08:22,750 --> 01:08:24,910
+had generations of
+students come and go.
+
+1332
+01:08:24,910 --> 01:08:27,070
+There's a lot of
+unevenness, a lot of
+
+1333
+01:08:27,070 --> 01:08:29,910
+unfinished work, and it
+gets put aside for more
+
+1334
+01:08:29,910 --> 01:08:32,470
+glamorous projects like
+my Frankenstein project
+
+1335
+01:08:32,470 --> 01:08:35,430
+and other things or
+even this AI thing.
+
+1336
+01:08:35,590 --> 01:08:38,710
+And what it would be
+nice is to have an AI
+
+1337
+01:08:38,710 --> 01:08:43,610
+humbly learn from our
+project standards, give
+
+1338
+01:08:43,610 --> 01:08:47,790
+it like a local customized
+AI that understands
+
+1339
+01:08:47,790 --> 01:08:50,890
+what we need to do
+and take some of the
+
+1340
+01:08:50,890 --> 01:08:53,970
+heavy labor and speed
+that up for us what
+
+1341
+01:08:53,970 --> 01:08:56,670
+because we're clear on
+what we want and what
+
+1342
+01:08:56,670 --> 01:08:59,510
+we need to finish now
+my dream here is to
+
+1343
+01:08:59,510 --> 01:09:03,250
+have this run totally
+on a desktop computer so
+
+1344
+01:09:03,250 --> 01:09:06,290
+it doesn't need a data
+center and that it
+
+1345
+01:09:06,290 --> 01:09:09,070
+also runs on things that
+the code that i know
+
+1346
+01:09:09,070 --> 01:09:12,310
+how to write like i
+can write a schema i
+
+1347
+01:09:12,310 --> 01:09:14,850
+can write some x path
+i can say these are the
+
+1348
+01:09:14,850 --> 01:09:17,210
+relationships we're
+trying to build here's
+
+1349
+01:09:17,210 --> 01:09:19,790
+some unfinished code
+help me finish it and
+
+1350
+01:09:19,790 --> 01:09:22,270
+you know the other side
+of ai in where i work
+
+1351
+01:09:22,270 --> 01:09:24,390
+with digital scholarly
+editions is the
+
+1352
+01:09:24,390 --> 01:09:27,350
+really powerful stuff that
+says here's handwriting
+
+1353
+01:09:27,350 --> 01:09:30,050
+up and down the sides
+of a page backwards
+
+1354
+01:09:30,050 --> 01:09:33,870
+upside down sideways
+can you help with the
+
+1355
+01:09:33,870 --> 01:09:36,110
+starter transcription
+of that like there's
+
+1356
+01:09:36,110 --> 01:09:39,730
+some amazing but that's
+also very customized
+
+1357
+01:09:39,730 --> 01:09:42,370
+and the sort of thing
+that humanity scholars
+
+1358
+01:09:42,370 --> 01:09:44,810
+you don't just go cold
+to a chatbot to do
+
+1359
+01:09:44,810 --> 01:09:47,130
+that you've built
+that little engine and
+
+1360
+01:09:47,130 --> 01:09:50,970
+it's hard work to make
+it right so i think like
+
+1361
+01:09:50,970 --> 01:09:52,810
+the place but is is
+this sort of like the
+
+1362
+01:09:52,810 --> 01:09:55,990
+hard rewarding labor
+of customizing a thing
+
+1363
+01:09:55,990 --> 01:09:58,690
+so that you change
+it for your specific
+
+1364
+01:09:58,690 --> 01:10:01,610
+project i guess yeah
+that's where that's where
+
+1365
+01:10:01,610 --> 01:10:06,030
+i am with it i i get
+it with with ai i see
+
+1366
+01:10:06,030 --> 01:10:10,130
+the same as felix i
+feel like it's very done
+
+1367
+01:10:10,130 --> 01:10:13,970
+in the global north kind
+of it's very centered
+
+1368
+01:10:13,970 --> 01:10:16,210
+on their necessities
+it's very centered
+
+1369
+01:10:16,210 --> 01:10:19,730
+in their material like
+i remember like early
+
+1370
+01:10:19,730 --> 01:10:22,730
+chat gpt like like
+getting information in
+
+1371
+01:10:22,730 --> 01:10:24,790
+spanish i like to
+experiment with it every
+
+1372
+01:10:24,790 --> 01:10:27,230
+now and then i will ask
+questions or like you
+
+1373
+01:10:27,230 --> 01:10:30,010
+know like news or stuff
+like that to see how
+
+1374
+01:10:30,010 --> 01:10:31,810
+it's like picking up
+information in other
+
+1375
+01:10:31,810 --> 01:10:34,330
+languages in my cases
+i take it in spanish
+
+1376
+01:10:34,330 --> 01:10:41,370
+which is my native
+language um and so uh i i
+
+1377
+01:10:41,370 --> 01:10:44,130
+check that up because
+i kind of worry in a
+
+1378
+01:10:44,130 --> 01:10:47,010
+way that all the
+information and all the
+
+1379
+01:10:47,010 --> 01:10:49,410
+feedback it's like it
+could be in spanish but
+
+1380
+01:10:49,410 --> 01:10:51,450
+it could be just
+translated and not be like
+
+1381
+01:10:51,450 --> 01:10:55,150
+like originally coming
+from from this point
+
+1382
+01:10:55,150 --> 01:10:58,030
+of view and i feel like
+that it's like something
+
+1383
+01:10:58,030 --> 01:11:00,330
+that it's like a
+little bit tricky but
+
+1384
+01:11:00,330 --> 01:11:03,690
+then again with coding
+like i i think discusses
+
+1385
+01:11:03,690 --> 01:11:06,810
+like i i wrote it
+down in there in the
+
+1386
+01:11:06,810 --> 01:11:09,810
+document uh but something
+interesting about
+
+1387
+01:11:09,810 --> 01:11:12,990
+coding coding believes
+that english is the
+
+1388
+01:11:12,990 --> 01:11:18,050
+lingua franca and it is
+not that's its foundation
+
+1389
+01:11:18,050 --> 01:11:21,090
+and that is foundation
+so you need a base
+
+1390
+01:11:21,090 --> 01:11:24,150
+in english to be able
+to construct and to
+
+1391
+01:11:24,150 --> 01:11:27,330
+able to think because
+you're when you start
+
+1392
+01:11:27,330 --> 01:11:29,030
+programming you're
+basically thinking in
+
+1393
+01:11:29,030 --> 01:11:32,870
+three different languages
+one that it's like
+
+1394
+01:11:32,870 --> 01:11:35,870
+the logic of this language
+is not made coding
+
+1395
+01:11:35,870 --> 01:11:37,570
+then you have to learn
+the language that
+
+1396
+01:11:37,570 --> 01:11:39,890
+the logic is working
+with and then you have to
+
+1397
+01:11:39,890 --> 01:11:44,470
+code so there are like
+so many steps missing
+
+1398
+01:11:44,470 --> 01:11:47,590
+in in in that i like
+i remember my first
+
+1399
+01:11:47,590 --> 01:11:50,930
+coding classes were in
+2022 because i I jump
+
+1400
+01:11:50,930 --> 01:11:53,250
+from like podcasting
+and like more simple
+
+1401
+01:11:53,250 --> 01:11:56,290
+things and then I jump
+into like oh now I need
+
+1402
+01:11:56,290 --> 01:11:58,770
+to record code and
+I remember like the
+
+1403
+01:11:58,770 --> 01:12:00,910
+first weeks of like
+learning I was learning
+
+1404
+01:12:00,910 --> 01:12:03,190
+Java I was learning
+like something difficult
+
+1405
+01:12:03,190 --> 01:12:07,410
+in general and I
+remember having struggles
+
+1406
+01:12:07,410 --> 01:12:09,790
+like thinking sometimes
+in commands because I
+
+1407
+01:12:09,790 --> 01:12:11,510
+will think the name
+in Spanish and then I
+
+1408
+01:12:11,510 --> 01:12:13,830
+translate it but I don't
+translate it in the
+
+1409
+01:12:13,830 --> 01:12:16,890
+one that is used for
+coding so I will use
+
+1410
+01:12:16,890 --> 01:12:21,130
+another signer and I
+will why is red why the
+
+1411
+01:12:21,130 --> 01:12:23,430
+the dot is not moving
+from one corner to the
+
+1412
+01:12:23,430 --> 01:12:25,910
+other one and i
+couldn't understand like
+
+1413
+01:12:25,910 --> 01:12:32,560
+doing like like movements
+like that and so ai
+
+1414
+01:12:32,570 --> 01:12:35,510
+can be helpful in that
+way for someone that
+
+1415
+01:12:35,510 --> 01:12:38,210
+doesn't know a big base
+in english and wants
+
+1416
+01:12:38,210 --> 01:12:40,510
+to do their own project
+and it's like where
+
+1417
+01:12:40,510 --> 01:12:43,250
+do i start and how do
+i start but i think
+
+1418
+01:12:43,250 --> 01:12:46,330
+we need different ai
+tools than the ones we're
+
+1419
+01:12:46,330 --> 01:12:48,970
+given right even the
+ones were given for
+
+1420
+01:12:48,970 --> 01:12:52,690
+free even right yeah
+then is it for free like
+
+1421
+01:12:52,690 --> 01:12:54,950
+you yeah no it's not
+really it's an addiction
+
+1422
+01:12:54,950 --> 01:12:57,210
+it's an addiction
+model right you get
+
+1423
+01:12:57,210 --> 01:12:59,970
+more and more dependent
+yeah and then they they
+
+1424
+01:12:59,970 --> 01:13:03,350
+ask you for money to
+get more of something
+
+1425
+01:13:03,350 --> 01:13:07,890
+that you are feeding
+so so basically you
+
+1426
+01:13:07,890 --> 01:13:10,330
+own stuff that you're
+giving it but also you
+
+1427
+01:13:10,330 --> 01:13:13,030
+have to pay to get the
+feedback of the things
+
+1428
+01:13:13,030 --> 01:13:15,510
+that you own and you're
+giving to the AI.
+
+1429
+01:13:17,130 --> 01:13:19,950
+Yeah, I think we should
+step back a second
+
+1430
+01:13:19,950 --> 01:13:21,970
+here and also recognize
+this is something
+
+1431
+01:13:21,970 --> 01:13:24,830
+the TEI community has
+been having discussions
+
+1432
+01:13:24,830 --> 01:13:28,410
+about internationalization
+and where
+
+1433
+01:13:28,410 --> 01:13:31,230
+there's a portion there
+are members of our
+
+1434
+01:13:31,230 --> 01:13:35,250
+community like Till
+Growler and like others.
+
+1435
+01:13:35,250 --> 01:13:38,290
+Like it's a small group
+that they're digitizing
+
+1436
+01:13:38,610 --> 01:13:43,110
+um like newspapers
+periodicals printed
+
+1437
+01:13:43,110 --> 01:13:46,450
+in arabic but printing
+in arabic if this
+
+1438
+01:13:46,450 --> 01:13:49,770
+goes back pre-computer
+that's like a right to
+
+1439
+01:13:49,770 --> 01:13:51,990
+left ligature language
+and the printing
+
+1440
+01:13:51,990 --> 01:13:54,870
+machines never got it
+right in the way that
+
+1441
+01:13:54,870 --> 01:13:58,210
+it was sort of locally
+expressed and our
+
+1442
+01:13:58,210 --> 01:14:01,910
+computer code systems
+are built like the text
+
+1443
+01:14:01,910 --> 01:14:04,910
+encoding like the
+encoding of characters
+
+1444
+01:14:04,910 --> 01:14:08,530
+character encoding like
+ascii and unicode was
+
+1445
+01:14:08,530 --> 01:14:13,650
+always like never
+appropriate for that kind
+
+1446
+01:14:13,650 --> 01:14:15,790
+of language structure
+and so like when the
+
+1447
+01:14:15,790 --> 01:14:19,350
+whole machinery is
+wrong and yet you can
+
+1448
+01:14:19,350 --> 01:14:21,650
+still archive and code
+because the machinery
+
+1449
+01:14:21,650 --> 01:14:24,210
+that produced the
+text was readable it's
+
+1450
+01:14:24,430 --> 01:14:26,930
+like you're looking at
+this history of machinery
+
+1451
+01:14:26,930 --> 01:14:30,130
+in a state of
+cultural compromise um
+
+1452
+01:14:30,130 --> 01:14:32,530
+and it's kind of
+fascinating like to listen
+
+1453
+01:14:32,530 --> 01:14:36,630
+to um like somebody
+like Till talk about um
+
+1454
+01:14:36,630 --> 01:14:40,150
+you know like what that
+means and like what
+
+1455
+01:14:40,150 --> 01:14:42,030
+kinds of projects
+they're able to make out
+
+1456
+01:14:42,030 --> 01:14:44,450
+of it and you know
+and like what what do
+
+1457
+01:14:44,450 --> 01:14:47,210
+we do how do we change
+the tools these are
+
+1458
+01:14:47,210 --> 01:14:49,570
+huge questions that
+don't have answers but
+
+1459
+01:14:49,570 --> 01:14:52,950
+what do we need to change
+starts like getting
+
+1460
+01:14:52,950 --> 01:14:55,030
+a getting to be bigger
+and bigger now maybe
+
+1461
+01:14:55,030 --> 01:14:59,370
+in the mid 2020s then
+you know can i jump
+
+1462
+01:14:59,370 --> 01:15:02,750
+in and connect this
+um important thing you
+
+1463
+01:15:02,750 --> 01:15:06,750
+just raised about the
+history of the machines
+
+1464
+01:15:06,750 --> 01:15:08,810
+that produce the
+scholarly traditions.
+
+1465
+01:15:09,250 --> 01:15:10,790
+I kind of have this kind
+
+1466
+01:15:10,790 --> 01:15:13,110
+of trace model
+in my mind,
+
+1467
+01:15:13,170 --> 01:15:16,010
+which is a critical
+way to think about it.
+
+1468
+01:15:16,490 --> 01:15:18,650
+From the global north,
+
+1469
+01:15:18,990 --> 01:15:20,470
+the debate,
+
+1470
+01:15:20,630 --> 01:15:22,450
+or the trends,
+
+1471
+01:15:22,450 --> 01:15:26,450
+or the shifts from one
+form of scholarship
+
+1472
+01:15:26,450 --> 01:15:28,690
+within the DH to
+another form, to another
+
+1473
+01:15:28,690 --> 01:15:32,290
+form. I'll make it more
+simple. It was usually
+
+1474
+01:15:32,290 --> 01:15:35,330
+called the digital
+edition. We want to make
+
+1475
+01:15:35,330 --> 01:15:38,290
+sure the Emily Dickinson
+archive is online.
+
+1476
+01:15:38,350 --> 01:15:39,470
+Yeah.
+
+1477
+01:15:39,790 --> 01:15:42,950
+Now, it's into
+digitization. We want to
+
+1478
+01:15:42,950 --> 01:15:46,470
+ensure all newspapers
+are digitized from
+
+1479
+01:15:46,470 --> 01:15:48,490
+microfilm, which is
+different from solid edition,
+
+1480
+01:15:48,490 --> 01:15:50,550
+from microfilm to
+all the dissertation
+
+1481
+01:15:50,550 --> 01:15:53,610
+pipelines so that machine
+learning algorithm
+
+1482
+01:15:53,610 --> 01:15:56,270
+can access them for
+textual analysis.
+
+1483
+01:15:56,270 --> 01:15:59,730
+That's another paradigm.
+and now we have the
+
+1484
+01:15:59,730 --> 01:16:02,570
+paradigm of using the
+ai cloud to really
+
+1485
+01:16:02,570 --> 01:16:05,470
+help you to do the
+coding as well as do the
+
+1486
+01:16:05,470 --> 01:16:07,970
+building of the technical
+skills and as well
+
+1487
+01:16:07,970 --> 01:16:11,470
+as building the
+projects where are we in
+
+1488
+01:16:11,470 --> 01:16:13,490
+the global south in
+all these paradigm
+
+1489
+01:16:13,490 --> 01:16:17,130
+shifts we really started
+digitizing like you
+
+1490
+01:16:17,130 --> 01:16:19,370
+mentioned if we go back
+to national archives
+
+1491
+01:16:19,370 --> 01:16:23,900
+in nigeria are they
+really scanned let
+
+1492
+01:16:24,330 --> 01:16:29,070
+alone digitized into
+um vectors or what
+
+1493
+01:16:29,070 --> 01:16:32,870
+abeddings that can be
+used to train anything so
+
+1494
+01:16:32,870 --> 01:16:36,810
+i'm kind of thinking
+i don't know where we
+
+1495
+01:16:36,810 --> 01:16:41,040
+are right yeah and
+the global notes moved
+
+1496
+01:16:41,040 --> 01:16:45,410
+over a decade i can
+track it this is 2026
+
+1497
+01:16:45,790 --> 01:16:46,910
+2016,
+
+1498
+01:16:47,150 --> 01:16:48,970
+the goal would be
+scholarly tradition,
+
+1499
+01:16:49,090 --> 01:16:57,450
+so I'm not thinking
+that we're now in 2026,
+
+1500
+01:16:57,450 --> 01:17:00,330
+that that's what Global
+North is doing with
+
+1501
+01:17:00,330 --> 01:17:02,930
+the age, especially
+when it's branching out
+
+1502
+01:17:02,930 --> 01:17:05,010
+to sub-disciplines like
+cultural analytics,
+
+1503
+01:17:05,210 --> 01:17:06,650
+computational humanities,
+
+1504
+01:17:06,810 --> 01:17:08,950
+everybody's talking,
+they start reading.
+
+1505
+01:17:09,590 --> 01:17:10,890
+Are we there?
+
+1506
+01:17:10,890 --> 01:17:13,670
+Where is the landscape
+
+1507
+01:17:13,850 --> 01:17:17,350
+of the global south
+dh i mean from the
+
+1508
+01:17:17,350 --> 01:17:19,530
+typical example you
+gave on the arabic so we
+
+1509
+01:17:19,530 --> 01:17:22,130
+still have that kind
+of challenge back in
+
+1510
+01:17:22,130 --> 01:17:24,210
+other global south
+countries in india and
+
+1511
+01:17:24,210 --> 01:17:27,110
+the rest where is the
+landscape even within
+
+1512
+01:17:27,110 --> 01:17:30,010
+the minimal computing
+concentration yeah
+
+1513
+01:17:30,010 --> 01:17:31,610
+that's a good question
+i want us to think
+
+1514
+01:17:31,610 --> 01:17:34,170
+about connecting with
+what matters to do in
+
+1515
+01:17:34,170 --> 01:17:37,070
+the global south now
+yeah yeah i know that
+
+1516
+01:17:37,730 --> 01:17:41,790
+i feel yeah it's i i
+hate to use this word
+
+1517
+01:17:41,790 --> 01:17:44,490
+i hate to use a slow i
+think it's our stages
+
+1518
+01:17:44,490 --> 01:17:47,730
+but also i feel stages
+are like it's not
+
+1519
+01:17:47,730 --> 01:17:49,690
+something that it's about
+level it's something
+
+1520
+01:17:49,690 --> 01:17:52,630
+that it's about the
+not media or just it's
+
+1521
+01:17:52,630 --> 01:17:55,470
+not linear uh so i
+don't like to put like
+
+1522
+01:17:55,470 --> 01:17:58,530
+like this global south
+is behind the global
+
+1523
+01:17:58,530 --> 01:18:00,850
+south is dealing with
+other problems right
+
+1524
+01:18:00,850 --> 01:18:03,450
+so that's why we're
+taking more time in
+
+1525
+01:18:03,450 --> 01:18:07,470
+different things um it's
+it's complicated when
+
+1526
+01:18:07,470 --> 01:18:10,230
+when you're trying to
+put it uh versus high
+
+1527
+01:18:10,230 --> 01:18:12,750
+to emoji again like
+minimal computer let
+
+1528
+01:18:12,750 --> 01:18:16,630
+us to think about
+digital projects digital
+
+1529
+01:18:16,630 --> 01:18:19,670
+necessities not on a
+scale of how advanced
+
+1530
+01:18:19,670 --> 01:18:22,210
+we are correct we're
+on the scales of the
+
+1531
+01:18:22,210 --> 01:18:26,450
+necessities which i i
+really love that um but
+
+1532
+01:18:26,450 --> 01:18:30,290
+i think like like
+what is happening i've
+
+1533
+01:18:30,290 --> 01:18:32,590
+been seeing in chile
+for example there's been
+
+1534
+01:18:32,590 --> 01:18:36,210
+a wave of a lot of uh
+programming like there
+
+1535
+01:18:36,210 --> 01:18:40,330
+is an r group of
+programming in chile like
+
+1536
+01:18:40,330 --> 01:18:43,450
+sort ladies or our
+ladies in chile get
+
+1537
+01:18:43,450 --> 01:18:45,550
+together there's also
+like it's a linkedin for
+
+1538
+01:18:45,550 --> 01:18:48,290
+the group i'm in the
+group i never i i
+
+1539
+01:18:48,290 --> 01:18:50,650
+haven't been able to jump
+into one because like
+
+1540
+01:18:50,650 --> 01:18:52,990
+the three hour difference
+is a killer when
+
+1541
+01:18:52,990 --> 01:18:56,250
+you're trying to get
+time to to get it but
+
+1542
+01:18:56,250 --> 01:18:58,810
+i've seen like there
+are like so many new
+
+1543
+01:18:58,810 --> 01:19:02,470
+initiatives on like
+learning how to go learning
+
+1544
+01:19:02,470 --> 01:19:05,790
+tools um i cannot
+remember now but there
+
+1545
+01:19:05,790 --> 01:19:09,750
+is a woman a professor
+in is it in stanford
+
+1546
+01:19:09,750 --> 01:19:13,890
+she now has a group
+for the age in spanish
+
+1547
+01:19:13,940 --> 01:19:16,940
+she collects people
+that want to teach
+
+1548
+01:19:16,940 --> 01:19:19,610
+different tools so
+she's teaching omegas in
+
+1549
+01:19:19,610 --> 01:19:22,970
+spanish she's teaching
+like buoyant in spanish
+
+1550
+01:19:22,970 --> 01:19:25,210
+she's teaching different
+things and like
+
+1551
+01:19:25,210 --> 01:19:28,030
+she's inviting and she's
+doing it out of her
+
+1552
+01:19:28,030 --> 01:19:32,750
+heart kind of um and
+and it's a whole group
+
+1553
+01:19:32,750 --> 01:19:34,510
+and they have like
+this seminar and it's
+
+1554
+01:19:34,510 --> 01:19:37,170
+called like like like
+the like humanities in
+
+1555
+01:19:37,170 --> 01:19:40,390
+for like spanish
+speakers and it's like
+
+1556
+01:19:40,390 --> 01:19:43,970
+all those those efforts
+that are are coming
+
+1557
+01:19:43,970 --> 01:19:46,950
+into and i feel like
+the translation of tools
+
+1558
+01:19:46,950 --> 01:19:49,070
+it's something very
+necessarily and tools
+
+1559
+01:19:49,070 --> 01:19:51,770
+are like no the fanciest
+tools are like the
+
+1560
+01:19:51,770 --> 01:19:55,630
+ones that cover the
+necessities and like
+
+1561
+01:19:55,630 --> 01:19:58,910
+let us like play with
+it and advance with it
+
+1562
+01:19:59,690 --> 01:20:03,070
+and also control it so
+i mean that connects
+
+1563
+01:20:03,070 --> 01:20:04,670
+to something felix
+and i were talking
+
+1564
+01:20:04,670 --> 01:20:06,730
+about with like ant
+conch and voyant being
+
+1565
+01:20:06,730 --> 01:20:09,290
+like so quickly
+accessible and you can
+
+1566
+01:20:09,290 --> 01:20:11,870
+see so much and you
+can get in and change
+
+1567
+01:20:11,870 --> 01:20:14,850
+the tool and yeah yeah
+yeah so that sounds
+
+1568
+01:20:14,850 --> 01:20:17,130
+like another yet
+another example of us
+
+1569
+01:20:17,130 --> 01:20:21,650
+yes oh you have like
+also like the and i
+
+1570
+01:20:21,650 --> 01:20:23,980
+have to put it here
+programming historian
+
+1571
+01:20:24,780 --> 01:20:27,850
+they have like they have
+even like portuguese
+
+1572
+01:20:27,850 --> 01:20:30,730
+they have they have
+so many with like
+
+1573
+01:20:30,730 --> 01:20:34,710
+even french uh spanish
+so you have like all
+
+1574
+01:20:34,710 --> 01:20:40,130
+these uh tutorials so
+i feel like the kind of
+
+1575
+01:20:40,130 --> 01:20:43,810
+the moment that we are
+sitting in it's like
+
+1576
+01:20:43,810 --> 01:20:49,390
+taking control over
+our tools taking
+
+1577
+01:20:49,390 --> 01:20:51,590
+control over what is
+happening i think that is
+
+1578
+01:20:51,590 --> 01:20:54,090
+job in the global south
+how we take control
+
+1579
+01:20:54,090 --> 01:20:58,070
+how we reclaim all
+of these and make it
+
+1580
+01:20:58,070 --> 01:21:01,390
+ours or how we reclaim
+the basics so we could
+
+1581
+01:21:01,390 --> 01:21:04,590
+make our own projects
+under our own logic
+
+1582
+01:21:04,590 --> 01:21:08,470
+um i love what you just
+said making our own
+
+1583
+01:21:08,470 --> 01:21:11,510
+projects under our own
+logic like we should
+
+1584
+01:21:11,510 --> 01:21:14,940
+like put a big it's
+really good yeah but
+
+1585
+01:21:15,370 --> 01:21:19,610
+yes i i remember
+reading on um this is on
+
+1586
+01:21:19,610 --> 01:21:24,430
+design like humanities
+and design and ux designer
+
+1587
+01:21:24,430 --> 01:21:28,030
+i cannot remember i
+read this for this
+
+1588
+01:21:28,030 --> 01:21:32,530
+design class um on
+african-american digital
+
+1589
+01:21:32,530 --> 01:21:36,050
+design and how the
+websites and how like
+
+1590
+01:21:36,050 --> 01:21:38,110
+everything looks
+different than the white
+
+1591
+01:21:38,110 --> 01:21:42,150
+green background but
+the powerful color and
+
+1592
+01:21:42,150 --> 01:21:45,210
+imagery and and even
+though it's not that the
+
+1593
+01:21:45,210 --> 01:21:48,950
+tendency it's not like
+the polish look that
+
+1594
+01:21:48,970 --> 01:21:52,410
+it's imposed to us
+to make and to create
+
+1595
+01:21:53,530 --> 01:21:56,190
+designing for like
+the community take it
+
+1596
+01:21:56,190 --> 01:21:58,250
+taking the tools and
+making your own taking
+
+1597
+01:21:58,250 --> 01:22:00,550
+the the possibility of
+like creating a website
+
+1598
+01:22:00,550 --> 01:22:03,830
+and making your own
+i feel like that it's
+
+1599
+01:22:03,830 --> 01:22:06,710
+it's something and
+make it available in
+
+1600
+01:22:06,710 --> 01:22:08,770
+your own language i
+think i think of my
+
+1601
+01:22:08,770 --> 01:22:11,210
+parents like they don't
+speak they miss so many
+
+1602
+01:22:11,210 --> 01:22:14,710
+stuff kind of and
+they were also missing
+
+1603
+01:22:14,710 --> 01:22:18,090
+them like kind of kind
+of that it's like the
+
+1604
+01:22:18,090 --> 01:22:21,050
+feeling like they miss
+hearing like my mom
+
+1605
+01:22:21,050 --> 01:22:23,150
+and my dad saying
+like intelligent stuff
+
+1606
+01:22:23,530 --> 01:22:25,950
+not only intelligent
+but like having like
+
+1607
+01:22:25,950 --> 01:22:28,590
+everything they know
+and they also miss so
+
+1608
+01:22:28,590 --> 01:22:30,530
+much information that
+it's available and
+
+1609
+01:22:30,530 --> 01:22:32,510
+accessible for so
+many people but only
+
+1610
+01:22:32,510 --> 01:22:35,590
+because they don't fit
+on what these tools
+
+1611
+01:22:35,590 --> 01:22:38,190
+and what this information
+is made of yeah i
+
+1612
+01:22:38,190 --> 01:22:39,920
+get a little bit
+emotional on that sorry
+
+1613
+01:22:39,920 --> 01:22:43,010
+no that's actually i
+think that's the the
+
+1614
+01:22:43,010 --> 01:22:45,350
+stuff that makes us
+emotional is what matters
+
+1615
+01:22:45,350 --> 01:22:49,050
+to say here now
+yeah yeah and i feel
+
+1616
+01:22:49,050 --> 01:22:53,250
+like like uh minimal
+computer let us i can't
+
+1617
+01:22:53,250 --> 01:22:55,790
+let us think us about
+outside the box let
+
+1618
+01:22:55,790 --> 01:22:59,390
+us build something
+robust build a bridge
+
+1619
+01:23:01,050 --> 01:23:05,250
+yeah build a bridge
+build a bridge yeah
+
+1620
+01:23:05,250 --> 01:23:08,050
+so about that bridge
+building i think
+
+1621
+01:23:08,050 --> 01:23:11,250
+the ai summary got
+this just didn't
+
+1622
+01:23:11,250 --> 01:23:13,670
+get it like so so
+let's get it again
+
+1623
+01:23:13,670 --> 01:23:15,690
+what are you talking
+about with that
+
+1624
+01:23:17,190 --> 01:23:21,090
+but uh i feel like we
+we jump into that like
+
+1625
+01:23:21,090 --> 01:23:22,770
+in different moments
+when we were talking
+
+1626
+01:23:22,770 --> 01:23:26,070
+about DH practitioner
+in general like so
+
+1627
+01:23:26,070 --> 01:23:31,470
+builders bridge builders
+um when we were taking
+
+1628
+01:23:31,470 --> 01:23:33,650
+like the big cameras
+i'm like she's talking
+
+1629
+01:23:33,650 --> 01:23:35,490
+about like the project
+that i was talking
+
+1630
+01:23:35,490 --> 01:23:38,720
+like she's able to now
+navigate two worlds
+
+1631
+01:23:38,720 --> 01:23:41,990
+she's able to talk to
+the tech guy and then
+
+1632
+01:23:41,990 --> 01:23:45,210
+talk to the one who
+is doing the maybe the
+
+1633
+01:23:45,210 --> 01:23:47,870
+cultural interpretation or
+the cultural necessities
+
+1634
+01:23:47,870 --> 01:23:51,630
+for a project and
+that is a huge example
+
+1635
+01:23:51,630 --> 01:23:54,830
+of what what we do
+as digital humanities
+
+1636
+01:23:54,830 --> 01:23:57,630
+practitioners we are
+in the middle of two
+
+1637
+01:23:57,630 --> 01:23:59,410
+worlds we're in the
+middle of the physical and
+
+1638
+01:23:59,410 --> 01:24:01,210
+digital like even
+while we were talking
+
+1639
+01:24:01,210 --> 01:24:04,450
+about like the books and
+having physical books
+
+1640
+01:24:04,450 --> 01:24:07,190
+and and work with
+physical materials and you
+
+1641
+01:24:07,190 --> 01:24:08,890
+have theater projects
+are like they need
+
+1642
+01:24:08,890 --> 01:24:12,430
+so much physical work
+because everything is
+
+1643
+01:24:12,430 --> 01:24:15,230
+not online everything
+is not like there and
+
+1644
+01:24:15,230 --> 01:24:18,190
+you have to build from
+that so it's like it's
+
+1645
+01:24:18,370 --> 01:24:22,230
+like this this stress
+hole that we are like
+
+1646
+01:24:22,230 --> 01:24:27,270
+sitting in uh and i i
+enjoy that and i think
+
+1647
+01:24:27,270 --> 01:24:29,410
+like like minimal
+computer it is like
+
+1648
+01:24:29,410 --> 01:24:33,270
+thinking on how we create
+a base how we create
+
+1649
+01:24:33,270 --> 01:24:36,550
+a base for a project
+how we think about all
+
+1650
+01:24:36,550 --> 01:24:38,450
+that we need how we
+get to the other side
+
+1651
+01:24:38,450 --> 01:24:41,450
+all together and and
+recognize every piece
+
+1652
+01:24:41,450 --> 01:24:44,230
+that it made that possible
+but i want to jump
+
+1653
+01:24:44,230 --> 01:24:46,570
+on what do you think
+about this bridge idea
+
+1654
+01:24:47,210 --> 01:24:50,550
+so i mean it as we've
+been talking this
+
+1655
+01:24:50,550 --> 01:24:53,130
+morning i feel like a
+thing that emerged for
+
+1656
+01:24:53,130 --> 01:24:56,450
+me much more clearly
+now is the physical
+
+1657
+01:24:56,450 --> 01:24:59,610
+groundwork that that
+foundation of our
+
+1658
+01:24:59,610 --> 01:25:03,670
+bridge is the world we
+physically live in and
+
+1659
+01:25:03,670 --> 01:25:06,010
+the worlds we move
+through when we travel
+
+1660
+01:25:06,010 --> 01:25:08,230
+and like you know
+where our communities
+
+1661
+01:25:08,230 --> 01:25:12,710
+are living and what
+they can access what do
+
+1662
+01:25:12,710 --> 01:25:14,650
+they have what do
+they want what do they
+
+1663
+01:25:14,650 --> 01:25:20,970
+need um that as we're
+trying to find the
+
+1664
+01:25:20,970 --> 01:25:24,770
+right things to teach
+that knowing where
+
+1665
+01:25:24,770 --> 01:25:26,610
+they are even if we're
+going to teach them
+
+1666
+01:25:26,610 --> 01:25:28,870
+in an online context
+how will they access
+
+1667
+01:25:28,870 --> 01:25:31,790
+us right how will they
+reach for us is there
+
+1668
+01:25:31,790 --> 01:25:34,790
+something they can
+download that's not
+
+1669
+01:25:34,800 --> 01:25:38,270
+enormous that like but
+that's also something
+
+1670
+01:25:38,270 --> 01:25:40,630
+they can pick up
+and find interesting
+
+1671
+01:25:40,630 --> 01:25:44,690
+and um connects with
+things they care about
+
+1672
+01:25:45,210 --> 01:25:49,370
+um yeah it's like meeting
+in that like being
+
+1673
+01:25:49,370 --> 01:25:51,750
+aware of the physical
+groundwork and its
+
+1674
+01:25:51,750 --> 01:25:55,970
+limits and yeah seems
+seems very important
+
+1675
+01:25:58,950 --> 01:26:03,410
+what do you think
+about this bridge do
+
+1676
+01:26:03,410 --> 01:26:05,580
+you see yourself
+as a bridge builder
+
+1677
+01:26:05,580 --> 01:26:10,910
+i see a bridge behind
+you yeah yeah i
+
+1678
+01:26:10,910 --> 01:26:12,250
+think in the context
+of the global
+
+1679
+01:26:12,250 --> 01:26:17,210
+south dh has been a
+bridge i i i made a
+
+1680
+01:26:17,450 --> 01:26:20,690
+connection before i mean
+earlier this morning
+
+1681
+01:26:20,690 --> 01:26:24,490
+we're with elisa that
+the kind of training
+
+1682
+01:26:24,490 --> 01:26:28,090
+education in the
+community um serve as
+
+1683
+01:26:28,090 --> 01:26:30,950
+a bridge for a couple
+of us to gain access
+
+1684
+01:26:30,950 --> 01:26:35,010
+to um global north
+education in in grad
+
+1685
+01:26:35,010 --> 01:26:39,710
+programs a lot of us
+moved in through primarily
+
+1686
+01:26:39,710 --> 01:26:41,710
+the training we got
+from summer schools
+
+1687
+01:26:41,710 --> 01:26:45,350
+and conferences in
+nigeria that stimulates
+
+1688
+01:26:45,350 --> 01:26:48,770
+our interest we we now
+when we write sop i
+
+1689
+01:26:48,770 --> 01:26:52,150
+can mention buoyant
+not to the degree of
+
+1690
+01:26:52,150 --> 01:26:54,590
+how much i can use it
+but i can mention it
+
+1691
+01:26:54,590 --> 01:26:57,970
+in my sop and and that
+that kind of moved
+
+1692
+01:26:57,970 --> 01:27:01,640
+me into loyola um in in
+that kind of foundation
+
+1693
+01:27:01,690 --> 01:27:03,810
+i already have with
+summer school and
+
+1694
+01:27:03,810 --> 01:27:06,790
+conferences. So I think
+DH serves as a bridge
+
+1695
+01:27:06,930 --> 01:27:09,190
+in that sense of human
+capacity development
+
+1696
+01:27:09,190 --> 01:27:11,670
+and kind of transfer
+of knowledge from
+
+1697
+01:27:11,670 --> 01:27:13,770
+global south to global
+north. The second
+
+1698
+01:27:13,770 --> 01:27:18,110
+thing why DH serves as
+a bridge is I'm strongly
+
+1699
+01:27:18,110 --> 01:27:20,210
+believing that it's
+maybe not in the
+
+1700
+01:27:20,210 --> 01:27:22,170
+full scale but in the
+scale of connecting to
+
+1701
+01:27:22,170 --> 01:27:25,390
+the community that
+hones the data, that
+
+1702
+01:27:25,390 --> 01:27:27,730
+hones the manuscript
+that hones the history.
+
+1703
+01:27:27,970 --> 01:27:31,890
+So DH would normally
+serve as a bridge for
+
+1704
+01:27:31,890 --> 01:27:34,650
+DH practitioners to now
+work with the community.
+
+1705
+01:27:34,650 --> 01:27:36,810
+Like we mentioned
+last week, the Muktu
+
+1706
+01:27:36,810 --> 01:27:40,210
+software was built on
+the basis of how the
+
+1707
+01:27:40,210 --> 01:27:44,270
+community see the
+history and the tool was
+
+1708
+01:27:44,270 --> 01:27:46,660
+built on that. So it
+wasn't like off-the-shelf
+
+1709
+01:27:46,660 --> 01:27:50,250
+tool that was implanted
+into a community
+
+1710
+01:27:50,250 --> 01:27:52,070
+of users. It was a
+community of users that
+
+1711
+01:27:52,070 --> 01:27:54,370
+built it and the
+purpose was to allow the
+
+1712
+01:27:54,370 --> 01:27:57,190
+community with the DH
+practitioners as well as
+
+1713
+01:27:57,190 --> 01:27:59,950
+the community to work
+together and build
+
+1714
+01:27:59,950 --> 01:28:03,670
+digital objects or
+digital artifacts through
+
+1715
+01:28:03,670 --> 01:28:05,950
+that too. So I'm thinking
+that would be on the
+
+1716
+01:28:05,950 --> 01:28:08,150
+educational access
+of educating either
+
+1717
+01:28:08,150 --> 01:28:11,650
+within an outside country
+or where the DH is
+
+1718
+01:28:11,650 --> 01:28:14,510
+located. The other one is
+the access to connecting
+
+1719
+01:28:14,510 --> 01:28:16,430
+the community with
+the DH practitioners
+
+1720
+01:28:16,430 --> 01:28:18,770
+as well as the, which
+might still be a long
+
+1721
+01:28:18,770 --> 01:28:21,870
+way coming because
+Because like I mentioned,
+
+1722
+01:28:21,870 --> 01:28:24,390
+the Texas projects
+of massacre in Texas,
+
+1723
+01:28:24,490 --> 01:28:28,570
+where the Professor
+Amy was able to work
+
+1724
+01:28:28,570 --> 01:28:32,210
+closely with the lived
+experiences of people
+
+1725
+01:28:32,210 --> 01:28:34,750
+who, one way or the
+other, witnessed the
+
+1726
+01:28:34,750 --> 01:28:37,830
+massacre or they could
+give a history about it.
+
+1727
+01:28:37,830 --> 01:28:40,450
+And she wasn't
+building a project as a
+
+1728
+01:28:40,450 --> 01:28:43,290
+professor from the office.
+She built the project
+
+1729
+01:28:43,290 --> 01:28:46,370
+with the community
+that the massacre took
+
+1730
+01:28:46,370 --> 01:28:48,970
+place. how much of
+that we have in global
+
+1731
+01:28:48,970 --> 01:28:51,030
+south would be a question
+but i think that is
+
+1732
+01:28:51,030 --> 01:28:53,710
+what i mean by bridge
+that's the way i see
+
+1733
+01:28:53,710 --> 01:28:56,050
+it that we now begin
+to engage the community
+
+1734
+01:28:56,050 --> 01:28:59,090
+of people who hones
+the project i mean
+
+1735
+01:28:59,090 --> 01:29:02,020
+who hones the history
+we want to preserve uh
+
+1736
+01:29:02,030 --> 01:29:06,750
+we we tell them the
+story um we tell them
+
+1737
+01:29:06,750 --> 01:29:09,170
+the technical skills
+that we can use and we
+
+1738
+01:29:09,170 --> 01:29:12,030
+allow them to contribute
+to also open up to
+
+1739
+01:29:12,030 --> 01:29:14,470
+say or we can contribute
+the third bridge
+
+1740
+01:29:14,470 --> 01:29:18,490
+would be going forward
+i mean would be the dh
+
+1741
+01:29:18,490 --> 01:29:20,150
+practitioners from
+the global south also
+
+1742
+01:29:20,150 --> 01:29:22,890
+contributing to tech
+developments that's
+
+1743
+01:29:22,890 --> 01:29:26,190
+another bridge i'm
+thinking about um which in
+
+1744
+01:29:26,190 --> 01:29:30,430
+in the first decade
+or so what we do is to
+
+1745
+01:29:30,430 --> 01:29:33,790
+use the tools and
+being able to see the
+
+1746
+01:29:33,790 --> 01:29:38,210
+limitation or the strength
+but not amenable or
+
+1747
+01:29:38,210 --> 01:29:41,550
+applicable to our own
+data set so the question
+
+1748
+01:29:41,550 --> 01:29:44,170
+will not be DH
+practitioners in the global
+
+1749
+01:29:44,170 --> 01:29:48,430
+south also contributing
+to enough tech
+
+1750
+01:29:48,430 --> 01:29:51,630
+development or existing
+changes in existing
+
+1751
+01:29:51,630 --> 01:29:54,530
+tech developments that
+are all undergoing. A
+
+1752
+01:29:54,530 --> 01:29:58,050
+case study would be a
+PhD candidate in UK,
+
+1753
+01:29:58,350 --> 01:30:02,270
+Augustine Fariola,
+was very instrumental
+
+1754
+01:30:02,400 --> 01:30:04,950
+back then in Nigeria.
+He had philosophy
+
+1755
+01:30:04,950 --> 01:30:08,970
+background so his
+epistemology mentor skill set
+
+1756
+01:30:08,970 --> 01:30:13,290
+was profound so he
+was able to get his
+
+1757
+01:30:13,290 --> 01:30:16,130
+training in nigeria move
+to the uk for phd now
+
+1758
+01:30:16,130 --> 01:30:19,350
+he works with rockwell
+in canada um building
+
+1759
+01:30:19,350 --> 01:30:22,550
+the voyance tools
+consortium which is uh
+
+1760
+01:30:22,550 --> 01:30:26,780
+another body beyond
+the two developers but
+
+1761
+01:30:26,780 --> 01:30:30,090
+contributors who had
+used the tool for
+
+1762
+01:30:30,090 --> 01:30:32,810
+researches and they
+want to say this is what
+
+1763
+01:30:32,810 --> 01:30:35,430
+will find out and so
+he's the one anchoring
+
+1764
+01:30:35,430 --> 01:30:37,280
+that because he has a
+background in philosophy
+
+1765
+01:30:37,280 --> 01:30:40,830
+he has a training in
+DH and he's on his
+
+1766
+01:30:40,830 --> 01:30:42,870
+PhD program so he
+was able to work with
+
+1767
+01:30:42,870 --> 01:30:45,530
+Rockwell Jeffrey Rockwell
+building the community
+
+1768
+01:30:45,530 --> 01:30:48,450
+side of it beyond
+the two and getting
+
+1769
+01:30:48,450 --> 01:30:51,670
+feedback so he runs
+monthly or quarterly
+
+1770
+01:30:51,670 --> 01:30:56,630
+workshop on DH on on
+voyants I mean for all
+
+1771
+01:30:56,630 --> 01:30:59,790
+week with Rockwell
+for the global south.
+
+1772
+01:30:59,790 --> 01:31:02,270
+Nigerians, Cameroonians,
+so they come together
+
+1773
+01:31:02,270 --> 01:31:05,150
+and the end goal of
+such project was you
+
+1774
+01:31:05,150 --> 01:31:08,710
+have to do a project
+with voyants and you have
+
+1775
+01:31:08,710 --> 01:31:11,250
+to tell us what you
+did and tell us how
+
+1776
+01:31:11,250 --> 01:31:13,910
+to improve it. And so
+that is his own goal.
+
+1777
+01:31:14,330 --> 01:31:17,530
+Another case study I
+would refer to is Yaku
+
+1778
+01:31:17,530 --> 01:31:21,010
+James from University
+of Kansas at Lawrence
+
+1779
+01:31:21,010 --> 01:31:26,470
+building African DH.
+He runs a symposium in
+
+1780
+01:31:26,470 --> 01:31:30,310
+Ghana. Last year Alex
+was there um and a
+
+1781
+01:31:30,310 --> 01:31:32,250
+couple of people would
+always travel down to
+
+1782
+01:31:32,250 --> 01:31:35,550
+ghana to do african dh
+now african dh in the
+
+1783
+01:31:35,550 --> 01:31:38,570
+in in the african
+soil uh even though it
+
+1784
+01:31:38,570 --> 01:31:41,870
+works in it works at
+university of cancer but
+
+1785
+01:31:42,090 --> 01:31:46,550
+it's pushing towards
+domestication of the
+
+1786
+01:31:46,550 --> 01:31:50,390
+dh in the land where i
+mean in the where the
+
+1787
+01:31:50,390 --> 01:31:52,530
+research is coming
+out from not just so
+
+1788
+01:31:52,530 --> 01:31:54,970
+you had worked with
+um learning wood films
+
+1789
+01:31:54,970 --> 01:31:56,910
+but just like we have
+hollywood nollywood
+
+1790
+01:31:56,910 --> 01:31:59,870
+films um where they
+were not in digital form
+
+1791
+01:31:59,870 --> 01:32:03,250
+so you had to go for
+posters um banners and
+
+1792
+01:32:03,250 --> 01:32:05,110
+flyers you know
+nigeria when we produce
+
+1793
+01:32:05,110 --> 01:32:07,530
+film we usually put the
+posters on the streets
+
+1794
+01:32:07,530 --> 01:32:09,990
+the new film is out
+so from the poster
+
+1795
+01:32:09,990 --> 01:32:12,870
+you could know the
+viewing station i don't
+
+1796
+01:32:12,870 --> 01:32:15,830
+know if it's view
+station here you know it
+
+1797
+01:32:15,830 --> 01:32:17,230
+should be viewing
+station like where people
+
+1798
+01:32:17,230 --> 01:32:19,690
+watch football or
+sports so people also go
+
+1799
+01:32:19,690 --> 01:32:23,510
+to watch movies in in
+the center not in your
+
+1800
+01:32:23,510 --> 01:32:24,910
+room not in your house
+because you don't
+
+1801
+01:32:24,910 --> 01:32:28,270
+have the luxury so
+from the posters and
+
+1802
+01:32:28,270 --> 01:32:32,410
+banners on the street
+um on electric posts
+
+1803
+01:32:32,410 --> 01:32:35,650
+wherever they paste it
+you know the time the
+
+1804
+01:32:35,650 --> 01:32:37,310
+show will be on viewing
+just like in the
+
+1805
+01:32:37,310 --> 01:32:40,450
+theater in in the west
+theater you go to theater
+
+1806
+01:32:40,450 --> 01:32:43,150
+too but this one is
+like a a deal in a
+
+1807
+01:32:43,150 --> 01:32:45,230
+small room that people
+come together pay you
+
+1808
+01:32:45,230 --> 01:32:47,590
+pay then you you watch
+it so he's trying
+
+1809
+01:32:47,590 --> 01:32:51,370
+to digitize um nollywood
+pre maybe post post
+
+1810
+01:32:51,370 --> 01:32:54,990
+um civil war or post
+-independence or pre
+
+1811
+01:32:54,990 --> 01:32:57,070
+-independence was trying
+to go through the
+
+1812
+01:32:57,070 --> 01:32:59,710
+history of nonnywood in
+nigeria and the second
+
+1813
+01:32:59,710 --> 01:33:01,590
+project which seems
+to be very interesting
+
+1814
+01:33:01,590 --> 01:33:05,710
+is the um nigerian
+literature in the
+
+1815
+01:33:05,710 --> 01:33:08,210
+markets we call it market
+literature so there
+
+1816
+01:33:08,210 --> 01:33:12,250
+are histories that um
+connect the dots um
+
+1817
+01:33:12,250 --> 01:33:15,350
+be fortunate to be
+1948 that was the first
+
+1818
+01:33:15,710 --> 01:33:18,430
+african nigerian novel
+would i say nigerian
+
+1819
+01:33:18,430 --> 01:33:20,950
+novel not not the first
+but i mean typical
+
+1820
+01:33:20,950 --> 01:33:23,410
+of teens fall apart
+which was a product
+
+1821
+01:33:23,410 --> 01:33:26,430
+from out of darkness
+joseph conrad it was a
+
+1822
+01:33:26,430 --> 01:33:29,010
+ph it was an english
+student from university
+
+1823
+01:33:29,010 --> 01:33:30,910
+of ibadan which was
+formerly university of
+
+1824
+01:33:30,910 --> 01:33:35,330
+london in nigeria
+and she he read teens
+
+1825
+01:33:35,330 --> 01:33:37,910
+fall apart sorry he read
+heart of darkness and
+
+1826
+01:33:37,910 --> 01:33:40,790
+he was hungry the
+way um joseph conrad
+
+1827
+01:33:40,790 --> 01:33:47,590
+depicted africa as
+hard as black i mean as
+
+1828
+01:33:47,590 --> 01:33:50,970
+darkness right yeah
+yeah so in retrospect he
+
+1829
+01:33:50,970 --> 01:33:53,850
+wrote his first novel
+things fall apart uh
+
+1830
+01:33:53,850 --> 01:33:57,090
+which seems to be
+summary is saying we were
+
+1831
+01:33:57,090 --> 01:33:59,330
+we had our culture we
+had our civilization
+
+1832
+01:33:59,330 --> 01:34:02,090
+before you people came
+before things fell
+
+1833
+01:34:02,090 --> 01:34:06,010
+apart so and he took
+that from um the poem
+
+1834
+01:34:06,010 --> 01:34:08,470
+turning and turning
+in this welding uh um
+
+1835
+01:34:08,470 --> 01:34:11,550
+second coming second
+coming that's from yates
+
+1836
+01:34:11,550 --> 01:34:14,530
+yeah wb yates so it
+took the line this fall
+
+1837
+01:34:14,530 --> 01:34:16,730
+apart from the second
+coming um that we
+
+1838
+01:34:16,730 --> 01:34:19,350
+already had our life
+going on we have local
+
+1839
+01:34:19,350 --> 01:34:21,550
+administrations we
+have cultural practices
+
+1840
+01:34:21,550 --> 01:34:23,930
+they were stable you
+might call it non
+
+1841
+01:34:23,930 --> 01:34:26,330
+-civilized but they were
+stable they were they
+
+1842
+01:34:26,330 --> 01:34:28,650
+were documented but
+things fell apart when
+
+1843
+01:34:28,650 --> 01:34:31,710
+the ****** came and
+introduced civilization
+
+1844
+01:34:32,070 --> 01:34:34,010
+christianization and
+commercialization the
+
+1845
+01:34:34,010 --> 01:34:36,200
+three cities we usually
+study in history and
+
+1846
+01:34:36,200 --> 01:34:38,350
+that changed the dynamic
+so his own goal for
+
+1847
+01:34:38,350 --> 01:34:41,010
+yoko james was to
+document the pamphlet
+
+1848
+01:34:41,010 --> 01:34:44,430
+literature from the
+market um there were small
+
+1849
+01:34:44,430 --> 01:34:47,570
+pamphlets people drop
+it in the market um
+
+1850
+01:34:47,570 --> 01:34:49,770
+maybe poems and thereabouts
+before we now have
+
+1851
+01:34:49,770 --> 01:34:53,110
+a standard um form of
+writing so that's also
+
+1852
+01:34:53,110 --> 01:34:55,850
+serves as a bridge
+building project even
+
+1853
+01:34:55,850 --> 01:34:59,290
+though he's a western
+scholar trained in canada
+
+1854
+01:34:59,290 --> 01:35:02,610
+works um universal
+of cancers, but it's
+
+1855
+01:35:02,610 --> 01:35:05,070
+going back to see what
+it can document and
+
+1856
+01:35:05,070 --> 01:35:08,270
+digitize, maybe with
+resources from the West or
+
+1857
+01:35:08,270 --> 01:35:12,130
+resource or no resources
+or manpower. And it
+
+1858
+01:35:12,130 --> 01:35:14,830
+runs the African DH
+symposium every year to
+
+1859
+01:35:14,830 --> 01:35:17,830
+support that kind of
+move. So DH in the global
+
+1860
+01:35:17,830 --> 01:35:20,590
+South will usually
+be a bridge in those
+
+1861
+01:35:20,590 --> 01:35:23,730
+spectrum, I've explained,
+if we're captured.
+
+1862
+01:35:25,890 --> 01:35:30,110
+wow that's immense
+what you just described
+
+1863
+01:35:30,110 --> 01:35:32,370
+because it kind of
+moves through time
+
+1864
+01:35:32,370 --> 01:35:34,710
+but if you're following
+a scholar who is
+
+1865
+01:35:34,710 --> 01:35:38,590
+like organized african
+digital humanities
+
+1866
+01:35:38,590 --> 01:35:42,370
+and that's so
+important um because
+
+1867
+01:35:42,370 --> 01:35:48,710
+it's the bridge that
+he and others like him
+
+1868
+01:35:48,710 --> 01:35:52,370
+and you right like
+our building seems
+
+1869
+01:35:52,370 --> 01:35:57,630
+to be about, yeah,
+using those tools that
+
+1870
+01:35:57,630 --> 01:36:01,710
+started in the West
+or the North, however
+
+1871
+01:36:01,710 --> 01:36:05,290
+you describe that,
+and changing them,
+
+1872
+01:36:05,530 --> 01:36:07,630
+educating with them
+even before you
+
+1873
+01:36:07,630 --> 01:36:09,950
+change them, but
+also in the process
+
+1874
+01:36:09,950 --> 01:36:12,130
+of educating,
+recognizing the
+
+1875
+01:36:12,130 --> 01:36:16,770
+problems, and deciding
+with other people
+
+1876
+01:36:16,970 --> 01:36:21,050
+what you want to do
+and what matters now
+
+1877
+01:36:21,250 --> 01:36:25,990
+yeah do you think it's
+our bridges are in
+
+1878
+01:36:25,990 --> 01:36:32,230
+danger or vulnerable
+to um i'll just stop
+
+1879
+01:36:32,230 --> 01:36:34,690
+with like vulnerable
+and if so to what yeah
+
+1880
+01:36:37,150 --> 01:36:40,710
+yeah go ahead no
+no i think like
+
+1881
+01:36:41,870 --> 01:36:43,390
+it's just i
+don't like to be
+
+1882
+01:36:43,390 --> 01:36:44,770
+a little fight
+completely AI.
+
+1883
+01:36:44,950 --> 01:36:48,490
+I think sometimes
+that could be a
+
+1884
+01:36:48,490 --> 01:36:51,390
+bridge destroyer
+because it takes a lot
+
+1885
+01:36:51,390 --> 01:36:53,850
+of the communications
+that happen.
+
+1886
+01:36:54,610 --> 01:36:56,420
+Okay, what can be
+a communication?
+
+1887
+01:36:56,790 --> 01:36:59,050
+The communication,
+like creating
+
+1888
+01:36:59,050 --> 01:37:01,050
+multicultural
+projects and
+
+1889
+01:37:01,050 --> 01:37:04,950
+just add an AI
+and the AI will
+
+1890
+01:37:05,130 --> 01:37:08,210
+be the... Oh, so AI, our
+bridges are vulnerable
+
+1891
+01:37:08,210 --> 01:37:10,810
+to AI. Yeah, okay.
+i think in that way
+
+1892
+01:37:10,810 --> 01:37:13,790
+in a way that that
+for for making these
+
+1893
+01:37:13,790 --> 01:37:16,090
+bridges you need
+communication you need to see
+
+1894
+01:37:16,090 --> 01:37:18,930
+each other kind of
+and i feel like it's
+
+1895
+01:37:18,930 --> 01:37:21,870
+dangerous when we start
+like only seeing the
+
+1896
+01:37:21,870 --> 01:37:25,170
+machine kind of um we
+have been talking a lot
+
+1897
+01:37:25,170 --> 01:37:28,590
+about the human resource
+the human factor
+
+1898
+01:37:28,590 --> 01:37:31,990
+in everything we do the
+human factor in minimal
+
+1899
+01:37:31,990 --> 01:37:36,490
+computing um how the
+human factor have
+
+1900
+01:37:36,490 --> 01:37:40,030
+changed our way to work
+like how we thinking
+
+1901
+01:37:40,030 --> 01:37:42,790
+about others how we
+seeing other people work
+
+1902
+01:37:42,790 --> 01:37:47,130
+in projects and and
+how we we like like
+
+1903
+01:37:47,130 --> 01:37:48,850
+your example that you
+said like i want to
+
+1904
+01:37:48,850 --> 01:37:52,330
+participate in that
+edition and and but that
+
+1905
+01:37:52,330 --> 01:37:54,990
+was because you were like
+you have an inquitude
+
+1906
+01:37:54,990 --> 01:37:57,210
+and you have another
+one like communicated
+
+1907
+01:37:57,210 --> 01:37:59,370
+the same and you were
+like oh we need to
+
+1908
+01:37:59,370 --> 01:38:01,690
+do something about it
+and then jumping into
+
+1909
+01:38:02,050 --> 01:38:05,590
+and and felix also
+was like working in in
+
+1910
+01:38:05,590 --> 01:38:08,530
+archives and going
+around the globe like
+
+1911
+01:38:08,530 --> 01:38:10,750
+learning and going
+into conference and
+
+1912
+01:38:10,750 --> 01:38:13,930
+trying to manage a
+way to communicate to
+
+1913
+01:38:13,930 --> 01:38:18,410
+showcase what he was
+doing and and and in in
+
+1914
+01:38:18,410 --> 01:38:20,850
+my case also i was
+like looking for like
+
+1915
+01:38:20,850 --> 01:38:23,410
+how how i could share
+this knowledge and
+
+1916
+01:38:23,410 --> 01:38:26,190
+how this could be
+meaningful for for a group
+
+1917
+01:38:26,190 --> 01:38:29,670
+of people that
+usually overlook on um
+
+1918
+01:38:30,240 --> 01:38:33,210
+in in the term of
+technology i mean the
+
+1919
+01:38:33,210 --> 01:38:38,130
+world of broadcasting
+so and so i feel like
+
+1920
+01:38:40,350 --> 01:38:44,650
+sometimes like ai
+cool it's like could
+
+1921
+01:38:44,650 --> 01:38:47,070
+replace that communication
+because it will
+
+1922
+01:38:47,070 --> 01:38:49,470
+give you all the
+answers and yeah it's
+
+1923
+01:38:49,470 --> 01:38:52,430
+so authoritative
+someone else yes so
+
+1924
+01:38:52,430 --> 01:38:55,630
+confident yeah yes
+so confident and will
+
+1925
+01:38:55,630 --> 01:38:58,990
+give you the answers
+you want not the the
+
+1926
+01:38:58,990 --> 01:39:01,930
+one that that you
+need to hear kind of
+
+1927
+01:39:02,570 --> 01:39:07,510
+like we could ask chat
+gpt to write a paper
+
+1928
+01:39:07,510 --> 01:39:10,410
+discussion on the
+like did you feel that
+
+1929
+01:39:10,410 --> 01:39:13,290
+tension because i did
+like oh take these
+
+1930
+01:39:13,290 --> 01:39:16,290
+bullet point notes and
+at any point any of
+
+1931
+01:39:16,290 --> 01:39:17,970
+the three of us and
+i thought of this i
+
+1932
+01:39:17,970 --> 01:39:19,950
+thought seriously
+because we're under like
+
+1933
+01:39:19,950 --> 01:39:22,870
+really high pressure
+time constraint would you
+
+1934
+01:39:22,870 --> 01:39:25,990
+turn this into a
+dialogue and between me
+
+1935
+01:39:25,990 --> 01:39:27,670
+and felix and consuelo
+and then we would
+
+1936
+01:39:27,670 --> 01:39:29,890
+look at it and like
+there was a part of me
+
+1937
+01:39:29,890 --> 01:39:33,110
+that was like i was
+almost like no like it
+
+1938
+01:39:33,110 --> 01:39:35,130
+was sort of erupting
+from my gut like we
+
+1939
+01:39:35,130 --> 01:39:38,770
+must not do that but
+like why do i why do i
+
+1940
+01:39:38,770 --> 01:39:41,770
+feel that way i think
+we have good reason
+
+1941
+01:39:41,770 --> 01:39:46,730
+but like for this
+article to be re-digested
+
+1942
+01:39:46,730 --> 01:39:50,210
+for us by ai was like
+that's why we were
+
+1943
+01:39:50,210 --> 01:39:54,830
+so upset right like
+oh my god and and that
+
+1944
+01:39:54,830 --> 01:39:57,350
+thing that that is the
+communication we we
+
+1945
+01:39:57,350 --> 01:40:01,130
+don't say we we're
+not complacent to you
+
+1946
+01:40:01,130 --> 01:40:03,870
+to say like whatever
+the other one wants to
+
+1947
+01:40:03,870 --> 01:40:06,890
+hear we're like sharing
+different perspective
+
+1948
+01:40:06,890 --> 01:40:12,430
+or view and i feel
+like ai will be like
+
+1949
+01:40:12,430 --> 01:40:15,390
+a little bit of
+******* that part of
+
+1950
+01:40:15,390 --> 01:40:19,430
+building our bridges
+like making um artificial
+
+1951
+01:40:20,010 --> 01:40:22,850
+kind of like artificial
+bridges not human
+
+1952
+01:40:22,850 --> 01:40:27,130
+vision yes and and we
+need that and i think
+
+1953
+01:40:27,130 --> 01:40:29,570
+that that's dangerous
+because i feel
+
+1954
+01:40:29,570 --> 01:40:32,140
+like we're finally
+opening we're finally
+
+1955
+01:40:32,140 --> 01:40:34,210
+talking about it i feel
+like in the last 10
+
+1956
+01:40:34,210 --> 01:40:37,230
+years we started like
+like finally i mean
+
+1957
+01:40:37,230 --> 01:40:39,170
+a little bit more but
+finally saying like
+
+1958
+01:40:39,170 --> 01:40:42,770
+hey like we are making
+like the humanities
+
+1959
+01:40:42,770 --> 01:40:46,650
+from the periphery
+kind of and i feel like
+
+1960
+01:40:46,650 --> 01:40:51,310
+that hey could be
+lost so quick when we
+
+1961
+01:40:51,310 --> 01:40:54,830
+we stop here and we
+stop like looking for
+
+1962
+01:40:55,370 --> 01:40:58,870
+asking questions to
+someone that will not
+
+1963
+01:40:58,870 --> 01:41:01,730
+necessarily give us
+what we want who is
+
+1964
+01:41:01,730 --> 01:41:03,870
+machine or something
+whose machines get to
+
+1965
+01:41:03,870 --> 01:41:08,710
+remember who we are
+yes yes and and and i
+
+1966
+01:41:08,710 --> 01:41:12,430
+feel that like they go
+tell me i don't know
+
+1967
+01:41:12,430 --> 01:41:14,130
+they could tell me
+that chile has i mean
+
+1968
+01:41:14,130 --> 01:41:16,850
+it has the best internet
+in in the continent
+
+1969
+01:41:16,850 --> 01:41:20,870
+and they call it and
+that's um conosur
+
+1970
+01:41:20,870 --> 01:41:24,070
+**** i forgot the oh
+oh my god sorry i um
+
+1971
+01:41:24,730 --> 01:41:28,990
+the the conosur the
+the little triangle
+
+1972
+01:41:28,990 --> 01:41:31,050
+behind i cannot remember
+this is happening
+
+1973
+01:41:31,050 --> 01:41:32,790
+when you're like working
+in multiple languages
+
+1974
+01:41:32,790 --> 01:41:38,710
+you're bilingual
+not bilingual um but
+
+1975
+01:41:38,710 --> 01:41:40,550
+what it meant is like
+chile have in other
+
+1976
+01:41:40,550 --> 01:41:43,070
+american countries
+chile has like the best
+
+1977
+01:41:43,070 --> 01:41:45,170
+internet but that doesn't
+mean that the best
+
+1978
+01:41:45,170 --> 01:41:46,650
+connection but that
+doesn't mean that
+
+1979
+01:41:46,650 --> 01:41:48,870
+that connection is the
+best in all of chile
+
+1980
+01:41:49,390 --> 01:41:51,970
+so the ai will tell
+me like oh yeah you
+
+1981
+01:41:51,970 --> 01:41:53,550
+know how like the
+engine they have like
+
+1982
+01:41:53,550 --> 01:41:54,890
+the most advanced
+they have the most
+
+1983
+01:41:54,890 --> 01:41:57,300
+bandwidth it's gonna
+be everything you
+
+1984
+01:41:57,300 --> 01:41:59,770
+want to you could
+have 4k images on your
+
+1985
+01:41:59,770 --> 01:42:01,250
+web page and every
+you will be able to
+
+1986
+01:42:01,250 --> 01:42:03,730
+see it everywhere but
+then you get there
+
+1987
+01:42:04,230 --> 01:42:07,950
+and you go to like
+the north or you go to
+
+1988
+01:42:07,950 --> 01:42:09,870
+the southern part and
+then you don't have
+
+1989
+01:42:09,870 --> 01:42:12,890
+like even like like 45
+minutes from the main
+
+1990
+01:42:12,890 --> 01:42:16,270
+city uh for the main
+cities like you don't
+
+1991
+01:42:16,270 --> 01:42:18,380
+have that reliable of
+internet necessarily
+
+1992
+01:42:18,380 --> 01:42:21,390
+so you will not be
+able to see it and how
+
+1993
+01:42:21,390 --> 01:42:23,670
+you know that it's
+happening if you talk
+
+1994
+01:42:23,670 --> 01:42:28,110
+with someone that is
+in there you open your
+
+1995
+01:42:28,110 --> 01:42:30,690
+eyes and you find
+someone that will keep
+
+1996
+01:42:30,690 --> 01:42:33,390
+you sincere answers
+and then you're able to
+
+1997
+01:42:33,390 --> 01:42:36,270
+make a robust project
+that will be able to
+
+1998
+01:42:36,710 --> 01:42:39,530
+cross the digital
+barriers i don't know
+
+1999
+01:42:39,530 --> 01:42:42,470
+how to call it but
+they they will be
+
+2000
+01:42:42,470 --> 01:42:44,770
+able to jump the gap
+in the digital barriers
+
+2001
+01:42:44,770 --> 01:42:46,650
+that exists in our
+title the digital
+
+2002
+01:42:46,650 --> 01:42:51,210
+divide we experience
+those divides locally
+
+2003
+01:42:51,580 --> 01:42:56,550
+and i feel like
+like that happened
+
+2004
+01:42:56,550 --> 01:42:58,810
+when you lose the
+heat you will have yes
+
+2005
+01:42:59,070 --> 01:43:00,830
+the best internet
+and then you will
+
+2006
+01:43:00,830 --> 01:43:01,810
+find that it's
+not the best
+
+2007
+01:43:01,810 --> 01:43:04,470
+internet everywhere
+it's a proportion
+
+2008
+01:43:10,750 --> 01:43:13,290
+following podcast
+is intended for
+
+2009
+01:43:13,290 --> 01:43:17,970
+mature audiences
+oh my god my
+
+2010
+01:43:17,970 --> 01:43:19,870
+cell phone just
+put that on okay
+
+2011
+01:43:21,190 --> 01:43:22,530
+well it's almost
+like a little
+
+2012
+01:43:22,530 --> 01:43:25,150
+example the podcast
+is intended for
+
+2013
+01:43:25,950 --> 01:43:27,870
+mature audiences with
+
+2014
+01:43:27,870 --> 01:43:29,310
+potentially poor internet
+
+2015
+01:43:29,880 --> 01:43:33,150
+oh my god yes i just
+have it like far away
+
+2016
+01:43:33,150 --> 01:43:35,590
+i don't know what
+what was that what do
+
+2017
+01:43:35,590 --> 01:43:36,850
+you mean about this
+that i hear like
+
+2018
+01:43:36,850 --> 01:43:40,430
+probably cd sir is
+hearing us you know that
+
+2019
+01:43:41,410 --> 01:43:47,690
+we're training siri i
+think we probably have
+
+2020
+01:43:47,690 --> 01:43:52,030
+enough material i i
+think the next stage
+
+2021
+01:43:52,030 --> 01:43:56,010
+of this where you know
+we will have a recording
+
+2022
+01:43:56,010 --> 01:44:00,030
+um but we also um i'm
+gonna upload it into
+
+2023
+01:44:00,030 --> 01:44:03,130
+kaltura the little
+example i sent was like
+
+2024
+01:44:03,130 --> 01:44:05,530
+maybe 10 minutes of
+material but like i
+
+2025
+01:44:05,530 --> 01:44:07,850
+recorded after a class
+so this this will take
+
+2026
+01:44:07,850 --> 01:44:09,650
+longer but i don't
+think it's gonna take
+
+2027
+01:44:09,650 --> 01:44:12,570
+days and stuff like it
+it works year every year
+
+2028
+01:44:12,570 --> 01:44:17,410
+but even that like
+if we look at this i
+
+2029
+01:44:17,410 --> 01:44:18,730
+don't know if you had
+a chance to look at it
+
+2030
+01:44:18,730 --> 01:44:23,010
+but like if i share my
+screen real quick and
+
+2031
+01:44:23,320 --> 01:44:26,110
+like are you seeing as
+we're probably seeing
+
+2032
+01:44:26,110 --> 01:44:28,640
+a whole bunch of things
+right now but like
+
+2033
+01:44:28,640 --> 01:44:31,790
+it's this is the zoom
+transcript in its
+
+2034
+01:44:31,790 --> 01:44:33,990
+data format i was actually
+going to give this
+
+2035
+01:44:33,990 --> 01:44:35,770
+to my students because
+we could make a little
+
+2036
+01:44:35,770 --> 01:44:38,250
+homework exercise
+out of processing it
+
+2037
+01:44:38,250 --> 01:44:40,530
+because like it's it's
+regularly patterned
+
+2038
+01:44:40,530 --> 01:44:43,430
+and stuff but we're going
+get a very long string
+
+2039
+01:44:43,430 --> 01:44:47,630
+like this and um i
+think we forgot the
+
+2040
+01:44:47,630 --> 01:44:49,790
+idea that we had but
+which was like when we
+
+2041
+01:44:49,790 --> 01:44:53,670
+start talking say consuelo
+or alisa we forgot
+
+2042
+01:44:53,670 --> 01:44:56,130
+because conversation
+is like that but like
+
+2043
+01:44:56,130 --> 01:44:58,490
+you know i can go
+through and rip out the
+
+2044
+01:44:58,490 --> 01:45:00,490
+little time stamps but
+we're gonna get like
+
+2045
+01:45:00,490 --> 01:45:03,850
+this flow of straight
+and and then we can
+
+2046
+01:45:03,850 --> 01:45:06,830
+also watch ourselves but
+i kind of am wondering
+
+2047
+01:45:06,830 --> 01:45:09,430
+okay what is the
+writing of this going to
+
+2048
+01:45:09,430 --> 01:45:14,370
+be because we have like
+this textured document
+
+2049
+01:45:14,610 --> 01:45:17,130
+very textured i'll
+just move it onto the
+
+2050
+01:45:17,130 --> 01:45:21,250
+screen now um google
+wants me to pay more
+
+2051
+01:45:21,250 --> 01:45:23,310
+money you can see that
+look at that pay money
+
+2052
+01:45:23,310 --> 01:45:24,850
+and i'm like no i
+will not pay money for
+
+2053
+01:45:24,850 --> 01:45:27,030
+you i will delete things
+before i pay money
+
+2054
+01:45:30,630 --> 01:45:33,330
+yeah that is a problem
+we get the zoom bar
+
+2055
+01:45:33,330 --> 01:45:36,130
+away but like we have
+i think this structure
+
+2056
+01:45:36,130 --> 01:45:38,490
+like let's talk about
+that for a minute
+
+2057
+01:45:38,490 --> 01:45:41,590
+because this might help
+us with like okay what
+
+2058
+01:45:41,590 --> 01:45:43,650
+we're pounding we're
+mashing a thing together
+
+2059
+01:45:43,650 --> 01:45:46,930
+like maybe it's like
+a fabric but like i
+
+2060
+01:45:46,930 --> 01:45:50,430
+came up with i wrote a
+very silly introduction
+
+2061
+01:45:50,430 --> 01:45:52,650
+that was meant to help
+cite people we need
+
+2062
+01:45:52,650 --> 01:45:54,890
+we should cite more
+people i reached for
+
+2063
+01:45:54,890 --> 01:45:58,010
+the one issue right
+but like we now have
+
+2064
+01:45:58,010 --> 01:46:00,830
+digital black atlantic
+to cite we have jeffrey
+
+2065
+01:46:00,830 --> 01:46:03,970
+rockwell's book on
+voyant we have um like
+
+2066
+01:46:03,970 --> 01:46:06,890
+like grab your favorite
+people and like you
+
+2067
+01:46:06,890 --> 01:46:09,230
+have projects like the
+digital nollywood and
+
+2068
+01:46:09,230 --> 01:46:11,570
+stuff but like we can
+patch that stuff in
+
+2069
+01:46:11,570 --> 01:46:14,310
+the way we do citations
+maybe not even up here
+
+2070
+01:46:14,310 --> 01:46:16,510
+but like should we
+leave that maybe you
+
+2071
+01:46:16,510 --> 01:46:18,730
+spoke of them in
+conversation so i think some
+
+2072
+01:46:18,730 --> 01:46:22,230
+of that should go in
+here and like you know
+
+2073
+01:46:22,230 --> 01:46:26,370
+we poke in the footnotes
+but like um we we
+
+2074
+01:46:26,370 --> 01:46:29,570
+need to can i just
+delete this but like like
+
+2075
+01:46:29,570 --> 01:46:32,310
+i almost wonder if we
+should pick this up
+
+2076
+01:46:32,310 --> 01:46:35,290
+and move it to a
+separate document once we
+
+2077
+01:46:35,290 --> 01:46:40,770
+get our like yes um like
+maybe we need a folder
+
+2078
+01:46:40,770 --> 01:46:44,310
+but then so i think
+between you and me
+
+2079
+01:46:44,480 --> 01:46:47,530
+consuelo and i i like i
+think we poked at this
+
+2080
+01:46:47,530 --> 01:46:50,090
+document a little bit
+over the week and i
+
+2081
+01:46:50,090 --> 01:46:51,750
+think felix came in
+toward the end and did
+
+2082
+01:46:51,750 --> 01:46:55,190
+it but like we need to
+keep pieces like this
+
+2083
+01:46:55,350 --> 01:46:56,310
+probably
+
+2084
+01:46:57,140 --> 01:46:58,450
+yeah I think like we
+
+2085
+01:46:58,450 --> 01:46:59,870
+could move around those
+
+2086
+01:47:02,170 --> 01:47:05,890
+yeah it's going to
+be a mess is what's
+
+2087
+01:47:05,970 --> 01:47:09,230
+going to happen I feel
+like we because it's
+
+2088
+01:47:09,230 --> 01:47:11,010
+a Friday I don't
+think they're going to
+
+2089
+01:47:11,010 --> 01:47:13,470
+be editing during
+the weekend right we
+
+2090
+01:47:13,470 --> 01:47:15,770
+can't turn this
+around overnight no we
+
+2091
+01:47:15,770 --> 01:47:17,890
+literally can't I mean
+should we write to
+
+2092
+01:47:17,890 --> 01:47:21,310
+them and say no and
+tomorrow I have I have
+
+2093
+01:47:22,850 --> 01:47:27,050
+the I'm hosting Douglas
+Day so I will be the
+
+2094
+01:47:27,050 --> 01:47:30,600
+whole morning out and
+then I have to come
+
+2095
+01:47:30,670 --> 01:47:33,090
+back and then I have
+a meeting there then
+
+2096
+01:47:33,090 --> 01:47:36,450
+so yesterday I mean
+Friday it's looking hard
+
+2097
+01:47:37,970 --> 01:47:41,570
+yeah I have my annual
+faculty evaluation
+
+2098
+01:47:41,570 --> 01:47:45,430
+that I have to write
+70% of it tonight but
+
+2099
+01:47:45,430 --> 01:47:47,410
+after this meeting I
+go to campus I meet
+
+2100
+01:47:47,410 --> 01:47:49,810
+with students and I
+have I'm meeting with
+
+2101
+01:47:49,810 --> 01:47:52,690
+students all day I'm
+gonna get home at 6 and
+
+2102
+01:47:52,690 --> 01:47:54,770
+have to do my faculty
+evaluation if I want
+
+2103
+01:47:54,770 --> 01:47:58,190
+to keep my job well
+I know it's like we
+
+2104
+01:47:58,190 --> 01:48:00,190
+have to do the annual
+and I put it off and
+
+2105
+01:48:00,190 --> 01:48:01,430
+put it off and put it
+off and it's like oh
+
+2106
+01:48:01,430 --> 01:48:04,030
+my god yeah so like we
+cannot give them back
+
+2107
+01:48:04,030 --> 01:48:08,740
+an article tomorrow
+like I think we just
+
+2108
+01:48:08,750 --> 01:48:11,010
+know we feel right I
+don't think they're
+
+2109
+01:48:11,010 --> 01:48:13,170
+gonna be doing anything
+during the weekend
+
+2110
+01:48:13,170 --> 01:48:16,830
+and we could like push
+it to monday manage
+
+2111
+01:48:16,830 --> 01:48:20,620
+push it to monday and
+i'll find a little bit
+
+2112
+01:48:20,620 --> 01:48:27,310
+of room there i i
+feel like um we have a
+
+2113
+01:48:27,310 --> 01:48:30,310
+lot and maybe i don't
+think formatting is
+
+2114
+01:48:30,310 --> 01:48:32,530
+most of what we do
+now because we what we
+
+2115
+01:48:32,530 --> 01:48:35,930
+spoke is important
+yeah yes so and like i
+
+2116
+01:48:35,930 --> 01:48:37,750
+wonder if we can put
+like sort of topic
+
+2117
+01:48:37,750 --> 01:48:40,590
+headings on things like
+we sort of have those
+
+2118
+01:48:40,590 --> 01:48:47,990
+and yeah okay so so
+so i feel like yeah um
+
+2119
+01:48:49,670 --> 01:48:52,970
+weekend's gonna be busy
+uh what if i make a
+
+2120
+01:48:52,970 --> 01:48:57,310
+google drive folder
+and then we can make
+
+2121
+01:48:57,310 --> 01:48:58,670
+multiple documents in
+here because i think
+
+2122
+01:48:58,670 --> 01:49:02,430
+we need to pick up the
+that ai pooped in our
+
+2123
+01:49:02,430 --> 01:49:04,790
+document it we're going
+to pick that up and
+
+2124
+01:49:04,790 --> 01:49:07,790
+move it aside we're
+writing right like so
+
+2125
+01:49:07,790 --> 01:49:10,170
+we will have an idea
+yeah and then like we
+
+2126
+01:49:10,170 --> 01:49:12,830
+keep the structured
+stuff and maybe should
+
+2127
+01:49:12,830 --> 01:49:16,630
+i just put the transcript
+directly in like
+
+2128
+01:49:16,630 --> 01:49:19,550
+paste it in like without
+the time stamps or
+
+2129
+01:49:19,550 --> 01:49:21,950
+something like that like
+just put it directly
+
+2130
+01:49:21,950 --> 01:49:25,760
+in and then we
+turn that into yeah
+
+2131
+01:49:25,850 --> 01:49:28,470
+something pretty i think
+you will yeah we could
+
+2132
+01:49:28,470 --> 01:49:30,170
+turn into something
+pretty we could move it
+
+2133
+01:49:30,170 --> 01:49:32,630
+around we could put
+like subtitles maybe
+
+2134
+01:49:32,630 --> 01:49:35,870
+we don't need to
+necessarily cut and we could
+
+2135
+01:49:35,870 --> 01:49:37,750
+put an introduction like
+this is a discussion
+
+2136
+01:49:37,750 --> 01:49:40,910
+we put like like we
+put subtitles like
+
+2137
+01:49:40,910 --> 01:49:43,050
+a title we could put
+a little description
+
+2138
+01:49:43,050 --> 01:49:45,570
+of like goals in there
+but we could say like
+
+2139
+01:49:45,570 --> 01:49:46,970
+if you don't want to
+read and you want to
+
+2140
+01:49:46,970 --> 01:49:48,630
+read everything you could
+like read everything
+
+2141
+01:49:48,630 --> 01:49:50,950
+as a conversation
+oh so we do a little
+
+2142
+01:49:50,950 --> 01:49:54,310
+summary yeah so kind
+of like like we could
+
+2143
+01:49:54,310 --> 01:49:56,610
+we could continue
+because there is a lot of
+
+2144
+01:49:56,610 --> 01:49:59,180
+continuity in the
+discussion that is happening
+
+2145
+01:49:59,180 --> 01:50:01,390
+we could make
+subtitles when we think
+
+2146
+01:50:01,390 --> 01:50:03,530
+like the topic is
+changing and it's evolving
+
+2147
+01:50:03,530 --> 01:50:05,850
+so we could change
+the title put out your
+
+2148
+01:50:05,850 --> 01:50:08,730
+description of what
+is coming kind of and
+
+2149
+01:50:09,110 --> 01:50:12,890
+maybe we could add and
+we could add like an
+
+2150
+01:50:12,890 --> 01:50:14,930
+introduction like a
+little place where we say
+
+2151
+01:50:14,930 --> 01:50:16,770
+like this is a
+discussion it's meant to
+
+2152
+01:50:16,770 --> 01:50:18,870
+be read like all together
+but if you want to
+
+2153
+01:50:18,870 --> 01:50:21,510
+go jump into the specific
+section if you're
+
+2154
+01:50:21,510 --> 01:50:24,150
+like interested in
+like discussion on AI,
+
+2155
+01:50:24,370 --> 01:50:27,560
+like you could
+jump into like the
+
+2156
+01:50:27,560 --> 01:50:29,570
+other. And I feel
+like that could
+
+2157
+01:50:29,570 --> 01:50:31,830
+help us with
+the transitions.
+
+2158
+01:50:32,090 --> 01:50:33,510
+We already know we're
+
+2159
+01:50:33,510 --> 01:50:34,890
+adding two new questions,
+
+2160
+01:50:35,050 --> 01:50:37,010
+right? You know,
+at least two, if
+
+2161
+01:50:37,010 --> 01:50:38,670
+not three, actually
+three, right?
+
+2162
+01:50:38,670 --> 01:50:40,110
+Three, three
+questions, yeah.
+
+2163
+01:50:40,230 --> 01:50:42,410
+Yeah, so we add those
+in and those are
+
+2164
+01:50:42,410 --> 01:50:44,730
+gonna give some new
+shape to it. I think it's
+
+2165
+01:50:44,730 --> 01:50:47,330
+gonna be a beautiful
+thing to see, yeah.
+
+2166
+01:50:47,590 --> 01:50:49,630
+So we're gonna try
+to push for this
+
+2167
+01:50:49,630 --> 01:50:51,830
+to send out on
+Monday. do we write
+
+2168
+01:50:51,830 --> 01:50:53,460
+to them or do we
+just stay quiet
+
+2169
+01:50:55,630 --> 01:50:57,830
+we can stay quiet
+
+2170
+01:51:01,390 --> 01:51:04,190
+because the key
+thing is they can't
+
+2171
+01:51:04,190 --> 01:51:08,190
+afford to miss Humanity
+Computing's chapter
+
+2172
+01:51:08,190 --> 01:51:11,290
+from the Gnosa we
+are taking hostage
+
+2173
+01:51:11,810 --> 01:51:14,790
+because they really
+want this chapter that's
+
+2174
+01:51:14,790 --> 01:51:17,810
+true I know they
+wrote us and they make
+
+2175
+01:51:17,810 --> 01:51:20,570
+the effort for it so
+we can just keep quiet
+
+2176
+01:51:20,890 --> 01:51:23,330
+so let's let's keep
+quiet but we do have a
+
+2177
+01:51:23,330 --> 01:51:25,550
+beautiful thing yeah
+that's nice i always
+
+2178
+01:51:25,550 --> 01:51:27,630
+feel bad keeping quiet
+but okay if they bite
+
+2179
+01:51:27,630 --> 01:51:31,610
+us like hey i don't
+see it uh then we can
+
+2180
+01:51:31,610 --> 01:51:34,790
+respond yes yes like i
+have a question about
+
+2181
+01:51:34,790 --> 01:51:38,240
+this too should we talk
+frankly about our own
+
+2182
+01:51:38,240 --> 01:51:40,950
+experience with ai in
+putting this chapter
+
+2183
+01:51:40,950 --> 01:51:43,190
+together do we want
+to keep because it's
+
+2184
+01:51:43,190 --> 01:51:45,950
+there in the conversation
+right do we keep it
+
+2185
+01:51:45,950 --> 01:51:50,190
+or do we want to edit
+it out we go I feel
+
+2186
+01:51:50,190 --> 01:51:53,090
+like we could keep it
+sort of yes like we could
+
+2187
+01:51:53,090 --> 01:51:55,590
+keep like that attention
+like yeah we know
+
+2188
+01:51:55,590 --> 01:51:58,170
+it's there like kind
+of like it's like we
+
+2189
+01:51:58,170 --> 01:52:00,290
+we found ourselves
+actually very upset with
+
+2190
+01:52:00,290 --> 01:52:02,150
+it at one point in
+preparing this because
+
+2191
+01:52:02,150 --> 01:52:04,130
+we thought one thing
+of it and it provided
+
+2192
+01:52:04,130 --> 01:52:07,190
+us another and it it
+was stealing our voices
+
+2193
+01:52:07,190 --> 01:52:09,650
+I think that's an
+appropriate thing to say
+
+2194
+01:52:09,650 --> 01:52:13,010
+it was stealing our
+yeah like the tone of it
+
+2195
+01:52:13,010 --> 01:52:16,530
+the questions the
+memory of it yeah so so
+
+2196
+01:52:16,530 --> 01:52:18,710
+we could talk about it
+i feel like we could
+
+2197
+01:52:18,710 --> 01:52:21,350
+we could add in like
+on our frustrations and
+
+2198
+01:52:21,350 --> 01:52:24,810
+our i don't know where
+we could even put it
+
+2199
+01:52:24,810 --> 01:52:27,170
+toward the like app when
+we do the ai section
+
+2200
+01:52:27,170 --> 01:52:29,150
+like maybe it comes
+at the end of it or
+
+2201
+01:52:29,150 --> 01:52:31,850
+it's like a little
+addendum about like our
+
+2202
+01:52:31,850 --> 01:52:34,610
+experience in designing
+this because it's a
+
+2203
+01:52:34,610 --> 01:52:37,030
+little time capsule
+of our moment in 2026
+
+2204
+01:52:37,030 --> 01:52:40,630
+and like the use of zoom
+and all of it no and
+
+2205
+01:52:40,630 --> 01:52:42,830
+also i feel like it's
+it's a great example
+
+2206
+01:52:42,830 --> 01:52:45,690
+of like we wanted to
+participate into the
+
+2207
+01:52:45,690 --> 01:52:50,290
+world of ai and like and
+we see it failing just
+
+2208
+01:52:50,290 --> 01:52:53,870
+one way it fails you
+know in the walls and
+
+2209
+01:52:53,870 --> 01:52:56,870
+see like maybe sometimes
+we need to rely
+
+2210
+01:52:56,870 --> 01:52:59,670
+on our minimal computing
+tools they're like
+
+2211
+01:52:59,670 --> 01:53:05,730
+more they're more nice
+to us yeah i think
+
+2212
+01:53:05,730 --> 01:53:08,740
+like we could do that
+i feel like uh the in
+
+2213
+01:53:08,950 --> 01:53:11,870
+general the dialogue
+it's like very relatable
+
+2214
+01:53:12,290 --> 01:53:15,470
+and i feel like we want
+to keep that up i'm
+
+2215
+01:53:15,470 --> 01:53:17,690
+i'm thinking strictly
+this is an introduction
+
+2216
+01:53:17,690 --> 01:53:20,640
+that probably students
+are gonna read yes
+
+2217
+01:53:20,640 --> 01:53:25,830
+so i'm thinking that
+um minimal computing
+
+2218
+01:53:27,930 --> 01:53:31,390
+like it's it's dry if
+you don't like speak
+
+2219
+01:53:31,390 --> 01:53:35,270
+like like if we don't
+say what what we think
+
+2220
+01:53:35,270 --> 01:53:36,910
+it's minimal computer's
+gonna be oh so
+
+2221
+01:53:36,910 --> 01:53:39,410
+you're making your own
+robots kind of like
+
+2222
+01:53:39,410 --> 01:53:41,850
+like it could go right
+there you know you're
+
+2223
+01:53:41,850 --> 01:53:43,770
+making tiny robots
+that are more efficient
+
+2224
+01:53:43,770 --> 01:53:45,290
+like no no no that's
+not what we're talking
+
+2225
+01:53:45,290 --> 01:53:49,530
+about and i feel like
+it's inviting like
+
+2226
+01:53:49,530 --> 01:53:51,480
+minimal computer is
+supposed to be inviting
+
+2227
+01:53:51,480 --> 01:53:54,170
+to to everybody to
+participate where we're
+
+2228
+01:53:54,170 --> 01:53:57,330
+to think about it so
+so i think it's it's
+
+2229
+01:53:57,330 --> 01:54:02,140
+part of this academic
+relatable discussion
+
+2230
+01:54:02,140 --> 01:54:04,370
+yeah i think my students
+should read this
+
+2231
+01:54:04,370 --> 01:54:06,250
+whatever it turns out
+to be now that you
+
+2232
+01:54:06,250 --> 01:54:08,570
+mention it yeah like
+everybody's students
+
+2233
+01:54:08,570 --> 01:54:10,430
+should read this yeah
+and i think that's
+
+2234
+01:54:10,430 --> 01:54:12,890
+probably what yeah they
+want for this book too
+
+2235
+01:54:12,890 --> 01:54:16,830
+what they want to so
+yeah so that so let's
+
+2236
+01:54:16,830 --> 01:54:19,270
+write this for our
+students and our people
+
+2237
+01:54:19,270 --> 01:54:22,550
+yeah and i feel like
+they're gonna maybe
+
+2238
+01:54:22,550 --> 01:54:24,350
+they're gonna like
+tuck them to the heart
+
+2239
+01:54:24,350 --> 01:54:27,010
+that we felt the same
+temptation and the on
+
+2240
+01:54:27,010 --> 01:54:31,390
+like ai and we have
+inspiration and why we
+
+2241
+01:54:31,730 --> 01:54:35,150
+yeah yeah what we took
+and i feel like that
+
+2242
+01:54:35,150 --> 01:54:40,590
+made us relatable also
+like yeah all right
+
+2243
+01:54:40,590 --> 01:54:45,610
+well um is that do you
+think we'll be ready
+
+2244
+01:54:45,610 --> 01:54:48,150
+i think we're ready
+yes we have this
+
+2245
+01:54:48,150 --> 01:54:51,190
+recording in the recording
+we trust should i
+
+2246
+01:54:51,190 --> 01:54:55,150
+shut the recording off
+it has to be shut off
+
+2247
+01:54:55,150 --> 01:54:56,870
+in order for us to
+get it so here we go
+
+2248
+01:54:56,870 --> 01:55:00,830
+and hit stop recording
+stop cloud reporting
