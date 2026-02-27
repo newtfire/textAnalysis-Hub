@@ -6,7 +6,7 @@
 
 
 
-<section class="flex" style="display:flex">
+<section class="flex" style="display:flex;justify-content:space-around">
 <figure class="samplePipeline" style="flex:1">
 <img src="xprocSamplePipeline-mermaid.png" alt="diagram of an XProc pipeline process" style="max-width:300px;width:90%:" />
 <figcaption style="font-style:italic">Diagram of a sample XProc pipeline process that starts wtih plain text, applies invisible XML, XSLT, and Relax NG validation, and produces multiple outputs in .xml and .svg</figcaption>
@@ -28,7 +28,7 @@
  <li><strong>Pipe</strong> that source into parsing with an invisible XML grammar file.</li>
 <li><strong>Store</strong> the output of the grammar (in memory or saved on your computer as an output stage).
 </li>
-<li><strong>Pipe</strong> that output to XSLT to make changes, add more markup by processing regular expressions with <code><xsl:analyze-string></code> .</li>
+<li><strong>Pipe</strong> that output to XSLT to make changes, add more markup by processing regular expressions with <code>&lt;xsl:analyze-string&gt;</code> .</li>
 <li><strong>Store</strong> the output of XSLT (in memory or saved on your computer as an output stage).</li>
 <li> <strong>Pipe</strong> that output to <strong>test</strong> it with a Relax NG schema validation step and let you know if it's valid to your project schema.
    <ul>
