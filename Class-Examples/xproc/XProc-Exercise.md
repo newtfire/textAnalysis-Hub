@@ -7,7 +7,7 @@ Complete this in stages. **Assemble all the files you need in a special director
 
 ## Choose your source file(s)
 
-* You may work with the [Pokemon Moves Generation 5 text file]() from [Invisible XML Exercise 1](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/invisible_xml/ixml-ex1.md) and move it through your working Invisible XML grammar. 
+* You may work with the Pokemon Moves Generation 5 text file from [Invisible XML Exercise 1](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/invisible_xml/ixml-ex1.md) and move it through your working Invisible XML grammar. 
 * You may work with the Zoom Transcript Invisible XML from [Invisible XML Exercise 2](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/invisible_xml/ixml-ex2.md). If your Invisible XML does not work, you can work with [Dr. B's or Molly Wright's working versions](https://github.com/newtfire/textAnalysis-Hub/tree/main/Class-Examples/invisible_xml/zoom-transcripts).
 * Or, you may choos a file related to your project or that interests you for which you write an invisible XML grammar that works to output some XML.
 
