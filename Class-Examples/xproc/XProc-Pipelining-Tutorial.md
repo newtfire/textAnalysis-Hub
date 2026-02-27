@@ -9,10 +9,6 @@
 <p>We usually apply XProc to script a pipeline of processes that take an input file (or collection of input files), runs it through a series of processes and produces one or more outputs at each stage. Here's an example of a fairly detailed pipeline of processes to support  that we can script with XProc and run with Calabash or Morgana.
 </p>
 
-
-
-
-
 <section class="flex" style="display:flex;justify-content:space-around">
 <figure class="samplePipeline" style="flex:1">
 <img src="xprocSamplePipeline-mermaid.png" alt="diagram of an XProc pipeline process" style="max-width:300px;width:90%:" />
@@ -74,7 +70,8 @@ The example code we provide below comes from the [Onepiece project](https://gith
 calabash yourPipeline.xpl 
 ```
 
-### Writing pipeline stages
+## Writing XProc
+Here we provide example code blocks to show distinct parts of XProc files. 
 
 ### The whole document 
 (root element)
@@ -136,7 +133,15 @@ LINK TO SCHEMATRON TUTORIAL
 
 Important to figure out your output filenames: make a variable! 
 
+## Further Readings
+Here are more resources for learning XProc:
 
+* [XProc 3.0 home page](https://xproc.org/): links to XProc specifications and tutorials
+* Martin Kraetke's [XProc 3.0 Tutorial](https://xporc.net/xproc-tutorial/)
+* David Birnbaum's "XProc Basics" tutorial. <https://dh.obdurodon.org/xproc-basics.xhtml>
+* Erik Siegel's resources:
+    * [XProc steps (3.1)](https://xprocref.org/index.html): super detailed with helpful examples!
+    * XProc 3.0 Programmer Reference (print book). <https://xmlpress.net/publications/xproc-3-0/>
 
 
 
