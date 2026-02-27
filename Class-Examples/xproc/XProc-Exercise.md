@@ -1,7 +1,7 @@
 # XProc Exercise 
 *(This assignment involves a review of several technologies you've been learning so far, to assemble your own XProc pipeline. It is therefore worth 10 points: triple homework)* 
 
-With this exercise, you will learn how to assemble the parts of an XProc pipeline, and run it to collect outputs in the form of messages and files. Work with our [XProc Pipelining Tutorial](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/xproc/XProc-Pipelining-Tutorial.md) to help you complete this assignment.
+With this exercise, you will learn how to assemble the parts of an XProc pipeline, and run it to collect outputs in the form of messages and files. Work with our [XProc Pipelining Tutorial](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/xproc/XProc-Pipelining-Tutorial.md) and our [sample XProc files from the Onepiece project](https://github.com/newtfire/textAnalysis-Hub/tree/main/Class-Examples/xproc/onepiece-project) to help you complete this assignment.
 
 Complete this in stages. **Assemble all the files you need in a special directory on your personal GitHub repo**, so you can point us to your repo when you're finished. Set the output(s) of your pipeline to store in that directory, too.
 
