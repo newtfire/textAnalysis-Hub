@@ -73,22 +73,105 @@ calabash yourPipeline.xpl
 ## Writing XProc
 Here we provide example code blocks to show distinct parts of XProc files. 
 
-### The whole document 
-(root element)
+### The whole document: `<p:declare-step>`
+The root element of an XProc file is always `<p:declare-step>`. **We recommend that you start with one of our sample starter files** and adjust the root element. When you open a new XProc file in the oXygen XML Editor, it won't include all the details that help with running Calabash in the root element we are providing. 
 
-### Taking input 
+You can provide a `@name` attribute to name your XProc file and just give it a meaningful name. 
 
-#### Single file
+```xml
+<p:declare-step name="onepiece-to-XML" xmlns:p="http://www.w3.org/ns/xproc"
+    exclude-inline-prefixes="#all" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ex="extensions"
+    xmlns:cx="http://xmlcalabash.com/ns/extensions" xmlns:c="http://www.w3.org/ns/xproc-step"
+    version="3.0">
+    
+    	<!--  the rest of the pipeline is developed here. -->
+    
+</p:declare-step>
+```
 
-#### Multiple files 
+### Taking input from external files and directories
+When you start a pipeline to run with files, you need to point XProc to the file or files you want to process.
+This works differently for taking a single external file as input vs. a directory of files. 
 
-for-each
+#### Single file input
+Here is how to set up the beginning of an XProc pipeline to accept a single text file for input, if that file is named `vol-4.txt`  is stored in a subdirectory named "source": `source/vol-4.txt`
+You set the relative filepath to that file from the XProc document;
 
+```xml
+<p:declare-step name="onepiece-to-XML" xmlns:p="http://www.w3.org/ns/xproc"
+    exclude-inline-prefixes="#all" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ex="extensions"
+    xmlns:cx="http://xmlcalabash.com/ns/extensions" xmlns:c="http://www.w3.org/ns/xproc-step"
+    version="3.0">
+    
+   <p:input port="source" primary="true" content-types="text/plain" href="source/vol-4.txt"/>
+    
+</p:declare-step>
+```
+You could also point that `@href` attribute to a web URL, which just relies on an internet connection to retrieve the file you want to process. 
+
+#### Multiple files (directory) input
+Reaching for a file dircectory is a litlte unusual in XProc and won't look like how we've done similar things in XSLT. 
+Here's how it works.
+
+Begin by declaring the collection you want to process in `<p:directory-list>`
+
+```xml
+<p:declare-step name="onepiece-to-XML" xmlns:p="http://www.w3.org/ns/xproc"
+    exclude-inline-prefixes="#all" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ex="extensions"
+    xmlns:cx="http://xmlcalabash.com/ns/extensions" xmlns:c="http://www.w3.org/ns/xproc-step"
+    version="3.0">
+
+	<p:directory-list name="sourceColl" path="source" include-filter="vol-[0-9].txt" detailed="true"/>   
+ 
+    
+</p:declare-step>
+```
+Then, introduce XProc's for-each to wrap around all the processing. **For each** file in the directory, run the steps you'll be scriptting.
+Within the `<p:for-each>` you have to reach for a specific file now stored in XProc's internal directory tree. You reach into that tree in a way that
+will make you think of reaching into a hard drive, but it's really not: it's XProc's internal parsing of the imported directory tree marked as `//c:file`
+
+Notice:
+
+* `//c:file` will stand for each specific text file in this collection. 
+* `//c:file/@name` is actually the filename! (Yes, we know that looks like an attribute, but it's a special notation distinct to XProc. 
+* We stored a portion of the `//c:file/@name` before its `.txt` file extension using an XPath function, `substring-before()`. We'll use that filename later when we store our output. 
+* The `<p:load>` element ensures we are importing every single text file in a collection for processing in the pipeline. 
+
+
+```xml
+<p:declare-step name="onepiece-to-XML" xmlns:p="http://www.w3.org/ns/xproc"
+    exclude-inline-prefixes="#all" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ex="extensions"
+    xmlns:cx="http://xmlcalabash.com/ns/extensions" xmlns:c="http://www.w3.org/ns/xproc-step"
+    version="3.0">
+
+	 <p:directory-list name="sourceColl" path="source" include-filter="vol-[0-9].txt" detailed="true"/>   
+ 	<p:for-each>
+ 		 <p:with-input select="//c:file"/>
+      		  <!-- ebb: Don't worry. The above line is NOT a literal filepath. It's just XProc-speak for each individual file in the directory. -->
+       		
+       		 <p:variable name="filename" as="xs:string" select="//c:file/@name ! substring-before(., '.txt')"/>
+       		  <p:load href="source/{//c:file/@name}"/>
+ 
+                    <!--  Processing Steps to be added -->
+ 
+	 </p:for-each>
+</p:declare-step>
+```
 
 ### Steps for a Project Pipeline
-Each of these has something of its own syntax.
+Each of these distinct kinds of XProc processing steps has its own distinct syntax. You should be able to copy and paste from our example code blocks into your XProc script in the appropriate places and adapt them to your own processing needs. 
 
-#### Processing invisible xml
+Note that after each stage of processing, you can output messages to your shell to let you know that things completed or if there were erros. Especially at first, you may want to see lots of these messages to be sure your pipeline is running as you planned!. 
+
+You may also want to store outputs of each stage of your pipelines to see if and how they are working.
+
+#### Processing an Invisible XML Grammar
+XProc was around before Invisible XML was introduced, so the ability to process an ixml step is still new enough that our oXygen XML Editor doesn't know about it.
+Don't worry about the red error that oXygen generates when you apply the `<p:invisible-xml>` step. We highly recommend setting up `"markup-blitz"` as the value for `@processor`because blitz will run blazingly fast and you can use it as you assemble lots of project input.
+
+* Notice how you set a new input port here for your ixml grammar file, and how you point to it with a relative filepath from the XProc file. 
+* After the `<p:invisible-xml>` element closes, **you should store your output** so you can check it for problems.
+* We've added an optional message to show you whether the invisible XML processed.
 
 ```xml
 <p:invisible-xml cx:processor="markup-blitz">
@@ -98,43 +181,156 @@ Each of these has something of its own syntax.
             <p:document href="ebb-ZoomTranscript.ixml" content-type="text/plain"/>
         </p:with-input>
     </p:invisible-xml>
+    <!--  You have to store your output! We've added an optional message to show you whether the invisible XML processed. -->
+     <p:store name="simple-XML" href="onepieceSimple.xml"/>
+    <p:identity message="Stored some simple XML made by invisible XML grammar."/>
 ```
+#### Native XProc Processing Options
+Martin Kraetike's [XProc 3.0 Tutorial](https://xporc.net/xproc-tutorial/) provides helpful examples of XProc's transformation steps. This section of the tutorial, [**Steps for Basic XML Manipulations**](https://xporc.net/xproc-tutorial/steps-for-basic-xml-manipulations/), seems especially useful for our projects. It shows you examples of basic changes you can make to a document by selecting its element and attribute nodes with XProc. You can "wrap" and "unwrap" elements in an XML file, you can add and delete attributes, and more. 
 
+*  `<p:insert/>`
+* `<p:delete/>`
+* `<p:rename/>`
+* `<p:replace/>`
+* `<p:wrap/>`
+* `<p:unwrap/>`
+* `<p:add-attribute/>`
+ 
 #### XSLT
+Unlike the Invisible XML grammar step, we find we don't have to specify an input source for XSLT processing, so we don't actually have to set the `<p:with-input port="...">` this time. We decided to keep the syntax for that and comment it out because you may seriously want to specify that input if it comes from a step before the latest one. Without it, you make an implicit pull on the results of the previous step. 
+
+```xml
+  <p:xslt>
+    <!-- We found we did not need to specify the <p:with-input> line below, because 
+    if we do not specify an input we make an "implicit connection" to process the result of the
+    previous step. We're just commenting it out in case you ever want to use it. You might want 
+    someday want to specify a *different* input port than the immediately preceding one. -->
+    <!--    <p:with-input port="source">
+            <p:pipe step="simple-XML" port="result"/>
+        </p:with-input>-->
+        <p:with-input port="stylesheet" href="id-transform-regex.xsl"/>
+    </p:xslt>
+
+```
 
 
 #### XQuery
+[To be developed.]
 
 
-#### Native XProc Processing Options
-SUMMARIZE AND LINK TO KRAETKE'S TUTORIAL
 
 ____
+## Schema Validation Steps
+When preparing XML for a project, you should define a schema with Relax NG and/or Schematron to make sure it is **valid** according to your project rules. Since your pipeline is likely generating XML files, you can prepare a schema for them to define valid outputs. Instead of opening up the file in oXygen, associating the schema by hand, and reviewing for red boxes and error lines, XProc lets you add schema validation steps to find out and report validation errors or whether validation is succesful. 
 
 #### Validating with Relax-NG
-LINK TO RELAX NG TUTORIAL 
+If your project is part of the TEI, you should have an ODD customization which you processed in oXygen to output as Relax NG and associated with your XML, so you can point the XProc Relax NG valiation step to your `odd.rng` location.  Otherwise you should make a Relax NG Compact Syntax schema (*.rnc). If you are new to writing Relax NG or want to review it, check out our [RelaxNG tutorial](https://newtfire.org/courses/tutorials/explainRNG.html).
+
+Here is some sample XProc for a Relax NG validation step. Notice that we output a message to tell us when things go well. 
+The XProc processor should tell us automatically when there is a validation error. 
+
+```xml
+<p:validate-with-relax-ng>
+        <p:with-input port="schema">
+            <p:document href="mySchema.rnc" content-type="application/relax-ng-compact-syntax"/>
+        </p:with-input>
+    </p:validate-with-relax-ng>
+    <p:identity message="Validated with Relax NG"/>
+```
 
 #### Validating with Schematron
-LINK TO SCHEMATRON TUTORIAL
+Schematron validation may also be part of your project wor kflow. This kind of schema tends to complement Relax NG by checking for relationships between nodes, and rules are defined by XPath relationships. To learn about or remind yourself how Schematron works, here is our [Schematron tutorial](https://newtfire.org/courses/tutorials/explainSchematron.html).
 
+Here is some sample XProc for a Schematron validation step. Again, notice that we set up an output message to let us know that this schema validated the XML. If it did not, it should output the  error messages you wrote in your Schematron. 
 
-
-
-
-### Storing in memory
+```xml
+<p:validate-with-schematron name="finalize-xml">
+        <p:with-input port="schema">
+            <p:document href="mySchematron.sch" content-type="application/schematron+xml"/>
+        </p:with-input>
+    </p:validate-with-schematron>
+    <p:identity message="Validated with Schematron"/>
+```
+____
 
 ### Outputting a message in the shell when a stage is completed
 
+We recommend setting up lots of little messages to yourself to show you when steps are running, as the display of these messages in the shell when you run your pipeline will help you to figure out where you need to debug if the pipeline stops on an error.
+
+```xml
+ <p:identity message="Added markup with ixml"/>
+```
+
 ### Outputting a file / collection of files
 
+Note how the `<p:store>` step works when steps like Invisible XML and XSLT are finished. 
+
 #### Single ouput file
+Save the result of an Invisible XML grammar parse:
+
+```xml
+<p:store name="simple-XML" href="onepieceSimple.xml"/>
+```
+
+Save the result of an XSLT identity transformation:
+
+```xml
+ <p:store href="onepieceFull.xml" serialization="map {
+        'method' : 'xml',
+        'indent' : true(),
+        'omit-xml-declaration' : false()
+        }"/>
+```
 
 #### Multiple output files
 
-Important to figure out your output filenames: make a variable! 
+If you are processing a directory of input files, you set up your XProc document like this to accept a `<p:directory-list>`:
+
+```xml
+<p:declare-step name="onepiece-to-XML" xmlns:p="http://www.w3.org/ns/xproc"
+    exclude-inline-prefixes="#all" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ex="extensions"
+    xmlns:cx="http://xmlcalabash.com/ns/extensions" xmlns:c="http://www.w3.org/ns/xproc-step"
+    version="3.0">
+
+	 <p:directory-list name="sourceColl" path="source" include-filter="vol-[0-9].txt" detailed="true"/>   
+ 	<p:for-each>
+ 		 <p:with-input select="//c:file"/>
+      		  <!-- ebb: Don't worry. The above line is NOT a literal filepath. It's just XProc-speak for each individual file in the directory. -->
+       		
+       		 <p:variable name="filename" as="xs:string" select="//c:file/@name ! substring-before(., '.txt')"/>
+       		  <p:load href="source/{//c:file/@name}"/>
+ 
+                    <!--  Processing Steps to be added -->
+ 
+	 </p:for-each>
+</p:declare-step>
+```
+
+So, at the end of a process, how will you name and output a file for each of the input files? It helps that you created a `<p:variable>` to store the individual filename of your source file, dropping its original file extension. When you output a file, you apply that variable to construct the new filename.
+
+Here is an example that is saving the output of an Invisible XML parse in an output directory named `ixml-output`:
+
+
+```xml
+<p:store name="simple-XML" href="ixml-output/{$filename}.xml"/>
+```
+
+Here is an example of an output from XSLT within an XProc that processes each file in a directory of source files. We surrounded this with the `<p:identity>` messages. 
+
+```xml
+<p:identity message="Running the Identity Trnasformation XSLT to develop the XML"/>
+        <p:store href="full-output/{$filename}.xml" serialization="map {
+            'method' : 'xml',
+            'indent' : true(),
+            'omit-xml-declaration' : false()
+            }"/>
+        <p:identity message="Saved finalized XML"/>
+```
+
+
 
 ## Further Readings
-Here are more resources for learning XProc:
+This tutorial definitely does not show everything  you can do with XProc! To learn more and look up a wider variety of steps, check out these resources for learning XProc:
 
 * [XProc 3.0 home page](https://xproc.org/): links to XProc specifications and tutorials
 * Martin Kraetke's [XProc 3.0 Tutorial](https://xporc.net/xproc-tutorial/)
