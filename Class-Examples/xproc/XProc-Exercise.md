@@ -1,5 +1,5 @@
 # XProc Exercise 
-*(10 points: triple homework or short midterm)*
+*(This assignment involves a review of several technologies you've been learning so far, to assemble your own XProc pipeline. It is therefore worth 10 points: triple homework)* 
 
 With this exercise, you will learn how to assemble the parts of an XProc pipeline, and run it to collect outputs in the form of messages and files. Work with our [XProc Pipelining Tutorial](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/xproc/XProc-Pipelining-Tutorial.md) to help you complete this assignment.
 
