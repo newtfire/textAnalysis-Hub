@@ -8,7 +8,7 @@
 
 <section class="flex" style="display:flex">
 <figure class="samplePipeline" style="flex:1">
-<img src="xprocSamplePipeline-mermaid.png" alt="diagram of an XProc pipeline process described below" />
+<img src="xprocSamplePipeline-mermaid.png" alt="diagram of an XProc pipeline process" style="max-width:300px;width:90%:" />
 <figcaption style="font-style:italic">Diagram of a sample XProc pipeline process that starts wtih plain text, applies invisible XML, XSLT, and Relax NG validation, and produces multiple outputs in .xml and .svg</figcaption>
 </figure>
 
