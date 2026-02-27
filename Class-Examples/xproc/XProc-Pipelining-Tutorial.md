@@ -64,7 +64,7 @@ We've been learning how to write pipelines by looking at examples and tinkering 
 Our example completed pipeline is from the [Onepiece project](https://github.com/sam-seb/op-sbs) from Spring 2025. You can study the pipeline files and their stored outputs on our class GitHub at <https://github.com/newtfire/textAnalysis-Hub/tree/main/Class-Examples/xproc/onepiece-project>. 
 
 ### Running a pipeline (.xpl) file
-You can explore and test by running these pipelines on your system with Calabash or Morgana. (If you want to make changes to these files, please check out your own branch or copy and move the files outside our class GitHub repo.) To run a pipeline with Calabash: 
+**Run your pipeline frequently, as you write each new stage!**  Read the output in your shell carefully watching for error messages and try to debug as you go. You can explore and test by running your pipelines on your system with Calabash or Morgana. (If you want to make changes to these files, please check out your own branch or copy and move the files outside our class GitHub repo.) To run a pipeline with Calabash: 
 
 ```shell
 calabash yourPipeline.xpl 
@@ -83,6 +83,43 @@ calabash yourPipeline.xpl
 
 for-each
 
+
+### Steps for a Project Pipeline
+Each of these has something of its own syntax.
+
+#### Processing invisible xml
+
+```xml
+<p:invisible-xml cx:processor="markup-blitz">
+        <!--ebb: As of now (version 28) oXygen will flag <p:invisible-xml> as an error. 
+            Don't worry. It's not!  -->
+        <p:with-input port="grammar">
+            <p:document href="ebb-ZoomTranscript.ixml" content-type="text/plain"/>
+        </p:with-input>
+    </p:invisible-xml>
+```
+
+#### XSLT
+
+
+#### XQuery
+
+
+#### Native XProc Processing Options
+SUMMARIZE AND LINK TO KRAETKE'S TUTORIAL
+
+____
+
+#### Validating with Relax-NG
+LINK TO RELAX NG TUTORIAL 
+
+#### Validating with Schematron
+LINK TO SCHEMATRON TUTORIAL
+
+
+
+
+
 ### Storing in memory
 
 ### Outputting a message in the shell when a stage is completed
@@ -94,21 +131,6 @@ for-each
 #### Multiple output files
 
 Important to figure out your output filenames: make a variable! 
-
-### Processing invisble xml
-
-```xml
-<p:invisible-xml cx:processor="markup-blitz">
-        <!--ebb: As of now (version 28) oXygen will flag <p:invisible-xml> as an error. 
-            Don't worry. It's not!  -->
-        <p:with-input port="grammar">
-            <p:document href="ebb-ZoomTranscript.ixml" content-type="text/plain"/>
-        </p:with-input>
-    </p:invisible-xml>
-````
-
-
-
 
 
 
