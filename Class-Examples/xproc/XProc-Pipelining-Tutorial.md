@@ -1,21 +1,27 @@
 # XProc Pipelining Tutorial
 *by Elisa Beshero-Bondar for the Penn State Behrend Digit Program*
 
-## Big picture: Pipelines for projects
-Pipelines in processing text / media are all about scripting changes in stages that you define. XProc gives us a method to do this with "XML stack" technologies for transforming text and checking outputs. 
 
- XProc pipeline files are saved with the extension **`.xpl`.**
 
-We usually apply XProc to script a pipeline of processes that take an input file (or collection of input files), runs it through a series of processes and produces one or more outputs at each stage. Here's an example of a fairly detailed pipeline of processes to support  that we can script with XProc and run with Calabash or Morgana.
+
+
 
 <section class="flex" style="display:flex">
-<figure class="samplePipeline" style="flex:2">
-<img src="xprocSamplePipeline-mermaid.svg" alt="diagram of an XProc pipeline process described below" height="100%"/>
+<figure class="samplePipeline" style="flex:1">
+<img src="xprocSamplePipeline-mermaid.png" alt="diagram of an XProc pipeline process described below" />
 <figcaption style="font-style:italic">Diagram of a sample XProc pipeline process that starts wtih plain text, applies invisible XML, XSLT, and Relax NG validation, and produces multiple outputs in .xml and .svg</figcaption>
 </figure>
 
 
 <div class="samplePipeline" style="flex:1">
+<h2>The Big Picture: Pipelines for Projects </h2>
+<p>Pipelines in processing text / media are all about scripting changes in stages that you define. XProc gives us a method to do this with "XML stack" technologies for transforming text and checking outputs. </p>
+
+<p> XProc pipeline files are saved with the extension <strong><code>.xpl</code></strong>.</p>
+
+<p>We usually apply XProc to script a pipeline of processes that take an input file (or collection of input files), runs it through a series of processes and produces one or more outputs at each stage. Here's an example of a fairly detailed pipeline of processes to support  that we can script with XProc and run with Calabash or Morgana.
+</p>
+
 <ul>
     <li><strong>Start</strong> by identifying a source text file (or collection of texts) to take as the beginning input.
  </li>
@@ -37,33 +43,34 @@ We usually apply XProc to script a pipeline of processes that take an input file
    </ul>
 </li>
 </ul>
+<p>That's an ambitious pipeline that comes after a lot of preparation! Each of those stages requires some work to prepare individually, and assembling them into a pipeline makes it easy to update your source files, make changes at some stage of the process, and quickly run Calabash or Morgana to see the results. </p>
+
+<h3>Outputs of XProc are usually...</h3>
+<ul>
+<li>...messages that you deliver to let you know if there's an error or that a stage in the pipeline finished processing,</li>
+<li>...storage of files in progress (if you wish), and/or</li>
+<li>...storage of output files to directories as end-points.</li>
+</ul>
+
+<p>Pipelines can branch and sprout, depending on what you want to script, or they can  just be a straight line!</p>
 </div>
 </section>
 
-That's an ambitious pipeline that comes after a lot of preparation! Each of those stages requires some work to prepare individually, and assembling them into a pipeline makes it easy to update your source files, make changes at some stage of the process, and quickly run Calabash or Morgana to see the results. 
 
-### Outputs of XProc are usually:
-
-* Messages that you deliver to let you know if there's an error or that a stage in the pipeline finished processing,
-* Storage of files in progress (if you wish), and/or
-* Storage of output files at the end of the pipeline. 
-
-Pipelines can branch and sprout, depending on what you want to script, or they can  just be a straight line!
-
-### Learning how to script a pipeline
+## Learning how to script a pipeline
 
 We've been learning how to write pipelines by looking at examples and tinkering with the XProc syntax to apply them to our own scripts. So that is what we're going to do with this exercise. We'll eventually ask you to construct a pipeline as part of your project, so it will help to study how a pipeline is written, and then try to make a simple pipeline of your own based on our work in the Digit 210 class so far. 
 
 Our example completed pipeline is from the [Onepiece project](https://github.com/sam-seb/op-sbs) from Spring 2025. You can study the pipeline files and their stored outputs on our class GitHub at <https://github.com/newtfire/textAnalysis-Hub/tree/main/Class-Examples/xproc/onepiece-project>. 
 
-#### Running a pipeline (.xpl) file
+### Running a pipeline (.xpl) file
 You can explore and test by running these pipelines on your system with Calabash or Morgana. (If you want to make changes to these files, please check out your own branch or copy and move the files outside our class GitHub repo.) To run a pipeline with Calabash: 
 
 ```shell
 calabash yourPipeline.xpl 
 ```
 
-## Writing pipeline stages
+### Writing pipeline stages
 
 ### The whole document 
 (root element)
@@ -98,7 +105,6 @@ Important to figure out your output filenames: make a variable!
             <p:document href="ebb-ZoomTranscript.ixml" content-type="text/plain"/>
         </p:with-input>
     </p:invisible-xml>
-
 ````
 
 
