@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flowerHead>
+    <petals>
+        <defs>
+            <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+                <stop offset="0%" stop-color="pink" />
+                <stop offset="100%" stop-color="purple" />
+            </radialGradient>
+        </defs>
+        <petal 
+            rx="60"
+            ry="30" 
+            cx="105" 
+            cy="120" 
+            color="url(#grad1)" 
+            transform="rotate(8)"
+        />
+        <petal 
+            rx="60" 
+            ry="30" 
+            cx="195" 
+            cy="160" 
+            color="url(#grad1)" 
+            transform="rotate(-8)"
+        />
+        <petal 
+            rx="60" 
+            ry="30" 
+            cx="90" 
+            cy="-150" 
+            color="url(#grad1)" 
+            transform="rotate(90)"
+        />
+        <petal 
+            rx="60" 
+            ry="30" 
+            cx="120" 
+            cy="-200" 
+            color="url(#grad1)" 
+            transform="rotate(120)"
+        />
+        <petal 
+            rx="60" 
+            ry="30" 
+            cx="260" 
+            cy="-80" 
+            color="url(#grad1)" 
+            transform="rotate(65)"
+        />
+    </petals> 
+    <defs>
+        <radialGradient id="grad2" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="yellow" />
+            <stop offset="100%" stop-color="orange" />
+        </radialGradient>
+    </defs>
+    <middle 
+        radius="40" 
+        color="url(#grad2)"
+    />
+    <stem 
+        x1="150"
+        y1="150"
+        x2="150"
+        y2="500"
+        style="stroke:green; stroke-width:5"
+        />
+    <pattern id="stripe" width="10" height="10" patternUnits="userSpaceOnUse">
+        <rect width="10" height="10" fill="yellow" />
+        <line x1="0" y1="0" x2="0" y2="10" style="stroke:black; stroke-width:8" />
+    </pattern>
+    <bee 
+        rx="30"
+        ry="20" 
+        cx="250" 
+        cy="80" 
+        color="url(#stripe)"
+    />   
+    <wings>
+        <filter id="f1" x="0" y="0" xmlns="http://www.w3.org/2000/svg">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="1" />
+        </filter>
+        <wing 
+            rx="20"
+            ry="10" 
+            cx="240" 
+            cy="-30"
+            color="lightgray"
+            transform="rotate(20)"
+            filter="url(#f1)"
+        />        
+        <wing 
+            rx="20"
+            ry="10" 
+            cx="230" 
+            cy="140"
+            color="lightgray"
+            transform="rotate(-20)"
+            filter="url(#f1)"
+        />
+    </wings>
+</flowerHead>

@@ -33,6 +33,31 @@
     <xsl:template match="/">
        <svg>
            <g>
+               <xsl:for-each select="$pokemonCategories">
+                   
+                   <xsl:variable name="cat" select="current()"/>
+                   <xsl:variable name="catCount"
+                       select="$xml-tree//move[category = $cat] => count()"/>
+                   <xsl:variable name="pos" select="position()"/>
+                   
+                   <!-- rectangle for each category -->
+                   <rect
+                       x="0"
+                       y="{($pos - 1) * 40}"
+                       width="{$catCount * 10}"
+                       height="30"
+                       fill="hotpink"/>
+                   
+                   <!-- label -->
+                   <text
+                       x="{($catCount * 10) + 10}"
+                       y="{($pos - 1) * 40 + 20}"
+                       font-size="12">
+                       <xsl:value-of select="$cat"/>
+                       (<xsl:value-of select="$catCount"/>)
+                   </text>
+                   
+               </xsl:for-each>
                <!-- Figure out a transform="translate()" that makes sense based on the size of your plot... -->
         <xsl:comment>
             Call some variables in here to see what they are.

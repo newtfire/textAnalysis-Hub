@@ -1,0 +1,9 @@
+<header>
+   <Label>Name</Label>
+   <Label>Type</Label>
+   <Label>Cat.</Label>
+   <Label>Power</Label>
+   <Label>Acc.</Label>
+   <Label>PP</Label>
+   <Label>Effect</Label>
+</header>

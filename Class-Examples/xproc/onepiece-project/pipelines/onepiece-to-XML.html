@@ -1,0 +1,417 @@
+<!DOCTYPE HTML>
+<html class="graph">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>onepiece-to-XML pipeline</title><script src="data:application/javascript;base64,Y29uc3Qgc2NhbGVTcGFuID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiYm9keSBwIHNwYW4uX19zY2FsZSIpCmlmIChzY2FsZVNwYW4pIHsKICBzY2FsZVNwYW4uaW5uZXJIVE1MID0gIjxzcGFuPjwvc3Bhbj4gPGJ1dHRvbiBjbGFzcz0nX19taW51cyc+LTwvYnV0dG9uPiAvIDxidXR0b24gY2xhc3M9J19fcGx1cyc+KzwvYnV0dG9uPiIKICBjb25zdCBzcGFucyA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoImJvZHkgcCBzcGFuLl9fc2NhbGUgKiIpCiAgY29uc3QgcGVyY2VudCA9IHNwYW5zWzBdOwogIGNvbnN0IG1pbnVzID0gc3BhbnNbMV07CiAgY29uc3QgcGx1cyA9IHNwYW5zWzJdOwoKICBjb25zdCBzdmdEaXYgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCJkaXYuc3ZnIik7CiAgY29uc3Qgc3ZnID0gc3ZnRGl2LnF1ZXJ5U2VsZWN0b3IoInN2ZyA+IGciKTsKICBjb25zdCBwb2x5Z29uID0gc3ZnLnF1ZXJ5U2VsZWN0b3IoInBvbHlnb24iKTsKCiAgbGV0IGJlZm9yZSA9IG51bGw7CiAgbGV0IGFmdGVyID0gbnVsbDsKICBsZXQgc2NhbGUgPSAxLjA7CgogIGZ1bmN0aW9uIHJlc2l6ZShmYWN0b3IpIHsKICAgIGlmIChhdHRyKSB7CiAgICAgIHNjYWxlID0gTWF0aC5yb3VuZChwYXJzZUZsb2F0KHNjYWxlICogZmFjdG9yICogMTAwMC4wKSkgLyAxMDAwLjA7CiAgICAgIHN2Zy5zZXRBdHRyaWJ1dGUoInRyYW5zZm9ybSIsIGAke2JlZm9yZX0ke3NjYWxlfSAke3NjYWxlfSR7YWZ0ZXJ9YCk7CiAgICAgIHBlcmNlbnQuaW5uZXJIVE1MID0gYCR7TWF0aC5yb3VuZChzY2FsZSAqIDEwMC4wKX0lYDsKICAgIH0KICB9CgogIGNvbnN0IGF0dHIgPSBzdmcgPyBzdmcuZ2V0QXR0cmlidXRlKCJ0cmFuc2Zvcm0iKSA6IG51bGw7CiAgaWYgKCFhdHRyKSB7CiAgICAgIGNvbnNvbGUubG9nKCJObyB0cmFuc2Zvcm0gYXR0cmlidXRlIG9uIHN2Zy9nIik7CiAgfSBlbHNlIHsKICAgIC8vIElmIHRoZSBiYWNrZ3JvdW5kIGNvbG9yIG9uIHRoZSBkaWdyYXBoIGhhcyBiZWVuIGNoYW5nZWQsCiAgICAvLyBhdHRlbXB0IHRvIG1hdGNoIHRoZSBjb2xvciBpbiB0aGUgZGl2LgogICAgbGV0IGJnY29sb3IgPSBwb2x5Z29uICYmIHBvbHlnb24uZ2V0QXR0cmlidXRlKCJmaWxsIik7CiAgICBpZiAoc3ZnRGl2ICYmIGJnY29sb3IpIHsKICAgICAgc3ZnRGl2LnN0eWxlWyJiYWNrZ3JvdW5kLWNvbG9yIl0gPSBiZ2NvbG9yOwogICAgfQoKICAgIGxldCBwb3MgPSBhdHRyLmluZGV4T2YoInNjYWxlKCIpOwogICAgaWYgKHBvcyA8IC0xKSB7CiAgICAgIGNvbnNvbGUubG9nKCJObyBzY2FsZSgpIGluIHRyYW5zZm9ybSBhdHRyaWJ1dGUgb24gc3ZnL2ciKTsKICAgICAgYXR0ciA9IG51bGwKICAgIH0gZWxzZSB7CiAgICAgIGJlZm9yZSA9IGF0dHIuc3Vic3RyaW5nKDAsIHBvcys2KTsKICAgICAgYWZ0ZXIgPSBhdHRyLnN1YnN0cmluZyhwb3MrNik7CiAgICAgIHBvcyA9IGFmdGVyLmluZGV4T2YoIikiKTsKICAgICAgYWZ0ZXIgPSBhZnRlci5zdWJzdHJpbmcocG9zKQogICAgfQogICAgcmVzaXplKDEpOwogIH0KCiAgbWludXMuYWRkRXZlbnRMaXN0ZW5lcigiY2xpY2siLCBldmVudCA9PiB7CiAgICByZXNpemUoMC44KTsKICB9KTsKCiAgcGx1cy5hZGRFdmVudExpc3RlbmVyKCJjbGljayIsIGV2ZW50ID0+IHsKICAgIHJlc2l6ZSgxLjI1KTsKICB9KTsKfQo=" defer></script><style type="text/css">
+:root {
+  background-color: #ffffff;
+  font-size: 16pt;
+  --symbol-fonts: "Arial Unicode", "Apple Symbols", "Symbol", "Symbola_hint";
+  --body-family: serif, var(--symbol-fonts);
+  --title-family: sans-serif, var(--symbol-fonts);
+  --mono-family: monospace, var(--symbol-fonts);
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  font-family: var(--body-family);
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 4rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0;
+  padding-top: 0.5rem;
+}
+
+html.graph, body.graph {
+  background-color: #f0f0f0;
+}
+
+header {
+  max-width: 50rem;
+}
+h1 {
+  font-family: var(--title-family);
+}
+code {
+  font-size: 90%;
+}
+table {
+  layout: fixed;
+  width: 100%;
+  font-size: 16pt;
+  border: 1px solid #7f7f7f;
+  border-spacing: 0px;
+  border-collapse: collapse;
+}
+table thead tr {
+  background-color: #cfcfcf;
+  font-family: var(--title-family);
+}
+table thead tr th {
+  border-bottom: 1px solid #7f7f7f;
+}
+table thead th {
+  text-align: left;
+}
+th, td {
+  padding: 0.25em;
+  border-right: 1px solid #7f7f7f;
+}
+table tbody tr:nth-child(even) td {
+  background-color: #f0f0f0;
+}
+
+.svg {
+  border: 1px solid black;
+  overflow: scroll;
+  flex-grow: 1;
+  margin-bottom: 1rem;
+  background-color: white;
+}
+
+.svg img {
+}
+
+body p span button {
+ cursor: pointer;
+}
+
+body p span.__scale {
+  float: right;
+}
+
+.__logo {
+  padding-right: 0.5em;
+  vertical-align: baseline;
+  display: inline;
+}
+  </style>
+   </head>
+   <body>
+      <p><img class="__logo" src="data:image/gif;base64,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"><span class="__scale">&nbsp;</span>
+         Visualization: <code><a href="../index.html">pipelines</a>/onepiece-to-XML</code></p>
+      <div class="svg"><img><!-- Generated by graphviz version 2.40.1 (20161225.0304)
+ --><!-- Title: pipeline Pages: 1 --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360pt" height="1641pt" viewBox="0.00 0.00 360.00 1641.29" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" version="1.1" contentScriptType="text/ecmascript" contentStyleType="text/css">
+               <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1637.2939)">
+                  <title>pipeline</title>
+                  <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-1637.2939 356,-1637.2939 356,4 -4,4"/>
+                  <g id="cluster_d196e3" class="cluster">
+                     <title>cluster_d196e3</title>
+                  </g>
+                  <g id="cluster_d196e2" class="cluster">
+                     <title>cluster_d196e2</title>
+                     <path fill="none" stroke="#56b4e9" stroke-width="2" d="M20,-8C20,-8 332,-8 332,-8 338,-8 344,-14 344,-20 344,-20 344,-1527.6 344,-1527.6 344,-1533.6 338,-1539.6 332,-1539.6 332,-1539.6 20,-1539.6 20,-1539.6 14,-1539.6 8,-1533.6 8,-1527.6 8,-1527.6 8,-20 8,-20 8,-14 14,-8 20,-8"/>
+                     <text text-anchor="middle" x="176" y="-1524.4" font-family="sans-serif" font-size="14.00" fill="#000000">p:declare-step “onepiece-to-XML”</text>
+                  </g>
+                  <g id="cluster_d196e13" class="cluster">
+                     <title>cluster_d196e13</title>
+                  </g>
+                  <g id="cluster_d196e6" class="cluster">
+                     <title>cluster_d196e6</title>
+                  </g>
+                  <g id="cluster_d196e23" class="cluster">
+                     <title>cluster_d196e23</title>
+                  </g>
+                  <g id="cluster_d196e34" class="cluster">
+                     <title>cluster_d196e34</title>
+                  </g>
+                  <g id="cluster_d196e46" class="cluster">
+                     <title>cluster_d196e46</title>
+                  </g>
+                  <g id="cluster_d196e56" class="cluster">
+                     <title>cluster_d196e56</title>
+                  </g>
+                  <g id="cluster_d196e70" class="cluster">
+                     <title>cluster_d196e70</title>
+                  </g>
+                  <g id="cluster_d196e80" class="cluster">
+                     <title>cluster_d196e80</title>
+                  </g>
+                  <g id="cluster_d196e91" class="cluster">
+                     <title>cluster_d196e91</title>
+                  </g>
+                  <g id="cluster_d196e105" class="cluster">
+                     <title>cluster_d196e105</title>
+                  </g>
+                  <g id="cluster_d196e116" class="cluster">
+                     <title>cluster_d196e116</title>
+                  </g>
+                  <g id="cluster_d196e128" class="cluster">
+                     <title>cluster_d196e128</title>
+                  </g>
+                  <!-- cluster_d196e3 -->
+                  <g id="node1" class="node">
+                     <title>cluster_d196e3</title>
+                     <polygon fill="none" stroke="#000000" points="231.3641,-1584.1613 283,-1566.7522 334.6359,-1584.1613 334.5877,-1612.3299 231.4123,-1612.3299 231.3641,-1584.1613"/>
+                     <polygon fill="none" stroke="#000000" points="262,-1580.9469 262,-1601.9469 305,-1601.9469 305,-1580.9469 262,-1580.9469"/>
+                     <text text-anchor="start" x="265" y="-1587.7469" font-family="Times,serif" font-size="14.00" fill="#000000">source</text>
+                  </g>
+                  <!-- cluster_d196e6 -->
+                  <g id="node2" class="node">
+                     <title>cluster_d196e6</title>
+                     <polygon fill="none" stroke="#000000" points="262,-1475.6 262,-1496.6 305,-1496.6 305,-1475.6 262,-1475.6"/>
+                     <text text-anchor="start" x="265" y="-1482.4" font-family="Times,serif" font-size="14.00" fill="#000000">source</text>
+                     <polygon fill="none" stroke="#000000" points="262,-1454.6 262,-1475.6 305,-1475.6 305,-1454.6 262,-1454.6"/>
+                     <text text-anchor="start" x="265" y="-1461.4" font-family="Times,serif" font-size="14.00" fill="#000000">source</text>
+                  </g>
+                  <!-- cluster_d196e3&#45;&gt;cluster_d196e6 -->
+                  <g id="edge16" class="edge">
+                     <title>cluster_d196e3:input_4-&gt;cluster_d196e6:_4</title>
+                     <path fill="none" stroke="#000000" d="M284,-1580.7551C284,-1565.3459 284,-1534.9275 284,-1506.8191"/>
+                     <polygon fill="#000000" stroke="#000000" points="287.5001,-1506.6 284,-1496.6 280.5001,-1506.6 287.5001,-1506.6"/>
+                  </g>
+                  <!-- cluster_d196e13 -->
+                  <g id="node3" class="node">
+                     <title>cluster_d196e13</title>
+                     <polygon fill="none" stroke="#000000" points="254,-1350.1 254,-1371.1 314,-1371.1 314,-1350.1 254,-1350.1"/>
+                     <text text-anchor="start" x="265.5" y="-1356.9" font-family="Times,serif" font-size="14.00" fill="#000000">source</text>
+                     <polygon fill="#edc571" stroke="transparent" points="254,-1329.1 254,-1350.1 314,-1350.1 314,-1329.1 254,-1329.1"/>
+                     <polygon fill="none" stroke="#000000" points="254,-1329.1 254,-1350.1 314,-1350.1 314,-1329.1 254,-1329.1"/>
+                     <text text-anchor="start" x="257" y="-1335.9" font-family="Times,serif" font-size="14.00" fill="#000000">p:identity</text>
+                     <polygon fill="none" stroke="#000000" points="254,-1308.1 254,-1329.1 314,-1329.1 314,-1308.1 254,-1308.1"/>
+                     <text text-anchor="start" x="268" y="-1314.9" font-family="Times,serif" font-size="14.00" fill="#000000">result</text>
+                  </g>
+                  <!-- cluster_d196e6&#45;&gt;cluster_d196e13 -->
+                  <g id="edge1" class="edge">
+                     <title>cluster_d196e6:_5-&gt;cluster_d196e13:_7</title>
+                     <path fill="none" stroke="#000000" d="M284,-1454.6C284,-1421.113 284,-1410.2886 284,-1381.2279"/>
+                     <polygon fill="#000000" stroke="#000000" points="287.5001,-1381.1 284,-1371.1 280.5001,-1381.1 287.5001,-1381.1"/>
+                  </g>
+                  <!-- cluster_d196e34 -->
+                  <g id="node5" class="node">
+                     <title>cluster_d196e34</title>
+                     <polygon fill="none" stroke="#000000" points="202,-1190.1 202,-1211.1 259,-1211.1 259,-1190.1 202,-1190.1"/>
+                     <text text-anchor="start" x="205" y="-1196.9" font-family="Times,serif" font-size="14.00" fill="#000000">grammar</text>
+                     <polygon fill="none" stroke="#000000" points="259,-1190.1 259,-1211.1 302,-1211.1 302,-1190.1 259,-1190.1"/>
+                     <text text-anchor="start" x="262" y="-1196.9" font-family="Times,serif" font-size="14.00" fill="#000000">source</text>
+                     <polygon fill="#edc571" stroke="transparent" points="202,-1169.1 202,-1190.1 302,-1190.1 302,-1169.1 202,-1169.1"/>
+                     <polygon fill="none" stroke="#000000" points="202,-1169.1 202,-1190.1 302,-1190.1 302,-1169.1 202,-1169.1"/>
+                     <text text-anchor="start" x="209" y="-1175.9" font-family="Times,serif" font-size="14.00" fill="#000000">p:invisible-xml</text>
+                     <polygon fill="none" stroke="#000000" points="202,-1148.1 202,-1169.1 302,-1169.1 302,-1148.1 202,-1148.1"/>
+                     <text text-anchor="start" x="236" y="-1154.9" font-family="Times,serif" font-size="14.00" fill="#000000">result</text>
+                  </g>
+                  <!-- cluster_d196e13&#45;&gt;cluster_d196e34 -->
+                  <g id="edge3" class="edge">
+                     <title>cluster_d196e13:_9-&gt;cluster_d196e34:_14</title>
+                     <path fill="none" stroke="#000000" d="M284,-1308.1C284,-1268.6749 281.4935,-1256.3163 281.0627,-1221.5433"/>
+                     <polygon fill="#000000" stroke="#000000" points="284.56,-1221.0788 281,-1211.1 277.5602,-1221.1209 284.56,-1221.0788"/>
+                     <text text-anchor="middle" x="285" y="-1256.4" font-family="Times,serif" font-size="14.00" fill="#000000">⋮</text>
+                  </g>
+                  <!-- cluster_d196e23 -->
+                  <g id="node4" class="node">
+                     <title>cluster_d196e23</title>
+                     <polygon fill="none" stroke="#000000" points="42,-1350.1 42,-1371.1 214,-1371.1 214,-1350.1 42,-1350.1"/>
+                     <text text-anchor="start" x="91.5" y="-1356.9" font-family="Times,serif" font-size="14.00" fill="#000000">cx:document</text>
+                     <polygon fill="none" stroke="#000000" points="42,-1329.1 42,-1350.1 214,-1350.1 214,-1329.1 42,-1329.1"/>
+                     <text text-anchor="start" x="45" y="-1335.9" font-family="Times,serif" font-size="14.00" fill="#000000">href="onepieceSimpler.ixml"</text>
+                     <polygon fill="none" stroke="#000000" points="42,-1308.1 42,-1329.1 214,-1329.1 214,-1308.1 42,-1308.1"/>
+                     <text text-anchor="start" x="112" y="-1314.9" font-family="Times,serif" font-size="14.00" fill="#000000">result</text>
+                  </g>
+                  <!-- cluster_d196e23&#45;&gt;cluster_d196e34 -->
+                  <g id="edge2" class="edge">
+                     <title>cluster_d196e23:_11-&gt;cluster_d196e34:_13</title>
+                     <path fill="none" stroke="#000000" d="M214,-1318.1C261.7806,-1318.1 168.5117,-1220.3453 192.0494,-1203.5437"/>
+                     <polygon fill="#000000" stroke="#000000" points="193.1233,-1206.8841 202,-1201.1 191.4538,-1200.0861 193.1233,-1206.8841"/>
+                  </g>
+                  <!-- cluster_d196e46 -->
+                  <g id="node6" class="node">
+                     <title>cluster_d196e46</title>
+                     <polygon fill="none" stroke="#000000" points="222,-1044.1 222,-1065.1 282,-1065.1 282,-1044.1 222,-1044.1"/>
+                     <text text-anchor="start" x="233.5" y="-1050.9" font-family="Times,serif" font-size="14.00" fill="#000000">source</text>
+                     <polygon fill="#edc571" stroke="transparent" points="222,-1023.1 222,-1044.1 282,-1044.1 282,-1023.1 222,-1023.1"/>
+                     <polygon fill="none" stroke="#000000" points="222,-1023.1 222,-1044.1 282,-1044.1 282,-1023.1 222,-1023.1"/>
+                     <text text-anchor="start" x="225" y="-1029.9" font-family="Times,serif" font-size="14.00" fill="#000000">p:identity</text>
+                     <polygon fill="none" stroke="#000000" points="222,-1002.1 222,-1023.1 282,-1023.1 282,-1002.1 222,-1002.1"/>
+                     <text text-anchor="start" x="236" y="-1008.9" font-family="Times,serif" font-size="14.00" fill="#000000">result</text>
+                  </g>
+                  <!-- cluster_d196e34&#45;&gt;cluster_d196e46 -->
+                  <g id="edge4" class="edge">
+                     <title>cluster_d196e34:_17-&gt;cluster_d196e46:_19</title>
+                     <path fill="none" stroke="#000000" d="M252,-1148.1C252,-1114.8135 252,-1104.054 252,-1075.1673"/>
+                     <polygon fill="#000000" stroke="#000000" points="255.5001,-1075.1 252,-1065.1 248.5001,-1075.1 255.5001,-1075.1"/>
+                  </g>
+                  <!-- cluster_d196e56 -->
+                  <g id="node7" class="node">
+                     <title>cluster_d196e56</title>
+                     <polygon fill="none" stroke="#000000" points="183,-884.1 183,-905.1 320,-905.1 320,-884.1 183,-884.1"/>
+                     <text text-anchor="start" x="233" y="-890.9" font-family="Times,serif" font-size="14.00" fill="#000000">source</text>
+                     <polygon fill="#edc571" stroke="transparent" points="183,-863.1 183,-884.1 228,-884.1 228,-863.1 183,-863.1"/>
+                     <polygon fill="none" stroke="#000000" points="183,-863.1 183,-884.1 228,-884.1 228,-863.1 183,-863.1"/>
+                     <text text-anchor="start" x="186" y="-869.9" font-family="Times,serif" font-size="14.00" fill="#000000">p:store</text>
+                     <polygon fill="none" stroke="#000000" points="228,-863.1 228,-884.1 320,-884.1 320,-863.1 228,-863.1"/>
+                     <text text-anchor="start" x="231" y="-869.9" font-family="Times,serif" font-size="14.00" fill="#000000">“simple-XML”</text>
+                     <polygon fill="none" stroke="#000000" points="183,-842.1 183,-863.1 228,-863.1 228,-842.1 183,-842.1"/>
+                     <text text-anchor="start" x="189.5" y="-848.9" font-family="Times,serif" font-size="14.00" fill="#000000">result</text>
+                     <polygon fill="none" stroke="#000000" points="228,-842.1 228,-863.1 320,-863.1 320,-842.1 228,-842.1"/>
+                     <text text-anchor="start" x="248" y="-848.9" font-family="Times,serif" font-size="14.00" fill="#000000">result-uri</text>
+                  </g>
+                  <!-- cluster_d196e46&#45;&gt;cluster_d196e56 -->
+                  <g id="edge5" class="edge">
+                     <title>cluster_d196e46:_21-&gt;cluster_d196e56:_23</title>
+                     <path fill="none" stroke="#000000" d="M252,-1002.1C252,-962.6938 252,-950.3023 252,-915.5393"/>
+                     <polygon fill="#000000" stroke="#000000" points="255.5001,-915.1 252,-905.1 248.5001,-915.1 255.5001,-915.1"/>
+                     <text text-anchor="middle" x="255" y="-950.4" font-family="Times,serif" font-size="14.00" fill="#000000">⋮</text>
+                  </g>
+                  <!-- cluster_d196e70 -->
+                  <g id="node8" class="node">
+                     <title>cluster_d196e70</title>
+                     <polygon fill="none" stroke="#000000" points="246,-738.1 246,-759.1 306,-759.1 306,-738.1 246,-738.1"/>
+                     <text text-anchor="start" x="257.5" y="-744.9" font-family="Times,serif" font-size="14.00" fill="#000000">source</text>
+                     <polygon fill="#edc571" stroke="transparent" points="246,-717.1 246,-738.1 306,-738.1 306,-717.1 246,-717.1"/>
+                     <polygon fill="none" stroke="#000000" points="246,-717.1 246,-738.1 306,-738.1 306,-717.1 246,-717.1"/>
+                     <text text-anchor="start" x="249" y="-723.9" font-family="Times,serif" font-size="14.00" fill="#000000">p:identity</text>
+                     <polygon fill="none" stroke="#000000" points="246,-696.1 246,-717.1 306,-717.1 306,-696.1 246,-696.1"/>
+                     <text text-anchor="start" x="260" y="-702.9" font-family="Times,serif" font-size="14.00" fill="#000000">result</text>
+                  </g>
+                  <!-- cluster_d196e56&#45;&gt;cluster_d196e70 -->
+                  <g id="edge6" class="edge">
+                     <title>cluster_d196e56:_26-&gt;cluster_d196e70:_29</title>
+                     <path fill="none" stroke="#000000" d="M205,-842.1C205,-832.7921 225.1811,-775.6494 238.5992,-755.8478"/>
+                     <polygon fill="#000000" stroke="#000000" points="240.9685,-758.4239 246,-749.1 236.2522,-753.2512 240.9685,-758.4239"/>
+                  </g>
+                  <!-- _62 -->
+                  <g id="node14" class="node">
+                     <title>_62</title>
+                     <ellipse fill="#000000" stroke="#000000" cx="334" cy="-728.1" rx="1.8" ry="1.8"/>
+                  </g>
+                  <!-- cluster_d196e56&#45;&gt;_62 -->
+                  <g id="edge12" class="edge">
+                     <title>cluster_d196e56:_27-&gt;_62</title>
+                     <path fill="none" stroke="#000000" d="M274,-842.1C274,-803.1654 310.527,-807.328 326,-771.6 330.3466,-761.5634 332.333,-749.2289 333.2399,-740.2606"/>
+                     <polygon fill="#000000" stroke="#000000" points="336.738,-740.4097 333.9456,-730.1895 329.7551,-739.9204 336.738,-740.4097"/>
+                  </g>
+                  <!-- cluster_d196e91 -->
+                  <g id="node10" class="node">
+                     <title>cluster_d196e91</title>
+                     <polygon fill="none" stroke="#000000" points="147,-592.1 147,-613.1 209,-613.1 209,-592.1 147,-592.1"/>
+                     <text text-anchor="start" x="150" y="-598.9" font-family="Times,serif" font-size="14.00" fill="#000000">stylesheet</text>
+                     <polygon fill="none" stroke="#000000" points="209,-592.1 209,-613.1 272,-613.1 272,-592.1 209,-592.1"/>
+                     <text text-anchor="start" x="222" y="-598.9" font-family="Times,serif" font-size="14.00" fill="#000000">source</text>
+                     <polygon fill="#edc571" stroke="transparent" points="147,-571.1 147,-592.1 272,-592.1 272,-571.1 147,-571.1"/>
+                     <polygon fill="none" stroke="#000000" points="147,-571.1 147,-592.1 272,-592.1 272,-571.1 147,-571.1"/>
+                     <text text-anchor="start" x="193.5" y="-577.9" font-family="Times,serif" font-size="14.00" fill="#000000">p:xslt</text>
+                     <polygon fill="none" stroke="#000000" points="147,-550.1 147,-571.1 209,-571.1 209,-550.1 147,-550.1"/>
+                     <text text-anchor="start" x="162" y="-556.9" font-family="Times,serif" font-size="14.00" fill="#000000">result</text>
+                     <polygon fill="none" stroke="#000000" points="209,-550.1 209,-571.1 272,-571.1 272,-550.1 209,-550.1"/>
+                     <text text-anchor="start" x="212" y="-556.9" font-family="Times,serif" font-size="14.00" fill="#000000">secondary</text>
+                  </g>
+                  <!-- cluster_d196e70&#45;&gt;cluster_d196e91 -->
+                  <g id="edge8" class="edge">
+                     <title>cluster_d196e70:_31-&gt;cluster_d196e91:_36</title>
+                     <path fill="none" stroke="#000000" d="M276,-696.1C276,-659.8187 247.2549,-654.0102 241.8652,-623.4425"/>
+                     <polygon fill="#000000" stroke="#000000" points="245.3215,-622.7734 241,-613.1 238.3459,-623.357 245.3215,-622.7734"/>
+                  </g>
+                  <!-- cluster_d196e80 -->
+                  <g id="node9" class="node">
+                     <title>cluster_d196e80</title>
+                     <polygon fill="none" stroke="#000000" points="32,-738.1 32,-759.1 206,-759.1 206,-738.1 32,-738.1"/>
+                     <text text-anchor="start" x="82.5" y="-744.9" font-family="Times,serif" font-size="14.00" fill="#000000">cx:document</text>
+                     <polygon fill="none" stroke="#000000" points="32,-717.1 32,-738.1 206,-738.1 206,-717.1 32,-717.1"/>
+                     <text text-anchor="start" x="35" y="-723.9" font-family="Times,serif" font-size="14.00" fill="#000000">href="id-transform-regex.xsl"</text>
+                     <polygon fill="none" stroke="#000000" points="32,-696.1 32,-717.1 206,-717.1 206,-696.1 32,-696.1"/>
+                     <text text-anchor="start" x="103" y="-702.9" font-family="Times,serif" font-size="14.00" fill="#000000">result</text>
+                  </g>
+                  <!-- cluster_d196e80&#45;&gt;cluster_d196e91 -->
+                  <g id="edge7" class="edge">
+                     <title>cluster_d196e80:_33-&gt;cluster_d196e91:_35</title>
+                     <path fill="none" stroke="#000000" d="M119,-696.1C119,-656.8121 106.4367,-612.0007 136.7246,-604.2658"/>
+                     <polygon fill="#000000" stroke="#000000" points="137.4583,-607.7051 147,-603.1 136.6692,-600.7497 137.4583,-607.7051"/>
+                  </g>
+                  <!-- cluster_d196e105 -->
+                  <g id="node11" class="node">
+                     <title>cluster_d196e105</title>
+                     <polygon fill="none" stroke="#000000" points="148,-446.1 148,-467.1 208,-467.1 208,-446.1 148,-446.1"/>
+                     <text text-anchor="start" x="159.5" y="-452.9" font-family="Times,serif" font-size="14.00" fill="#000000">source</text>
+                     <polygon fill="#edc571" stroke="transparent" points="148,-425.1 148,-446.1 208,-446.1 208,-425.1 148,-425.1"/>
+                     <polygon fill="none" stroke="#000000" points="148,-425.1 148,-446.1 208,-446.1 208,-425.1 148,-425.1"/>
+                     <text text-anchor="start" x="151" y="-431.9" font-family="Times,serif" font-size="14.00" fill="#000000">p:identity</text>
+                     <polygon fill="none" stroke="#000000" points="148,-404.1 148,-425.1 208,-425.1 208,-404.1 148,-404.1"/>
+                     <text text-anchor="start" x="162" y="-410.9" font-family="Times,serif" font-size="14.00" fill="#000000">result</text>
+                  </g>
+                  <!-- cluster_d196e91&#45;&gt;cluster_d196e105 -->
+                  <g id="edge9" class="edge">
+                     <title>cluster_d196e91:_45-&gt;cluster_d196e105:_48</title>
+                     <path fill="none" stroke="#000000" d="M178,-550.1C178,-516.8135 178,-506.054 178,-477.1673"/>
+                     <polygon fill="#000000" stroke="#000000" points="181.5001,-477.1 178,-467.1 174.5001,-477.1 181.5001,-477.1"/>
+                  </g>
+                  <!-- _64 -->
+                  <g id="node15" class="node">
+                     <title>_64</title>
+                     <ellipse fill="#000000" stroke="#000000" cx="241" cy="-436.1" rx="1.8" ry="1.8"/>
+                  </g>
+                  <!-- cluster_d196e91&#45;&gt;_64 -->
+                  <g id="edge13" class="edge">
+                     <title>cluster_d196e91:_46-&gt;_64</title>
+                     <path fill="none" stroke="#000000" d="M241,-550.1C241,-512.9365 241,-468.9583 241,-448.1566"/>
+                     <polygon fill="#000000" stroke="#000000" points="244.5001,-447.9802 241,-437.9802 237.5001,-447.9803 244.5001,-447.9802"/>
+                  </g>
+                  <!-- cluster_d196e116 -->
+                  <g id="node12" class="node">
+                     <title>cluster_d196e116</title>
+                     <polygon fill="none" stroke="#000000" points="130,-286.1 130,-307.1 226,-307.1 226,-286.1 130,-286.1"/>
+                     <text text-anchor="start" x="159.5" y="-292.9" font-family="Times,serif" font-size="14.00" fill="#000000">source</text>
+                     <polygon fill="#edc571" stroke="transparent" points="130,-265.1 130,-286.1 226,-286.1 226,-265.1 130,-265.1"/>
+                     <polygon fill="none" stroke="#000000" points="130,-265.1 130,-286.1 226,-286.1 226,-265.1 130,-265.1"/>
+                     <text text-anchor="start" x="158.5" y="-271.9" font-family="Times,serif" font-size="14.00" fill="#000000">p:store</text>
+                     <polygon fill="none" stroke="#000000" points="130,-244.1 130,-265.1 168,-265.1 168,-244.1 130,-244.1"/>
+                     <text text-anchor="start" x="133" y="-250.9" font-family="Times,serif" font-size="14.00" fill="#000000">result</text>
+                     <polygon fill="none" stroke="#000000" points="168,-244.1 168,-265.1 226,-265.1 226,-244.1 168,-244.1"/>
+                     <text text-anchor="start" x="171" y="-250.9" font-family="Times,serif" font-size="14.00" fill="#000000">result-uri</text>
+                  </g>
+                  <!-- cluster_d196e105&#45;&gt;cluster_d196e116 -->
+                  <g id="edge10" class="edge">
+                     <title>cluster_d196e105:_50-&gt;cluster_d196e116:_52</title>
+                     <path fill="none" stroke="#000000" d="M178,-404.1C178,-364.6938 178,-352.3023 178,-317.5393"/>
+                     <polygon fill="#000000" stroke="#000000" points="181.5001,-317.1 178,-307.1 174.5001,-317.1 181.5001,-317.1"/>
+                     <text text-anchor="middle" x="181" y="-352.4" font-family="Times,serif" font-size="14.00" fill="#000000">⋮</text>
+                  </g>
+                  <!-- cluster_d196e128 -->
+                  <g id="node13" class="node">
+                     <title>cluster_d196e128</title>
+                     <polygon fill="none" stroke="#000000" points="116,-140.1 116,-161.1 176,-161.1 176,-140.1 116,-140.1"/>
+                     <text text-anchor="start" x="127.5" y="-146.9" font-family="Times,serif" font-size="14.00" fill="#000000">source</text>
+                     <polygon fill="#edc571" stroke="transparent" points="116,-119.1 116,-140.1 176,-140.1 176,-119.1 116,-119.1"/>
+                     <polygon fill="none" stroke="#000000" points="116,-119.1 116,-140.1 176,-140.1 176,-119.1 116,-119.1"/>
+                     <text text-anchor="start" x="119" y="-125.9" font-family="Times,serif" font-size="14.00" fill="#000000">p:identity</text>
+                     <polygon fill="none" stroke="#000000" points="116,-98.1 116,-119.1 176,-119.1 176,-98.1 116,-98.1"/>
+                     <text text-anchor="start" x="130" y="-104.9" font-family="Times,serif" font-size="14.00" fill="#000000">result</text>
+                  </g>
+                  <!-- cluster_d196e116&#45;&gt;cluster_d196e128 -->
+                  <g id="edge11" class="edge">
+                     <title>cluster_d196e116:_55-&gt;cluster_d196e128:_58</title>
+                     <path fill="none" stroke="#000000" d="M149,-244.1C149,-210.7918 146.5573,-200.0693 146.0802,-171.1724"/>
+                     <polygon fill="#000000" stroke="#000000" points="149.5797,-171.0718 146,-161.1 142.5799,-171.1276 149.5797,-171.0718"/>
+                  </g>
+                  <!-- _66 -->
+                  <g id="node16" class="node">
+                     <title>_66</title>
+                     <ellipse fill="#000000" stroke="#000000" cx="204" cy="-130.1" rx="1.8" ry="1.8"/>
+                  </g>
+                  <!-- cluster_d196e116&#45;&gt;_66 -->
+                  <g id="edge14" class="edge">
+                     <title>cluster_d196e116:_56-&gt;_66</title>
+                     <path fill="none" stroke="#000000" d="M197,-244.1C197,-206.8665 200.7661,-162.9209 202.7734,-142.1417"/>
+                     <polygon fill="#000000" stroke="#000000" points="206.2773,-142.2782 203.7981,-131.9776 199.3126,-141.5761 206.2773,-142.2782"/>
+                  </g>
+                  <!-- _68 -->
+                  <g id="node17" class="node">
+                     <title>_68</title>
+                     <ellipse fill="#000000" stroke="#000000" cx="146" cy="-17.8" rx="1.8" ry="1.8"/>
+                  </g>
+                  <!-- cluster_d196e128&#45;&gt;_68 -->
+                  <g id="edge15" class="edge">
+                     <title>cluster_d196e128:_60-&gt;_68</title>
+                     <path fill="none" stroke="#000000" d="M146,-98.1C146,-73.9473 146,-45.7081 146,-29.9756"/>
+                     <polygon fill="#000000" stroke="#000000" points="149.5001,-29.7866 146,-19.7866 142.5001,-29.7866 149.5001,-29.7866"/>
+                  </g>
+               </g></svg></div>
+   </body>
+</html>

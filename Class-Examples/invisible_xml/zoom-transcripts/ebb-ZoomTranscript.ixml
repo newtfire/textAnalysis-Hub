@@ -1,0 +1,20 @@
+xml: section++NL.
+section: num, NL, timestamp, NL, transcript.
+@num: number+.
+timestamp: start, timeRangeSeparator, end.
+start: hour, minute, second.
+end: hour, minute, second.
+@hour: timeUnit1.
+@minute: timeUnit1.
+@second: timeUnit2.
+
+transcript: (NotNL++NL)+, NL?.
+
+number: ["0"-"9"].
+-NL: #d?, #a.
+-NotNL: ~[#9;#d;#a].
+timeUnit1: (number+, -":").
+timeUnit2: (number+, +".", -",", number+).
+{ebb: modification: we need to convert the original comma to a decimal point. 
+The +"." inserts that literal text pattern.}
+-timeRangeSeparator: -" --> ".
