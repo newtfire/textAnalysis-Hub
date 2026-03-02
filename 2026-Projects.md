@@ -49,7 +49,7 @@ Project GitHub | Website
 
 * [Evan Bartley](https://github.com/EvanB6)**
 * [Tori Cain](https://github.com/toricain)
-<!--- [??]  * [Jessica Michel](https://github.com/jvm7131) -->
+* [Jessica Michel](https://github.com/jvm7131) 
 
 ## Warframe
 Project GitHub | Website
