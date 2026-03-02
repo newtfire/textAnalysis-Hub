@@ -47,7 +47,7 @@
         </p:with-input>-->
         <p:with-input port="stylesheet" href="id-transform-regex.xsl"/>
     </p:xslt>
-    <p:identity message="Running the Identity Trnasformation XSLT to develop the XML"/>
+    <p:identity message="Yay! Running the Identity Transformation XSLT to develop the XML"/>
     <!-- What you see in the p:store after the XSLT step basically sets the XSLT output details. 
     Here we are specifying that we want XML output (we would use the same for SVG). If you 
     go to make HTML output, then set 'method': 'xhtml'. -->
