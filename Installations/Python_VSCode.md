@@ -164,4 +164,4 @@ deactivate
 - **pip installs the library but Python can't find it:** You're probably not inside your virtual environment. Check for `(.venv)` in your terminal prompt and activate if needed.
 - **Not sure which Python your terminal is using:** Run `which python` (Mac/Linux) or `where python` (Windows).
 
-As always — if you're stuck, reach out on Digit Discord! Environment setup issues are some of the most common (and fixable) problems and we can help each other by comparing notes!
+As always, if you get stuck, reach out on Digit Discord! Environment setup issues are some of the most common (and fixable) problems and we can help each other by comparing notes!
