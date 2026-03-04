@@ -1,5 +1,7 @@
 # Python Orientation for Natural Language Processing (NLP)
 
+*Note: this exercise is designed for VS Code which we're using in the Spring 2026 Digit 210 class. If you're working with Pycharm from learning this in previous years, here's a link to [the "legacy version" with extra Pycharm setup instructions](python-nlp-pycharm-orientation-exercise.md).*
+
 The Python programming language is among the most popular ways to access packages or libraries for **Natural Language Processing** (NLP). In our class we are applying Python together with the XML stack to do some powerful and precise text analysis. In our introduction to Python with NLP, we'll explore "to see what we can see" and experiment with your project texts. The Python programming language lets us work with NLP libraries, like NLTK and spaCy, to assist with retrieving meaningful units of language, like sentences, words, word-stems, punctuation, and other patterns (such as those you could define with regular expressions).
 
 NLP libraries represent the cumulative work of decades of **computational linguistics**, a field that applies statistics to predict the most likely parts of speech of particular words, draws on information to identify the base word forms (or lemmas) of words in a document, and identifies patterned language like proper names in text documents and collections. NLP libraries and methods are also the groundwork for today's "AI" generative language models.
@@ -84,10 +86,12 @@ Output will appear in the integrated terminal below.
 ## What to submit
 
 Push your work to your personal GitHub repo (and make sure it's easy for me to find your Python directory there). Your repo should contain:
+
 * The `.gitignore` file at the root
 * Your `python-nlp/` directory with:
   * Your `.txt` text file(s)
   * Your `.py` Python script
-  * (The `.venv/` folder will be ignored by git — that's correct!)
+  
+NOTE: Your repo should **not** contain the `.venv/` folder: that should now properly be ignored by git! 
 
 As always, if you get stuck, reach out on Digit Discord! We can help each other by comparing notes!
