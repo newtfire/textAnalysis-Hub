@@ -118,9 +118,11 @@ Do this once per project (e.g., once for this class). (You could set up your Pyt
 ### Activate the Virtual Environment
 
 You'll need to activate the environment each time you open a new terminal session:
+NOTE your shell and which direction filepath separators need to go: forward or back! 
 
 - **Mac/Linux:** `source .venv/bin/activate`
-- **Windows:** `.venv\Scripts\Activate`
+- **Windows (in Windows shell):** `.venv\Scripts\Activate` 
+    - In Windows Git Bash you may be able to type: `.venv/Scripts/Activate` (try the tab to autocomplete and see how it works.)
 
 When active, you'll see `(.venv)` at the start of your terminal prompt. That means you're in!
 
