@@ -94,4 +94,6 @@ Push your work to your personal GitHub repo (and make sure it's easy for me to f
   
 NOTE: Your repo should **not** contain the `.venv/` folder: that should now properly be ignored by git! 
 
+**On Canvas:** Post a link to your repo (with its clearly named directory for your Python work) to the submission point on Canvas.
+
 As always, if you get stuck, reach out on Digit Discord! We can help each other by comparing notes!
