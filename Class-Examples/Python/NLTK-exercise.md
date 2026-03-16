@@ -30,7 +30,7 @@ pip install matplotlib
 * When you're ready to write your own Python files, you can exit the interactive Python interface with `quit()`. In VSCode, open the folder where you've set up your Virtual Environment and start a new Python file.
 *  Set up or be ready to write relative filepaths to text files on your computer or you can read in text files from an online source. 
     * For this assignment, just start with one file you've set in your workspace, stored as `.txt` . 
-         * In case you need to prepare this, we'll show you how to pull just the text you want from XML files and output as text via XSLT. 
+         * In case you need to prepare this, we'll show you how to pull just the text you want from XML files and output as text via XSLT. Here's [an example in the textAnalysis-Hub](https://github.com/newtfire/textAnalysis-Hub/tree/main/Class-Examples/Python/xml-to-text-for-python).
          * Moving to processing a directory of files requires a little more setup and a function to move through them: we'll set that up next time.
     * Write a Python program that opens a text file and practices at least three different kinds of NLP analysis that you're learning in these chapters. Write scripts that help you explore the language in your text following Chs. 1 and 2. You could:
          * Check the **lexical diversity** of the file.
