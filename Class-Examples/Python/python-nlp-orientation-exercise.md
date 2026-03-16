@@ -8,7 +8,8 @@ NLP libraries represent the cumulative work of decades of **computational lingui
 
 ## Stage 1: Prepare a special directory on your personal GitHub repo and some text files to experiment with
 
-* First, add, commit, and push [the .gitignore file from the textAnalysis-Hub or your Project repo](https://github.com/newtfire/textAnalysis-Hub/blob/main/.gitignore). NOTE: This is a system "dot-file" that starts with a dot: `.gitignore`. Setting your `.gitignore` in place is important because it screens out local installation and system files specific to your computer — this allows you to share Python projects with peers and your prof working on different computers and platforms.
+* First, make sure you have our .gitignore file to screen out Python virtual environment files and libraries. Get a copy of [the .gitignore file from the textAnalysis-Hub or your Project repo](https://github.com/newtfire/textAnalysis-Hub/blob/main/.gitignore), and save it at the top level of your repo, and then use your git commands to add, commit, and push it.
+     * NOTE: This is a system "dot-file" that starts with a dot: `.gitignore`. Setting your `.gitignore` in place is important because it screens out local installation and system files specific to your computer — this allows you to share Python projects with peers and your prof working on different computers and platforms.
 * Now, create a directory in your personal GitHub repo for Python project work with natural language processing. (You could name the directory `python-nlp` or something simple and clear for you.)
 * In it, save some "plain" text files saved with the `.txt` extension. If you need some text files to start with, copy some over from our [Class Examples/Python folder](https://github.com/newtfire/textAnalysis-Hub/tree/main/Class-Examples/Python) on the textAnalysis-Hub.
 
