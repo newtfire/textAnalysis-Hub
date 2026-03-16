@@ -13,7 +13,9 @@ NLP libraries represent the cumulative work of decades of **computational lingui
 * Now, create a directory in your personal GitHub repo for Python project work with natural language processing. (You could name the directory `python-nlp` or something simple and clear for you.)
 * In it, save some "plain" text files saved with the `.txt` extension. If you need some text files to start with, copy some over from our [Class Examples/Python folder](https://github.com/newtfire/textAnalysis-Hub/tree/main/Class-Examples/Python) on the textAnalysis-Hub.
 
-## Stage 2: Open your new Python directory in VS Code and set up a virtual environment
+## Stage 2: Set up your workspace in VS Code, Open your new Python directory in VS Code, and Start a Virtual Environment (venv)
+
+Take a moment to set up VS Code's interface and choose a good theme for your eyes. Here's [some advice on "The Ulitmate VS Code Setup for Python"](https://medium.com/ordinaryindustries/the-ultimate-vs-code-setup-for-python-538026b34d94) which leads you to a preview of all the themes.
 
 If you've worked through the [Python + VS Code installation guide](https://github.com/newtfire/textAnalysis-Hub/blob/main/Installations/Python_VSCode.md), you already know how virtual environments work. Here's how to apply that to this assignment.
 
