@@ -14,8 +14,8 @@ If you're not ready, go back and review / redo the previous assignments in this 
 
 Start by reading and exploring the code in the NLTK book chapters 1 and 2. 
 
-    1. [Language Processing and Python](https://www.nltk.org/book/ch01.html)
-    2. [Accessing Text Corpora and Lexical Resources](https://www.nltk.org/book/ch02.html) 
+1.  [Language Processing and Python](https://www.nltk.org/book/ch01.html)
+2.  [Accessing Text Corpora and Lexical Resources](https://www.nltk.org/book/ch02.html) 
 
 You can run these by:
 *  Activating your Virtual Environment in a shell (either in VS Code or your own command line). 
