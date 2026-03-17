@@ -46,17 +46,18 @@ Since this is (very likely) the first time you've worked with NLTK, you will nee
         5. Use `cd ..` to navigate up so you are positioned in the folder *above* the folder that contains the activate scripts. When you type `ls` you should see either the `bin` or `Scripts` folder (which contains the activate scripts).
         6. Type `source Scripts/activate` or `source bin/activate` (depending on which directory you have).
         7. If your command is successful, you will simply see `venv` or `(venv)` appear on your screen as the next line. Congratulations! You have activated your virtual environment!
-        8. Now, you can use **Pycharm's Terminal or your own shell** and run the pip installation scripts:
+        8. Now, you can use **Pycharm's Terminal or your own shell** and run the pip installation scripts: Here are some that we are going to be using pretty soon:
 
 ```
 pip install nltk
+pip install matplotlib
 ```
 
 [Resource to consult in case of issues with virtual environments or pip](https://docs.python-guide.org/dev/virtualenvs/).
 
 
 ## Write some Python code with NLTK:
-* Start NLTK book's very first chapter as a "smoke test" and to get you started with your first Python program. Read [the NLTK Book Preface](https://www.nltk.org/book/ch00.html) up to the Python 3 and NLTK heading. 
+* Start NLTK book's opening chapter as a "smoke test" and to get you started with your first Python program. Read [the NLTK Book Preface](https://www.nltk.org/book/ch00.html) at least up to the Python 3 and NLTK heading. If you want to try some more NLTK, move on to [NLTK Chapter 1](https://www.nltk.org/book/ch01.html)
 * Try writing your first Python program in Pycharm based on the text file you saved in your GitHub repo. Adapt the code in the code block in the "Why Python" seciton. See if it works "out of the box". (Even if it does not, save your code and push to your GitHub repo, and submit it as this first assignment.) 
 
 
