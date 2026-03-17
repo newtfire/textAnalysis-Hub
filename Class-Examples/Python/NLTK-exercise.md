@@ -19,7 +19,7 @@ Start by reading and exploring the code in the NLTK book chapters 1 and 2.
 
 You can run these by:
 *  Activating your Virtual Environment in a shell (either in VS Code or your own command line). 
-*   Then do some pip installs in your Virtual Environment to start working with NLTK and the matplotlib library for plotting visualizations from some of the text analysis calculations:
+*   You probably did this in the last assignment, but in case you skipped it: do some pip installs in your Virtual Environment to start working with NLTK and the matplotlib library for plotting visualizations from some of the text analysis calculations:
 
 ```python
 pip install nltk
