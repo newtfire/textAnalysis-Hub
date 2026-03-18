@@ -32,7 +32,9 @@ pip install matplotlib
     * For this assignment, just start with one file you've set in your workspace, stored as `.txt` . 
          * In case you need to prepare this, we'll show you how to pull just the text you want from XML files and output as text via XSLT. Here's [an example in the textAnalysis-Hub](https://github.com/newtfire/textAnalysis-Hub/tree/main/Class-Examples/Python/xml-to-text-for-python).
          * Moving to processing a directory of files requires a little more setup and a function to move through them: we'll set that up next time.
-    * Write a Python program that opens a text file and practices at least three different kinds of NLP analysis that you're learning in these chapters. Write scripts that help you explore the language in your text following Chs. 1 and 2. You could:
+    * **Write a Python program that opens your text file** and practices at least three different kinds of NLP analysis that you're learning in these chapters. 
+          * For NLTK to work on this file, you need to prepare it as a list of tokens, and prepare it as a special NLTK Text Object: Here's [a starter Python file](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/Python/nltkStarter-yourOwnFile.py) to help show you how to do that. 
+     * With your new file open and working as an NLTK Text Object, write scripts that help you explore the language in your text following Chs. 1 and 2. You could:
          * Check the **lexical diversity** of the file.
               * How does this compare to other files? You could try looking at a second project file and test *its* lexical diversity in order to compare it, or compare it against one of the NLTK sample texts.
       *  Look for words most **similar** to a word you're interested in.
