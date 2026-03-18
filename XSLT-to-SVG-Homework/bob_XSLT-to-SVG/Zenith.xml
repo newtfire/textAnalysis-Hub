@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<item name="Zenith"> <title> Zenith Crafting Tree </title>
+    
+    <about>
+        About this item:
+        The Zenith has the most complex crafting tree of all items in vanilla Terraria.
+        It involves 22 different base items, surpassing a distant second: the Shellphone with 16 base items.
+    </about>
+    
+    <credit> Exact crafting tree from the Official Terraria Wiki </credit>
+    
+    <list type="raw materials">
+        <label> Raw Materials </label>
+            <!-- pre-hardmode -->
+            <rawmat xml:id="Vine">
+               <amount> 3 </amount>
+                  <material> Vines </material>
+                    <stage> pre-hardmode </stage>
+                    <from> mob </from>
+                    <type> crafting material </type>
+            </rawmat>
+            <rawmat xml:id="Stinger">
+                 <amount> 12 </amount>
+                   <material> Stinger </material>
+                   <stage> pre-hardmode </stage> 
+                   <from> mob </from>
+                   <type> crafting material </type>
+            </rawmat>
+            <rawmat xml:id="JungleSpore">
+                 <amount> 15 </amount>
+                   <material> Jungle Spore </material>
+                     <stage> pre-hardmode </stage> 
+                     <from> world </from>
+                     <type> crafting material </type>
+            </rawmat>
+            <rawmat tag="world-dependent" xml:id="CuOre">
+                 <amount> 15 </amount>
+                   <material> Copper Ore </material>
+                     <stage> pre-hardmode </stage> 
+                     <from> world </from>
+                     <type> ore </type>
+            </rawmat>
+            <rawmat xml:id="Obsidian">
+                 <amount> 20 </amount>
+                   <material> Obsidian </material>
+                     <stage> pre-hardmode </stage> 
+                     <from> world </from>
+                     <type> ore </type>
+            </rawmat>
+            <rawmat tag="world-dependent" xml:id="DemonOre">
+                 <amount> 30 </amount>
+                   <material> Demonite Ore </material>
+                     <stage> pre-hardmode </stage> 
+                     <from> world </from>
+                     <type> ore </type>
+            </rawmat>
+            <rawmat tag="world-dependent" xml:id="CrimOre">
+                 <amount> 30 </amount>
+                   <material> Crimtane Ore </material>
+                     <type> ore </type>
+                     <stage> pre-hardmode </stage> 
+                     <from> world </from>
+            </rawmat>
+            <rawmat xml:id="Hellstone">
+                 <amount> 60 </amount>
+                   <material> Hellstone </material>
+                     <type> ore </type>
+                     <stage> pre-hardmode </stage> 
+                     <from> world </from>
+            </rawmat>
+       <!-- hardmode -->
+            <rawmat xml:id="HallowedBar">
+                 <amount> 12 </amount>
+                   <material> Hallowed Bar </material>
+                     <stage> hardmode </stage>
+                     <from> boss </from>                 
+                     <type> bar </type>
+            </rawmat>
+            <rawmat xml:id="BHS">
+                <amount> 1 </amount>
+                  <material> Broken Hero Sword </material>
+                    <stage> hardmode </stage> 
+                    <from> boss </from>
+                    <type> crafting material </type>
+            </rawmat>
+            <rawmat xml:id="SightSoul">
+                <amount> 20 </amount>
+                  <material> Soul of Sight </material>
+                    <stage> hardmode </stage> 
+                    <from> boss </from>
+                    <type> crafting material </type>
+            </rawmat>
+            <rawmat xml:id="MightSoul">
+                <amount> 20 </amount>
+                  <material> Soul of Might </material>
+                    <stage> hardmode </stage> 
+                    <from> boss </from>
+                    <type> crafting material </type>
+            </rawmat>
+            <rawmat xml:id="FrightSoul">
+                <amount> 20 </amount>
+                  <material> Soul of Fright </material>
+                    <stage> hardmode </stage>
+                    <from> boss </from>
+                    <type> crafting material </type>
+            </rawmat>
+            <rawmat xml:id="ChloroOre">
+                <amount> 120 </amount>
+                  <material> Chlorophyte Ore </material>
+                    <stage> hardmode </stage>
+                    <from> world </from>
+                    <type> ore </type>
+            </rawmat>
+    </list>
+    
+    <list type="processed materials">
+        <label> Processed Materials </label>
+            <!-- only includes bars -->
+            <promat tag="world-dependent" xml:id="CuBar">
+                <amount> 5 </amount>
+                  <material> Copper Bar </material>
+                    <stage> pre-hardmode </stage> 
+                    <from> furnace </from>
+                    <type> bar </type>
+            </promat>
+            <promat tag="world-dependent" xml:id="DemonBar">
+                <amount> 10 </amount>
+                  <material> Demon Bar </material>
+                    <from> furnace </from>
+                    <stage> pre-hardmode </stage> 
+                    <type> bar </type>
+                    
+            </promat>
+            <promat tag="world-dependent" xml:id="CrimBar">
+                <amount> 10 </amount>
+                  <material> Crimtane Bar </material>
+                    <stage> pre-hardmode </stage> 
+                    <from> furnace </from>
+                    <type> bar </type>
+            </promat>
+            <promat xml:id="HellBar">
+                <amount> 20 </amount>
+                  <material> Hellstone Bar </material>
+                    <stage> pre-hardmode </stage> 
+                    <from> hellforge </from>
+                    <type> bar </type>
+            </promat>
+            <promat xml:id="ChloroBar">
+                <amount> 24 </amount>
+                  <material> Chlorophyte Bar </material>
+                    <stage> hardmode </stage> 
+                    <from> HM-forge </from>
+                    <type> bar </type>
+            </promat>
+    </list>
+    
+    <list type="component swords">
+        <label> Component Swords </label>
+            <!-- crafting Night's Edge, 5 swords -->
+            <compsword xml:id="GrassBlade">
+                <amount> 1 </amount>
+                  <material> Blade of Grass </material>
+                    <stage> pre-hardmode </stage> 
+                    <from> anvil </from>
+                    <type> sword </type>
+            </compsword>
+            <compsword tag="world-dependent" xml:id="CrimSword">
+                <amount> 1 </amount>
+                  <material> Blood Butcherer </material>
+                    <stage> pre-hardmode </stage> 
+                    <from> anvil </from>
+                    <type> sword </type>
+            </compsword>
+            <compsword tag="world-dependent" xml:id="DemonSword`">
+                <amount> 1 </amount>
+                  <material> Light's Bane </material>
+                    <stage> pre-hardmode </stage> 
+                    <from> anvil </from>
+                    <type> sword </type>
+            </compsword>
+            <compsword xml:id="HellSword">
+                <amount> 1 </amount>
+                  <material> Volcano </material>
+                    <stage> pre-hardmode </stage> 
+                    <from> anvil </from>
+                    <type> sword </type>
+            </compsword>
+            <compsword xml:id="Muramasa">
+                <amount> 1 </amount>
+                  <material> Muramasa </material>
+                    <stage> pre-hardmode </stage> 
+                    <from> dungeon chest </from>
+                    <type> sword </type>
+            </compsword>
+            <!-- crafting Terra Blade, 2 swords -->
+            <compsword xml:id="TExcalibur">
+                <amount> 1 </amount>
+                  <material> True Excalibur </material>
+                    <stage> hardmode </stage> 
+                    <from> HM-anvil </from>
+                    <type> sword </type>
+            </compsword>
+            <compsword xml:id="TNightEdge">
+                <amount> 1 </amount>
+                  <material> True Night's Edge </material>
+                    <stage> hardmode </stage> 
+                    <from> HM-anvil </from>
+                    <type> sword </type>
+            </compsword>
+            <!-- crafting True Blades, 1 each -->
+            <compsword xml:id="Excalibur">
+                <amount> 1 </amount>
+                  <material> Excalibur </material>
+                    <stage> hardmode </stage> 
+                    <from> HM-anvil </from>
+                    <type> sword </type>
+            </compsword>
+            <compsword xml:id="NightEdge">
+                <amount> 1 </amount>
+                  <material> Night's Edge </material>
+                    <stage> hardmode </stage> 
+                    <from> HM-anvil </from>
+                    <type> sword </type>
+            </compsword>
+            <!-- crafting Zenith, 10 swords -->
+            <compsword tag="world-dependent" xml:id="CuShortsword">
+                <amount> 1 </amount>
+                  <material> Copper Shortsword </material>
+                    <stage> pre-hardmode </stage> 
+                    <from> anvil </from>
+                    <type> sword </type>
+            </compsword>
+            <compsword xml:id="BeeKeeper">
+                <amount> 1 </amount>
+                  <material> Bee Keeper </material>
+                    <stage> pre-hardmode </stage> 
+                    <from> boss </from>
+                    <type> sword </type>
+            </compsword>
+            <compsword xml:id="HorsemanBlade">
+                <amount> 1 </amount>
+                  <material> The Horseman's Blade </material>
+                    <stage> hardmode </stage> 
+                    <from> boss </from>
+                    <type> sword </type>
+            </compsword>
+            <compsword xml:id="InfluxWaver">
+                <amount> 1 </amount>
+                  <material> Influx Waver </material>
+                    <stage> hardmode </stage> 
+                    <from> boss </from>
+                    <type> sword </type>
+            </compsword>
+            <compsword xml:id="Meowmere">
+                <amount> 1 </amount>
+                  <material> Meowmere </material>
+                    <stage> post-MoonLord </stage> 
+                    <from> boss </from>
+                    <type> sword </type>
+            </compsword>
+            <compsword xml:id="Seedler">
+                <amount> 1 </amount>
+                  <material> Seedler </material>
+                    <stage> hardmode </stage> 
+                    <from> boss </from>
+                    <type> sword </type>
+            </compsword>
+            <compsword xml:id="StarWrath">
+                <amount> 1 </amount>
+                  <material> Star Wrath </material>
+                    <stage> post-MoonLord </stage> 
+                    <from> boss </from>
+                    <type> sword </type>
+            </compsword>
+            <compsword xml:id="TerraBlade">
+                <amount> 1 </amount>
+                  <material> Terra Blade </material>
+                    <stage> hardmode </stage> 
+                    <from> HM-anvil </from>
+                    <type> sword </type>
+            </compsword>
+            <compsword xml:id="EnchSword">
+                <amount> 1 </amount>
+                  <material> Enchanted Sword </material>
+                    <stage> pre-hardmode </stage> 
+                    <from> world </from>
+                    <type> sword </type>
+            </compsword>
+            <compsword xml:id="Starfury">
+                <amount> 1 </amount>
+                  <material> Starfury </material>
+                    <stage> pre-hardmode </stage> 
+                    <from> world </from>
+                    <type> sword </type>
+            </compsword>
+    </list>
+</item>
