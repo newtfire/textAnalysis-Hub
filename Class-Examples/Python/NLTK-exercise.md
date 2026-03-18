@@ -38,7 +38,10 @@ pip install matplotlib
       *  Look for words most **similar** to a word you're interested in.
       *  What are the most common, frequently used words in the text? 
       *  Compare the **frequency distribution** of a few words of interest.
-      *  See if you can plot graphs when you run your code. To set this up / smoke test graphing with tkinter and matplotlib in your shell from Python, follow our sample code in [this notebook](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/Python/readFileCollections-examples/Exploring-NLTK.ipynb).
+      *  See if you can plot graphs when you run your code. To set this up / smoke test graphing with tkinter and matplotlib in your shell from Python, make sure you install and import what you need for that:
+          * matplotlib for frequency distributions: see [my sample code, plt-necessities.py](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/Python/plt-necessities.py)
+          * for tkinter, follow our sample code in [this notebook](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/Python/readFileCollections-examples/Exploring-NLTK.ipynb).
+               * By the way, Jupyter notebooks (like the one I just linked) are a nifty combination of markdown and Python code that you run portions of your Python code in cells. We'll set up notebooks in our next class, but you can read about what you need and try it yourself in VSCode. Before you can set up a notebook, you'll need install the Jupyter package with `pip install Jupyter` in your Virtual Environment. 
       
 * Push your text file(s) and your Python file to your repo.  
 
