@@ -9,17 +9,22 @@
 * [Colin O'Donnell](https://github.com/ColinRODonnell)
 * [Trinity Taylor](https://github.com/trinityr0se)
 
-## Asexual History
-[Project GitHub](https://github.com/heheka1/Ace-Research) | Website 
-
-* [Knox Aluise](https://github.com/heheka1)
-
 ## Arthur TV Show
 [Project GitHub](https://github.com/mfp5837-oss/Arthur-TV-Show) | [Website](https://mfp5837-oss.github.io/Arthur-TV-Show/)
 
 * [Megan Litz](https://github.com/meganlitz28)
 * [Mallory Pentycofe](https://github.com/mfp5837-oss)**
 * [Miracle Williams](https://github.com/miraclewill1234-ship-it)
+
+## Asexual History
+[Project GitHub](https://github.com/heheka1/Ace-Research) | Website 
+
+* [Knox Aluise](https://github.com/heheka1)
+
+## Elden Ring Lore
+[Project Github](https://github.com/AshLuvzU/EldenRingLore) | [Website](https://ashluvzu.github.io/EldenRingLore/)
+
+* [Ashton Maloney](https://github.com/AshLuvzU)
 
 ## Savathûn
 [Project GitHub](https://github.com/Serelistia/Serelistia.github.io) | Website
