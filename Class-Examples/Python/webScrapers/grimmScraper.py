@@ -20,6 +20,7 @@ def get_tales():
     for item in soup.findAll('li'):
         link = item.find('a')
         href = archive_url + link['href']
+        print(f"Found a link to a tale: {href}")
         download_links(href)
     print("All tales downloaded!")
     # ebb: The print line indicating

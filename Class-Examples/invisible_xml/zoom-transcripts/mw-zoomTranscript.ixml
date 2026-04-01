@@ -1,0 +1,22 @@
+transcript: sect+.
+sect: seqNum, newline, beginTime, arrow, endTime, newline, transcript, newline?, newline?.
+{no newlines = end of file. one newline = two lines of spoken text in that section. two newlines = one line of spoken text in that section}
+
+transcript: line++newline.
+-newline: (-#d?, -#a).
+line: ~[#d;#a]+.
+-space: #20.
+
+@seqNum: [N]+.
+
+beginTime: hour, min, sec, milisec.
+@hour:[N], [N], -#3a.
+@min: [N], [N], -#3a.
+@sec: [N], [N], -#2c.
+@milisec:[N], [N], [N].
+endTime: hour, min, sec, milisec.
+{formatting between both is always the same:}
+{HH:MM:SS,SSS}
+
+-arrow: space, -"-->", space.
+{separator for beginTime and endTime. I choose to throw it away.}

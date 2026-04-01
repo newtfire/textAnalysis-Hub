@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <title>A Big Ball of Text with Special Whatsits Inside</title>
+    <blob>
+        <heading>Blob the First</heading>
+        <ab>Lorem ipsum odor amet, <special whatsIt="powerUp"/>
+            <special whatsIt="powerUp"/> consectetuer adipiscing elit. Ante lobortis ligula accumsan
+            conubia; consectetur sem tincidunt. <special whatsIt="powerUp"/> Rutrum nam neque
+            praesent tempor adipiscing volutpat. Habitant feugiat mi nullam proin natoque integer
+            cras vitae integer. Ipsum sit hac enim; aenean inceptos ac facilisis habitasse cras!
+            Gravida porttitor fames per ante vestibulum sociosqu. Platea maecenas at phasellus orci
+            congue ipsum. Sagittis ac sagittis cursus; elementum mattis sagittis. Mi nisi vulputate
+            hendrerit ultricies dictumst facilisis natoque. Tincidunt vitae natoque, conubia viverra
+            aenean gravida..<special whatsIt="magicEgg"/>..<special whatsIt="magicEgg"/></ab>
+        <ab>Lorem ipsum <special whatsIt="rocketShip"/><special whatsIt="rocketShip"/><special
+                whatsIt="rocketShip"/>odor amet, consectetuer adipiscing elit. Ante lobortis ligula
+            accumsan conubia; consectetur sem tincidunt.<special whatsIt="rocketShip"/> Rutrum nam
+            neque praesent tempor adipiscing volutpat. Habitant feugiat mi nullam proin natoque
+            integer cras vitae integer. Ipsum sit hac enim; aenean inceptos ac facilisis habitasse
+            cras! Gravida porttitor fames per ante vestibulum sociosqu. Platea maecenas at phasellus
+            orci congue ipsum. Sagittis ac sagittis cursus; elementum mattis sagittis. Mi nisi
+            vulputate hendrerit ultricies dictumst facilisis natoque. Tincidunt vitae natoque,
+            conubia viverra aenean gravida..<special whatsIt="magicEgg"/>.<special
+                whatsIt="magicEgg"/></ab>
+    </blob>
+    <blob>
+        <heading>Blob the Second</heading>
+        <ab>.<special whatsIt="magicEgg"/>.<special whatsIt="magicEgg"/>.<special whatsIt="magicEgg"
+                />.<special whatsIt="magicEgg"/>Lorem ipsum odor amet, consectetuer adipiscing elit.
+            Ante lobortis ligula accumsan conubia; consectetur sem tincidunt.<special
+                whatsIt="magicEgg"/> Rutrum nam neque praesent tempor adipiscing volutpat. Habitant
+            feugiat mi nullam proin natoque integer cras vitae integer.<special whatsIt="boss"/>
+            Ipsum sit hac enim; aenean inceptos ac facilisis habitasse cras! Gravida porttitor fames
+            per ante vestibulum sociosqu.<special whatsIt="dragon"/> Platea maecenas at phasellus
+            orci congue ipsum. Sagittis ac sagittis cursus; elementum mattis sagittis. Mi nisi
+            vulputate hendrerit ultricies dictumst facilisis natoque. Tincidunt vitae natoque,
+            conubia viverra aenean gravida.</ab>
+    </blob>
+    <blob>
+        <heading>Blob the Third</heading>
+        <ab>.<special whatsIt="magicEgg"/>.<special whatsIt="magicEgg"/><special whatsIt="magicEgg"
+                /><special whatsIt="magicEgg"/>Lorem ipsum odor amet, consectetuer adipiscing elit.
+            Ante lobortis ligula accumsan conubia; consectetur sem tincidunt.<special
+                whatsIt="jabberwocky"/> Rutrum nam neque praesent tempor adipiscing volutpat.
+            Habitant feugiat mi nullam proin natoque integer cras vitae integer.<special
+                whatsIt="shield"/> Ipsum sit hac enim; aenean inceptos ac facilisis habitasse cras!
+            Gravida porttitor fames per ante vestibulum sociosqu.<special
+                whatsIt="invisibilityCloak"/> Platea maecenas at phasellus orci congue ipsum.
+            Sagittis ac sagittis cursus; elementum mattis sagittis. Mi nisi vulputate hendrerit
+            ultricies dictumst facilisis natoque. Tincidunt vitae natoque, conubia viverra aenean
+            gravida.</ab>
+    </blob>
+
+</xml>

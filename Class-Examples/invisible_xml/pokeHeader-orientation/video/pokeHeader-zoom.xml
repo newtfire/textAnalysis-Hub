@@ -1,0 +1,11 @@
+<xml>
+   <heading>
+      <label>Name</label>
+      <label>Type</label>
+      <label>Cat</label>
+      <label>Power</label>
+      <label>Acc</label>
+      <label>PP</label>
+      <label>Effect</label>
+   </heading>
+</xml>

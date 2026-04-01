@@ -1,61 +1,102 @@
-# Python Orientation for Natural Language Processing (NLP) 
+# Python Orientation for Natural Language Processing (NLP)
 
-The Python programming language is among the most popular ways to access packages or libraries for natural language processing (NLP). We are accessing Python together with the XML stack to  do some powerful text analysis. In our introduction to Python with NLP, we'll explore and experiment to see what we can see about project texts. The Python programming language lets us work with NLP libraries, like NLTK and Spacy, to assist with retrieving data meaningful units of language, like sentences, words, word-stems, punctuation, and other patterns (such as those you could define with regular expressions). 
+*Note: this exercise is designed for VS Code which we're using in the Spring 2026 Digit 210 class. If you're working with Pycharm from learning this in previous years, here's a link to [the "legacy version" with extra Pycharm setup instructions](python-nlp-pycharm-orientation-exercise.md).*
 
-NLP libraries represent the cumulative work of decades of computational linguistics, which apply statistics to predict the most likely parts of speech of particular words, draw on information to identify the base word forms (or lemmas) of words in a document, and identify patterned language like proper names in text documents and collections. They are also the groundwork for today's <q>AI</q> generative language models
+The Python programming language is among the most popular ways to access packages or libraries for **Natural Language Processing** (NLP). In our class we are applying Python together with the XML stack to do some powerful and precise text analysis. In our introduction to Python with NLP, we'll explore "to see what we can see" and experiment with your project texts. The Python programming language lets us work with NLP libraries, like NLTK and spaCy, to assist with retrieving meaningful units of language, like sentences, words, word-stems, punctuation, and other patterns (such as those you could define with regular expressions).
+
+NLP libraries represent the cumulative work of decades of **computational linguistics**, a field that applies statistics to predict the most likely parts of speech of particular words, draws on information to identify the base word forms (or lemmas) of words in a document, and identifies patterned language like proper names in text documents and collections. NLP libraries and methods are also the groundwork for today's "AI" generative language models.
 
 ## Stage 1: Prepare a special directory on your personal GitHub repo and some text files to experiment with
-* First, add, commit, and push [the .gitignore file from the textAnalysis-Hub or your Project repo](https://github.com/newtfire/textAnalysis-Hub/blob/main/.gitignore). NOTE: This is a system "dot-file", and starts with a dot `.`: `.gitignore`. Setting your .gitignore in place is important because it screens out local installation / system files specific to your computer and allows you to share Python projects with peers and your prof working on different computers (across platforms). 
 
+* First, make sure you have our .gitignore file to screen out Python virtual environment files and libraries. Get a copy of [the .gitignore file from the textAnalysis-Hub or your Project repo](https://github.com/newtfire/textAnalysis-Hub/blob/main/.gitignore), and save it at the top level of your repo, and then use your git commands to add, commit, and push it.
+     * NOTE: This is a system "dot-file" that starts with a dot: `.gitignore`. Setting your `.gitignore` in place is important because it screens out local installation and system files specific to your computer — this allows you to share Python projects with peers and your prof working on different computers and platforms.
 * Now, create a directory in your personal GitHub repo for Python project work with natural language processing. (You could name the directory `python-nlp` or something simple and clear for you.)
+* In it, save some "plain" text files saved with the `.txt` extension. If you need some text files to start with, copy some over from our [Class Examples/Python folder](https://github.com/newtfire/textAnalysis-Hub/tree/main/Class-Examples/Python) on the textAnalysis-Hub.
 
-* In it, save some "plain" text files, saved with the `.txt` extension. If you need some text files to start with, copy some over from our [Class Examples/Python folder](https://github.com/newtfire/textAnalysis-Hub/tree/main/Class-Examples/Python) on the textAnalysis-Hub. 
+## Stage 2: Set up your workspace in VS Code, Open your new Python directory in VS Code, and Start a Virtual Environment (venv)
 
+Take a moment to set up VS Code's interface and choose a good theme for your eyes. Here's [some advice on "The Ulitmate VS Code Setup for Python"](https://medium.com/ordinaryindustries/the-ultimate-vs-code-setup-for-python-538026b34d94) which leads you to a preview of all the themes.
 
-## Stage 2: Start a new project in Pycharm in your new Python directory
-* In PycharmCE, go to File >> New Project. Pause carefully on the configuration screen for your project.
-* **Do NOT give your project a name, because it will create a new folder**, and you want to set it up in one of your existing GitHub folders.
-* Browse to your local GitHub directory and select it as the **location** of your new project at the top of the screen. Here's an image of how to set up the New Project screen: 
-<img src="img/leaveNameBlank.png" alt="screen capture of new project configuration" width="500"/>
+If you've worked through the [Python + VS Code installation guide](https://github.com/newtfire/textAnalysis-Hub/blob/main/Installations/Python_VSCode.md), you already know how virtual environments work. Here's how to apply that to this assignment.
 
-* (Your version of Python 3 is probably different from mine, just make sure it's above 3.)
+**Already have a .venv set up on a parent folder?** That's fine! Just** activate** it and skip the creation step below. It's perfectly okay to have virtual environments at different levels on your computer; they don't interfere with each other. Just make sure VS Code is pointing at the right one for this project (Command Palette → Python: Select Interpreter).
 
-* If your GitHub repo has files and folders in it, when you go to create the Project, you should see this screen: 
-<img src="img/dirNotEmpty.png" alt="directory not empty warning message is okay" width="500"/>
+**If you need to create a .venv**:
 
-* Choose Interpreter Type: Project venv, and this will create a Virtual Environment for Python (venv) in your personal GitHub repo.
+* In VS Code, go to **File > Open Folder** and navigate to the `python-nlp` directory you just created inside your GitHub repo. Open it.
+* Open the integrated terminal inside VS Code: `` Ctrl+` `` (Windows/Linux) or `` Cmd+` `` (Mac).
+* Create a virtual environment for this project:
 
+```
+python3.12 -m venv .venv
+```
 
-### Activate the Virtual Environment (venv) in your repo and install the NLTK library for NLP
-As you are starting a new project in Pycharm, 
-    * You may be prompted to open a starter "main.py" file, and you may do this if you wish (it's just a starter file: you can delete its contents and write your own code or adapt ours.)
-    * You may also just create a new Python file by going to File >> New and selecting Python file. 
-* [Our Python sample files](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/Python/) are stored on the textAnalysis-Hub in Class Examples >> Python. 
-     * The best way to work with these files? **Read them in the web browser and work with them in your own new Python file** so you can adapt them to your files. 
+* VS Code will detect the new `.venv` and ask: *"Do you want to select the new virtual environment?"* — click **Yes**. (If it doesn't ask, use the Command Palette: `Ctrl+Shift+P` / `Cmd+Shift+P` → **Python: Select Interpreter** and choose the `.venv` option.)
 
-Since this is (very likely) the first time you've worked with NLTK, you will need to install it before it can be available to work with in your Python program. 
+* Activate your virtual environment:
+  * **Mac/Linux:** `source .venv/bin/activate`
+  * **Windows (PowerShell):** `.venv\Scripts\Activate.ps1`
+  * **Windows (Git Bash):** `source .venv/Scripts/activate`
 
- 
-##### Install at command line in your virtual environment:
-   * We will need to activate the **local virtual environment (venv)** that Pycharm configured for your nlp project. 
-        1. In Pycharm, open up your project, and open a Python script you've saved in your project directory. 
-        2. Run the script, and click the wrench icon on the left-hand side of the Results window (you don't have to wait for the script to complete).
-        3. You'll see a Configuration Screen: Look for the **Python Interpreter** line and copy down its filepath. This is where Pycharm is finding Python3 to run on your computer. 
-        4. On your shell (Git Bash or Windows): use `cd` to navigate to that filepath you copied down. Use `ls` to look for a folder (either Scripts or bin) that contains activate scripts. You should see several files named `activate`, `activate.ps1`, `activate_this.py`, and more. 
-        5. Use `cd ..` to navigate up so you are positioned in the folder *above* the folder that contains the activate scripts. When you type `ls` you should see either the `bin` or `Scripts` folder (which contains the activate scripts).
-        6. Type `source Scripts/activate` or `source bin/activate` (depending on which directory you have).
-        7. If your command is successful, you will simply see `venv` or `(venv)` appear on your screen as the next line. Congratulations! You have activated your virtual environment!
-        8. Now, you can use **Pycharm's Terminal or your own shell** and run the pip installation scripts:
+* When active, you'll see `(.venv)` at the start of your terminal prompt. You're in!
+
+> **Note:** The `.gitignore` file you added in Stage 1 already tells git to ignore `.venv/`, so your virtual environment files won't get pushed to GitHub. This is exactly what you want — your teammates run `pip install` on their own machines, rather than syncing a huge environment folder.
+
+### Install NLTK inside your virtual environment
+
+With your virtual environment active, install NLTK using pip:
 
 ```
 pip install nltk
 ```
 
+Since this is (very likely) the first time you've worked with NLTK, you also need to download its data resources. Open a Python prompt (just type `python` in your terminal) and run:
+
+```python
+import nltk
+nltk.download('book')
+```
+
+This downloads the sample texts and corpora used in the NLTK Book. It may take a few minutes! When it's done, type `exit()` to return to your regular terminal.
+
+> **Tip:** If `nltk.download('book')` feels like too much to download at once, you can also run `nltk.download()` to open an interactive chooser. For getting started, the `book` package has everything we need.
+
 [Resource to consult in case of issues with virtual environments or pip](https://docs.python-guide.org/dev/virtualenvs/).
 
+## Stage 3: "Smoke Test" and Learn: Write some Python code with NLTK
 
-## Write some Python code with NLTK:
-* Start NLTK book's very first chapter as a "smoke test" and to get you started with your first Python program. Read [the NLTK Book Preface](https://www.nltk.org/book/ch00.html) up to the Python 3 and NLTK heading. 
-* Try writing your first Python program in Pycharm based on the text file you saved in your GitHub repo. Adapt the code in the code block in the "Why Python" seciton. See if it works "out of the box". (Even if it does not, save your code and push to your GitHub repo, and submit it as this first assignment.) 
+* Start with the NLTK Book's very first chapter as a "smoke test" and to get you started with your first Python program. Read [the NLTK Book Preface](https://www.nltk.org/book/ch00.html) up to the "Python 3 and NLTK" heading.
 
+* In VS Code, create a new Python file in your `python-nlp` directory: **File > New File**, save it with a `.py` extension (e.g., `nlp-orientation.py`).
 
+* Our [Python sample files](https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/Python/) are stored on the textAnalysis-Hub in Class Examples > Python.
+  * The best way to work with these: **read them in the web browser and write your own adapted version** in your new Python file. This way the code is yours and you understand what each line does.
+
+* Try adapting the code from the "Why Python" section of the NLTK Book Preface to work with one of the `.txt` files you saved in your directory. See if it runs! Even if it doesn't work perfectly, save your file and push to GitHub — that's your submission for this first assignment.
+
+### Running your script in VS Code
+
+To run your Python file:
+* Make sure your `.venv` is active in the terminal (check for `(.venv)` in the prompt).
+* Either click the **Run** button (triangle icon) in the top right of the editor, or run it from the terminal:
+
+```
+python nlp-orientation.py
+```
+
+Output will appear in the integrated terminal below.
+
+## What to submit
+
+Push your work to your personal GitHub repo (and make sure it's easy for me to find your Python directory there). Your repo should contain:
+
+* The `.gitignore` file at the root
+* Your `python-nlp/` directory with:
+  * Your `.txt` text file(s)
+  * Your `.py` Python script
+  
+NOTE: Your repo should **not** contain the `.venv/` folder: that should now properly be ignored by git! 
+
+**On Canvas:** Post a link to your repo (with its clearly named directory for your Python work) to the submission point on Canvas.
+
+As always, if you get stuck, reach out on Digit Discord! We can help each other by comparing notes!
