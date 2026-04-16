@@ -36,6 +36,8 @@
         <!-- ebb: Column headings -->
         <xsl:text>character</xsl:text>
         <xsl:value-of select="$tab"/>
+        <xsl:text>Source Node Attribute</xsl:text>
+        <xsl:value-of select="$tab"/>
         <xsl:text>countSpeechesInEpisode</xsl:text>
         <xsl:value-of select="$tab"/>
         <xsl:text>Episode ID</xsl:text>
@@ -58,6 +60,10 @@
                    <xsl:value-of select="$currentChar"/>
                 
                 <xsl:value-of select="$tab"/>
+                   
+                   <xsl:text>character</xsl:text>
+                   
+                   <xsl:value-of select="$tab"/>
                 <!-- ebb: now the count in each episode: -->
                 <xsl:value-of select="$countSpeeches"/>
                 <xsl:value-of select="$tab"/>
