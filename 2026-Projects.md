@@ -17,7 +17,7 @@
 * [Miracle Williams](https://github.com/miraclewill1234-ship-it)
 
 ## Asexual History
-[Project GitHub](https://github.com/heheka1/Ace-Research) | Website 
+[Project GitHub](https://github.com/heheka1/Ace-Research) | [Website](https://heheka1.github.io/Ace-Research/) 
 
 * [Knox Aluise](https://github.com/heheka1)
 
@@ -57,7 +57,7 @@
 <!-- * [Tori Cain](https://github.com/toricain) -->
 
 ## Warframe
-[Project GitHub](https://github.com/Ray-2349/Warframe-MITW-Project) | Website
+[Project GitHub](https://github.com/Ray-2349/Warframe-MITW-Project) | [Website](https://ray-2349.github.io/Warframe-MITW-Project/)
 
 * [Raymond Brown](https://github.com/Ray-2349)
 
