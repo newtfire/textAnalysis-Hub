@@ -50,7 +50,7 @@
 * [Jack Norton](https://github.com/FreeArtifact)
 
 ## Spy X Family
-[Project GitHub](https://github.com/EvanB6/Digit210-SpyXFamily) | Website
+[Project GitHub](https://github.com/EvanB6/Digit210-SpyXFamily) | [Website](https://evanb6.github.io/Digit210-SpyXFamily/)
 
 * [Evan Bartley](https://github.com/EvanB6)**
 * [Jessica Michel](https://github.com/jvm7131) 
