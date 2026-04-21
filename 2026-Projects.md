@@ -26,6 +26,9 @@
 
 * [Ashton Maloney](https://github.com/AshLuvzU)
 
+## God of War (Ragnarök): Partial Game Transcript Analysis
+[Project GitHub](https://github.com/Serelistia/Serelistia.github.io) | [Website](https://serelistia.github.io/GOWR.html)
+
 ## JoJo's Bizarre Adventure
 [Project GitHub](https://github.com/GwR419/JoJo-s-Bizarre-Adventure-Repo/) | [Website](https://gwr419.github.io/JoJo-s-Bizarre-Adventure-Repo/)
 
@@ -37,9 +40,6 @@
 
 * [Kelly  Anderson](https://github.com/KellyofSpades)**
 * [Aya Sharbaji](https://github.com/ams12447-lang)
-
-## Savathûn
-[Project GitHub](https://github.com/Serelistia/Serelistia.github.io) | Website
 
 * [Bob Azul](https://github.com//Serelistia)
 
