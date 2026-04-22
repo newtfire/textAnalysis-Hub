@@ -1,0 +1,1421 @@
+
+Information
+Plot
+Versions
+Enhanced Edition
+Promos
+Merchandise
+Credits
+FAQ
+Playing the Game
+Characters
+Enemies
+Bosses
+Weapons
+Supplies
+Walkthrough
+Speed Walkthrough
+Puzzles
+Mini-Puzzles
+Endings
+Unlockables & Secrets
+10-Star Ranking Guide
+Item List
+Save Point Locations/Users/ellagalioto/GitHub/digitE/python-nlp/game-dialogue.txt
+Memos
+Game Script
+Maps
+Trivia
+Cool & Scary Things
+Plot Analysis
+Save Games
+Modding
+Information
+Script
+Biographies
+Credits
+Menus
+Art Gallery
+Screenshots
+Wallpapers
+Concept Art
+Screensavers
+Videos
+Articles
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+Game Script
+Contents
+1.1 - The Observation Deck
+ 1.2 - The Graveyard
+1.3 - First Encounter with an Enemy
+2.1 - The Unreachable Key
+2.2 - Another Dead Body
+2.3 - James Meets Eddie
+3.1 - Room 109 and Angela
+4.1 - Second Meeting with the Little Girl
+4.2 - James at the Entrance to Rosewater Park
+4.3 - James Meets Maria
+4.4 - The Bowling Alley
+4.5 - Alleyway behind Heaven’s Night
+4.6 - Following Laura
+5.1 - Women’s Locker Room
+5.2 - Maria Takes a Break
+5.3 - James Finally Finds Laura 
+6.1 - Maria and the Basement’s Basement 
+6.2 - Trick or Treat
+6.3 - Ring in Refrigerator
+6.4 - The Long Hallway
+7.1 - On the Hospital Steps
+9.1 - Cafeteria Conversation with Eddie
+10.1 - James Finds Maria 
+10.2 - Angela’s Father
+10.3 - James’ Grisly Discovery
+10.4 - Final Meeting with Eddie
+11.1 - The Dock
+12.1 - Laura and the Letter 
+12.2 - Room 312
+13.1 - Recording (optional)
+13.2 - Final Meeting with Angela
+13.3 - Final Fight with the Pyramid Heads
+13.4 - Hallway Conversation (optional)
+14.1 - “Leave” Ending
+14.2 - “In Water” Ending
+14.3 - “Maria” Ending
+14.4 - “Rebirth” Ending
+14.5 - “Dog” Ending
+1 - Heaven's Night
+2 - Maria Meets Ernest
+3 - Ernest's Request
+4 - The Truth About Ernest
+5 - Maria Meets James
+6 - Misc
+I. East South Vale
+ 1.1 - The Observation Deck
+James is shown looking at himself in a restroom mirror.  After staring at himself for a short time he takes in a deep breath.
+
+James: Mary... Could you really be in this town?
+
+James walks outside of restroom and into the observation deck parking lot. Mary’s voice is then heard as James walks to the edge of the parking lot that overlooks Silent hill.
+
+Mary: In my restless dreams, I see that town. Silent Hill. You promised you’d take me there again someday, But you never did. Well I’m alone there now... In our ‘special place’... Waiting for you...
+James: I got a letter. The name on the envelope said ‘Mary.’ My wife’s name... It’s ridiculous, couldn’t possibly be true... That’s what I keep telling myself... A dead person can’t write a letter. Mary died of that damn disease three years ago. So then why am I looking for her? Our ‘special place’... What could she mean? This whole town was our special place. Does she mean the park on the lake? We spent the whole day there. Just the two of us, staring at the water. Could Mary really be there? Is she really alive... waiting for me?
+
+
+If you try to go back by the road:
+
+James: This is the road I came in on. There's no point in going back.
+
+If you try to go into the forest without a map:
+
+James: There's a map in the car. It might be a good idea to take it. 
+
+ 1.1 - The Observation Deck
+ 1.2 - The Graveyard
+On his journey into town, James walks into graveyard where he sees a girl examining one of the graves and approaches her.
+
+James: Excuse me, I...
+
+The girl steps back from grave and gasps in surprise.
+
+Girl: I, I’m sorry...I, I...  I was just....
+James: No, it’s okay.  I didn’t mean to scare you.  I’m kind of lost.
+Girl: Lost?
+James: Yeah, I’m looking for Silent Hill.  Is this the right way?
+
+James raises his left arm and points.
+
+Girl: Um yeah....  It’s hard to see with this fog, but there’s only the one road.  You can’t miss it.
+James: Thanks.
+Girl: But...
+James: Yes...?
+Girl: I think you’d better stay away.  This uh... this town... there’s something... "wrong" with it.  It’s kind of hard to explain, but...
+James: Is it dangerous?
+Girl: Maybe... And it’s not just the fog either...It’s....
+James: Okay I got it.  I’ll be careful.
+Girl: I’m not lying.
+James: No, I believe you.  It’s just...I guess I really don’t care if it’s dangerous or not.  I’m going to town either way.
+Girl: But why?
+James: I’m looking for... someone.
+Girl: Who, who, who is it?
+James: Someone... very important to me.  I’d do anything if I could be with her again.
+Girl: Me too.  I’m looking for my mama...  I mean my mother.  It’s been so long since I’ve seen her.  I thought my father and brother were here, but I can’t find them either...  I’m sorry... It’s not your problem.
+James: No, I... I hope you find them.
+Girl: Yeah, you too.
+
+James begins to walk towards the graveyard exit.
+If you go back and talk to the girl a second time the following dialogues take place:
+The girl turns around from looking at a grave.
+
+Girl: Aren’t you looking for someone?
+James: That’s right...
+Girl: What is it?
+James: Oh nothing... It sure is quiet here, huh.
+Girl: I guess... 
+
+After you pass the gate in the tunnel and try to go back:
+
+James: There's no reason to go back. I'm going to look for Mary... 
+
+ 1.2 - The Graveyard
+1.3 - First Encounter with an Enemy
+James walks into an area of the street where there are long streaks of blood and it looks like a body has been drug across the ground.
+
+James: Are these marks... blood!?
+
+Camera zooms to show a strange form farther down the street walking away from James until it disappears into the fog.
+
+James: That shadow just now...
+
+James follows another set of blood streaks he finds further down the street down into an alleyway and eventually ends up in some type of old, brick edifice which looks to be undergoing construction.  He hears a radio making strange noises within the construction site and picks it up to examine it. He eventually notices that the strange form he saw earlier in the street is in the construction area with him kneeling next to a dead body.  As the figure begins to walk towards James, he picks up a board with a nail in it and attacks the creature until it lays bleeding and motionless on the ground. James then examines the creature.
+
+James: Is it dead?  What the hell is it?  It’s not human...
+
+As James exits the construction area he remembers the radio he picked up and takes it out of his jacket pocket in order to examine it.
+
+James: Oh yeah.  ...This thing broken?
+
+A very staticy female voices comes on the radio as James looks it over.)
+
+Voice: Ja......I’m....e. Come to .......s.... ..........ting f........ .......id you k........ Jam......
+James: What the ...?  I’d better take it anyway.  I might need it.
+
+
+If you try not to follow the monster:
+
+James: That shadow just now bothers me. What was that...?
+
+1.3 - First Encounter with an Enemy
+II. Wood Side Apartments
+2.1 - The Unreachable Key
+James sees a key lying on the ground, but has to stick his arm through a metal bar partition in order to reach it.
+
+James: There’s a key on the ground on the other side of the bars. If I stretch my arm out, I just might be able to reach it.
+
+The player is then given the option of whether or not to pick up the key. If the player chooses “Yes” James gets down on his hands and knees and begins reaching out towards the key.  He is struggling to reach it when suddenly someone on the other side of the bars kicks the key out of his reach and then steps on James’ hand.
+
+James: Ow!!
+Little girl: Ha-ha!
+James: Hey wait!
+
+The little girl runs down the dark hallway on the other side of the metal bars until she disappears.
+
+James:  Damn it!
+
+2.1 - The Unreachable Key
+2.2 - Another Dead Body
+Once James enters the hallway of the second floor apartments after obtaining the handgun he hears a loud scream as he approaches the intersection of the middle north-south and the east-west hallways.
+
+James: What was that!?  Some kind of noise north of here....
+
+James then finds his way to room 208.  There he finds a dead body sitting in front of a television.  There is blood splattered across the corpses face and body, as well as all over the television and part of the wall.
+
+James:  Oh my God....  Who could’ve... 
+
+2.2 - Another Dead Body
+2.3 - James Meets Eddie
+James eventually makes his way to room 101 of the Woodside apartments.  Once he enters he finds a dead body hanging out of the refrigerator in the kitchen.
+
+James: What the...?  Who could have done this...
+
+There is also the sound of someone being sick coming from one of the rooms within the apartment.  When James enters the bathroom of the apartment, he finds a man throwing up into the bathroom toilet.
+
+Eddie: It wasn’t me!  I didn’t do it!
+James: Do what?
+Eddie: I didn’t do anything.  I, I swear!  He was like this when I got here...
+James: My uh, my name’s James.  James Sunderland.
+Eddie: Ummm... Eddie.
+James: Eddie, who’s that dead guy in the kitchen?
+Eddie: I didn’t do it.  I swear I didn’t kill anybody.
+James: You’re not friends with that red, pyramid thing, are you?
+Eddie: Red pyramid thing?  I don’t know what yer talkin’ about. Honest.  But I did see some weird-lookin’ monsters. They scared the hell outta me, so I ran in here...
+James: Well, I guess this place isn’t too safe either.  What happened here anyway?
+Eddie: Uh I, I told ya I don’t know.  I’m not even from this town.  I just, I just...
+James: You too, huh.  Something just brought you here, right?
+Eddie: Umm... yeah.  You could say that...
+James: Well whatever it is...  I think you better get out of here soon.
+Eddie: Yeah yer right.  What about you?
+James: I’ll leave as soon as I’m done here.  Eddie... be careful.
+Eddie: James, I...  I... um... You be careful too.
+
+
+If you go back to the bathroom to talk to Eddie a second time the following dialogue takes place:
+
+James: Eddie, are you okay?
+Eddie:  Yeah, I guess...
+
+2.3 - James Meets Eddie
+III. Blue Creek Apartments
+3.1 - Room 109 and Angela
+James eventually makes his way to the adjacent apartment building “Blue Creek Apartments”.  There, he walks into one of the bedrooms of apartment 109 and finds the girl he talked to earlier in the graveyard lying on the floor holding a butcher knife and staring at herself in a mirror that takes up the entire area of one of the walls.
+
+Girl: Oh... it’s you.
+James: Yeah...  I’m James
+Girl: Angela...
+James: Angela... okay.  I don’t know what you’re planning...  But there’s always another way.
+Angela: Really?  But...  You’re the same as me.  It’s easier just to run. Besides, it’s what we deserve.
+James: No... I’m not like you.
+Angela: Are you afraid? I, I’m sorry.
+James: It’s okay...  Did you find your mother?
+Angela: Not yet... She’s not anywhere.
+James: Did she live in this apartment building?
+Angela: I don’t know...
+James: So all you know is she lived in this town?
+Angela: What did you say?  How do you know that?
+James: Well...  I just figured, cause this is where you’re looking for her. How else would I know?
+Angela: Yeah...
+James: Am I right?
+Angela: I’m so tired...
+James: So why did you come to this town anyway?
+Angela: ...I, I’m sorry.  Did you find... the person you’re looking for?
+James: Not yet.
+
+James pulls a picture of Mary out of his jacket and stoops down to show it to Angela.
+
+James: Her name’s Mary.  She’s my wife...
+
+Angela looks at the picture and shakes her head indicating that she does not recognize Mary.
+
+Angela: I’m sorry.
+James: It’s okay.  Anyway, she’s dead.  I don’t know why I think she’s here.
+Angela: ...She’s dead?
+James: Don’t worry, I’m not crazy.  Least, I don’t think so...
+Angela: I’ve gotta find my mama...
+
+Angela stands up and begins walking towards the door.
+
+James: Should I go with you?  This town’s dangerous.  Now I know what you meant back there in the cemetery.
+Angela: I’ll be okay by myself.  Besides, I’d just slow you down.
+James: What about that?
+
+James points to the butcher knife Angela is still holding.
+
+Angela: Will you hold it for me?
+James: Sure.  No problem.
+Angela: If I kept it....  I’m not sure what I might do.
+
+James steps towards Angela and reaches his hand out to take the knife from her.  Angela steps back, screams, and points the knife at James.
+
+Angela:  No!! I’m sorry...I’ve been bad... Please don’t...
+
+Angela sets the knife on a stand before walking out of the room.  After watching her leave, James walks over to the stand and picks up the knife in order to examine it.
+3.1 - Room 109 and Angela
+IV. West South Vale
+4.1 - Second Meeting with the Little Girl
+After James makes his way out of the apartments, he walks down an alley and comes across the same little girl that stepped on his hand earlier.  She is sitting on a wall that separates the apartments from the alleyway and is humming.
+
+James: It was you, wasn’t it?  You’re the one who stepped on my hand.
+Little girl: (smiling) I don’t know...  Maybe I did...
+James: What’s a little girl like you doing here anyway?
+Little girl: Huh?  Are you blind or something?
+James: What’s that letter?
+Little girl: None of your business.
+
+The little girl stands up and begins to walk away.
+
+Little girl: You didn’t love Mary anyway!
+James: Wait!  How do you know Mary’s name!
+
+By the time James finishes his sentence the girl is gone from the wall and nowhere to be seen.
+4.1 - Second Meeting with the Little Girl
+4.2 - James at the Entrance to Rosewater Park
+After going through a tunnel, James reaches a large brick sign with the words “Rosewater Park” on it.
+
+James:  So this is that park...  Mary....Are you here? 
+
+4.2 - James at the Entrance to Rosewater Park
+4.3 - James Meets Maria
+James makes his way further into Rosewater Park until he reaches an area that looks out onto the water.  He sees a woman looking out at the lake and makes his way towards her.
+
+James: Mary?
+
+The woman turns around and smiles at James.
+
+James: No... you’re not.
+Woman: Do I look like your girlfriend?
+James: No.... my late wife.  I can’t believe it...  You could be her twin. Your face, your voice...  Just your hair and clothes are different.
+Woman: My name... is Maria.  I don’t look like a ghost.  Do I?  See?  Feel how warm I am.
+
+Maria then takes James’ right hand and places it on her chest.  James backs away and pulls his hand away from Maria.
+
+James: You’re really not Mary!
+Maria: I told you... I’m Maria.
+James: Sorry, I was confused.
+
+James begins to walk away from Maria in the direction he just came from.
+
+Maria: Where are you going?
+James: I’m looking for Mary.  Have you seen her?
+Maria: Didn’t you say she died?
+James: Oh yeah... three years ago.  But I got a letter from her.  She said she was waiting in our ‘special place’.
+Maria: And that’s here?  Anyway, I haven’t seen her.  Is this your only ‘special place’?
+
+What looks to be an old black and white movie clip of Mary is shown.  This seems to be one of James’ memories.
+
+James: Well, there’s the hotel, too, I guess.  The one on the lake... I wonder if it’s still there.
+Maria: The Lakeview Hotel?  Yeah, it’s still there.  So, the hotel was your ‘special place’, huh? I’ll bet it was.
+
+James begins to walk away and Maria reaches out to grab his arm.
+
+Maria:  Don’t get so mad.  I was just joking.  Anyway, it’s not that way. It’s this way.
+
+Maria points in the opposite direction that James just came from.  James begins to walk away from Maria in the direction she just pointed.  Maria follows him and James looks back.
+
+James:  You’re coming with me?
+Maria: You were gonna just leave me here?
+James: No but...
+Maria: With all these monsters around?
+James: No, I just...
+Maria: I’m all alone here.  Everyone else is gone...  I look like Mary, don’t I?  You loved her, right? Or maybe you hated her...
+James: Don’t be ridiculous.
+
+James begins to walk away and Maria follows him.
+
+Maria:  So it’s okay?
+James: Yeah, fine.
+
+
+If you go back after meeting Maria:
+
+Maria: The hotel isn't this way. Is that okay?
+
+4.3 - James Meets Maria
+4.4 - The Bowling Alley
+James and Maria eventually make their way to Pete’s Bowl-O-Rama” from Rosewater Park.  James begins to open the front door.
+
+Maria: I’ll wait here.  I hate bowling.
+James: I didn’t come here to play, you know.
+Maria: Hurry back, okay.
+
+James walks into the bowling alley and opens the only unlocked door into a storage room.  The scene cuts to Eddie and the little girl that James first saw in the apartments.  Eddie is sitting at a table eating pizza while the little girl is sitting next to him on the table.
+
+Little Girl:  So what’d you do?  Robbery, murder?
+Eddie: Nah, nothing like that.
+Little Girl: Hah!  You’re just a gutless fatso!
+Eddie: Whadda you have to say that for?
+Little Girl: I thought you said the cops were after you.
+Eddie: No, I just ran ‘cause I was scared.  I don’t know what the cops are doing.
+Little Girl: But if you did something bad, why don’t you just say you were sorry? Well... I guess I run away a lots too.
+Eddie: It’s no good.  They wouldn’t listen.  Nobody will ever forgive me.
+
+The scene cuts back to James in the storeroom, but Eddie’s voice is still heard talking to Laura.
+
+Eddie:  Did ya find the lady you’re looking for...  What’s her name... Mary?
+
+James eventually finds his way into the room with Eddie and Laura.  There, he finds Eddie still at the table eating pizza.  However, the little girl is gone from the table and not seen.
+
+James:  Eddie?
+Eddie: Oh... umm, yer...
+James: James.  We met in the apartment building.
+Eddie: Yeah, I remember, but...
+James: Are you alone here, Eddie?
+Eddie: Uh, no...
+
+A green bowling ball is shown rolling across the floor towards Eddie.  Eddie and James both look at the bowling ball and then follow the direction it came from with their eyes.  The little girl James met earlier in the apartments is shown walking towards the exit door.
+
+Little Girl: Bye-bye!
+
+The little girl then walks out the door.
+
+James:  Wait!  Come back!  Eddie!  Let’s go after her!
+Eddie: Huh?  Laura?  But why...?
+James: Laura?  Is that her name?
+Eddie: That’s what she said.
+James: This town is full of monsters!  How can you sit there and eat pizza!?
+Eddie: She said she was fine by herself...  She said a fatso like me would just slow her down.
+James: Forget you...
+
+
+The following dialogue takes place if James goes back and talks to Eddie a second time:
+
+James:  Who is that girl anyhow?
+Eddie: I don’t know.  All I know is her name.  I swear.
+
+
+James then exits to the bowling alley parking lot and finds that Maria is gone from where she was standing when he entered.  After he begins to walk outside Maria comes jogging up to him panting.
+
+James: Did a little girl run out of here?
+Maria: Yeah, she was too fast for me!  Aren’t you gonna go after her?                  
+
+
+The following dialogue takes place if James tries to leave in a different direction than the one Maria just came walking from:
+
+Maria: Where are you going?  This isn’t the way that little girl went.
+
+4.4 - The Bowling Alley
+4.5 - Alleyway behind Heaven’s Night
+James and Maria eventually find there way to a small alleyway behind the rear parking lot at Pete’s Bowl-O-Rama.  There, Maria points to a small gap between the intersection of a brick building and a concrete wall.
+
+Maria: She went through there.
+
+James looks through the small gap and it is made obvious that there is no way either he or Maria can fit through it.
+
+James: Is there any other way?
+Maria: Yeah, there is.
+
+Maria points to a metal door they passed leading into the brick building.
+
+Maria: Right through there.
+
+James then walks up to the door and tries to open it, but the knob on the door won’t turn.
+
+James: It’s no good.  It’s locked.
+
+Maria then pushes James aside and starts pulling keys out of various areas of her clothing and looks to be using them to unlock the door. It is not made clear whether Maria is actually using several different keys or if she just uses one and is messing around with James by pretending to use several. When Maria has finished unlocking the door she steps aside and puts her hand out signaling James that he can go ahead and open it.
+4.5 - Alleyway behind Heaven’s Night
+4.6 - Following Laura
+James and Maria eventually make their way out of Heaven’s Night Club and begin walking down one of the city streets. Once they have gone far enough down the street, a clip is shown of Laura walking up the steps to a hospital only a couple hundred feet from where James and Maria are standing.
+
+Maria:  Over there!
+
+Maria points towards the hospital just before Laura enters the building.
+
+The following text is shown if James continues down the street past the hospital Laura entered:
+
+James: I have to go after Laura.  I can’t just leave her all alone. Also...maybe she’ll be able to tell me something about Mary.
+
+
+If you try to leave the hospital after entering it (with Maria):
+
+Maria: Where are you planning to go? But we haven't found Laura yet.
+
+
+If you try to leave the hospital after entering it (without Maria):
+
+James: Maria and Laura are still in here. I can't just throw them away.
+
+4.6 - Following Laura
+V. Brookhaven Hospital
+5.1 - Women’s Locker Room
+James and Maria eventually make their way to the women’s locker room on the third floor of the hospital.  Sitting on a table in the room, James finds a teddy bear and decides to pick it up and examine it.
+
+James: Ow!!
+
+James drops the teddy bear.
+
+Maria: What’s wrong?
+James: I just pricked myself...
+Maria: Are you okay?
+James: Yeah.
+
+James pulls a needle out of the bear’s head.
+5.1 - Women’s Locker Room
+5.2 - Maria Takes a Break
+James and Maria find their way to room S3 on the second floor of the hospital.  James examines the room while Maria sits down on an old, dirty bed in the small room.  She looks very tired and is slumped over.
+
+Maria: James, wait a minute.
+
+Maria coughs a couple of times.
+
+Maria: I’m kinda tired....
+
+Maria produces a prescription bottle from her pocket, takes out a pill, and swallows it.
+
+Maria: It’s just a hangover.
+James: You should rest.
+
+Maria lays down on the bed.
+
+Maria: Mmm.  So comfy...
+James: I’m going to go look for her... for Laura.  I’ll be back as soon as I can. 
+
+
+If you talk to Maria a second time the following dialogue takes place:
+
+Maria: James, I wanna ask you something.  What if... what if you can’t find Mary?  What will you do?
+James: I haven’t thought about that. 
+
+
+If you leave and come back to talk to Maria a third time the following dialogue takes place:            
+
+Maria: (coughs a few times) I’ll be okay soon.  Did you find Laura?
+
+5.2 - Maria Takes a Break
+5.3 - James Finally Finds Laura
+James walks into room C2 on the first floor of the hospital, where he finds Laura on the floor between two beds playing with some teddy bears.  She is laughing and smiling, but hasn’t noticed that James has entered the room.
+
+James: Laura?
+Laura: Huh?  You know my name?
+James: Eddie told me.
+Laura: That big, fat blabbermouth.
+James: How do you know about Mary?
+Laura: What’s the big deal?
+James: Why can’t you just tell me?
+Laura: You gonna yell at me if I don’t?
+James: No... I won’t.
+Laura: I was friends with Mary...  We met at the hospital.  It was last year...
+James: You liar!! (apologetically) Laura, I...
+Laura: Fine!  Don’t believe me!
+James: But last year, Mary was already...  I’m sorry Laura.  Anyway, let’s go.
+
+Laura grabs her flashlight and begins to walk out with James.
+
+James: We can talk about this later.  This is no place for a kid. There are all sorts of strange things around here... I can’t believe you haven’t even gotten a scratch on you.
+Laura: Why should I?
+
+Laura and James walk out into the hospital hallway together.  They are walking through the hallway together when suddenly Laura reaches out and begins to pull on James’ arm in the opposite direction that they are walking.
+
+Laura:  Wait!  Wait!  There’s something I gotta get!
+James: Later, okay?
+
+James begins to start walking in the direction they were going again.
+
+Laura: But it’s really important!
+
+James turns around to face Laura.
+
+James:  What is it?
+Laura: A letter from Mary.
+James: Huh?
+Laura: I wanna go get it?  Is that okay?
+James: Yes, yes.
+
+James and Laura walk down to a room with double doors near the end of the hallway.  Laura takes a key out from her pocket, unlocks it, and opens the door.
+
+Laura: C’mon hurry up!
+
+James looks into the dark room.
+
+James:  Is it in there?
+Laura: Yeah.  In the back.
+
+James begins to walk slowly into the room while Laura stands outside holding the door open.
+
+James:  What’re you doing, Laura?
+Laura: It’s further back.  In the desk.
+
+James continues walking cautiously into the room until he is standing in the middle of it.  Suddenly the door is slammed shut behind him.
+
+James:  Laura, what are you doing!?
+
+James runs to the door and begins trying to open it, but the doors won’t move.  Suddenly the mouth of some strange creature is shown.
+
+Laura: Ha-ha!  I tricked you!
+James: Open the door, Laura.
+Laura: Why should I?  I’m a liar, right?  Want me to open it?  Huh? huh? Do ya?
+
+James has turned his back to the door and is facing towards the center of the room.  His hand is pounding on the door.
+
+Laura:  What’s the magic word?
+
+All of a sudden a strange looking caged monster falls down and is hanging off the ceiling.
+
+James:  Laura!
+Laura: Okay.  I guess I won’t open it...  I think I’ll just leave you like this...
+James: You snotty little brat!  Open up!
+Laura: Why you, you...
+James: Laura?
+Laura: You fartface!
+
+5.3 - James Finally Finds Laura
+VI. Nightmare Hospital
+6.1 - Maria and the Basement’s Basement
+James goes down to the basement and is about to begin climbing down a ladder into the basement’s basement when suddenly Maria walks through the door.
+
+Maria:  James!
+James: Mary! Oh Maria it’s you... I thought you were....  Sorry...
+
+Maria shakes her head.
+
+James:  Anyway, I’m glad you’re alive...
+Maria: (angrily) “Anyway”!?  What do you mean “Anyway”!? You don’t sound very happy to see me.  I was almost killed back there!  Why didn’t you try to save me?  All you care about is that dead wife of yours!  I’ve never been so scared in my whole life! You couldn’t care less about me, could you?
+James: No, I just...
+Maria: Then stay with me!  Don’t ever leave me alone!  You’re supposed to take care of me!
+
+Maria buries her face in James’ shoulder and he puts his arm around her. Maria pulls back and begins talking to James again.
+
+Maria:  So what about Laura?  Did you find her?
+James: Yeah, but she ran away.
+Maria: We’ve got to find her!
+James: You really seem to care about her.  Do you know her?
+Maria: I never met her before.  I just feel sorry for her.  She’s all alone...  And for some reason...   I feel like it’s up to me to protect her.
+
+6.1 - Maria and the Basement’s Basement
+6.2 - Trick or Treat
+While James and Maria are taking the elevator down to the second floor the sound of a microphone screeching begins coming from James’ radio.  Gradually the reception of the radio becomes better and an audience is heard cheering followed by an announcer’s voice.
+
+Announcer:  Hi there everybody, thanks for tuning in.  Welcome to another exciting edition of “Trick or Treat”!
+
+The audience is heard cheering.
+
+Announcer:  Here you either answer the questions correctly and win a great prize, or fail to answer correctly and receive the punishment. It all depends on you.  And our lucky, or should I say unlucky, challenger today is James!  James Sunderland!  Are you ready to play “Trick or Treat”?
+Okay, here’s your first question.  Merry-Go-Round, haunted house, roller coaster, ferris wheel and tea cups.  Silent Hill is home to a thrilling amusement park that both children and adults love. The question is:  What is the name of this amusement park?
+One, Fantasy Land.
+                  Two, Silent Hill Amusement Park.
+                  Three, Lakeside Amusement Park.
+Okay, quickly on to question number two.  Silent Hill witnessed a gruesome murder a few years back.  A brother and sister were playing in the road when they were attacked and chopped into pieces with an axe.  Torn flesh, smashed bones, splattered blood, and finally... What a terrible tragedy.  What a gruesome end to such innocent lives. What was the name of the murderer who committed this vile act?
+One, Walter Sullivan
+                  Two, Scott Fairbanks
+                  Three, Eric Gein
+                  Now for our third and final question.  South of the lake is a deserted old neighborhood called South Vale.  From there to Paleville, the central resort area northwest of the lake, there’s only one road you can take.  Just one road, no more. The third and final question is:  What is the name of that road?
+One, Bachman Road
+                  Two, Rendell Street
+                  Three, Nathan Avenue
+Well, that’s the last of our questions.  Have you got it all figured out?  When you know the answers, head to the storeroom on the 3rd floor to collect your prizes!  But be careful.  If you’re wrong....
+
+The announcer laughs.
+
+Announcer:  Well then everybody, thanks for tuning in.  See you again sometime.  Bye bye!
+
+Audience is heard cheering and the radio begins to die out until it is silent again.
+
+Maria:  What was that?
+
+6.2 - Trick or Treat
+6.3 - Ring in Refrigerator
+James and Maria make their way to the second floor Day Room.  Near the middle of the room is an old, metal refrigerator lying on its back.
+
+James:  There’s something that looks like a refrigerator.
+
+The player is then given the option of whether or not to open the refrigerator.  If the player chooses to open it the following dialogue takes place.
+                  James struggles to open the refrigerator grunting and pulling the handle with both of his arms.
+
+Maria: You can’t open it?
+James: Yeah... Maria, gimme a hand here.
+Maria: Come on...  You’re supposed to be the big man around here... How’s a little girl like me supposed to help?
+
+Maria walks over to the refrigerator and both she and James pull on the handle.  The refrigerator opens after only a couple of pulls.  Maria reaches in the refrigerator and pulls out a small ring.
+
+Maria:  What’s this?  Not very cute, is it?
+
+Maria hands the ring to James.
+
+Maria:  Here James, you take it.
+James: Thanks.
+
+6.3 - Ring in Refrigerator
+6.4 - The Long Hallway
+James and Maria eventually find there way to another room in the basement. They are walking down a long hallway when suddenly Pyramid Head appears behind Maria. They run down the long corridor until James reaches the elevator. However, the elevator doors quickly begin to close after him and Maria is only able to fit her hand through the small gap in the doors. James begins pulling on the doors attempting to open them.
+
+James: Open up!
+
+James attempts to open the doors by pushing some of the buttons on the panel within the elevator, but none of them work.  Maria screams “James” a couple of times.
+
+James: No!!
+Maria: James!
+
+Suddenly a large impact is heard from outside of the elevator where Maria is standing.  Maria’s hand goes limp and falls back from the gap between the doors.
+
+James: Maria!
+
+The elevator doors close.
+6.4 - The Long Hallway
+VII. Dark South Vale
+7.1 - On the Hospital Steps
+James walks through the hospital entrance onto the front steps.
+
+James: Maria’s dead.  I couldn’t protect her.  Once again, I couldn’t do anything to help.  Laura has run off somewhere.  Mary...  What... What should I do?  Are you... really waiting somewhere for me?  Or is this your way of taking...  I’m going to find Mary..... It’s the only thing I have left to hope for.
+
+7.1 - On the Hospital Steps
+IX. Toluca Prison
+9.1 -  Cafeteria Conversation with Eddie
+After finding his way to the Silent Hill Historical Society, James ends up jumping down several holes in order to continue his journey.  The second hole he jumps down leads him into a prison cafeteria where the following dialogue with Eddie takes place. James looks around the room and he eventually shines his light on Eddie. Eddie is sitting on the cafeteria floor holding a gun.
+
+Eddie:  Killin’ a person ain’t no big deal.  Just put the gun to their head...pow!
+
+A dead body is shown slumped over a table next to where Eddie is sitting.
+
+James:  You... you killed him?
+Eddie: B,but... it wasn’t my fault.  He, he made me do it!
+James: Calm down, Eddie.  Tell me what happened.
+Eddie: That guy... he, he had it coming!  I didn’t do anything.  He just came after me!  Besides he was making fun of me with his eyes!  Like that other one...
+James: Just for that you killed him?
+Eddie: Whadda ya mean ‘Just for that’!
+James: Eddie, you can’t just kill someone cause of the way they looked at you...
+Eddie: Oh yeah!  Why not?  Til now I always let people walk all over me. Just like that stupid dog.  He had it coming too!!
+James: Eddie!!
+Eddie: He he.  I was just jokin’, James.  He was dead when I got here. Honest.  Anyway, I gotta run.
+                    James:  You’re going out there alone?
+Eddie: Yeah.
+James: Eddie...
+
+Eddie then walks out of the cafeteria.
+9.1 -  Cafeteria Conversation with Eddie
+X. The Labyrinth
+10.1 - James Finds Maria
+After wandering through the beginning of the labyrinth, James finds Maria sitting in a room.  She looks to be unhurt and is casually sitting with her hands in her lap.  The room is divided by a set of prison bars with Maria being on one side and James on the other.
+
+James: You’re alive!  Maria...!  I thought that thing killed you...!  Are you hurt bad?
+Maria: Not at all, silly.
+James: ...Maria?  That thing... it stabbed you.  There was blood everywhere.
+Maria: Stabbed me?  What do you mean?
+James: It chased us to the elevator.  And then...
+Maria: James, what are you talking about?
+James: Just before!  Don’t you remember?
+Maria: James honey... Did something happen to you?  After we got separated in that long hallway?  Are you confusing me with someone else? (laughs)  You were always so forgetful...  Remember that time in the hotel...
+James: Maria...?
+Maria: You said you took everything... But you forgot that videotape we made.  I wonder if it’s still there...
+James: How do you know about that!  Aren’t you Maria?
+Maria: I’m not your Mary.
+James: So you’re Maria?
+Maria: I am... if you want me to be.
+
+James stands up.
+
+James:  All I want from you is an answer!
+
+Maria stands up and moves closer to the bars.
+
+Maria:  It doesn’t matter who I am... I’m here for you, James.
+
+Maria reaches through the bars and puts her hand on James’ face.
+
+Maria:  See?  I’m real.  Don’t you want to touch me?
+James: I don’t know....
+Maria: Come and get me.  I can’t do anything through these bars.
+James: Okay... stay right there.  I’ll be there soon.
+
+10.1 - James Finds Maria
+10.2 - Angela’s Father
+James makes his way through the labyrinth below the Historical Society.  He begins walking down a hallway which has newspapers scattered all over the floor and stuck to the walls when he suddenly hears Angela yelling.
+
+Angela:  No daddy!  Please!  Don’t!
+
+James walks into the room he heard Angela yelling from.  In the room he finds Angela sitting on the floor and a strange looking monster standing near her.  James shoots the monster until it lays motionless on the ground and then walks over to Angela.
+
+James:  Are you okay?
+
+Angela moans and then stands up and begins repeatedly kicking the monster. The monster growls.  After this she picks up a television that is sitting in the room and drops it on the monster.
+
+James:  Angela!  Relax!
+Angela: Don’t order me around!
+James: I’m not trying to order you.
+Angela: So what do you want then?  Oh I see, you’re trying to be nice to me, right?  I know what you’re up to.  It’s always the same.  You’re only after one thing.
+James: No, that’s not true at all.
+Angela: You don’t have to lie.  Go ahead and say it.  Or you could just force me.  Beat me up like he always did.
+
+Angela begins to kneel on the ground.
+
+Angela:  You only care about yourself anyway.
+
+Angela is crying and begins having dry heaves.
+
+Angela:  You disgusting pig.
+James: Angela...
+
+James puts his hand on Angela’s shoulder.
+
+Angela:  Don’t touch me!! You make me sick!
+
+Angela stands up and gains her composure once again.
+
+Angela:  You said your wife Mary was dead, right?
+James: Yes, she was ill...
+Angela: Liar!  I know about you....  You didn’t want her around anymore. You probably found someone else.
+
+Angela walks out into the hallway shutting the door behind her as she leaves.
+
+James:  That’s ridiculous... I never...
+
+10.2 - Angela’s Father
+10.3 - James’ Grisly Discovery
+James finds his way through the labyrinth and eventually into the other side of the room that he spoke to Maria in earlier.  When James walks in Maria is laying on the bed.
+
+James:  Maria?
+
+James begins to walk closer to the bed.  There is some blood shown on the bed near Maria’s arm.
+
+James:  Maria...?  Maria, no...   What happened to you?  Why... why...
+
+The camera pans up Maria’s body from her feet and shows a large blood stain on the bed as it progresses up.  Eventually Maria’s face is shown.  The left side of her face has been smashed in and is quite bloody.  James sits down next to Maria’s body, rests his elbows on the bed, and puts his hands over his face.
+
+James:  Mary...
+
+James leaves the room.
+
+ If you try to enter the room again once James has exited it the following text is shown:
+
+James:  There’s nothing else for me in this room...
+
+
+After this scene, if you try to go back through the labyrinth and climb the ladder, you will see the following text:
+
+James:  Even if I turn back now, where would I go to...? There's no road back and nowhere to run away to. 
+
+10.3 - James’ Grisly Discovery
+10.4 - Final Meeting with Eddie
+James continues his journey through the labyrinth and comes to a small room that looks to be some type of freezer.  Eddie is standing at one end of the room holding a gun and there are several dead bodies lying on the ground around him.
+
+James:  Eddie!  What are you doing?
+Eddie: What does it look like?  He always busted my balls. “You fat disgusting piece of shit!  You make me sick! Fat-ass, yer nothin’ but a waste of skin. You’re so ugly, even you’re mama don’t love you!” Well maybe he was right.  Maybe I am nothing but a fat, disgusting piece of shit.  But ya know what?  It doesn’t matter if your smart, dumb, ugly, pretty...it’s all the same once yer dead.  And a corpse can’t laugh.  From now on, if anyone makes fun of me... I’ll kill em. Just like that.
+
+Eddie puts the gun to his head demonstrating the last statement he made. Eddie then turns around and begins to walk out of the room.
+
+James: Eddie, have you gone nuts?
+
+Eddie slowly turns around.
+
+Eddie: I knew it.  You too.  You’re just like ‘em, James.
+James: Hey I didn’t mean anything.
+Eddie: Don’t bother.  I understand.  You’ve been laughin’ at me all along, haven’t you?  Ever since we first met.  I’ll kill you, James.
+
+Eddie raises his gun up, points it at James, and shoots.  James dodges the bullet.  James and Eddie then fight until Eddie flees into the next room. After James follows Eddie into the next room the following dialogue takes place. James walks into some type of meat locker that has animal carcasses hanging throughout the room.  Eddie begins speaking but James is unable to see exactly where he is in the room.
+
+Eddie:  Do you know what it does to you, James?  When you’re hated, picked on, spit on, just cause of the way you look.  After you’ve been laughed at your whole friggin’ life.  That’s why I ran away after I killed the dog.  Ran away like a scared little girl.  Yeah, I killed that dog.  It was fun.  It tried to chew its own guts out!  Finally died all curled up in a ball.  Then “He” came after me, I shot him too.  Right in the leg.  He cried more than the dog!
+
+James hears a loud bang and quickly turns around to see what’s behind him. When he turns around nothing is there.
+
+Eddie:  He’s gonna have a hard time playing football on what’s left of that knee.
+James: You think it’s okay to kill people!  You need help, Eddie!
+Eddie: Don’t get all holy on me, James.  This town called you, too.  You and me are the same.  We’re not like other people.  Don’t you know that?!
+
+Eddie finally walks out of his hiding place behind James.
+
+Eddie:  Let’s party!
+
+Eddie and James then fight until Eddie falls to the ground.
+
+James:  Eddie?
+
+James walks over to Eddie’s body and looks over it.
+
+James:  Eddie!  I... I killed a... a human being... A human being... Mary... Did you really die three years ago...?
+
+10.4 - Final Meeting with Eddie
+XI. Toluca Lake
+11.1 - The Dock
+James makes his way out of the Historical Society, across Toluca Lake by rowboat, and docks by the Lakeside Hotel.  James gets out of the boat and looks up at the hotel.
+
+James:  This place hasn’t changed at all in three years...
+
+11.1 - The Dock
+XII. Lake View Hotel
+12.1 - Laura and the Letter
+James finds his way to the “Restaurant Lake Shore” in the hotel.  When James begins to leave the room, a loud sound is heard from the piano.  James looks over and Laura is hiding behind the piano hitting random keys.
+
+Laura:  Did I scare you?
+James: Yeah, you did.
+
+Laura jumps out from behind the piano, walks past James and sits down on a chair near him.
+
+Laura:  You’re here to find Mary, aren’t you, James?  Well... have you?
+James: No... is that why you’re here, too?
+Laura: She’s here, isn’t she?  If you know where she is, tell me!  I’m tired of walking.
+James: I wish I knew...
+Laura: But she said it in her letter...
+James: What letter!?
+
+Laura stands up, reaches in her pocket, and pulls out a letter.  She extends her arm out towards James.
+
+Laura:  ...Wanna read it?
+
+James walks over and takes the letter from Laura.
+
+Laura:  But don’t tell Rachel, okay?
+James: Who’s Rachel?
+Laura: She was our nurse.  I took it from her locker.
+
+James reads the letter and the following text appears on the screen.
+
+My dearest Laura, I’m leaving this letter with Rachel to give to you after 
+                    I’m gone.  
+I’m far away now.  In a quiet beautiful place.  Please forgive me for not saying goodbye before I left. 
+Be well, Laura.  Don’t be too hard on the sisters. 
+And Laura, about James... I know you hate him because you think he isn’t nice to me, but please give him a chance.  
+It’s true he may be a little surly sometimes, and he doesn’t laugh much.  But underneath he’s really a sweet person.  
+Laura... I love you like my very own daughter.  If things had worked out differently, I was hoping to adopt you.  
+Happy 8th birthday, Laura.  
+Your friend forever, Mary
+
+When James finishes reading the letter, Laura is drawing pictures on a fogged up window leading out onto the restaurants porch.
+
+James:  Laura... How old are you?
+Laura: Um, I turned eight last week.
+James: So Mary couldn’t have died... three years ago...  Could she really be here?  Is this the “quiet, beautiful place” she was talking about?
+Laura: Me and Mary talked a lot about Silent Hill.  She even showed me all her pictures.  She really wanted to come back.  That’s why I’m here. Maybe you’ll get it if you see the other letter...  The one Mary... huh?
+
+Laura reaches in her pockets and can’t find the other letter.
+
+Laura:  I must have dropped it!
+James: Laura...
+Laura: I gotta find it!
+
+Laura runs past James and out of the room.
+
+James:  Laura!
+
+12.1 - Laura and the Letter
+12.2 -  Room 312
+James eventually makes his way into room 312 where he plays the video that he and Mary forgot in the hotel 3 years ago.  Once the video begins to play, Mary is shown standing next to one of the windows in room 312.
+
+Mary:  Are you taping again?  C’mon...
+
+Mary sits down in a chair next to the window and looks out.
+
+Mary: I don’t know why, but I just love it here.  It’s so peaceful.  You know what I heard?  This whole area used to be a sacred place.  I think I can see why.  It’s too bad we have to leave...  Please promise you’ll take me again, James.
+
+Mary begins coughing. The video starts to become gritty and it looks as though the footage of Mary has been copied over some other footage. Eventually a shaky picture of Mary is shown, lying in bed. James walks up to the bed and looks over her. He leans over and seems to be talking to her, although there is no audio. Suddenly James reaches for the pillow behind Mary’s head. The video footage then becomes very scrambled showing bits and pieces of the footage in room 312 as well as some other very grainy footage of James at Mary’s bedside. The grainy footage seems to show James smothering Mary, although it is so unclear it is hard to tell. Eventually the video footage ends and there is only static shown on the television. 
+James is then shown sitting in a seat in front of the television with his head down. James says Mary’s name (although, it is not captioned). He stays in this position for quite a while until Laura walks into the room. She walks between James and the television and then stands there and begins talking to James.
+
+Laura:  So there you are, James.  Did you get the letter?  Did you find Mary? If not, let’s get going already.
+
+Laura pushes James’ shoulders.
+
+Laura:  Okay?
+
+James looks up.
+
+James: Mary’s gone.  She’s dead.
+Laura: Liar!  That’s a lie!
+James: No, that’s not true...
+Laura: She... she died ‘cause she was sick?
+James: No.  I killed her.
+
+Laura waits a while before responding.
+
+Laura:  You killer!  Why’d you do it?!  I hate you!!  I want her back!  Give her back to me!
+
+Laura pushes James’ shoulder.
+
+Laura: I knew it!  You didn’t care about her!  I hate you, James!
+
+Laura hits James’ shoulder several times.
+
+Laura:  I hate you!  I hate you!  I hate you! She was always waiting for you... why... why...
+
+James shakes his head back and forth while looking down.
+
+James: I’m sorry...
+
+James stands up.
+
+James: The Mary you know isn’t here.
+
+Laura walks out of the room.
+
+James: Laura, I’m sorry.
+
+James slumps back down in the chair.  Suddenly, Mary’s voice can be heard over the radio, although it is quite staticy.
+
+Mary: James.  Where are you?  I’m waiting.  I’m waiting for you.  Please come to me.
+
+James stands up.
+
+Mary:  Do you hate me?  Is that why you won’t come?
+James: That voice...
+Mary: Please hurry.  Are you lost?  I’m near.  I’m waiting nearby, James. Please.  I want to see you, James.  Can’t you hear me?  James... Please, James...  James...  James...  James...
+
+The radio finally dies out.
+12.2 -  Room 312
+XIII. Nightmare Hotel
+13.1 -  Recording (optional)
+If James makes his way to the Reading Room in the alternate hotel there is a set of headphones on a desk by the window.  If he decides to listen to them the following dialogue is heard.
+
+James:  Mary’s going to die...?  You... you must be joking...
+
+Suddenly the camera zooms out the window and to show a bed floating in the air.  This serves as the backdrop to the entire recorded conversation.
+
+Doctor:  I’m very sorry.
+James: But you’re a doctor.  It’s your job to heal people!  How can you just 
+                    let her die!
+Doctor: Please calm down. As her doctor, I promise I’ll do what I can. But... there’s still no effective treatment for her condition.
+James: How long does she have?
+Doctor: I’m afraid I’m not sure.  3 years at most....  Perhaps 6 months... It’s impossible to say with certainty.
+
+13.1 -  Recording (optional)
+13.2 -  Final Meeting with Angela
+James makes his way through a door to a room where there should be a metal staircase, but when he walks in there is a wooden, carpeted staircase and the whole room is on fire. Angela is standing on the staircase looking at a strange picture on the wall.  James walks up the staircase to talk to Angela. Angela turns around and faces James.
+
+Angela:  Mama!  Mama, I was looking for you.
+
+Angela walks towards James, while James backs away from her.
+
+Angela: Now you’re the only one left.  Maybe then....  Maybe then I can rest.
+
+James continues to back away from Angela.
+
+Angela:  Mama, why are you running away?
+
+Angela puts her hands on James’ face, then on his shoulders, and then back on his face.  She examines his face closely and then backs away.
+
+Angela:  You’re not Mama.  It’s you...  I, I’m sorry...
+James: Angela, no....
+Angela: Thank you for saving me...  But I wish you hadn’t.  Even Mama said it...  I deserved what happened...
+James: No Angela, that’s wrong!
+Angela: No.  Don’t pity me.  I’m not worth it....
+
+The tone of Angela’s voice suddenly changes.
+
+Angela:  Or maybe you think you can save me?  Will you love me?  Take care of me?  Heal all my pain?
+
+James doesn’t respond.
+
+Angela:  That’s what I thought.  James.  Give me back that knife.
+
+Angela reaches her hand out towards James.
+
+James:  No... I, I won’t.
+Angela: Saving it for yourself?
+
+Angela begins to walk up the fiery staircase.
+
+James: Me?  No...  I’d never kill myself.... It’s hot as hell in here.
+Angela: You see it too?  For me, it’s always like this.
+
+13.2 -  Final Meeting with Angela
+13.3 - Final Fight with the Pyramid Heads
+James walks into the middle of a strange room and then hears Maria’s voice calling out to him.
+
+Maria:  James!
+
+When he looks up he sees Maria and two Pyramid Heads on top of a platform. Maria is being held upside down in some type of metal contraption and there is a Pyramid Head on either side of her.
+
+James:  Stop!  Leave her alone!  Leave us both the hell alone!
+
+One of the Pyramid Heads rams a spear through Maria’s back, presumably killing her.  After seeing this, James drops to his knees.
+
+James: I was weak.  That’s why I needed you....  Needed someone to punish me for my sins....  But that’s all over now....  I know the truth.... Now it’s time to end this.
+
+James then fights both the Pyramid Heads.
+
+If you try to go back through the doors during the fight: 
+
+James: I can't turn back now. This is no time to run away. 
+
+13.3 - Final Fight with the Pyramid Heads
+13.4 - Hallway Conversation (optional)
+James makes his way to a long hallway where he hears a conversation that he and Mary must have had while Mary was still alive.  A player can exit the hallway before the conversation is over.
+
+James: Mary.
+Mary: What do you want, James?
+James: I, uh I brought you some flowers...
+Mary: Flowers?  I don’t want any damn flowers.  Just go home already.
+James: Mary, what are you saying?
+Mary: Look!  I’m disgusting!  I don’t deserve flowers.  Between the disease and the drugs, I look like a monster.  Well what are you looking at? Get the hell out of here.  Leave me alone already!  I’m no use to anyone.  I’ll be dead soon anyway.  Maybe today, maybe tomorrow.... It’s be easier if they’d just kill me.  But I guess the hospital is making a nice profit off me, they want to keep me alive....  Are you still here?  I told you to go!  Are you deaf?!  Don’t come back!
+
+Mary pauses for a moment.
+
+Mary:  James....  Wait....  Please don’t go....  Stay with me.  Don’t leave me alone.  I didn’t mean what I said.  Please James....  Tell me I’ll be okay.  Tell me I’m not going to die.  Help me...
+
+
+                  If you try to go back to the hallway:
+
+James: I can't turn back now. This is no time to run away.
+
+13.4 - Hallway Conversation (optional)
+XIV. Endings
+14.1 - “Leave” Ending
+After climbing a long set of metal stairs, James finds his way into a strange room with no ceiling and a metal floor.  There is a bed sitting near the middle of the room.  A woman who looks like Mary is looking out the window.  James walks up to the woman at the window.
+
+James: Mary!
+
+The woman turns around and she and James look at each other for a short time.
+
+Maria:  When will you ever stop making that mistake!  Mary’s dead.  You killed her.
+James: Maria...?  It’s you...  But I don’t need you anymore.
+Maria: What?  You must be joking!  But I can be yours...  I’ll be here for you forever.
+
+Maria walks towards James.
+
+Maria:  And I’ll never yell at you or make you feel bad.  That’s what you wanted.  I’m different than Mary...  How can you throw me away?
+James: I understand now.  It’s time to end this nightmare.
+Maria: No!  I won’t let you!  You deserve to die too, James.
+
+Maria then transforms into the final boss and she and James fight.  After James has caused enough damage to her, she falls to the ground, but is still alive.  Maria will repeat James’ name over and over again until she is finally killed by one last blow. After Maria is killed the scene switches.  James is sitting next to Mary’s bed in what is probably their home.
+
+James:  Mary..
+
+Mary coughs a couple of times.
+
+Mary: James...
+James: Forgive me...
+Mary: I told you that I wanted to die, James.  I wanted the pain to end.
+James: That’s why I did it, honey.  I just couldn’t watch you suffer. No!  That’s not true...  You also said that you didn’t want to die. The truth is I hated you.  I wanted you out of the way.  I wanted my life back....
+Mary: James... if that were true, then why do you look so sad?
+James: Mary...
+Mary: James...  Please... please do something for me.
+
+Mary reaches at her side and grabs a letter and then hands it to James.
+
+Mary:  Go on with your life.
+
+The scene switches to a foggy grave yard and Mary begins to read her letter to James. After the letter has been read James and Laura are seen walking through the graveyard together. After this, the scene fades to black and the credits roll.
+14.1 - “Leave” Ending
+14.2 - “In Water” Ending
+After climbing a long set of metal stairs, James finds his way into a strange room with no ceiling and a metal floor.  There is a bed sitting near the middle of the room.  A woman who looks like Mary is looking out the window.  James walks up to the woman at the window.
+
+James:  Mary...?
+
+The woman turns around and she and James look at each other for a short time.
+
+Maria:  Wrong again.  Mary’s dead.  You killed her.
+
+Maria walks closer to James.
+
+James:  Maria.  Maria... I’m done with you.
+Maria: What do you mean?  But I can be yours...  I’ll be here for you forever.  And I’ll never yell at you or make you feel bad.
+
+Maria puts her hand up towards James’ face, but he pulls away.
+
+Maria: That’s what you wanted.
+James: Now I understand.  The problem is... you’re not Mary.
+Maria: No James.  I won’t let you!  I’ll never let you have your Mary back!
+
+Maria then transforms into the final boss and she and James fight.  After James has caused enough damage to her, she falls to the ground, but is still alive.  Maria will repeat James’ name over and over again until she is finally killed by one last blow. After Maria is killed the scene switches.  James is sitting next to Mary’s bed in what is probably their home.
+
+James: Mary...
+Mary: James...
+
+Mary begins coughing.
+
+James:  Forgive me....
+Maria: I told you I wanted to die, James.  I wanted the pain to end.
+James: That’s why I did it honey.  I just couldn’t watch you suffer.
+
+Mary begins coughing again.
+
+James: No, that’s not the whole truth.  You also said that you didn’t want to die.  The truth is... part of me hated you.  For taking away my life...
+Mary: You killed me and you’re suffering for it.  It’s enough, James.
+
+Mary reaches at her side and grabs a letter and then hands it to James. After James takes the letter Mary begins coughing again.
+
+James: Mary...
+Mary: James...
+
+James reaches out and takes Mary’s hand and puts it against his face.  Mary is coughing and seems to be gasping for breath when finally her hand goes limp and James drops it from his face.) (James stares at Mary for a moment and then picks her up off of the bed and carries her out of the room.  The screen goes black and a car door can be heard closing.
+
+James: Now I understand.  The real reason I came to this town.
+
+The sound of a car starting is then heard.
+
+James:  I wonder what was I afraid of?  Without you, Mary, I’ve got nothing....
+
+A car is heard racing along a road for a short time.
+
+James: Now we can be together....
+
+Mary’s letter is then read against a background of what looks to be an underwater scene. At the end of the letter the background fades to black and then the credits roll.
+14.2 - “In Water” Ending
+14.3 - “Maria” Ending
+After climbing a long set of metal stairs, James finds his way into a strange room with no ceiling and a metal floor.  There is a bed sitting near the middle of the room and a woman who looks like Mary is sitting on the bed looking out a window in the room.  James walks up to the woman on the bed.
+
+Mary: James, I’ve been waiting.
+James: Mary...  I’m sorry it took so long.
+Mary: Didn’t you want to see me?
+James: Yes, I wanted to see you.  Even an illusion of you....  That’s why I came here.
+Mary: That’s not true, is it?  You killed me...
+James: I couldn’t watch you suffer.
+Mary: Don’t make excuses, James.  I know I was a burden on you.  You must have hated me.  That’s why you got rid of me.
+James: It’s true... I may have had some of those feelings.  It was a long three years... I was... tired.
+Mary: And that’s why you needed this “Maria” person?
+
+Mary gets off the bed and stands up next to James.
+
+Mary:  James, do you really think I could ever forgive you for what you did?
+
+Mary then transforms into the final boss and she and James fight.  After James has caused enough damage to her, she falls to the ground, but is still alive.  Mary will repeat James’ name over and over again until she is finally killed by one last blow. After Mary is killed the scene switches.  James is standing in the part of Rosewater Park where he first met Maria, looking out at the water.
+
+Maria: You killed Mary again?
+James: That wasn’t Mary.  Mary’s gone.
+
+Maria walks up next to James.
+
+James:  That was just something I...  Maria?  Maria.
+Maria: What, James?
+James: I want you...  I want you with me...
+Maria: Are you sure?
+James: C’mon.  Let’s get out of here.
+
+James begins to walk away, but Maria grabs his arm and he turns around.
+
+Maria:  What about Mary?
+James: It’s okay, I have you.
+
+Maria then reaches in her pocket, pulls out a letter, and hands it to James. The scene switches to a background of the observation deck where James started the game and Mary’s letter is read.  After the letter is done being read by Mary, Maria and James are shown walking up the steps and through the parking lot towards James’ car.  Once Maria and James get about halfway from the steps to the car Maria begins coughing.
+
+James: You’d better do something about that cough...
+
+The scene then fades to black and the credits roll.
+14.3 - “Maria” Ending
+14.4 -  “Rebirth” Ending
+After climbing a long set of metal stairs, James finds his way into a strange room with no ceiling and a metal floor.  There is a bed sitting near the middle of the room.  A woman who looks like Mary is looking out the window.  James walks up to the woman at the window.
+
+Maria: James.
+James: Maria.  I’m finished with you.
+Maria: What!?  But I’m what you wanted!  Mary’s dead.  Don’t you understand? She’s not coming back!  But I can be yours...  I’ll be here for you forever.  I’ll never hurt you like she did!  So why don’t you want me!
+James: Because your not Mary.  Without Mary, I just can’t go on.
+Maria: James.  C’mon James.  You must be joking.
+
+Maria then transforms into the final boss and she and James fight.  After James has caused enough damage to her, she falls to the ground, but is still alive.  Maria will repeat James’ name over and over again until she is finally killed by one last blow. After Maria has been killed the scene changes to James rowing the boat he used earlier.
+
+James:  Mary.  You look so peaceful.  Forgive me for waking you.  But without you, I just can’t go on.  I can’t live without you, Mary.  This town, Silent Hill....  The Old Gods haven’t left this place....  And they still grant power to those who venerate them....  Power to defy even death....
+
+The camera shows James reaching a small island.  There is a dock at the island and also what looks to be a small house.
+
+James:  Ah...  Mary.
+
+James continues to row the boat until he disappears behind the island.  The screen then fades to black and the credits roll.
+14.4 -  “Rebirth” Ending
+14.5 -  “Dog” Ending
+James opens the door and the room is shown. It is a brightly lit and very colorful room. There are several computerized devices throughout the room and at the back end of the room there is what looks to be a control panel. There is a dog at the control panel with a headset on pulling various levers back and forth. Also at the control panel, there is a monitor with pictures of James and Maria shown on it. After looking over the room, James says “So it was you all along” in Japanese and then drops to his knees. After this the dog comes over to James and starts licking his face, then the credits roll (which are the best part in my opinion).
+14.5 -  “Dog” Ending
+by Desta (Silent Hill 2 Script Guide)
+Born from a Wish
+1 - Heaven's Night
+Maria is sitting in a small room in the "Heaven's Night" Club. She is holding a revolver in her hand.
+
+Maria: When I woke up, I was all alone. Everyone's gone... Is it because of those monsters? What do I do now? Do I fight and live? Or do those monsters get me? I don't have any reason to go on living, but... 
+
+She gets out of her chair and walks across the room.
+
+Maria: But I'm scared to die. I'm so afraid of pain. Should I...run away? I want to find somebody. I don't like being alone... But...but is there anyone left alive?
+
+
+
+                  If you try to leave the club without a weapon:
+
+Maria: Isn't there a weapon besides this gun? I'm a little nervous with just this. 
+
+1 - Heaven's Night
+2 - Maria Meets Ernest
+Maria opens the door slightly. Someone on the other side slams it shut again.
+
+Maria: Ah... Is somebody...there?
+
+She knocks on the door.
+
+Maria: Open up. 
+
+She knocks again.
+
+Maria: Hello?
+
+She knocks again.
+
+Ernest: Stop it. You're disturbing me.
+Maria: Whew, thank god. I finally found somebody. Can you open the door?
+Ernest: No.
+Maria: But why?
+Ernest: Is it really necessary for me to answer all your tedious questions?
+Maria: Yes.
+Ernest: Oh, I didn't know that. I want to be alone. Other people just irritate me.
+Maria: I just want to see another human face. Do you know what's happening in this town? There's no one here...just monsters.
+Ernest: Yes, I know. But so what? It has nothing to do with me. No one here means there's no one to disturb me.
+Maria: You want to be alone in this insane asylum?
+Ernest: Yes, exactly. But how can you say that it is this town that is insane? Perhaps it is we who are insane. Both of us...hopelessly insane. Are you satisfied? Would you leave me alone?
+Maria: My name is...Maria. What's your name?
+
+There's no answer. Maria knocks again.
+
+Ernest: Ernest.
+Maria: Hemingway?
+Ernest: Baldwin.
+Maria: Ernest... I'll be back. 
+
+
+The following dialouge takes place is you try to go through the door once more.
+
+Maria: Ernest, are you there? 
+
+No one answers.
+
+Maria: No I guess not...
+
+2 - Maria Meets Ernest
+3 - Ernest's Request
+Maria knocks on the bedroom door.
+
+Maria: Do you know a little girl named Amy?
+Ernest: Why do you ask me that?
+Maria: This letter, "TO MY DEAREST DADDY"... It's from a girl named Amy Baldwin. You're "DADDY"?
+Ernest: Yes. Where did you find that?
+Maria: Up in the attic.
+Ernest: Oh... What a fool... Now...when it's too late, I finally understand why. Why she was there... Why she was holding that empty envelope when she...when she fell...
+Maria: Ernest, Amy...She isn't...? I'm sorry. I'm sorry I reminded you.
+Ernest: No need to apologize. You didn't remind me. I've never forgotten... Maria. Some things we forget and some things we can never forget...... It's funny...I'm not sure which one is sadder. It's been 10 years, but I still......
+Maria: Ernest...I'm sorry. I didn't know...
+Ernest: No, it's fine. Maria, that letter...
+Maria: I'll leave it here.
+
+Maria puts the card under the door and Ernest takes it.
+
+Ernest: Thanks. Maria....? So you must be...... That's why. That's why you could see me.
+Maria: Huh?
+Ernest: So perhaps that means that I can hope for a miracle as well?
+Maria: What do you mean?
+Ernest: In the apartment next door, there is a bottle containing a white liquid. I don't know exactly where it is, but I know it's in there somewhere. I must have it.
+Maria: You...want me to get it for you?
+Ernest: Please...
+Maria: Why don't you just get it yourself? 
+Ernest: If I could, believe me I would. But I......
+Maria: ......White?
+Ernest: I'll open the stairway door.
+Maria: Ernest, do you really believe it will work?
+Ernest: I don't know...
+Maria: Well, that's okay. I don't mind fightin' for an impossible cause. Anyway it beats just giving up and doing nothing.
+
+Maria starts walking away.
+
+Ernest: Maria...thank you.
+
+
+The following dialouge takes place if you try to go through the door once more.
+
+Maria: You think miracles really can happen? 
+Ernest: This is Silent Hill.
+Maria: Yeah, maybe that's the problem.
+Ernest: Oh Maria. You think too much. I'm from here. This is my town. 
+
+3 - Ernest's Request
+4 - The Truth About Ernest
+Maria returns to the bedroom door with the white liquid.
+
+Ernest: Thank you Maria. That's the only item I couldn't get myself. By the time I found out about it, I could no longer leave this house. So long...
+Maria: Yes, but will...
+Ernest: Maria, the Gods are here. You know it too. You were born in this town.
+Maria: I'm not sure 'God' is the right word.
+Ernest: Do you believe in Fate?
+Maria: Not really.
+Ernest: That's fine then.
+Maria: Ernest, can I open this?
+Ernest: This is a dead end. There's nothing beyond here.
+Maria: I know. So... What if I had said I believed in Fate?
+Ernest: That James, he's a bad man.
+Maria: James...? Y, yes......I know.
+Ernest: He's looking for the you that isn't you.
+Maria: Because he's kind. Do you...know something?
+Ernest: Yes..... Maria, you're...
+Maria: Anyway that's just what you think. You don't really know anything. That's fine.
+Ernest: OK.
+
+Maria opens the door and enters the room. It is completley empty. Amy's present is on the table. It's been unwrapped. Maria looks around the room for a while and then leaves.
+4 - The Truth About Ernest
+5 - Maria Meets James
+Maria is walking down a narrow road. She stops and holds her gun to her head. After a while she throws the gun over a wall and continues walking.
+
+Maria: James......
+
+The screen goes black.
+
+James: Mary? No... you're not.
+Maria: Do I look like your girlfriend? My name... is Maria.
+
+5 - Maria Meets James
+6 - Misc
+If you try to enter Brookhaven Hospital:
+
+Maria: There's nothing for me to do here. 
+
+If you try to leave the Blue Creek Apartments through another exit (where James fights with Pyramid Head for the first time):
+
+Maria: This should take me to the alley that runs to the park. But first I'd better take care of my promise to Ernest. 
+
+6 - Misc
+by Niai Mitch (Born From A Wish Game Script)
+Home
+About
+Links
+Contact
