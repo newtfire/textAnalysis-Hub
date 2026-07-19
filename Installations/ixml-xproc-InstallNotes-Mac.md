@@ -527,7 +527,7 @@ Now, we need to make sure Morgana’s executable script (`Morgana.sh`) can locat
 	#Local customization
 	SAXON_JAR=/Users/USERNAME/Documents/GitHub/xmlcalabash-VERSION/lib/Saxon-HE-VERSION.jar
 	COFFEEGRINDER_JAR=/Users/USERNAME/Documents/GitHub/coffeegrinder-VERSION/CoffeeGrinder-VERSION.jar
-	COFFEEFILTER_JAR=/Users/USERNAME/Documents/GitHub/coffeefilter-VERSION/CoffeeFilter-VERSION.jar
+	COFFEEFILTER_JAR=/Users/USERNAME/Documents/GitHub/coffeefilter-VERSION/coffeefilter-VERSION.jar
 	BLITZ_JAR=/Users/USERNAME/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar
 	```
 
