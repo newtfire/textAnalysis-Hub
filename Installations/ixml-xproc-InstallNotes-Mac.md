@@ -199,7 +199,7 @@ CoffeePot is a command-line ixml processor. It's good for simple grammars and sm
 
 1. Visit the NineML releases page:
 	<https://codeberg.org/NineML/nineml/releases>
-1. Download the CoffeePot ZIP file from the latest release.
+1. Scan down the page until you find the **specific CoffeePot ZIP file** from the latest release. Download that ZIP.
 1. Unzip it into your GitHub directory.
 
 ### Creating an Alias for CoffeePot
@@ -351,7 +351,7 @@ Calabash is an XProc 3.0 processor developed by the same people that made the Co
 
 1. Visit:
 	<https://codeberg.org/xmlcalabash/xmlcalabash3/releases>
-1. Download the latest release ZIP.
+1. Look for the latest release ZIP with the name **xmlcalabash-3.X.Y.zip** where “X” and “Y” are the release number (for example, 3.0.0). Download that specific ZIP.
 1. Unzip it into your GitHub directory.
 1. Navigate to the directory **(replace `VERSION` with the latest version that you downloaded—the version in the unzipped directory name)**:
 
