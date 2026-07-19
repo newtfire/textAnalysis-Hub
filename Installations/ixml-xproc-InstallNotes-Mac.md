@@ -414,6 +414,13 @@ Change that value to wherever your local dot is stored (as in `dot="/opt/local/b
 	```shell
 	calabash helloWorld.xpl
 	```
+ 1. Do you see a permissions error? If you do, we need to set execute permissions on the xmlcalabash.sh file. In your terminal (still navigated to the `xmlcalabash-VERSION` directory) type in:
+ 
+ ```shell
+ chmod 775 xmlcalabash.sh
+```
+
+Now try running the previous step again: `calabash helloWorld.xpl`
 
  1. You should see the following message:
 
