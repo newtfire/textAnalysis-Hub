@@ -519,7 +519,7 @@ Now, we need to make sure Morgana’s executable script (`Morgana.sh`) can locat
 	nano Morgana.sh
 	```
 
-1. Locate the section marked `#Local customization`.
+1. Somewhere near the top of the file, add a section marked with the comment: `#Local customization`.
 
 	Add and adjust the following lines **(replace `USERNAME` with your username and `VERSION` with the version numbers in the unzipped directory names)**:
 
