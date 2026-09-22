@@ -212,7 +212,7 @@ CoffeePot is a command-line ixml processor. It's good for simple grammars and sm
 
 1. Visit the NineML releases page:
 	<https://codeberg.org/NineML/nineml/releases>
-1. Download the CoffeePot ZIP file from the latest release.
+1. Scan down the page until you find **the specific CoffeePot ZIP** file from the latest release. Download that ZIP. 
 1. Unzip it into your GitHub directory. About this:
     * **Be patient** if you're on campus wifi: it might
 take a minute to fully download.
