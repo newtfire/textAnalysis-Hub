@@ -247,7 +247,8 @@ CoffeePot uses a `.nineml.properties` file in your home directory. This contains
 	nano ~/.nineml.properties
 	```
 
-1. Add configuration settings:
+1. Add configuration settings: NOTE: if you see errors when running the smoke test after this, it may be because dot (graphiz) is installed in a different location on your computer. Find out where it is by entering `where dot`. 
+Update the graphviz variable in .nineml.properties accordingly.
 
 	```shell
 	graphviz=/c/Program Files/Graphviz/bin/dot.exe
