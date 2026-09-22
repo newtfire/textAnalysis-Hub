@@ -131,7 +131,8 @@ The Java Development Kit (OpenJDK) java environment is required for some of the 
 	choco install openjdk
 	```
 
-1. Open up the app called System Properties.
+1. Open up the app called System Properties. (If you can't find it, use the Windows search and plug in "environment variables".)
+
 1. Navigate to Advanced > Environment Variables... > JAVA_HOME
 1. Edit the `JAVA HOME` variable and paste the location where OpenJDK was installed (if you are unsure where this is, you can open a Git Bash shell, type `where java`, and copy that filepath).
    * *Note: the path needs to be to the folder that's inside `OpenJDK`. It should look something like `C:\Program Files\OpenJDK\jdk-22.0.2\`.*
