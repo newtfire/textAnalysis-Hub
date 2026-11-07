@@ -131,7 +131,8 @@ The Java Development Kit (OpenJDK) java environment is required for some of the 
 	choco install openjdk
 	```
 
-1. Open up the app called System Properties.
+1. Open up the app called System Properties. (If you can't find it, use the Windows search and plug in "environment variables".)
+
 1. Navigate to Advanced > Environment Variables... > JAVA_HOME
 1. Edit the `JAVA HOME` variable and paste the location where OpenJDK was installed (if you are unsure where this is, you can open a Git Bash shell, type `where java`, and copy that filepath).
    * *Note: the path needs to be to the folder that's inside `OpenJDK`. It should look something like `C:\Program Files\OpenJDK\jdk-22.0.2\`.*
@@ -211,7 +212,7 @@ CoffeePot is a command-line ixml processor. It's good for simple grammars and sm
 
 1. Visit the NineML releases page:
 	<https://codeberg.org/NineML/nineml/releases>
-1. Download the CoffeePot ZIP file from the latest release.
+1. Scan down the page until you find **the specific CoffeePot ZIP** file from the latest release. Download that ZIP. 
 1. Unzip it into your GitHub directory. About this:
     * **Be patient** if you're on campus wifi: it might
 take a minute to fully download.
@@ -246,7 +247,8 @@ CoffeePot uses a `.nineml.properties` file in your home directory. This contains
 	nano ~/.nineml.properties
 	```
 
-1. Add configuration settings:
+1. Add configuration settings: NOTE: if you see errors when running the smoke test after this, it may be because dot (graphiz) is installed in a different location on your computer. Find out where it is by entering `where dot`. 
+Update the graphviz variable in .nineml.properties accordingly.
 
 	```shell
 	graphviz=/c/Program Files/Graphviz/bin/dot.exe

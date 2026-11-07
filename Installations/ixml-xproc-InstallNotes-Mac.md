@@ -199,7 +199,7 @@ CoffeePot is a command-line ixml processor. It's good for simple grammars and sm
 
 1. Visit the NineML releases page:
 	<https://codeberg.org/NineML/nineml/releases>
-1. Download the CoffeePot ZIP file from the latest release.
+1. Scan down the page until you find the **specific CoffeePot ZIP file** from the latest release. Download that ZIP.
 1. Unzip it into your GitHub directory.
 
 ### Creating an Alias for CoffeePot
@@ -351,7 +351,7 @@ Calabash is an XProc 3.0 processor developed by the same people that made the Co
 
 1. Visit:
 	<https://codeberg.org/xmlcalabash/xmlcalabash3/releases>
-1. Download the latest release ZIP.
+1. Look for the latest release ZIP with the name **xmlcalabash-3.X.Y.zip** where “X” and “Y” are the release number (for example, 3.0.0). Download that specific ZIP.
 1. Unzip it into your GitHub directory.
 1. Navigate to the directory **(replace `VERSION` with the latest version that you downloaded—the version in the unzipped directory name)**:
 
@@ -414,6 +414,13 @@ Change that value to wherever your local dot is stored (as in `dot="/opt/local/b
 	```shell
 	calabash helloWorld.xpl
 	```
+ 1. Do you see a permissions error? If you do, we need to set execute permissions on the xmlcalabash.sh file. In your terminal (still navigated to the `xmlcalabash-VERSION` directory) type in:
+ 
+ ```shell
+ chmod +x xmlcalabash.sh
+```
+
+Now try running the previous step again: `calabash helloWorld.xpl`
 
  1. You should see the following message:
 
@@ -512,7 +519,7 @@ Now, we need to make sure Morgana’s executable script (`Morgana.sh`) can locat
 	nano Morgana.sh
 	```
 
-1. Locate the section marked `#Local customization`.
+1. Somewhere near the top of the file, add a section marked with the comment: `#Local customization`.
 
 	Add and adjust the following lines **(replace `USERNAME` with your username and `VERSION` with the version numbers in the unzipped directory names)**:
 
@@ -520,7 +527,7 @@ Now, we need to make sure Morgana’s executable script (`Morgana.sh`) can locat
 	#Local customization
 	SAXON_JAR=/Users/USERNAME/Documents/GitHub/xmlcalabash-VERSION/lib/Saxon-HE-VERSION.jar
 	COFFEEGRINDER_JAR=/Users/USERNAME/Documents/GitHub/coffeegrinder-VERSION/CoffeeGrinder-VERSION.jar
-	COFFEEFILTER_JAR=/Users/USERNAME/Documents/GitHub/coffeefilter-VERSION/CoffeeFilter-VERSION.jar
+	COFFEEFILTER_JAR=/Users/USERNAME/Documents/GitHub/coffeefilter-VERSION/coffeefilter-VERSION.jar
 	BLITZ_JAR=/Users/USERNAME/Documents/GitHub/markup-blitz/build/libs/markup-blitz.jar
 	```
 
